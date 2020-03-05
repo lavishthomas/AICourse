@@ -11,3 +11,8 @@ git pull origin master
 git add -A
 git commit -m "First class "
 git push origin master
+
+
+%%writefile my_file.txt
+
+This 
