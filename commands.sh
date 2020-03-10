@@ -15,4 +15,6 @@ git push origin master
 
 %%writefile my_file.txt
 
-This 
+python -m spacy download en
+
+https://github.com/jamesconnollylyit/AI2Shared2020 
