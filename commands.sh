@@ -1,4 +1,4 @@
-Conda env create -f nlp_environment.yml
+conda env create -f nlp_environment.yml
 conda activate AI2_course
 conda deactivate
 
