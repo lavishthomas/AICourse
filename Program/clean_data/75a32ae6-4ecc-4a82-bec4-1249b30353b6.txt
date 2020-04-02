@@ -1,0 +1,37 @@
+STATE COLLEGE, Pa. — Despite a bank of large, west-facing windows, the staff of SunsetWx sat facing east. Twitter is the SunsetWx team’s window. It was a Wednesday evening on Pennsylvania State University’s campus, in late March, and three men were facing a windowless wall, staring at computer monitors. Outside, the sun fell quietly toward the horizon.
+
+One of the monitors displayed hundreds of sunset photos as they streamed in via tweets. At last, the sunsets in the East were beginning to pour in: Florida, New York, Boston, Pittsburgh, and unidentified backyards and office windows up and down the coast. The team didn’t have time to admire the sunset behind them — they were too busy comparing the country’s reality to their projections.
+
+This is a nightly ritual for SunsetWx, a group of three men who have devoted the last six months to predicting the beauty of sunsets.
+
+SunsetWx (Wx is meteorological shorthand for “weather”) was conceived last September, when Jacob DeFlitch, a meteorology graduate of Penn State, pitched the idea to Ben Reppert, a former classmate, and Steve Hallett, an undergraduate. DeFlitch is a photographer who wanted to take pictures of beautiful sunsets, but also wanted to avoid wasting time trekking to his favorite spots if the light wasn’t going to be right. Within a few weeks they had crafted an algorithm to predict the beauty of an evening’s sunset. It launched in November.
+
+Sunset Prediction: Decent amount of blue on the map. However, some patchy color! Tweet pics! https://t.co/zKlcEtDNTD pic.twitter.com/72tSCkkdYM — Sunset Weather (@sunset_wx) April 10, 2016
+
+SunsetWx’s underlying data is the 4 km NAM, or the North American Mesoscale Forecast System, run by the National Oceanic and Atmospheric Administration. (SunsetWx relies on the GFS, or Global Forecast System, for its international predictions.) Moisture, pressure, cloud cover and other factors are put through the algorithm, and the final output looks just like a colorful weather map. But in this case, warmer colors don’t mean warmer weather but rather a more vibrant sunset.
+
+The most important factor, according to the team, is high clouds. Those provide the moisture that refracts the sunlight, and they act as a kind of movie screen onto which that light is projected.
+
+To verify their model, the three exploit that most quotidian of social media posts: the sunset photo. Via a Twitter account, they monitor sunsets across the country. They evaluate the beauty of the sunsets in the photos, cross-reference the location to their model’s prediction map, and use the results to evaluate and improve the model. Sunsets are evaluated on a scale of “vibrancy” — a subjective measure, the team admits, but one that has proved fruitful for their project. The team estimates it spends six man-hours, every single night, doing this.
+
+“If social media wasn’t a thing, I don’t know that we would’ve gotten off and running like we did,” Reppert said. The predictions have been featured on some local TV news, right alongside weather and traffic, and SunsetWx has become an official company, with hopes of beefing up staff and monetizing its predictions in the future.
+
+Earlier that day, before driving to State College, I checked the forecast. Clear, with a high of 60, no real chance of rain. But this time I had no interest in the weather per se; the sunset forecast was all I really cared about. It didn’t look overly promising, with central Pennsylvania awash only in a pale yellow-green:
+
+State College is not a municipality renowned for the majesty of its sunsets. Indeed, it’s absent from every single listicle I’ve read on the subject. The Grand Canyon, Stonehenge, Angkor Wat, Santorini, Bora Bora — these are the real heavy hitters, sunset-wise. (The predictors told me that, in their quantified experience, Phoenix is the U.S. standout.)
+
+But I held out hope. Later that evening, the three predictors and I took the elevator to the roof. There we stood, eagerly staring toward the horizon. The roof of Walker Building is also the official weather station for State College — it’s adorned with thermometers and wind and precipitation gauges, which are dutifully checked by an undergrad each day at 7 a.m. It was chilly — maybe a touch above 50, with wind gusts topping 20 miles per hour — and my party was jacketless and shivering. Not even weathermen are immune to the weather.
+
+We waited, and chatted. While they now spend a lot of time focusing on one of nature’s most serene spectacles, all three became interested in weather after witnessing it at its most turbulent. For Reppert and Hallett, it was Hurricane Floyd in 1999, which caused Reppert’s first day of kindergarten to be canceled (“I thought that was the coolest thing”) and flooded Hallett’s childhood home (“That solidified it for me”). For DeFlitch, it was a tornado that touched down two miles from his campsite.
+
+We waited some more. And then this happened:
+
+I gave it a 4 for effort and a 2 for execution. But I give SunsetWx a 9 for accuracy.
+
+SunsetWx can improve as the data improves. The team says aerosol data — wildfires, smoke, ozone, pollution — could be very helpful. Reppert cited last summer’s Canadian wildfires, the smoke from which made its way down to Washington, D.C., creating dazzling sunsets when none were expected. But this sort of data is sparse and available only in hard-to-use formats, and isn’t yet on NOAA’s platform.
+
+But why do this? Aside from saving a few minutes for a few landscape photographers, what does it mean to predict beauty? While the others demurred, one member of the team waxed a little poetic for me.
+
+Hallett spoke of the splendor of sunsets. Like the sabermetrician who also enjoys an evening in the bleachers, a prediction site might enhance sunsets’ natural beauty, rather than detract from it. The data is a complement, not a substitute. Hallett remembers one sunset in particular — a special beauty from late November, after a gross, rainy day. The front cleared, the sun set, and everybody stopped in their tracks to admire it. His Snapchat was blowing up with the evidence. He was home for break, and his mom found him to make sure he saw the sunset. And sure enough, earlier that morning, the model had output a swath of deep red all across the area. “It picked it up just fine. It nailed the forecast,” he said.
+
+As the sun finished setting in State College, the team still had work to do — it wouldn’t set on the West Coast for a couple more hours, and they’d need to monitor that. And even then, their work wouldn’t be complete. The sun will set again tomorrow. And I am told by the team that rainbow predictions may be next.

@@ -1,0 +1,43 @@
+Art and Artificial Intelligence Laboratory, Rutgers University
+
+Now and then, a painter like Claude Monet or Pablo Picasso comes along and turns the art world on its head. They invent new aesthetic styles, forging movements such as impressionism or abstract expressionism. But could the next big shake-up be the work of a machine?
+
+An artificial intelligence has been developed that produces images in unconventional styles – and much of its output has already been given the thumbs up by members of the public.
+
+The idea is to make art that is “novel, but not too novel”, says Marian Mazzone, an art historian at the College of Charleston in South Carolina who worked on the system.
+
+Advertisement
+
+Learn about the future of AI: See DeepMind founder Demis Hassabis speak at New Scientist Live in London
+
+The team – which also included researchers at Rutgers University in New Jersey and Facebook’s AI lab in California – modified a type of algorithm known as a generative adversarial network (GAN), in which two neural nets play off against each other to get better and better results. One creates a solution, the other judges it – and the algorithm loops back and forth until the desired result is reached.
+
+In the art AI, one of these roles is played by a generator network, which creates images. The other is played by a discriminator network, which was trained on 81,500 paintings to tell the difference between images we would class as artworks and those we wouldn’t – such as a photo or diagram, say.
+
+The discriminator was also trained to distinguish different styles of art, such as rococo or cubism.
+
+Art with a twist
+
+The clever twist is that the generator is primed to produce an image that the discriminator recognises as art, but which does not fall into any of the existing styles.
+
+“You want to have something really creative and striking – but at the same time not go too far and make something that isn’t aesthetically pleasing,” says team member Ahmed Elgammal at Rutgers University.
+
+Once the AI had produced a series of images, members of the public were asked to judge them alongside paintings by people in an online survey, without knowing which were the AI’s work. Participants answered questions about how complex or novel they felt each image was, and whether it inspired them or elevated their mood. To the researchers’ surprise, images produced by their AI scored slightly higher in many cases than those by humans.
+
+AIs that can tweak photos to mimic the style of famous painters such as Monet are already widely available. There are even apps that do this, such as DeepArt. But the new system is designed to produce original works from scratch.
+
+Outside the comfort zone
+
+“I like the idea that people are starting to push GANs out of their comfort zone – this is the first paper I’ve seen that does that,” says Mark Riedl at the Georgia Institute of Technology in Atlanta.
+
+The results of the survey are interesting, says Kevin Walker at the Royal College of Art in London. “The top-ranked images contain an aesthetic combination of colours and patterns in composition, whereas the lowest-ranked ones are maybe more uniform,” he says (see image above).
+
+Walker also notes that creative machines are already producing work for galleries. For example, two of his students are experimenting with AI that can learn from their drawing style to produce its own images. One, Anna Ridler, has used this technique to develop frames for a 12-minute animated film.
+
+Art such as Ridler’s still relies heavily on human guidance, however. So will we ever value paintings generated spontaneously by a computer?
+
+Riedl points out that the human story behind an artwork is often an important part of what endears us to it.
+
+But Walker thinks the lines will soon get blurry. “Imagine having people over for a dinner party and they ask, ‘Who is that by?’ And you say, ‘Well, it’s a machine actually’. That would be an interesting conversation starter.”
+
+Reference: arxiv.org/abs/1706.07068

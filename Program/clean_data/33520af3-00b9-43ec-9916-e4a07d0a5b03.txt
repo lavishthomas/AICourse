@@ -1,0 +1,61 @@
+The field of Big Data requires more clarity and I am a big fan of simple explanations. This is why I have attempted to provide simple explanations for some of the most important technologies and terms you will come across if you’re looking at getting into big data.
+
+However, if you are completely new to the topic then you might want to start here: What the Heck is... Big Data? ...and then come back to this list later.
+
+Here they some of the key terms:
+
+Algorithm: A mathematical formula or statistical process run by software to perform an analysis of data. It usually consists of multiple calculations steps and can be used to automatically process data or solve problems.
+
+Amazon Web Services: A collection of cloud computing services offered by Amazon to help businesses carry out large scale computing operations (such as big data projects) without having to invest in their own server farms and data storage warehouses. Essentially, Storage space, processing power and software operations are rented rather than having to be bought and installed from scratch.
+
+Analytics: The process of collecting, processing and analyzing data to generate insights that inform fact-based decision-making. In many cases it involves software-based analysis using algorithms. For more, have a look at my post: What the Heck is… Analytics
+
+Big Table: Google’s proprietary data storage system, which it uses to host, among other things its Gmail, Google Earth and Youtube services. It is also made available for public use through the Google App Engine.
+
+Biometrics: Using technology and analytics to identify people by one or more of their physical traits, such as face recognition, iris recognition, fingerprint recognition, etc. For more, see my post: Big Data and Biometrics
+
+Cassandra: A popular open source database management system managed by The Apache Software Foundation that has been designed to handle large volumes of data across distributed servers.
+
+Cloud: Cloud computing, or computing “in the cloud”, simply means software or data running on remote servers, rather than locally. Data stored “in the cloud” is typically accessible over the internet, wherever in the world the owner of that data might be. For more, check out my post: What The Heck is… The Cloud?
+
+Distributed File System: Data storage system designed to store large volumes of data across multiple storage devices (often cloud based commodity servers), to decrease the cost and complexity of storing large amounts of data.
+
+Data Scientist: Term used to describe an expert in extracting insights and value from data. It is usually someone that has skills in analytics, computer science, mathematics, statistics, creativity, data visualisation and communication as well as business and strategy.
+
+Gamification: The process of creating a game from something which would not usually be a game. In big data terms, gamification is often a powerful way of incentivizing data collection. For more on this read my post: What The Heck is… Gamification?
+
+Google App Engine: Google’s own cloud computing platform, allowing companies to develop and host their own services within Google’s cloud servers. Unlike Amazon’s Web Services, it is free for small-scale projects.
+
+HANA: High-performance Analytical Application – a software/hardware in-memory platform from SAP, designed for high volume data transactions and analytics.
+
+Hadoop: Apache Hadoop is one of the most widely used software frameworks in big data. It is a collection of programs which allow storage, retrieval and analysis of very large data sets using distributed hardware (allowing the data to be spread across many smaller storage devices rather than one very large one). For more, read my post: What the Heck is... Hadoop? And Why You Should Know About It
+
+Internet of Things: A term to describe the phenomenon that more and more everyday items will collect, analyse and transmit data to increase their usefulness, e.g. self-driving cars, self-stocking refrigerators. For more, read my post: What The Heck is… The Internet of Things?
+
+MapReduce: Refers to the software procedure of breaking up an analysis into pieces that can be distributed across different computers in different locations. It first distributes the analysis (map) and then collects the results back into one report (reduce). Several companies including Google and Apache (as part of its Hadoop framework) provide MapReduce tools.
+
+Natural Language Processing: Software algorithms designed to allow computers to more accurately understand everyday human speech, allowing us to interact more naturally and efficiently with them.
+
+NoSQL: Refers to database management systems that do not (or not only) use relational tables generally used in traditional database systems. It refers to data storage and retrieval systems that are designed for handling large volumes of data but without tabular categorisation (or schemas).
+
+Predictive Analytics: A process of using analytics to predict trends or future events from data.
+
+R: A popular open source software environment used for analytics.
+
+RFID: Radio Frequency Identification. RFID tags use Automatic Identification and Data Capture technology to allow information about their location, direction of travel or proximity to each other to be transmitted to computer systems, allowing real-world objects to be tracked online.
+
+Software-As-A-Service (SAAS): The growing tendency of software producers to provide their programs over the cloud – meaning users pay for the time they spend using it (or the amount of data they access) rather than buying software outright.
+
+Structured v Unstructured Data: Structured data is basically anything than can be put into a table and organized in such a way that it relates to other data in the same table. Unstructured data is everything that can’t – email messages, social media posts and recorded human speech, for example.
+
+I hope this was useful? As always, I would love to hear your views. Would you add any terms to this list, if so – then please feel free to do so in the comments.
+
+I really appreciate that you are reading my post. Here, at LinkedIn, I regularly write about management and technology issues and trends. If you would like to read my regular posts then please click 'Follow' and send me a LinkedIn invite. And, of course, feel free to also connect via Twitter, Facebook and The Advanced Performance Institute.
+
+Check out other recent LinkedIn Influencer posts by Bernard Marr:
+
+About : Bernard Marr is a globally recognized expert in strategy, performance management, analytics, KPIs and big data. He helps companies and executive teams manage, measure, analyze and improve performance.
+
+His new book is: Big Data: Using Smart Big Data, Analytics and Metrics To Make Better Decisions and Improve Performance
+
+Photo: Shutterstock.com

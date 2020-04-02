@@ -1,0 +1,49 @@
+Black holes are the most intense and mysterious cosmic phenomena in the Universe, and new research shows we understand even less about them than we thought we did.
+
+A long-standing assumption about the physics taking place in the space immediately surrounding these matter-consuming voids has been found to be incorrect, and the discovery could derail decades of scientific theory.
+
+To be fair, studying black holes is really, really hard. For starters, they're pretty much invisible, given they pull in everything in their vicinity – even visible light, which is why we can't see them – plus other forms of radiation, such as X-rays.
+
+But just because they're invisible to our eyes doesn't mean we can't tell they're there.
+
+"Of course, emission directly from black holes cannot be observed," explains physicist Guillaume Loisel from Sandia National Laboratories in Albuquerque, New Mexico.
+
+"We see emission from surrounding matter just before it is consumed by the black hole. This surrounding matter is forced into the shape of a disk, called an accretion disk."
+
+That's because when matter gets pulled in to the accretion disk around a black hole, it becomes intensely heated and produces a bright glow that can be seen by instruments that detect X-rays.
+
+This kind of technique is what's enabled scientists to discover things like matter wobbling around black holes, measure gas flows emanating from them, and record tidal disruption events – where black holes rip entire stars apart.
+
+But there could be a problem with one aspect of the theory around black holes and their accretion disk emissions that might impact much research conducted in the past two decades.
+
+"The catch is that the plasmas that emit the X-rays are exotic," says one of the team, Jim Bailey, "and models used to interpret their spectra have never been tested in the laboratory till now."
+
+To physically recreate the conditions around a black hole as closely as possible, the researchers used Sandia's Z machine – the planet's most powerful X-ray generator.
+
+Their aim was to test something called resonant Auger destruction – the notion that under a black hole's immense gravity and intense radiation, highly energised iron electrons don't emit light in the form of photons.
+
+This assumption has been a mainstay of black hole theoretical physics for some 20 years, but in a massive five-year experiment at Sandia, the team found that resonant Auger destruction didn't occur when they applied intense X-ray energies to a film of silicon.
+
+According to the researchers, silicon experiences the Auger effect more frequently than iron, so the tests should have demonstrated the phenomenon at work if the assumption is true.
+
+"If resonant Auger destruction is a factor, it should have happened in our experiment because we had the same conditions, the same column density, the same temperature," says Loisel.
+
+"Our results show that if the photons aren't there, the ions must be not there either."
+
+The end result may be a victory for showing the power of the black-hole-mimicking Z machine, but it's something of a whitewash for black hole science, because it could mean that some of the astrophysics research in the last two decades could be flawed.
+
+As for what can explain the way we detect accretion disk emissions if resonant Auger destruction doesn't apply, the researchers aren't entirely sure.
+
+"[One] implication could be that lines from the highly charged iron ions are present, but the lines have been misidentified so far," says Loisel.
+
+"This is because black holes shift spectral lines tremendously due to the fact that photons have a hard time escaping the intense gravitation field."
+
+With the lab work done for the time being, solving the puzzle will now fall back to theoretical models, which will need to accommodate or otherwise counter this implicit debunking of resonant Auger destruction.
+
+Doing so might not be easy – nothing in theoretical physics really is – but the team is upbeat about our best scientists being up to the job.
+
+"Our research suggests it will be necessary to rework many scientific papers published over the last 20 years," Loisel explains.
+
+"We are optimistic that astrophysicists will implement whatever changes are found to be needed."
+
+The findings are reported in Physical Review Letters.

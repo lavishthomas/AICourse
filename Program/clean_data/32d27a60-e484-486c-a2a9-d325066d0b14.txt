@@ -1,0 +1,25 @@
+Image: Randy Montoya/Sandia
+
+Should you find yourself inside a black hole, you will die. Should you find yourself near a black hole, you will also die. Aside from the fact that these massive, light-trapping monsters are impossible to reach on human timescales, there are simply not many ways to measure the plasma surrounding them without dying or destroying the experiment. Scientists have to make do by recreating some of the features in the lab.
+
+
+
+But one such attempt in New Mexico has yielded some theory-busting results. Researchers used the Sandia Z experiment at Sandia National Lab to create a plasma, a gas with an electric charge, similar to the plasma surrounding black holes, using the most powerful laboratory radiation source on Earth. But theories of the plasma surrounding active galactic nuclei, the bright, energetic, jet-spewing black holes at the center of some galaxies, don’t match up with the properties of the plasma observed in the lab. This could potentially change scientists’ understanding of the nature of black holes’ surroundings.
+
+Advertisement
+
+“Such benchmarked models” like those produced at Sandia Z “may then help refine the active galactic nuclei observation interpretations,” the authors write in the study, published this month in Physical Review Letters.
+
+From what scientists have gathered, these incredibly bright active galactic nuclei are surrounded by hot plasma from the objects torn apart by the incredibly high gravity of the black hole. These plasmas become photoionized, meaning light particles give atoms an electric charge via various processes. At present, telescopes measure the plasmas by recording specific wavelengths of light in the x-ray spectra. Scientists can use this data to measure these sources’ brightness, help guess the mass and spin of the black hole, and measure what kind of stuff the accretion disk, the ripped-up disk of plasma orbiting the black hole, is made from.
+
+The researchers at Sandia Z recreated this plasma by blasting silicon with pulses of extremely high-energy x-rays; each pulse has roughly the same amount of energy as running one of these electric heaters for 20 minutes or so. The researchers then measured the emission spectra of the plasmas, which is similar to the measurement you do in high school chemistry where you try and identify a gas by looking at its spectral lines (except you can’t see x-rays with your eyes).
+
+Advertisement
+
+Astronomers have for a long time noticed that some spectral lines seem to be missing from black holes, and theorized that certain elements might still exist without showing themselves, Lynn Matthews, Research Scientist at the MIT Haystack Observatory not involved in the study explained in an email. “These new laboratory data suggest that this explanation does not work, and that the presence of a given element should be revealed in the spectrum if it is there,” she said. And that’s important. “An implication is that the properties of black hole accretion disks (density, composition, size, etc.) may be somewhat different than astronomers previously thought.”
+
+As for what that means to future astronomical observations and scientists’ understanding of black holes, “This work... shows that an assumption which has gone into our atomic models is importantly flawed,” Jack Steiner, an Einstein Postdoctoral Fellow at MIT not involved in the study told Gizmodo in an email. That has important implications. But he also pointed out limitations—after all, these aren’t truly black holes producing the plasma. The black hole’s specific combination of x-rays could also change the result.
+
+But Steiner, Matthews and others agreed about the importance of the result. Javier Garcia at Caltech told Gizmodo in an email: “It is truly remarkable that in a laboratory on Earth into plasma opacities, the Sandia Z group are connecting and shedding light on plasma processes in both the Sun and in accretion disks around black holes.”
+
+[PRL]

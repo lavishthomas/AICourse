@@ -1,0 +1,32 @@
+The Empty Sky Paradox: Why Are Stars (in Your Professional Field) So Rare?
+
+February 2nd, 2014 · 19 comments
+
+The Empty Sky Paradox
+
+In many fields, people are eager to produce top results. A non-trivial fraction of the Internet is dedicated to tips and hacks for accomplishing this exact goal.
+
+So why are so few people stars?
+
+This past week provided me a good opportunity to reflect on this question. I attended a Dagstuhl seminar on wireless algorithms, which means I spent a week in a castle (pictured above), tucked away in rural west Germany, working with top minds in my particular niche of theoretical computer science.
+
+Here’s what I noticed:
+
+In theory, the people who tend to consistently produce important work seem to be those who consistently take the time to decode the latest, greatest results in their subject area.*
+
+Only when you’re at the cutting edge are you well-positioned to spot and conquer the most promising adjacent intellectual territory (for more detail on this idea, see Part 3 of SO GOOD).
+
+This sounds like simple advice — stay up to date on the latest work! — but most practicing researchers probably don’t follow it. Why? Because this turns out to be incredibly hard work.
+
+(These results are tricky, and presented in short conference papers where key mathematical steps are elided, requiring days [and sometimes much more] to decode.)
+
+This brings me back to the general question of why most fields have so few stars. The answer, I conjecture, is that most fields are similar to theoretical computer science in that the path to becoming a standout includes a prohibitively difficult step. It’s this step that limits stars, as most people simply lack the comfort with discomfort required to tackle really hard things.
+
+At some point, in other words, there’s no way getting around the necessity to clear your calendar, shut down your phone, and spend several hard days trying to make sense of the damn proof.
+
+(Photo by Nic McPhee)
+
+###
+
+* This is a skill that I’ve been systematically developing for the last three to five years. I’m better than I was, but not yet as good as I want to be. I can attest from personal experience that these proof decoding efforts: (a) are extremely difficult — deep work purified to its most stringent form; (b) are crucial for producing useful results; and (c) get easier (though, quite slowly) with practice.
+

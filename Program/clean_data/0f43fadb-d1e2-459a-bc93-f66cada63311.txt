@@ -1,0 +1,21 @@
+At Backblaze we now have 34,881 drives and store over 100 petabytes of data. We continually track how our disk drives are doing, which ones are reliable, and which ones need to be replaced.
+
+I did a blog post back in January, called “What Hard Drive Should I Buy?” It covered the reliability of each of the drive models that we use. This month I’m updating those numbers and sharing some surprising new findings.
+
+Reliability of Hard Drive Brands
+
+Losing a disk drive at Backblaze is not a big deal. Every file we back up is replicated across multiple drives in the data center. When a drive fails, it is promptly replaced, and its data is restored. Even so, we still try to avoid failing drives, because replacing them costs money.
+
+We carefully track which drives are doing well and which are not, to help us when selecting new drives to buy.
+
+The good news is that the chart today looks a lot like the one from January, and that most of the drives are continuing to perform well. It’s nice when things are stable.
+
+The surprising (and bad) news is that Seagate 3.0TB drives are failing a lot more, with their failure rate jumping from 9% to 15%. The Western Digital 3TB drives have also failed more, with their rate going up from 4% to 7%.
+
+In the chart below, the grey bars are the failure rates up through the end of 2013, and the colored bars are the failure rates including all of the data up through the end of June, 2014.
+
+Share this Image On Your Site
+
+<a href="https://www.backblaze.com/blog/hard-drive-reliability-update-september-2014"><img src="https://www.backblaze.com/blog/wp-content/uploads/2014/09/blog-fail-drives-manufactureX.jpg" alt="Hard Drive Failure Rates by Model" width="560" border="0" /></a>
+
+You can see that all the HGST (formerly Hitachi) drives, the Seagate 1.5 TB and 4.0 TB, and Western Digital 1.0 TB drives are all continuing to perform as well as they were before. But the Seagate and Western Digital 3.0 TB drives failure rates are up quite a bit.

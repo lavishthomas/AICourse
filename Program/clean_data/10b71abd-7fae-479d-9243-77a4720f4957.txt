@@ -1,0 +1,130 @@
+When Tal Golesworthy was told he was at risk of his aorta bursting, he wasn’t impressed with the surgery on offer — so he came up with his own idea.
+
+Lunchtime at a small medical engineering company in Tewkesbury. The entertainment thoughtfully laid on to garnish our sandwiches is a colorful video: a neat bit of cardiovascular surgery featuring someone’s heart and blood vessels.
+
+Someone? Well, not quite anyone. The exposed and beating heart at which we’re gazing belongs to one of my dining companions. Tal Golesworthy, 60, is balding, quick-talking and often outspoken. He’s also – a clue here – tall, with unusually long fingers.
+
+Getting on for 15 years ago Golesworthy learned that unless he was prepared to undergo major surgery on one of the vessels carrying blood away from his heart, he faced an increasing risk of premature death. He didn’t relish the prospect of an operation; but even more upsetting was the knowledge of what this particular procedure would involve.
+
+Golesworthy is neither a doctor nor any kind of medical researcher. He’s an engineer. But with characteristic self-belief he reckoned he could devise a simpler and safer way of fixing his problem. And he did. He then persuaded a surgeon to take him seriously, became the guinea pig for the first operation, and now runs a company set up to manufacture implants like the one buried in his own chest. It’s been there for a decade, and it’s keeping him alive.
+
+Golesworthy is neither a doctor nor any kind of medical researcher.
+
+Golesworthy’s experience is notable for his persistence and single-minded determination. But there’s more to it than that. It raises questions about innovation in surgery, the acceptance of new procedures and the research required to test them. And it flags up the likelihood that other patients with other diseases are harboring similarly ingenious or radical ideas.
+
+Tal Golesworthy has Marfan syndrome. The man memorialized by this name, Antoine Bernard-Jean Marfan, was a Paris pediatrician. In an 1896 case presentation he described a five-year-old girl with unusually long limbs, fingers and toes. It was not Marfan himself who named the condition, but one of his successors. Paradoxically, it is not even certain that the girl really was suffering from what now constitutes Marfan syndrome – but the name stuck.
+
+The disorder is genetic in origin, either by inheritance or by spontaneous mutation. Besides their long, slender bones – and so their unusual height – people with the syndrome may have loose and flexible joints and various eye problems. The ultimate cause of all this is an error in the genes responsible for a protein called fibrillin, an essential component of the elastic fibers found in, among other tissues, the blood vessels. And this accounts for one of the biggest threats that Marfan syndrome presents to Tal Golesworthy and his fellow sufferers. The abnormality leaves one of their major vessels weakened and less able to cope with the strain imposed upon it by the pressure of the blood within.
+
+One of the body’s biggest arteries, the aorta, receives blood straight from the left ventricle of the heart. The blood arrives not in a steady stream but in pulses. The aorta acts as a kind of hydraulic shock absorber, successively expanding and contracting as the pressure within it rises and falls. Any weakness in the wall of the aorta can allow the development of a balloon-like bulge, an aneurysm. For whatever reason, the weakest point of the aorta in people with Marfan syndrome is its root, the section adjacent to the valves guarding the exit from the left ventricle. If an aneurysm ruptures, the consequent internal bleeding is potentially fatal.
+
+Golesworthy was five or six when he learned that he had Marfan syndrome. His father also had it. “He was 6 foot 8 inches and had very poor visual acuity,” Golesworthy recalls. But doctors then seem to have been less aware of the hazards of the condition. Golesworthy himself had no idea of its implications for his aorta until he was in his 30s. By then the blood vessel was already enlarged – and it was then he was told of the need for surgery.
+
+Introduced in 1968 and reliant on a heart–lung machine temporarily to maintain the flow of blood around the body, the standard operation involves the removal of the first and weakest section of the aorta along with the adjacent heart valves. The surgeon then replaces the aorta with a length of stiff tubing made of the polyester Dacron, and the natural valves with mechanical ones.
+
+The drawback is that mechanical valves are apt to generate blood clots. Lifelong anticoagulant drug treatment minimises this risk of an embolism, but creates hazards of its own. Users are at increased risk in any illness or injury that causes bleeding. “You’re constantly walking a tightrope between an embolism and a bleed,” Golesworthy explains.
+
+To say he was unenthusiastic would be an understatement. “I wasn’t desperately keen on the idea of surgery,” he confides, “but what really distressed me was the thought of life on anticoagulant drugs.”
+
+Although he didn’t know it at the time, surgeons had devised a version of the operation in which the patient’s own valves are left in place, so avoiding the need for anticoagulants. Problem solved? It seems not. Although this operation is also effective, it has a higher long-term failure rate. So here’s the choice: a good success rate at the price of lifelong anticoagulants; or avoid anticoagulants but face a greater chance of having to go through the whole procedure again.
+
+Golesworthy doesn’t know why he wasn’t offered the alternative operation, but suspects it had more to do with the subjective preferences of individual surgeons than with hard data. Either way, he’d already begun to wonder if there might be a third way: one better than either of the two on offer.
+
+Golesworthy saw the aortic weakness with the eyes not of a doctor but an engineer. Why replace failing pipework, he asked himself, when it would be simpler to shore up what’s already there. “I said to myself, hang on, we can scan the aorta, we can use CAD [computer-aided design], we can produce a totally bespoke support. We can do this.”
+
+If there were such a thing as an engineering gene, you could be confident that Golesworthy had inherited it. His father was an aeronautical engineer. “As soon as I could walk I’d pick up a screwdriver and start taking things apart. I had the back off the telly when I was about six.”
+
+Golesworthy achieved his chartered engineering status the hard way. He began by studying materials science but didn’t like the course, dropped out, joined the Coal Research Establishment and discovered part-time education. “I couldn’t get engaged with university,” he says. He worked on a variety of topics from process chemistry to air pollution control; he became familiar with all sorts of instruments and technologies, including the use of textiles in fabric filters.
+
+Golesworthy’s inspiration for his surgical invention grew out of a basic plumbing remedy for a leaking pipe: wrap something round it. This simple ploy had already occurred to surgeons, but they’d used stiff materials; when in place these tend to move out of position or cut into side vessels branching off the aorta.
+
+Golesworthy had no idea that surgeons had already tried and abandoned the wrapping idea. In any case the engineer in him rejected it, too. “You look at the shape [of the aorta] and know you’ve got to apply a uniform force over the entire thing. How can you get that by wrapping it?” Instead, he envisaged something more sophisticated: an external, made-to-measure covering, a sleeve that would prevent the aorta’s dangerous ballooning. In due course the procedure acquired a fancy name: PEARS, standing for ‘personalized external aortic root support’.
+
+His proposal was to use a CT scanner to plot the three-dimensional shape of the aortic root. With the right computer software, rapid-prototyping technology (3D printing) could then be used to make a life-sized model of the vessel. This would serve as a former on which to make an individualized textile sleeve of the shape and size to fit around the aorta and prevent its further expansion. And not a stiff sleeve, but a soft, pliable, knitted, porous mesh. In opting for this, Golesworthy was able to call on the knowledge he’d acquired through using textiles as filters during his coal industry days.
+
+But there was still a hurdle: how do you launch a medical innovation if you’re an engineer with no professional involvement in healthcare? Golesworthy decided to make his pitch during one of the Marfan Association’s annual information meetings for patients about 15 years ago. One of the speakers was Tom Treasure. Now attached to the Clinical Operational Research Unit at University College London, a group that seeks practical solutions to problems in clinical medicine, Treasure was then a practicing cardiothoracic surgeon.
+
+Treasure recalls how Golesworthy approached him at the end of his lecture.
+
+“Now then, Professor, about all this cutting out,” he said. “You ought to get up to date and use a bit of CAD modeling.” Treasure had no idea what Golesworthy was talking about. “Tal was using engineering jargon. ‘We can do RP,’ Tal told me. I hadn’t a clue then what rapid prototyping was.” But Treasure was intrigued. In subsequent conversations he began to understand and thought it had the makings of a good idea. “I’ll give this man the best hearing I can,” he decided.
+
+He did, and the idea started to acquire momentum. “All credit to Tom,” says Golesworthy. “He opened the doors to the medical world, and away we went.”
+
+How do you launch a medical innovation if you’re an engineer with no professional involvement in healthcare?
+
+Treasure was not in a position to perform the pioneering operation himself, so the next task was to find a surgeon who could do it. As he was well aware, many surgeons would simply have rubbished the proposed new technique. In fact many did, and even now some remain to be convinced. Treasure approached John Pepper, a professor of cardiothoracic surgery in the National Heart and Lung Institute at Imperial College London: someone else Treasure describes as “prepared to buck the trend”. Pepper’s response was positive.
+
+I arrange to meet Pepper at the Royal Brompton Hospital. He turns out to be a solidly built man, jovial and friendly, but with the decisive manner you might expect of one of the UK’s leading heart surgeons. Coming himself from an engineering family, he clearly admires the profession that, by entering medicine, he chose not to follow. “We live in different worlds. Engineers are interested in everything down to a ten-thousandth [of an inch]. In biology we’re nowhere near that kind of precision.” It’s not surprising that he too had been quick to see the virtues of creating a model of the patent’s aorta and fashioning a made-to-measure support. “It needed an engineer to tell us poor doctors how to do things,” he says.
+
+There was still the problem of money. Having failed to attract support from one of the big heart charities, Golesworthy was beginning to feel under pressure. He was still reluctant to undergo conventional surgery, but his aorta was in escalating need of repair. In the end he raised the money by starting a company called Exstent Ltd to look for investors. He had only one customer in mind at this point – himself.
+
+Because he lacked the necessary CAD skills, he also sought the help of engineers at Imperial College London. “When you’re as motivated as I was, you make things happen. If you’ve got to blag your way in, you blag your way in… My aorta was dilating and I had to get on with it.”
+
+Tal Golesworthy is not, of course, the first person with an illness to have devised a new and better way of coping. Some patient associations have cottoned on to this and do their best to spread the word. What we’ve lacked is a central repository for all such ideas. No longer.
+
+Patient Innovation is a website set up by a group at the Católica Lisbon School of Business and Economics. It allows patients who’ve developed their own solutions for their illnesses to share what they’ve learned or invented. The project leader is Pedro Oliveira. His original interest was in user innovation generally: the part that people who use products and services can play in developing new strategies and procedures.
+
+“What we found in our research was that patients often developed amazing devices and strategies,” says Oliveira. “But we also found that this information often doesn’t diffuse. Their main aim is to fix their own problems, not to help others.” Even if the thought of spreading the word does cross their minds, they don’t usually know how to go about it.
+
+Oliveira and his colleagues launched Patient Innovation in February 2014, and he tells me they have received over 1,200 independent submissions. A medical team screen them all; about half have been judged worth putting on the website.
+
+Golesworthy was among the invited speakers at Patient Innovation’s inaugural meeting, and has since been selected for one of its annual awards. Another has gone to Louis Plante, a 26-year-old Canadian with cystic fibrosis. His idea was for a hand-held acoustic device to aid airway drainage.
+
+The lungs of people with cystic fibrosis tend to produce a large amount of thick mucus, and various methods have been devised for moving or dislodging it to allow it to be coughed up. While sitting close to the large speakers at a rock concert Plante began coughing. He wondered if it might have been induced by mucus dislodged as a consequence of low-frequency vibrations in his chest. An electronics technician by trade, he devised a machine for simulating this effect. It worked. He used his own knowledge to ease his own problem – and then commercialized it.
+
+Other awards have been given for a sensor that sends signals to a mobile phone when an ostomy bag is full, for a walking stick for blind people that can separately detect objects at head, waist and foot level, and for foldable wheels to make wheelchairs more easily portable. How many other such ingenious ideas might there be, similarly ripe for dissemination?
+
+By 2004, Golesworthy had convinced investors to part with enough money, and the remaining wrinkles in the manufacturing process had been ironed out. It was time to go into the operating theatre.
+
+“I always said I’d be the first patient,” Golesworthy recalls. “Then I was persuaded that I should stand there in the theatre with the surgeon, John Pepper, in case there were any hiccups. But the guy we had lined up dropped out at the last minute.” So Golesworthy had his way; he was after all to be the guinea pig.
+
+Although pleased to be patient number one, Golesworthy did not enjoy his ten-day wait for the operation. “I was absolutely beside myself. I couldn’t concentrate, I couldn’t work, I couldn’t eat, I was totally agitated. It was awful.” What he found unnerving was the prospect of surgery per se; in the sleeve itself he had total confidence. Fully justified, as things turned out.
+
+When I asked Golesworthy if I could pay a visit to the company’s premises in Tewkesbury where the implants are made, he pointed out that there was virtually nothing to see. He was right. It’s even less exciting than our lunchtime sandwiches. All I can do is peer through the glass panels of the clean room where the implants are made – by Golesworthy himself.
+
+Each is cut from a sheet of polyethylene terephthalate, a thermoplastic polymer resin chemically similar to Dacron but woven into a soft textile. About the size of a large sausage, though slightly longer and fatter, the shape is created by wrapping the textile round its customised former, and completed with a seam up one side – which the surgeon unpicks in the theatre and resews once the sleeve is in place round the aorta. It takes Golesworthy about a day to make a couple of them, and it’s quite fiddly. Although the device is protected by patent, he remains coy about the detail of making them. There is, perhaps, an element of craft skill in the process.
+
+The sleeve – it goes by the trade name ExoVasc – arrives in the operating theatre wrapped on its former. When it is in place around the aorta the surgeon secures it by sewing up its single axial seam. Quicker, simpler, safer – and with no need to interrupt normal blood flow.
+
+Thinking back to that first operation, Pepper says he was 95 per cent confident that the procedure would succeed. “Of course,” he says, “I’d discussed it with the patient.” He then laughs, reflecting on the absurdity of discussing the pros and cons of the implant with the man who’d invented it.
+
+Up until this point Golesworthy had been focused on fixing his own problem. “Once I’d sorted myself out,” he says, “I thought, now I can help others.” Had Golesworthy’s implant failed, the company he’d set up would have been left mired in debt. Even success has been hard work: “It’s becoming a viable business. But from 2004 to about 2014 we were doing risible numbers of patients and struggling to survive… If I had my time again I doubt I’d do it,” he admits.
+
+Thus far the results of PEARS have been impressive. The procedure is quicker than either variant of the conventional surgery and requires no interruption of the patient’s own blood circulation.
+
+Of the two variants of the conventional operation, the one involving removal of the natural heart valves is more durable – but the combined risk of a bleed or thromboembolism created by the lifelong need for anticoagulant drugs comes out at an annual 0.7 per cent. That doesn’t sound too bad – until you realise that a patient who lives for 40 years after the operation faces a more worrisome overall risk of around one in four. The valve-sparing variant does not require anticoagulant drugs, but is less durable. The annual reoperation rate appears to be 1.3 per cent, so if the patient lives for 40 years the overall risk is more than two in five.
+
+Thus far the results of PEARS have been impressive.
+
+An early study showed that the textile sleeve does indeed halt the progressive and dangerous expansion of the aortic root. A 2013 analysis of the first 34 patients, with periods since surgery of between 3 and 103 months, revealed no problems with the vessel. One patient died, but this was unrelated to the procedure itself.
+
+Contrary to earlier fears, the sleeve stays exactly where it’s placed. Moreover, the findings of an autopsy carried out on one patient five years after surgery revealed that it seems to become incorporated within the wall of the vessel, which is consequently more robust. The pathologist compared the appearance of the section of the aorta within the sleeve with an adjacent region lying outside it, says Pepper. “The part inside looked normal… Maybe by taking some of the strain off the aorta we were allowing healing to take place.” For the present, though, this tantalising prospect is still speculative.
+
+The process by which surgeons in Britain develop new procedures and decide to adopt them is less clear-cut than that for dealing with new drugs. But the state of near anarchy that once prevailed has given way to regulation by hospital ethics committees, and to a set of guidelines and protocols issued by the Royal College of Surgeons. A company wishing to evaluate a new device by clinical trial must also seek formal approval from the Medicines and Healthcare Products Regulatory Agency (MHRA). Exstent did this early in the history of the PEARS project. For routine use inside the NHS, a device or procedure then has to pass scrutiny by the National Institute for Health and Care Excellence (NICE). Its guidance on PEARS, issued in 2011, was cautiously welcoming – subject, naturally, to the accumulation of further evidence.
+
+As Pepper and Treasure are both aware, the ideal proof of the value of PEARS would be a randomised controlled trial (RCT). These are always difficult in surgery; individual surgeons may differ in the skill with which they perform the same operation, for example. “Tom Treasure and I have discussed this in detail and consulted people at two randomised trial centres,” says Pepper. “We feel it [an RCT] is not feasible.” For reasons that include the relative rarity of Marfan syndrome and the difficulty of finding equally skilled surgeons for all three procedures, this ‘gold standard’ is unlikely to be met. All that Treasure and Pepper can do is encourage surgeons to follow-up their patients and report what they find. “We did patient number 76 yesterday,” Pepper tells me. “My plan is that when we get 100 patients we’ll go back through them all very carefully and report.”
+
+In spite of the evidence of benefit already to hand, gaining acceptance for PEARS has not been easy. Why? Some surgeons are still rejecting it without really listening, according to Pepper. “They don’t recognise the advantages of computer-aided design and rapid prototyping. They think it’s just another old wrap that didn’t work then and probably won’t work now.”
+
+Prompted in part by this initially negative response, Treasure has looked back to other surgical innovations. His broad conclusion is that surgeons will take on a new idea when there is no existing remedy for a problem. But when there is already a solution to hand – a procedure that may have taken years to devise and many more to perfect – they are less than receptive to the claims of an alternative approach that will mean revising or even abandoning a hard-won skill. If the alternative appears simpler and easier, says Treasure, they’re even more sceptical. But as far as PEARS is concerned, he thinks the tide of opinion is turning.
+
+Surprisingly, for a man dependant on winning the support of surgeons, Golesworthy is less than flattering about many of them. “Arrogant, closed-minded, blinkered by their monopoly of knowledge,” he says. He wouldn’t, of course, be the first person to suggest that surgeons often display a powerful ego. And before dismissing Golesworthy’s complaints, it’s worth noting that Treasure, while speaking in more measured terms, endorses some of them. “We’ve been to meeting after meeting, and people say the same untruths. They haven’t read the papers, they often don’t listen to what you say.”
+
+Pepper too is well aware of Golesworthy’s occasionally disparaging comments about surgeons, but seems to find them more amusing than annoying. And not only because he and Treasure are specifically excluded, but also because he feels that Golesworthy doesn’t fully accept the world we live in: a world that breeds extreme caution. “We are absolutely obsessed by safety, and that’s like motherhood and apple pie. You can’t be against it,” he says, growing progressively more animated by his own argument. “We are fantastically risk averse, and yet the public wants to see new treatments.” Risk aversion among his fellow professionals, he insists, has been fuelled by the publication of individual surgeons’ personal results – with a consequent erosion of willingness to take on difficult cases in which the likelihood of failure is inevitably higher.
+
+Paradoxically – and boastfully but possibly also accurately – Golesworthy reckons that his personal presentation of the procedure is one factor that can change surgeons’ minds about PEARS. He speaks with the conviction born of being what he is: part of the literally living proof of PEARS. “He has a passion for it,” adds Pepper. “And to make anything work you have to have a passion.”
+
+The relatively high cost of the sleeve makes the initial operation more expensive. But through shorter operating times and, in the longer term, the elimination of routine drug treatment and associated medical checks, and a reduced likelihood of repeat operations, PEARS should save money.
+
+The patient numbers are creeping up. Last year 17 underwent the procedure; this year it will be over 20. It will be a while yet before the implant repays all the investment, but Golesworthy is optimistic. “It’s starting to rock and roll,” he says cheerfully. “We’ve got new surgeons and new centres. We’ve just done four patients in New Zealand, and they’re really pleased. We’ve got centres in the Czech Republic, a couple in Poland are about to start, and we’re getting two more in the UK.”
+
+About the long-term future of PEARS, Pepper is confident. “We’ve proved the concept,” he says. He doesn’t envisage it totally displacing the other two operations. Patients whose Marfan syndrome has not been inherited may be less well-informed and, correspondingly, less likely to seek help until their condition is more advanced. Trying to sleeve a grossly enlarged and therefore fragile aorta might trigger the very calamity that PEARS is intended to prevent. But below a critical size Pepper can envisage it becoming the treatment of choice: “If the patient comes to you early in the disease, and the aorta is enlarged, but not massively enlarged, PEARS is a good procedure.”
+
+Future Marfan patients wondering to whom they owe thanks for the modest fabric sleeve that’s keeping them alive will surely be intrigued to discover its origins. Whatever gratitude they may feel, they owe it not only to their surgeons, but to a bloody-minded and persistent engineer: a fellow sufferer who thought he knew better than his doctors how to fix his problem – and was right.
+
+
+
+
+
+This article first appeared on Mosaic and is republished here under a Creative Commons license.​
+

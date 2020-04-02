@@ -1,0 +1,329 @@
+I talk a lot about SEO.
+
+Sometimes, I feel like my whole life revolves around SEO.
+
+I post about it a ton . I talk with clients about it almost every day. I record videos about SEO . I do SEO almost every day.
+
+You’d think I get sick of talking about SEO, but it’s one of those topics I’m super passionate about.
+
+That’s because I’ve learned a lot about SEO. In my ten years of experience, I’ve picked up some tips, tricks, and hacks that I use almost daily now.
+
+Often that happens in the form of helping clients.
+
+I’ve noticed that quite a few of my clients use WordPress. I use WordPress. You probably do too.
+
+It’s easy to see why. WordPress is the most accessible platform to build a site on, and it’s free to use. All of its features make it hard to beat.
+
+And here’s one of the best things about WordPress: all the plugins.
+
+If you have a WordPress site, you’re probably running several plugins. There are currently 50,320 plugins available on WordPress.org. And there are hundreds more that are available outside of WordPress.
+
+It’s safe to say that plugins are popular.
+
+There are plugins for just about everything, including SEO. (Right now there are 219 pages full of SEO plugins on WordPress.org.)
+
+So you might be wondering what the best SEO plugins are.
+
+I’m going to show you my 46 favorite plugins for all things SEO. Even if you only use a handful, you’re guaranteed to improve your SEO.
+
+To top it all off, it’ll be dead easy, so you don’t need to be an expert web developer to use these plugins.
+
+If you know anything about WordPress plugins, you know that “SEO plugin” is synonymous with “Yoast.”
+
+It’s easily the most popular SEO plugin, with more than 3 million sites using it.
+
+There’s a reason it’s used by SEOs all over the world: It works.
+
+Sure, there are more intricate SEO plugins, but Yoast is simple and effective.
+
+I like using Yoast to edit meta descriptions and focus on keywords.
+
+If you do any link building , you know it’s crucial to make sure your link structure is rock solid.
+
+Thanks to Broken Link Checker, that’s an easy job to accomplish.
+
+This plugin checks your site for broken links and notifies you through the plugin dashboard or via email, which is seriously cool.
+
+This one’s a no-brainer for making sure all of your links are in place.
+
+Google Analytics (GA) is one of my all-time favorite tools for staying on top of your website’s performance.
+
+This plugin makes it easy to connect GA with your WordPress site.
+
+If you don’t use a plugin, you have to mess with code , and it can take a while.
+
+But with just a couple of clicks, this plugin has you up and ready to go.
+
+There’s no reason you shouldn’t have this plugin. It’s simple, free, and powerful. You can have all of the detailed information that GA gives you right in the WordPress backend.
+
+If you don’t like Yoast, try All in One SEO Pack.
+
+It’s an excellent alternative that covers a lot of the same ground that Yoast does, but with a different interface.
+
+If you’re brand new to SEO , this is a great place to start.
+
+Even if you’re an SEO veteran, this is still worth installing if you want to leave no stone unturned.
+
+Does the term “XML sitemap” mean anything to you?
+
+They’re a technical but important part of any SEO strategy.
+
+Basically, XML sitemaps help search engine robots crawl your site more quickly and effectively.
+
+This plugin helps you set up an XML sitemap for your site in almost no time.
+
+And the best part? You don’t need any experience of any kind.
+
+You just click a few buttons and let the plugin do its thing.
+
+Even if you know how to create an XML sitemap, this plugin is worth having for the convenience it brings. Once you use it, you won’t look back.
+
+In a nutshell, this plugin helps increase your site speed.
+
+But it’s not an ordinary plugin. It produces some extraordinary results.
+
+This plugin’s official page makes a big promise:
+
+“At least 10x improvement in overall site performance (Grade A in WebPagetest or significant Google Page Speed improvements) when fully configured”
+
+That sounds ridiculous, right?
+
+Think again.
+
+This plugin is the real deal. AT&T, Mashable, and MakeUseOf are just a few sites that use this plugin for its impressive results.
+
+Imagine this.
+
+You wake up one day only to find out that your site has been hacked.
+
+That would be terrible, right? (It’s happened to me.)
+
+That’s exactly what this plugin is designed to stop.
+
+Of course, WordPress is secure, but it’s better to be safe than sorry.
+
+SEO shouldn’t stop at your website. It translates to every social network you use.
+
+This plugin helps by optimizing your site for Facebook Open Graph , Twitter meta tags , and Google+ Itemprop tags.
+
+It can also handle microdata, but there are other plugins on this list that you can use for that.
+
+WP Social SEO Booster’s real power lies in its ability to make your site social friendly.
+
+At first glance, SEO Ultimate looks a lot like Yoast or All In One SEO Pack, but it comes with some unique features.
+
+It has a title tag rewriter that turns title tag writing into a science. It also boasts extensive linking tools, author highlighting, 404 monitoring, and a lot more.
+
+This is one of the most full-featured free plugins available, and I recommend installing it and trying it out.
+
+I’m not a technical person by any stretch of the imagination. I don’t know how to develop or tweak code extensively, so that’s why I love solutions like SEO Squirrly.
+
+This is a plugin I’ve recommended before , and years later, it’s still making my list of outstanding plugins.
+
+It helps you improve your content, find keywords, and analyze your performance.
+
+If you’re not an SEO pro, this is a plugin you have to check out.
+
+Redirects seem like a boring topic, but you can actually use them to get some surprising SEO benefits .
+
+Redirection helps you manage your redirects, from 301s to 404s and everything in between.
+
+One of my favorite features is the ability to automatically create a 301 redirect whenever you change a post’s URL .
+
+This just might be the definitive plugin for WordPress redirects.
+
+If you want to manage your internal link structure , give SEO Internal Links a look.
+
+It’s a convenient way of overseeing your internal links without having to do a lot.
+
+It can even automatically link keywords to related posts on your site, so you can let the plugin do most of the heavy lifting if you want.
+
+There are many SEO tactics that are just minor tweaks, but they help fine tune your strategies.
+
+Rich Snippets fall into that category. Do you absolutely need them? No.
+
+Will they help your SEO? Definitely.
+
+Rich Snippets are SERP results that go into more detail than regular results:
+
+They can really make your result stand out.
+
+This plugin makes Rich Snippet creation easy and abides by Schema.org standards.
+
+The world is more mobile than ever.
+
+That means you have to be thinking mobile first whenever you make any changes to your site.
+
+This handy plugin “will instantly enable a mobile-friendly version of your site.”
+
+It’s as simple as it sounds, but it has a huge impact. This is one you can’t miss out on.
+
+This is another plugin I’ve raved about before, and it’s still one of the best in its class.
+
+It displays posts and pages related to the current content.
+
+Basically, it allows you to display similar content to your users, which should decrease your bounce rate and keep visitors on your site.
+
+This can go a long way toward user retention and conversion, so don’t underestimate it.
+
+When you hear “SEO,” you probably think about keywords. But there are hundreds of factors that are important for SEO.
+
+Case in point: Images. If your images aren’t optimized properly, you’re not getting as much bang for your buck.
+
+As its name implies, SEO Optimized Images allows you to edit your image data.
+
+This will make your images SEO friendly, and your site’s performance will improve.
+
+Local SEO is often overlooked, but it’s a proven method of driving more traffic to your page.
+
+Even if you don’t know SEO, you can use this plugin to optimize your site to show up in local results.
+
+It also creates a Google Map for your location, a unique QR code that visitors can use, and several other nifty features.
+
+I often recommend Majestic for SEO purposes. This plugin brings you some of Majestic’s power right to your WordPress dashboard.
+
+It’s really handy for looking at your data as a graph without leaving your dashboard.
+
+David Law, the creator of Stallion, makes a bold claim:
+
+“Using Yoast’s or All In One SEO’s section wide noindex and/or nofollow features in particular is SEO suicide.”
+
+Those two plugins are highly regarded, so what gives?
+
+According to David, the plugins waste link benefits. Stallion is designed to recover those for you.
+
+Whether or not he’s right, I recommend trying this and seeing how your site performs.
+
+Have you ever wanted to type a keyword and instantly transform it into a link that leads to the page of your choice?
+
+Well, now you can.
+
+Whenever you type a certain phrase that you set, Automatic SEO Links will turn that phrase into a link.
+
+Your content is popular on social media, right? Maybe you don’t know. That’s where Social Metrics comes in.
+
+This plugin shows you how many social shares your content has received, and it gives you detailed views of everything you’d want to know.
+
+This is similar to Social Metrics, but it focuses on posts.
+
+Social sharing is a vital part of on-page SEO .
+
+Sharebar adds a vertical box to your site that will let visitors share your content on any social network.
+
+If you want people to be able to easily share your stuff (and who doesn’t?) then Sharebar is a must-have.
+
+You can never have enough help when it comes to URLs.
+
+Simple URLs is a “complete URL management system that allows you to create, manage, and track outbound links from your site.”
+
+It’s simple and straightforward. What more could you want?
+
+This is another simple and useful SEO plugin.
+
+It has several features that work well with many of the other SEO plugins here.
+
+You can take care of duplicate content, edit secondary descriptions, and manage the head section of your page.
+
+You probably clean your workspace every so often. It brings new life to your space and helps you work better.
+
+That’s what WP-Optimize does for your site.
+
+Keeping your site lightweight is a best practice to increase performance and SEO.
+
+Autoptimize “minifies” your code to help it run faster and get crawled more quickly.
+
+Plugins are great, but if they’re not configured correctly, they can actually slow down your site.
+
+P3 analyzes your plugins and identifies any problems for you.
+
+Here’s another way to remove some dead weight from your site.
+
+You can use this plugin to compress your images so they take up less space.
+
+Your site will run faster, and search engines will have an easier time crawling it.
+
+If you want another option for dealing with images, try Imsanity.
+
+It automatically resizes your images so you don’t have to.
+
+This is one of the most unique plugins I’ve seen in a while.
+
+It tells plugins not to activate unless they’re visible on the screen.
+
+This is an excellent plugin to help your site run better. It won’t be bloated by plugins that aren’t even being used.
+
+Now let’s talk about compressing pages.
+
+You can use this plugin to reduce the size of your pages by 60 to 80 percent. No joke.
+
+Try it out and see for yourself!
+
+If you want expert-level control over your links, give LinkPatrol a spin.
+
+It’s like having a real life SEO right beside you to help with links, and you can grab it for as low as $50. This is another plugin that’s great for everybody, regardless of experience.
+
+Here’s a simple plugin dedicated to adding the nofollow attribute to your links.
+
+If you’re not using schema markup yet, this is a fantastic way to start and gain an SEO advantage .
+
+If you want a one-stop shop for all your SEO needs, and if you’re willing to pay up for it ($44 USD), Premium SEO Pack is your new best friend.
+
+Rankie keeps track of how you’re performing on the SERPs. It’s got a great interface and is easy to use.
+
+It’s not free, but at only $17 USD, it provides a nice solution at a price that’s easy to deal with.
+
+If you use the All In One SEO Pack plugin (#2 on this list), you can use this extension that integrates with WooCommerce .
+
+For maximum tweakability, consider using SEOPressor.
+
+If you know some SEO, this plugin will take your site to the next level with on-page analysis, link management, and more.
+
+Over 3 million people use Akismet to help cut down on comment spam, and it’s easily the best plugin of its kind.
+
+This plugin can help you protect against malicious backlinks that you might find during a link audit .
+
+You might already be using the Google XML Sitemaps plugin.
+
+But did you know you can create XML sitemaps just for pages that have videos on them? That’s what this plugin can do.
+
+And in case you’re wondering, having multiple sitemaps can and does increase indexation and traffic .
+
+This is the same idea as the previous plugin but with images.
+
+Even though this plugin is fairly standard in the WordPress world, it offers some impressive functionality, like site stats, automatic social sharing, and widgets.
+
+If you’re using Yoast, you can use this plugin to cut down on the unnecessary code that Yoast comes packaged with.
+
+This plugin has a simple mission statement: “This plugin strongly helps you create better SEO value for your content.”
+
+It has features like anti-spam, structured data, and social media tags. It will even notify search engines when you publish a new sitemap, which is insanely cool and great for indexation.
+
+If you’re using Accelerated Mobile Pages (and you should be), this plugin is a necessity.
+
+It’ll take care of all things AMP so you don’t have to tinker and troubleshoot for hours on end.
+
+Conclusion
+
+You might be a little overwhelmed by this post.
+
+With 46 plugins, where do you start?
+
+You could start with general plugins like Yoast, or you could address specific issues with plugins like Automatic SEO Links.
+
+Really, it’s up to you.
+
+Will you probably need all 46 of these plugins? My hunch says no.
+
+But this list has every kind of SEO plugin you’ll ever need.
+
+From internal linking to social media statistics, it’s all covered here.
+
+WordPress is a great platform, but honestly, plugins take it from great to out of this world.
+
+Plugins can make a huge difference if you use them strategically. They can get you more traffic and higher rankings.
+
+Don’t forget that producing amazing content is at the heart of all of this. If you don’t do that, no SEO plugin will help.
+
+But if you’re consistently publishing new content and working hard on SEO, these plugins will come in handy.
+
+What are your favorite WordPress plugins for SEO? Did I miss any good ones?

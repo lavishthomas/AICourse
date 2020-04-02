@@ -1,0 +1,65 @@
+Vermeer's paintings might be 350 year-old color photographs
+
+Tim Jenison, a Texas-based inventor, attempts to solve one of the greatest mysteries in the art world: How did Dutch master Johannes Vermeer manage to paint so photo-realistically 150 years before the invention of photography? Here's how he conducted his experiment.
+
+I was sitting in the bathtub in 2008 when I thought of a simple way Johannes Vermeer (Girl with a Pearl Earring) might have painted his photorealistic pictures 350 years ago, long before the invention of photography. Vermeer's paintings are legendary for their realism, and many have speculated that he must have used some sort of optical technology, like the camera obscura, to get that result.
+
+It's common knowledge that you can trace the images projected on the screen of a camera obscura, which is basically a black box with a lens mounted on one side. This helps you get the size and shapes of things established on the canvas. Intuitively it seems that you could paint colors right on the projected image and get a photoreal result.
+
+In fact, this does not work. If you try it, you'll see why. The light projected by the lens obscures the color of the paint you are applying to the canvas. It makes the paint look too dark and too colorful. You must constantly turn on the light to see what color you have actually painted. There is simply no way to accurately compare the paint color to the projection. They interfere with each other.
+
+Looking at Vermeer's paintings, it seemed to me that he must have had a way to not only trace the shapes, but capture the colors of a projected image. If he could do that, his paintings might be a form of photography, achieved not with film and chemicals, but with the human hand. Vermeer's paintings might be 350 year-old color photographs.
+
+There are clues in Vermeer's paintings that he did this. For example, the white wall in the back of the room seen in The Music Lesson. [Click images to embiggen.]
+
+The way Vermeer painted this wall is consistent with a photograph. It is not consistent with human vision. If you were standing in the room that Vermeer painted, you would see that wall as a pretty even shade of off-white. The retina in your eyeball does some image processing to minimize the effect of light and shadow. To your eye, the wall appears to have far less contrast than it actually has. And if you can't see it, you can't paint it. But Vermeer, unlike other painters, painted his walls the way a photographic camera would record it.
+
+In my day job I work with video and computer graphics, and I am used to looking at images from a technical point of view. To my eye, Vermeer had done something humanly impossible, and that's what I was thinking about when I got my bathtub epiphany.
+
+Here's the idea: A small mirror on a stick that lets you exactly match your paint colors to the colors of your subject.
+
+I set up a simple experiment to test the idea. I don't know how to paint but in a few hours I was able to use the mirror to copy a black-and-white photo. This was my very first oil painting.
+
+So far, so good. The basic idea works, but could Vermeer paint real people in a real room with an optical machine? I wanted to do another experiment to find out.
+
+I mentioned the idea to my old friend Penn Jillette (of Penn and Teller) over dinner one night. Penn got very excited about the idea and convinced me that we should make a documentary film about the experiment I was about to do. He enlisted Teller to direct it, and we were off and running.
+
+That's where things got a little out of control. The simple-sounding experiment took years to complete. I decided that to really test the theory, I would have to make a little time machine. I would build an exact full-scale model of the room Vermeer painted in The Music Lesson, and then sit in the room with my optical device and paint, using natural light and only materials available to Vermeer in the 17th century. I reasoned that if I, a non-painter, could paint something resembling a Vermeer, my theory might hold water.
+
+A few of the items that appear in the painting could be purchased, for example the viola lying on the floor and the Turkish carpet covering the table. Almost everything else I would have to build myself.
+
+Fortunately, I'm a DIY kind of guy.
+
+I started by making computer models of the objects in the painting using LightWave 3D.
+
+I transferred the 3D models to my trusty Fadal 4020 milling machine and started generating sawdust. Normally a machine like this is used to fabricate metal, but it's perfectly happy cutting wood. I couldn't take advantage of 3D printing, because I wanted everything to appear as it did in the 17th century, and that means wood, not plastic.
+
+The Fadal is an XYZ milling machine, but I needed a CNC lathe to make the legs for the harpsichord and the blue chair. I couldn't find a CNC lathe large enough to make these parts so I came up with the simple hack of bolting a cheap wood lathe onto the bed of the milling machine. Then, I programmed the mill to trace out the contour of the leg while the lathe spun the wood underneath the mill head.
+
+At the center of the painting is a blue chair that appears in several of Vermeer's paintings. I took lots of photos of a similar chair I found in a museum in Delft, Holland, in order to make an accurate 3D model of it. I separated the chair model into individual pieces that could be carved on the milling machine. The most intricate wood parts are the little lion heads attached to the top of the blue chair.
+
+Here are the chair parts made on the milling machine ready to be varnished and assembled.
+
+At the left side of the painting are some stained-glass windows. There is a fairly complicated pattern of circles and squares on the lower windows. I used my flatbed laser cutter to cut this pattern out of black acrylic, which I then glued onto the window glass.
+
+The harpsichord in the painting is called a Ruckers virginal. I found a harpsichord expert in Scotland named Grant O'Brien who provided blueprints and patterns to build the instrument. The legs of the instrument turned out to be a few inches too long for my wood lathe so I pulled the lathe out of the milling machine and cut it into two pieces on a band saw. I then bolted both pieces back into the mill, separated by a few inches. Now the lathe could accommodate a longer piece of wood.
+
+Here is the assembled harpsichord before varnishing and decorating.
+
+The decorations on the front of the harpsichord were made from block-printed paper back in the 17th century. Several of these instruments still exist in museums with the decoration paper intact, so we know exactly what Vermeer was seeing as he painted. Working from photographs of the harpsichords and patterns supplied by O'Brien, I reconstructed the decorations on the computer and then printed them on a large-format inkjet printer. Then I stuck them to the harpsichord case with double-faced tape.
+
+It took over a year to construct the room and all the objects. Here's the finished "time machine." Now I could set up the optics and begin the painting experiment.
+
+You can see the optical machine here. It consists of a 4-inch diameter lens with a focal length of 28 inches, a concave mirror with a focal length of -12 inches, and a small first-surface mirror mounted on a stick.
+
+Since lenses in the 17th century were less perfect than modern lenses, I decided to make my own lens using 17th century techniques. First, on a lathe, I made a brass dish in the reverse shape of the lens surface.
+
+Then, using finer and finer grades of abrasive and a potter's wheel, I ground the lens into shape and polished it.
+
+It took another seven months to actually paint the picture. The work was tedious and very hard on the back, but the machine worked well. My experiment doesn't prove that Vermeer worked this way, but it proves that he COULD have worked this way. And the impossible white wall came out looking about the way Vermeer painted it.
+
+Here is my finished painting.
+
+Multiple cameras were constantly running throughout the experiment. At the end there were about 2400 hours of film in the can. Penn and Teller and their team then began the arduous process of editing it down to 80 minutes. After about a year they finished the movie and named it Tim's Vermeer.
+
+[Video Link] Tim's Vermeer began its theatrical run in January and was released on Blu-ray Combo Pack & Digital download today (June 10, 2014). Bonus material includes deleted, extended and alternate scenes, commentary and a special Toronto International Film Festival Q&A.

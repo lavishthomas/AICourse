@@ -1,0 +1,13 @@
+Photo
+
+Can machines outperform doctors? Not yet. But in some areas of medicine, they can make the care doctors deliver better.
+
+Humans repeatedly fail where computers — or humans behaving a little bit more like computers — can help. Even doctors, some of the smartest and best-trained professionals, can be forgetful, fallible and prone to distraction. These statistics might be disquieting for anyone scheduled for surgery: One in about 100,000 operations is on the wrong body part. In one in 10,000, a foreign object — like a surgical tool — is accidentally left inside the body.
+
+Something as simple as a checklist — a very low tech-type of automation — can reduce such errors. For example, in a wide range of settings, surgical complications and mortality fell after implementation of a basic checklist including verification of patient identity and body part for surgery, confirmation of sterility of the surgical environment and equipment, and post-surgical accounting for all medical tools. Though simple procedures would all but eliminate certain sources of infections in hospitals, thousands of patients suffer from them in American hospitals every year.
+
+Limits on how much information we can process and manipulate make it hard or impossible for even the smartest and most adept doctors to keep up with new evidence. In 2014 alone, more than 750,000 additional medical studies were published. Granted, a physician might need to keep up only with the evidence in her specialty, but even at a fraction of this rate, it is unrealistic to expect even the best physicians to assimilate every new development in their fields. In cancer alone, 150,000 studies are published annually.
+
+Advertisement Continue reading the main story
+
+Computers, on the other hand, excel at searching and combining vastly more data than a human. I.B.M.’s Watson — the computer that won Jeopardy! — is among the best at doing so. Teams of physicians at Memorial Sloan Kettering Cancer Center in New York, the University of Texas MD Anderson Cancer Center in Houston, and the Cleveland Clinic are helping to train Watson to apply humanity’s huge store of cancer knowledge to the delivery of more personalized treatment.

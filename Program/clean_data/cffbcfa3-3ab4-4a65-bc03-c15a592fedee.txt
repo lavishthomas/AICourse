@@ -1,0 +1,151 @@
+Google Analytics is a wonderful tool, but learning your way around it and fully benefiting from it can be a challenge. Here we’ve categorized over 50 resources that will help you understand and use Google Analytics to its full potential. Read on, and you’ll undoubtedly find something useful no matter how experienced you are.
+
+For Beginners
+
+Have you heard of Google Analytics but don’t know what it is or how it works? These links will provide the information you need.
+
+1. What is Google Analytics? – Good, short article that defines the essence of Google Analytics.
+
+2. More Extensive Description – A Quora answerer describes what Google Analytics is and some of its more advanced features.
+
+3. Step-by-Step Guide for Implementing and Using Google Analytics – A guide for putting the Google Analytics tracking code on your website and using some of GA’s basic features.
+
+4. Using the Google Analytics Interface – A short video tutorial by Google that teaches users how to use the Google Analytics interface. This video is done with an older version of Google Analytics, but many of the key features they run through are still the same.
+
+5. Setting up Goals – Goals can help you measure and work to achieve targets. Want to set up a goal? This tutorial will give you the lowdown.
+
+6. Installing Google Analytics for WordPress – If you’re running WordPress, Google Analytics is a must. This article explains how to do it.
+
+7. Cardinal Path Training – Looking to go to a seminar to learn Google Analytics? Cardinal Path does a good job with this.
+
+8. Web Analytics Demystified – Analytics evangelist, Avinash Kaushik, breaks down Google Analytics. A nice, dense read that you’ll get a lot out of.
+
+9. Tracking Social Media for Beginners – A thorough step-by-step report on tracking the effectiveness of social media marketing with Google Analytics.
+
+Interpreting Reports
+
+There are tutorials you can view that will help you make the most of Google Analytics reports. While the screenshots shown in these presentations are not current with the latest design version of Google Analytics, they are nonetheless instructive and will help you use and interpret your reports correctly.
+
+10. Background on Interpreting Reports – When you get set up with Google Analytics, it can be helpful to view this presentation. It covers how to view and interpret the reports and metrics. As they say in the presentation, “putting data into context can help us ask the right questions and decide on a course of action.”
+
+11. Pageviews, Visits, and Visitors – These are every beginners favorite metrics! They are analogous to the number of people who come into a store and how much they look around. This tutorial breaks down these metrics and gives examples of each.
+
+12. Time Metrics – Time metrics are time on page, time on site, average time on page, and average time on site. You can get a fairly good idea of how people engage with your page and website with this metric. This tutorial gives a background on how these various time metrics are calculated.
+
+13. Content Reports – Covers top landing page, navigation summary, entrance paths, and others. These metrics are useful for viewing effectiveness of pages. This tutorial covers those metrics and the FAQs.
+
+14. Traffic Sources – Covers traffic sources, why your top traffic source isn’t always your most effective traffic source, and keyword drill down. Also explains why setting up goals will help show you which source is most effective.
+
+Google Analytics Documentation
+
+Here you’ll learn some of the essentials of Google Analytics and how to utilize its features.
+
+15. Event Tracking – This enables you to track how users interact with various elements of your website. You’ll be able to track things like file downloads, interaction with flash (video or game), and more. This article explains event tracking further and guides you on setting it up.
+
+16. Ecommerce Tracking – Do you have an ecommerce site and want to track things like transaction data? If so, you’ll want to be sure to implement ecommerce tracking. You’ll be able to see which products are top sellers, the average value, unique purchases, revenues, transactions, etc. You’ll want to use this whenever you sell something directly online.
+
+17. Custom Variables – With custom variables, you can insert a tag into the tracking code and filter your visitor data down to specific segments. You can attach a page level, session level, or visitor level custom variable. A page level is when a user takes an action on one page (for example, fills out a form). A session level is when a user browses a website; the session ends when the visitor leaves the site. A visitor level is for the lifetime of the visitor’s cookie.
+
+18. Social Tracking – Would you like to track social events (tweeting, liking, etc.) in Google Analytics? This document will help you get set up.
+
+Blogs
+
+In order to stay up to date and keep learning about Google Analytics, you’ll want to follow some blogs. The ones I’ve listed below are consistently updated with new content.
+
+19. Official Google Analytics Blog – Features announcements about Google Analytics as well as the occasional case study.
+
+20. Occam’s Razor – Avinash Kaushik’s blog. Covers all things analytics and digital marketing.
+
+21. Kissmetrics Google Analytics Blog Posts – A collection of Google Analytics blog posts Kissmetrics has written.
+
+22. Annielytics Blog – Analytics posts written by Annie Cushing.
+
+23. Justin Cutroni blog – Analytics evangelist, Justin Cutroni, writes about Google Analytics on this blog.
+
+Tips, Tricks and How-Tos
+
+This section will help if you know a little about Google Analytics but want to expand your skills to get more use of it.
+
+24. Google Analytics Guide for Power Users – Discusses the tools in Google Analytics and some tips for using each tool.
+
+25. Manual for Google Analytics – An unofficial “how-to” resource for Google Analytics.
+
+26. 10 Data Analysis Strategies that Pay Off Big! – Analytics expert, Avinash Kaushik, breaks down how to get the most out of various reports in Google Analytics.
+
+27. Google Analytics, SEO, and Custom Reports – Analytics can be very useful for gaining insights into SEO. This article shows how to create custom reports that assist you in SEO.
+
+28. Managing Not Provided Keywords, Part 1 – You may have been seeing a lot of Not Provided Keywords lately. This article will help you manage around that.
+
+29. Managing Not Provided Keywords, Part 2 – A follow-up to the previous post. Discusses a few areas relating to the increase of Not Provided Keywords in reports.
+
+30. Google Analytics for Ecommerce – Justin Cutroni has written various articles on optimizing Google Analytics for ecommerce websites. This is a collection of those articles.
+
+31. How to Find Duplicate Content – Having duplicate content on your website will earn you a penalty from Google. For webmasters, it’s a big no-no. This article tells you how to find it and what to do about it when you do find it.
+
+32. When Bounce Rate is Not Bounce Rate – Bounce rate isn’t always as straightforward as it seems. This article breaks it down.
+
+33. Find the Top Links on Your Homepage – Annie Cushing shows us how to find the top links on a webpage.
+
+34. See Which Social Networks Drive Traffic – Want to know which social network is the biggest driver of traffic to your site? Check out this article to learn how.
+
+35. Tracking Ecommerce Transactions with Universal Analytics – Article aimed at a more advanced Google Analytics user. For more on migrating to Universal Analytics, check out this article.
+
+36. Getting Actionable Data out of Google Analytics – Analytics and reports are worthless if you can’t use them to make decisions. After all, that is the purpose of gathering data. This article covers how to get actionable data out of Google Analytics.
+
+37. How and Why to Use Annotations – How and why you should add annotations to events are explained in this article. You can view the short video tutorial here.
+
+38. 9 Awesome Things You Can Do in Google Analytics – Just like the title says, it lists 9 things you can do and find out about in Google Analytics.
+
+39. Tracking Mobile Visitors – Mobile web browsing is on the rise, and learning how to track these visitors is become increasingly important. Learn how to do it with this article.
+
+40. Search Bots for Universal Analytics – Want to understand how search bots are crawling your website? Use this tool.
+
+41. Google Analytics Tips for Businesses – Unsure of how Google Analytics can help your business? This article will get you started on the right path.
+
+42. Guide to Studying for the IQ Exam – Want to learn more about Google Analytics and work to earn your Individual Qualification (IQ)? This post will get you on the right path.
+
+43. Using Different Meta Descriptions to Improve CTR – Your meta description in organic search plays a role in determining if you’ll get a click through. Learn about it in this post.
+
+44. Tips for Content Creators – Google Analytics can be a strong ally in any case, even if you’re a content marketer. Learn why and how with this article.
+
+45. Remarketing with Google Analytics – Ever tried it? Learn about remarketing and about connecting it to your Google Analytics account here.
+
+46. Think Google Analytics is Only about SEO? Think again – There’s more to Google Analytics than just optimizing your search engine rankings. Learn about its other uses here.
+
+47. URL Builder – This tool allows you to build URLs tagged specifically to track campaigns. For more information, check out this article.
+
+48. IP Address Range Tool – This tool is useful for excluding a specified range of IP addresses and is usually used when building filters. For example, if you’re in an office with co-workers, you’ll want to exclude the IP addresses of those workers from your reports. Visits of office workers to your website are counted as internal traffic and you can voluntarily exclude them with regular expressions. Regular expressions emerge from the IP addresses you exclude.
+
+Bonus!
+
+How to Run an A/B Test in Google Analytics – Interested in running a test in Google Analytics? This post will show you how to do it.
+
+How to Use Cohort Analysis – Curious about that new cohort feature? This post will tell (and show) what it’s about and how to use it.
+
+5 Actionable Google Analytics Reports to Improve Your Marketing Today – Raw data is meaningless. But with these 5 reports, you’ll be able to quickly draw actionable marketing ideas.
+
+Free eBook on Using Google Analytics for eCommerce – If you have an eCommerce store and want to get the most out of it, check out this eBook. It’s a great manual that delves into the details of optimizing Google Analytics for ecommerce.
+
+Videos
+
+There are many Google Analytics experts giving advice and answering questions. You’ll find a few of them here.
+
+49. Google Analytics YouTube Channel – Presents good, instructive videos and provides a background on some tools in Google Analytics. It also features Web Analytics TV, which is a Q&A segment with Google digital marketing evangelist, Avinash Kaushik, and software engineer, Nick Mihailovski.
+
+50. Conversion University Videos – 25 videos that cover the tools in Google Analytics. Good for someone wanting to learn more about Google Analytics or even earn their Individual Qualification.
+
+51. Avinash Kaushik Videos – Avinash Kaushik is a web marketer you’ll want to listen to. These are a collection of his videos.
+
+Help and Updates
+
+Want to talk to an expert who can answer your questions and help you optimize your use of Google Analytics? These are good resources:
+
+52. Google Analytics Product Forums – The official Google Analytics forums. An active area that covers a range of issues.
+
+53. Talk to Google Analytics Experts – Here you can schedule a call and talk to a Google Analytics expert.
+
+54. Google Analytics Partners – The place to go to get consulting, help with implementation, and tech support. These are the places Google itself recommends when you are having issues or want a consult.
+
+As Google Analytics continues to evolve, we’ll keep you updated and keep giving you tips for using it to its full effectiveness.
+
+About the Author: Zach Bulygo is a blogger for Kissmetrics, you can find him on Twitter here.

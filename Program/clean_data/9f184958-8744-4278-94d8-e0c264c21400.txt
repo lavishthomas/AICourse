@@ -1,0 +1,101 @@
+She did not imagine that five months later, she would be sitting in a special school board meeting in the district’s headquarters, listening as a series of parents, school board members and privacy lawyers assailed the plan to outsource student data storage to inBloom. What troubled the naysayers at that August session was that the district seemed to be rushing to increase data-sharing before weighing the risks of granting companies access to intimate details about children. They noted that administrators had no policies in place to govern who could see the information, how long it would be kept or whether it would be shared with the colleges to which students applied.
+
+“Students are currently subject to more forms of tracking and monitoring than ever before,” Khaliah Barnes, a lawyer at the Electronic Privacy Information Center in Washington who appeared via video conferencing, told the room packed with parents. “While we understand the value of data for promoting and evaluating personalized learning, there are too few safeguards for the amount of data collected and transmitted from schools to private companies.”
+
+Jefferson County is not the only place where parents have challenged the adoption of inBloom. Parents in Louisiana raised a ruckus after discovering that their children’s Social Security numbers had been uploaded to inBloom. In April, Louisiana officials said they would remove all student data from the database. Of the nine states that originally signed up this year to participate, just three — Colorado, New York and Illinois — are actively pursuing the service.
+
+Still, that accounts for a lot of children. New York State has already uploaded data on 90 percent of 2.7 million public school and charter students — data stripped of identifiers like students’ names — into inBloom; state education officials plan to upload a complete set soon, including names.
+
+But New York parents have no say in the matter, said Leonie Haimson, the executive director of Class Size Matters, a nonprofit group that has been the leading challenger of inBloom.
+
+Photo
+
+“We are officially the worst state in the country when it comes to student privacy,” she said, speaking of New York. Educators are naturally excited about the potential for new tools to improve learning. But the Jeffco controversy is a reminder that it can be easy to leap at new and unproven technologies before considering potential risks.
+
+EDUCATION technology software for prekindergarten to 12th grade is an $8 billion market, according to estimates from the Software and Information Industry Association. One major reason is the Common Core State Standards Initiative, a program to standardize English and math curriculums nationally. To prepare for assessment tests for those standards, many districts across the country are investing in software to analyze individual student performance in more detail.
+
+Advertisement Continue reading the main story
+
+Services like inBloom want to speed the introduction and lower the cost of these assessment tools by standardizing data storage and security. The idea is that inBloom’s open-source code could spur developers to create apps for all its clients, reducing the need for them to customize software to each school district. In theory, that would make the products cheaper for schools.
+
+Recent changes in the regulation of a federal education privacy law have also helped the industry. That law, the Family Educational Rights and Privacy Act, required schools to obtain parental permission before sharing information in their children’s educational records. The updated rules permit schools to share student data, without notifying parents, with companies to which they have outsourced core functions like scheduling or data management.
+
+InBloom made its debut in February by announcing that nine states, representing more than 11 million students, had agreed to help develop or test the technology. A month later, Bill Gates introduced it as a “new, exciting thing” in his keynote speech at SXSWedu education conference in Austin, Tex.
+
+InBloom offers its clients a vision of continuously quantified students and seamlessly connected teachers. A video on its Web site presents a model of what this techno-utopia might look like.
+
+In one scene, a teacher with a tablet computer crouches next to a second-grader evaluating how many words per minute he can read: 55 words read; 43 correctly. Later, she moves to a student named Tyler and selects an e-book “for at-risk students” for his further reading. The video follows Tyler home, where his mother logs into a parent portal for an update on his school status: attendance, 86 percent; performance, 72 percent. She taps a button and sends the e-book to play on the family TV.
+
+InBloom doesn’t actually provide any of the user-end software — the student assessment dashboard, the reading analytics app, the parent portal — shown in the video. Executives at the company see their service as the connective tissue between teachers and these technologies, which would be developed by software vendors. In other words, one inBloom goal is to streamline access to students’ data to bolster the market for educational products.
+
+“We are not creating commercial apps. Our role is to sit in the middle, to facilitate that innovation,” Iwan Streichenberger, the C.E.O. of inBloom, said in a phone interview. “There are tools that come in, mine and analyze the data and make recommendations.”
+
+Yet, for all of inBloom’s neutral-sounding intentions, industry analysts say it has stirred some parents’ fears about the potential for mass-scale surveillance of students. Parents like Rachael Stickland, a mother of two Jeffco students, say that schools are amassing increasing amounts of information about K-12 students with little proof that it will foster their critical thinking or improve their graduation rates.
+
+Advertisement Continue reading the main story
+
+“It’s a new experiment in centralizing massive metadata on children to share with vendors,” she said, “and then the vendors will profit by marketing their learning products, their apps, their curriculum materials, their video games, back to our kids.”
+
+Photo
+
+InBloom seems designed to nudge schools toward maximal data collection. School administrators can choose to fill in more than 400 data fields. Many are facts that schools already collect and share with various software or service companies: grades, attendance records, academic subjects, course levels, disabilities. Administrators can also upload certain details that students or parents may be comfortable sharing with teachers, but not with unknown technology vendors. InBloom’s data elements, for instance, include family relationships (“foster parent” or “father’s significant other”) and reasons for enrollment changes (“withdrawn due to illness” or “leaving school as a victim of a serious violent incident”).
+
+Ms. Barnes, the privacy lawyer, said she was particularly troubled by the disciplinary details that could be uploaded to inBloom because its system included subjective designations like “perpetrator,” “victim” and “principal watch list.” Students, she said, may grow out of some behaviors or not want them shared with third parties. She also warned educators to be wary of using subjective data points to stratify or channel children.
+
+One scene in the inBloom video, for instance, shows a geometry teacher virtually reassigning students’ seating assignments based on their “character strengths” — helpfully coded as green, yellow and red. On his tablet, the teacher moves a green-coded female student (“actively participates: 98 percent”) next to a red-and-yellow coded boy (“shows enthusiasm: 67 percent”).
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Executives at inBloom say their service has been unfairly maligned. It is entirely up to school districts or states to decide which details about students to store in the system and with whom to share them, Sharren Bates, inBloom’s chief product officer, said. She said the company does not look at, use, analyze, mine or sell the student data it stores.
+
+Ms. Bates, who had flown in from Los Angeles to address the special August session of the Jeffco school board, assured it: “All of the decisions about what data is stored and what applications are approved and what users can see that data in those applications are all a local customer decision.”
+
+MS. STICKLAND, the Jeffco parent, learned about her school district’s partnership with inBloom earlier this year, while perusing an education blog.
+
+She was already attuned to data privacy and security issues because she works at a nonprofit energy organization that pays for the electricity and gas of facilities like shelters for battered women. Ms. Stickland’s job requires her to comply with strict rules that limit access to data, like addresses and phone numbers, which could make her clients vulnerable to intruders.
+
+Reading about inBloom, she wondered whether Jeffco officials had investigated the ramifications of storing and sharing student data with education technology vendors.
+
+Advertisement Continue reading the main story
+
+She also worried that district officials might be unable to evaluate inBloom objectively, given its backing by the Gates Foundation, a major donor to public schools whose grant money Jeffco was hoping to attract. She quickly sought a meeting with Dr. Stevenson, the superintendent.
+
+“I think they were star-struck and didn’t do their due diligence,” Ms. Stickland said.
+
+In July, the Gates Foundation awarded Jeffco a $5.2 million grant for teacher development. Lynn Setzer, a school district spokeswoman, said administrators had been completely objective in their evaluation of inBloom.
+
+For believers in data-driven education, the idea of collating data from a student’s record has the same logic as electronic health records.
+
+Photo
+
+“Do you want to take your child to the doctor and have three data points — height, weight and age — or do you also want data from a hospital in another state?” asked Bob Wise, a former governor of West Virginia who is an inBloom director. “I want the most data points available so my child can have the best diagnosis.”
+
+Consolidating and analyzing data that the district already collects just makes common sense to some educators. David Millard, a Jeffco fifth-grade teacher, goes so far as to extract data by hand from different databases and create his own spreadsheets so he can get a more comprehensive view of his students’ progress. He thinks that parents should have access to this data about their children’s progress, too. “We are in critical need of a system that ties together the data that we have,” Mr. Millard said during the school board meeting.
+
+Dr. Stevenson envisions inBloom as a vital part of doing just that. The district plans to invest up to $2 million in a student assessment dashboard being built by LoudCloud Systems, a software developer in Dallas, and she wants inBloom to supply data to that dashboard. “Think of how useful your car dashboard is,” Dr. Stevenson said in a recent interview. “You know if you are going too fast, you know if you are going too slow, you know if your tires are low.”
+
+But inBloom isn’t actually necessary for the dashboard to work, said Manoj Kutty, chief executive of LoudCloud. His company’s system could pull student information directly from the local data storage system that Jeffco already has.
+
+“We might be perfectly fine working with these school districts directly,” he said.
+
+“FIFTY percent of this project has good intentions,” Paula Noonan, a Jeffco school board member, said of the inBloom plan. “The other 50 percent is totally full of risk that hasn’t been examined and weighed.”
+
+Advertisement Continue reading the main story
+
+Concerns about privacy and liability have forced the district to slow down and really think about the use of inBloom. Jeffco’s current service agreement says the data repository doesn’t guarantee that its electronic files on students are not susceptible to intrusion or attack. Other districts in Colorado, and in other states, are closely watching Jeffco as they consider participating themselves. Dr. Stevenson, who was initially reluctant to allow parents to opt out of inBloom, fearing it would be too expensive and technologically cumbersome, recently notified them that they would have that option. On the advice of privacy advocates and parents, she has also revised her original plan to upload student disciplinary data to inBloom.
+
+“We are really looking at the classroom data that is fundamental to academic progress,” she said. “We can do that without disciplinary data.”
+
+The district expects to decide by January on whether to test the data repository next fall.
+
+Dr. Stevenson acknowledges that the district must develop policies to specify which data elements to upload to inBloom and the conditions under which they could be shared with vendors. The district has set up a data management advisory council, which includes some parents who work in data security and compliance. To everyone’s frustration, there are no accepted national guidelines to follow because, until now, K-12 school districts have largely managed their own data storage.
+
+“There aren’t a lot of organizations that have all of the policies in place,” Dr. Stevenson said.
+
+That means each inBloom client must develop its own policies. In New York State, for example, Thomas L. Rogers, superintendent of Nassau County schools, suggested at a recent public hearing that the state form an oversight board to manage inBloom’s practices. “My concern is that the monopoly inBloom creates sits outside the oversight of a publicly elected body,” he said.
+
+Ms. Bates of inBloom said it was important for school districts to define their own legitimate uses for their students’ data and to develop policies to manage them.
+
+“We don’t have all the answers, ” she said.
+
+Educators, in other words, are on their own.

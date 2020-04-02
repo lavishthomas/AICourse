@@ -1,0 +1,49 @@
+My dad used to say, “Slow down, son. You’ll get the job done faster.”
+
+I’ve worked in many high-tech startup companies in the San Francisco Bay area. I am now 52, and I program slowly and thoughtfully. I’m kind of like a designer who writes code; this may become apparent as you read on :)
+
+Programming slowly was a problem for me when I recently worked on a project with some young coders who believe in making really fast, small iterative changes to the code. At the job, we were encouraged to work in the same codebase, as if it were a big cauldron of soup, and if we all just kept stirring it continuously and vigorously, a fully-formed thing of wonder would emerge.
+
+It didn’t.
+
+Many of these coders believed in the fallacy that all engineers are fungible, and that no one should be responsible for any particular aspect of the code; any coder should be able to change any part of the code at any time. After all, we have awesome services like github to manage and merge any number of asynchronous contributions from any number of coders. As long as everyone makes frequent commits, and doesn’t break anything, everything will come out just fine.
+
+Bullshit.
+
+You can’t wish away Design Process. It has been in existence since the dawn of civilization. And the latest clever development tools, no matter how clever, cannot replace the best practices and real-life collaboration that built cathedrals, railroads, and feature-length films.
+
+Nor can any amount of programming ever result in a tool that reduces the time of software development to the speed at which a team of code monkeys can type.
+
+Dysrhythmia
+
+The casualty of my being a slow programmer among fast programmers was a form of dysrhythmia – whereby my coding rhythm got aliased out of existence by the pummeling of other coders’ machine gun iterations. My programming style is defined by organic arcs of different sizes and timescales, Each arc starts with exploration, trial and error, hacks, and temporary variables. Basically, a good deal of scaffolding. A picture begins to take shape. Later on, I come back and dot my i’s and cross my t’s. The end of each arc is something like implementation-ready code. (“Cleaning my studio” is a necessary part of finishing the cycle). The development arc of my code contribution is synonymous with the emergence of a strategy, a design scheme, an architecture.
+
+And sometimes, after a mature organism has emerged, I go back and start over, because I think I have a better idea of how to do it. Sometimes I’m wrong. Sometimes I’m right. There is no way to really know until the organism is fully formed and staring me in the face.
+
+Anyway, back to the cauldron-soup-programmers. The problem is this: with no stasis in the overall software ecosystem – no pools of stillness within which to gain traction and apply design process, how can anyone, even a fast coder, do good design?
+
+Any coder who claims that fast programming is the same as slow programming (except that it’s fast), doesn’t understand Design Process. For the same reason that many neuroscientists now believe that the fluid-like flow of neuronal firing throughout the brain has a temporal reverberation which has everything to do with thought and consciousness, good design takes time.
+
+The Slow Programming Movement
+
+According to Wikipedia: “The slow programming movement is part of the slow movement. It is a software development philosophy that emphasises careful design, quality code, software testing and thinking. It strives to avoid kludges, buggy code, and overly quick release cycles.
+
+Wikipedia also says this about “Slow Software Development”: “As part of the agile software development movement, groups of software developers around the world look for more predictive projects, and aiming at a more sustainable career and work-life balance. They propose some practices such as pair programming, code reviews, and code refactorings that result in more reliable and robust software applications.”
+
+Venture-backed software development here in the San Francisco Bay area is on a fever-pitch fast-track. Money dynamics puts unnatural demands on a process that would be best left to the natural circadian rhythms of design evolution. Fast is not always better. In fact, slower sometimes actually means faster – when all is said and done. The subject of how digital technology is usurping our natural temporal rhythm is addressed in Rushkoff’s Present Shock.
+
+There’s another problem: the almost religious obsession with technology – and a fetish-like love for tools. People wonder why software sucks (and yes, it sucks). Software sucks because of navel-gazing. Fast programmers build hacky tools to get around the hacky tools that they built to get around the hacky tools that they built to help them code.
+
+This is why I believe that we need older people, women, and educators INSIDE the software development cycle. More people-people, fewer thing-people. And I don’t mean on the outside, sitting at help desks or doing UI flower arranging. I mean on the INSIDE – making sure that software resonates with humanity at large.
+
+I’m Glad I’m not a Touch-Typist.
+
+A friend of mine who is a mature, female software engineer made an interesting quip: “software programming is not typing”. Everyone knows this, but it doesn’t hurt to remind ourselves every so often. Brendan Enrick discusses this. The fact that we programmers spend our time jabbing our fingers at keyboards makes it appear that this physical activity is synonymous with programming. But programming is actually the act of bringing thought, design, language, logic, and mental construction into a form that can be stored in computer memory.
+
+My wife often comes out into the yard and asks me: “are you coding?” Often my answer is “yes”. Usually I am cutting twigs with a garden clipper, or moving compost around.
+
+Plants, dirt, and clippers have just as much to do with programming as keyboards and glowing screens.
+
+We are transitioning from an industrial age and an economic era defined by growth to an age of sustainability. Yes, new software and new businesses need to grow. But to be sustainable, they need to grow slowly and with loving care. Like good wine. Like a baby.
+
+Advertisements

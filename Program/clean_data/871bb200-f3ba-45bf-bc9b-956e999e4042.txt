@@ -1,0 +1,207 @@
+Alex Le and Kavin Stewart have a fairly unusual “how we met” story. Today, the two are oddly (but aptly) co-VPs of Product at Reddit. But when they first encountered each other eight years ago, they were founders of competing social gaming startups. Instead of going head to head, they ended up swapping advice they could both use to thrive — it turned out Le was more about design, and Stewart was focused on revenue and growth. The yin to the other’s yang, they kept in touch when they moved into executive product roles at other companies, and now, finally, get to work together to solve problems for arguably the most robust, vocal, and diverse community on the internet.
+
+Co-VPs might sound like a bad idea as soon as you hear it. Certainly, a lot has been written about the perils of Co-CEOs. But it works for Stewart and Le, largely for one reason: they share extensive experience building products at every single stage of company life. They’ve both seen a lot succeed and a lot go south. They’ve both witnessed how product pipelines need to grow and break and change, and they’re all too familiar with the mistakes that ruin products and damage process along the way.
+
+In this exclusive interview, they focus on the radical shift from product market-fit into growth — a change that steamrolls far too many promising startups. With the tactics they recommend, companies at every phase can learn how to create effective, replicable and (perhaps most importantly) durable product development systems.
+
+CROSSING THE CHASM
+
+There is such a thing as startup puberty. And it happens right when your product starts to gain traction. Much like puberty, this change often catches people off guard. Sure, they anticipated it would happen, but that doesn’t mean they were ready — they were too busy working to get there.
+
+For product, the most important changes are:
+
+You are no longer your customer: Silicon Valley tends to rely on a common hack — start something that solves a problem you have. At the earliest stage, you’re probably building for a customer just like you, or that you intimately understand. Once you hit product market-fit, you start bringing new people into the fold, and you can no longer reasonably represent all your customers’ needs, wants and opinions. You need more data.
+
+You luckily have the ability to test much more: Finally, you’re pulling enough users or customers to correlate product tweaks with behavior, and to start optimizing based on more than a hunch or limited evidence.
+
+With these new needs, you need more people. This is when things get complicated, says Stewart. In order to set people up for success, you need to make your product and engineering teams modular. That way, you can split up problems and hand out discrete work that people can run with independently. This is what gives you real leverage as you grow — having many teams, mostly autonomously led — all sprinting side by side. Starting this modular approach early bakes it into your culture and allows you to scale much more easily later.
+
+“You have to understand very specifically where you are in your company’s lifespan, and apply the right process at the right time,” says Stewart. “And ideally, you build a process that you can tweak as you grow, rather than tearing it down and rebuilding it every time you hit a new stage.”
+
+Even though Reddit is an older company, it still runs into these same transitions. A prime example: Recently, the company has been building out its mobile apps. Initial ideas for what they should look and feel like came from the team, because they’re all regular redditors themselves.
+
+“We had enough empathy with core users to get the first app out and in the store and have it be successful initially,” says Le. “But we know we’re going to run into the unknown as we start onboarding users who are either new to Reddit or who see the world differently from us.”
+
+We never let ourselves forget: What got us here won't get us there.
+
+To figure out the next set of mobile app features, they’ll need to do their homework and endure the same growing pains as an earlier-stage startup. “We can’t just field community requests and hand them out to PMs and engineers for them to address anymore,” says Stewart. “Instead, we need teams that don’t just build features on assignment, but actually investigate what problems we’re not hearing about, and think through what features might solve them. I see a lot of younger startups hit this point around Series A.”
+
+The process they’ve put in place is called Hypothesis-Driven Product Management. Its central thesis is this: It’s no longer good enough for a PM to say, “I think users want this feature.” Instead, you need to ask, “What outcome do you predict this feature will have?”
+
+Pre-Series A you don’t really have the data you need to do this, says Le. “At the seed stage, your company in itself is your hypothesis. You present it to the world to see if it will work. As you start to grow, this branches into more hypotheses about which direction the company should go in, and that branches into even more hypotheses about individual features, and on and on.” Your ability to make educated guesses becomes the stem cell and fuel for making your product better for more people.
+
+In Stewart and Le’s estimation, three major areas of product development change as a company matures: How you generate ideas, how you execute those ideas, and how you iterate on those ideas. Below, they share the best ways they’ve seen startups make these leaps.
+
+FINDING NEW WAYS TO BRAINSTORM
+
+“You want to create a system for how you make hypotheses — it will serve as the basis for all future feature generations even as your team gets big,” says Le.
+
+The biggest mistake you can make is thinking you can relate to your customer for too long, says Stewart. He cites a fashion startup he worked with who believed their core audience were fashionable urban women, when it turned out to be Midwestern suburbanites. They needed the product for entirely different reasons, but it wasn’t being built for them for a long time. That value got lost.
+
+So what should you do instead?
+
+“Make a list of the outcomes you want — the metrics you want to hit, the engagement you want to see, how much growth do we expect to get out of this, etc.,” says Le. “Then you basically guess — ideally based on data and research — what will get you there.”
+
+Inventory the “inputs” you have to answer your questions and generate a list of ideas. If you’re still pretty early and don’t have the volume of data you need to get quantitative, you can start with qualitative feedback from user surveys or testing, says Stewart. But you need something to plug into your system that isn’t just your opinion or experience.
+
+Competitive analysis also fits into this category. Have your competitors achieved a similar outcome to the one you want? How did they get there? How can you crib a bit and iterate to do even better?
+
+The other key input is interviewing people who you WANT to have as a part of your target audience. Get smart about what they do use that’s similar, why they use it, and why they might choose not to use a product like yours. “That’s a really ripe area for hypotheses that you can easily turn into tests to see if they help you get more traction or not,” says Le. “You’ve got to use what you’ve got, and qualitative feedback is far far better than nothing.”
+
+Once you have some working hypotheses, that’s when you want to start quantitatively measuring results to drive future brainstorming. All you need is enough results from an A/B test to theorize causality, says Le.
+
+Product management is really just three things: Brainstorm the list, prioritize the list, do the list. But the devil is in the details.
+
+It turns out if you brainstorm the wrong list, then you’re sunk the whole way through. You want to be creative, but creative in the right way, says Stewart.
+
+“When it comes to product, creativity can and should be a very mechanical process,” he says. “Some people think brainstorming is sitting on a hilltop until they’re struck by a bolt of lightning. What I’ve found most helpful is separating idea generation from idea evaluation. Basically, I write down every single stupid thing I can think of without giving myself a hard time. Then I analyze them rigorously.”
+
+Apply the feedback you’ve gotten through user tests and surveys, and whatever other inputs you have, to trim down your list of dumb ideas — you want to end up with the fairly smart ideas. All of which should be pegged to a specific outcome you’re shooting toward.
+
+Prioritize this distilled list using two factors:
+
+How important is the outcome this idea will serve?
+
+How high is this idea’s likelihood of success? What magnitude of success will it have?
+
+This should yield a short, ordered list of action items that will get you the closest to the results you want. On a smaller team, this process can be run centrally. As you grow and feature sets get more distributed, teams can run this system on their own to get to graduate to the next phase.
+
+Kavin Stewart at Reddit HQ in San Francisco.
+
+MODULAR EXECUTION AT ITS BEST
+
+At the end of your brainstorm, you end up with multiple — maybe even many initiatives, depending on your maturity. At small startups, everyone knows what everyone else is working on and this is an incredible advantage. Soon after you hit product-market fit, you no longer have this luxury and you need to get serious about not only allocating responsibility across teams, but empowering them to do work without leadership (especially not the founders) necessarily knowing everything about it.
+
+“I’ve seen a lot of startups get to this point and it’s the CEO or their newly-hired Head of Product bundling and parcelling out tasks,” says Stewart. “That’s not what you want either. You want people assigned to thematic areas that they get to own and invent and test within. They develop subject matter expertise. They become the best mind in your company on user growth, experience, conversion funnels, or whatever it is. You have to make sure you’re breaking off big enough areas for them to feel this sort of agency over.”
+
+Here are some examples of thematic org areas:
+
+Core product: How can we make typical use of the product better always?
+
+Signup experience: How can we bring more people into our product:
+
+Internal tools: How can we optimize the way we are working with infrastructure?
+
+Content: What content do we present to users and how?
+
+Community: How are we setting communities up for success?
+
+Channels: Where and how are we engaging with users outside the core product?
+
+Monetization: How do we sustain what we’re doing?
+
+This also cuts a ton of context switching out of your process. You reduce the number of people who work hard to solve problem A only to move over to an entirely unrelated problem B. You group people so they are always attacking grouped, interrelated problems that they know well.
+
+I see a ton of Series A startups fail to make this transition properly. It's bizarre to me that it's not explicitly taught as the way to build a product team.
+
+“I consulted for a startup and this was definitely news to them,” says Stewart. “The CEO was still assigning tasks out to various PMs who would then distribute work out to the engineers, and I said, ‘Look, each of these teams needs to be able to drive themselves forward with their own point people who communicate up to you. You don’t need to know every detail of what they’re doing.’”
+
+Not dividing work this way can lead to crippling inertia, says Le.
+
+“So often, I’ll see teams organized by the technology stack they work on. They’ll have a front-end web team, a native mobile team, etc. all specialized,” he says. “But this isn’t good. I don’t care if someone knows mobile or desktop. I recommend a holistic product focus over a pure tech focus. For example, care about the content across all platforms. Care about how customers are driven toward conversion across all platforms.”
+
+Switching from organizing teams around tech to organizing them around goals is hard. Very, very hard. People have developed expertise, familiarity with their colleagues, systems for getting things done.
+
+The change has to start at the top (which is also where it fails fastest). It requires the CEO ceding a hefty amount of control. They have to go from knowing and even determining what’s being executed at any given time to delegating primary responsibility for decision-making on a day to day basis.
+
+Hand out priorities, not tasks, and let your people be creative about their own execution.
+
+“The CEO still has plenty to do. They go from caring about the design of the product to working on the design of the organization so it can best deliver on what it needs to do,” he says. “The worst is a CEO or even a VP of Product who comes by and does what we call the ‘swoop and poop,’ they just say ‘this thing needs to be different’ and leave. They don’t have time to own it. They aren’t responsible for it. It ends up getting in the way and distracting the people who really do know what needs to get done.”
+
+In Stewart and Le’s experience, once a founder or CEO relinquishes the need to know everything about everything, it gets a lot easier to reorganize teams along thematic lines.
+
+How to recognize when this transition needs to happen:
+
+The CEO or co-founders can’t keep everything in their heads anymore and don’t know what’s happening in various parts of the product day to day.
+
+You’re trying to expand the product beyond the Silicon Valley echo chamber, which will require more homework to understand users.
+
+Existing staff members are responsible for too many different areas of the product and are context switching a lot, losing productivity.
+
+Once you recognize the need, here’s how you operationalize the transition:
+
+Appoint a business owner for each thematic area who is responsible for driving KPIs, managing stakeholders (including executives) and communicating changes. This is usually a product manager.
+
+Minimize cross-team dependences. It helps to have a framework for surfacing and prioritizing any dependencies that do exist. For example, these are highlighted during sprint planning at Reddit, so that everyone know what is expected of them to expedite communication and decision-making across teams.
+
+Set quarterly operational targets and tie individuals’ OKRs to them to build founder/executive confidence in this approach, make everyone feel more purposeful, and more clearly track performance.
+
+Have the founders and/or executives steer these smaller thematic teams by setting few, but big company-wide objectives, and allocating resources according to priorities.
+
+Constantly reevaluate where there are bottlenecks in this system and move immediately to address them.
+
+“Making this leap to thematic teams is a classic case of knowing what got us here won’t get us there, and doing something about it,” says Stewart. “If you don’t rethink how you’re dividing work once you’ve entered the next stage, you won’t get much further.”
+
+There’s also a bonus around conflict resolution.
+
+When you create teams around themes — which then become areas of expertise — it’s much clearer who is responsible and accountable for different parts of the product. At the same time you define themes, you also appoint someone as an owner. Usually they’re a product manager. At some more engineering-driven companies, this could be a tech lead. It doesn’t mean they need to have authority over the others on their team. It does mean they have to own final decisions and output.
+
+At Reddit, Le and Stewart govern very different areas of the product. One owns content and communities. The other owns growth and monetization. At the same time, they have thematic teams under these umbrellas with point people who have their own general areas of accountability. It’s not unlike a series of Russian nesting dolls.
+
+The owner of every thematic team is also the one who makes final decisions. They’re responsible for making sure everyone feels heard.
+
+“If you’re the lead on a team like this, you need to make people feel like their point isn’t just being listened to, but fully understood,” says Stewart. “The easiest way to do this is to repeat it back to them: ’So you’re saying... this.’ If they agree, then acknowledge it by saying something like, ‘Great, now I can properly represent your point of view while making the decision.’”
+
+That way, if you end up not taking their input, you can satisfyingly explain why not and curb a lot of angst on your team. This will let you move forward with much more momentum and buy-in long-term.
+
+A product manager's key attribute needs to be empathy — empathy for your users, sure, but also for your teammates and stakeholders.
+
+As your product team expands, you have to see this as a skill to teach and train. “You want to help every PM on your team develop the ability to consider many opinions, and also that the people who are disagreeing might be right,” says Le. “What makes a company successful over the long-term is harmony of the team. That, above anything else allows you ship a lot of stuff.”
+
+One of the more helpful mindsets to teach along these lines is that it’s very unlikely for any one decision a company makes to be fatal. Likewise, no one decision will be responsible for making the company successful either. This lowers the cost of choosing wrong, releases pressure, and motivates PMs to take more viewpoints into account, says Le. Spreading out decision-making agency is also critical for the long-term health of your company. If the person whose been calling most of the shots for you leaves after 18 months, you’re sunk. And this happens more often these days than ever before.
+
+Alex Le at Reddit HQ.
+
+THE INCREDIBLE IMPACT OF PRODUCT OPS
+
+As your company matures and more people start running more experiments, you risk falling prey to the dreaded “Las Vegas strip problem.”
+
+“If you don’t have solid communication on your product team, you get many individuals pursuing their own goals for their own features, and they’re just thinking about optimizing their main metric,” says Le. “They aren’t thinking holistically about the rest of the product or products. You have people testing a ton of stuff all at the same time. Like, what if we make this button blue instead of green? What if we put another dialog box here to drive conversion? Suddenly you have the Las Vegas strip with volcanoes next to the New York skyline next to the Eiffel Tower, and it’s too much.”
+
+This is why you need a traffic cop. This isn’t a single product leader through which all decisions filter. It shouldn’t be the CEO for very long either. Instead, it needs to be someone keeping track of the various projects that are underway, how they relate to each other, how the results of tests might be interacting, and how changes are ultimately implemented.
+
+“You have to appoint someone to care about the holistic experience,” says Le. “Like in the Vegas example, you need someone who is zoning against that kind of crazy sprawl, only for your product.”
+
+This person should be focused on two things: 1) Collecting and communicating the data coming out of experiments, and 2) guiding everyone to build features and run tests that connect to company goals. If you’re large enough to hire a VP of Product, they can play this role. But if you’re not, you can appoint someone on product to do this, or it could make sense for the CEO of co-founder to take on this role temporarily. This will prevent a lot of headaches, including people juicing their numbers to satisfy their personal objectives but not the company’s needs, says Stewart.
+
+It also keeps winning experiments from being turned up to 100 when they really shouldn’t be — a rampant problem at startups that haven’t prioritized product ops, says Le.
+
+“Just because you get a positive result from a test doesn’t mean that feature or variant should be applied sitewide for all your users,” he says. “There has to be an extra step where you disseminate your learnings and really look at what’s causing the results you’re seeing. Most of the time you should simply use those learnings to design a new test. At a company I worked at in the past, we’d be running five experiments on any given day and turning every single positive result up to 100. They all clashed together. It was impossible to tell what was truly causing what, and it messed up the product experience for users.”
+
+Your product ops 'traffic cop' should serve as the central hub for these test results — gathering and sharing in a way that makes them visible to everyone. When you do this, others might be inspired by certain tests or see that what they’re doing is related in an important way. While your test might have created an unambiguous good, others might spot some unambiguously bad side effects. So this organized form of sharing not only eliminates errors, but fuels momentum. “If we really look at the number of winning test variants that go live as a feature to 100% of our users, it’s really low — like one in 10,” says Le. “The best thing testing can do is help you create more hypotheses for your brainstorm process.”
+
+Healthy communication on product teams is always omnidirectional.
+
+“We have both formal and informal ways of sharing information on the team here at Reddit,” says Stewart. “We have PM lunches, where all PMs go around and talk about the interesting things they’ve tried lately and what the results have been. We have strategy meetings where one person responsible for an area will review what they’ve been working on for the last month and give details on the results of their experiments. And we also have templated emails that announce feature launches and do retrospectives on past launches with new data.”
+
+As your organization grows, you have to be extremely consistent about messaging the same things over and over again. Templates help ingrain this practice.
+
+At Reddit, whenever you’re about to run a test, you already have the format of an email ready to go explaining what you’re testing with blank, bulleted fields for where you’ll insert the results. “This makes it easy to just fill it out with results three days out, 14 days out, 30 days out so you can easily send updates,” says Le. “Just having these templates accelerates the flow of informative emails throughout the team. Everyone can easily scan what people are trying and how it’s going.”
+
+Lastly, having product ops in place speeds up your learning over time and makes sure you’re adding — in Keith Rabois’ words — more barrels and not ammunition to your development process.
+
+“As a company gets bigger, it’s scary to watch how most fall into longer and longer iteration cycles,” says Le. “Someone needs to be paying attention to this. Like, literally collecting data on how long every release is taking. How long releases of similar features are taking over time. How many features are getting launched per sprint, per quarter, etc. You have to know how long it’s taking you to get things done so you can make sure it stays relatively the same even as you add more people and projects. The goal should really be to parallelize more iterations all taking place at the same time.”
+
+Don't work on 10x-ing the output of each team. Work on putting many 1x teams next to each other. That's how you stay agile.
+
+If you look at companies like Facebook, they’ve done a heroic job of keeping iteration cycles short,” says Stewart. “They do that not by adding a bunch of people to a project. You want many mini projects all producing learnings at once. And for that, you need the healthy communication that comes with focusing on product ops.”
+
+All that said, you want to add process without adding too much rigidity. Especially at earlier companies, both PMs and engineers bristle against too much infrastructural responsibility. Here are some things you can do to put product ops on the rails without overdoing it:
+
+Pick only a couple hard-and-fast rules: “For us, making sure everyone is on the same page is the top priority, so we’re really strict about our very few scheduled meetings. We kick off a new sprint every second Monday,” says Le. “We know we’re always going to hit that mark. Everything else can be flexible around us, but every second Monday the entire Reddit product team meets to kick off new sprints – maybe 7 or 8 will all be starting at once.” At the same time, every team does their own sprint planning. They simply present what they’ll be doing.
+
+Provide autonomy between guard rails: “Meetings are the firm commitments that help keep our iteration cycles tight. Whatever people do inside that cycle time is up to them. Kavin and I let them tackle it the way they want as long as they deliver on their sprints every two weeks.” says Le. “Having this light rigidity in scheduling goes a long way.”
+
+Be clear about the role of product ops: As discussed, every team taking on a thematic area of the product should have its own leader. The product ops person — i.e. your traffic cop — is one person who looks across all these teams, not to tell them what to do, but to actually iterate on the process of developing products. This is what Le and Stewart spend their time doing at Reddit. “Every two weeks, when we meet, we’ll tell teams, ‘Hey, we noticed this one process isn’t really working, we’re going to try this new thing and see how it goes next time...’” says Le. “It’s basically our job to track what went well and what didn’t go well about how product worked as a unit, and incorporate feedback from the team. Our customers are the PMs and engineers using that process.”
+
+Just start: “It’s more important to start something in ops than it is to have a master plan and huge process figured out,” says Le. “We start light. So, for example, we put the two-week sprint system in place. When we saw that sometimes progress wasn’t being made fast enough, we added a sprint retrospective.” After more iterations, you might find bottlenecks where support teams are overwhelmed with requests, which should prompt the hiring of more engineers to handle these requests. The next steps will reveal themselves. Don’t get stuck without any ops support simply because you can’t build a full system right away.
+
+If you’re at a very small or early company and no one seems like a natural product ops person, you can simply pick a high-performing and detail-oriented PM and say, “Hey, we have this meeting every second Monday, and it’s your job to make sure that meeting is good. Do whatever it takes for that meeting to be great.” This person should be a product person so that they know what the appropriate speed is for various projects. They can’t come from outside product and be credible. This means that a non-technical CEO is probably not the best candidate either.
+
+THE TAKEAWAY
+
+“Any advice you give or take about product development is stage dependent — that’s the number one thing to know and that most people ignore,” says Stewart. “People will tell you to ‘data driven’ and you’ll try to be, but early on you just can’t be. You can’t A/B test with 300 visitors a week. It is possible, however, to put light structure in place that will grow with your company.”
+
+The other mistake is assuming that past success will automatically beget strong product pipelines in the future.
+
+“A lot of C stage founders and teams will still be muscling through development issues, outworking everyone to keep iteration cycles short or to do more at a time,” he says. “This isn’t sustainable. You’ll burn yourself out, your people will leave. You can’t just keep working hard with the same frameworks and processes you had at 30 people when you’re 200 people. You have to mechanize brainstorming, divide responsibilities, introduce ops. That’s what will keep people aligned and motivated to do their best work.”

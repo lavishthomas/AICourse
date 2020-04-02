@@ -1,0 +1,49 @@
+This essay is inspired by this week’s Startup Edition topic, “How do you prioritize?”
+
+To do:
+
+Respond to support emails Fix bugs Send email newsletter Update pitch deck Write a blog post Update homepage design Experiment with Twitter ads Create new on-boarding flow Attend marketing event
+
+There are so many things to do in a startup. The things you choose to do and don’t do, ultimately determine success or failure. Prioritization is crucial. Unfortunately, not everything on the to do list is fun. Sometimes you have to do “shitty” work.
+
+More Than Your Craft
+
+I recently spoke with a solo founder of an early social product. He shared his challenges building the business:
+
+I built the product in just a few weeks. It wasn’t hard. But getting users is tough! It’s been four months and I haven’t figured it out. I don’t enjoy marketing. I just want to code.
+
+I hear this often. We gravitate toward our craft - the things we’re good at and enjoy doing. Coders like to code. Salespeople like to sell. Designers like to design.
+
+But successful startups require attention in all areas. You may not have a marketing title but someone has to figure out how to acquire users. If we’re not careful, we prioritize things we like to do over the things we should do. We prioritize our craft because it comforting. It’s what we’re best at. But our craft isn’t what’s needed in the company at all times. I’ve certainly made this mistake.
+
+Wireframes to Nowhere
+
+Early at PlayHaven, as the sole product manager, I was responsible for designing new product concepts. Eagerly, I spent nights and weekends creating wireframes of new ideas. I toiled over the alignment of text fields, copy, and other things that didn’t matter one bit at the time.
+
+I spent days crafting this wireframe for a consumer app discovery concept that we (thankfully) never built. In reality, we should have validated the market need and business feasibility rather than waste time pixel shifting for a product no one wanted.
+
+I created high-fidelity wires for features I thought our customers wanted instead of first talking to them. I should have elicited feedback from engineering to get their input on my product ideas and better understanding of technical limitations or tradeoffs before jumping into design. I should have sketched first and used paper prototypes to bring my ideas to life in less time. My priorities were off. I shifted product pixels before I knew what the product should be because I enjoyed it. Wireframing was fun and the results were rewarding. It felt like progress.
+
+Fake Progress
+
+My beautiful wireframes were a trophy, a tangible reward for the late nights of hard work. Or so I thought. In reality, I wasted a lot of time, often having to adjust my pretty pixels after speaking with engineering and the team. Many of the concepts I meticulously wireframed were never even built because they simply weren’t important enough or needed after speaking with customers. If I prioritized better and done the important things that weren’t as fun, I would have saved myself and the company a lot of time.
+
+I’m certainly not the only one that’s fallen into this delusion of progress. My entrepreneurial friend described the sensation of writing code:
+
+It’s incredibly satisfying to build a product, to see my code instantly translate into something tangible. Each GitHub commit feels like progress. So I keep coding even though I know I should be focusing on marketing and figuring out how to get more users.
+
+Like the wireframes I carefully crafted, the output of coding is incredibly rewarding: a functional product. The beauty of programming is in its responsiveness. One can write code and immediately see the results of their working product. Despite inevitable bugs and unexpected results, programming is relatively predictable. When you write the function, “alert(‘Hello World!’);”, the application responds with “Hello World!” when executed. That is satisfying.
+
+People, on the other hand, are often unpredictable and non-responsive. Their tastes, expectations, and context continually change. This introduces less certainty of results and delay of reward when working on non-technical crafts like marketing or sales. This can reduce one’s motivation to invest in these “non-rewarding” activities, especially if it’s not what they enjoy doing.
+
+Combatting Fake Progress
+
+The best way to avoid the fake progress trap is to hold yourself accountable. Each morning as you review your morning to-do list, ask yourself why. Why should I create wireframes for a new landing page? Why should I add Facebook integration? Why should I attend the Lean Startup Conference? This simple, honest question may have saved me a lot of time and effort.
+
+“What’s important about startups is the speed.” - Paul Graham (source)
+
+If speed is a startup’s most valuable asset, then prioritization is paramount. Building a successful product and startup is all about knowing what to do and what not to do. And sometimes that means you need to do shitty work.
+
+Read other responses to the prompt, “How do you prioritize?“ in this week’s Startup Edition.
+
+If you enjoyed this essay, subscribe to my blog for more essays on startups and product design. And don’t be shy. Say hello on Twitter (@rrhoover) :).

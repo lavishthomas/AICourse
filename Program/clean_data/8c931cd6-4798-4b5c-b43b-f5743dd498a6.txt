@@ -1,0 +1,273 @@
+Every indicator we have is that companies are investing more in every facet of analytics. Tools. People. Consulting. Processes.
+
+Yet, it is unclear if that increase in investment is being followed by a commensurate increase in value delivered to the organization's bottom-line.
+
+A part of reason for this mis-match in value delivered is that there is a natural evolution that needs to occur. There is an analytics ladder of awesomeness each company needs to climb, and it just takes time. But a larger part of the reason is that companies don't quite make the right choices in what behavior to incentivize, they make mistakes when creating the organization structure, and in the expectations that are set for what success looks like.
+
+First… it is important to realize that big data's big imperative is driving big action.
+
+Second… well there is no second, it is all about the big action and getting a big impact on your bottom-line from your big investment in analytics processes, consulting, people and tools.
+
+So in this post, let's look at twelve signs you can use as signals to identify if your organization is set up for magnificent success. Each sign is essentially an action you can take, expectation you can set up. It is specific, it is, this will not surprise you, impactful.
+
+Before we go too deep, let's get a couple of definitions right first.
+
+Reporting Squirrels vs. Analysis Ninjas.
+
+No company hires anyone called a Reporting Squirrel. Everyone hires what they believe are Analysis Ninjas. Leaving people skills and capabilities aside, it is the work the employee does that makes them a Squirrel or a Ninja.
+
+Reporting Squirrels spend 75% or more of their time in data production activities. The primary manifestation of this is in creation of reports for their direct leader, or team or division or bunch of people. In service of report creation the job includes: Pulling data, writing queries, fulfilling ad-hoc requests, scheduling data outputs (reports, dashboards), liaising with script implementers / IT teams to collect more data, etc.
+
+Analysis Ninjas spend 75% or more of their time in analysis that delivers actionable insights. The primary manifestation of this is expressed in English (or native country language). An example is: "We should add these 80 keywords to our PPC portfolio with a max bid of $14." Another example is: "I recommend a shift of $150k from our Display budget to our Affiliate budget to increase profitability of our purple pants." In service of analysis the job includes: Pulling data, segmentation, slicing and dicing, drilling-up, drilling-down, drilling-around, modeling, creating unique datasets, answering business questions, writing requirements for data sources and structures for Reporting Squirrels to work with IT teams to create, etc.
+
+Again, remember no company actually hires anyone called a Reporting Squirrel. Most companies hire a Web Analyst, Sr. Digital Analyst, Web Analysis Guru, Digital Marketing Analyst, so on and so forth. (Remember none of these jobs will do any data collection/IT work, even in medium-sized companies.) But if their primary output is just data, and not actions to take expressed in English or verbally in weekly senior staff meeting, then they are simply Reporting Squirrels.
+
+It is important to understand this difference. If you remain delusional about this difference, your Return on Analytics (ROA) will remain negative.
+
+It is also important to understand that many medium and all large-sized companies feel need Reporting Squirrels. Primarily because they believe that the mere act of data regurgitation makes the organization smarter. (They ignore the obvious flaw that people upon whom this data is regurgitated often do not posses skills to understand the data, ability or access to ask clarifying questions of the data or key context to transform the regurgitated data into insights.) To convince them otherwise is a lost cause, they just feel they need Squirrels, they will hire Squirrels, you can make good money being one, neither I nor anyone else will ever advice against taking this job.
+
+But, it is important for you to understand the difference for the impact it will have on your career. I recommend a honest self-assessment (after all you don't have to tell anyone the results). It is important that your company understands that there are two different roles. If the company has the revenues or size, it is important to hire for both roles to ensure the ROA will be positive.
+
+Reporting Squirrel work has a minor incremental impact on a company's bottom-line, and rarely justifies the investment in analytics tools, people, consulting and processes. An Analysis Ninjas' work does. So let's look at the twelve signs that your company has an environment with incentives to move Reporting Squirrels work to become Analysis Ninja work and set up a structure where Analysis Ninjas thrive.
+
+#12: Almost all reporting is off custom reports.
+
+This one is so simple, and a great first step to incentivize Ninja behavior: Stop accepting any standard report from any tool.
+
+All standard reports are simply the vendor engineer's attempt to showcase the data in the tool. They are generic mash-ups that tailor to almost no one's needs, and more often than not contain awful things like nine not-really-thought out metrics for one dimension in a report.
+
+This means they don't apply to you, despite valiant attempts by your Squirrel to add Secondary Dimension or a in-line filter.
+
+Force your analytics team to create custom reports. Rather than using standard reports to deliver they they think you need, they'll be forced to pause and ask you: "And what business question are you trying to answer?"
+
+Kisses. Hugs. Angels singing!
+
+Creating custom reports is hard work. You need to take the business question, distill it down the the core four or five metrics needed, identify relevant dimensions, add the filters to narrow and focus the scope of the data provided and include contextual drill-downs to aid decision making. (There in a nutshell are the four requirements of a complete custom report.)
+
+In the process you've created an incentive for the Squirrel to talk to the business folks, understand the actual business needs, upon creation of the report really look to see if it answers the question, what the answer is and if it really matters to the company (Ninja-work!).
+
+Mandating only custom reports will not by itself lead to nirvana (see the 11 additional signs below), but it is a great first step. It incentives asking of questions, it reduces cookie-cutter implementations that so many Squirrels or external consultants will foist on you, and it increases the quality of what you get: An almost insight.
+
+That is worth fighting for.
+
+Bonus: Download: Three awesome analytics custom reports. Collection of end-to-end Paid Search analysis reports.
+
+#11: Close to zero aggregated analysis exists, everything's segmented.
+
+All data in aggregate is crap.
+
+Total revenue. Number of Monthly Visits. Average Time on Spent. Site Conversion Rate. Downloads. App Installs.
+
+There is an initial OMG that is how much we are selling to those many people! OMG! OMG! But since those numbers have no context or drill-downs, people get over it very quickly and set your automated data output to auto-delete.
+
+Segmentation is the process of identifying important clusters inside your data.
+
+For example, which countries contributed to total revenue. Or, which pool of customers is most profitable. Or, which campaigns cause the type of repeat visits that deliver 250% higher average order value? Or, which products are loss-leaders for people from Saskatchewan compared to Manitoba?
+
+Once a custom report is created, asking for segmentation incentivizes the asking of the next layer of questions that will almost directly lead to an insight that will lead to a action by the business. So insist that no piece of data (report, dashboard, sexy table) will ever be presented without relevant segmentation.
+
+When you review the portfolio of segments being used by your Squirrels, ensure that they have Acquisition, Behavior AND Outcome segments.
+
+Additionally a sign of mastery of segmentation analysis (only likely if you have Analysis Ninjas, hence a good test) is if you see User, Sequence and Cohort segments/analysis, along with the normal Session and Hit level segments/analysis.
+
+Bonus: Download three awesome advanced segments. Marry custom reports to advanced segmentation for deeper insights!
+
+#10: The KPIs in your DMMM reflect your company size/evolutionary stage.
+
+(More on the Digital Marketing & Measurement Model, DMMM, in #2 below.)
+
+Because we have access to so much data in Google Analytics, WebTrends, Adobe Analytics et. al. the instinctive response of the Squirrels is to go grab the most obvious metrics and start partying. Visits! Time on Site! Pageviews! Hurray! Hurray!
+
+While these metrics sound good, and yes they do get a bunch of press coverage (they have good PR Agents), they are rarely deeply relevant and even more rarely yield valuable insights into business performance.
+
+Pick hard metrics to designate as your key performance indicators. Ensure that they reflect the size of your organization, and its current evolutionary stage. This will set significantly higher expectations for your analytics team to understanding business needs, work harder on the KPIs to find insights, and to deliver a more relevant higher quality outcome (in custom reports with advanced segments applied).
+
+A very good incentive.
+
+Here's an example of KPIs that set a higher standard to meet for small, medium and large businesses, and measure end-to-end success…
+
+You don't see Business Profitability up there, it is only for the Super Analysis Ninjas. If you measure true business profitability, you'll unleash so much Analysis Ninja power it will blow your mind.
+
+Hence the importance of picking the right KPIs. They incentivize optimal Ninja behavior vs. useless data regurgitation.
+
+Bonus: Kill Useless Web Metrics: Apply The "Three Layers Of So What" Test. Four Useless KPI Measurement Techniques.
+
+#9: Your qualitative analysis practice rocks like crazy!
+
+One sure sign of asking for more, forcing more Analysis Ninja type efforts is to have a robust qualitative analysis practice in your company. They force the Reporting Squirrels to move beyond their obsession with Site Catalyst and web analytics data. But the most important impact is that they will get access to a why source of data in addition to their what source of data.
+
+(My second blog post covered what and why! Overview & Importance of Qualitative Metrics.)
+
+Three primary types of qualitative analysis that should be a part of your raised expectation set are: Heuristic evaluations. Usability testing (lab based or online). Surveys.
+
+Heuristic evaluations, as you'll read in the post, are simple and easy to do, all you need are resources you already have. Your goal should be at least 4 evaluation sessions a month.
+
+Usability is now so affordable with so many good online options. Your goal should be at least 5 tests per month.
+
+And finally by surveys I don't mean the 40 question puke of a survey that you are torturing your website visitors with right now! The world's greatest survey only needs you to ask three questions. Just three to get 85% of the actionable value you'll ever get from any survey (no matter how long you make it!). Your goal should be to have a task completion survey live on your site at all times.
+
+What plus Why will create a powerful combination allowing your team to act like real Ninjas and arrive at actionable insights that can be presented in English and in lay terms. And guess what, that drives an impact on your bottom-line!
+
+Bonus: In addition to qualitative analysis, Super Analysis Ninjas also engage in incredible competitive intelligence analysis. Do yours?
+
+#8: Your Team's DC, DR, DA effort allocation is 15%-20%-65%.
+
+Now that we have focused on the types of actual work that our analytics resources are engaged in, it is time to shift to the core of what we started with when we discussed the difference between a organization that has Reporting Squirrel work vs. one that has Analysis Ninja work.
+
+I've split that into three pieces (simply to acknowledge the effort of our IT brethren): Data Capture, Data Reporting and Data Analysis.
+
+Each quarter, if your practice is new, else every six months, audit the time spent by your analytical resources (in-house or consultants). Here is what the allocation looks like for organizations that are empowering Analysis Ninjas…
+
+What does your effort distribution look like?
+
+If you would like to evolve to the above distribution, and you will have to if you want positive ROA, here's a post with more details and helpful guidance: DC-DR-DA: A Simple Framework For Smarter Decisions.
+
+#7: 25% of all analytical effort is dedicated to data visualization/enhancing data's communicative power.
+
+Now that you understand the overall distribution of effort, I want to place a fine point on one facet of work that is truly Analysis Ninja work: Data Visualization.
+
+Let met hasten to add I don't mean making things pretty or creating a data-pukey infographic. I really mean effort that enhances data's power to communicate effectively.
+
+Reporting Squirrels so rarely have an incentive to focus on this, their time is taken up in shoveling the data. This is Analysis Ninja effort. Hence it is critical. After all, what's the point of all that data if it can't speak?
+
+25% of all analytical effort should be dedicated to this quest. It is simply that important.
+
+At the simplest level this is taking what we do every day and making it significantly easier to understand…
+
+Learn more, and how to, here: Excellent Analytics Tip #21: Convert Complex Data Into Simple Logical Stories.
+
+Or it is leveraging a tag cloud or using conditional formatting or weighted sorts or many of the other simple techniques to allow data to speak for itself.
+
+A more complex example might be to use Streamgraphs to visualize trends, patterns (say seasonality) for a chosen metric and dimension…
+
+And perhaps an even more wonderful example might be to use Sunbursts to present a radically different way to understand content consumption patterns of users that lead to a desirable outcome for your business…
+
+Dedicated data visualization efforts will transform the efficiency with with your organization identifies insights (go Ninjas!) and the speed with which these insights can be communicated (this time without English!) to drive big, impactful action.
+
+Hence my recommendation that 25% of all analytical efforts be dedicated to this magnificently valuable venture. You'll separate the Squirrels from the Ninjas pretty quickly, and create the right incentives.
+
+Bonus: Win Big With Analytics: Eliminate Data & Eschew Fake Proxies.
+
+#6: All automated reports are turned off on a random day/week/month each quarter to assess use/value.
+
+Over the years I've developed an allergy to data automation efforts. They are almost completely useless.
+
+The primary reason for this is that automation is based on the assumption that every single day/week/month the question we want answered with data is exactly the same. While that was true through early 1900s, it is no longer true. The world changes too much every day.
+
+Automation also contains the assumption that the person being regurgitated will look at this finite set of auto thingy and will get all their questions answered. This will only happen if nothing changes in the auto regurgitated thingy. If something changes, the first question will be why and then its useless because they have to call someone, open a ticket, get access, wait seven days.
+
+In a small number of cases automation is ok. The CxO is expected to take zero action. They have their five KPIs, they just want to know how things are going and then take the next sip of their expresso. If they see something interesting, they still won't have any responsibility to do anything, they'll just shoot an email off to someone else (or raise a withering eye in a meeting!). For all such use cases…. Fine, automate their dashboard. There might be a couple other scenarios, but not that many.
+
+In summary: Report production can be automated, analysis can be to a small tiny extent, but identification of insights to action can't be automated. Yet.
+
+Now the reality is that people will want automation. It just seems so good on paper and in our hearts. If you can't avoid it, make sure your analytics practice has this process: Turn off a random number of automated reports/dashboards/widgets/data blah at least once a quarter. See what happens.
+
+If you are kicking at a Ninja level, you'll have this practice for daily reports, weekly reports and monthly reports. The practice will lead to automated culling of automated stuff that no one misses, or does not drive action.
+
+For your Analysis Ninjas, elements of their job will be automated. Certain data pulls, certain initial data mashing, etc. But the actual job of finding insights can't be automated and never will. If they say it is automated, you have a Squirrel faking it as a Ninja.
+
+#5: 80% of your external consulting spend is focused super-hard analysis problems.
+
+Consultants are a key part of what will get you to glory faster, and more number of times.
+
+As a young company (Stage 1) you might use them to massively accelerate implementation and deployment. (More on each stage, what you should own vs. what the consultant should do here: Web Analysis: In-house or Out-sourced or Something Else?)
+
+The problem is that due to our under-powered expectations or consultant's lack of skills, that is all we expect of them after the initial implementation plus deployment engagement of three months.
+
+We might add automation of reports (eeek!) to their work load, and data starts getting regurgitated. Because all that automation just shares data, your employees will simply ask for more data (only insights in English drive action). So that leads to more regurgitation.
+
+A real sign that you are empowering a Ninja culture is that you'll be in Stage 4 in 12 months or less (assuming you start from scratch in month one). Your consultants are handling challenges that you have no capacity to deal with (media-mix modeling, complex non-line behavior analysis, controlled experimentation, customer lifetime value optimization etc.). They will be adding real and material value by closing your sophistication gaps, by helping you innovate on the bleeding edge.
+
+If you hire consultants, and they are not in Stage 4 (or 80% of their efforts powering advanced DA) then you have Reporting Squirrel consultants faking it as Analysis Ninjas. That is ok. Recognize that. Pay them accordingly, and accept your company's lack of improvement.
+
+#4: The Analytics/Marketing skills in your Analysis Ninjas is 70/30.
+
+The type of people you hire is critical in creating a Ninja culture. (Yes, yes, yes, tools are important and vendors are amazing, and all that stuff. Remember the 10/90 rule for magnificent analytics success.)
+
+Here's a typical job description for a Sr. Web Analyst: "You have experience working with advanced web analytic methodologies, rich data techniques, experimentation, A/B & Multivariate testing. You have a passion for data and information that allows for laser focused strategies and decisions to be made. SQL and web analytics is your wheel house."
+
+And that is important, it will form the bedrock of their skills. (Please, please, please do not ask for 15 years of "advanced web analytics experience," it does not exist and you are mistaking white hair for wisdom.)
+
+But also look for 30% of their skills to be in immediately adjacent areas. For most digital analysts, that is marketing (online and offline), persuasion, communication and customer service. If you are unique to a certain niche, look for the 30% to be in areas immediately adjacent to that core niche. In your job description ask for it, in the interview ensure they have them (along with testing for critical thinking).
+
+Focusing on just numbers skills overlooks the importance of other things that are key when it comes to just looking at data or making magical sense of it all. For the latter you need a much deeper understanding of business strategy, marketing objectives, customer experience and competitive realities. That's where the 30% skills play such a key role.
+
+You will need people who can understand the See-Think-Do framework, or have the knowledge to create a new business framework for you because they are so good at business and analytical thinking! You will need people who can not only understand data, but data myths that get marketing people fired .
+
+You hire narrowly, you'll end up with a Reporting Squirrel even if you call her/him the Director of Web Intelligence Services.
+
+Are you hiring current/future Analysis Ninjas, or one-trick ponies?
+
+Bonus: More on one-trick ponies and the 70/30 rule.
+
+#3. Your organization structure for magic with numbers is: Centralized Decentralization.
+
+Do you have an organization structure that will incentivize Analysis Ninja behavior, and where Analysis Ninjas will thrive?
+
+Some organizations have a centralized org structure for their analytics practice. This is ok for small companies, it falls apart pretty quickly for larger companies (or worse, evolves into an order taking bureaucratic IT organization).
+
+Others have a completely decentralized structure work at some level. But with everyone doing their own thing it ends up being a structure were there are no efficiencies of scale, little incentive to innovate, and almost no optimizing for the global maxima.
+
+In Chapter 14 of Web Analytics 2.0 I describe my favorite org structure: centralized decentralization. There is a lean (# of people) and agile central tem that is responsible for all the pro's you see mentioned above and also satellite lean team (of one or a very small number of people) in the BU's / divisions, that are responsible for the pro's you see mentioned above for decentralized teams.
+
+Any company hoping to empower Analysis Ninjas will have a model very close to centralized decentralization.
+
+Bonus: Who Should Own Digital Analytics? A Framework For Critical Thinking.
+
+#2. The organization functions off a clearly defined Digital Marketing & Measurement Model.
+
+You can do every single one of the above ten things and still fail.
+
+Sad, isn't it? So much work, and still fail? Yes.
+
+The single biggest reason for failures of your big/small/tiny/giant data effort is simple: A lack of any connection between the data effort and business priorities.
+
+Your Squirrels or Ninjas spend valiant efforts, find amazing data, incredible insights, and yet if they are not aligned with business priorities nothing will get actioned. Causing incredible waste (and frustrated Squirrels!).
+
+Yet, most senior leaders don't know how to answer the question, what should our analytics efforts focus on? Or what questions we can answer with data? The latter especially results in a massive laundry list of stuff for the Squirrel/Ninja to do, and still no tie to the business.
+
+I'd developed the Digital Marketing and Measurement Model as a simple five step process that each organization can go through on a quarterly basis. At the end of the process, in which Sr. Leaders, Marketers and Analysts provide input, you end up with extreme clarity on what's important to the business, what data and analysis to focus the analytical efforts on. No running around. No making stuff up. Extreme focus and tie to business.
+
+You can create a DMMM for a non-ecommerce (with goals and goal value!) content-only site like the one you are on now…
+
+And you can definitely create one for your for-profit or ecommerce digital efforts…
+
+A clearly defined and well understood digital marketing and measurement model is absolutely critical in creating a culture that empowers Analysis Ninjas. It brings a sharp focus to their work, it ensures their insights will be actioned, and that in turn brings joy to everyone's lives. As a bonus, it forces the company leadership to really, really, think about what they are solving for with digital – such a big gigantic bonus!
+
+Bonus: Five-Step Process for Creating your Digital Marketing and Measurement Model.
+
+#1. You know what your Return on Analytics is!
+
+The surest sign that you've created an organization that is truly rocking analysis, and empowering Analysis Ninjas, is that on a quarterly basis you compute your Return on Analytics (ROA).
+
+Everyone in the organization gets measured and every dollar spent is evaluated in terms of the resulting addition to the bottom-line (or cost savings delivered), why not analytics?
+
+Here's the formula…
+
+If you have Reporting Squirrels in your company, this is an impossible task (and they'll tell you that). If you have Analysis Ninjas in your company, this is not hard at all (and they'll tell you that as well!).
+
+Beyond that delightfully satisfying test, measuring ROA ensures that your senior management team is aware of the value your big data efforts are adding to the company. That in turn results in their full support and incremental investment in analytics efforts, which in turn fuels a virtuous cycle that leaves the employees happy, the senior leadership delighted and the company richer.
+
+What's not to love?
+
+Bonus: Download the Return on Analytics Calculation Model.
+
+That's it. Twelve signs that your company has created the optimal incentives, structure and expectations where Analysis Ninjas will thrive, or evolve to if you only have Reporting Squirrels today.
+
+Truly Data-Driven Analysis Ninja-Empowering Achievement Guide.
+
+Go ahead and do a diagnostic of how many of these signs exist in your company. Here's how to grade yourself…
+
+If signs 9, 10, 11, 12 exists, you have the core foundations required. Level bronze achieved. In addition to that, if signs 5, 6, 9, 8 exist, you are the envy of your peer group. Level silver achieved. In addition to that, if signs 2, 3, 4 exist, your financial performance is constantly discussed on CNBC! Level gold achieved. In addition to that, if sign 1 exists, you are so successful and dominant as a company you are about to be sued by the government because they are confident you are doing something illegal (except you are not). Level platinum achieved.
+
+What if you have random signs form various levels? 3, 7, 11? You likely run a Reporting Squirrel farm. The clusters, as identified above, are the key in achieving each level successfully and scalably.
+
+I wish you all the very best.
+
+As always, it is your turn now.
+
+Are you in an Analysis Ninja or Reporting Squirrel work role? Do you agree with the 12 signs outlined above? Is there a sign you've found to be a key indicator that's not mentioned above? Which of the 12 signs has proven to be most difficult for your company, current or past? Do you have a tip, or five, to share with others of things you've done to get to level platinum? What is the single biggest barrier Analysis Ninjas face? If you could only pick three signs for your company/country, which ones would they be?
+
+Please share your critique, insights, stories, examples and helpful guidance via comments below.
+
+Thank you.

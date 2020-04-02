@@ -1,0 +1,31 @@
+Core Architecture
+
+The core CSS architecture of BBC Sport is based around three key tools:
+
+The combination of these three tools, a long with a clear set of principles was worked really well for us.
+
+Block, Element, Modifier, or as is more commonly known BEM, is now regularly found across the web. For me, and others, BEM has become second nature and just forms part of my front end development workflow.
+
+How and why to use BEM has been covered several times before so I won’t go over that again here but the one of the main benefits BEM gives us is predictability. When working on a site the size of BBC Sport having the ability to make changes to our CSS and confidently know the effects them changes will have is invaluable to us. This, for us, along with the many other benefit of BEM, far outweighs any negative opinions people may have about the aesthetics of BEM.
+
+Working with abstractions and following an Object-Oriented CSS approach has helped keep our CSS lean and our UI consistent. Identifying common repeating structural patterns and abstracting them into reusable CSS objects is now common practice at BBC Sport. Prior to the introduction of OOCSS developers would create components with large amounts of bespoke CSS, CSS that is often common in other components.
+
+Sochi Winter Olympics Medals Table as seen on the Index Page
+
+A great example of this is the first data module we created for our new responsive site, the Sochi 2014 Winter Olympics medals table.
+
+The CSS for this table was created without a consideration for how it could be used for any of the other tables we feature across the site. This single table is constructed with 475 lines of Sass and weighs in at 16kb (3kb gzipped). We have since produced a single flexible table abstraction. This single abstraction now powers every table across the Sport site, from Rugby to Cricket and Formula One to American Football. We’ve even recreated the Winter Olympics medals table using this table abstraction. Our reusable table abstraction comprises of only 180 lines of Sass, weighing in at 2kb (0.6kb gzipped). With 8 times less CSS we have been able to create an abstraction which is flexible enough to power every variation of table we have across the site.
+
+The final tool which forms our core architecture is ITCSS or Inverted Triangle CSS. Compared to BEM and OOCSS this one seems to be less well known yet its probably the tool thats had the biggest impact on our codebase.
+
+ITCSS comes from CSS legend, Harry Roberts. If you’re not familiar with this approach to managing CSS I strongly urge you to watch Harry’s talk: Managing CSS Projects with ITCSS.
+
+Harry came to work with us for a day back in 2014 where he shared the ideas behind ITCSS with us. We were one of the first people Harry had shared the ideas of ITCSS with and have been using it ever since. Following the ITCSS methodology has transformed the way we write, plan and organise our CSS.
+
+As Harry explains:
+
+A lot of methodologies try and avoid or ignore CSS’ ‘features’, ITCSS makes them work to our advantage
+
+We have found that as we’re not spending our time trying to fight against the cascade, specificity or any of CSS’ other gotchas; if we’re not constantly unsetting or overriding CSS defined earlier on in the project; if any new piece of CSS has somewhere to live, we get efficient, reusable CSS which is a pleasure to work with.
+
+We’ve been following this approach to writing our CSS for two years and one conclusion I’ve come too is that the best way to avoid CSS becoming a pain point of a project is to write as little of it as possible.

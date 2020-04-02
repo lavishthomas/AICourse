@@ -1,0 +1,23 @@
+In many ways, the things we do and the experiences we have shape who we are—from our personalities to the state of our mental health. But an equally important, if not more elusive, force that molds us is our genes.
+
+Now, in an extensive genetic dragnet, researchers have pinpointed six sections of the human genome linked to key personality traits—extraversion, neuroticism, agreeableness, conscientiousness, and openness to experience. And some of those stretches of DNA may not only help determine if we’re chatty or cautious, but whether we’re prone to psychiatric disorders, such as schizophrenia and attention deficit/hyperactivity disorder (ADHD). Specifically, the researchers found connections linking extraversion with ADHD, neuroticism with depression, and openness with schizophrenia and bipolar disorder.
+
+The findings open the door to a better understanding of such mental conditions, plus the possibility of better ways to identify and treat them.
+
+The study, led by researchers at the University of California, San Diego and published in Nature Genetics, involved sifting through sixty thousand genetic samples collected by the consumer genomics company, 23andMe. Researchers also went through genetic samples from a dataset provided by the Genetics of Personality Consortium, which contained data for approximately eighty thousand participants. With all the data combined, the researchers looked across the genetic blueprints for correlations between specific DNA features, personality traits, and mental disorders.
+
+When psychologists consider personality traits, they often focus on those five main traits mentioned above. Scientists can score each person’s personality based on sub-scores for those traits. An earlier study on twins and families suggested that about forty percent of variation on such personality tests can be explained by genetics.
+
+Linking all the genetic and personality data together, the researchers found a strong association between neuroticism and a region of the genome called 8p23.1, which codes for genes related to innate immunity and the nervous system. This region has been linked to cancer and developmental neuropsychiatric disorders in previous research. So, it’s interesting that this same region is associated with the personality characteristic of neuroticism, which is typically characterized by anxiety, depression, and lack of emotional stability.
+
+The study also found a strong association between extraversion and the gene region called 12q23.3. In previous studies, scientists linked this region to bipolar disorder, suggesting that it might play an important role in regulating personality and temperament.
+
+In correlation tests, the researchers found significant genetic correlations between neuroticism and depression, as well as between extraversion and ADHD. The authors suggest that this finding may indicate that ADHD could be a type of variant of extraversion.
+
+The authors also found that a gene variant known as L3MBTL2 was associated with both neuroticism and schizophrenia, which supports known population-level findings of associations between neuroticism and schizophrenia. Additionally, gene variant MTMR9 was found to be associated with both extraversion and responsiveness to antipsychotic medication.
+
+Last, the authors saw non statistically significant correlations between genes linked to conscientiousness, educational attainment, and academic high performance.
+
+Overall, the researchers concluded that there are shared genetic influences between personality traits and psychiatric disorders. Though the study was large, the authors note that their sample size didn’t give them enough statistical power to detect many rare genetic features that might help explain personality and psychiatric outcomes. However, despite the limitations, the findings suggest that more research into the genetic relationship between personality traits, psychiatric disorders, and gene variants could prove useful.
+
+Nature Genetics, 2016. DOI: 10.1038/ng.3736 (About DOIs).

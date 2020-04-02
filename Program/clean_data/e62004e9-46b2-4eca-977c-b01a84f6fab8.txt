@@ -1,0 +1,41 @@
+Google's adorable self-driving car prototype hits the road this summer, the tech giant announced last week. Real roads, in the real world. The car has no steering wheel or pedals, so it's up to the computer to do all the driving.
+
+As cool as this sounds, it isn't a huge technological step forward. The goofy little cars use the same software controlling the Lexus and Toyota vehicles that have logged hundreds of thousands of autonomous miles, and Google's spent the past year testing its prototypes on test tracks. And, in keeping with California law, there will be a human aboard, ready to take over (with a removable steering wheel, accelerator pedal, and brake pedal) if the something goes haywire.
+
+What's important here is Google's commitment to its all-or-nothing approach, which contrasts with the steady-as-she-goes approach favored by automakers like Mercedes, Audi and Nissan.
+
+Autonomous vehicles are coming. Make no mistake. But conventional automakers are rolling out features piecemeal, over the course of many years. Cars already have active safety features like automatic braking and lane departure warnings. In the next few years, expect cars to handle themselves on the highway, with more complicated urban driving to follow.
+
+“We call it a revolution by evolution. We will take it step by step, and add more functionality, add more usefulness to the system,” says Thomas Ruchatz, Audi’s head of driver assistance systems and integrated safety. Full autonomy is “not going to happen just like that,” where from one day to the next “we can travel from our doorstep to our work and we don’t have a steering wheel in the car.”
+
+Google thinks that's exactly what's going to happen. It isn't messing around with anything less than a completely autonomous vehicle, one that reduces "driving" to little more than getting in, entering a destination, and enjoying the ride. This tech will just appear one day (though when that day will be remains to be seen), like Venus rolling in on a scallop shell, fully formed and beautiful.
+
+Google
+
+In the past few years, Google has used about two dozen modified Lexus RX450h SUVs to drive nearly a million autonomous miles around Silicon Valley. It let select employees commute in self-driving cars on the highway. Its vehicles have been in 11 accidents in all that time, none of them serious, and none of them caused by Google. These days, the fleet is logging 10,000 miles a week, focusing on surface street driving, where variables like pedestrians, intersections, and cyclists make for a lot of complications. It expects to have a finished product by 2020 .
+
+Ever since we started the Google self-driving car project, we’ve been working toward the goal of vehicles that can shoulder the entire burden of driving. Google self-driving car project leader Chris Urmson
+
+There are three significant downsides to Google's approach. First, the goal of delivering a car that only drives itself raises the difficulty bar. There's no human backup, so the car had better be able to handle every situation it encounters. That's what Google calls "the .001 percent of things that we need to be prepared for even if we’ve never seen them before in our real world driving." And if dash cam videos teach us anything, it's that our roads are crazy places . People jump onto highways. Cows fall out of trucks. Tsunamis strike and buildings explode.
+
+The automakers have to deal with those same edge cases, and the human may not be of much help in a split second situation. But the timeline is different: Automakers acknowledge this problem, but they're moving slowly and carefully. Google plans to have everything figured out in just a few years, which makes the challenge that much harder to overcome.
+
+Second, it won't have the benefit of a slow rollout to gradually deal with the big hurdles to self-driving cars: not just perfecting the technology, but dealing with regulatory issues, insurance questions, and consumer acceptance. Regulations are currently a mess , with some states making rules, others voting them down, and the feds basically stalling for time.
+
+Recent studies show consumer interest in autonomous vehicles , but saying you may want a car that drives itself is not the same thing as buying one and trusting it with your life. It's unclear how the insurance industry will react, though premiums could actually drop . Even if automakers do all the work figuring that stuff out, Google will miss out on years of sales.
+
+And third, Google won't reap the benefits of limited autonomy. You don't need a car that drives itself 100 percent of the time to start cutting down on human error. Active safety systems now on the market are already saving lives. By insisting on landing the moonshot, you give up the upsides that come in the interim development stages. Namely, a bump in sales from consumers interested in cars even a bit safer than what else is on the market.
+
+Google knows all this. And it has a strong counterargument.
+
+"Ever since we started the Google self-driving car project," team leader Chris Urmson wrote in a 2014 blog post , "we’ve been working toward the goal of vehicles that can shoulder the entire burden of driving." Vehicles that take the human out of the equation altogether.
+
+One of the trickiest—and little discussed—challenges facing automakers is how to handle the transition between computers and humans, particularly in an emergency. Building an autonomous system that requires occasional human control raises tricky questions, not the least of which is how you ensure the person at the wheel is alert and ready to take over. Audi’s testing has shown it takes an average of 3 to 7 seconds, and as long as 10, for a driver to snap to attention and take control, even when prompted by flashing lights and verbal warnings. A lot can happen in 10 seconds, especially when a vehicle is moving more than 100 feet per second.
+
+And as humans drive less and less, won't we get worse at it? Doesn't that make us a terrible backup system?
+
+The deadly crash of Asiana Airlines Flight 214 at San Francisco International Airport in July 2013 highlights a lesson from the aviation industry. The airport's glide scope indicator, which helps line up the plane for landing, wasn't functioning, so the pilots were told to use visual approaches. The crew was experienced and skilled, but rarely flew the Boeing 777 manually, Bloomberg reported . The plane came in far too low and slow, hitting the seawall that separates the airport from the bay. The pilots "mismanaged the airplane’s descent," the National Transportation Safety Board found.
+
+Asiana, in turn, blamed badly designed software. "There were inconsistencies in the aircraft’s automation logic that led to the unexpected disabling of airspeed protection without adequate warning to the flight crew," it said in a filing to the NTSB. "The low airspeed alerting system did not provide adequate time for recovery; and air traffic control instructions and procedures led to an excessive pilot workload during the final approach."
+
+Whatever happened, exactly, the crash that killed three Chinese teenage girls illustrates the difficulties that can arise when humans interact with complicated software designed to lighten their workload. Google wants nothing to do with that interaction. It believes computers can drive better than humans do, and it's working full speed to hand over the controls completely, and as soon as possible.

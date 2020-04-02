@@ -1,0 +1,43 @@
+In Investors and their incentives, I tried to give a broad breakdown of the incentives that drive the major types of startup investors. I want to dig deeper into a behavior that VCs sometimes exhibit which seems strange from the point of view of founders. Despite praising frugality, VCs sometimes push companies to spend more money, faster. Sometimes this leads to faster growth. More often it leads to empty bank accounts. I’ve seen a number of companies get killed by this dynamic, and it took me a long time to understand why it happens.
+
+Misaligned Incentives
+
+Though VC firms generally act in ways that they believe are most likely to help a company succeed, their incentives can become misaligned around questions of burn because of uncertainty and time. Since VCs know that most of their returns come from a very small number of bets, they need individual partners to spend large amounts of time with the companies that they’ve funded. That time is required to help (in the best scenarios) and to figure out which bet is actually worth further investment of time and capital. In an ideal world, VC firms would be able to increase partners and investing capital whenever they want to add investments. That would, however, require infinite accessible capital and ever larger partnerships. The first doesn’t exist and the second would be hard to manage and support.
+
+Funds are also under pressure to produce returns within a given timeframe in order to demonstrate quality for raising further funds. These capital raises are important because many VCs make more off of management fees than they do from investing well. The most important thing for the near and medium term success of a firm is its ability to generate more fees. With an average fund life for early stage investors of 10 years – and a pattern of raising a new fund every 2-4 years – VCs must show some kind of progress. There is rarely enough time for a firm to return capital to LPs before raising a new fund, so they use private valuations to mark their portfolios up or down. If a fund can show a material markup, they have an edge in marketing for their capital raise. While funds that don’t produce meaningful returns to investors generally fail after a while, it takes a really long time for that to happen.
+
+Combining these two incentives creates a situation in which it is better for a VC firm to push a company to demonstrate success or failure quickly rather than move more slowly. Companies that succeed quickly lower the uncertainty involved in investing further in that company, and justify the amount of time spent by an individual partner on that investment. If a company is doing well it is also likely to attract new investments at higher valuations, which allows the firm to mark up its investment.
+
+Conversely, companies that fail remove themselves as a time commitment for a partner. That’s not an ideal outcome, but it means that the VC firm can refocus energy on companies that are doing well and on finding new companies to make up the valuation lost through the failure of one piece of the portfolio. The faster this happens, the better for the investor.
+
+The worst situation for a VC is one in which the firm has made a significant investment in a company that just muddles along, constantly threatening success and failure. These companies require a lot of time and effort to figure out whether or not they can be saved. They generally generate significant team drama which investors sometimes mediate. They often present difficult bridge financing questions, and they rarely function as good marketing fodder.
+
+How Founders Should Respond
+
+Figuring out how to deal with these pressures is important, and varies depending on your relationship with your investor. The most important thing to remember is that the CEO controls the bank account. Investors can pressure founders to spend faster, but they cannot force them to do so. Founders need to have their own understanding of where and when to spend money, and what rate of spending makes sense.
+
+Next, remember that promises of more funding made when things are going well aren’t worth much. All that matters is the money currently in your bank account. It can be easy, during heady days of growth, to justify any and all expenditures. I’ve talked to founders who have done just that, saying that they need to hire more engineers to develop new features for new users or that they need to spend on advertising to ramp up acquisition. Invariably, they talk about how investor x or y told them that they’re special and had promised to keep funding them no matter what. Investors will often point to the burn at successful companies like Uber to prove that spending is good. Founders will sometimes accept this logic without thinking deeply enough about whether or not the lesson applies to their own situations. A company can get away with this so long as growth is working, but as soon as that company goes sideways, spending becomes problematic.
+
+The closer your company edges towards “not likely to return a meaningful part of the fund,” the faster investor capital will dry up, no matter the promises made early on. This is where investor incentives diverge from those of the company. As the investor gets surer that the company will fail, the investor usually pulls back. As the founder gets closer to failure, the founder’s need for active engagement and help grows. This mismatch can kill companies and relationships.
+
+It may not be surprising, then, that the more money a founder has in the bank, the stronger their position when fundraising. In fact, we’ve seen a few YC companies raise financing rounds without having spent any of the money from a prior round. They do this because they get offered very friendly terms. They can do this because they’ve figured out how to grow without spending lots of money.
+
+The Second-Worst Case
+
+When incentives start to diverge, one of two things can happen. The first case is a bit better, though not great for the founders. There are times where the VC will see a failing company and decide that success is still possible. When this happens, the VC may invest more into the company but will only do so on terms materially more favorable to the investor than would otherwise be the case. This results in significant loss of control and equity for the founder, and may involve the founder being replaced. Whether or not this happens depends on how much leverage the founder has left, and as a bank account approaches 0, leverage decreases asymptotically.
+
+Still, the company may survive.
+
+The Worst Case
+
+The company runs out of money.
+
+__
+
+https://hbr.org/2014/08/venture-capitalists-get-paid-well-to-lose-money ↩
+
+I addressed a bit of this here: http://www.aaronkharris.com/exceptionalism ↩
+
+My partner, Dalton Caldwell, wrote a great post about what you should do if you find yourself in this situation: http://www.themacro.com/articles/2016/01/advice-startups-running-out-of-money/. ↩
+
+Thanks to Craig Cannon, Paul Buchheit and Dalton Caldwell for your edits. Thanks to Paul Graham for initially explaining this dynamic.

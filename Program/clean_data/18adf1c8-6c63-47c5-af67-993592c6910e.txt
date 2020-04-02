@@ -1,0 +1,271 @@
+My love for segmentation as the primary (only?) way of identify actionable insights is on display in pretty much every single blog post I write.
+
+I have said: All data in aggregate is "crap".
+
+Because it is.
+
+One of my earliest blog posts extolled the glorious virtues of segmentation:
+
+Excellent Analytics Tip#2: Segment Absolutely Everything.
+
+Many paid web analytics clickstream analytics tools, even today (!), don't allow you to do on the fly segmentation of all your data (not without asking you to change javascript script tags every time you need to segment something, or not without paying extra or paying for additional "data warehouse" solutions).
+
+So it was with absolute delight that I wrote a detailed post about the release of Advanced Segmentation feature in Google Analytics in Oct 2008: Google Analytics Releases Advanced Segmentation: Now Be A Ninja!
+
+Of course Yahoo! Web Analytics, the other wonderful free WA tool, had advanced segmentation from day one.
+
+And as recently as two weeks ago I stressed the importance of effective segmentation as the cornerstone of the Web Analytics Measurement Framework.
+
+[ Update: Please read this post first in its entirety. Internalize it. Then when you are ready to get a jump start on advanced segmentation, download three super cool segments directly into your account from this post: 3 Advanced Web Analytics Visitor Segments: Non-Flirts, Social, Long Tail ]
+
+The Problem.
+
+You can imagine then how absolutely heartbreaking it is for me to note that nearly all reporting that I see is data in aggregate.
+
+All visits. Total revenue. Avg page views per visitors. Time on site. Overall customer satisfaction. And more. Tons of data "puking", all just aggregates.
+
+The achingly tiny percent of time that the Analyst does segmentation it seems to stop at New vs. Returning Visitors! I have to admit I see that and I feel like throwing a tomato against the wall.
+
+Yes new visitors and returning visitors are segments. But they are so lame that I dare you to find any insight worth, well, a tomato based on those two. You can't. Because new and returning are still two big indefinable globs!
+
+Even if your business actually is tied to understanding the first and then subsequent visits by a person then you are far better off segmenting using Visitor Loyalty (in GA count of visits).
+
+But I am getting off track (this whole non-segmentation business drives me bananas!).
+
+Deep breath.
+
+The Unbearable Lightness of Being.
+
+Segmenting your data is key to your success and that of your company.
+
+It is not very difficult to segment your data. Many tools include some default segments you can apply to any report you are looking at.
+
+For example when you look at your revenue or goal performance it takes a trivial amount of effort to look at All Visits but add to that report the Paid Search Traffic and Non-Paid Search Traffic and get deeper insights.
+
+You can tell your boss: We made 900k, and while you are obsessed with Paid Search please note that 850k of the revenue came from Organic and only $25k from Paid.
+
+PS: Our business is in trouble because we are over-reliant on Search!
+
+See what I mean, a bit better insights.
+
+Among things in the above image I love analyzing Direct (to understand value of the free traffic), Visits with Conversions (to understand my BFF sources and pages and behavior), and Non-bounce Visits (to understand people who give me a chance to do business with them).
+
+But true glory will only come from going beyond the default segments.
+
+Because default segments are created to appeal to everyone / the lowest common denominator, and we all know that there is no such thing as "everyone".
+
+You are unique. The top three things your business is working on are unique. The multi-channel strategy you are executing is unique. Your investment in tools vs people in your company is unique (you are 90/10 instead of 10/90!). You are struggling with your own unique challenges.
+
+You have to have a segmentation strategy that is unique to you. And if you don't then your employment with the company needs to be re-evaluated. (Sorry.)
+
+So how do you go about identifying unique segments for your business or non-profit?
+
+Ask a lot of questions. Tap into the tribal knowledge. Force your leaders (ok HiPPO's) to help you define Business Objectives, Goals and Targets. [Key elements of the Web Analytics Measurement Framework.]
+
+Let me tell you that without the above there is no hope. The first two will tell you what is important and currently prioritized. The third will tell you where to focus you analytical horsepower (based on actuals vs targets).
+
+If you have O, G & T then it is time to select the segments to focus on, the micro-groups of data you'll focus on.
+
+The Segmentation Selector Framework.
+
+My humble recommendation is that as a best practice you should pick at least a couple of segments in each of these three categories:
+
+1. Acquisition. 2. Behavior. 3. Outcomes.
+
+You'll choose to focus on the micro group that is of value to you, and just to you, in each category. You'll apply those segments to web analytics reports where you hope to find insights (and if you choose the right segments you will!).
+
+Let us look at each category I am recommending.
+
+Segment Category #1: Acquisition.
+
+Acquisition refers to the activity you undertake to attract people (or robots!) to your website.
+
+This would include campaigns you run, like pay per click marketing (PPC), email, affiliate deals, display / banner ads, facebook marketing campaigns.
+
+Acquisition also includes search engine optimization (SEO), because it is an activity on which you spend time and money.
+
+Ask yourself this question: "Where is my company currently spending most amount of time and money acquiring traffic?"
+
+Bam! There's the most important segment you will focus on.
+
+Why? If you do your analysis right you can lower cost (by identifying and eliminating the losers!) and you can increase revenue (by identifying and investing where things are going well).
+
+See the process I followed there?
+
+Ask the question to identify what's important / high priority for the business.
+
+Create a segment (and then micro segments) for that one thing.
+
+Apply on the relevant reports to measure performance using key performance indicators.
+
+Take action. It will have an impact!
+
+Don't just log into Site Catalyst or WebTrends and go on a fishing expedition, or treat every single thing with equal importance.
+
+Paid search. A specific group of keywords. Television campaigns. Email campaigns to prospective customers in Florida, New Mexico, Arizona and Utah. Coupon affiliates. "Social media campaigns" (context). Billboard ads on side on highways. Business cards handed out at trade shows.
+
+All of the above are examples of acquisition strategies.
+
+When you look at your web analytics data look at All Visits AND at least one of the above.
+
+Two acquisition segments is normal.
+
+If you make it three then choose one acquisition strategy that your company is experimenting with.
+
+Say you have 1/10th of one person doing some tweeting or facebooking, :), then add that one segment to your top two. This will allow your management to look at what they are focused on and also one thing that sounds cool but they have no idea if it is actually worth it.
+
+(Short term focus) Win – Win (Long term focus)
+
+How To Apply Segments / Analyze Data.
+
+The reports you'll apply your acquisition segment to will depend on the Key Performance Indicators you have chosen. But a typical set of metrics you'll evaluate will hopefully represent a spectrum of success, like for example. . .
+
+The effort will be to try and understand if for our acquisition segment (say all my brand keywords or for email campaigns to increase sales of the most expensive products). . . .
+
+How many visits did we get (to get context)
+
+Of those how many were new visits (if that is a focus)
+
+How many could we get to give us one pathetic click (bounce rate!)
+
+What was the cost of acquisition (if you can get total cost give yourself a gold star)
+
+What value could we extract at a per visit level
+
+How many people could we get to convert (replace total goal completions with conversion rate if you want)
+
+What was the total value added to our business or non-profit
+
+As you look at your acquisition segments in context of all visits you can quickly see how you can start to find insights faster. Don't focus specifically on the metrics I have used above but rather the thought process behind their selection.
+
+This is not the end of your journey but it is a darn good start!
+
+[ If you have Web Analytics 2.0 pop the CD at the back into your computer. In dashboard examples look for Stratigent_Sample_Dashboard.xls, via my friend Bill Bruno at Stratigent. It has an excellent example of segmented acquisition display, you can immediately steal it for your company! ]
+
+Segment Category #2: Behavior.
+
+Behavior refers to the activity people are undertaking on your website.
+
+When people show up, what is it that they are doing? Is there anything discernable / important in their behavior that is adding value to your online existence? Or, the flip side, what do we want people do to on our site, and is anyone exhibiting that behavior?
+
+Even people who sometimes have segment their web analytics data often forget to segment by online behavior.
+
+Many, but not all, behavior segments fall into these two buckets: People who see x pages. People who do y things.
+
+Here are some specific examples (all of which you can create in Yahoo! Web Analytics or Google Analytics in a few seconds without having to pay anything extra for vars and slots or having to update your javascript tag or having to buy an add-on, you can also apply them to all your data including all your historical data).
+
+Visits with more than three page views. . .
+
+This can be so valuable on content only websites (more page views more impressions of irrelevant display ads!) or even on ecommerce websites (more pages views the deeper you sink your hook into the visitor, engagement baby!).
+
+Where do these people come from? Do they buy a lot? A little? Do they write reviews? Did we acquire them or did they just show up? If they see so many pages what type of content are they interested in (politics? naked pictures? sports?)?
+
+So on and so forth. Segmenting one behavior, understanding its value.
+
+Similarly another could be focusing on people how add to cart and then abandon the site.
+
+Or people who enter the site on the home page and their behavior. . .
+
+Or all those who did not enter the site via the home page!
+
+Or people who use the site's product comparison chart or car configurator or, my fav, internal site search. Vs. those that don't.
+
+Or people whose Days to Purchase (/Transaction) are 5 vs for those for whom the Days to Purchase is 1. . .
+
+Or, cuter, those whose last visit to our website was 100, or whatever, days ago. Why? And what do they want?
+
+Or people who visited the site more than 9 times (!) during the current time period. . .
+
+Where are these sweet delicious people coming from? (Note: To a blog updated only twice a month!) What do they read? What do they buy? What can we learn from them and do more of?
+
+Those are the types of questions you'll answer from your behavioral segments.
+
+The more you understand what people are doing on your site, the more likely it is that you'll stop the silliness on your site (kill content, redo navigation, make cross sells better, eliminate 80% of the ads, learn to live with 19 days to conversion, don't sell too hard, and so much more).
+
+It is also likely (I want to say guaranteed) that you'll find the delta between what you want to have happen and what your customers want. You'll choose to make happier customers, who in turn, in the naughtiest way possible, will make you happy.
+
+And it all stars with being able to identify and focus on the right behavior segments.
+
+Pick at least two.
+
+But I have to admit in this segment category I truly "play" with the data a lot because it is so hard to know what the right segments are, because visitor behavior is such a complicated thing (they are constantly trying to mess with us Analysts!).
+
+It is only after experimentation (a lot) that I end up with something sweet.
+
+Segment Category #3: Outcomes.
+
+Outcomes are site activities that add value to you (business/non-profit).
+
+I find that here the problem is less that the Analysis Ninjas don't segment, rather it is that they are incredibly unimaginative.
+
+But first what is it?
+
+Segments with outcomes are people or visits where you get a order (at an ecommerce website) or you get a lead (at Organizing for America).
+
+Those two are obvious right?
+
+Segment out people who delivered those two outcomes. Give them a warm hug and a kiss. Now go figure out what makes them unique when compared to everyone else who showed up at your website, all those other people who you worked so hard to impress but failed to.
+
+Take the insights and do more of what works for this group.
+
+Or segment out everyone whose order size is 50% more than the average order size. . .
+
+These are your "whales", people who spend a lot of money with you. Don't you want to get to know them a lot better? : )
+
+But there is more.
+
+Remember macro AND micro conversions!
+
+No one is going to sleep with you on the first date. (Ok maybe a few will!)
+
+So focus on micro conversions that lead up to a macro conversion… like people playing a product video (or on content site watching five videos!). . .
+
+Or adding a product to their Wish List.
+
+Or signing up to show up for a protest for your ultra liberal policies!
+
+Or apply for a trial, or download a trial product.
+
+You can also focus on micro conversions that all by themselves are of value to you, even if not as much as the macro conversion.
+
+For example submitting a job application.
+
+Or signing up for a RSS feed.
+
+Or clicking on a link to go to a different site you want them to go to (like clicking on the amazon link to go buy my book – great outcome :)).
+
+Of course if you are really really good you'll also segment my absolute favorite metric in the whole wide world: Task Completion Rate. It is the ultimate measure of outcome (from your customer's perspective).
+
+Net, net. . . it is absolutely critical that you segment your data by the key outcomes important to your business. Not just because your site exists to add economic value, but also because I cannot think of another way you can earn the love of your boss or get promoted.
+
+By understanding what it is about people who deliver outcomes you can understand what to do with all those that don't convert.
+
+Outcomes. Outcomes. Outcomes!
+
+Pick at least two.
+
+If you pick three or four that is ok.
+
+If you pick nine it might be a signal you don't know what you are doing (and you want to corner your boss in a non-HR-violation manner and ask her to help you focus on the most important).
+
+In Summary.
+
+Segment or die.
+
+It is as simple as that.
+
+The next time you start to do true analysis of your data I hope you have your minimum six segments in hand (two for each category). If you do you'll find that web analytics, this world full of web metrics and what not, suddenly becomes a lot more interesting (and you no longer feel like jumping out of your office window in frustration!).
+
+Love, money and glory await you.
+
+Not to mention how proud I'll be of you when I see your analysis. ; )
+
+Ok now your turn.
+
+Are you a segmentation God? What are some of your favorite segments? Have you used this three category framework in the past to find segments? Do you think they'll work in real life? In the context of segments what do you think is missing from this blog post? What did I overlook / not stress enough?
+
+What's your excuse for not leveraging segmentation? (Best answer to this question win's a copy of Web Analytics 2.0!)
+
+Please share your thoughts / wisdom / critique / guidance.
+
+Thanks.

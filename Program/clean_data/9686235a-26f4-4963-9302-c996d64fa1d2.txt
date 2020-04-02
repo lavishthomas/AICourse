@@ -1,0 +1,197 @@
+Do you want to know what content performs best on your website?
+
+Have you heard of Behavior reports in Google Analytics?
+
+Knowing how visitors move through your website and interact with your content lets you optimize your website performance and conversions.
+
+In this article I’ll share how Google Analytics Behavior reports let you assess the performance of your content and the actions visitors take on your website.
+
+Note: One way to get the most out of any Google Analytics data is to set up conversion goals. If you haven’t done this already, set up the easiest goal type by reviewing the first point under the Google Analytics Admin header in this Google Analytics Basics post.
+
+Locating Google Analytics Behavior Reports
+
+The Behavior section reveals what your visitors do on your website. Specifically, the reports tell you what pages people visit and what actions they take while visiting.
+
+You can access Behavior reports using the menu in the left sidebar of your Google Analytics dashboard.
+
+There are nine separate reporting sections and tools under Behavior in your website’s Google Analytics profile. Let’s dive into them.
+
+#1: Overview
+
+The Behavior Overview report provides a graph showing the amount of traffic your website receives and additional metrics.
+
+Look below for a brief description of the data you’ll find in the Behavior Overview report.
+
+Pageviews—The total number of pages viewed. This number includes repeated views of a single page. In other words, a single person may view the same page several times and each view is counted as a pageview. Unique Pageviews—The number of individual people who have viewed a specific page at least once during a visit. For example, if a single user views a page more than once during the same visit, only the original view is counted (whereas general Pageviews count each visit). The Unique Pageviews metric counts each page URL + Page Title combination. Avg. Time on Page—The average amount of time users spend viewing a specific page or screen, or set of pages or screens. Bounce Rate—The percentage of single-page visits or the number of visits in which people left your website from the same page they entered on. For example, if you visit a single article or page on a website and then leave, that’s counted as a bounce and is factored into the Bounce Rate. % Exit—The percentage of users who exit from a page or set of pages.
+
+Look beneath the quick overview graphs and you’ll find links to reports for top content page URLs, top content page titles, search terms, event categories and AdSense revenue. I will cover these reports in more detail later in the article.
+
+#2: Behavior Flow
+
+The Behavior Flow report lets you see the path visitors commonly take on your website—from the first page they view to the last page they visit before leaving your site.
+
+This report gives you a visual guide to how long visitors stay on your website and where those visitors end up leaving.
+
+#3: Site Content
+
+The Site Content section contains the following reports about how visitors engage with pages on your website.
+
+All Pages
+
+You can use the All Pages report to quickly see your top content along with the average amount of revenue each page generates. This report helps you determine what content performs best on your website.
+
+The All Pages report displays the top pages on your website based on traffic, as well as each page’s pageviews, unique pageviews, average time on page, entrances, bounce rate, % exit and page value.
+
+Page value is the Transaction Revenue + Total Goal Value divided by Unique Pageviews for the page or set of pages.
+
+Content Drilldown
+
+The Content Drilldown report is helpful for websites that have subfolders such as domain.com/blog/ and domain.com/support/ or something similar.
+
+This report allows you to see the top folders of content on your website and the top content within that folder.
+
+While it looks similar to the All Pages report, the distinguishing feature here is the ability to see top content sections instead of just top content pages.
+
+Landing Pages
+
+The Landing Pages report lets you see the top pages on your website where visitors enter.
+
+Metrics for landing pages include Acquisition (sessions, % new sessions and new users), Behavior (bounce rate, pages per session and average session duration) and Conversions based on your website goals.
+
+With this data you can determine which pages on your website are most likely to convert visitors into leads or sales.
+
+Exit Pages
+
+The Exit Pages report shows the last pages people visit before exiting your website. These are the pages you want to look at to see what you can do to keep visitors on your website longer.
+
+The best way to keep visitors on your site is to add more links to other pages on your website. And be sure the listed exit pages have clear subscription options so visitors can receive emails or easily follow your business on social media.
+
+#4: Site Speed
+
+Want to know how your website performs in terms of speed? The Site Speed section has crucial reports that identify areas of your website that you may need to optimize.
+
+Site Speed Overview
+
+The Site Speed Overview report displays a graph of the average load time of all pages throughout your website.
+
+See below for a brief description of the metrics you’ll find under the Site Speed graph.
+
+Avg. Page Load Time—The average amount of time (in seconds) it takes for pages to load from initiation of the pageview (e.g., a visitor clicks on a page link) to load completion in the browser. Avg. Redirection Time—The average amount of time (in seconds) spent in redirects before fetching a page. Avg. Domain Lookup Time—The average amount of time (in seconds) spent in DNS lookup for a page. Avg. Server Connection Time—The average amount of time (in seconds) spent in establishing TCP connection for a page. Avg. Server Response Time—The average amount of time (in seconds) your server takes to respond to a user request, including the network time from the user’s location to your server. Avg. Page Download Time—The average amount of time (in seconds) to download a page.
+
+With these metrics you can work toward improving page load time and page download time by optimizing the content on your website. A few improvements you can make include reducing the size of images, reducing the number of add-ons (widgets, plugins, etc.) used on a page and so forth.
+
+Under the Site Speed metrics, you’ll see quick reports on load times based on the browser the visitor uses, the location of the visitor (country) and the page the visitor lands on.
+
+Page Timings
+
+The Page Timings report displays how long your most-visited pages take to load compared to the overall average load time for your website.
+
+You should review pages with a higher-than-average load time to see what optimization options you have.
+
+Speed Suggestions
+
+The Speed Suggestions report gives you detailed advice from Google on how to optimize specific pages on your website and includes steps for each suggestion.
+
+Depending on the number of pages you have on your website, it may seem impossible to fix all of your load time issues. I suggest you start with your highest-traffic pages and work your way down the list.
+
+User Timings
+
+The User Timings report allows you to measure how fast specific elements on a page load and determine whether it affects the user experience.
+
+Note: To use the User Timings reports, you need to implement custom code on your website.
+
+#5: Site Search
+
+One of the most frustrating changes to Google Analytics in recent years is the loss of organic keyword data. Fortunately, you can still capture some valuable keyword data using Site Search.
+
+Setting up Site Search metrics for your website is simple. Use your website’s search box to perform a search on your website, and then follow the steps in Google Analytics Help to configure Site Search in your website’s Analytics profile. You will then be able to use the following reports.
+
+Site Search Overview
+
+The Site Search Overview report displays the overall metrics for visitors who use the search box on your website. Beneath these metrics, you can view quick reports for the terms searched, categories and the pages where visitors initiated a search.
+
+Usage
+
+The Usage report breaks down the number of visits where someone used the search box on your website versus the number of visits where the search box wasn’t used.
+
+You can quickly see whether having a search box increases or decreases factors like bounce rate, average time on your website and conversions.
+
+Metrics for the pages users land on as a result of their search include Acquisition (sessions, % new sessions and new users), Behavior (bounce rate, pages per session and average session duration) and Conversions based on your website goals.
+
+Search Terms
+
+The Search Terms report displays the keywords entered into your website’s search box. Along with the terms, you’ll find metrics for the total number of searches, % search exits and additional details about visits related to a search term.
+
+Pages
+
+The Pages report displays the same metrics mentioned above for search terms, but in this case the metrics are focused on pages where searches originated.
+
+#6: Events
+
+The Events section in Google Analytics allows you to track specific interactions on your website, such as clicks on external links, file downloads and video plays.
+
+To use Events reporting, you’ll need to set up event tracking code on your website. Once it’s set up, you’ll be able to use the following reports.
+
+Events Overview
+
+The Events Overview report displays a summary of the visitor interactions you’re tracking. Values are calculated based on the event value you specify in your event tracking code.
+
+Under these metrics, you’ll find quick reports showing the number of events based on category, action and label (all of which are specified in the event tracking code you set up).
+
+Top Events
+
+The Top Events report displays the events with the most visitor interaction. For example, if you’re tracking outbound link clicks using this piece of event tracking code, then you can click on Outgoing Links from this report to see the specific links that visitors are clicking on when they leave your website.
+
+Tracking your outbound link clicks helps you learn what resources your visitors are most interested in. This information is especially helpful for publishers. Say you write a post on 50 top tools for content marketing. If you notice that a lot of people click on a particular tool, you might want to follow up with a post on how to use that tool.
+
+Top Events reporting is also valuable for businesses with online portfolios, such as web designers or freelance writers. Seeing what example links people click on most would show you the work your potential clients like best. When you notice a particular portfolio item never gets clicked on, you’ll know to remove it from your site.
+
+Pages
+
+The Pages report shows you the top pages where visitors interact with the events you’re tracking. Let’s go back to the earlier example of a business with a portfolio. If you have several portfolio pages and you track outbound link clicks, you can see which portfolio pages not only receive traffic, but also get the most clicks to your example work.
+
+Events Flow
+
+The Events Flow report displays the path visitors take on your website from when they arrive to when they interact with your event.
+
+The default view shows event interactions from visitors in particular countries. You can change the view to show event interaction flow from landing pages and other dimensions offered in the drop-down menu above the first column.
+
+#7: AdSense
+
+Many websites use Google AdSense to generate income from visitors who click on ads published by Google AdWords advertisers. You must link your Google AdSense account to your Google Analytics account to use the following reports.
+
+AdSense Overview
+
+The AdSense Overview report displays the revenue you’ve generated from Google AdSense on your website along with additional metrics including click-through rates, revenue per thousand impressions and overall impressions.
+
+AdSense Pages
+
+The AdSense Pages report displays the top pages on your website that generate the most AdSense revenue for you.
+
+Additional metrics show the number of ads clicked, click-through rates, revenue per thousand impressions and overall impressions per page.
+
+AdSense Referrers
+
+The AdSense Referrers report shows you the referring URLs driving visitors to your website who click on AdSense ads.
+
+If your website generates revenue through ad clicks, this report helps you determine what traffic sources to focus on for increased earnings.
+
+#8: Experiments
+
+Experiments in Google Analytics allow you to conduct simple A/B testing to see which landing page variations perform best at meeting specific conversion goals.
+
+If you want to optimize for conversion goals such as increased subscribers, leads and sales, then Experiments can help you perfect your landing pages to convert more visitors.
+
+#9: In-Page Analytics
+
+The final component of the Behavior section, In-Page Analytics, lets you view your web pages along with your Google Analytics data. To use this feature, you must install the Page Analytics Google Chrome extension.
+
+In addition to the metrics shown at the top of the page, you’ll see percentages next to each link on the page. Hover over the link to display the percentage and number of clicks the link receives.
+
+This view of your website allows you to see which areas get the most attention. If you notice a particular area gets a lot of clicks, make sure it includes links that aid in conversion goals for your business.
+
+Conclusion
+
+Google Analytics reveals a lot of data about how visitors engage with your website’s content. The Behavior reports give you insight into your top pages and top event interactions, as well as the ability to improve your conversion rates with Experiments and In-Page Analytics.
+
+What do you think? Do you check your Behavior reports regularly? What insights do you get from the reports? Please share in the comments!

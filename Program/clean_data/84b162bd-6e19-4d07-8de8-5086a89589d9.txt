@@ -1,0 +1,105 @@
+Picture this crazy scene. You’re heading downtown in rush hour traffic. A Porsche 911 veers into your lane and cuts you off at 90 miles-an-hour. Startled, you kick your Prius into high gear to catch the criminal.
+
+With your left hand, you deftly swipe your iPhone to camera mode while your right hand stays glued to your steering wheel. With one final burst of speed, you catch up and press record. You’re determined to put this driver behind bars.
+
+Then the most unbelievable thing happens. The criminal takes both hands off his steering wheel to cover his face and eyes…and he mashes his accelerator to the floor.
+
+Why on earth would someone drive with both hands over their eyes? (Please don’t try this at home.)
+
+I made up this crazy story to make a point. Hiten Shah, Kissmetrics’s co-founder, explains that growing your business without tracking your marketing performance is like driving with both hands over your eyes.
+
+What many readers don’t know is that real SaaS companies set up analytics to track specific marketing campaigns, step-by-step. That way, they aren’t driving blind, and they know how many dollars they’re pulling back for every dollar invested in each marketing campaign.
+
+So my teammates and I put together three step-by-step infographics explaining how you can track the return on investment (ROI) of three popular marketing campaigns:
+
+Tracking ROI at a SaaS company is harder than you might think. That’s because one end of the ROI equation is pegged to a moving target. Here’s what I mean by that:
+
+Let’s say your SaaS company charges $10/month. If you spend $100 to acquire one customer, you may be losing money until that customer makes her 10th payment. After that, any additional monthly payments are profit. Here’s how it plays out (and for the sake of simplicity, let’s pretend you have no overhead costs):
+
+Month #11 – Your marketing investment of $100 has pulled in $110.
+
+Month #12 – Your marketing investment of $100 has pulled in $120.
+
+Month #20 – Your marketing investment of $100 has pulled in $200.
+
+If you were to calculate the ROI of this marketing campaign in month 11, you could say that for every $1 you invested in this campaign, you pulled back $1.10. If you were to study this campaign again in month 20, you could say that you pulled back $2 for every $1 invested. Notice how one end of the ROI equation changes from $1.10 to $2 as time passes? That’s the moving target.
+
+So far, here, we’ve been measuring the ROI for a campaign that acquired one customer. Imagine how tricky it gets when you have multiple campaigns, each pulling in thousands of new customers. What’s scarier is that, if you lose track, you may drive your entire company off a cliff. How? If new customers aren’t sticking around long enough to cover the cost of marketing, then you’re losing money for every new customer acquired. Ouch!
+
+That’s why I’m working at Kissmetrics now. I felt the pain of measuring marketing ROI at my last SaaS company, and I ended up buying Kissmetrics there.
+
+Today, I’m convinced that modern SaaS marketers need to think about analytics with ROI in mind. If your analytics tool doesn’t track the ROI of your marketing campaigns, please keep searching for more analytics tools.
+
+Obviously, I’d recommend Kissmetrics; but, at the end of the day, I want you to pick something that you’re comfortable with. I know too many SaaS marketers who relied on Google Analytics, only to learn later that Google Analytics can’t elegantly track repeat monthly payments, nor can it track individual people.
+
+As I was writing this post, I reached out to hundreds of SaaS marketers at companies like FreshBooks, Heroku, AdRoll, and Livestream. Some are Kissmetrics customers. Some aren’t. Many of them took the time to share how they think about analytics. I either copy/pasted quotes from emails or paraphrased phone conversations in what you’ll see below. Some common themes emerged, which I’ve repackaged as six mantras:
+
+#1 – Analytics lives or dies on culture.
+
+Tracking marketing is a cultural thing. Either tracking matters or it doesn’t. You’re in one camp or the other. Either you’re analytical and data-driven, or you go by what you think works. People who go by gut are wrong. – Stuart McDonald, CMO at FreshBooks
+
+Tracking – not as a technology, but as a culture – is the #1 marketing tool that any company can use. – Liam Gooding, Co-Founder and CEO at VirallyApp.com
+
+People say, “You are what you eat.” But in startups, I would say, “You are what you measure.” If all you measure is vanity metrics, then this is what your business will focus on. If you don’t measure anything, then you’ll just become reactive and not learn. – Zaid Zawaideh, Co-Founder at Sandglaz
+
+#2 – Analytics helps you better use your runway.
+
+As a startup, we have limited resources to spend so we need to quickly figure out which marketing experiments and campaigns are bringing a ROI. It’s also important to understand how long it takes to get the return because cash flow is very important. It’s all very well to figure out you can spend $1 to make $10. But, if it takes 6 months to see the return, the cash flow situation is very different than if it takes 15 days. – David Mytton, Founder at Server Density
+
+Often, marketers focus too much on the tactical results of which campaign is “winning” or “losing” and tie a savings value to that delta. But, usually, the greater value of real-time tracking is related to time. Especially at a startup where time is your runway, knowing immediately whether or not a campaign is – or ever will be – effective provides value that is hard to calculate. Essentially, real-time tracking enables smart marketers to approach campaigns with a “lean” mentality, fine tuning and testing on the run. – Michael Neu, Head of Product Development at Relaborate
+
+#3 – Analytics moves marketing away from distractions and toward growth.
+
+Time and money are your scarcest resources. You want to make sure you’re allocating them in highest-impact areas. Data reveals impact, and with data, you can bring more science to your decisions. – Matt Trifiro, CMO at Heroku
+
+We are a data-driven company from the product to the distribution. Tracking our marketing efforts is a piece of the puzzle for the entire strategy at Livestream. Tracking is crucial because it is the first step of our optimization process. We track, we analyze, we optimize accordingly, and then we start again. Without tracking, there is no optimization. And optimization is the key to growth. In other words, tracking alone is not sufficient, but it is necessary to do any sort of analysis. Tracking itself allows us to answer simple questions, such as: Who is our audience? Where can we find them? What is the best way to engage with them, and when is the best time for it? – Kelly Halfin, Head of Business Intelligence at Livestream
+
+Without accurately tracking ROI on marketing, you are taking unnecessary risks. One of the biggest benefits of marketing online is the fact that it is so trackable, especially with great tools like Kissmetrics. Because we spend time tracking what works and what doesn’t work, we end up saving a lot of time by not wasting it on methods that don’t work. We can read all types of books and articles about what type of marketing is best (AdWords, SEO, banners, etc.), but, in reality, every business is different. It’s important to test what works for your specific business. – Nathan Gilmore, Co-Founder and Marketing Head at TeamGantt.com
+
+Measuring your marketing ROI is like using a map. Without it, you don’t know where you’re going and don’t know if you’re moving in the right direction. It’s key to any marketing initiative and should be a high priority for every marketer. – Matt Gratt, Marketing Manager at BuzzStream.com
+
+Marketing can seem like a race madly off in all directions, but you have only so many resources and not an infinite number of real opportunities. Without measuring, you will never know where the real opportunities are and how to focus yourself on them. If you want to grow faster, double down on your good results and cut well-meaning distractions. Markets are a beautiful mystery. They are large, confusing, and ever changing. They also are full of hidden opportunities and ready competitors. You always have to keep track of your marketing or else you will be too slow to adapt to a change that could kill you – or launch you into orbit. – Sunir Shah, CMO at oLark
+
+At the end of the day, I need to know if the money we are spending is contributing to or hurting our marketing efforts. The better we know our customers and how they are finding Base (our app), the easier it becomes to guide our marketing campaigns. It also makes it easier to understand who we are building our product for. Once you truly understand your customer, the direction of your campaign becomes very clear. – Josh Bean, Marketing Mechanic at Future Simple
+
+As to the importance of tracking our marketing … for us it is fundamental. When we first started out, we weren’t as focused on it as we should have been. We relied too much on hunch and some simple “vanity” metrics, but that wasn’t good enough to make confident decisions. Now we start any marketing by first being clear on what we want to learn or prove and how we are going to measure it. This gives us a sound basis from which to really understand if what we are doing is effective. – Chris Small, CEO at VendorShop Social
+
+Lots of marketers don’t know what they’re doing and can’t answer the question, “Does this impact my business?” By tracking your marketing, you learn what works and you keep doing that, while cutting out the things that don’t work. Funny example: pic.twitter.com/m16n8K1o. – Colin Nederkoorn, Founder and CEO at Customer.io
+
+The ability to track our marketing efforts end-to-end lets us see what is working and (more importantly) what isn’t. By analyzing each point in the sales funnel, we find opportunities to optimize the evaluation and buying process for our customers. If we didn’t have these insights, we’d essentially be operating with a blindfold on. With them, we can run a lean, efficient marketing team. – Liz Pearce, CEO at LiquidPlanner
+
+Investing in marketing without tracking, analyzing, and acting upon the results is just like throwing money out the window. It will have an impact, for sure. People will show up. Yet, will it really benefit your business? – Alex Osterwalder, Founder at Strategyzer
+
+I don’t see the purpose of doing marketing without tracking marketing. It’s very useful to run small experiments. Measure what works. Then put more money into what’s successful. Take money away from what doesn’t work. Iterate through small experiments. Put money where data says to put the money. A key part of learning how to scale a business is to learn what marketing tactics work and what strategies work. And put money into successful programs. – Steve Adams, CEO at Fusebill
+
+You can’t do marketing without tracking. Marketing doesn’t exist without tracking. In order to validate the existence of an online marketing team, you have to be able to track everything. In SaaS, it’s really critical. When I sit in front of management, I have to prove my campaign is working. If I run a campaign and track it and don’t get any conversions, I don’t do it again. – Debbie Cohen, VP of Online Marketing at Seculert
+
+Regarding tracking, if a marketer doesn’t track numbers, that’s like a soldier who doesn’t shoot or sex without an orgasm. :) There really is no point in running a campaign if you have no clue how to measure results and what to improve upon. A designer asked me once, “What’s the point of all the numbers and analytics anyway? Marketing is a hoax.” Why do teachers give grades to kids at school? To know how a person is doing in different subjects and what areas need to be improved. And take drastic measures before it’s too late. – Sasha Kovaliov, Marketing Sorcerer at Quote Roller
+
+Tracking is everything. You can’t make incremental improvements without tracking your efforts. – Joshua Siler, Founder and CTO at HiringThing
+
+Marketing is about experiments. If you’re not measuring results for your experiments, you’ll never be able to improve. Be very cognizant of how you’re spending your money and what the results are. For every dollar you spend, translate it into dollars from a lifetime value perspective of your customers. To measure success based only on open rates and return rates, you’re missing the point. Measure the cost of customer acquisition and lifetime value. If you’re not measuring those, you don’t really have a marketing program. – Peter Mollins, VP of Marketing at KnowledgeTree
+
+#4 – Analytics keeps the marketing team anchored to hard-money results.
+
+Whether you’re building a SaaS company or selling porn, tracking your marketing efforts is a must for any serious business. Business is a game with the goal of making money. How can you win at any game without keeping track of the score? – Deven Patel, Founder and CEO at Cyfe
+
+Tracking marketing expense is crucial and helps us align our marketing efforts with actual results. With tools like Google Analytics and Kissmetrics, you no longer have to live in a world where half the money you spend on advertising is wasted. – Dinesh Raju, CEO at ReferralCandy
+
+Tracking marketing efforts is extremely important for us because we’re trying to be as lean as possible. As a startup, there’s neither time nor resources to waste on hunches, so everything we do starts with an experiment. If we couldn’t track the results of those experiments, we’d have no clue what actually works in acquiring and keeping customers. The same is true for the marketing campaigns that we develop based on those experiments. Just because they work for a set period of time doesn’t mean the results will stay steady for the rest of the life of our company (if only). When we saw how successful and cheap certain PPC campaigns were for us, we were overjoyed; but, in the end, the lifetime value of those customers was negligent compared to that of customers that were a bit more expensive to acquire. Lesson learned: keep paying close attention. – Claire Pelletreau, Growth Leader at OmbuShop
+
+Measurement is a precondition for success. If you don’t measure, you have no way to determine whether you’ve achieved your goal. This applies to all aspects of business and especially marketing. – Matt Colyer, Founder at Easel.io
+
+If we didn’t track our marketing efforts, we would incorrectly attribute increases in conversions or sales to marketing activities we have a bias toward. I see people doing that all the time. They’ll try 4 different things, not track any of them, see an increase in conversions, and claim one or two of them worked. They’ll say the ones they’re most excited about worked, instead of looking at the data to see which things truly worked and by how much. I’m often surprised by how many things I try that should work, but don’t. This has taught me that moving forward on my assumptions (without validating them with data) can be a huge mistake. Because we track our marketing efforts, we haven’t been fooled when we’ve seen fewer conversions turn into more paying customers (which has happened more than once). – Ruben Gamez, Founder at Bidsketch
+
+We live in an age where, if you’re an online business with some product, people engage on your website or through some other location on the Internet. Typically, it’s easy to track the source of inbound traffic; and, consequently, any actions a visitor takes from that point. Because there’s an opportunity to track that, I can’t see why you wouldn’t want to assess the impact of every source out there and learn from that. You can assess a real-dollar ROI to every type of content or paid search or email campaign out there. And compare them against others. One email has a return of X and another email has a return of half-X. You can ask, “Why?” And you can learn. Become more of an ever-learning process. Assess what’s working and what’s not working. – David Hassell, CEO at 15Five
+
+#5 – Analytics gives credit where credit is due.
+
+The most important element of measurement that marketers often miss is incrementality. Basically, would a customer convert anyway if you didn’t utilize a particular marketing channel, or is the marketing channel taking credit for conversions that would’ve happened anyway? – Adam Berke, President at AdRoll
+
+#6 – Analytics gives you back what you put into it.
+
+The adage regarding traditional advertising: “Half the money I spend on advertising is wasted; the trouble is I don’t know which half.” needs a revisit in the new digital marketing era. The real question is not whether you can measure the return on every marketing dollar spent on online channels but whether you would be up for it. – Goldee Udani, Founder at Beevolve
+
+About the Author: Nemo Chu is the former Director of Customer Acquisition at Kissmetrics. Before joining Kissmetrics, he was marketer #1 and employee #2 at Bloomfire, a SaaS company that was acquired 20 months after launching at SXSW 2010.

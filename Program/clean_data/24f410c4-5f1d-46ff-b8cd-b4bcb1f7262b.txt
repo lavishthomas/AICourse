@@ -1,0 +1,103 @@
+Before this year’s NBA season started, I had a conversation with a Golden State Warriors fan. He was excited about his team and was keen to explain its success: It was perfectly balanced, with perfect chemistry, role players, coaching and management. That Stephen Curry is pretty amazing also helped.
+
+His point that the Warriors are some kind of Zen basketball masterpiece is hardly controversial. Yet a few minutes into our conversation I found myself arguing strenuously that this diehard Curry fan didn’t really understand how great — and how important — Curry is.
+
+Other than Daryl Morey, Curry is perhaps the figurehead in the NBA’s Three-Point Revolution™. It’s easy to get swept up in the narrative that 3-point shooting has been long-undervalued and that smart sharpshooters are finally taking over the NBA. Teams that shot the most and the best from beyond the arc last year dominated like never before. The correlation between a team’s rate of attempting threes and its winning percentage was the highest it has ever been (.47). In the playoffs, the top 3-point-shooting teams made up the entirety of the conference finals:
+
+Despite this, I’ve been a tiny bit skeptical of the notion that the 3-point shot is inherently superior. I’m not anti-three the way Byron Scott is, but I’ve suggested that the midrange game — which has historically been a strong indicator of success in the NBA — might still be important once defenses adjust to the new offensive math and a new equilibrium is reached.
+
+But Curry kills all that. Curry isn’t a product of the math; he’s so good that he has his own math. Indeed, the math is so far in Curry’s favor that the Warriors — and even basketball in general — may not fully understand what they have yet.
+
+While arguing with that Warriors fan, I may have said some things I shouldn’t have. Like that Curry has an outside shot at breaking Wilt Chamberlain’s season record of 50 points per game. Even as MVP, Curry scored only 24 points per game last year, so obviously I was exaggerating for effect … right?
+
+Through November, Curry is scoring nearly 32 points per game this season (despite having the luxury of sitting out several fourth quarters as the Warriors roll). As ESPN’s Director of Analytics Ben Alamar wrote, Curry “seems to have figured out that he truly cannot take too many 3-point shots.”
+
+And that’s the heart of the matter. The deeper you dive into the data, the more you realize that Curry isn’t just a deadly efficient shooter, but he’s also virtually immune to burden. As he has been asked to produce more and more, he hasn’t gotten any less efficient. (Economists would say Curry has nearly constant returns to scale.) The question is: How much additional shooting volume could Curry handle while still remaining the Warriors’ best option?
+
+I could rattle off a couple of stats and make a guess, but as my sanity depends on this, I didn’t want to take it casually. So I’ve examined the issue from a number of angles, including a foray into the NBA’s latest tracking data.
+
+There’s good news and bad news. The bad news is that the results really don’t give us a clear indication of how much burden Curry may be able to handle. The good news is the data doesn’t show even the tiniest hint that Curry is anywhere near his limits yet.
+
+So how good is Curry’s shooting?
+
+Although Curry does a lot of things well, his main skill is chucking the ball into the basket, so let’s start with that. To look at Curry’s shooting, I used NBA shot-tracking data from the start of the 2014-15 season through Saturday’s games (courtesy of Nylon Calculus). The data set contains not only shot distance, but also the distance of the nearest defender and the time left on the shot clock (usually). From this, I created a quick regression to find an expected value of each shot taken, which I then compared to the results. This plot shows how much value each player has added since the start of last season versus how many shots he took (with the size of each bubble corresponding to the number of shots taken per game):
+
+Among players with more than 200 shots, Curry was only the fourth-most-efficient shooter on a shot-by-shot basis (behind Kyle Korver, DeAndre Jordan and Kevin Durant). Yet Curry has more than 1,600 shots in that span, while none of the other three players has even half that. He has 371 total points added from shooting efficiency alone, with Korver in second place with 247. Note that this doesn’t include additional value from free throws earned — which would probably make Curry’s advantage even greater (Curry has 416 made free throws in the period, compared to Kyle Korver’s 118).
+
+This year, Curry is making his 2014-15 MVP season seem practically pedestrian. Curry is playing better in a number of ways — among other things, he is on pace to set career highs in stealing and rebounding, and he has his best defensive rating to date. He is also hitting a career high in shot attempts per 100 possessions (29.0 this year vs. 25.1 last year) and 3-point attempts per 100 possessions (15.5 this year vs. 12.1 last year). Most importantly, even though he’s taking all these extra shots, his shooting efficiency has gone up! As a reminder, here’s Kirk Goldsberry’s shot chart for Curry this season (as of last week):
+
+But perhaps my favorite stat in all of this: Curry’s assists per 100 possessions has plummeted (11.6 last year, 8.5 so far this year, his lowest since 7.8 his rookie year). It’s probably fair to infer that Curry is taking more shots that he used to set up for teammates.
+
+As well he should! Curry should only be setting up others’ shots if he is unable to take or get a better shot himself, which is not that often.
+
+Curry’s bad shots are better than others’ good shots
+
+I like to joke that Curry should just take “all the shots” — which is an exaggeration (I think). But there’s strong evidence that the Warriors could be asking Curry to take even more of them.
+
+Let’s get very basic for a second: Some shots are better than others. Sometimes a defense breaks down and leaves a player an open look, and sometimes the clock runs down and a player has to heave up a prayer despite being tightly defended. A good offensive scheme is one that generates a lot of good shots. But of course this is relative to who takes them: An open three is useless if it’s taken by a poor shooter like Shaq, while a pretty well-guarded three can be valuable if it’s taken by a good shooter like Curry.
+
+If the Warriors were to assign Curry even more shots, they would have to come from somewhere. If Curry can steal shots that are as good as or better than those his teammates would have taken, that’s pure gravy. But if we assume that the Warriors are already distributing their shots wisely, giving Curry more shots likely comes with a trade-off: To give Curry more shots would mean taking “better” shots away from his teammates. Moreover, Curry’s new shots are likely to be worse, on average, than the ones he is taking already (if they were better, he would probably already be taking them).
+
+So if our hypothesis — that Curry should be taking more shots — is true, it would suggest that sometimes the Warriors should pass up a good shot for Curry to take a bad shot. So how good is Curry at bad shots?
+
+Very, very good.
+
+One way to measure his skill at bad shots is to look at how he shoots when he’s well-defended. In the shot data, the simplest proxy for this is the distance of the nearest defender. For example, NBA players on the whole made 35 percent of all 3-point attempts last season, but they made 44 percent with the closest defender at least 12 feet away.
+
+Here’s Curry’s 3-point shooting over the past two seasons, broken down by distance to closest defender:
+
+Leave aside the sharp drop on the right of the chart for a moment: Curry has hit 45 percent with a defender between 2 and 4 feet away, 44 percent with a defender between 4 and 6 feet away, and 47 percent with the closest defender more than 6 feet away. Yes, that’s right, Curry shoots threes about as well with a defender 2 to 4 feet away (classified as “tight” by NBA.com) as an average NBA shooter does with the nearest defender 12 feet away.
+
+Sure, Curry has shot poorly when “smothered” with defenders less than 2 feet from him. This is perhaps unsurprising considering that Curry is only 6-foot-3, and this includes blocks by definition. But note that these types of shots are pretty rare: They accounted for only 25 shots in the data, about 3 percent of his 3-point attempts. In any case, Curry seems to be all right at getting himself good looks:
+
+So aside from the rare smothering, Curry seems fairly immune to defense. He hits about 42 percent of the hardest quartile(ish) of his shots (specifically, the 28 percent with the closest defender less than 4 feet away), or about 126 points per 100 attempts. In other words, if Golden State could replace its entire offense with just the bottom quartile of Stephen Curry’s 3-point attempts — without him ever being fouled and with them never collecting an offensive rebound — they would have the best offense in NBA history by a wide margin.
+
+But it gets crazier.
+
+Another proxy for a shot being pressured is how much time is left on the shot clock. As the clock winds down, the expected value of a possession drops as well, since players may be compromising shot quality to get a shot off. With Curry, not so much:
+
+Curry takes a huge portion of his shots early in the shot clock (more than 50 percent) and is deadly on these. His worst time frame is with around 12 to 16 seconds left — where he has still made 42 percent. Then, he somehow shoots better and better as the clock runs down! In addition to being another example of how the traditional ideas of “good” and “bad” shots don’t really apply to Curry, this also has the very practical implication that Curry’s teammates should be willing to pass up reasonably good shots even if it means Curry will have less time to set up his own.
+
+Curry vs. the Warriors
+
+Of course, the Warriors aren’t an average team. So perhaps it’s impractical to think that their great shooters should be passing up good looks. For this, let’s first look at how well and how often the entire Warriors squad shoots. I’ve plotted each Warrior’s true shooting percentage against his field-goal attempts per 36 minutes this season.
+
+We normally expect a flat to negative relationship between these two variables: Players with a small burden are more selective and tend to be “sharpshooters” taking wide-open threes and such, while high-volume shooters have to do the dirty work of taking shots that aren’t open and aren’t easy but are better than nothing. Incidentally, this is one reason why some great players with heavy shooting burdens may appear less valuable than they are: If they’re forced to take all the bad shots, they could be doing better on those than average but still have low efficiency.
+
+With Curry, we have no such problem:
+
+Curry demolishes the trend by taking an absurd number of shots efficiently. Here’s Curry’s true shooting percentage over the past four years compared with that of the other Warriors:
+
+This already has a big impact on the Warriors’ bottom line. But the huge gap between him and the rest of the club — his “perfectly balanced” supporting cast — again makes it likely that a subpar shot for him may be well above average for his team.
+
+The Curry stratagem
+
+One way to get Curry more shots is to have players pass up shots so that Curry can take them. But another angle is for the offense to set up and have Curry take certain shots as quickly as possible. A shot like the pull-up 3-point jumper, say.
+
+The pull-up three is not normally a great shot in the NBA. The league on the whole converts about 28 percent on average (corresponding to 84 points per 100 possessions) — well below the 35 percent that players convert on all 3-pointers. But since the start of last season, Curry has converted 42 percent of his. Here’s a plot of every player with at least 100 pull-up 3-point attempts in the same period:
+
+So say Curry was instructed to take significantly more pull-up 3-point attempts than the large number he already takes. Even assuming that these shots were a little bit worse than the ones the Warriors would be able to get otherwise (highly questionable), getting efficient shots off early in a possession has other ancillary benefits. For one, it allows the Warriors to pack more possessions into a game, which is good because they are gaining ground on their opponents for every possession exchanged (unless they play a better opponent, which these days they don’t). But second, being able to play a very fast-paced offense when necessary (such as Curry taking quick threes early in the clock) allows them to extend the game as much as possible when they’re behind, just as being able to play a slow-paced offense (such as holding the ball unless you have a clear shot and then letting Curry shoot under pressure) is valuable for shortening the game when they’re ahead.
+
+In other words, building your offensive strategy around “Curry as options 1, 2, and 3” has win-maximizing benefits beyond Curry’s shooting efficiency.
+
+No, seriously, Curry is getting better
+
+Every article about every great young athlete ever seems to end with “And he’s just getting better and better” — even though this often isn’t true. So let me end this one with, “No, seriously, he really is getting better and better.”
+
+And, other than the fact that Curry is so good right now that he can’t possibly get better, there’s no evidence of him slowing down. To illustrate, here’s every NBA season during Curry’s seven-year career:
+
+Curry has taken on additional shot-making responsibilities throughout his career, yet his true shooting percentage has been getting better and BETTER.
+
+As I mentioned earlier, for most players, this is a trade-off: The larger the burden placed on them, the less efficient they are. I’ve added a trend line through all of the players other than Curry to show how it’s normally flat. This is because better players tend to get more shots, which counteracts the fact that a given player taking more shots tends to be less efficient. I’ve also colored in LeBron James and Durant, so you can see that the standard relationship basically holds even for MVPs. But Curry has set career highs in both attempts and efficiency — in the same year — four times, including each of the past three seasons. That is, Curry comes only in shades of good, better and best (in that order). Curry is truly the Dennis Rodman of shooting!
+
+Indeed, when considering Curry’s potential, I think Rodman is perhaps an even more important precedent than Chamberlain or Michael Jordan. Rodman came into the league as a reasonably well-rounded player but had an incredible talent for rebounding. As years went by, his teams leaned on this skill more and more. He took on fewer and fewer offensive responsibilities, and he started gathering larger and larger shares of his team’s rebounds. In the 1993-94 season, he gathered nearly 29.7 percent of all available rebounds — at the time, the highest by any other player was Moses Malone, with 23.4 percent in 1976-77. Despite being one of the most one-dimensional players ever, this made Rodman one of the most valuable players in NBA history.
+
+While exceeding 50 points per game sounds crazy — it would require Curry to take on the order of half of his team’s shots — as evidenced by Rodman, fully exploiting a game-breaking skill can lead to unthinkable results.
+
+Do I really think that the Warriors will adopt an all-Curry-all-the-time strategy and knock Wilt out of the record books?
+
+I don’t know. But Curry himself is a microcosm of the revolution that we’ve already seen. Just as the math suggests that good midrange jump shots should often be exchanged for worse 3-pointers if possible, so the math suggests that good non-Curry shots should be exchanged for worse Curry shots. I’m confident in saying that we aren’t there yet. And if that revolution happens as well, look out.
+
+CORRECTION (Dec. 3, 11:30 a.m.): An earlier version of a chart in this story incorrectly gave the source of the data on shooting percentage by time remaining on the shot clock; it was Nylon Calculus, not Basketball-Reference.com.
+
+CORRECTION (Dec. 3, 12:02 p.m.): An earlier version of this article misstated the rate of Curry’s 3-point attempts this year and last year. They were per 100 possessions, not per possession.

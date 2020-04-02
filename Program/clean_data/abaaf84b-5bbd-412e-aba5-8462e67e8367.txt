@@ -1,0 +1,31 @@
+Basic management fundamentals are hard to implement. It’s part of the reason you can’t just copy another company’s management practices (even Google’s) and simply sit back and wait for success. Companies still have to do the hard work of addressing the essential ways their management practices function.
+
+Google has opened its trove of management processes to one and all, for free. It might not feel that surprising – after all, Google has created plenty of other free tools for the world to use. And it also follows Google’s many years of work in people analytics. But in fact, there is something surprising in the details of what they revealed: Their management tools focus on some pretty basic stuff like how to run meetings, have conversations, and set goals. As basic and unsurprising as some of these practices may look, they are really hard to do well on a consistent basis. Reasons for that include a lack of awareness that better processes are needed, a lack of the skills needed to do those processes, and organizational politics.
+
+Steven Moore for HBR
+
+Google has opened its trove of management processes to one and all, for free. It might not feel that surprising — after all, Google has created plenty of free tools for the world to use, from internet search to email. Management tools may not seem that different. And it also follows Google’s many years of work in people analytics.
+
+But, in fact, there is something surprising in the details of what Google revealed. Turns out a lot of its management tools focus on some pretty basic stuff, like how to run meetings, have conversations, and set goals.
+
+Why would Google release its management processes? I see three reasons.
+
+First, the company has nothing to lose by doing it. That’s because as basic and unsurprising as some of these practices may look, they are really hard to do well on a consistent basis. My coauthors and I explore this in detail as part of a study of how well 12,000 firms in 34 countries performed 18 core management practices. We found many reasons for weak adoption of basic things like target setting and talent management, but some of the most prominent ones include:
+
+A lack of awareness that better processes may be needed
+
+A lack of the skills needed to adopt those better processes
+
+Organizational politics — but more generally a lack of trust within the organization to adopt new processes. Taking steps like standardizing the way interviews are conducted, for example, may be perceived as excessive bureaucracy by some employees even if they are beneficial to the organization as a whole.
+
+These hurdles are hard to overcome — because of them, even basic management fundamentals are hard to implement. It’s part of the reason why you can’t just copy another company’s management practices (even Google’s) and simply sit back and wait for success. Without building the core competencies that allow those practices to work, all you’ve got is something that sounds good on paper.
+
+Consider the difficulties researchers find in replicating lab experiments. It turns out that even the small differences in methods led to failure for efforts to replicate certain results. Management practices have a similar flavor — you need a whole set of practices, and standards around those practices, to be in place for them to be effective. So in this light, there’s very little downside to Google being “open source” about management; it’s so hard to copy good management that the company isn’t risking much.
+
+The second reason Google might choose to release these practices exists in some tension with the first: When really implemented, even simple management practices can have a huge payoff. In other words, because basic management practices are difficult to adopt, the firms that manage to do so see a major impact on organizational performance. Any company that successfully adopted Google’s management tools would be likely to see huge gains.
+
+In our sample, the average firm that managed to improve from the bottom 10% to the top 10% in management skill would see a $15 million increase in profits, 25% faster annual growth, and 75% higher productivity. To see why, consider something as basic as process implementation. Adherence to a common set of processes is a way to remove common biases in an organization and to focus on objective results rather than gut feelings. It’s an important part of teamwork, especially when very skilled individuals with complementary specialties have to work together. Surgeon Atul Gawande’s focus on simple checklists as a way to reduce errors in the operating room is an example of this; his checklist is a common process that helps keep teams of diverse and highly skilled people focused on the job at hand. Basic practices like the ones Google focuses on are often the glue and cohesiveness needed across all sectors, including tech. As Google CEO Sundar Pichai said: “I also value teamwork quite a bit and I think it’s really important to build organisations where people really want to work together. Everything comes out of that. So, setting up collaborative cultures is another big thing I’ve been trying to focus on.” Management practices are an essential ingredient in building culture.
+
+Third, and finally, Google might also choose to release its management tools because doing so could help macroeconomic growth. When firms grow, the economy grows. We’ve found that better-managed firms spend 10 times as much on R&D as poorly managed ones and also increase their patenting by a factor of 10. All that innovation is good for the broader economy. Indeed, in our study the average management quality in a country was strongly correlated with standard measures of economic growth.
+
+While they may not always feel glamorous, strong managerial processes really matter. It’s great that Google made its public, but companies still have to do the hard work of addressing the essential ways that their management practices function.

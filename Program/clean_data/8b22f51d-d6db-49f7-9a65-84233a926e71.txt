@@ -1,0 +1,41 @@
+Be sure to see Missing Menu Commands and Snippets for more examples.
+
+Here's a simple primer on using AppleScript with iTunes. You'll need to launch the AppleScript Editor app which is located in your /Applications/Utilities/ folder. The example AppleScript "snippets" can be copy-and-pasted to AppleScript Editor, or you can click on the link to automatically open the snippet in AppleScript Editor.
+
+The language of AppleScript is similar to our everyday language, and is not at all like unfamiliar and confounding heiroglyphics you may have seen in other programming languages. You don't have to learn too many new "code words". This also makes it much easier to explain. Usually, a line of AppleScript does exactly what it says it will do.
+
+
+
+Type this fairly simple sentence into AppleScript Editor and then activate it by pressing the "Run" button:
+
+tell application "iTunes" to play
+
+This is a tell statement; the script "says" to your computer: "tell iTunes to do something"; in this case to start playing (exactly which track is played depends on what playlist or source or particular track is selected in iTunes). Tell statements contain objects and commands, very much like nouns and verbs, respectively.
+
+
+
+When you want to perform several commands on several objects, you can use just one tell statement:
+
+tell application "iTunes" set sound volume to 40 set EQ enabled to true play end tell
+
+The end tell at the end encloses the command statements. Sometimes this is called a compound tell statement or a "tell block". Usually, all of a script's commands and computations occur within just one set of tell statements (there are exceptions).
+
+
+
+To specify a particular object, you must infer its relationship to the tell object, in our case, iTunes. Look:
+
+tell application "iTunes" play track 13 of user playlist "Sparkle and Fade" end tell
+
+The word of is used to unambiguously refer to a particular object—here track number 13—of a user playlist named "Sparkle and Fade". This is a reference to the object to which it is a path. Notice the path in the next example.
+
+
+
+Objects can have various properties—for instance, in iTunes name is a property of the object track. You can access the value of a property with the AppleScript command get; and you can assign a new value to a property with set.
+
+tell application "iTunes" copy (get name of track 12 of user playlist "Favorites") to trackName end tell
+
+-- or
+
+tell application "iTunes" set name of track 4 of user playlist "Favorites" to "Everlong" end tell
+
+You can determine how the script will behave next by testing whether certain conditions are met. You can do this with an "if...then" statement; if a condition is true then do something:

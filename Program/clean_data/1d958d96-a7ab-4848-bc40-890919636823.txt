@@ -1,0 +1,54 @@
+To a lot of non-developers, learning to code seems like an impossibly daunting task. However, thanks to a number of great resources that have recently been put online for free— teaching yourself to code has never been easier. I started learning to code earlier this year and can say from experience that learning enough to build your own prototype is not as hard as it seems. In fact, if you want to have a functioning prototype within two months without taking a day off work, it’s completely doable.
+
+Below, I’ve outlined a simple path from knowing nothing about software development to having a working prototype in eight weekends that roughly mirrors the steps I took.
+
+Introduce Yourself to the Web Stack (10 Minutes)
+
+The presence of unfamiliar terminology makes any subject seem more confusing than it actually is. Yipit founder/CEO Vin Vacanti has a great overview of some of the key terms you’ll want to be familiar with in language you’ll understand.
+
+Get an Introductory Grasp of Python and General Programming Techniques (1 Weekend)
+
+Learn Python the hard way : Despite the title, the straightforward format makes learning basic concepts really easy and most lessons take less than 10 minutes. However, I found that the format didn’t work as well for some of the more advanced topics, so I’d recommend stopping after lesson 42 and moving on.
+
+: Despite the title, the straightforward format makes learning basic concepts really easy and most lessons take less than 10 minutes. However, I found that the format didn’t work as well for some of the more advanced topics, so I’d recommend stopping after lesson 42 and moving on. Google’s Python class: Read the notes and / or watch the videos and do all of the associated exercises until you get them right—without looking at the answers. Struggling through the exercises I kept getting wrong was the best learning experience. I would have learned far less had I just looked at the answers and tried to convince myself that I understood the concepts.
+
+These two resources are somewhat substitutable and complementary. I recommend doing the first few lessons from both to see which you like better. Once you’ve finished one, skim through the other looking for concepts you aren’t fully comfortable with as a way to get some extra practice.
+
+Get an Introductory Understanding of Django (1 Weekend)
+
+Work through the Django tutorial.
+
+Delete all your code.
+
+Work through the tutorial again, from scratch.
+
+The first time I went through the tutorial I inevitably ended up just following the instructions step-by-step without really understanding what each step did since everything felt so new.
+
+Advertisement
+
+The second time through I wasn’t as focused on the newness of the concepts was better able to focus on understanding how all the parts work together.
+
+Get a Deeper Understanding of Python/General Programming Concepts (2-4 Weekends)
+
+Again, I would sample each and see which you like the best. I ended up doing both but that was probably overkill.
+
+Practice Building Simple Web Applications (1 Weekend)
+
+Work through a few of the exercises in Django by example. These exercises don’t hold your hand quite as much as the Django tutorial but they still provide a fair bit of guidance so I found it to be a nice way to start taking the training wheels off.
+
+Build Your Prototype (1 Weekend)
+
+That’s it. Eight weekends (or less) and you’ve gone from zero to a functioning prototype. Not so daunting after all is it?
+
+Advertisement
+
+Author’s Note: It goes without saying that there’s a huge difference between the relatively cursory amount of knowledge needed to build a simple prototype (the focus of this post) and the depth of knowledge and experience needed to be a truly qualified software engineer. If you want to learn all that it takes to build modern web applications at scale, getting professional web development experience at a fast-growing startup like Yipit is a great next step. If you’re smart, hard-working, and passionate about creating amazing consumer web experiences drop us a line at jobs@yipit.com—we’re always looking for great people to join our team.
+
+How I Taught Myself to Code in 8 Weeks | Yipit Django Blog
+
+David Sinsky started at Yipit without any prior coding knowledge. Before long, he was a full developer contributing features directly into the code base.
+
+Yipit collects local deals and online sales from thousands of sources and puts them in one place. Over 1 million people use Yipit to get a daily digest of the deals in their city and the online sales from the stores they follow.
+
+Image remixed from ollyy (Shutterstock).
+

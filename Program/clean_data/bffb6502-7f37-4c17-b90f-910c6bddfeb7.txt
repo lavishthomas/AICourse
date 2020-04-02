@@ -1,0 +1,75 @@
+Home security and automation are rarely mentioned in the same sentence as the word cheap, but it's totally possible if you're willing to do a few things yourself. We checked out a $200 DIY kit called Ninja Blocks, and were able to get a home automation and security system up and running in about 10 minutes.
+
+What You'll Get
+
+Ninja Blocks are an open-source home automation system that allow you to connect a variety of sensors to the internet. Ninja Blocks are essentially the brain behind that home automation system, and you can connect sensors and peripherals to it easily. Basically, Ninja Blocks are kind of an If This Then That for the physical world. In a way, they're similar to the Belkin WeMo, but Ninja Blocks have a lot more options for triggers, and support the WeMo if you already have one.
+
+Once everything is set up, all your gadgets and home monitors will be connected to the internet and visible from your smartphone or PC. You'll be able to monitor the temperature in your home, turn on lights, check out web cams, toggle motion sensors, and pretty much anything else you can think of in regards to home security or automation. If you have anything with a sensor, actuator, or gadget that uses RF signals or Wi-Fi, chances are that you can connect it to a Ninja Block. You can even add to it with your own Arduino, Raspberry Pi, or BeagleBone projects.
+
+You can also set up a series of rules that takes action at certain times. For example, you can have outlets turn on at a specific time of day, or have a sensor send you a text message when it detects movement. What makes Ninja Blocks exceptional is that you don't need a lot of technical expertise to get the job done: it's extremely easy to set up, no matter who you are.
+
+What You'll Need
+
+We decided to keep things simple and used the $199 Ninja Blocks Starter Kit. The kit includes:
+
+One Wireless motion sensor.
+
+One Wireless door/window contact sensor.
+
+One Wireless button.
+
+One Wireless temperature and humidity sensor.
+
+One Ninja Block (BeagleBone Black Linux computer with an Arduino).
+
+One Ethernet Cable.
+
+One 5VDC 3 Amp Power supply with connectors for US, EU, UK, and AU.
+
+One Temperature Probe
+
+However, the hardware is open source, so you could actually make your own kit too. For example, if you already have a Raspberry Pi, you can buy the $49 Ninja Pi Crust to add the Ninja Block functionality, or buy any of the sensors or buttons individually based on your needs. Likewise, you can even make your sensors with the Ninja Block Breakout Board, or skip all that and make your own system using Ninja Blocks' open source schematics and software.
+
+Step One: Set Up Your Ninja Block
+
+First things first, you'll need to set up your Ninja Block. This is a pretty simple process:
+
+Open up your Ninja Block case and make a note of the serial number next to the ethernet connector. Close up the Block, and plug it into your wireless router with the ethernet cable and then plug in the power cord. Wait for it to boot and load its software. The process takes about five minutes the first time. The status lights on the Ninja's eyes will turn purple when it's done. Head to your computer and pair you Ninja Block by heading to a.ninja.is/you. Login with your email and password. Select "Blocks" under the settings profile, and then "Pair Another Block." Type in the serial number you wrote down in step one. Finally, click the "Setup WiFi" button, and enter your local network name and password. The Ninja Block will reset and you can then disconnect it from the ethernet cable.
+
+As far as the initial setup is concerned, your Ninja Block is now up and running.
+
+Step Two: Set Up Your Sensors
+
+Now it's time to connect all those sensors to the Ninja Block. The four sensors that come with the Ninja Block kit (the temperature/humidity sensor, motion sensor, proximity sensor, and button) are already set to work with your Ninja Block, so it's incredibly easy to get them connected. In fact, all you really have to do is install a battery, name your sensors, and place them around your house.
+
+Advertisement
+
+Each of the sensors included in the kit need a battery, and once that battery is installed it will automatically hook into your Ninja Block. The temperature sensor will automatically connect to the Ninja Block once it's powered on and start displaying the temperature, but you'll want to label the rest of the sensors:
+
+Head to the Dashboard on your Ninja Blocks at: a.ninja.is/home. Your sensors should be listed as 1, 2, 3 under saved sensors. Click the pen icon next to each to label them. If you're not sure which sensor is which, activate the sensor (move in front of the motion sensor, move the proximity sensor, or click the button), and wait for the notification to pop up on your dashboard.
+
+Of course, Ninja Blocks support a lot more devices than just what's in the starter kit. You can add on remote control power sockets, lights, LEDs, and plenty more. Once your sensors are connected to your Ninja Block, it's time to actually do something with them.
+
+Step Three: Set Up Your Rules
+
+What makes Ninja Blocks cool is the fact that you can set up a series of cause-and-effect rules with your sensors. These rules are pretty simple: if a sensor is triggered, then an action happens. The action is usually something like turning on a webcam, sending a text message, or turning on a light. They're super simple to set up:
+
+Head to the rules tab on your Ninja Block. Select the sensor you want to make a rule for and click "Next." Click the result you want (text message, toggles, webcam, etc). Name your rule and click "Done."
+
+To get more options for what your Ninja Blocks can do, head over to Settings > Preferences on your Ninja Block and sign into services like Twitter, Dropbox, Twilio, and more. This makes it so your sensors can do things like tweet, send emails, text message you, or upload pictures (if you have a webcam attached). You can make sensors do multiple actions too. For example, you could set up two rules for home security: one where you get a text message when motion is sensed, and another where that motion sensor also triggers a webcam to take a picture.
+
+Advertisement
+
+What you can do with rules is really up to you. If you have your lights and heater connected to your Ninja Block, you could set it so everything turns on right when you arrive at home. Or you could set up a motion sensor that alerts you when your washing is done. Heck, you can even set it up so your lights turn on right at dusk. I recommend checking out the Ninja Block forums for inspiration.
+
+Step Four: Set Up Your Smartphone App
+
+With Ninja Blocks you also get apps for Android and iOS. These apps can control any of your relays, power switches, sensors, lights, or anything else attached to your Ninja Blocks from anywhere. All you need to do is download them and log in.
+
+Once you've installed the app, you can create rules for relays here. Simply tap the pen button in the top right corner, and you can add a button to the remote to turn any switch or activate any action. Additionally, the main dashboard is also mobile friendly if you want to monitor your home.
+
+Additional Resources
+
+We've only run through the basics of what you can do with Ninja Blocks. The fact of the matter is that things don't get truly interesting until you start tinkering around with it for yourself. We don't have the time or space to run through every possibility, but since Ninja Blocks are open source and remarkably easy to work with, there are plenty of hacks out there to extend the power your Ninja Blocks. Here are a few guides, tips, and resources we found helpful:
+
+You have a ton of options for home automation, but what I like about Ninja Blocks is that everything just works out the box. Home automation and security has always been one of those intimidating things that seemed right outside of my scope of knowledge (and cost), but Ninja Blocks make it easy for beginners while still keeping an open source system that experts can tinker with. The best part of that is that experts can then share their apps and settings so even us amateurs can benefit from this DIY solution. The currently available kit does quite a bit, but a new iteration is on its way in June of 2014 that adds support for Bluetooth, XBMC, Pebble, and more.

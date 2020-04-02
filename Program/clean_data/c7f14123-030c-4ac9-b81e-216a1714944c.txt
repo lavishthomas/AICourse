@@ -1,0 +1,123 @@
+It’s common for online merchants to think that by simply listing hundreds or even thousands of products on their e-commerce website, search engine traffic will start rolling in. It turns out that is far from reality.
+
+The sad fact is, optimizing e-commerce websites for SEO (Search Engine Optimization) is much harder than it is for blogs or simple 5 page company websites. By having lots of product pages constantly shuffling on and off the site, numerous problems arise that make SEO very difficult for e-commerce websites.
+
+Today we are going to go over 7 common SEO errors of online stores and e-commerce websites.
+
+1. Lack of Product Description
+
+From my experience, this error usually is made by online gift stores (in the broad sense) and online clothing shops. Unfortunately, the complete lack of a text description of the product virtually puts an end to the chances of the page being in the top 10 of a search engine query, even in the case of low-frequency queries. So be sure to add a description to the item card; do not kill your page’s chances.
+
+For example, these boots. Nothing special, just boots. Of course, the picture speaks a thousand words, but the search engines cannot see images. So make sure to add a description of the product.
+
+A great way to measure how much unique content you need is to measure the default word count of a blank product page. Count all the words that are used in your navigation, sidebar, footer and any text that is present on a blank product page. Make sure your unique text, exceeds that “default” word count in order to have a heavier weight on unique content.
+
+Obviously the more unique content you write for your product description will always be better for your SEO efforts. However, keep the following things in mind:
+
+Only write quality descriptive content that helps your customers make purchasing decisions.
+
+Don’t copy content from other websites. The search engines will penalize you for doing this.
+
+You may want to test what description word count helps with purchase conversion. Too much content might hurt.
+
+2. Using Product Descriptions from Manufacturers
+
+If you want to be filtered by the search engines, just add a description from the manufacturer. This action can guarantee your site will be banned from the search engines.
+
+The thing is that these descriptions are distributed to many online stores. And most of them are leaving the text in its original form. All this leads to a number of pages with non-unique content and filters from Google. To make this an even worse mistake, these manufacturer descriptions are usually not written in a way that sells.
+
+The rule here is: always create unique content. Google has been getting better and better at kicking websites down the rankings because of duplicate content and content scraping.
+
+Now creating unique content for thousands of products or wildly varying inventories can be a daunting task. I’ve been there before. You may want to consider putting a NO INDEX meta tag on product pages that you can’t write unique content for.
+
+If you have thousands of product pages that you either can’t get to, or will be out your inventory in a matter of days, then certainly consider keeping them out the search engines. The point here is you don’t want to have thousands of pages with no unique content compared to only a few that do. What this does is it makes your website look like it has automatically generated thousands of simple webpages to try to gain SEO traffic. That’s exactly what you don’t want it to look like.
+
+It’s much better to keep your SEO in good standing than let it suffer from poorly optimized product pages or a spammy looking content strategy.
+
+3. Lack of Product Reviews
+
+About 70% of buyers are looking for reviews of products on online stores or forums before making a purchase. This means that if your site has no such reviews, you are missing a very large percentage of the audience. Moreover, it is easier for review pages to reach the top of search results than selling pages.
+
+Amazon.com has allowed its users to not only buy products, but also leave reviews of books, gadgets, and more. Thus, they have created a whole community of book lovers who share their experiences.
+
+The beautiful thing about product reviews from customers is:
+
+They are creating unique content for your online store and it’s free! We’ve been talking about all the trouble involved by not having unique content and how hard it is to create it. Product reviews solve this problem!
+
+It keeps the product page “living”, which can help to bring the search engines back more often. Anytime you can update your site more frequently, the better it is for your overall SEO efforts.
+
+4. Not Optimizing Product Pages Based on The Search Demand
+
+Be sure to consider the demand and search keywords that people are typing into the search engines when you write headlines, title pages, and product descriptions. Otherwise, you may create a situation in which you are promoting something that no one is searching for. This is a common mistake of stores with a great number of different goods.
+
+For example, you could make a page by mistake that has the title tag, H1 heading and image alt tag information optimized for the keyword phrase “Floral Pattern Scarf”, when it would be much wiser to optimize for a more specific keyword phase such as “Chanel Floral Pattern Scarf.”
+
+With that said, here are some tips to help you better optimize those product pages:
+
+Use model numbers in your title tags and H1 headings.
+
+Use brand names in your title tags and H1 headings.
+
+Don’t forget to fill out your image alt tag information!
+
+Don’t keyword stuff the page with the keyword phrase by repeating it over and over again.
+
+And never, ever, use iframes to display content. Make sure your content actually exists on the product page it is meant to be on.
+
+For more on-page SEO tips, be sure to read our article entitled The On-Page SEO Recipe for Peak Inbound Marketing Efficiency.
+
+5. Non-Unique Titles
+
+Another problem of the large online stores is duplicated title tags. Watch for their uniqueness and try to avoid identical values. It is the school foundation of SEO, but when we are talking about online shopping, for some reason, many have stopped observing this simple rule.
+
+Here is what a title tag looks like if you view the source code of a webpage. This example is from the SEOmoz.org home page:
+
+It’s difficult to create unique title tags when you sell multiple items from the same brand, or similar items from many brands. You will inevitably repeat the same keywords over and over again. Search engines are aware of this occurrence, and therefore you should focus on making unique key phrases.
+
+A lot of online shoppers are searching for a key phrase oppose to a single keyword. A formula that tends to work well is the “band-model” title tag recipe:
+
+For example your title tag should be structured in this way: Brand – Model – Item Type
+
+Some real life examples could be: “Honda Accord Sports Coupe” or “Burton Aftermath Snowboard 2013”
+
+An important tip for nailing down the right keywords is to survey your customers to see what language they use when they talk about the products you sell. The structure in which they phrase your products will clue you into how they might search for them.
+
+6. Lack of “Speaking” urls
+
+What is a “speaking” url? Here is an example: http://www.readanybook.com/ebook/harry-potter-and-the-prisoner-of-azkaban-65. Speaking urls are also known as “keyword friendly urls”.
+
+We see the name of the book right in the site address. It is very important in terms of SEO to create such a url for all of your products. No more anonymous IDs! Make your profile unique to the search engine with a unique url.
+
+There are only three reasons why you should use speaking urls:
+
+Semantics: It makes it easy for the customer or searcher to know what to expect when they click on the url. If you have an incredibly long url full of numbers and gibberish – it can look spammy and be a turn off. Keyword and Anchor Link Luck: There is a chance that the URL will be picked up by another website and re-posted. Important keywords will be present in the anchor tag if they url is used as the anchor text. Getting keywords within anchor text that points back to your website is the main driver of getting to the top of search engine rankings. Relevancy: Having relevant keywords in the URL used to be a big driver for domain names. Google is starting to put less priority on that, however it can’t hurt to have relevant keywords in your urls for product pages.
+
+7. A Lot of Duplicate Content
+
+Pages to print, archives with different sorting elements, tags, and more – all these things, which create duplicates, should not be indexed by search engines and must be closed in robots.txt. This is important because your site can get sanctions because of duplicate pages (especially on large sites such as many online shopping sites).
+
+This content appears on many pages of a fashion online store.
+
+Here are some tips to trimming down duplicate content:
+
+Use robots.txt to block areas that create duplicate content such as archives, tags and even category pages in some cases.
+
+Use the canonical tag to indicate which web pages are the pages you want indexed. For example, if your shopping cart creates new urls because of reviews or comments (meaning you have more than one page with the exact same content, except one has reviews or comments and the original does not), the canonical tag will tell the search engines which page they should be paying attention to.
+
+You can add nofollow attributes to links that point to areas of duplicate content. However, you have to be extremely thorough at making sure you find every single link that needs to be nofollowed (because Google will find them).
+
+The Golden Rule of SEO – Make Usability a Priority
+
+As you know, Google is a search engine that is very worried about its users and their experience. First of all, you should make your online store convenient and useful for customers in order to achieve its respect. What is good and unique to your clients – it’s good for Google.
+
+The more time people spend on your site, and less they click back to the search results page is a great indication that Google is sending them to the right place.
+
+Finally, people who like your website and what it has to offer are much more likely to link to it – and as we said before, links are what drive you to top the search results page!
+
+What errors in online stores’ search engine optimization have you identified? Please leave them in the comments below.
+
+About the Authors:
+
+Sean Work is the Director of Marketing at Kissmetrics. To keep up to date on future Kissmetrics articles, please follow him on Twitter.
+
+Korah Morrison is a marketing specialist and writer at GrammarBase.com who likes to write articles about SEO, social media, and internet marketing.

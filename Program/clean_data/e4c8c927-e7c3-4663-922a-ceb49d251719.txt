@@ -1,0 +1,31 @@
+Here’s how things would change with the new rule: Now, when a company buys a stake of less than 20 percent in another company, it usually accounts for the investment on its balance sheet at cost — the price it paid for it. Over time, under the old rules, if the value of the investment goes down, the rules required a corresponding write-down of the value, both through the company’s income statement and on its balance sheet. But if the value increases over time, the investment can still be kept at cost.
+
+While investors were fully informed when an investment lost value, there was less transparency for them when an investment increased in value. What investors lost in transparency on the upside, it has been argued, was gained in not requiring corporate executives to place a number on these often difficult-to-value investments every quarter.
+
+That’s what is going to change after Dec. 15. From then on, each minority investment a public company makes will have to be valued quarterly, whether that value has increased or decreased. That potential volatility will soon be required to flow through a company’s income statement, with the possibility of causing fluctuations to earnings per share from something that is not even a core business.
+
+Corporate executives will have two choices on how to go about valuing these investments.
+
+They can either spend the time valuing these investments themselves (or hire an accounting firm or a valuation firm like Duff & Phelps), or they can choose to wait until there is a market-driven valuation event and then mark up the value of the investment accordingly. How a company chooses to value these investments — whether every quarter or when there is a market event — has to be selected soon, and then cannot be changed. This, too, has added to the corporate executives’ concerns.
+
+Take, for example, investments that have been made over the years in Uber, which now has a valuation of around $70 billion. In 2013, Google Ventures, now part of Alphabet Inc., Google’s parent company, invested $258 million in Uber at a post-money valuation of $3.76 billion. Four years later, that investment is now worth around $4.8 billion.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+That’s a nice return on investment, although it has nothing to do with Google’s core business. At the moment, the word “Uber” does not appear in Alphabet’s public filings with the Securities and Exchange Commission. In Alphabet’s latest quarterly filing, it explains that all of its minority investments in private companies have a so-called carrying value of $1.7 billion, which presumably includes its investment in Uber at the cost of $258 million.
+
+Under the new rules, Alphabet will basically have to value its Uber investment at market, or closer to the $4.8 billion (either because of its own valuation or based on the recent new investments in the company). That increase in the value of Google’s investment in Uber, around $4.5 billion, would have to flow through Alphabet’s income statement. Considering that in the first quarter of 2017 Alphabet had net income of $5.4 billion, adding in the Uber gain of around $4.5 billion could have quite the distorting effect. It could have a similar effect on the downside if in subsequent quarters Uber’s valuation takes a hit.
+
+The whole matter could be further complicated if Alphabet chooses to take one approach to how it values Uber and, say, Microsoft, another small Uber investor, takes a different one. It will soon be possible for Alphabet to value its stake in Uber using a different methodology than Microsoft does for the exact same investment.
+
+Advertisement Continue reading the main story
+
+Or take Google’s 2014 investment in Cloudera, a chip manufacturer, at a $1.8 billion valuation. Then, Intel invested at a $4.1 billion valuation — big gain. But Cloudera went public at a $2 billion valuation — big loss.
+
+I am sure the Financial Accounting Standards Board was intended well when it passed this new rule. In its 232-page document outlining the new proposal, it eloquently described how the new disclosure would add transparency and understanding of what these outside investments are worth. And that may well turn out to be the case.
+
+But the new rule also has the potential to confuse investors about the value of these equity stakes, too. It would force corporate executives to remind listeners on every quarterly conference call that the fluctuations in the value of these investments have nothing to do with their core business and should be ignored, and that something like “adjusted net income” without these fluctuations is the way to look at their earnings. Even Ernst & Young, the big accounting firm, acknowledges that putting the new rule into effect could be a tough slog for many companies.
+
+“Applying the new measurement alternative for equity investments without readily determinable fair values could be challenging,” the firm said in a 2016 report on the rule. “Identifying observable price changes for these instruments would require entities to develop new policies, processes and controls to make sure they comply with the new standard.”
+
+Sounds to me like the new rule will have the unintended consequence of muddling the presentation of financial statements, not clarifying them. And since this really was not broken in the first place, why go to the trouble of fixing it?

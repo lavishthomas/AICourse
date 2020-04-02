@@ -1,0 +1,133 @@
+7 Ways to Get Better at C++ During this Summer
+
+Summer Is Coming.
+
+With it comes the sea, the sun, the beach, or the mountain or perhaps your family house. But there is also a great thing that comes with summer: more time. Maybe you’re taking some time off, or maybe this is just because work is less intensive during this period. In all cases, summer is a limited period where time is less scarce than during the rest of the year.
+
+You have two options: 1) Spend all of it chilling out. And it’s ok to have a good time. 2) Or, you could invest a part of it into levelling up your skills, in C++ in particular, and start next year with a boost (pun very much intended).
+
+If you feel that option 1) is better for you just then shut down that phone or laptop and get some real rest! But if you’re up for option 2) then this post is made for you.
+
+Here are 7 ideas that will let you leverage on your summertime to get a real push in C++. And after that I give you a couple of tips to help you actually achieve the goals that you choose.
+
+1) Pick up a project
+
+Building your own small project in C++ is a great way of experimenting and really understanding how things work. It also has the advantage of leaving you total freedom on which components you use. This way you can level up on language features and library components that you don’t have access/time to use during the year.
+
+During my summer project of last year, I implemented some range adaptors. And I it made me learn a HELL of a lot. For this reason, I’m going to detail this project to you, so you can take inspiration to build your own:
+
+If you’re not familiar with Ranges in C++, read Ranges: the STL to the Next Level,
+
+Implement a transform_iterator,
+
+Implement a transform range adaptor,
+
+Implement a filter_iterator,
+
+Implement a filter range adaptor,
+
+Implement a zip adaptor that takes 2 ranges and returns a view on pairs of objects coming from these 2 ranges, then use it with the transform range adaptor,
+
+Generalise the zip adaptor by letting it take any number of ranges,
+
+Implement a Cartesian product range adaptor,
+
+Implement your own new range adaptor!
+
+It doesn’t have to be perfect, complete or even to follow these directives. The point is for you to experiment. However the above tasks will give you:
+
+a firm understanding of ranges, which are a very popular feature in C++ now,
+
+a good practice with variadic templates,
+
+a touch upon template metaprogramming,
+
+and all this very gradually.
+
+Of course I’m here if I can help you in any way with such a project. If it can be useful, here is the GitHub repo for my attempt from last year on this summer project.
+
+2) Read a good book
+
+I will publish a post dedicated to C++ books, but I’ll give you a selection now. In my opinion the #1 book to read as a software developer is Code Complete by Steve McConnell. Although it doesn’t focus on C++ in particular, this book teaches you pretty much all the aspects of writing good code. From writing an if (yeah there are ways to screw up an if) to distributing class responsibilities to making a code review, Code Complete covers all the aspects of software construction. You will never code the same way after reading this book.
+
+And if you haven’t read it yet, you need to read Effective C++ by Scott Meyers. I suggest to read it twice. I’ve read it three times but I think twice is just as good. And even if it was written before C++11, pretty much all of it is still relevant information today. It has more recently been complemented by Effective Modern C++ for covering the features that came in C++11 and C++14.
+
+My summer book this year will be the popular Domain Driven Design by Eric Evans. Essentially, Domain Driven Design consists in having intensive exchanges between domain experts and developers, building a model of the domain and using the same language in discussions, in the model and in the code.
+
+Although the book has valuable contents, it isn’t an easy read. One tip that I found useful is this: for each subsection read the first paragraph, then the last paragraph, then read the rest of the subsection. This lets you understand much better where the author is going and saves you a lot of time.
+
+I am hoping to find insights about making code expressive by showing the domain in it. I will share them with you on the blog, goes without saying.
+
+This is just a selection, and I’ll do a more extensive list of books in a dedicated post.
+
+3) Pick up a new language
+
+As curious as it seems, learning a new language is one of the most efficient ways to get an in-depth understanding of your main one. And the more different the new language from your own, the better.
+
+This comes from the new point of view that the additional language brings to your general comprehension of programming. This different way of solving problems brings out the specificities of your main language, which you’re so used to that you don’t see any more. And even if you don’t use this new language in production code, the new concepts it exposes you to provide ideas that you can transpose into your main language.
+
+One language that I recommend do dig into when you do C++ is Haskell. Haskell is a functional programming language. If you haven’t experimented functional programming yet, it will enlighten you with its concepts and make you see C++ with a new view, and particularly the STL.
+
+I’ve spent a lot of time comparing online resources to learn Haskell, and the best one I have found is the course of the University of Pennsylvania of 2013 (that specific year). It is well explained, without too much theory and the exercises are nice and instructive. And it’s free.
+
+And once you’ve finished this course you can get a lot of gymnastics with Haskell in the data61 course, which consists in code where you need to fill the blanks. It is good practice for wrapping your head around unsual functional programming concepts.
+
+If you want to see more about functional programming languages and their applications in C++ I recommend Quentin Duval’s blog deque.blog.
+
+The language I’m taking on this summer is Lisp. I understand that it is a very powerful language, which improves one’s understanding of programming in general. Several languages have derived from it. And there must be a reason why it won’t die!
+
+I haven’t quite finished the research of online resources, but I’m considering going with the SICP book. If you have any insight on how to learn Lisp, please let me know!
+
+4) Level up on the STL
+
+The STL is the part of the language that deals with containers and algorithms. It is very powerful but not as well known as it should be, although it is not difficult in itself. There is a fair amount of knowledge to get to master it though, but the game is worth it. It is a fantastic way to make your C++ code more expressive and more robust.
+
+I’m in the process of constituting a large collection of posts to help you master the STL, called the STL Learning Resource. It is work in progress but there is a large bit already done – enough to keep you busy for a good part of the summer I think. 😊
+
+5) Catch up on Modern C++ features
+
+C++11, C++14 and C++17 bring a host of new features to the language and standard library. And even if you don’t have them in production today, like Summer, they’re coming. And you can use most of them in your side projects right now (see #1 above).
+
+Some features are easy to grasp, like lambdas for example. Granted, there are a lot of details to master them completely, but their basic usage comes without too much effort.
+
+So a part of the features are easy to understand and just require a good resource and some time to get informed about them. A lot of C++11 and C++14 are covered in Scott Meyers Effective Modern C++ (see #2 above) for example.
+
+One resource to get up to speed on C++17 that I really like is the participative C++17 features list on Bartek’s blog. It is quite vast, and you can contribute to it by adding information on a particular feature. Bartolomiej has made it super easy for you to do this by providing all the resources and a Github access. This way you can contribute even if you don’t know anything yet on C++17, and learn a lot in the process.
+
+Now there are features that you can’t understand if you don’t practice them. In particular variadic templates, which are an important feature of modern standard C++. For this the project in #1 above, or any other project involving variadic templates is the way to go.
+
+6) Improve your knowledge on Boost
+
+Boost is a large collection of well-designed C++ libraries, portable and open source. A lot of modern C++ features actually originated in Boost.
+
+Knowing the contents of Boost is important for two reasons. First you could actually need them in your code, because they are for general usage mostly. And second, and perhaps more importantly as this matters even if you don’t have access to them in production code: they give you a model of well designed API and C++ code in general. Being aware of what is in boost gives you inspiration for your own designs.
+
+One way to catch up on a lot of Boost libraries is by reading Boris Schäling’s book The Boost C++ Libraries. Boris has made it available online, but the paper version is a good alternative to shove into your beach bag and read lying on the sand (true story, it was my summer book of last year 😎). This book is based on Boost 1.55.0 though, so it contains a lot of libraries but not all of them.
+
+In particular, it doesn’t include Boost Hana, which is a popular modern C++ metaprogramming library. Actually, getting into Boost Hana could in itself be a goal for this summer!
+
+I’ve asked Louis Dionne, its author, for recommendations about how you can learn Boost Hana effectively. So the official tutorial is a good place to start, and for a softer introduction you can watch his ACCU talk (or Meeting C++ keynote, similar in contents). To get more in depth, here are all of Louis’s talks, most of them being related to metaprogramming and Hana.
+
+7) Catch up on videos
+
+The C++ community has a huge amount of online videos, of conferences in particular. This summer could be a good moment to catch up on some of these.
+
+Here are a couple of recent talks which I found instructive:
+
+This is by no means an exhaustive lists of the good videos out there! I’ve seen other good ones, and there is plenty more that I haven’t seen. But I think these are a good place to start.
+
+Achieve your summer goals
+
+Now this is a lot to do. And there is no way one could do all of this in one summer. The idea is to pick something, and define your goals in advance. Don’t just hop from one thing the the other, otherwise summer will fly by and you won’t have achieved anything.
+
+Also, to get work done you have to have some moments of focus. A practical way to get them is by using the Pomodoro technique which I implement with kanbanflow. I’m using it now and it’s showing pretty good results.
+
+My summer goals this year are getting through the Domain Driven Design book and getting a reasonable understanding of Lisp. What are yours?
+
+Decide of two goals NOW, and write them down in the comment section to let me know what you decided.
+
+Don’t wait, otherwise September will be on your door before you know it.
+
+And I’ll continue to blog too, so stay tuned.
+
+Liked it ? Share this post ! Don't want to miss out ?

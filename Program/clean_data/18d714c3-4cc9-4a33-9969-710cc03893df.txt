@@ -1,0 +1,65 @@
+Thanks to dramatic new algorithms, you're about to learn a whole lot more about your customer's actions and preferences.
+
+Today's businesses want to create exceptional customer experiences. They mine big data to get a good sense of direction. Yet while this effort produces plenty of statistics, it doesn't provide much context.
+
+Related: How to Boost Customer Loyalty Using Analytics and Actionable Insights
+
+Enter "journey analytics" and the need for the incredibly powerful platform that's been developed by ClickFox and its partners, Zoomdata and Cloudera. The platform and accompanying applications help connect the qualitative dots to give you a clearer picture.
+
+The picture created gives you strategic information, identifying what stops customers took along the way with their purchase journey, where they changed direction and what the predictive analysis is in terms of what they might do in the future.
+
+What is journey analytics?
+
+Journey analytics is potentially the next stage in the evolution of analytics science. McKinsey & Company notes that the science of journey analytics "combines big data technology, advanced analytics, and functional expertise to help companies perfect their customer journeys."
+
+A customer journey has many angles. For example, if a consumer is thinking about purchasing a mobile phone, he or she may go to a mobile company's website, then a store, and subsequently have a phone conversation before returning to the store or the website to make the actual purchase.
+
+What's more, consumers may change their journey or even abandon it completely. Only by looking at the entire journey can a company truly understand how each interaction and data-set within that journey impacted every other.
+
+Related: Tracking Customers Beyond Google Analytics
+
+How companies can benefit from journey analytics
+
+McKinsey & Company noted some specific benefits that come from leveraging this new analytics approach:
+
+15 percent reduction in cost-to-serve
+
+20 percent growth in customer conversion
+
+20 percent reduction in churn
+
+20 percent decrease in complaints
+
+By putting this data from the "journeys" into predictive models, companies can make changes that will positively impact their customer's entire journey. This approach can also assist all departments within a company to understand how what they do impacts the entire experience.
+
+How ClickFox helps businesses
+
+ClickFox is delivering a way to truly undertake the digital transformation that so many organizations are still struggling with. The challenge is to cover every possible channel and tactic that a customer may want rather than just hoping the organization picked one that will satisfy the customer.
+
+Importantly, there is no one route customers choose to follow each time they purchase a product or service. While they may go to a website, call an agent and then visit a store to buy one time, that doesn't mean that their next journey for that product will be the same. Therefore, companies need to undergo a complete digital transformation to track all paths.
+
+Thanks to the multiple algorithms ClickFox developed, the company can automatically and continually collect data to cover any change or alteration the customer makes. Also, the company can be immediately seen in the big data visualization picture painted by the platform.
+
+The algorithms go well beyond just seeing how many people went retail/agent/web -- or -- web/agent/retail on their path. A company can also see where those potential buyers may have dropped out of the path altogether, and where they went. This enables a company to determine how to make the necessary changes to positively impact the experience their customers have along their purchase journey.
+
+Strategically partnering with Zoomdata and Cloudera has helped ClickFox do even more for its customers while also creating mutually beneficial relationships.
+
+For example, ClickFox embedded Zoomdata to provide big-data visualization and distribution capabilities without having to build it themselves. Working with so much data meant that ClickFox had to find a way where the data could be understood in a visual way across an organization. Not only did Zoomdata bring that to the partnership, but it also integrated well into the ClickFox ecosystem due to its existing integrations with many of the same data platform and metadata sources.
+
+The future of journey analytics
+
+With journey analytics just starting to develop, there is significant potential for what it will be able to do for analytics and companies. In the near future, ClickFox will be launching its next-generation journey platform, called Fox. This replaces its existing platform and delivers a new user interface and additional tools for the user to understand various types of journeys.
+
+Additionally, the Trace journey app can provide all possible paths and combinations of paths for all types of journeys, including purchases, complaints and more. It will offer your company an impact score for its customer journeys as they stand now, and prioritize the paths that will increase or decrease the likelihood of what the company wants to happen for that customer on the journey.
+
+From there, the next level will be ecommendations on the top paths and what changes are necessary to create that intended impact.
+
+Enhanced customer journeys
+
+The result will be enhanced customer journeys. At the same time, these data connections will show companies where they can make improvements to their cost efficiency across the organization. In the next three to five years, those working in the analytics industry will see the value it can yield for specific segments, particularly health care.
+
+Other industries, including financial services, retail, hospitality and manufacturing, can begin to leverage journey analytics to change their own customer journeys for the better. With so much potential for so many industries, niches, journeys and customers, analytics has proved that it can deliver so much to clarify companies' understanding of their customers.
+
+Related: Beyond Web Analytics: 5 Types of Online Data You Should Be Tracking
+
+In this context, entrepreneurs are on their own exploratory journey to a destination full of opportunity.

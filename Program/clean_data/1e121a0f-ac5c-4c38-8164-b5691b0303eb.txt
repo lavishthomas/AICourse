@@ -1,0 +1,419 @@
+Lifestyle business are truly something remarkable. They allow the founders to live life on their own terms, with much more freedom from societal constraints.
+
+Working from exotic places? Taking mornings off to ski the powder days? Going for a long run in the middle of the day? These things are not only possible, but completely normal in this world.
+
+I was reading through all the interviews on IndieHackers.com while taking notes, and I started seeing some interesting patterns.
+
+So below is everything I’ve learned on how to create a successful lifestyle business.
+
+For each category I’ve included how many different founders mentioned it. The list is also ordered which means the most important advice is at the top. I did the same for the book recommendations.
+
+Enjoy!
+
+The 4-Hour Workweek by Tim Ferriss (5x)
+
+The Hard Thing About Hard Things by Ben Horowitz (5x)
+
+Zero to One by Peter Thiel (4x)
+
+The Lean Startup by Eric Ries (4x)
+
+Four Steps to the Epiphany by Steve Blank (3x)
+
+Steve Jobs by Walter Isaacson (2x)
+
+High Output Management by Andy Groove of Intel (2x)
+
+Good to Great by Jim Collins (2x)
+
+Traction by Gabriel Weinberg and Justin Mares (2x)
+
+Built to Sell by John Warrillow (2x)
+
+The Personal MBA by Josh Kaufman (2x)
+
+Start Small, Stay Small by Rob Walling (2x)
+
+The Power Of The Subconscious Mind by Joseph Murphy (2x)
+
+Let my people go surfing by Yvon Chouinard
+
+The Go-Giver by Bob Burg
+
+The Sovereign Individual by James Dale Davidson
+
+Only The Paranoid Survive by Andrew Grove
+
+Nicholas Nassim Taleb’s writings
+
+Michael Porter’s books
+
+Thinking, Fast and Slow by Daniel Kahneman
+
+Scaling Up by Verne Harnish
+
+Abundance by Peter Diamandis
+
+The Dream Manager by Matthew Kelly
+
+The 80/20 Principle by Richard Koch
+
+Startup CEO by Matt Blumberg
+
+Making Money Is Killing Your Business by Chuck Blakeman
+
+The E-myth Revisited by Michael E. Gerber
+
+Elon Musk by Ashlee Vance
+
+Delivering Happiness by Tony Hsieh
+
+Business Adventures by John Brooks
+
+How to Win Friends and Influence People by Dale Carnegie
+
+Law of Success by Napoleon Hill
+
+Think and Grow Rich by Napoleon Hill
+
+The Charisma Myth by Olivia Fox Cabane
+
+Lean Analytics by Alistair Croll
+
+Karaoke Capitalism by Jonas Ridderstråle
+
+Tools of Titans by Tim Ferris
+
+When Breath Becomes Air by Paul Kalanithi
+
+Hackers & Painters by Paul Graham
+
+Founders at Work by Jessica Livingston
+
+Marketing For Developers by Justin Jackson
+
+Anything by Alan Watts
+
+The Secrets of Consulting by Gerald Weinberg
+
+Running Lean by Ash Maurya
+
+The 7 Day Startup by Dan Norris
+
+The Advantage by Patrick Lencioni
+
+7 Habits of High Effective People by Stephen R. Covey
+
+How Breakthroughs Happen by Andrew Hargadon
+
+Rework by Jason Friend and David Heinemeier Hansson
+
+How to Transform Your Ideas into Software Products by Poornima Vijayashanker
+
+Problem Solving 101 by Ken Watanabe
+
+Solitary Fitness by Charles Bronson
+
+The Inevitable by Kevin Kelly
+
+Flatland by Edwin A. Abbott
+
+Sapiens by Yuval Noah Harari
+
+Slipstream Time Hacking by Ben Hardy
+
+This was the most common advice. The easiest way to increase revenue: raise your prices! Don’t be scared to ask for money.
+
+This idea that you need to water down your pricing or offer a free beta period is bogus, as doing that implies you’ve got a core, foundational issue with the problem you’re solving. Your product should get more valuable over time, yes, but there’s a base level of value you should be providing no matter what. And that’s where your pricing should start.
+
+Your amazing ideas are actually terrible ideas if you can’t get anyone to use them or pay for them.
+
+At this point I would never create a business ever again which charges less than $10/month.
+
+Don’t target the low end market if you can avoid it. One of the best pieces of advice I ever got was early on when talking to someone about low-cost forum hosting. This guy basically grabbed me by the lapels and gave me a thousand yard stare and said SWEET JESUS WHATEVER YOU DO, DON’T DO LOW COST FORUM HOSTING! This… turned out to be excellent advice!
+
+We had great expectations for our free plan and the users who signed up for it, but those expectations were never realized. Our free plan ended up losing us money and stunting our growth! Here are just a few of the things we learned:
+
+During every phone call I have with free users who are considering upgrading to Pro, I show them our pricing page. Every time I ask them same question, “Are these numbers palatable to you?” I have no clue where that phrase came from, but it works. Folks either say, “Yes, this is reasonable,” or less frequently, “o, but I would pay $xxx.” It’s really insightful to ask this question.
+
+Our initial pricing was $199/mo, then we increased it to $299/mo, and as of today it’s $399/mo. For our payment system we kept it simple and use PayPal.
+
+Charging more was scary. Sales would drop off for like a week, but for some reason I eventually got the balls to wait longer to see what would happen. After two-ish weeks, the same number of people would upgrade as previously at the lower price. A strange effect, for sure. I attribute it to the fact that new users come and go very fast and, after a few weeks, ~90% of the user base had changed and nearly no one left using it was even aware of the old price.
+
+I continued to increase sales by making one of the most cliche but effective moves in the book: I charged more. My original in-app purchase for removing the watermark was $.99 and the final one was $3.99.
+
+Raising prices and introducing long-term plans are consistently shown to be among the best ways to increase revenue.
+
+I set the price at $2 rather than $1, because I figured it wouldn’t make a big difference to the number of people who’d buy it. The free app was already good, so the people upgrading must really like it and be okay with paying a proper amount for it.
+
+I usually start with a low price and then slowly raise it until I see a big drop off. Not scientific in any way but it works for me.
+
+One key lesson we learned early on was not to charge too little. $5/month customers are just terrible. They have the highest rate of failed payments, the highest rate of credit card fraud, the highest amount of support tickets submitted, and are the least friendly people. We’ve doubled our prices 3x since then, and each time we do, we get nicer people who value the product more and create fewer problems.
+
+Back in February 2016, we adjusted our pricing to better fit how our customers were actually using our product. We moved the limits on the four regular plans (Silver, Gold, Diamond and Platinum) to roughly the 25, 50, 75 and 100 quartiles in terms of number of users and number of projects, excluding outliers. That has meant that we now have an even distribution of new customers across our plans, whereas previously the majority of customers were going for our bottom two plans. In hindsight, I think we should have started experimenting with pricing earlier.
+
+Don’t get distracted by people telling you your product is too expensive. There’s a much higher probability that they just aren’t your customer vs. there actually being a pricing problem.
+
+Prior to Baremetrics, I was always scared to charge too much for the SaaS products I’d built. Maybe I subconsciously knew they weren’t providing a ton of value? I don’t know, but I knew with Baremetrics that I wanted to push the average price point up to $100+ per month instead of $20.
+
+During the 48 hours preceding the scheduled price increase, sales skyrocketed. It was a eureka moment. Nothing like an impending price increase to nudge fence-sitters into upgrading now rather than putting off the decision. Plus with a built-in audience of free subscribers, we had a group of people much easier to upgrade.
+
+One surprising piece of advice is that price increases are your friend . At first it was scary to increase prices… though the fear was tempered by the fact that we kept people grandfathered on their original plans.
+
+Our first idea is a grand opening, a big launch, a press release, or major media coverage. We default to thinking we need an advertising budget. Our delusion is that we should be Transformers and not The Blair Witch Project. – Ryan Holiday
+
+The faster you can ship things, the sooner you can stop with the assumptions.
+
+Ship. Ship. SHIP. The overwhelming failure case among people who read interviews like this one is that they spend 98 units of effort reading about running a business for every 2 units of effort running a business. Flip that on its head.
+
+Launch things! If you’ve worked your butt off to build something and give up on launching it, no one will care about it. We live in a very capitalist society where people will judge you based on real results. No one cares about your initiative and the reasons why you didn’t launch.
+
+Spending tons of time coding early on is a dangerous form of procrastination, because it feels productive. Just build something minimal and start selling ASAP.
+
+I launched with zero custom software. I used Gumroad Memberful , and Campaign Monitor to. I slowly started putting together an app that made sense, but I honestly think that not starting from scratch was a huge help in making the project successful.
+
+Your idea doesn’t even have to take months or years to implement. It can be as straightforward as some simple proposition attached to a payment form.
+
+Remember, if you don’t release something you’re slightly embarrassed about, you released too late! And it was indeed pretty embarrassing!
+
+KISS (9x)
+
+I wanted to start really simple, so I didn’t even have a website when we launched. I just sent a PayPal subscription link to potential customers over email and then started sending candy to their address periodically.
+
+We didn’t realize that we were on a bad path until we really went to market, and then we realized: this brand is weak and the product is too complicated. Then we had a wake-up call, in part due to some candid feedback with a brand consultant, that triggered a rewrite from the ground up.
+
+Figure out the core benefit of your product vs. the existing offerings and reduce until that is the only essence of the product. Then develop it. That’s your foundation. If we had done this, we would have saved a year of work and, at minimum, tens of thousands of dollars , to say nothing of the opportunity cost.
+
+I knew that for Kernl to be successful it needed at the bare minimum to support providing updates for plugins and themes. Anything past that was just a distraction.
+
+Try a lot of things, see what sticks. Don’t build out more than necessary, keep it simple. Use existing solutions where possible. Try to promote your ideas early and see what happens. If it looks promising, iterate.
+
+If they pay, build the feature. If they don’t, don’t build the feature. It won’t help.
+
+I literally commented out (hid) 95% of the sidebar menu items , leaving only the “social media” item. Then I assembled a simple landing page for it, and after a week it took off.
+
+We didn’t employ any particularly clever marketing strategies. It was all very logical. Tell people what you’re going to make, provide ways for them to be involved and to stay up-to-date on what happens, and repeat. We tried to just keep everything as simple, honest, and high quality as possible.
+
+Keep it simple. There are a lot of features that users say they want that I haven’t added because I thought it would stray from my main goal , and I think this simplicity has really helped the company.
+
+Automate everything. Seriously, everything. Turn it into a challenge: How many things can I automate? I also push my team to do the same. It’s important to analyze everything you do, especially the things that take tons of time. The more time something takes you, the bigger the payoff is for automating it. I like to look for small improvements that save us money and add up over time.
+
+Outsource as much as you can to clear your way and focus on evolving your business. It is very easy to find yourself on the slippery slope of getting buried under day-to-day operational tasks.
+
+One of my biggest wins has been to create a drip campaign that automatically shares these articles and pitches people on my product. It’s like putting a relationship-building and sales machine on autopilot. It’s where 99% of my revenue comes from now, and it simplifies all of my marketing because all I have to worry about is getting people on a mailing list — not constantly selling to them.
+
+Initially Instapainting started out as a single-page site with a Stripe Checkout form and with orders manually doled out to artists. Today it still appears that way to visitors for the most part, but
+
+I’ve been working daily for the last 5 years as a solo entrepreneur, building as much value into my commercial products and automating my business as much as possible. It’s time to take a vacation and enjoy my success for a few months — relax and enjoy life while the products sell themselves. This is a lifestyle business and I’ve designed it to run solo, adding a second or more employees would dramatically increase my admin load and operational costs . For this reason, I focus on business changes that I can automate or perform efficiently myself.
+
+Any time I find myself doing something over and over, I try to write a piece of code that will automate it. park.io is set to break over $1M in revenue this year and I am the only employee, but only because I am able to leverage all of the automated processes that are able to do the work for me.
+
+From a process point of view, anything manual should be removed as soon as possible. Don’t leave it, because as you grow it becomes a real pain.
+
+One of the biggest mistakes you could make early on is not charging immediately for whatever it is you’re building and selling.
+
+I see too many young entrepreneurs who don’t charge, because they are scared to annoy people. What they don’t get is that you want to annoy some people. That’s when you find people who love you. That’s when you know you have something worthwhile.
+
+Launch something you charge money for ( even if that’s just a Typeform connected to Stripe ) immediately after you have an idea, and start marketing it.
+
+Before Stamp, I created numerous projects that failed, and this is what I learned: All businesses have to make money, and you need to quickly kill the ones that do not. Treat your side project as any other business. If it doesn’t make money after a few months, either change something in your product or kill it and start something new.
+
+We kept track of all incoming feedback using Trello (which we still do to this day). As the feedback came piling in, we tried to determine what was absolutely crucial for launching and what wasn’t.
+
+Right out of the gate, day one, we charged for Baremetrics . In the early days we had no free trial… you had to pay immediately. We had a generous money-back guarantee policy that we kept in place for our first year, and we did a lot of refunds based on folks not actually being compatible.
+
+Get something into the hands of those who can pay for it ASAP.
+
+Getting mailing list signups is the easiest way to validate your idea, but trying to convince people to become actual paying customers is the most accurate method . Start charging as early as you can!
+
+In early 2014, I’d used all my savings to build an app that took five months of my time, only to flop. The pain of that failure motivated me to improve my process — I wanted to validate that my app would get downloads before ever building it.
+
+A lot of people want to spend a lot of time building something crazy technical or complicated. Don’t. I spent a lot of time figuring out the real issues with the service and the management of it (canceling, refunds, customer concerns, etc) and really get my hands dirty. I also spent time getting my assumptions about the service debunked by the customers buying it and changing major parts of the product to fit that feedback. Then, once the business had validated itself, we used technology to scale it.
+
+What I’m trying to articulate is that paying for development, and not for ads, is far more wasteful than paying for ads early on and saving on development. I’m not saying build low quality products and market them. I’m saying focus on revenue and marketing early on, and use product quality as a marketing tool to gain revenue.
+
+Now think what would happen if you spent $3,000 on ads in the second month — when your product was a rough MVP. Yes, you would lose money on ads and you would have just a few paying clients. You would also learn what exactly sucked in your product, conversion-wise, and you could focus on those areas.
+
+No one is willing to pay for what that company calls a “product”, but what is in reality the hobby of 3 available developers with no good product management or marketing whatsoever.
+
+I think most development companies fail as product companies because they think, “Hey, I have 3 available devs I couldn’t sell this month. Let’s build a product!” And they throw them at some product idea which they don’t know how to market or sell. Then they spend a few months with it, and it fails.
+
+Test marketing channels by spending $500 and tracking cost per click (CPC), conversion percentage, cost of customer acquisition (CAC), and revenue. You’ll get product and marketing improvement ideas from every test you do. $500 is very cheap. Much cheaper than spending another week developing a product no one will ever use. 😀
+
+The best thing was that the idea had already been validated by Vlad. We just needed to wrap it into a nice web application, bring together a group of “flight experts”, and start getting customers.
+
+Traditionally you might build a product, then find customers. I prefer to look at things the other way around — find your customers and then build the product they’re looking for .
+
+First think about how you’re going to distribute your product, then work backwards from there . You might have the best product out there, but if you haven’t figured out how to get it in front of customers faster and more efficiently than your competitors, then it doesn’t matter.
+
+PH, HN, Reddit (7x) the sheer volume of people on Reddit is astounding. We’ve had a few successful AMAs, both in r/IAmA and r/entrepreneur, that have made the front page. You can’t just go start pimping your business though, you need to contribute to the community — we donate our time to help Redditors search for cheap flights, for example — and only subtly mention our business. First, Reddit is an incredibly powerful resource. In addition to learning on r/entrepreneur and r/startups . We’ve had a few successful AMAs, both in r/IAmA and r/entrepreneur, that have made the front page. You can’t just go start pimping your business though, you need to contribute to the community — submitting our content to different communities like Reddit, Product Hunt, Designer News, Hacker News, etc. (Some important subreddits that work well in our area include /r/html5, Most of our marketing strategies have been, etc. (Some important subreddits that work well in our area include /r/web_design /r/frontend , and /r/webdev .) Blogging openly about progress with Candy Japan has been helpful, as it has often resulted in hundreds of helpful suggestions on sites such as Hacker News and Reddit. It can be quite overwhelming, however, when you have only limited time and energy, but unlimited amounts of suggestions for things that you should be doing. , as it has often resulted in hundreds of helpful suggestions on sites such as Hacker News and Reddit. It can be quite overwhelming, however, when you have only limited time and energy, but unlimited amounts of suggestions for things that you should be doing. At the beginning we found users on Reddit. I was active in a community that dedicated itself to starting online businesses from anywhere in the world. I realized that these same people would be my target market, and so I found similar Facebook groups and joined them. I’d give out promotion codes on /r/apphookup if they’d read my entries, which provided a means for users to see that I was a real person and not a nameless company. With all these long form entries, I took to Reddit and stayed active in the /r/gamedev and /r/apphookup communities. We created a page which compared our offerings to those of our competitors, and we promoted it heavily. As a result, people shared it on sites like Reddit and Quora.
+
+Customer Service + Getting Feedback From Users (7x) Remember your core vision, but don’t be afraid to pivot based on what your clients are telling you. Our initial vision was one of a technology company that was creating an engine that would allow customers to book, pay, and communicate online. However, our customers were telling us that while they liked the convenience of being able to book online, the overall service was not up-to-par. We therefore knew we had to pivot and become a cleaning service that hires, trains, and manages its cleaners. Starting over I’d also focus on direct sales sooner. The feedback from each rejection is so much more powerful than just having your online sales pitch silently rejected hundreds of times each week. We win so many sales just because we’re willing to pick up the phone. We discovered this completely by mistake, but the benefit we’ve received by offering fast phone and email support for free is immeasurable. I’d even go so far as to say that the most important thing I do right now as CEO to help grow the business is recruit the best support people possible. The rest takes care of itself. Our almost religious focus on customer feedback is what drives our development team. Even today, Victor, who’s serving as the CEO, is actually doing most of the customer support by himself. That’s how important we think that customer support is. We quickly learned that if you are ridiculously nice and helpful, web visitors reciprocate. The trick is to have no life — you literally have to be there pouncing on user questions morning, noon, and night. Maybe 1 in 20 conversations results in a sale, but 20/20 result in useful information. I’ve had 2,500 conversations with users in 2 years. The rest of our team has had just as many.
+
+Customers Will Come To You – Scratch Your Own Itch (7x) You will feel when a product has potential, when it starts to take off, customers will come to you and not the other way around. Until you find this, keep building, keep looking. With my own app I had the same feeling: we didn’t have to market it. People automatically flocked to it because they heard about it from friends. They asked how they could send us money to unlock premium content. Popular websites like lifehacker.com found out about it and wrote about it without us approaching them. Someone else submitted it to ProductHunt. coworker after coworker asked me to let them know next time I found a fare like that so they could get in on it, too. So rather than try to remember each person I was supposed to alert, I decided to start a simple MailChimp email list instead so I could alert everyone at once. In late 2013, I found the best deal I’ve ever gotten in my life: nonstop from New York City to Milan for $130 roundtrip. Milan wasn’t even on my radar as a travel destination, but who among us can say no to $130 roundtrip flights to Europe? When I got back,instead so I could alert everyone at once. Scott’s Cheap Flights was born. I’ve told other hackers I know not to even start with an idea. It seems like every time I started a project with an idea, it never really worked out. But with It was more like a hobby — I just worked on it in my spare time.But with park.io it was just kind of a flow — action/reaction — I can’t even claim it was a real idea before I started it. When something is fun and a hobby, you don’t really think of it as an idea, and you put more time and care into it. And I think it shows in the product. Another thing I would advise, just from my own history and experience, is to move on quickly if it isn’t working. You will know when it is isn’t working and when it is, and it is best to just move on to the next thing quickly when it isn’t . I was building this first version for me. I did basically zero customer research. I wasn’t going after a specific market. I was scratching my own itch. This version solved my problem, and given I was juggling so many other things, it seemed unwise to spend a huge amount of time researching this. Lots of folks were looking for analytics/metrics from their Stripe accounts, but there just wasn’t any way to do it without building something yourself. This was great for me — there was no direct competition Baremetrics was a bit of an anomaly.. This was great for me — there was no direct competition We’d taken an existing technology (drag-and-drop editor, similar to Wix) and implemented it in an industry that never seen anything like that, and this was enough to make quite a lot of fellow eBay sellers excited. Here’s the difference between successful and not-so-successful software companies almost 100% of the time: customers come to successful products of their own accord, whereas the not-so-successful companies have to spend lots of time and effort finding and reaching customers. See if you can build something for which people will come to you.
+
+Happy People And Honesty (7x) Our only incentive is to keep premium subscribers happy. As a result, we purposefully write our subject lines in a way to include as much relevant information as possible, rather than writing it in a clickbait-y way that would juice our open rates, but likely lead to a worse customer experience. In short, our approach is more focused on maximizing subscriber satisfaction (and trusting that will pay off in the long-term) rather than short-term metrics. Put people first. It sounds simple, but so many business leaders miss this point in their quest for global domination. Our core focus at MyClean is to: Create and keep happy homes for our clients while building sustainable careers for our team. The only way that is possible is by keeping the best interests of our employees and customers at the heart of every decision. The software testing world was really infected with lame discussions and often the quick infiltration of spammy marketing posts. We made a big effort for our forum not to be like that and moderated content ruthlessly in the early days. People really seemed to appreciate that. Don’t pretend to be a big, faceless brand, but instead embrace your nimbleness and independence. One more general piece of advice that I’ve also written about before is “to make it personal”. Whatever you are creating, build your own ideals, values, and opinions right in. Forget professionalism. Create something unique that takes a stand and has a view. It may not appeal to everyone, but there will be a group (hopefully 1,000 true fans) that identify with what you have to say and throw their wholehearted support behind it, no matter what. It may not appeal to everyone, but there will be a group (hopefully 1,000 true fans) that identify with what you have to say and throw their wholehearted support behind it, no matter what. If we were just trying to fix a problem, we would have quit 2 years ago. We’re trying to right a wrong. I rely heavily on people knowing who I am as a person (and how much I care about game development, the end product as much as the progression). Interacting genuinely with people that reach out to me has become an incredibly important component of my “brand”. You can’t fake this, so don’t try to.
+
+Solve A Pain, Satisfy A Need (6x) If a decent group of people need a niche solution and you build the best version of that, you have a very good shot of getting to the top of Google results without doing anything clever. Luckily Zencastr solves a real pain point, and podcasters are great marketers and they help spread the word. Im a terrible marketer. I don’t really do much at all. I do a few interviews and appear on podcasts here and there, but nearly all of my users come by word of mouth., and podcasters are great marketers and they help spread the word. The reason word-of-mouth worked well was one thing: pain. Pain, on some level, plays a part in nearly every business decision you make. Look at every B2B product that’s ever been built. It’s almost always been birthed out of the need to get rid of a painful process. The reason is, pain is inefficient. We avoid it at all costs. That’s what Baremetrics did for businesses right out of the gate, it’s the reason anyone has signed up at all, and it’s why they keep signing up. We’re solving an actual pain point for a lot of businesses, and when you take pain away, people talk about it. We knew very well that one of the biggest pains for eBay sellers is the listing design creation process which, to put it mildly, isn’t a very positive experience. Moreover, eBay didn’t provide a good solution — if you needed a professional design for your listings, you had to pay a lot of money to graphic designers unless you were extremely computer savvy and knew both HTML and design principles. Solve a Real Problem — Create a product that actually solves a problem for the masses, not just a problem that exists in your head. Build a product for your customers, not for yourself.
+
+Content Marketing (5x) In summary, my advice for marketing an early product is to focus on driving free traffic from relevant communities to content that people actually care about, and then using retargeting to direct that traffic back to your signup page. Native advertising is probably the most fruitful and influential form of advertising we’ve used. No one wants to hear you talking about your business, and paying for ads all the time is just too expensive. However, creating share-worthy content that’s rich in research and facts is the best and the most effective way of reaching out to potential customers. Also, it helps greatly with your SEO, so we focus 60-70% of our time on this marketing channel. We eventually figured out that we had to create content that was unique, high quality, and extremely shareable. For content marketing, one of our most effective methods for generating authority has been to build expert roundups. We choose a relevant topic and gather answers from dozens of influencers. This usually leads to a lot of engagement and backlinks. We’ve also published guest posts and joined podcasts on blogs aligned with our target audience. The point here is that our content directly drives our sales. We’ve frittered away a few dollars here and there on Twitter and Facebook ads. We’ve set up affiliates. But nothing has worked as immediately, consistently, and effectively as our content.
+
+Subscription Model (4x) The biggest mistake I made was not selling as a subscription from day one. Offering lifetime support for a one-time fee is a really bad idea. I should have started an email newsletter much earlier, I use Twitter for announcements but nothing beats delivery right to someone’s inbox. Recurring subscription products are amazing. If you can create a product that the customer actually needs on a recurring basis, it’s incredibly helpful. Even better — if your customers love the product, you create a win/win scenario, and it’s easier to build an even better product overall (because the customers are constantly reinvesting in it). So if your business allows it, move to a recurring payment model. I was always wary that doing this would put people off purchasing, but as long as the model is explained to them (e.g. “You can still use the theme even if you cancel”), people will generally still make the purchase. It’s absolutely an amazing time to be building Micro-SaaS businesses as I call them. As a business model, recurring revenue software blows everything out of the water, and there are still so many niches for products to fill.
+
+Growth Hacking (4x)
+
+Often it might feel like you have this impossible task to build an audience that loves your product, but your audience most likely already exists somewhere else. Some platform has already gathered them all up — you just need to find that platform and work with them.
+
+Focusing on other ways to get users to pay, I experimented a lot with tweaking the sales page of the watermark upgrade. A LOT of my back-end experimentation was running split tests on different changes to this page because making improvements to it would tweak conversions heavily. The final version had a really fun entrance and dismissal animation, which made it really fun for users to summon.
+
+Launch fast and validate your user acquisition strategy immediately. We often take massive shortcuts, such as reducing a product down to manual emails and a Google Spreadsheet or form, as we did with the first version of Founderkit, or skipping right to running Facebook ads just to get started, even while we’re building the product in parallel. This often forces you to fall in love with data and results, rather than with features and other aspects which just eat time.
+
+Leverage every piece of coverage into more coverage by “leveling up” the media food chain as more attention is earned from larger audiences, which piques gatekeeper interest.
+
+Product Vs Service (4x)
+
+However, after working with a few dozen customers we realized that this was not the type of business we wanted to grow into. We didn’t want to be another consulting company, because it wasn’t scalable in our eyes. What we needed was to provide all the knowledge we’d accumulated during these years to benefit as many sellers as possible without having to consult them one-on-one.
+
+Our biggest change happened last year when the revenue of Quotient outgrew our web design business. We ended up selling our other business, and now we focus fully on Quotient. In other words, we don’t sell time anymore. We work 100% on the product.
+
+We’ve experienced two very different versions of being your own boss. Running a web design business was all about selling time. At the end of the day, you still have a boss and it’s your client — they own you, because they’re paying. But building and selling a product is very different. In the beginning, you’re creating something for yourself. And then you get customers who are willing to pay for it. But ultimately it doesn’t change: You get up in the morning and create exactly what you want to create. If you’re making money, you always have the option to sell or get out.
+
+Every development shop wants to build its own products. Otherwise, your revenue stream is capped by the amount of clients you work with and your hourly rate. Bummer.
+
+Word Of Mouth (4x) Another critical factor for any SaaS business is word of mouth referrals. Lots of people talk about the “viral loop” and other buzzwords, but I think it is mostly garbage. You can try and make your software have this viral coefficient, but what it really comes down to is making something that solves a true problem and that people love, so they tell their friends and colleagues. We were able to maintain and even grow this channel over time by a percentage that was very meaningful. Finally, we rely on word of mouth. We do a great job, and people tell their friends! We encourage this through our refer-a-friend program, offering $50 for every referral. People are always looking for good cleaners, and word of mouth is a cheap and effective way to get great customers. The hard part (as we figured out all those years ago) is earning that word of mouth! Pieter doesn’t spend any time on advertising, marketing, or PR. Nomad List is growing entirely via word of mouth When I first launched Baremetrics , there was a small group of other founders I knew. I reached out to them, they became users, and they started the word-of-mouth snowball. Simple as that. Our first 100 paying users very much came from that.
+
+Clever Ways Of Finding Customers (4x) We hosted calls where I would show customers how Sneez works, and then offer them a 50% lifetime discount on the product if they subscribed right there and then. This is how we reached 20 monthly subscibers (paying $25-50/mo) only two months after having the idea. In the end, my SEO advice is simple: (1) choose a market with high search volume and (2) go overboard trying to create value for people searching those keywords. I think readers have a sixth sense for bullshit and can sniff out inconsistencies. In the long term it’s far better to invest in creating value for readers. They loved the idea for the product, but the biggest objection was that it was too much work to switch email providers. So on a whim I said I’d do it for them. For free. That worked. We later called it concierge migrations and started doing that for hundreds of customers. This reminds me of something Stripe was doing during YC. The Collison brothers went to other startup founders and installed Stripe for them on their laptop, right then and there. At YC they use the term “Collison installation” for the technique they invented.
+
+User Experience (3x) “Ideally, your product is something that people will crawl through broken glass to get to, but it doesn’t hurt to get rid of the broken glass at the very least.” – Samuel Hulick We learned more and more over the years that you really have to step people through the process. You have to prepopulate things, etc. We just tested little by little. We said, “Okay, if we put a greeting in for them automatically that has their name or whatever, does that help?” And we would A/B test that. And we just kept doing that again and again and again. The tweak that set it off, which seems like a no brainer in hindsight, was to stop trying to charge people to share their Face Juggle. It seemed like a good idea at the time, but was obviously really stupid! Maître was ridiculously simple to install. Literally as simple as copy and paste. That early focus on user experience was the key to winning our first customers, along with a superior customer support. From the very beginning we made it extremely easy for non-developers to use the product. Compared to other solutions,, along with a superior customer support.
+
+Tell A Story – Talk About The “Why” (3x) I think that the US market is super-saturated with all sorts of SaaS. To acquire users, to get opportunities to guest post, and to do pretty much anything else, you have to have a story. The US market and the Bay Area are hungry for stories and very much fed up with yet another Twitter-Bootstrap-SaaS. Your pitch is everything. The most important question your website needs to answer: “How will my life be better if I use your product?” “We all love stories. We’re born for them. Stories affirm who we are. We all want affirmation that our lives have meaning. And nothing does a greater affirmation than when we connect through stories.” —Andrew Stanton, director and writer at Pixar
+
+Low Expenses (3x) Our expenses were next to nothing — no offices, no self-made software, no expensive engineers. Just lots of SaaS’s and existing plugins. Even today, 95% of the company is our email host (ActiveCampaign), our website (self-built), and our payment processor (Stripe). From its outset, Scott’s Cheap Flights had a very 21st-century startup vibe. My business partner and I connected online, and never met face-to-face for the first 12 months.Even today, 95% of the company is our email host (ActiveCampaign), our website (self-built), and our payment processor (Stripe).
+
+Expenses are a killer when you’re bootstrapping a business. Both personally and from a business perspective. For me this meant selling everything and moving to Southeast Asia for a year to live cheaply. For the business it meant finding creative solutions rather than hiring more people.
+
+My goal is to build an incredibly efficient company loved by customers. Two numbers that I track are revenue per employee and customers per employee. At this stage it isn’t something that we heavily optimize for, but I want to factor that in to each decision. Some companies brag about headcount, but I like the opposite. I prefer a small team that feels like a family at our team retreats.
+
+Email Lists (3x) Sending follow-up emails (based on customer profiles and segmentation) goes a long way in converting leads and getting repeat clients. It’s definitely something that everyone should focus on.
+
+You can’t be afraid to send email. I was really hesitant to send all of those launch emails I mentioned. I don’t think any of us want to send more email. But it really works. Folks need that extra push.
+
+Email sells. A newsletter useful to your subscribers can be an amazing marketing tool.
+
+B2B vs B2C (3x) “Sell to people who have money!” Jeff Atwood explains how targeting high-value businesses instead of consumers helped grow Discourse’s revenue to $120,000/mo. Sell to other businesses if you can, customers that won’t flinch at $200/month… Sell to people who have money I would seriously recommend anyone launching an internet-based B2C start-up without previous experience to begin by seeing if there’s a way to target other businesses rather than consumers. If it is possible, go with that.
+
+Low Churn (3x) Initially, we found sub-contractors to do the cleaning. However, two years in we realized we were churning customers too quickly, and I identified quality as the issue. We quickly learned that to ensure quality and consistency, we needed to hire and train our own staff. By far the most important factors in our growth are low churn and high word-of-mouth. I really don’t know how to market and no one should take marketing advice from me, but once we get a customer, we’ve had great success in keeping them and getting them to tell their friends. Almost all of our growth is organic. There are downsides to this: it takes a long time, there’s no way to step on the gas, etc. But it’s way less fragile and more sustainable than any marketing channel I’ve ever tried. Low churn is the key to strong long-term growth. Without it, adding users is just pouring water into a leaky bucket.
+
+Eat Your Own Dogfood (3x) I think using your own product for eight hours a day is a great way to push yourself to improve it constantly. Personally, I would struggle to build a product for an audience I don’t share the same needs with. We are big believers in the dogfooding approach . From issue tracking to Git hosting, from team chat to time tracking and the support helpdesk, we use all Planio features ourselves in our day-to-day work.Personally, I would struggle to build a product for an audience I don’t share the same needs with. When “dogfooding” your product, make sure to use it the same ways that your customers do, otherwise you’ll learn all the wrong things! We simply built exactly what we needed and started dog-fooding it as soon as we could. I think the biggest advantage that we had early on was that we were building Cronitor for ourselves. When working on the MVP we never really had a moment of wondering “how will our users want this to work”.and started dog-fooding it as soon as we could.
+
+Not Taking VC Money (3x) Trust your gut when it comes to outside capital and other major business decisions. Starting in 2012, we saw the rise of “Uber for X” companies and the home services space became a “hot sector.” Over the next three years we would see two competitors raise $64M and $110M in VC funding respectively, and a handful of others who raised anywhere from $2M-$10M. At one point we were receiving inquiries from a new venture capital fund nearly every day. They all wanted to “invest” and “scale” my business with “hockey stick growth.” However, we knew that the “Uber for X” model did not work in the cleaning space due to the quality control issues we experienced early on. We also knew that VCs who are looking for a 10x return on their investment in five to seven years had a different vision of what “scale” meant than we did. We therefore have never and will likely never take on venture capital. Figure out what you want out of this, and use that lens anytime you take advice from anyone (including me). The vast majority of startup advice is written by and for people who might not share your goals (like VCs for example), so it might be irrelevant, or even harmful for you.
+
+At my previous startup I saw the dark side of Venture Capital, so I knew that bootstrapping was the only option, but we still had to pay the bills. This meant that Bracken and I each worked other jobs on side so that we could pay our own living expenses plus the minimal costs of running Probably the biggest thing we had to figure out was money., but we still had to pay the bills. This meant that Bracken and I each worked other jobs on side so that we could pay our own living expenses plus the minimal costs of running LACRM . This continued for about 3.5 years before we could support ourselves with revenue from LACRM.
+
+Good Product (3x) We honestly just built a good product. The key to logo design is presentation. Some people pay $65 for an extremely simple plain-text logo solely because we present the logo in a beautiful way. The main site that’s free (https://nomadlist.com) keeps being covered in mainstream press like Time, Times and HuffPo. I don’t do any PR or marketing. So my CAC=$0. It also ranks very well in search as it’s linked to by so many other sites. Also not actively worked on that, it just happened because people liked my site. I’ve tried FB ads last month but only saw 4 conversions. So I think organic acquisition works best for me. Which means: Make a cool site, add paid features, make it recurring. Win. A great product will find its fit in the market. Once you have that it is all strategy and execution. But getting that first part right — building a great product — is undoubtedly difficult. The more you surround yourself with people who are interested in what you are doing, the more quickly you will get there. Good Idea (3x) The best time to start is after the idea becomes feasible due to technological or market changes. Previous to mugpods I tended to start businesses that were already in a saturated market. This was the first where I was genuinely lucky enough to see a gap in an existing market and find something not already available. My advantage was that I was a first mover in the space just after the solution became technologically feasible. There are vacuums created in markets just after the technology changes. It is a good time to strike. Some people ask, “You literally built it and they just came?” and that’s true to a point. The broader lesson though is to find something where there’s a mismatch between demand and the market. This applies to startups and regular businesses too: solving an existing problem that’s unaddressed is the best form of marketing.
+
+Luck And Timing (3x)
+
+Timing is very important when starting a business. Our signs to go full speed ahead have been (a) the decentralization of tech and the social acceptance around it, and (b) the rise and fall of the hype around the gig/sharing economy.
+
+The reality of how it happened was that I just got really lucky that my email got forwarded from an editor I had met 6 months prior to a writer who was interested in the topic but probably wouldn’t have opened my email unless it was forwarded by his editor. Every relationship might make a huge impact on me… so I try to maximize my potential for serendipity.
+
+I think a lot of luck was involved, but on the other hand I’ve tried a lot of things which have failed as well, and feel like the key is to just keep putting stuff out there, make sure people hear about it, and see if anyone bites.
+
+Go For The Craziest Or Hardest Idea, Don’t Waste Time On Some Incremental Idea (2x) What I do want to underscore is audacity. There can be a negative connotation to solving tiny problems and having side hustles, so one thing I always tell people I meet is always solve real problems and have skin in the game. It’s easy to see when an entrepreneur’s heart isn’t in it. It’s easy to ride a wave, but make sure you are riding and not coasting. And definitely go for the craziest idea you have in mind. That’s how most of the successful companies started (talk Facebook, Uber, AirBnb). You probably don’t want to spend your most precious resource (⏰), building yet another Snapchat clone. Every problem has a solution. You just have to be creative enough to find it.
+
+High Margins (2x) I’m lucky that in the world of WordPress plugins and themes there’s a low marginal cost of sale Selling physical products rather than software or information is definitely going about things the hard way. If I had to start over, I’d rather not have to worry about the real world as opposed to bits.
+
+Remote Work (2x) Working remotely inherently means you have to be good at getting work done even when no one is watching you. By hiring people that are comfortable working remotely we’ve been able to put a lot of trust in the team without much oversight on our end. Once a year we host our Mailbird Hackathon, where we get together for one month to get to know one another and to work intensively on a certain feature — and we usually do this in Bali.
+
+Time Management (2x) I would also be more ruthless in time management of our senior team and founders. Here’s a major lesson I’ve learned: every meeting you take with someone who you don’t have full confidence will drive value for you is an hour of your time lost talking to someone that would. Time is your most valuable resource as an indie hacker, founder, CEO, etc… And time is extremely finite. I ran a small workshop at Dragon*Con this year for makers wanting to turn their hobbies into businesses. Many of them were hung up on stuff that was largely irrelevant to their success, like what form of ownership their business should take, how to protect their ideas from getting stolen, etc. These types of questions are far less likely to have an impact on your ultimate success than whether or not somebody will buy what you’re selling. So get out there and sell it.
+
+Scientific Approach – Measure Everything (2x)
+
+CrazyLister will also become smarter as more users join. We collect data points on almost every action performed during the design phase (e.g. adding images, editing text, resizing the page, etc.). There are around 80 different events we track, and we collect over 1 million data points each month. We’ve now collected enough data points to start analyzing them and looking for connections. The most interesting effect to analyze is the connection between specific actions and the conversion rate of the listing. This is similar to A/B testing but on a more complex scale. The goal is to reach a level where designs create themselves, similar to The Grid project.
+
+I put a lot of tracking in the app to begin with, so I could see what people liked and didn’t, and then I reacted to that each week or so. After releasing the first version, I made a small update or tweak every couple of weeks until February. I remember it was Valentine’s Day when the version that took off actually went live. From February 14th through mid July, downloads doubled almost every day.
+
+Ads Don’t Always Work (2x) We did experiment with paid Google and Facebook ads, but we quickly determined we’d never come close to making a positive ROI on those ad spends.
+
+I also tried Facebook ads about a year in, but found them very ineffective. At one point I spent $200 to get 2 downloads!
+
+Fake It Til You Make It Just to give you an idea of how basic the MVP (“minimum viable product”) was that we took to Kickstarter: A good 50% of what we showed in the video was faked. It was a real, working Node.js application, but the majority of it was missing. Huge parts of the UI were simply screenshots of UI mockups with loading animations. We knew we could code this if we needed to, but it didn’t make sense to put in all that work just to make a video that might flop. So we did the minimum!
+
+Lean Startup Iteration – Talk To Users One thing that helped us grow faster was to implement features we noticed people asking our competitors for. For instance, our competitors did not have the ability to schedule videos, so we implemented and offered this feature to our users.
+
+Market Specific Experience
+
+Ghost is not a revolutionary idea. It’s just a good idea, which was born out of years of experience and a very clear understanding of both the product and the wider industry. Market-specific experience is probably the biggest and most under-valued asset that you can bring to any project. Few people ever talk about it.
+
+Order And Prioritise Feedback And Act On It
+
+Another thing we did well was relentlessly prioritize our development, which is critical for a bootstrapped startup. Rather than work on small incremental improvements that would only take a couple days to code, we focused on the big features that would help us get more customers or reduce the amount of cancelations. We realized that one game-changing feature was more valuable than ten nice-to-haves that people could live without.
+
+Lifestyle We always want to maintain this as a lifestyle business. We’re big believers in remote work, and we do not want to have 300 employees/contractors in the future. Riding A Wave Jumping in when a new market is emerging is the best way to grow fast. The market itself expands so you just have to hold on for dear life. This would be like a star expanding because the space it exists in itself expands. The hard part is of course seeing the trends before others do. Finally, we found ourselves riding a trend created by others. The growth hacking trend has made lots of people curious about tools like Maître. People like Vincent Dignan have done an amazing job in educating people about Growth hacking and growth tools.
+
+Do Things That Don’t Scale Being small also lets you do things manually. You can talk to people on the phone all day long, or send manual emails. It’s okay because you only need a few people to say “yes” to move the needle. Cash Flow “Cash is king.” Because we have a physical product and demand has been increasing month over month, our issue becomes cash flow. You have to be constantly on top of your funds and practice operational efficiency to make every penny count whilst your growing. If you can, get additional funds to cushion you.
+
+Optimizing The Funnel
+
+Never underestimate the power of greasing and polishing your sales funnel to a mirror sheen! Even little stuff works. For example, for the longest time we required potential customers to have a domain name set up before they could sign up for a Discourse trial. This was so, so dumb! I still hang my head in shame over this!
+
+Growth Is Slow Throughout the entire history of the company, we’ve never had a single individual thing that resulted in a meaningful surge of new customers all at once. (And we’ve been at the top of HN a couple of times, it just didn’t actually do anything for us.) It’s been an incredibly slow boil for the past seven-and-a-half years, and I expect that to continue indefinitely.
+
+Motivation The gap on your CV? I’m pretty sure any potential employer would love to employ someone who has spent a couple of years building their own businesses.
+
+The absolute biggest challenge is dealing with myself. Review Signal has been a one-man operation since the start. There are times where I am super motivated to work on it, and I can make a lot of progress. There are often times where I don’t want to look at it, and would rather be doing anything else.
+
+Working alone, you need to learn how to be productive, and tricking yourself into productivity is often required. My goal each day was accomplish one thing. No matter how big or small, if I accomplished something, I made forward progress that day and I could feel good about it.
+
+And stick it out. One day will be jubilant; the next, discouraging. But nothing beats bringing into existence, where nothing existed before, something you can be proud of.
+
+Since I was a kid I’ve always had side businesses. I sold knockoff NBA jerseys, I sold DVDs, I started a flat-fee real estate listing company, and a bunch more. Most of those businesses failed but a few did succeed. This has shown me that success or failure is not pre-ordained. You really can only try stuff and hope for the best. Fortune favors the bold, right?
+
+“All the evidence suggests that business books are not in fact about learning, but about escapism, just like a romance novel. The business book is about imagining yourself a success, not making yourself a success.” So skip the entrepreneur-porn.
+
+After I caught up with Hiten he added more: “Or, you take ConvertKit seriously and give it the time, money, and attention it deserves. But whatever you’re doing, it’s not working.” That stuck with me. It’s not often a friend gives such pointed advice. He was basically saying shut it down or double down.
+
+“logo maker” was searched 3x more than “website builder” — which was a big source of comfort during the development process. Whenever I was unmotivated, I would open that tab. I must have opened it 200 times. Funny enough, another big motivator was how poor the current solutions were (in my opinion). It got me so excited to think that I could offer a product that was 10x better than the next best product, especially because the market was so big. The main thing that motivated me was just building something cool. I did a quick Google Trends lookup and saw. Whenever I was unmotivated, I would open that tab. I must have opened it 200 times. Funny enough, another big motivator was how poor the current solutions were (in my opinion).
+
+If I could go back in time, I would definitely get beta users earlier. Once people started to use the site, I was so much more motivated to finish features and fix bugs.
+
+If you feel like you have no idea what you’re doing, well, welcome to the club. None of us have any idea what the fuck we’re doing, and anyone who says otherwise is lying. All of us are just guessing, experimenting, trying things. Not a single one of us was ever “sure” or “ready” or “confident” at any point. At a certain point you just have to jump. Stop reading. Start building.
+
+Looking back, I learned that a bad year doesn’t necessarily spell certain doom for your business. You hit a wall for some time, but you just have to keep trying and exhaust everything you know before giving up. We’ve taken advantage of every opportunity we’ve been able to find!
+
+Don’t aim to be the best, just do your best. The difference is tremendous. With the first mindset, you will never try anything risky for fear of being bad. You will never try to code that game, because other people’s games are so amazing. You will never write that blog post, because other people’s blog posts are so amazing.
+
+Work/life balance, duh! I don’t work more than 40 hours a week. I take mornings off to ski the powder days. I live a good life. It’s a marathon, not a sprint.
+
+Lifestyle-wise, Storemapper has been a big success for me. It allowed me to spend the entire last year traveling around the world with my girlfriend, pay off about $60,000 in debt from my failed startup attempt, and earn a good living with about 10-15 hours/week of work at this point. I’m in a really fortunate position right now that I’m able to spend the majority of my time and energy working on projects that I think are important and valuable to the world without worrying about getting compensated.
+
+Being an entrepreneur is scary. Be gentle with yourself. Some days you wonder what the hell you’re doing. All of the feedback I’ve gotten from mentors, podcasts, and startup reading says that this is very normal. Be resilient.
+
+At this moment, there are no limits: You can go anywhere on the planet, you can talk with whom you want just by contacting them on their social profile, etc. For example, a regular person, can have a bigger influence than the president of a small country. Think of those Instagram accounts with millions of followers. If me (a regular guy from Romania) built in 2.5 years a profitable business that is making 60x MMW (minimum monthly wage), then boy, everything is possible.
+
+I think of entrepreneurship as being accomplished through small phases of taking control of your life.
+
+When I first started digital entrepreneurship, I felt like I lacked good examples on how an introverted solo developer like myself could have success. A lot of podcasts I listened to and blogs I read about entrepreneurs felt like I was listening to super humans who never made mistakes and were robots who had no hobbies or interests other than BUSINESS AND HUSTLING ALL DAY EVERYDAY. I never felt I could fully relate to that mentality, and I desperately wanted validation that other entrepreneurs made mistakes, and bad decisions, and that sometimes nothing goes right… that success was not linear, but often started from humble beginnings… that they had pointless hobbies and deep friendships. I wanted to know it was okay to be a real person as an entrepreneur.
+
+Success is just a long to-do list. It’s straightforward and simple; it just isn’t easy.
+
+I just want to build what I want to build, on the schedule I want to keep, and try to do that as long as I can. If the well runs dry, then I’ll go back to a 9-5. Somehow, I keep surviving with this mentality. I continue to live well below my means. It’s absolutely maddening to see so many people work a job they don’t want to work, so that they can pay for stuff they don’t really need. Time is by far the most valuable “thing/piece of stuff”. How much are you selling an hour of your life for (the whole aspect of the hour… time away from your family, time away from the things you enjoy doing)? Is it worth it?
+
+“Life can be much broader, once you discover one simple fact, and that is that everything around you that you call “life” was made up by people that were no smarter than you. And you can change it, you can influence it, you can build your own things that other people can use. Once you learn that, you’ll never be the same again.” – steve jobs
+
+I didn’t fall into the trap of believing I needed a lot of external “approval” before getting started. Too many aspiring writers do nothing but aspire. They think they need an MFA or a writing workshop before they can consider themselves a “writer.” It’s simple. You’re a cook if you prepare food. You’re a programmer if you write code. You’re a writer if you write. Just do it and see what happens.
+
+Lessons Learned
+
+Here are a few of our mistakes: Not interviewing our customers all day every day. So incredibly important.
+
+Not implementing load balancing and autoscaling sooner for our servers. This caused many a sleepless night.
+
+If you are starting a software company I’d definitely advise that you choose something that requires web-only. You’ll be able to focus much better and hire more easily.
+
+Nothing scales. Like, nothing. The dream is to find some marketing channel where you can buy a user at some acceptable amount. (For us, that’s $100-$150 per paying user we get.) Then you have a machine where you can just pour money in the top, wait a few months, and even more money comes out of the bottom. The problem is that with every single channel I’ve ever tried, even if it works at low volume, the ROI gets worse and worse as you try to ramp it up. It’s yet another reason to have multiple channels running in parallel rather than one monolith.
+
+It’s incredibly easy to get caught up in the idea that if you “just get this next feature out the door” you’ll somehow stumble upon a bottomless pile of gold, but unfortunately that next feature will likely do nothing meaningful to your revenue.
+
+As I mentioned before, we made a lot of mistakes with our MVP. We made it a desktop app; used PayPal for our payment processor; had an ugly, unintuitive design; hired additional cheap developers who did poor quality work; failed to talk to enough customers; and used the wrong tools.

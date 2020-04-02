@@ -1,0 +1,41 @@
+Quantum mechanics is known for weird occurrences and bizarre outcomes. Consider superposition where a particle can be in two places at once, while also occurring in two different states—as a particle and a wave. What about quantum tunneling where a particle can pass through a solid object like a ghost. Or quantum entanglement where two particles form a relationship, be they an inch apart or a thousand light-years away. One particle might also vanish from one area, only to pop up in another. Einstein called this, “Spooky action at a distance.”
+
+Though strange, the field has advanced our understanding of the natural world immensely. Now, by applying quantum mechanics to biology, we're beginning to unravel some of science's biggest and longest running mysteries. The burgeoning field of quantum biology is today, helping us to understand bird migration, photosynthesis, and maybe even our sense of smell.
+
+Since the 1930s, scientists have suspected a quantum phenomenon behind photosynthesis. In 2007, a team of scientists produced the first evidence that this is the case. They hailed from the U.S. Department of Energy’s Lawrence Berkeley National Laboratory (Berkeley Lab), at UC-Berkeley. First author Greg Engel, a biophysicist now at the University of Chicago, led the study from which, the field of quantum biology was essentially born.
+
+Quantum mechanics may help solve some of biology's mysteries. By: Varsha Y.S., Wikimedia Commons.
+
+In photosynthesis, plants gather photons or light particles through cells called chromophores. These release quasi-particles called excitons which gather the collected energy and transport it to the reaction center. Here, it can be transformed into chemical energy, which the plant can metabolize. This whole process occurs in one billionth of a second, with close to 100% efficiency. The speed is necessary to avoid energy loss. Such energy can quickly dissipate into heat. Now here’s the missing piece.
+
+Instead of traveling down one pathway or another, Engel and colleagues showed the exciton takes advantage of superposition. Researchers used a green, sulfur-breathing bacterium called Chlorobium tepidum for the experiment. It’s one of the first organisms to ever photosynthesize, and it's been around for over a billion years.
+
+Engel and colleagues brought the bacterium’s temperature down to 77º Kelvin (-321º F or -196º C). Then, they sent short bursts of pulsed laser light through the bacterium's body. They followed the bursts using two-dimensional electronic spectroscopy. Engel and colleagues wanted to know exactly how the energy flowed through it.
+
+What they found was that an exciton travels not in a straight line, but in a wavelike motion. Due to quantum coherence, which states that all parts of a wave stick together, the exciton can, as a wave, feel out all possible pathways, find the most efficient one, and take it. The results of this study were published in the journal Nature.
+
+Scientists used superposition to explain photosynthesis. By: Jon Sullivan. Wikipedia commons.
+
+Several other studies have observed the same phenomenon, photosynthesis operating through quantum coherence. If we could mimic such a system, we could make super-efficient solar panels and longer-lasting batteries—a crucial requirement if we’re going to transition to all-green tech.
+
+Many scientists feel nervous about applying quantum mechanics to biology. After all, physicists study particles in tightly controlled environments. Whereas, in the wet and chaotic world of biology, things are changing all the time. It's an environment that seems too volatile for superposition to take place in.
+
+MIT physicist Seth Lloyd, using computer simulations, found that the surrounding noise might actually advance an exciton’s progress. Sometimes it gets caught up in the plant’s inner environment. When this occurs, molecular noise might shake it loose.
+
+The European Robin. By: Charles J. Sharp. Wikimedia Commons.
+
+Then there’s the migratory patterns of birds. It’s long been known that birds navigate through an internal, chemical compass that interacts with the Earth’s magnetic field. The thing is, that field is weak. So how do birds pick it up?
+
+In one study published in the journal Nature, Oxford University researchers worked with the European Robin, who travels as far as thousand miles when cold weather is looming, from as far north as Scandinavia to as far south as North Africa. What they found was, when a photon of sunlight hits the bird’s retina, it releases two unpaired electrons. The spin of each orients itself to the magnetic field.
+
+Physicist Simon Benjamin of Oxford, proved it was chemically possible in a 2008 experiment. He believes it works through quantum entanglement. Besides birds, insects and other organisms might orient themselves this way, as well.
+
+Quantum mechanics may explain how our sense of smell works. Getty Images.
+
+Now, for olfaction. Humans can differentiate between thousands of difference smells. One of the oldest and most distinct senses, science has struggled to understand exactly how it works. We know that molecules make it into the nostrils from the air. Somehow they interact with a receptor inside the nose. But how it distinguishes one substance from another is still unknown.
+
+Rather than mere shape, chemist Luca Turin believes something else is at play. He hails from the BSRC Alexander Fleming institute in Greece. First, a molecule interacts with a receptor in the nose. Then, in Turin's view, an electron in that molecule gets to the other side of the receptor through quantum tunneling. By doing so, it sends a signal to the brain, telling it what molecule this is. Turin said, “Olfaction requires a mechanism that somehow involves the actual chemical composition of the molecule.” As such, quantum tunneling is a natural fit.
+
+In one experiment, the chemist found that two radically different molecules, boranes and Sulphur, smelled the same. Although different in shape, what makes both smell like rotten eggs may be the similar energy content present in their bonds. But far more research will be needed to prove that olfaction is performed on the subatomic level. Even so, the field of quantum biology is starting to reap significant breakthroughs. This could lead to technological innovations, as well as furthering our understanding of the nature of life on Earth.
+
+To learn more about quantum biology, click here:

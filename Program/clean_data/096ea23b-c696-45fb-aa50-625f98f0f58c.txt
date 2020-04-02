@@ -1,0 +1,89 @@
+If you’re new to the business of SEO and are just figuring out how to optimize your WordPress site for search, navigating the landscape of SEO can seem like a nightmare.
+
+You’ll have seen a thousand different articles on SEO: on-page optimization tips, off-page optimization tips, SEO basics, email marketing tips, etc. online and implemented them – only to see them fail, or worse, backfire.
+
+Don’t worry, you’re not alone. SEO can be tricky, and there is always a huge scope for overdoing or underdoing things. While I can’t fully solve this problem for you, I’ll make an attempt to round up the most commonly faced SEO challenges with WordPress so that you can look into your site and make some amends.
+
+The important thing to understand here is that the same factors can prove to be a boon as well as a challenge when it comes to SEO. The key is to understand your own website intricately and devise plans depending upon what works best for you. Listed below are a few things that are commonly done wrong.
+
+1. Finding the right theme
+
+Ask yourself, how did you choose your WordPress theme while creating your website? Odds are you picked the most visually attractive theme that you thought would appeal to your customers.
+
+Another common mistake people make is picking the most premium or commonly-used themes, as they think these are shortcuts to success. This is where you’re going wrong. Many complicated themes are filled with poor code that slows down your website. And loading time is a small but significant factor that affects your SEO rankings.
+
+So pick a theme that works best for the nature of your website. Minimalist themes can be just as effective as complicated themes. And remember to check how often these themes are updated; you do not want an outdated theme dragging your site down.
+
+2. The plugin game
+
+WordPress plugins can truly be a boon for website SEO. But people tend to overdo it by adding too many of them and as a result, the website becomes heavier and slower to load. In order to improve user experience and your website ranking, it is imperative to pick and install only the right plugins for your website.
+
+Multiple plugins also tend to occupy excessive server resources. Therefore, many managed WordPress hosts do not allow websites that consume too many resources.
+
+3. The sitemap issue
+
+As a basic WordPress website doesn’t give you too many features and controls, you’re bound to install SEO plugins, most of which have the option of sitemaps. You can even create multiple sitemaps by getting additional plugins to allow you further control over your site.
+
+But here’s the problem. Many people forget to submit their sitemaps to Google Search Console. Once you fail to do that, search engines stop recognizing your sitemaps and needless to say, you won’t show up anywhere despite all your customized plugins.
+
+4. Link stuffing gone wrong
+
+Adding links to your site is one of the most important SEO tactics, and can do wonders for your website ranking. Many themes come with pre-set links to help you out. But there are two ways this can go wrong:
+
+Over stuffing – Nothing overdone is attractive, and adding links is no exception. Adding too many links can distract your user and also turn them off your site. A good rule of thumb to go by is using up to 20 links. This way you’re well within your bounds.
+
+– Nothing overdone is attractive, and adding links is no exception. Adding too many links can distract your user and also turn them off your site. A good rule of thumb to go by is using up to 20 links. This way you’re well within your bounds. Stuffing nonsense – The relevance of the content you feed to your customers is more important than you think. Offer original and relevant content that is useful to your customers so that they spend more time on your site, thus improving your rankings.
+
+5. Schema gone wrong
+
+Schema markup is the primary code that allows Google (and other search engines) to understand what your website is about. You showcase your Name, Address and Phone Number (NAP) so that Google can run it through its algorithms and display your site if it has local relevance. So this is the single most important thing that helps Google understand who you are and what kind of services you provide.
+
+This obviously improves your rankings and visibility. But if you get this wrong, it could work against you, as it confuses Google.
+
+The best way out of this challenge is to gain a deep understanding of how Schema works. Various online resources can help you learn that. For starters, you can check-out the ‘Organization of Schema’ page to look for the list of most common types of schema markup and the ‘Full Hierarchy’ page for the schema types that you will need.
+
+6. Underestimating alt text for images
+
+People often focus all their attention on optimizing text content and miss out visual content, i.e. images. It’s a big blunder. Without fail, make the time to give your images proper names and descriptions. This will go a long way in improving your site’s functionality, accessibility and ranking.
+
+So if you’ve overlooked this, rename all your images now and add proper descriptions. Another shortcut to do this is using the SEO Friendly Images WordPress Plugin.
+
+7. Wrongly done permalinks
+
+Despite the huge amount of information available on permalinks over the internet, it is one of the most difficult things to get right. And your website takes a really big hit by doing this wrong.
+
+So here’s an over-simplified tip for you. The ideal permalink will allow you to include two very basic yet important things: post name and category. It should look something like this: “/%category%/%postname%/“.
+
+What this does is allows search engines as well as your site visitors to clearly understand what your website is about.
+
+8. Ignoring H1 tags
+
+As your webpage grows, you might end up having a lot more duplicate content than is advisable. Even if this doesn’t affect you initially, it will in the long run.
+
+With growing popularity and content, you might feel you have no option but to use the same H1 tags for multiple pages. But this makes search engines alert and eventually averse to your site. So as far as possible, get precise and innovative and provide only unique content for your site.
+
+And don’t even think of employing the age-old technique of overusing keywords in your meta tags. This might have worked in the past, but Google is very smart and now identifies it.
+
+9. The sin of using duplicate content
+
+It’s not an exaggeration when I say it’s a sin to use duplicate content. The problem is that you might be doing this without even knowing that you are.
+
+The most common mistake in this department is over-categorizing and over-tagging: Google identifies content with multiple common tags and flags them as duplicate content. As a rule, a post should typically be in no more than one or two categories, and tagging should be limited only to the most relevant topics covered in the post.
+
+Furthermore, if you find no obvious way in which you can tag a specific post, don’t tag it. Not every post needs tagging.
+
+However, it is easy to tackle this. WordPress offers plugins like All-In-One-SEO or SEO Plugin Yoast to avoid this error. These plugins add ‘No Follow’ tags to pages that help search engines categorize pages appropriately.
+
+10. Forgetting internal links and related posts
+
+Linking one article to other relevant content across your site increases the average time spent by a user on your website, and also acts as a search engine ranking signal. However, adding unrelated links or poor-quality content will do the opposite and put them off.
+
+If you do not wish to use too many internal links, another smart way to go about it is by adding related posts. Get a plugin to pick the right kind of posts to display as related posts to keep your relevance and integrity intact. The best way to do this is getting the right balance between internal links and related posts.
+
+So read this article through again and thoroughly examine your SEO practices to identify how many of these aforementioned things are you getting wrong, and how many you are doing right.
+
+Another factor that significantly affects your user experience is your host. A slow host will increase your loading time and therefore affect users. Keep this in mind while picking your web hosting company.
+
+Your goal should always be to give your visitors rich quality and relevant content, delivered in the right manner and at the right speed. That is the only true way to keep your customers happy and run a thriving website.
+
+Lucy Barret is a WordPress developer and a passionate blogger.

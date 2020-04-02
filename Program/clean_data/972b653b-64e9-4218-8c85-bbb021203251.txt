@@ -1,0 +1,123 @@
+This is part 1 of a two part series on advanced content tracking. This post is about why you might want to use this technique and how to implement. The next post will cover the reporting and analysis.
+
+The default content tracking content in Google Analytics is fairly straight forward. Using the standard page tag you can get all sorts of information like time on page, bounce rate and pageviews.
+
+But sometimes this is not enough. For publishers and minor bloggers (like your’s truly) these metrics can be sub-optimal.
+
+I want more detailed information about each article. Do people read the comments or do they just read the post? Do they open a lot of posts in tabs?
+
+What would be better is a way to measure more detailed information about how website visitors interact with each page.
+
+So that’s what this post is all about: measuring how people interact with content using custom tracking.
+
+Some Thanks
+
+Before we begin, this blog post, technique and concept was born from collaboration. There are a number of people that need to be recognized for contributing. You can read more about the genesis of this technique at the bottom of the post. Contributors include:
+
+Nick Mihailovski – Developer advocate at Google (and the guys that sits across from me)
+
+Thomas Baekdal – Smart guy and publisher of www.baekdal.com
+
+Avinash Kaushik – If you don’t know Avinash…
+
+Joost de Valk – Creator of the Google Analytics for WordPress
+
+Eivind Savio – Blogger and GA consultant
+
+Now, on the details!
+
+Business Objective
+
+As I mentioned above the objective here is to get a better understanding, on a page by page basis, of the content that visitors engage with. Using some objectives suggested by Thomas Baekdal here’s what we’re going to track:
+
+How many people scroll
+
+When a person starts to scroll
+
+When a person reaches the end of an article (not the end of the page, but the end of the article or post area)
+
+When a person reaches the botton of the page (the bottom of the HTML)
+
+Which website visitors are scanning my articles and which are reading my articles
+
+Think about the value here! We will be able to get an accurate measure of which articles are actually read. We can even see which articles are so engaging that visitors continue through the comments to the botto of the page. Very useful stuff.
+
+Tracking Technique
+
+All of the above can be tracked with Event Tracking. The concept is that we will fire events when certain actions happen. Specifically we’re going to fire events based on visitors scrolling down the page.
+
+Critical to any event tracking implementation is the data model. We need to define the data we want to see in Google Analytics.
+
+All of the reading activities will be grouped together into a category named Reading.
+
+Within this category there will be four main actions:
+
+Article load: Measure how many times the article loads in a browser. Basically another count of pageviews. This will provide context to the other events that we track.
+
+Measure how many times the article loads in a browser. Basically another count of pageviews. This will provide context to the other events that we track. Start Reading: Track when a visitor starts scrolling down the page. This will be triggered after a visitor scrolls 150 pixels down the page. This value can be customized. I’m also tracking how much time it takes to start scrolling.
+
+Track when a visitor starts scrolling down the page. This will be triggered after a visitor scrolls 150 pixels down the page. This value can be customized. I’m also tracking how much time it takes to start scrolling. Content Bottom: Track when a visitor reaches the end of the article content. And track how much time it took between the scroll start and getting to the bottom of the content.
+
+Track when a visitor reaches the end of the article content. And track how much time it took between the scroll start and getting to the bottom of the content. Page Bottom: Track when the visitor reached the botton of the page and how long it took.
+
+Another piece of critical information is the page URL and title. We need this to segment the data and see which articles are most engaging to people. Google Analytics will automatically track the page URL and title so there’s no need to add it to the event.
+
+We’re also going to use a Custom Variable to place this visitor in a bucket. If it took them less than 60 seconds to get to the bottom of the page then I will assume they are just scanning. We’ll put them in the Scanners bucket.
+
+But, if they took longer than 60 seconds to get to the bottom of the page then we’ll put them in the readers bucket.
+
+FInally, I can set these events up as goals. I’ll add one goal for those that make it to the bottom of the content and one goal for those that make it to the bottom of the page. This is an easy way to measure what percentage of visits complete these actions.
+
+The Code
+
+First, this code uses something called jQuery. It’s a special JavaScript library that makes it easier to program complex tasks. Almost every website is running jQuery these day. But make sure your site includes the library.
+
+Here’s the code, feel free to copy, tweak and share. Just remember all the people that contributed to it!
+
+We start with some simple declarations. These control flow etc. But notice there are a couple values you can change.
+
+// Debug flag // CHANGE THIS TO false BEFORE INSTALLING var debugMode = true; // Default time delay before checking location var callBackTime = 100; // # px before tracking a reader var readerLocation = 150; // Set some flags for tracking & execution var timer = 0; var scroller = false; var endContent = false; var didComplete = false; // Set some time variables to calculate reading time var startTime = new Date(); var beginning = startTime.getTime(); var totalTime = 0;
+
+You can change the callBackTime variable and the readerLocation variable. callbackTime is the time (in millisecond) that the browser will wait before checking the scroll location. This eliminates any lag in scrolling.
+
+readerLocation is the distance, in pixels, that the visitor must scroll before we fire an event and classify them as someone who starts reading.
+
+Now we send off an event to track that the article has loaded:
+
+// Track the aticle load if (!debugMode) { _gaq.push(['_trackEvent', 'Reading', 'ArticleLoaded', '', , true]); }
+
+Next comes the code that checks the location. First we gather where the visitor is on the page and how far they have scrolled.
+
+bottom = $(window).height() + $(window).scrollTop(); height = $(document).height();
+
+Then we start checking.
+
+First, have they scrolled enough to fire the first event (150 px)?
+
+// If user starts to scroll send an event if (bottom > readerLocation && !scroller) { currentTime = new Date(); scrollStart = currentTime.getTime(); timeToScroll = Math.round((scrollStart - beginning) / 1000); if (!debugMode) { _gaq.push(['_trackEvent', 'Reading', 'StartReading', '', timeToScroll]); } else { alert('started reading ' + timeToScroll); } scroller = true; }
+
+IMPORTANT: The above event WILL change your bounce rate. As soon as someone starts scrolling I consider them engaged and not a bounce. So this event will drop your bounce rate. Also note that these events WILL change your time on site calculations. You should see time on site increase.
+
+Then, when they reach the bottom of the content area, this event fires marking their progress. I’m basically checking to see if the div that contains the article content has been reached. If so, fire the event.
+
+// If user has hit the bottom of the content send an event if (bottom >= $('.entry-content').scrollTop() + $('.entry-content').innerHeight() && !endContent) { currentTime = new Date(); contentScrollEnd = currentTime.getTime(); timeToContentEnd = Math.round((contentScrollEnd - scrollStart) / 1000); if (!debugMode) { _gaq.push(['_trackEvent', 'Reading', 'ContentBottom', '', timeToContentEnd]); } else { alert('end content section '+timeToContentEnd); } endContent = true; }
+
+It’s really important to note that the above code looks for a div specific to my blog. On my site the div is named entry-content . It might be different on yours. Basically you’re looking for the container that holds the blog post or article.
+
+Finally, we track if the visitor got to the bottom of the page. Here we do a few things.
+
+We calculate how long it took them We send an event We set a custom variables to bucket our traffic. If the visitor took longer than 60 seconds to reach the bottom then we’ll put them in the reader segment using a visit level custom variable. If they take less than 60 seconds I’ll put them in the Scanner bucket.
+
+I’m putting them into custom variable slot 5 because that’s the only slot that I have available. You may need to use a different slot. Dont know what a slot is? Read more about mastering custom variables.
+
+// If user has hit the bottom of page send an event if (bottom >= height && !didComplete) { currentTime = new Date(); end = currentTime.getTime(); totalTime = Math.round((end - scrollStart) / 1000); if (!debugMode) { if (totalTime < 60) { _gaq.push(['_setCustomVar', 5, 'ReaderType', 'Scanner', 2]); } else { _gaq.push(['_setCustomVar', 5, 'ReaderType', 'Reader', 2]); } _gaq.push(['_trackEvent', 'Reading', 'PageBottom', '', totalTime]); } else { alert('bottom of page '+totalTime); } didComplete = true; }
+
+Since we’re collecting the time spent on page, I’m going to use this data to adjust the threshold after I collect some data. I chose 60 seconds arbitrarily.
+
+And finally, here’s the code that actually checks if the visitor has scrolled down the page:
+
+// Track the scrolling and track location $(window).scroll(function() { if (timer) { clearTimeout(timer); } // Use a buffer so we don't call trackLocation too often. timer = setTimeout(trackLocation, callBackTime); });
+
+So that’s the code. You can copy it from the iFrame above and place it on your site if you want to.
+
+Stay tuned for a post tomorrow about the resulting reports!

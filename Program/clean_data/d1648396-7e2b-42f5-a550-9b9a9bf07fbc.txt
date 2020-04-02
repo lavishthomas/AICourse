@@ -1,0 +1,49 @@
+Headless mode is a useful way to run Firefox, which is just as it sounds — Firefox is run as normal, except without any of the UI components visible. This may not be very useful for surfing the web, but it is very useful for automated testing. This article provides all you need to know about running headless Firefox.
+
+Using headless mode
+
+You can run Firefox in headless mode from the command line, by including the -headless flag. For example:
+
+/path/to/firefox -headless
+
+For the moment, we've kept it simple, but more options will be added later on.
+
+As an example, we are working on a -screenshot option, which will allow you easily take screenshots using headless Firefox. See bug 1378010 for progress on this.
+
+Browser support
+
+Headless Firefox works on Fx55+ on Linux, and 56+ on Windows/Mac.
+
+Automated testing with headless mode
+
+The most useful way to use headless Firefox is to run automated tests with it, meaning that you can make your testing process much more efficient.
+
+Selenium
+
+To provide an example of using headless mode with automated testing, we'll create a Selenium test using Node.js and the selenium-webdriver package. For this guide we'll assume that you already have basic familiarity with Selenium, Webdriver, and Node, and that you already have a testing environment set up. If you don't, work through our Setting up Selenium in Node guide first, then come back.
+
+First, of all, make sure you've got Node installed on your system, and the selenium-webdriver package installed, then create a new file called selenium-test.js and follow the steps below to populate it with test code.
+
+Note: Alternatively, you could clone our headless-examples repo; this also includes a package file so you can just use npm install to install necessary dependencies.
+
+Let's add some code. Inside this file, start by importing the main selenium-webdriver module, and the firefox submodule: var webdriver = require('selenium-webdriver'), By = webdriver.By, until = webdriver.until; var firefox = require('selenium-webdriver/firefox'); Next, we will create a new binary object representing Firefox Nightly, and add the -headless argument to it so that it will be run in headless mode: var binary = new firefox.Binary(firefox.Channel.NIGHTLY); binary.addArguments("-headless"); Now let's create a new driver instance for Firefox, and use setFirefoxOptions() to include an options object that specifies that we want to run the test using the binary we created above (this step will be unnecessary on Linux, and after headless mode lands in the release channel on Windows/Mac, but it is still useful if you want to test a Nightly-specific feature): var driver = new webdriver.Builder() .forBrowser('firefox') .setFirefoxOptions(new firefox.Options().setBinary(binary)) .build(); Finally, add the following code, which performs a simple test on the Google search homepage: driver.get('https://www.google.com'); driver.findElement(By.name('q')).sendKeys('webdriver'); driver.sleep(1000).then(function() { driver.findElement(By.name('q')).sendKeys(webdriver.Key.TAB); }); driver.findElement(By.name('btnK')).click(); driver.sleep(2000).then(function() { driver.getTitle().then(function(title) { if(title === 'webdriver - Google Search') { console.log('Test passed'); } else { console.log('Test failed'); } }); }); driver.quit(); Finally, run your test with following command: node selenium-test
+
+That's it! After a few seconds, you should see the message "Test passed" returned in the console.
+
+Headless Firefox in Node.js with selenium-webdriver by Myk Melez contains additional useful tips and tricks for running Node.js Selenium tests with headless mode.
+
+Other testing solutions
+
+Slimerjs has Firefox support built in on Linux, with Mac and Windows support coming soon. See Headless SlimerJS with Firefox by Brendan Dahl for more details.
+
+In addition, you will be able to use headless Firefox to run automated tests written in most other popular testing apps, as long as they allow you to set environment variables.
+
+Troubleshooting and further help
+
+If you are having trouble getting headless mode to work, then do not worry — we are here to help. This section is designed to be added to as more questions arise and answers are found.
+
+On Linux, certain libraries are currently required on your system even though headless mode doesn't use them — because Firefox links against them. See bug 1372998 for more details and progress towards a fix.
+
+If you want to ask the engineers a question, the best place to go is the #headless channel on Mozilla IRC. If you are pretty sure you've found a bug, file it on Mozilla Bugzilla.
+
+See also

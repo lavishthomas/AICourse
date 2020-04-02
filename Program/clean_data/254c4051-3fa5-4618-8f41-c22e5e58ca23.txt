@@ -1,0 +1,105 @@
+This week, as I was preparing my presentation on C# sung on iOS and Android, I came to the realization that callback-based programming has somehow become an acceptable programming model.
+
+It has become an acceptable programming model, in the same way that using IF/GOTO to write programs was an acceptable model back in the 60's. They are acceptable because we did not have anything better to replace them.
+
+Today, both C# and F# support a programming model that will do to our generation what structured programming, high-level languages and control flow primitives did to the developers in the 60's.
+
+Sadly, many developers when they hear the word "C# async" immediately think "I have callbacks in my language already". Variations of this include "Promises are better", "Futures is the way to go", "Objective-C has blocks" and "the operating system provides that". All of these statements are made by people that have yet to study C# async or to grasp what it does.
+
+This is my attempt at explaining why the C# async model is such a leap forward for developers.
+
+Callbacks are a Band Aid
+
+Callbacks have improved significantly over the years. In the pure C days, if you wanted to use callbacks, you would have to write code like this:
+
+void cback (void *key, void *value, void *user_state) { // My data is stored in the user_state, fetch it // in this case, just a simple int. int *sum = (int *) user_state; *sum = *sum + *(int *)value; } int sum_values (Hashtable *hash) { int sum = 0; hash_table_foreach (hash, cback, &sum); return sum; }
+
+Developers would have to pass around these pointers to the state that they managed manually, which is just very cumbersome.
+
+Today with languages that support lambdas, you can write code instead that can capture the state, so things like the above become:
+
+int sum_values (Hashtable hash) { int sum = 0; hash.foreach ((key, value) => { sum += value; }); return sum; }
+
+Lambdas have made writing code a lot simpler, and now we see this on UI applications that use events/lambdas to react to user input and Javascript apps on the browser and the client that use callbacks to get their job done.
+
+In Node.js's case the original idea was to scale a server by removing blocking operations and instead offering a pure callback-driven model. For desktop applications, often you want to chain operations "on response to a click, download a file, then uncompress it, then save it to the location specified by the user", all while interleaving some bits of user interface and background operation.
+
+This leads to nested callbacks after callbacks, where each indentation level is executing at some point in the future. Some people refer to this as Callback Hell.
+
+During this week preparation, Marco Arment happened to tweet this:
+
+Block enumerators + flatdacted URL sessions + SQLite thread safety = comically deep block calls. http://t.co/XI98RQiE6c — Marco Arment (@marcoarment) August 9, 2013
+
+This is a common idiom. On our web site, when we launched Async, we shared this sample:
+
+private void SnapAndPost () { Busy = true; UpdateUIStatus ("Taking a picture"); var picker = new Xamarin.Media.MediaPicker (); var picTask = picker.TakePhotoAsync (new Xamarin.Media.StoreCameraMediaOptions ()); picTask.ContinueWith ((picRetTask) => { InvokeOnMainThread (() => { if (picRetTask.IsCanceled) { Busy = false; UpdateUIStatus ("Canceled"); } else { var tagsCtrl = new GetTagsUIViewController (picRetTask.Result.GetStream ()); PresentViewController (tagsCtrl, true, () => { UpdateUIStatus ("Submitting picture to server"); var uploadTask = new Task (() => { return PostPicToService (picRetTask.Result.GetStream (), tagsCtrl.Tags); }); uploadTask.ContinueWith ((uploadRetTask) => { InvokeOnMainThread (() => { Busy = false; UpdateUIStatus (uploadRetTask.Result.Failed ? "Canceled" : "Success"); }); }); uploadTask.Start (); }); } }); }); }
+
+The problem with these nested callbacks is that you can see very quickly that these are not code bases you want to be working with. Currently it does some basic error handling, but it does not even attempt to do some better error recovery.
+
+Thinking about extending the above functionality makes me pause, perhaps there is something else I can do to avoid patching the above function?
+
+And if I wanted to do better error recovery or implement a better workflow I can see myself annoyed at both the bookkeeping that I need to do, make sure that "Busy" value is property updated on every possible exit (and possible exits I add).
+
+This is ugly to the point that your mind starts to wander "perhaps there is a new article on hacker news" or "did a new cat get posted on catoverflow.com?".
+
+Also notice that in the sample above there is a context switching that takes place on every lambda: from background threads to foreground threads. You can imagine a real version of this function being both larger, getting more features and accumulating bugs in corner cases that were not easily visible.
+
+And the above reminded me of Dijkstra's Go To Statement Considered Harmful. This is what Dijkstra's had to say in the late 60's about it:
+
+For a number of years I have been familiar with the observation that the quality of programmers is a decreasing function of the density of go to statements in the programs they produce. More recently I discovered why the use of the go to statement has such disastrous effects, and I became convinced that the go to statement should be abolished from all "higher level" programming languages (i.e. everything except, perhaps, plain machine code). At that time I did not attach too much importance to this discovery; I now submit my considerations for publication because in very recent discussions in which the subject turned up, I have been urged to do so. My first remark is that, although the programmer's activity ends when he has constructed a correct program, the process taking place under control of his program is the true subject matter of his activity, for it is this process that has to accomplish the desired effect; it is this process that in its dynamic behavior has to satisfy the desired specifications. Yet, once the program has been made, the "making" of the corresponding process is delegated to the machine. My second remark is that our intellectual powers are rather geared to master static relations and that our powers to visualize processes evolving in time are relatively poorly developed. For that reason we should do (as wise programmers aware of our limitations) our utmost to shorten the conceptual gap between the static program and the dynamic process, to make the correspondence between the program (spread out in text space) and the process (spread out in time) as trivial as possible.
+
+And this is exactly the kind of problem that we are facing with these nested callbacks that cross boundaries.
+
+Just like in the Go To days, or the days of manual memory management, we are turning into glorified accountants. Check every code path for the proper state to be properly reset, updated, disposed, released.
+
+Surely as a species we can do better than this.
+
+And this is precisely where C# async (and F#) come in. Every time you put the word "await" in your program, the compiler interprets this as a point in your program where execution can be suspended while some background operation takes place. The instruction just in front of await becomes the place where execution resumes once the task has completed.
+
+The above ugly sample, then becomes:
+
+private async Task SnapAndPostAsync () { try { Busy = true; UpdateUIStatus ("Taking a picture"); var picker = new Xamarin.Media.MediaPicker (); var mFile = await picker.TakePhotoAsync (new Xamarin.Media.StoreCameraMediaOptions ()); var tagsCtrl = new GetTagsUIViewController (mFile.GetStream ()); // Call new iOS await API await PresentViewControllerAsync (tagsCtrl, true); UpdateUIStatus ("Submitting picture to server"); await PostPicToServiceAsync (mFile.GetStream (), tagsCtrl.Tags); UpdateUIStatus ("Success"); } catch (OperationCanceledException) { UpdateUIStatus ("Canceled"); } finally { Busy = false; } }
+
+The compiler takes the above code and rewrites it for you. There is no longer a direct mapping between each line of code there to what the compiler produces. This is similar to what happens with C# iterators or even lambdas.
+
+The above looks pretty linear. And now, I can see myself feeling pretty confident about changing the flow of execution. Perhaps using some conditional code that triggers different background processes, or using a loop to save the picture in various locations, or applying multiple filters at once. Jeremie has a nice post that happens to do this.
+
+Notice that the handling of that annoying "Busy" flag is now centralized thanks to the finally clause. I can now guarantee that the variable is always properly updated, regardless of the code path in that program and the updates that take place to that code.
+
+I have just delegated the bookkeeping to the compiler.
+
+Async allows me to think about my software in the very basic terms that you would see in a flow-chart. Not as a collection of tightly coupled and messy processes with poorly defined interfaces.
+
+Mind Liberation
+
+The C# compiler infrastructure for Async is actually built on top of the Task primitive. This Task class is what people in other languages refer to as futures, promises or async. This is probably where the confusion comes from.
+
+At this point, I consider all of these frameworks (including the one in .NET) just as lower-level plumbing.
+
+Tasks encapsulate a unit of work and they have a few properties like their execution state, results (if completed), and exceptions or errors that might have been thrown. And there is a rich API used to combine tasks in interesting ways: wait for all, wait for some, combine multiple tasks in one and so on.
+
+They are an important building block and they are a big improvement over rolling your own idioms and protocols, but they are not the means to liberate your mind. C# async is.
+
+Frequently Asked Questions about Async
+
+Today I had the chance to field a few questions, and I wanted to address those directly on my blog:
+
+Q: Does async use a new thread for each operation?
+
+A: When you use Async methods, the operation that you requested is encapsulated in a Task (or Task<T>) object. Some of these operations might require a separate thread to run, some might just queue an event for your runloop, some might use kernel asynchronous APIs with notifications. You do not really know what an Async method is using behind the scenes, that is something that the author of each user will pick.
+
+Q: It seems like you no longer need to use InvokeOnMainThread when using Async, why?
+
+A: When a task completes, the default is for execution to be resumed on the current synchronization context. This is a thread-local property that points to a specific implementation of a SynchronizationContext.
+
+On iOS and Android, we setup a synchronization context on the UI thread that will ensure that code resumes execution on the main thread. Microsoft does the same for their platforms.
+
+In addition, on iOS, we also have a DispatchQueue sync context, so by default if you start an await call on a Grand Central Dispatch queue, then execution is resumed on that queue.
+
+You can of course customize this. Use SynchronizationContext and ConfigureAwait for this.
+
+Finally, the PFX team has a good FAQ for Async and Await.
+
+Async Resources
+
+Here are some good places to learn more about Async:

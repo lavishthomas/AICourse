@@ -1,0 +1,43 @@
+Social analytics firm Networked Insights is spending Election Day gauging the feelings and intentions of the American electorate and sharing the findings exclusively with WIRED. Here's a peek into the methodology.
+
+Where are you getting your data?
+
+Our analytics engine Kairos processes unstructured data from millions of sites, blogs, and social platforms like Twitter and Tumblr. Billions of public posts are then analyzed and classified across 25,000 topics, emotions, and demographics—turning noisy social data into insights.
+
+What kinds of signals are you looking for in social data, and what can they tell us?
+
+In order to create predictions around the elections using our analytics platform Kairos, we built 4 metrics: Awareness, Positivity, Negativity and Intent, of which only Negativity and Intent proved to be valuable in predicting elections. Negativity and Intent are natural language processing classifiers which take advantage of sentence structure as well as keyword matching.
+
+Then we modeled the data against survey polls, primary results, and survey pools to obtain weights of influence for each of the social indices. Finally, we use those parameters to continue predicting the state elections based on new data.
+
+To examine broader trending topics around the election like “voter fraud,” “long lines,” or “voter IDs,” we rely on proprietary discovery technology within Kairos to uncover a nuanced real-time picture of overall social conversations.
+
+Shades of meaning can be subtle. How do you account for nuances like, say, sarcasm or irony?
+
+Kairos is particularly great at uncovering the implicit meaning within the comments. What that means is that when someone says “I’d love to give Trump a piece of my mind,” for example, our technology can tell that it doesn’t mean that they love Trump (and thus have a positive sentiment towards him). Instead we use over 25,000 different classifiers to deeply understand both the emotions and potential intent behind a post.
+
+What technology and techniques are you using to analyze social data?
+
+Kairos ingests unstructured data from all of the data sources mentioned previously, then classifies that data to better understand who it came from, what they are talking about, and how they are talking about it—removing spam in the process. We use a combination of Boolean classifiers, language classifiers (including natural language processing), and machine learning to interpret the true meaning and deeper intent of your audience’s conversations.
+
+How much data do you need to analyze to uncover trends?
+
+We typically look at a minimum of thousands of conversations or people to gather our assumptions on conversational themes. During this election, the number of people engaged in political conversations has grown considerably, so minimum sample size is not a very likely concern.
+
+How can you use social data to discern who people are intending to vote for, especially if they don't simply come out and say so?
+
+We are actually looking for direct signals of intent and how that changes over time. Those include putting keywords, expressions, and hashtags that our linguists have determined imply direct intent to vote in natural language processing models.
+
+__How can you use social data to make statistically accurate determinations of what people intend to do and how they feel? __
+
+Everything conversation we classify is 90 percent accurate or more. That means that if our machines detect a post to be about presidential elections, it is 90 percent likely that it is about the presidential elections. In order to train machines to accurately interpret language correctly, we actually use a process whereby two or more humans must be in agreement that a given conversation accurately reflects a given topic.
+
+We can tell you that this data is useful not just for brands who want to make smarter media buys, predictively analyze campaign performance, or fuel their content strategies, but it can also be incredibly useful for correctly guessing World Series champions (go Cubs!) and predicting the success of box office releases. As far as our ability to accurately predict the outcome of the presidential election, this is our first time attempting such a challenging feat, so only time will tell.
+
+__How do you account for selection bias (that is, you're only gathering data from people who have chosen to use social platforms—not a random sample)? __
+
+Selection bias in our model is indirectly corrected when normalizing the data against polls or results from the primaries.
+
+How is this different than polls?
+
+There are three main differences between unstructured polls and regular polls:

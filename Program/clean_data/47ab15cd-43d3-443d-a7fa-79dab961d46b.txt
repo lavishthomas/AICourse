@@ -1,0 +1,11 @@
+Important: 100% of Google Analytics properties have been transferred to Universal Analytics, and all new properties will be Universal Analytics properties. If you are still using a legacy tracking library (such as ga.js or versions 1.x of the mobile SDKs), you should strongly consider upgrading your tracking code to get all the benefits of Universal Analytics.
+
+Universal Analytics is the new operating standard for Google Analytics; however, many sites and applications still use outdated tracking libraries to send data to Google Analytics.
+
+It is strongly recommended that you upgrade to use a Universal Analytics tracking library such as analytics.js or the latest mobile SDKs for Android and iOS.
+
+Upgrade guides
+
+The following guides will walk you through upgrading your tracking implementation to use Universal Analytics:
+
+Important Considerations

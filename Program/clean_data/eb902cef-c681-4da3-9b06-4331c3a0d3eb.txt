@@ -1,0 +1,61 @@
+The size of things in our universe runs all the way from the tiny 10-19 meter scale that characterizes quark interactions, to the cosmic horizon 1026 meters away. In these 45 possible orders of magnitude, life, as far as we know it, is confined to a relatively tiny bracket of just over nine orders of magnitude, roughly in the middle of the universal range: Bacteria and viruses can measure less than a micron, or 10-6 meters, and the height of the largest trees reaches roughly 100 meters. The honey fungus that lives under the Blue Mountains in Oregon, and is arguably a single living organism, is about 4 kilometers across. When it comes to known sentient life, the range in scale is even smaller, at about three orders of magnitude.
+
+Could things be any different?
+
+Progress in the theory of computation suggests that sentience and intelligence likely require quadrillions of primitive “circuit” elements. Given that our brains are composed of neurons, which are themselves, in essence, specialized cooperative single-cell organisms, we can conclude that biological computers need to be about the physical size of our own brains in order to exhibit the capabilities that we have.
+
+lucky-photographer/iStock
+
+We can imagine building neurons that are smaller than our own, in artificially intelligent systems. Electronic circuit elements, for example, are now substantially smaller than neurons. But they are also simpler in their behavior, and require a superstructure of support (energy, cooling, intercommunication) that takes up a substantial volume. It’s likely that the first true artificial intelligences will occupy volumes that are not so different from the size of our own bodies, despite being based on fundamentally different materials and architectures, again suggesting that there is something special about the meter scale.
+
+If both our brains and our neurons were 10 times bigger, we’d have 10 times fewer thoughts during our lifetimes. Also in Physics How Big Can Life Get? By John Hendrix See a larger version!John Hendrix is an illustrator and author of the book Drawing is Magic: Discovering Yourself in a Sketchbook....READ MORE
+
+What about on the supersize end of the spectrum? William S. Burroughs, in his novel The Ticket That Exploded, imagined that beneath a planetary surface, lies “a vast mineral consciousness near absolute zero thinking in slow formations of crystal.” The astronomer Fred Hoyle wrote dramatically and convincingly of a sentient hyper-intelligent “Black Cloud,” comparable to Earth-sun distance. His idea presaged the concept of Dyson spheres, massive structures that completely surround a star and capture most of its energy. It is also supported by calculations that my colleague Fred Adams and I are performing, that indicate that the most effective information-processing structures in the current-day galaxy might be catalyzed within the sooty winds ejected by dying red giant stars. For a few tens of thousands of years, dust-shrouded red giants provide enough energy, a large enough entropy gradient, and enough raw material to potentially out-compute the biospheres of a billion Earth-like planets.
+
+How big could life forms like these become? Interesting thoughts require not only a complex brain, but also sufficient time for formulation. The speed of neural transmissions is about 300 kilometers per hour, implying that the signal crossing time in a human brain is about 1 millisecond. A human lifetime, then, comprises 2 trillion message-crossing times (and each crossing time is effectively amplified by rich, massively parallelized computational structuring). If both our brains and our neurons were 10 times bigger, and our lifespans and neural signaling speeds were unchanged, we’d have 10 times fewer thoughts during our lifetimes.
+
+If our brains grew enormously to say, the size of our solar system, and featured speed-of-light signaling, the same number of message crossings would require more than the entire current age of the universe, leaving no time for evolution to work its course. If a brain were as big as our galaxy, the problem would become even more severe. From the moment of its formation, there has been time for only 10,000 or so messages to travel from one side of our galaxy to the other. We can argue, then, that, it is difficult to imagine any life-like entities with complexity rivaling the human brain that occupy scales larger than the stellar size scale. Were they to exist, they wouldn’t yet have had sufficient time to actually do anything.
+
+
+
+
+
+Remarkably, the constraints of environment on physical bodies also constrain life to be roughly the same size that intelligence requires. The height of the tallest redwoods is limited by their inability to pump water more than 100 meters into the sky, a limit set by a combination of the force of gravity on the Earth (which pulls the water down) and transpiration, water adhesion, and surface tension in the plant xylem (which pushes it up).1 If we suppose that the force of gravity and atmospheric pressures of most habitable planets will be within a factor of 10 of Earth’s, we will be left within a couple orders of magnitude of the same maximum limit.
+
+If we also assume that most life will be bound to a planet, moon, or asteroid, then gravity also sets a natural scale. As the planet gets bigger, and its gravity gets stronger, the force on the bones (or whatever the equivalent might be) of some hypothetical animal increases—something argued as far back as the late 1600s, by Christiaan Huygens. That animal would therefore need to increase the cross section of its bones to handle the greater force, which increases as the square of the animal size. These bodybuilding efforts however, would ultimately be self-defeating because mass rises as body size cubed. In general, the maximum mass of mobile terrestrial organisms decreases roughly linearly with the increasing strength of gravity. Conversely, a planet with 10 times lower gravity than Earth’s could potentially have animals that are 10 times bigger.
+
+Google Books
+
+But there’s a limit to how small a planet can get—if it’s too small (smaller than about one-tenth of Earth’s mass), it won’t be able to gravitationally attract and keep its atmosphere. We’re again limited to within a factor of 10 or so of the sizes we see on Earth.
+
+Life also needs to be cooled. Computer chip designers continually face the challenges inherent to removing the heat generated by computation. Living things have the same problem: Large animals have a high ratio of volume to surface area, or “skin.” Since the skin is what’s responsible for cooling the animal, and the volumes are where all the heat is produced, big animals are less efficient at cooling themselves off. As was first pointed out in the 1930s by Max Kleiber, the metabolic rate per kilogram of Earth’s animals decreases in proportion to the mass of the animal raised to the power of 0.25.2 Indeed, if this heating rate didn’t decrease, large animals would literally cook themselves (as recently and vividly illustrated by Aatish Batia and Robert Krulwich). Assuming that the minimum observed whole-body metabolic rate of one-trillionth of a watt per nanogram is necessary for a mammal to function,3 we arrive a maximum thermally limited organism size of just over 1 million kilograms, or somewhat larger than a blue whale, Earth’s all-time record-setting animal in terms of size.
+
+One could, in principle, imagine “creatures” that are far larger. If we draw on Landauer’s principle describing the minimum energy for computation, and if we assume that the energy resources of an ultra-massive, ultra-slothful, multi-cellular organism are devoted only to slowly reproducing its cells, we find that problems of mechanical support outstrip heat transport as the ultimate limiting factor to growth. At these scales, though, it becomes unclear what such a creature would do, or how it might have evolved.
+
+
+
+
+
+The classic Charles and Ray Eames short film Powers of Ten was made nearly four decades ago, but its influence has been profound. It can be connected, for example, to the rise to order-of-magnitude estimation as a standard aspect of the scientific curriculum, and it is the direct inspiration for the design of software mapping applications such as Google Earth.
+
+The impact of Powers of Ten is heightened by the startling symmetry between the narrative of the inward sweep (in which the viewer descends inward in scale from a picnic on the Chicago lakefront to the sub-nuclear scale) and the arc of the outward sweep (in which the view pulls increasingly rapidly away to set the Earth and its contents into the grand scale of the Cosmos).
+
+Were we just lucky, as sentient beings, to be able to sweep out in both directions, and examine the scales of the universe both large and small? Probably not.
+
+
+
+
+
+Gregory Laughlin is a professor of astronomy and astrophysics at the University of California, Santa Cruz. He is co-author of The Five Ages of the Universe—Inside the Physics of Eternity, and he blogs at oklo.org.
+
+
+
+
+
+References
+
+1. Koch, G.W., Sillett, S.C., Jennings, G.M., & Davis, S.D. The limits to tree height. Nature 428, 851-854 (2004).
+
+2. Kleiber, M. Body size and metabolism. Hilgardia: A Journal of Agricultural Science 6, 315-353 (1932).
+
+3. West, G.B., Woodruff, W.H., & Brown, J.H. Allometric scaling of metabolic rate from molecules and mitochondria to cells and mammals. Proceedings of the National Academy of Sciences 99, 2473-2478 (2002).

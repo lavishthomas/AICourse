@@ -1,0 +1,245 @@
+Big Data Learning Path for all Engineers and Data Scientists out there
+
+Big Data Learning Path for all Engineers and Data Scientists out there
+
+Introduction
+
+The field of big data is quite vast and it can be a very daunting task for anyone who starts learning big data & its related technologies. The big data technologies are numerous and it can be overwhelming to decide from where to begin.
+
+This is the reason I thought of writing this article. This article provides you a guided path to start your journey to learn big data and will help you land a job in big data industry. The biggest challenge we face is identifying the right role as per our interest and skillsets.
+
+To tackle this problem, I have explained each big data role in detail and also considering different job roles of engineers and computer science graduates.
+
+I have tried to answer all your questions which you have or will encounter while learning big data. To help you choose a path according to your interest I have added a tree map which will help you identify the right path.
+
+Table of Content
+
+How to get started? What roles are up for grabs in the big data industry? What is your profile, and where do you fit in? Mapping roles to Big Data profiles How to be a big data engineer? What is the big data jargon?
+
+Systems and architecture you need to know
+
+Learn to design solutions and technologies Big Data Learning Path Resources
+
+1. How to get started?
+
+One of the very first questions that people ask me when they want to start studying Big data is, “Do I learn Hadoop, Distributed computing, Kafka, NoSQL or Spark?”
+
+Well, I always have one answer: “It depends on what you actually want to do”.
+
+So, let’s approach this problem in a methodical way. We are going to go through this learning path step by step.
+
+2. What roles are up for grabs in the big data industry?
+
+There are many roles in the big data industry. But broadly speaking they can be classified in two categories:
+
+Big Data Engineering
+
+Big Data Analytics
+
+These fields are interdependent but distinct.
+
+The Big data engineering revolves around the design, deployment, acquiring and maintenance (storage) of a large amount of data. The systems which Big data engineers are required to design and deploy make relevant data available to various consumer-facing and internal applications.
+
+While Big Data Analytics revolves around the concept of utilizing the large amounts of data from the systems designed by big data engineers. Big Data analytics involves analyzing trends, patterns and developing various classification, prediction & forecasting systems.
+
+Thus, in brief, Big data analytics involves advanced computations on the data. Whereas big data engineering involves the designing and deployment of systems & setups on top of which computation must be performed.
+
+3.What is your profile and where do you fit in?
+
+Now, we know what categories of roles are available in the industry, let us try to identify which profile is suitable for you. So that, you can analyze where you may fit in the industry.
+
+Broadly, based on your educational background and industry experience we can categorize each person as follows:
+
+Educational Background
+
+(This includes interests and doesn’t necessarily point towards your college education).
+
+Computer Science Mathematics
+
+Industry Experience
+
+Fresher Data Scientist Computer Engineer (work in Data related projects)
+
+Thus, by using the above categories you can define your profile as follows:
+
+Eg 1: “I am a computer science grad with no experience with fairly solid math skills”.
+
+You have an interest in Computer science or Mathematics but with n o prior experience you will be considered a Fresher.
+
+Eg 2: “I am a computer science grad working as a database developer”.
+
+Your interest is in computer science and you are fit for a role of a Computer Engineer (data related projects).
+
+Eg 3: “I am a statistician working as a data scientist”.
+
+You have an interest in Mathematics and fit for a role of a Data Scientist.
+
+So, go ahead and define your profile.
+
+(The profiles we define here are essential in finding your learning path in the big data industry).
+
+4. Mapping roles to profiles
+
+Now that you have defined your profile, let’s go ahead and map the profiles you should target.
+
+4.1 Big Data Engineering roles
+
+If you have good programming skills and understand how computers interact over the internet (basics) but you have no interest in mathematics and statistics. In this case, you should go for Big data engineering roles.
+
+4.2 Big data Analytics roles
+
+If you are good at programming and have your education and interest lies in mathematics & statistics, you should go for Big data Analytics roles.
+
+5. How to be a big data Engineer?
+
+Let us first define what a big data Engineer needs to know and learn to be considered for a position in the industry. The first and foremost step is to first identify your needs. You can’t just start studying big data without identifying your needs. Otherwise, you would just be shooting in that dark.
+
+In order to define your needs, you must know the common big data jargon. So let’s find out what does big data actually means?
+
+5.1 The Big Data jargon
+
+A Big data project has two main aspects – data requirements and the processing requirements.
+
+5.1.1 Data Requirements jargon
+
+Structure: As you are aware that data can either be stored in tables or in files. If data is stored in a predefined data model (i.e has a schema) it is called structured data. And if it is stored in files and does not have a predefined model it is called unstructured data. (Types: Structured/ Unstructured)
+
+Size: With size we assess the amount of data. (Types: S/M/L/XL/XXL/Streaming)
+
+Sink Throughput: Defines at what rate data can be accepted into the system. (Types: H/M/L)
+
+Source Throughput: Defines at what rate data can be updated and transformed into the system. (Types: H/M/L)
+
+5.1.2 Processing Requirements jargon
+
+Query time: The time that a system takes to execute queries. (Types: Long/ Medium /Short)
+
+Processing time: Time required to process data (Types: Long/Medium/Short)
+
+Precision: The accuracy of data processing (Types: Exact/ Approximate)
+
+5.2 Systems and architecture you need to know
+
+Scenario 1: Design a system for analyzing sales performance of a company by creating a data lake from multiple data sources like customer data, leads data, call center data, sales data, product data, weblogs etc.
+
+5.3 Learn to design solutions and technologies
+
+Solution for Scenario 1: Data Lake for sales data
+
+(This is my personal solution, you may come up with a more elegant solution if you do please share below.)
+
+So, how does a data engineer go about solving the problem?
+
+A point to remember is that a big data system must not only be designed to seamlessly integrate data from various sources to make it available all the time, but it must also be designed in a way to make the analysis of the data and utilization of data for developing applications easy, fast and always available (Intelligent dashboard in this case).
+
+Defining the end goal:
+
+Create a Data Lake by integrating data from multiple sources. Automated updates of the data at regular intervals of time (probably weekly in this case) Data availability of analysis (round the clock, perhaps even daily) Architecture for easy access and seamless deployment of an analytics dashboard.
+
+Now that we know what our end goals are, let us try to formulate our requirements in more formal terms.
+
+5.3.1 Data related Requirements
+
+Structure: Most of the data is structured and has a defined data model. But data sources like weblogs, customer interactions/call center data, image data from the sales catalog, product advertising data. Availability and requirement of image and multimedia advertising data may depend on from company to company.
+
+Conclusion: Both Structured and unstructured data
+
+Size: L or XL (choice Hadoop)
+
+Sink throughput: High
+
+Quality: Medium (Hadoop & Kafka)
+
+Completeness: Incomplete
+
+5.3.2 Processing related Requirements
+
+Query Time: Medium to Long
+
+Processing Time: Medium to Short
+
+Precision: Exact
+
+As multiple data sources are being integrated, it is important to note that different data will enter the system at different rates. For example, the weblogs will be available in a continuous stream with a high level of granularity.
+
+Based on the above analysis of our requirements for the system we can recommend the following big data setup.
+
+6. Big Data Learning Path
+
+Now, you have an understanding of the big data industry, the different roles and requirements from a big data practitioner. Let’s look at what path you should follow to become a big data engineer.
+
+As we know the big data domain is littered with technologies. So, it is quite crucial that you learn technologies that are relevant and aligned with your big data job role. This is a bit different than any conventional domains like data science and machine learning where you start at something and endeavor to complete everything in the field.
+
+Below you will find a tree which you should traverse in order to find your own path. Even though some of the technologies in the tree are pointed to be data scientist’s forte but it is always good to know all the technologies till the leaf nodes if you embark on a path. The tree is derived from the lambda architectural paradigm.
+
+With the help of this tree map, you can select the path as per your interest and goals. And then you can start your journey to learn big data. Click here to download the infographic.
+
+One of the essential concepts that any engineer who wants to deploy applications must know is Bash Scripting. You must be very comfortable with linux and bash scripting. This is the essential requirement for working with big data.
+
+At the core, most of the big data technologies are written in Java or Scala. But don’t worry, if you do not want to code in these languages ou can choose Python or R because most of the big data technologies now support Python and R extensively.
+
+Thus, you can start with any of the above-mentioned languages. I would recommend choosing either Python or Java.
+
+Next, you need to be familiar with working on the cloud. This is because nobody is going to take you seriously if you haven’t worked with big data on the cloud. Try practicing with small datasets on AWS, softlayer or any other cloud provider. Most of them have a free tier so that students can practice. You can skip this step for the time being if you like but be sure to work on the cloud before you go for any interview.
+
+Next, you need to learn about a Distributed file system. The most popular DFS out there is Hadoop distributed file system. At this stage you can also study about some NoSQL database you find relevant to your domain. The diagram below helps you in selecting a NoSQL database to learn based on the domain you are interested in.
+
+The path until now are the mandatory basics which every big data engineer must know.
+
+Now is the point that you decide whether you would like to work with data streams or dormant large volumes of data. This is the choice between two of the four V’s that are used to define big data (Volume, Velocity, Variety and Veracity).
+
+So let’s say you have decided to work with data streams to develop real-time or near-realtime analysis systems. Then you should take the Kafka path. Else you take the Mapreduce path. And thus you follow the path that you create. Do note that, in the Mapreduce path you do not need to learn pig and hive. Studying only one of them is sufficient.
+
+In summary: The way to traverse the tree.
+
+Start at the root node and perform a depth-first traversal style. Stop at each node check out the resources given in the link. If you have decent knowledge and are reasonably confident at working with the technology then move to the next node. At every node try to complete at least 3 programming problems. Move on to the next node. Reach the leaf node. Start with the alternative path.
+
+Did the last step (#7) baffle you! Well truth be told, no application has only stream processing or slow velocity delayed processing of data. Thus, you technically need to be a master at executing the complete lambda architecture.
+
+Also, note that this is not the only way you can learn big data technologies. You can create your own path as you go along. But this is a path which can be used by anybody.
+
+If you want to enter the big data analytics world you could follow the same path but don’t try to perfect everything.
+
+For a Data Scientist capable of working with big data you need to add a couple of machine learning pipelines to the tree below and concentrate on the machine learning pipelines more than the tree provided below. But we can discuss ML pipeline later.
+
+Add a NoSQL database of choice based on the type of data you are working with in the above tree.
+
+As you can see there are loads of NoSQL databases to choose from. So it always depends on the type of data that you would be working with.
+
+And providing a definitive answer to what type of NoSQL database you need to take into account your system requirements like latency, availability, resilience, accuracy and of course the type of data that you are dealing with.
+
+7. Resources
+
+1.Bash Scripting
+
+2.Python
+
+3. Java
+
+4.Cloud
+
+5. HDFS
+
+6. Apache Zookeeper
+
+7. Apache Kafka
+
+8. SQL
+
+9. Hive
+
+10. Pig
+
+11. Apache Storm
+
+12. Apache Kinesis
+
+13. Apache Spark
+
+14. Apache Spark Streaming
+
+End Notes
+
+I hope you enjoyed reading this article. With the help of this learning path, you will be able to embark upon your journey in big data industry. I have covered most of the major concepts which you will require to land a job.
+
+If you have any doubts or questions, feel free to post them below.

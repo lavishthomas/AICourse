@@ -1,0 +1,85 @@
+From Quanta Magazine (find original story here).
+
+In the 1950s, Philip Anderson, a physicist at Bell Laboratories, discovered a strange phenomenon. In some situations where it seems as though waves should advance freely, they just stop — like a tsunami halting in the middle of the ocean.
+
+Anderson won the 1977 Nobel Prize in physics for his discovery of what is now called Anderson localization, a term that refers to waves that stay in some “local” region rather than propagating the way you’d expect. He studied the phenomenon in the context of electrons moving through impure materials (electrons behave as both particles and waves), but under certain circumstances it can happen with other types of waves as well.
+
+Even after Anderson’s discovery, much about localization remained mysterious. Although researchers were able to prove that localization does indeed occur, they had a very limited ability to predict when and where it might happen. It was as if you were standing on one side of a room, expecting a sound wave to reach your ear, but it never did. Even if, after Anderson, you knew that the reason it didn’t was that it had localized somewhere on its way, you’d still like to figure out exactly where it had gone. And for decades, that’s what mathematicians and physicists struggled to explain.
+
+This is where Svitlana Mayboroda comes in. Mayboroda, 36, is a mathematician at the University of Minnesota. Five years ago, she began to untangle the long-standing puzzle of localization. She came up with a mathematical formula called the “landscape function” that predicts exactly where waves will localize and what form they’ll take when they do.
+
+“You want to know how to find these areas of localization,” Mayboroda said. “The naive approach is difficult. The landscape function magically gives a way of doing it.”
+
+Her work began in the realm of pure mathematics, but unlike most mathematical advances, which might find a practical use after decades, if ever, her work is already being applied by physicists. In particular, LED lights — or light-emitting diodes — depend on the phenomenon of localization. They light up when electrons in a semiconducting material, having started out in a position of higher energy, get trapped (or “localize”) in a position of lower energy and emit the difference as a photon of light. LEDs are still a work in progress: Engineers need to build LEDs that more efficiently convert electrons into light, if the devices are to become the future of artificial lighting, as many expect they will. If physicists can gain a better understanding of the mathematics of localization, engineers can build better LEDs — and with the help of Mayboroda’s mathematics, that effort is already under way.
+
+Rogue Waves
+
+Localization is not an intuitive concept. Imagine you stood on one side of a room and watched someone ring a bell, only the sound never reached your ears. Now imagine that the reason it didn’t is that the sound had fallen into an architectural trap, like the sound of the sea bottled in a shell.
+
+Of course, in an ordinary room that never happens: Sound waves propagate freely until they hit your eardrums, or get absorbed into the walls, or dissipate in collisions with molecules in the air. But Anderson realized that when waves move through highly complex or disordered spaces, like a room with very irregular walls, the waves can trap themselves in place.
+
+Anderson studied localization in electrons moving through a material. He realized that if the material is well-ordered, like a crystal, with its atoms evenly distributed, the electrons move freely as waves. But if the material’s atomic structure is more random — with some atoms here, and a whole bunch over there, as is the case in many industrially manufactured alloys — then the electron waves scatter and reflect in highly complicated ways that can lead the waves to disappear altogether.
+
+“Disorder is inevitable in the way these materials are created, there’s no way to escape it,” said Marcel Filoche, a physicist at the École Polytechnique outside Paris and a close collaborator of Mayboroda’s. “The only thing to hope is that you can play with it, control it.”
+
+Physicists have long understood that localization is related to wave interference. If the peaks of one wave align with the troughs of another, you get destructive interference, and the two waves will cancel each other out.
+
+Localization takes place when waves cancel each other out everywhere except in a few isolated places. For such nearly complete cancellation to occur, you need the waves to be moving in a complicated space that breaks the waves into a huge variety of sizes. These waves then interfere with each other in a bewildering number of ways. And, just as you can combine every color to get black, when you combine such a complicated mix of sound waves you get silence.
+
+The principle is simple. The calculations are not. Understanding localization has always required simulating the infinite variety of wave sizes and exploring every possible way those waves could interfere with each other. It’s an overwhelming calculation that can take researchers months to carry out in the kinds of three-dimensional materials physicists actually want to understand. With some materials, it’s altogether impossible.
+
+Unless you have the landscape function.
+
+The Lay of the Landscape
+
+In 2009 Mayboroda went to France and presented research she’d been doing on the mathematics of thin plates. She explained that when the plates have a complicated shape, and you apply some pressure from one side, the plates may flex in very irregular ways — bulging out in unexpected places, while remaining almost flat in others.
+
+Filoche was in the audience. He had spent more than a decade studying the localization of vibrations, and his research had led to the construction of a prototype noise-abating barrier called “Fractal Wall” for use along highways. After Mayboroda’s talk, the two started speculating whether the irregular bulging patterns in Mayboroda’s plates might be related to the way Filoche’s vibrations localized in some places and disappeared in others.
+
+Over the next three years they found that the two phenomena were indeed related. In a 2012 paper, Filoche and Mayboroda introduced a way to mathematically perceive the terrain the way a wave would see it. The resulting “landscape” function interprets information about the geometry and material a wave is moving through and uses it to draw the boundaries of localization. Previous efforts to pinpoint localized waves had failed due to the complexity of considering all possible waves, but Mayboroda and Filoche found a way to reduce the problem to a single mathematical expression.
+
+To see how the landscape function works, think about a thin plate with a complex outer boundary. Imagine striking it with a rod. It might remain silent in some places and ring in others. How do you know what’s going to happen and where?
+
+The landscape function considers how the plate flexes under uniform pressure. The places it bulges when placed under pressure aren’t visible, but the vibrations perceive those bulges and so does the landscape function: The bulges are where the plate will ring, and the lines around the bulges are precisely the lines of localization drawn by the function.
+
+“Imagine a plate, subject it to air pressure on one side, push it, then measure the nonuniformity of how much points are bulging out. That’s the landscape function, that’s it,” said David Jerison, a mathematician at the Massachusetts Institute of Technology and a collaborator on the landscape function work.
+
+Following their 2012 paper, Mayboroda and Filoche looked for ways to extend the landscape function from mechanical vibrations to the quantum world of electron waves.
+
+Electrons are unique among wavelike phenomena. Instead of picturing a wave, think of them as having more or less energy depending on where they’re located in the atomic structure of a material. For a given material there’s a map, called the potential (as in “potential energy”), that tells you the energy. The potential is relatively easy to draw for materials like conductors that have an orderly atomic structure, but it’s very difficult to calculate in materials with highly irregular atomic structures. These disordered materials are precisely the ones in which electron waves will undergo localization.
+
+“The randomness of the material makes prediction of the potential map very difficult,” Filoche explained in an email. “Moreover, this potential map also depends on the location of the moving electrons, while the motion of the electrons depends in turn on the potential.”
+
+Another challenge in drawing the potential for a disordered material is that when waves localize in a region, they’re not actually confined completely to that area, and they gradually vanish as they get farther away from the localization region. In mechanical systems, such as a vibrating plate, these distant traces of a wave can be safely ignored. But in quantum systems filled with hypersensitive electrons, those traces matter.
+
+“If you have an electron here and another there and they’re localized in different places, the only way they’ll interact will be by their exponentially decaying tails. For interacting quantum systems, you absolutely need [to be able to describe] this,” Filoche said.
+
+Over the next five years Filoche and Mayboroda brought in additional collaborators and improved the landscape function’s predictive power. Together with Jerison, Douglas Arnold of the University of Minnesota and Guy David of the University of Paris-South, they are now finishing work on a paper that describes a new version of the landscape function — which, in simple terms, is the reciprocal of the original one — that exactly predicts where electrons will localize and at what energy level.
+
+“The power of the landscape function is letting you govern the waves, letting you design the system in which you can actually control the localization, [rather than letting] it be given by the gods,” said Mayboroda.
+
+And that, as it turns out, is exactly what you need to build a better LED.
+
+Order and Light
+
+LEDs are often hailed as the future of lighting. They’re much better at efficiently converting energy into light than conventional bulbs. But LEDs are still a bit like a found resource: We’ve got this thing, we know it’s useful, but we don’t completely understand how to make it better.
+
+“You lack control in this situation. You don’t know why you’ve performed well, and you don’t know what to do to go even further,” Filoche said.
+
+What we do know is that LEDs work through localization. LEDs contain thin layers of semiconducting materials bounded by electrodes. Those electrodes apply a voltage that sets the electrons in motion. The electrons move by hopping from one atom to another, assuming new positions in the “potential” energy map as they do so. As the electrons move, they leave behind positively charged “holes” that interact with electrons in important ways. As for the electrons themselves, when they move from positions of higher energy to positions of lower energy, under the right circumstances they emit the difference as a photon of light. Concentrate enough of these photons and you can banish the dark.
+
+Of course, electrons don’t always go where you want them to. Modern LEDs are made from wafers of a semiconducting alloy, gallium nitride, which surround even thinner layers of a related alloy, indium gallium nitride. These thin interior layers are evocatively called a “quantum well” — when electrons fall in, they localize at lower energy levels. If they localize in the presence of a hole, the energy difference is emitted as a photon of light; if they localize without a hole, the energy difference is emitted as a phonon of heat and the whole effort is for naught.
+
+So that’s the setup: You want electrons to localize in quantum wells in the presence of holes to emit light. For a number of reasons, gallium nitride is a good material in which to make this happen, but it also has drawbacks — due to the way it’s manufactured, you end up with a material that’s very irregular at the atomic level.
+
+“You will find regions of space where you have more indium atoms, and other regions with less indium atoms. This random change of composition means energies of electrons in different regions are different,” said Claude Weisbuch, a leading figure in semiconductor physics at the University of California, Santa Barbara, and co-recipient (with James Speck, also of UCSB) of a grant from the U.S. Department of Energy to use the landscape function to develop better green LEDs.
+
+The landscape function maps the potential energy in the messy materials used to make LEDs. It tells you where electron waves will interfere to cancel each other out, and where electrons will localize, and at what energies. For engineers trying to make these devices, it’s like turning on a bright light in a dark room.
+
+“For the first time we can do real quantum simulations of LEDs thanks to landscape theory,” Weisbuch said.
+
+Mayboroda finished the first version of the landscape function five years ago. Since that time it has sprawled into a number of different research areas: At MIT, Jerison is exploring the broader mathematical implications of the function; in France, Filoche is using a scanning tunneling microscope to experimentally assess the function’s predictions, and a separate research team (led by Patrick Sebbah of the Langevin Institute) is directly measuring localizations in vibrating plates; and in California, Weisbuch is designing new LEDs. Altogether, it’s a stunning pace of application.
+
+“It is amazing to me what has happened in a couple years,” Mayboroda said. “I don’t believe it myself.”
+
+Reprinted with permission from Quanta Magazine, an editorially independent publication of the Simons Foundation whose mission is to enhance public understanding of science by covering research developments and trends in mathematics and the physical and life sciences.

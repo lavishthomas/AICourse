@@ -1,0 +1,75 @@
+Vik Singh is CEO and co-founder of Infer, a provider of data-powered business applications, with customers such as Tableau, SurveyMonkey, Zendesk, New Relic, AdRoll, Box, and Cloudera.
+
+The first product manager (PM) is a crucial unicorn hire that no startup should compromise on. The reason is simple – your PM is responsible for managing your team’s most precious resource: time.
+
+Unfortunately, nearly everyone seems to think they’d make a great PM (engineers, consultants, you name it), but the reality is that most folks just can’t hack it. I’ve worked with countless PMs at huge companies like Yahoo and Google, and over the past two months have interviewed over twenty PM candidates.
+
+Out of all these folks, I’ve only encountered two PMs who actually do the job well.
+
+To thrive in this role requires ridiculous influence, knowledge and experience. A good PM is a rare jack-of-all-trades. He or she knows how to innovate through minimalism, possesses strong communications skills, can influence without authority, and is just absolutely ruthless at prioritizing what tasks should make it into the next sprint or release.
+
+Let’s break down what my team (and most startups) are looking for when we hire PMs. We want people who can:
+
+1. Innovate through minimalism
+
+The best product thinkers know how to carve down the scope of the product until it makes even more sense, as opposed to adding more and more superfluous features. You can slash to the core of what a product really needs to do for the customer, and you’re relentless at staving off feature bloat.
+
+2. Prioritize ruthlessly
+
+PMs help prioritize the development calendar for engineering, and to do that you need to have excellent organization skills and the ability to make difficult trade-off’s quickly.
+
+Back when I worked at Yahoo, we once had to decide on a painful feature tradeoff 24 hours before a huge product launch. I had a lot of influence with the team, and wanted our engineering resources to focus on a near-complete feature I felt was key for our differentiation. The PM on the team wanted to cut it, even though we’d invested tons of engineering hours into the feature already.
+
+He changed my mind by explaining why minimizing the risk associated with this particular feature was critical to a successful launch, offering a creative plan for communicating the change in scope to the team while maintaining morale and excitement for the launch, and proposing we include this feature in the next earliest release post launch. I learned a lot from his ability to ignore the noise, focus on the most important issues, and stand up to me for what he felt was right (and he was absolutely right).
+
+3. Influence without authority
+
+Most product folks don’t report into engineering or sales/marketing teams – so they don’t share the same boss – and yet they’re responsible for dictating product features and timelines that deeply affect engineering and sales/marketing planning.
+
+Good PMs know that the “manager” part of their title is a misnomer, and can build respect from engineers and engineering managers without formal authority. You do this by being extremely good at assessing the costs of features in terms of time and impact. This helps build trust with engineering and sales that you know what you’re doing, and that they can depend on you to make the right hard calls.
+
+It can be incredibly helpful to have a technical background (i.e. a computer science degree). Software engineers definitely respect that – they know you speak their lingo, you get the impact and complexity of the features from a pure engineering infrastructure perspective, you can relate better, and so forth.
+
+However, it can also work against you, especially if you pride yourself on your technical chops to the point of debating with engineers on tiny technicalities regarding how features should get implemented, or reading through their code reviews, etc. Just because you can doesn’t mean you should. PMs need to stay focused on the product and customer.
+
+4. Communicate with presence
+
+PMs are responsible for interfacing with not just engineering and marketing, but also customers and company executives. Being able to write and speak clearly and persuasively is key for getting folks excited about what you’re building, ensuring they understand the requirements, and presenting yourself as a reliable source for product information.
+
+So much of being a great PM is convincing others to follow your vision and track. Think Steve Jobs.
+
+When it comes to your customers, the most important communications skill is knowing how to say “No” to most of their feature requests while keeping them happy. Remember that most customers are not great product people – it’s important to read between the lines since what they’re explicitly asking for is not necessarily what they really want or need.
+
+And in order to scale and deliver a streamlined product, you have to resist the temptation to build a 100 percent solution that works great for a handful of customers. An 80 percent solution for lots of companies beats that 100 percent solution because with more customers, you get more data points and feedback, and your product gets better for everyone.
+
+The pain and sacrifice of achieving that last 20 percent for one customer is simply not worth it unless you want to be their employee.
+
+So, how do you find the good PMs?
+
+It’s important to recognize the difference between small company and big company product management. Ideally, you want to find someone who’s done both.
+
+PMs from small, early stage companies tend to be very agile and thrive in chaotic and unstructured environments, whereas large, established company PMs are great at implementing and executing structure and processes that are critical for achieving scale and navigating big company political waters. You want someone who’s scrappy, while knowing how things should work as the company gets bigger – guidelines, policies, best practices, training, structure, KPIs, etc.
+
+Finding the unlikely superstars who meet all of these criteria is no easy task. By far, the most effective technique I’ve found for screening candidates is to run through a role-playing exercise that requires them to design a minimal viable product (MVP) on a whiteboard.
+
+Put some thought into a fictional product concept that doesn’t require a lot of background knowledge to understand. Make sure there’s room for creativity, and be intentionally vague so you can test their questioning when they’re filling in the big blanks necessary for designing the right product.
+
+Make note of how they stage out the product timeline. Are they able to identify shortcuts? How do they make use of scarce resources? Do they recognize the importance of failing fast in a startup? Are they mocking up a clean design? What are their aesthetics like? Are they focusing more on the market definition and less on the product vision? In that case, they might be a better product marketer, many of whom masquerade behind product manager positions.
+
+Most importantly, observe what they cut and what they add to the MVP scope. Are they coming up with unique yet valuable v2 product ideas? Are they suggesting premature A/B testing? Are they asking the right questions? How well are they collaborating with you and taking your feedback? Do they admit their mistakes?
+
+I find that this process tells me more about the PM than any back-channel reference check.
+
+It’s also worth noting that in an early stage company, it is extremely advantageous when one of your founders serves as the first PM. A founder has natural cross-functional influence and can cut through any red tape to help make the process move faster. But this only works if the founder is a superb product thinker who executes well.
+
+If the founder isn’t a solid product person (but thinks they are, as many strong-willed founders tend to believe), this could be disastrous given their power in the company.
+
+How can I become a great PM?
+
+My advice for aspiring PMs is to just jump into the fray. Try to get experience in both big and small companies in order to figure out where you thrive. And be humble and recognize your weaknesses early. Remember that there are very few Steve Jobs in the world and you’re not going to be a top one percent PM on day one, but if you find a good PM mentor that’s better than you and you learn from them (as I did), you’ll be well on your way.
+
+I also encourage all current and prospective PMs to check out Ben Horowitz’s great “Good PM, Bad PM” manifesto, which he wrote at Netscape many years ago but still rings true today (Disclosure: Ben is an investor in Infer).
+
+Don’t miss: 5 startup ‘rules’ entrepreneurs should ignore
+
+Read next: The truth about jet lag and how to overcome it

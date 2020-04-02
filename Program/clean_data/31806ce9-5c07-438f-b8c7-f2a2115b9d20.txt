@@ -1,0 +1,97 @@
+The first rule of the royal society for keeping-your-hard-work-and-data-safe is: Always, always back up. The second rule is "it's not that hard so get off your duff and do it." It's the latter that most of us have issues with. Including myself.
+
+We’ll discuss emotional motivation later. (You’ll laugh! You’ll cry!) First, let's take a walk on the safe side to see how simple it is to back up everything right now—before your inevitable data disaster occurs.
+
+Simple options
+
+Method A: Fork over $50 to $100 a year and back up the data from all your PCs and mobile devices to online storage such as Carbonite, Google Drive, iDrive, iCloud, Mozy, or SkyDrive. Choose the service that supports all (or the largest percentage) of your devices, and use the downloadable app that the service provides to maintain a mirror of your files on your local PC.
+
+SkyDrive is a pretty trustworthy, easy-to-use off-site backup tool.
+
+Of course, this method works only if you have regular access to enough upstream bandwidth to handle all your essential data.
+
+Method B: Consolidate the data from your mobile devices onto your primary computer. Buy the fastest, most capacious external hard drive you can afford—two, if possible. Use the Windows built-in app (the File Recovery tool in Windows 7, or the File History tool in Windows 8) to create a system image and a recovery CD/flash drive. Subsequently, use Windows Backup to back up your important data daily, weekly, or monthly to the hard drive. Create a backup of your backups to an online service if practical.
+
+Using Method A, Method B, or a combination of both will protect 99 percent of PCs 99 percent of the time, though it’s worth noting that local backups restore far more quickly.
+
+You can stop reading now—unless, of course, you’re a seeker of the perfect backup plan, or you want some practical advice. In that case, keep going.
+
+The platinum rule
+
+It doesn’t get any more basic in backup than the rule of three. To lower the risk of data loss to the freak-karmic-event level, you must have three copies of your important data: the original, a backup of the original, and a backup of the backup. The secondary and tertiary copies should be in different locations: Ideally, keep one on premises (local) for swift restores and recovery, and keep one off-site where it isn’t subject to the same physical threats (lightning, flood, theft, and the like). Remember that the rule of three is a practical minimum—an extra copy here and there won’t hurt.
+
+If you don’t think you’ll remember to back up regularly, pay for an automated backup program such as Genie Timeline to do it for you.
+
+The classic example of a trinity backup is the aforementioned Method B: the original data on your PC or laptop, the first backup on an external hard drive that’s disconnected and stored safely when not in use, and a third copy safely harbored at an online storage service.
+
+The more modern version is Method A, which assumes that the online service you use is properly backed up in multiple geographical locations. That should give you your three copies, but for the sake of paranoia—with a nod to corporate short-sightedness—we’ll assume the third copy is on your local computer and maintained by the online service’s app.
+
+What to back up
+
+Before you can know how you should best back up, you must know what you need to back up. The choice is ultimately yours, but I recommend protecting anything you might want or require later that you can’t re-create: electronic documents (tax stuff, business stuff, any hard copies you’ve scanned and discarded), artistic creations, memorabilia (photos, videos, your old band recordings), or pretty much anything whose loss would evoke extreme negative emotions. Wondering about your downloaded movies, music, and other purchased media? You can always download those items again later, though if you’re ambitious enough you can back them up as well. I don’t bother. Note that If your data is spread over multiple devices, you’ll need to consolidate it. More on that later.
+
+If you’re going through the trouble to rip all of your movies to your PC, make sure you back ’em up so that effort doesn’t go to waste!
+
+Though not strictly necessary, it is especially convenient to have a complete backup of your desktop or laptop (ideally with your mobile-device data on board), as described in Method B. It’s by far the quickest and easiest way to restore your operating system, applications, and data, should your system succumb to hard-drive failure or a malware attack. This procedure is referred to as disaster recovery, and it requires a boot disc/flash drive created by the backup/recovery software. Without a disaster-recovery backup, you’ll wind up restoring the operating system and applications individually from scratch.
+
+Where to back it up
+
+This is an easy one. I’m going out on a limb here and guessing that you don’t have a tape backup drive. You may not even have an optical drive. If you do, there’s nothing wrong with keeping a backup or two on disc, but that’s your concern. I think old technology that slows down the process stifles motivation.
+
+If your broadband connection has enough upstream bandwidth, back up to an online file-hosting service. Using such a service is pay-to-play, but costs a fraction of what it costs to recover data from a failed hard drive. It’s also ridiculously easy—you just set it and forget it.
+
+Obviously, many people don’t have sufficient upstream bandwidth, or a data set small enough to make the online option viable as a complete solution. In that case, reduce your backup set (what you select to back up—don’t remove the data itself) to the bare minimum, keep it online, and then back up the rest locally using storage drives you attach to your computer or network.
+
+ROBERT CARDIN NAS boxes such as the Western Digital My Book Live are great for storing your backups remotely.
+
+For local backups, use an external USB 3.0/eSATA/FireWire/Thunderbolt drive, or if the data set is small, use a USB 3.0 flash drive, also known as a thumb drive. Use two drives and alternate between them if you don’t plan to back up online, or ideally, even if you do. With hard-drive space costing about 5 cents a gigabyte, and flash costing about 60 cents per gigabyte currently, you can afford it. Don’t use USB 2.0 unless you have to: It’s slow—and once again, older technology demotivates.
+
+Alternatively, you could use a network-attached storage box. Gigabit ethernet is as fast as USB 3.0, and a NAS box lets you back up multiple computers on a network without having to drag a box from location to location. Most NAS boxes support rsync, which allows you to mirror one to another in a remote location (such as your aunt’s house)—a possible alternative to online backup.
+
+How to back it up
+
+Ah, the nitty-gritty. Here’s how to back up once you have your backup repository (a hard drive or other device) and/or service in place.
+
+First, select your disaster-recovery and backup software. Windows 7 and 8 both offer integrated applications that can create complete system-recovery images, though in Windows 8 it’s somewhat hidden under Control Panel > All Items > Windows 7 File Recovery. Alas, the restore routine isn’t particularly robust, and it can fail with as simple a change in hardware as replacing your hard drive with a smaller solid-state drive. In this case, you can still have the PC mount the system image as a virtual hard drive, but only after reinstalling the operating system manually. A surer bet is to use a third-party tool, such as Acronis True Image or R-Drive Image, that isn’t as fragile when it comes to restoring to different hardware.
+
+The latest version of Acronis True Image does a decent job of walking you through the backup process.
+
+Once you decide on the software, the basic procedure is as follows:
+
+Run the software. Select the destination for the system backup. This will be the external drive you purchased as a backup repository, a NAS box, or even a shared location on another PC. Select the partitions (C:, D:, or the like) that you want to back up. You should select all of them the first time around, excluding the destination drive for the backup. (Most backup software prevents you from selecting the destination partition/drive.) Run the backup process. When the process is finished, put the backup media in a safe place (if applicable). Create your recovery media (CD/DVD/thumb drive).
+
+For backing up just your data, Windows has its own capable backup application, but you can find dozens of backup programs that are easier or more versatile, including notables such as Acronis Backup & Recovery and True Image, Easeus Todo Backup, Genie Timeline Backup, and NovaBackup. If you’re using an online service, the service will provide a backup application. Most of the time it’ll create a local backup on your external hard drive at the same time it backs up online.
+
+Genie’s Timeline utility walks you gently through the backup process.
+
+If you want something more along the lines of Apple’s elegant and easy-to-use Time Machine (which combines full system backup with data backup), Genie Timeline may be what you seek. You’ll also find continuous backup products, such as Stardock’s KeepSafe, which perform a full data backup (no OS or applications) and then look for and back up changed files at short intervals (such as every 5 minutes). If your data set changes quickly (or if you don’t like scheduling backups), you can opt for real-time backup. NTI’s Shadow, for instance, performs a full backup, after which it hooks to the operating system and saves files as they change.
+
+After you’ve installed your software, follow these steps:
+
+Run the software. Select the files and folders you want to back up. Select the destination for the system backup. This will be the external drive you purchased as a backup repository, a NAS box, a shared location on another PC, and/or your online backup service. Run the backup process. (Make a full backup of all your data the first time.) Verify the backup. When the backup process is finished, put the backup media in a safe place (if applicable). Repeat as necessary—daily, weekly, or monthly, depending on how often things change and how risk-averse you are.
+
+Tip: After your initial full backup, perform incremental backups (backing up only the changes since the last backup) or differential backups (backing up all changed files since the initial full backup) to save time. Start over with a new full backup once a week if you’re backing up daily, once a month if you’re backing up weekly, or once every four to six months if you’re backing up monthly. Note: Never, ever delete the old backup until the new one is finished.
+
+Step 7 and the tip above describe what are affectionately known as backup methodologies. There are far more complex ones, but complexity, like slow technology, demotivates. (Unless, of course, you’re being paid a lot to back up something. I’m guessing you’re not, if you’re reading this primer.)
+
+Getting the data off your devices
+
+Although free online backup and storage space is available for each major mobile platform (5GB for iOS/iCloud, 15GB for Android/Google Drive, 7GB for Windows Phone/SkyDrive), centralizing the data from all your devices can be a tad more complicated. With Google Drive and SkyDrive, you get local copies of your files on your PC if you install their respective apps. Just add those files to your list of locations to back up, and you’re golden. Or, you can simply copy stuff over from the appropriate folder when the device is attached to your PC via USB.
+
+If you carry an Apple device, you have to use iCloud to extract your data.
+
+The same is true with iOS, to a point. Apple’s implementation of iCloud is currently, let’s just say, different. Depending on the app involved, you may need to sync its data or docs using iTunes, or you might have to use whatever online storage option the app employs (Dropbox is common) and then copy the items onto your PC from there.
+
+Consolidating data for imaging
+
+Some users (including yours truly) prefer backing up to image files, largely because it’s easy to mount such files as virtual hard drives for simple browsing and recovery. However, to make this approach feasible, you need to consolidate all the data to be backed up onto one dedicated partition—say, “D:” for “Data.”
+
+You can redirect all the “My” folders (My Documents, My Photos, My Videos, and so on) to this partition. Quite often, you can also redirect individual programs that normally store information in the hidden Users\Username\AppData folder. Of course, there’s always some piece of software that won’t play nice: Google Drive and SkyDrive folders, as well as iTunes backups of your iOS devices, can’t be relocated. Someday.
+
+The promised motivational speech
+
+Due to its high incidence of profanity, I can’t link you to the most famous lost-data support call in history. But I can summarize: A user sent in a laptop to have a motherboard replaced, and the company replaced the hard drive. With no backup of what was apparently a two-year project, the user goes on one of the greatest answering-machine tirades in history. I’ve never found out whether the user got the hard drive back or whether the drive had failed.
+
+How would you feel if your Great American Novel disappeared, or if your wedding video or pictures of lost relatives vanished? Your term paper? Your tax data when the IRS comes calling? Use your imagination and channel whatever sense of dread you possess for motivation. Back up. Now. Yes, now.
+
+Really. Now.

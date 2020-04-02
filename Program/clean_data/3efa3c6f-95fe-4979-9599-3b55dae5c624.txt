@@ -1,0 +1,103 @@
+If you use Google Analytics, you’re probably familiar with the standard reports that show visits, traffic sources, top content, and conversions. But if you haven’t gotten into the other features that Google Analytics offers, you might be missing out on new ways to learn more about your traffic. In this post, we’re going to look at how to use features beyond the standard reports, including filters, advanced segments, custom reports, and dashboards (and provide some time-saving downloadable samples).
+
+Google Analytics View Filters
+
+View Filters allow you to include or exclude specific information in your Google Analytics reports, focus on a specific subdomain or directory, or rename URLs to make them easily recognizable.
+
+Filters can be set up on a global level across all profiles (websites) in your Google Analytics account or on a profile level for one website.
+
+There are a few things about filters to keep in mind:
+
+First of all, once you set one up, you will lose any data that you’ve excluded until you turn off the filter. For example, if you set up a filter on your main account to view traffic on only a specific subdirectory like www.yourdomain.com/blog, you won’t see the traffic to your root domain. So filter only things you want to exclude 100% of the time.
+
+Second, filters have been known to cause inconsistencies in reporting. For example, when you look up information on how to set up a filter to rename URLs like domain.com/?p=193430 to domain.com/?p=productA, you’ll run into a lot of suggestions to use _trackPageview() instead.
+
+Third, filters apply only to data going forward. You can create a filter and then see your historical data with that filter applied.
+
+With those things in mind, one common use of filters is to exclude traffic from internal IP addresses so you are not measuring traffic from your office or your home. This is one of the Predefined filters you can use globally or for specific profiles.
+
+If you have a range of IP addresses you want to exclude, you can find the correct expression using the IP Address Range Tool.
+
+If you switch from Predefined to Custom Filter, you will find a wide variety of options that allows you to filter based on content and traffic, campaign or adgroup, ecommerce, audience, users, location, event, mobile, or social.
+
+In order to set up custom filters, you will need to be familiar with expressions to create your filter patterns.
+
+Again, remember that anything you filter out will be unavailable to you in this profile. Therefore, if you are going to use very specific filters (like a filter to show only traffic from the United States), you will want to create an additional profile that is unfiltered so you have all of your data somewhere if you need it.
+
+Learn more about using filters in the Google Analytics Help Center.
+
+Google Analytics Advanced Segments
+
+Advanced segments allow you to isolate and analyze specific kinds of traffic. When you create an advanced segment, it is available across all websites in your account. For example, if you create an advanced segment to view traffic from only Facebook, you can use it to see all of your Google Analytics data based on visitors coming from Facebook.
+
+To create an advanced segment, go to any profile in your Google Analytics and click on the Advanced Segments button.
+
+Here, you will see a list of default segments you can choose from. You also can use the + New Custom Segment button to create your own custom segment.
+
+When creating a custom segment, you can choose to include or exclude any metric or dimension within Google Analytics. You also can get a quick description of each as you hover over them in the dropdown.
+
+One of my favorite custom segments is my social media segment.
+
+While Google Analytics does provide a social report under Traffic Sources, they leave out a lot of niche social networks and lump major networks like Facebook in with traffic from social bookmarking sites, blogging sites, and Q&A sites. With my custom segments, I cannot only view the social media networks I want, but also all of my Google Analytics data based on traffic from those networks, and I can compare it to the rest of my traffic as a whole.
+
+Or compare it to other custom segments.
+
+Best of all, when you come up with cool custom segments, you can use the share link next to them to share them with other Google Analytics users. One of the best uses for segments I’ve found is determining which online marketing strategies drive the most traffic, but as you can imagine, there are many, many more great uses for them.
+
+Need some custom segments to get going? Here are some great, downloadable samples:
+
+You also can learn more about using advanced segments in the Google Analytics Help Center.
+
+Google Analytics Custom Reports
+
+If you find yourself drilling down to a specific bit of information regularly, such as the landing page that led to the most conversions for visitors from the United States, then you might want to create a custom report. You can create custom reports in explorer view (like your standard reports), flat table view, or a map overlay. Custom reports can be created by going to the Customization tab and clicking on + New Custom Report.
+
+The basic setup of custom reports is as follows:
+
+Explorer Reports – Five metric groups with an unlimited number of metrics in each and one dimension drilldown with optional filters.
+
+Flat Table Reports – Two dimensions and an unlimited number of metrics with optional filters.
+
+Map Overlays – The map zoom level (world, continent, subcontinent, and country), dimensions down to region and city based on zoom level, and five metric groups with an unlimited number of metrics with optional filters.
+
+The added bonus of reports is that you can email them to anyone (including yourself) once or on a daily, weekly, monthly, or quarterly basis. Reports can be sent in CSV, TSV, Excel, or PDF format.
+
+This is a great way to keep you, your boss, your marketing department, or your clients up to date on specific data from your website without having to always be in Google Analytics.
+
+Also, if you don’t have access to your clients’ Google Analytics accounts but need data from them, you can always create a custom report in your own Google Analytics and share it with them. To do this, just go to your custom report overview section, and in the actions dropdown next to the report you want to share, select share to get the following prompt.
+
+When your client is logged in to Google Analytics, they can click this link to be prompted to save the report to their Google Analytics account.
+
+Then, they can set up emails so you can get the data without having actual access to their account.
+
+Need some sample custom reports to get going? Here are some great, downloadable examples:
+
+You also can learn more about using custom reports in the Google Analytics Help Center.
+
+Google Analytics Dashboards
+
+Last, but not least, are Google Analytics Dashboards. These can pull similar data as custom reports, but in a more visual way.
+
+You can create up to 20 dashboards, with 20 widgets each. You can choose standard reporting and real-time reporting widgets with varying numbers of metrics and dimensions, based on the widget type you choose.
+
+Just like custom reports, dashboards can be emailed to you or others once or on a scheduled basis. You also can share custom dashboards you have built using the share dropdown above your dashboard so others can benefit from it.
+
+Need some sample dashboards to get going? Here are some great, downloadable examples:
+
+You also can learn more about using dashboards in the Google Analytics Help Center.
+
+In Conclusion…
+
+If you want to go beyond standard reporting in Google Analytics, you have the following options in a nutshell.
+
+Filters – Great way to include / exclude data in different profile views. Most commonly used for filtering out traffic from your own IP address (home) or range of IP addresses (work).
+
+Advanced Segments – Great way to see all of your Google Analytics based on a specific metric or dimension. Also good to compare traffic with different metrics and dimensions. Lots of great, downloadable example custom segments to choose from and build off of.
+
+Custom Reports – Powerful way to analyze and share drilled-down data in Google Analytics. Lots of great, downloadable example custom reports to choose from and build off of.
+
+Dashboards – Powerful way to visualize and share drilled-down data in Google Analytics. Lots of great, downloadable example dashboards to choose from and build off of.
+
+Which of these Google Analytics features do you use the most in your business, and how do they help you and your clients? Please share in the comments!
+
+About the Author: Kristi Hines is a freelance writer, professional blogger, and social media enthusiast. Be sure to sign up for her free mini-training course, 8 Days to Promotable Content, and learn how to create content that people love to share! You can also find her on Google+ and Twitter.

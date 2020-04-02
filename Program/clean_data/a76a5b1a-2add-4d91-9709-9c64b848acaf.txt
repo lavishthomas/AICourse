@@ -1,0 +1,21 @@
+Science’s next space race isn’t in the stars, but in your DNA. People around the world are working to use the latest DNA-editing technology, called CRISPR-Cas9, to fix the gene-based ails that plague so many victims. But this is still science—which means every side faces scrutiny, even from the folks supposed to be on the same team.
+
+A hyped recent study from an American team, one that could have leveled the playing field between the United States and China (where scientists have already edited human embryos using CRISPR), has been called into question. The large team of scientists from the US and Asia said they’d fixed a mutation in human embryos that causes heart muscles to grow too thick. But now, another group of researchers suggests the first group didn’t actually fix a mutation—they only thought they did.
+
+Advertisement
+
+The first paper, published a month ago in Nature, saw scientists set out to fix a mutation in a gene called MYBPC3 in human embryos that hadn’t been implanted yet, using the fairly new but already wildly-popular and cheap CRISPR-Cas9. First, they found sperm cells from donor sperm with the mutation, then fertilized eggs with those sperm, and injected the zygotes with the Cas-9 protein. They reported an especially high success rate, “fixing” the embryos 72 percent of the time. As reported in Nature, the healthy DNA in the egg cell seemed to fix the broken sperm cell’s copy.
+
+Undoing this heritable mutation could potentially correct heart muscle-thickening hypertrophic cardiomyopathy in both a developing embryo and any of the future human’s offspring. The team pointed out that there’s a whole lot of work that needs to be done before clinical applications—and now another group has some concerns.
+
+That new group of researchers, from the United States and the United Kingdom, took a look at the first set of results and published a comment on the biorXiv preprint server this past week. Essentially, they say that the first team of researchers’ tests merely couldn’t find a mutant gene, rather than actually “providing direct evidence for correction” of it. They want the first group to consider other possibilities that would have yielded their results (maybe the system just deleted a whole lot of DNA), because they don’t quite know how egg cell DNA could fix mutated sperm cell DNA, according to Nature News reporting.
+
+Advertisement
+
+Nature News also reported that other scientists agreed it would be difficult for the egg’s DNA to fix the mutated sperm’s. University of Bath researcher Anthony Perry said the physical distance between the cells’ genetic material during fertilization is simply too great.
+
+The lead author of the first paper felt that the new comment was based solely on speculation. But this isn’t the first time that CRISPR has come under fire for potentially unexpected results. Another study covered by Gizmodo a few months ago is causing a stir in the CRISPR world after demonstrating unexpected mutations in parts of the DNA not explicitly targeted by the system.
+
+If there’s one thing for certain, it’s that CRISPR isn’t ready for human embryos, yet. Sure, the thought of fixing deadly mutations is exciting, but we can’t let our hopes carry us away while scientists are still ironing out the kinks.
+
+[biorXiv, Nature, Nature]

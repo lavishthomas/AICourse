@@ -1,0 +1,407 @@
+13 minutes
+
+In the Academy Award-nominated film Food Inc, filmmaker Robert Kenner reveals how the varied choice of items we see on the shelves of supermarkets is actually a false presumption. Instead, that seemingly endless variety is actually controlled by just a handful of companies.
+
+Today I’m going to reveal how the huge diversity we perceive in Google search results is once again a few large corporations controlling what we assume to be choice. More specifically I’ll reveal how just 16 core companies are dominating the most popular industries online and how that situation is going to get a whole lot worse.
+
+
+
+To begin our journey down the rabbit hole together, I want to take you through a series of events which uncovered something I had never considered before about the industry in which I operate: Are the Google rankings I aim to get for myself and my clients actually controlled by just three hands full of companies?
+
+Around two weeks ago I came across a post on Reddit about Hearst Media. I was unfamiliar with Hearst Media but very familiar with the brands they own such as Esquire, Elle and Cosmopolitan.
+
+The Reddit outing, which was shared on a new account, claimed that Hearst were using their powerful brands to “game Google” and rank a new website of theirs very quickly, using slightly shady practices.
+
+Being an inquisitive marketer I had to check it out for myself. The quick summary is that Hearst clearly were (and still are) using their authoritative brands to point links to their latest venture, BestProducts.com.
+
+While I expected BestProducts.com to be receiving a lot of traffic from the brands linking to them – which also include Marie Claire and Woman’s Day – I didn’t expect Google to have taken such a huge liking to them. Especially when the site in question had zero reason prior to be ranking so well (it was owned previously then the domain dropped a few years ago).
+
+To give an overview of what was happening for those who are skimming this article, the situation looks like this.
+
+The arrows in this picture represent links.
+
+There are far more brands involved in this network, but we’ll get to those in a second.
+
+As I stated earlier, I was far more surprised by how Google reacted to this.
+
+Launched in October, They Now Receive More than 600,000 Visitors from Google Per Month
+
+Here’s the graph that kick started the countless days of research I did for this blog post.
+
+As we can see, the estimated traffic to BestProducts has shot up dramatically in the last few months. SEMRush is showing similar numbers, as we’ll get to in a second. With 62% of their traffic estimated to be coming from Google, that’s at least 600,000 organic (free) website visitors for the month of April.
+
+I expect the data for May will be significantly higher, but I have to wait until June 10th to see (that’s when SimilarWeb confirm they’ll update their reporting).
+
+So Why Am I Surprised?
+
+Tons of authoritative sites linking to you is obviously great for SEO.
+
+But as anyone who has been involved in search engine optimisation for a period of time might wonder, surely getting so many sitewide links in a short timeframe should raise a bit of a red flag?
+
+Even if the links in question are from some of the biggest media brands in the world.
+
+Here’s a few examples.
+
+Esquire.com (Product Reviews)
+
+Elle.com (Beauty Reviews)
+
+Cosmopolitan.com (Beauty Reviews)
+
+MarieClaire.com (Reviews)
+
+PopularMechanics.com (Product Reviews)
+
+Now, I will say that 90% of me thinks there is absolutely nothing wrong with this. In fact, you’ll see the majority of this post is focused on why I’m surprised Google give the resulting website so much traffic.
+
+Quite simply if I owned a lot of websites, I would be fine linking them together. If for nothing more than from a usability standpoint.
+
+That being said, 10% of me is a little surprised that these link texts and locations are constantly changing. I think it’s a bit risky on their part.
+
+As of publishing this post, Cosmopolitan use ‘Beauty Reviews’ as the anchor text of their footer to the site. Previously it was in a different placement and used the anchor text ‘Style Reviews’.
+
+These are not static footer links that have been left alone (and not just on one site). They’re changing to different pages – and using different words – on a fairly frequent basis.
+
+To me this takes the situation away from “they’re just linking to their own site” to “they’re doing a lot of tweaking to see which results in higher rankings.” You could argue they’re testing it for usability reasons, but you’ll see in a moment why I think they know a thing or two about SEO.
+
+Before I get into that, I wanted to see if I could figure out when these links were added to their network.
+
+Were they all thrown up at once and it took a while for them to have an impact, or was there some clear plan behind the links from Hearst Media’s various brands?
+
+Here’s some of the data I managed to uncover on when each site first linked to BestProducts (I bolded those that linked on the same day).
+
+PopularMechanics.com – November 5th
+
+Esquire.com – November 5th
+
+Cosmopolitan.com – January 1st
+
+Seventeen.com – January 12th
+
+RedbookMag.com – February 23rd
+
+Elle.com – March 15th
+
+CountryLiving.com – March 18th
+
+WomansDay.com – April 5th
+
+MarieClaire.com – April 5th
+
+RoadandTrack.com – April 13th
+
+For my own curiosity, I was glad I took the time to trawl through every screenshot on Archive.org to find these answers. It’s now obvious that the people working for Woman’s Day, Marie Claire, Popular Mechanics and Esquire had some conversion that went along the lines of, “Don’t forget, today’s the day we have to put those links to Best Products in the footer.”
+
+As I said earlier, I don’t really care too much about what Hearst media are doing with their “link network” of magazine brands. I don’t see anything wrong with it and don’t think Google should either.
+
+That being said, because I’ve done more research for this blog post than any other, I do want to add that they purchased the most successful SEO agency on the planet just a few years ago.
+
+If you can’t read that because of my small post width (I’m working on a redesign), they paid $325 million for an agency that generated more than 60% of their revenues from SEO clients.
+
+At the time of acquisition iCrossing were also the biggest search agency in the world based on revenue numbers. In other words, the staff at Hearst Media comprises of a large number of people who know a lot about SEO.
+
+To me this explains the slow buildup of network links and the semi-frequent changing of URL’s and link text in their website footer.
+
+I Have No Problem With What Hearst Are Doing. Google’s Reaction Is What Really Interests Me…
+
+I’ve said it a few times but I’ll say it once more for anyone skimming the post: This is by no means an attack on Hearst Media. They own the websites so they’re welcome to do with them as they please. They also made BestProducts a rather attractive looking website.
+
+Then again, I’m surprised at how well their strategy is working. I’m not naive – I know that authoritative links equal a good chance of increased search rankings – but I didn’t expect they would be outranking some of the biggest brands on the internet for search terms that can make them a lot of money.
+
+From Zero to $583,000 in Free Search Traffic
+
+We’ve already looked at the data from SimilarWeb, but the stats from SEMRush are interesting as well.
+
+SEMRush pips BestProducts at ranking for over half a million dollar’s worth of search queries (if you were to buy them via Google Adwords) in a very short space of time.
+
+Their Top Keywords According to SEMRush
+
+Some of those incredible rankings they’ve achieved include:
+
+hairstyles: 11th (450,0000 searches per month)
+
+(450,0000 searches per month) short hairstyles: 7th (301,000 searches per month)
+
+(301,000 searches per month) best wireless earbuds: 1st (22,200 searches per month)
+
+(22,200 searches per month) short haircuts: 9th (301,000 searches per month)
+
+(301,000 searches per month) best running shoes for women: 1st (18,100 searches per month)
+
+(18,100 searches per month) bluetooth speakers: 11th (165,000 searches per month)
+
+(165,000 searches per month) lighted makeup mirror: 1st (14,800 searches per month)
+
+(14,800 searches per month) best makeup brushes: 1st (14,800 searches per month)
+
+(14,800 searches per month) haircuts: 7th (165,000 searches per month)
+
+(165,000 searches per month) short haircuts for women: 6th (110,000 searches per month)
+
+They’re still ranking for these terms, which is why I predict the SimilarWeb traffic graph will increase a lot when they update their data for May.
+
+Their Top Keywords According to SimilarWeb
+
+It’s interesting to see how different the data from SimilarWeb and SEMRush seems to be, but they’re at least right that BestProducts are ranking for what they state they’re ranking for.
+
+best dishwasher 2016
+
+best smartwatch 2016
+
+best gaming headset 2016
+
+best action camera 2016
+
+best bluetooth speaker 2016
+
+Hey, I did tell you all just before new year that you should be writing 2016 everywhere on your site.
+
+I could make this page infinitely scrollable if I show all of their rankings, so I’ll just share a couple to show they really do rank.
+
+While they aren’t a top result for this one it does show that they’re likely still getting hundreds of clicks per day for just one search term.
+
+It’s certainly not just with BestProducts that Hearst are having a lot of SEO success though. Just look at how their brand is doing as a whole…
+
+Hearst Alone Absolutely Dominate Certain Sectors of Google Search Results
+
+Worried about ranking top three? Why not just take all of the spots.
+
+Sadly, Google Search Results Will Never Look Diverse Again
+
+At least not to me.
+
+You may think Hearst are some kind of exception and partly, you would be right. However, they’re certainly not alone.
+
+Purch also own some of the biggest sites online.
+
+They all already link to each other in the footer of every site, but it’s my understanding that they were all fairly big ‘brands’ on their own before being purchased. Just look at the traffic numbers for some of those sites:
+
+Toms Hardware – 51 million visitors per month
+
+Top Ten Reviews – 17.5 million visitors per month
+
+Live Science – 20.6 million visitors per month
+
+I don’t have to go into their domain stats; you already know they have authority.
+
+Purch and Hearst compete in many of the same industries and one of Purch’s sites – TopTenReviews – also ranks in my screenshot above for the dishwashers search query.
+
+There’s no doubt they are watching the success of one of their bigger rivals and if they see that they can spin off new web properties into valuable entities, it must be very tempting to follow the same path.
+
+Sadly, the more research I did for this post, the less and less varied Google search results appeared to be. Time after time I was able to trace back the top ranking websites to some of the biggest media companies in the world.
+
+There are of course some I’m missing (especially outside of the English language) but these are the companies I found most often in search results across the board.
+
+
+
+Click here to view a slightly larger image.
+
+To show you I’m not being dramatic, let’s take a look at some actual search results I believe that these networks are dominating. They’re not just limited to one sector.
+
+They’ve Taken Over Software
+
+That’s a little bit of a long-tail example, so let’s look at something far more popular.
+
+They’ve Taken Over Food
+
+
+
+Image results were manually removed from this screenshot for clarity
+
+And another…
+
+
+
+For this screenshot I removed some Google images so I could fit in the search results
+
+They’ve Taken Over Technology
+
+I’m starting to feel like I was one of the only people who didn’t know about these brands.
+
+They’ve definitely got a big hold on the technology industry.
+
+They’ve Taken Over Gaming
+
+
+
+Note: One Youtube result was removed from this graphic so I could fit in the screenshot
+
+They’ve Taken Over Health
+
+They’ve Taken Over Automotive
+
+They’ve Taken Over Beauty
+
+They Buy Out the Competition
+
+They (More than Likely) Share Keyword Data Across Their Network
+
+I can’t blame them for doing this, but it’s certainly interesting to see.
+
+It’s not only the big broad keywords that send a lot of traffic they can share either. If you have similar brands, you should definitely be taking advantage of the long tail.
+
+Why have one top search result when you can have two (or many more)?
+
+These Companies Get $20,000 in Links Just for Buying a Domain Name
+
+When Google search results are so reliant on one thing then we’re all a little bit at the mercy of whoever has the most money to throw at the problem.
+
+Whenever these big brands start a new website the tech and news blogs share it with the world, and that means link acquisition.
+
+Hearst’s Best Product Got Incredible Links On the Day of Launch
+
+Here is Racked.com, ironically owned by another of the sixteen, talking about their new brand.
+
+As Did Time’s New Breakfast Site
+
+Even if you’re just writing about the first meal of the day, it’s notable to those in the tech space.
+
+As Did IAC’s New Health Site
+
+There are few better links to get about a new brand than a mention from TechCrunch.
+
+It’s Clear That Domain Authority is More Important Than Ever
+
+If you didn’t “catch” on to this after seeing how well BestProducts are ranking then let me make it clear: There are almost no backlinks from other sites pointing to the top ranking pages of BestProducts.com.
+
+They do have some internal links – mostly from the footer of PopularMechanics articles – but very few. However, they have a ton of strong links pointing to their homepage and category pages, which is spreading the ‘link juice’ around their entire website.
+
+This is inline with what Brian Dean reported when he analysed 1,000,000 Google search results:
+
+As he says, “In other words, the domain that your page lives on is more important than the page itself.”
+
+Overall, it makes sense that domain authority plays a big role in overall site rankings (it’s not easy to get internal links) but I’m surprised to see it being so important.
+
+How IAC’s About.com Used Their Authority to Catapult a New Site to the Top of Google
+
+When TechCrunch covered the launch of About.com’s new standalone health website, Very Well, they had this to say regarding their SEO,
+
+One of the greater challenges for About.com will be SEO. The company current has pretty good juice when it comes to Google searches, and launching on a new domain with a new brand could prove difficult to migrate.
+
+The other interesting thing they quoted, which a lot of other news sites picked up on, was that,
+
+Verywell will launch with more than 50,000 pieces of content ranging from common medical conditions like diabetes and rheumatoid arthritis to simple health tips like how to get more sleep or advice on fitness.
+
+That’s a lot of content for a brand new site.
+
+50,000 Pages of Content Did Nothing for Their SEO.
+
+From what I can tell, Very Well seemed to come online around February of this year. The first mentions or evidence of the site didn’t appear until April, but some of their older content has February 2016 as the publish date.
+
+Now the day they launched the site – whatever that really means – was April 26th, 2016. That means they added 50,000 pieces of content to a dropped domain in the space of two months.
+
+During these two months not a single website analytics tool (such as SimilarWeb, Alexa or Compete) detected any traffic going to VeryWell.com
+
+Luckily, About.com Has Some SEO Authority to Throw Around
+
+As TechCrunch noted, About.com are one of the most SEO-authoritative brands in the world. It seems like no matter what you search for, they’ll be there ranking on the first page of Google.
+
+It’s interesting then that About.com decided to risk that authority by pointing their health-related sub-domains straight to Verywell.com, as shown below.
+
+This is just a sample of those I found. There are many more.
+
+To be clear, these sub-domains used to have sites on them. They’re not just randomly redirecting. They were previously used by About.com.
+
+WIth a wave of links from About.com and the media web talking about IAC’s new web brand, VeryWell started to get noticed on website analysis tools. Most notably by Ahrefs.
+
+That’s a lot of links in a short period of time. Surely it must be setting off a few red flags like they did for Best Products.com? Heh.
+
+“How’s That New Site Ranking, IAC?” Very Well!
+
+If you want to know how this new brand is doing in Google, take a look for yourself.
+
+That’s a recording of 3.6 million visitors to the site with 56% of that reportedly from free search engine traffic.
+
+IAC must be pleased with that. So much so in fact that I think this situation is only the tip of the iceberg.
+
+This Domination of Google Results Is Going to Get Much Worse
+
+Over the last two weeks of dedicating day and night to this topic I found a lot of similarities in these mega brands.
+
+Many started offline in publishing and brought those titles online while many purchased their own competitors and ran different brands like they were separate entities. For instance, IAC purchased About.com while AOL (now owned by Verizon) purchased Patch, TechCrunch and The Huffington Post.
+
+However, the most common thing I’ve found in my research is that they all plan to spread the authority of their online presence.
+
+IAC’s About.com Will Disperse into Many More Verticals
+
+Speaking with TechCrunch, their CEO Neil Vogel states, “What we learned in rebuilding what we were is that we don’t want to be that anymore. About was built during a different time in the internet, where scale translated to trust. But the internet has changed. No one wants advice on their 401k from the same people that give advice on how to bake a pie.”
+
+As TechCrunch also note;
+
+Learning that, About has shifted its focus to building out verticals around its troves of topic-specific content, with Verywell being the first.
+
+After seeing the quick SEO success of Very Well, I’m sure they’ll be bringing that plan forward.
+
+Time Have Already Spun-Off into Two Verticals
+
+Back in September of 2015, Time Inc’s ‘The Foundry’ (sort of like their internal incubator) launched a car news website called The Drive. Time recently revealed the site is now receiving more than 2 million unique visitors per month.
+
+More recently, Time launched a website called Extra Crispy. Oddly enough it’s a website dedicated to breakfast, but if you saw the screenshots above then you’ll know they’ve received a TON of links back to this site, simply because it was created by Time.
+
+Two of the 16 Are Teaming Up
+
+Just last month, two of the sixteen brands I’ve highlighted today actually acquired a new company together named Complex Media.
+
+The video-focused company claim to reach more than 50 million unique visitors per month.
+
+With Verizon purchasing AOL last year for $4.4B, I wouldn’t be overly surprised to see them make a few more content-focused acquisitions. *Cough* Verizon will buy Hearst *cough*
+
+Hearst Built BestProducts.com in Just Six Weeks
+
+I’m not even talking about how long it took to get the content on the website. I’m talking about sitting in a meeting one day and having the idea for the site to actually having it online and getting links from some of the most powerful domains in the world.
+
+Digiday reports that Hearst can move fast. “We’re now at place where we can spin up properties incredibly quickly,” Young said. “This went from idea to launch in six weeks.”
+
+Young also commented that, “We have a strong new platform. Now we can start applying that to new opportunities.”
+
+Which to me can only mean that more BestProducts-like websites are on their way.
+
+A Depressing Summary, but Not a Negative One
+
+Though this post may seem like a bit of a “it’s us against them” fight, that really wasn’t my aim.
+
+The more research I did for this article and the more I realised certain brands were owned by the same company, the more I felt like I was watching Food Inc, the documentary that revealed the thousands of brands you see on supermarket shelves are really owned by just a handful of companies.
+
+
+
+Side note: If anyone has the skills to make a similar graphic with the brands I covered here I would include it
+
+It’s not too dissimilar from what I’ve shared today. Thanks to Jason and Mary for putting this graphic together.
+
+
+
+Click here to view larger
+
+As I’ve always said, I write articles that I personally think would be interesting to read. In 11 years of immersing myself in the online marketing industry I’ve never seen anyone talk about the huge dominance that certain players have on search results. So, as the research was interesting to me, I decided to share it.
+
+Let’s take an ideal worldview for a second. If Google’s ideals are to be believed, results from queries in their search engine should produce results that searchers want to find.
+
+For that reason, I’m sure teenage American girls searching for advice on colours of eye-liner aren’t thinking “Ugh, really Google? Beauty tips from Vogue again?”
+
+Similarly, when I’m searching for tech product reviews, I’m actually happy results from The Verge appear over some site I don’t have much faith in. I trust The Verge, and I’m more likely to click on their results than from anyone else.
+
+From an objective standpoint, the Google results are good, if not great. They provide what the searcher, and I, are looking for.
+
+But I’m a marketer. If you’re still reading this article, I can assume with 99% certainty that you’re one too.
+
+As a marketer I learned how little Google care if a new site gets hundreds of thousands of links very quickly.
+
+I came away with even more belief in the importance of having a strong domain (read: a domain that has a lot of backlinks) if you want internal pages to rank.
+
+I also became a little fearful that these brands are going to spread into even more verticals, taking their already huge financial war chests and filling in all of the blank Google results they don’t yet own.
+
+If we want to debate whether it’s fair or not or whether Google should make changes, a court of law in the US has twice protected their search results under the First Amendment. Meaning it is totally up to them to list and rank websites wherever they wish.
+
+The first time they won a battle on their rankings, a company called CoastNews were suing them for $5M because they ranked at the top of Yahoo and Bing but were nowhere to be found on Google.
+
+At the end of the day, Google is a business that aims to make their shareholders money and if we as webmasters are looking to rank higher in Google, it’s usually because we want to make more money as well. I can’t feel it’s unfair and want to profit from it at the same time. After all, I do have several niche agencies which profit from ranking other people highly in Google.
+
+I can complain – it’s a shame Google can’t detect some of what is going on here – but it’s not going to change anything about how I run my business.
+
+All in all, I simply hope you found my findings as interesting in one go as I did while discovering them on the way.
+
+You Can Still Fight Back
+
+Next week I’ll be going live with a report on the state of link building in 2016 so if you want strategies on how to get links to make your sites rank, make sure you enter your email in the box below (or in the right sidebar) to make sure you don’t miss it.
+
+Thank you so much for reading.

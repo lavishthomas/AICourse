@@ -1,0 +1,51 @@
+There are loads of ways to get a faster wireless network connection at home - some of which are more practical than others.
+
+You can hire some heavy machinery and knock down a few walls in your house so the Wi-Fi signal can travel through more efficiently. You can chuck out your current network hardware and buy a new set with the latest specification.
+
+Or you could go down the easier, less destructive, and perhaps most importantly, free route of making sure your network is operating on the right channel and tweaking its settings for maximum speed. It's much like tuning a radio to a different station.
+
+There's a simple reason why you might need to change your router's network channel. When there are many other wireless networks in your local area (which is likely if you live in a city), wireless signals can clash, causing interference that makes network traffic slow down.
+
+There are several possible channels that your wireless network can operate on. We're going to show you how to look at the traffic in your area and move your network to the least clogged part of the spectrum, ensuring you get the best results.
+
+Step-by-step: Boost your wireless connection
+
+1. Download time
+
+To analyse your local network traffic in greater depth, we're going to use a tool called inSSIDer. It's a full network analyser capable of some incredibly complex things, but we're really only going to skim the surface of its abilities. Download and install the program from here - just click 'Next' repeatedly to get it installed.
+
+2. Scan for networks
+
+Run inSSIDer - you'll find it inside a folder marked 'Metageek' in your Start menu. Click on the tab marked '2.4GHz channels', then look at the top of the screen for a button labelled 'Start'. This sets inSSIDer hunting around your local area for networks. It'll probably find many more than Windows does. Click 'Stop' when you're done.
+
+3. Find a channel
+
+Look at the graph - this is a map of where the networks in your area fall along the 11 main wireless channels. Their height represents their signal strength from your current location. It's down to you to interpret your graph, since it won't be the same as mine. Find an area with some empty space, or a quiet channel, and note its number down.
+
+4. On the router
+
+The channel you picked will be your network's new home. If it's nice and clear, you should get a decent speed boost. To change the channel on your router, you need to log in to its admin interface, which is different for every model. I'll show you the steps we took for our Asus WL700ge - you may need to search the internet for specifics.
+
+5. Log in
+
+I'll start by firing up a web browser and going to the local IP address of my wireless router - in this case 192.168.1.1. This brings up the login screen, where I need to enter my credentials. If you don't know yours, it's likely they haven't been changed from their defaults, so dig out the manual or search online and you should find them.
+
+6. Set the channel
+
+From here I need to access the advanced settings screen, which gives me more options. It's easy to change the channel on this particular router - there's a drop-down box in the middle of the screen that lets me do it. While I'm poking around, I can also look for a number of other settings that will keep my router speedy.
+
+7. More tweaks
+
+I'm given the option of setting a wireless mode - in this case turning off the older 802.11b service. If you still have devices that use it, you'll want to leave it switched on, but since I only have 802.11g devices in my house, I can safely switch it off and claw back a tiny speed boost. Then it's time to head to the advanced wireless page.
+
+8. Radio settings
+
+Here I can fiddle with all sorts of things, but I'll stick to the bits I know will help my wireless speed. Turning the radio power up should mean I get better signal at a distance. The 'afterburner' mode is only useful if you have wireless cards or dongles in your PCs that support it, so I'll leave it off. Frame burst, lower down the page, is a must.
+
+9. Check the changes
+
+After you've made the changes, you'll need to apply them and save your settings. Your router will probably reboot. Once everything is back online, run inSSIDer again to check the results of your changes and ensure that your wireless connection has moved to its new channel. Try a download - you should see the benefits immediately.
+
+10. Speed for free
+
+So you've checked out the wireless channels in your area, found the ideal one for your network and hopefully, depending on your router, switched its channel to an empty space. If it seems to have made things worse, there may be some other interference in the new channel, like a cordless phone, so try a few until you find the best one.

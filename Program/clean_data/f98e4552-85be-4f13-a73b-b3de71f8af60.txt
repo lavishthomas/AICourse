@@ -1,0 +1,81 @@
+After agitating to get Google to bring its best apps from iOS to Android, I was gratified to see last month that Gboard, Google’s excellent iPhone keyboard, made the jump. Then I used it on my Pixel and discovered that it’s inferior to the iOS version. Google, on its own phone, built a bad Google experience.
+
+Which got me to thinking and made me realize something: the Google experience on Google’s phone is confusing and often bad. Back when I reviewed the Pixel, I noted that there are four different ways to do a basic Google search on it — all of which have slightly different behaviors. But I undercounted! Now, with Gboard, there are at least seven different ways to do a broad Google search on the Pixel. And that doesn’t count other searches — like Maps or Email or YouTube — that are also technically using Google’s search engine.
+
+So I documented all these different ways of searching Google on Android, to point out their various foibles. The TL;DR is this: there are a lot of ways to search Google on Android but they all give you slightly different results, which means the whole thing can make you feel a little lost.
+
+1: The Good ol’ G button
+
+This is the way most people will access Google search. On the Pixel, it’s a single button with Google’s new G on it (and a little visual indicator that you can swipe right to see more Google stuff). On other Android phones, it’s a full search bar. Whatever it looks like, theoretically the experience is basically the same:
+
+Tap Type (or hit the microphone and dictate) Get a bunch of results you can click on
+
+Easy peasy, except that when those results pop up, you’re in for a slightly odd experience. These results technically appear in the Google App, which is different than just using Google in the Chrome browser.
+
+When you tap on a result, it opens up in a new window that is basically an independent, standalone screen. You can hit a menu item to open it in Chrome, or just close the window, or hit the “Recents” button to see all your app windows — including your search. Some stuff you’d expect to work just plain doesn’t — for example, you can’t open results in multiple tabs by long-pressing.
+
+This user experience makes it really easy to lose the thing you were looking at or doing. Unless you have a pretty detailed knowledge of how Android’s multitasking works and are adept at finding your place, you’re likely to lose something into the ether of Android’s multitasking interface.
+
+I also have a gripe about the way search results appear in the Google app. On a web browser, there are two buttons all the way to the right that let you customize your search results based on recency — e.g., only show results from the last week or month. I recognize that this is not a thing most people will care about, but I still find it odd that you can do it on the web but not inside Google’s app, which otherwise seems to basically provide identical results.
+
+2: The App Formerly Known as Google Now
+
+Swipe right from the home screen and you’ll get to a screen that we used to call Google Now. Once inside, you’ll get info cards that are ostensibly relevant to your interests: weather, travel info from your inbox, and news stories you might care about.
+
+Tap the search box at the top of the Google app and you’ll end up with an experience that’s essentially the same as what I described above. A page of results, the tapping of which opens up a custom window that you can easily lose track of if you’re not careful.
+
+Technically the Google App on your home screen and the Google App you get by launching it from the app icon from your app tray are the same thing. If you wanted to run up the numbers, you could count them as two things — but let’s be gentle.
+
+The real problem with the Google app is the same one you run into when you hit the G button on the home screen: the windows it spawns are easy to lose. And take heed! If you go back to the Google app and do another search, your last page of search results will silently disappear from your recent apps screen. So if you’re trying to research multiple topics at once, the best way to Google is to entirely ignore the Google App.
+
+3: Google Assistant
+
+I don’t want to take too much time to detail the “conversational search” in the Google Assistant, as it’s still pretty new and in furious, constant development. I don’t think anybody — Google included — has fully thought through the repercussions of voice-centric, assistant-style search.
+
+What does it mean to only provide a single result? What does “conversational” really mean in this context? How open should it be to apps and services instead of just providing web-based results? All these are open questions and Google is changing the answers day by day as it furiously iterates the Assistant. There’s also the very big issue that the results you get in the assistant are often different than what you’ll get with other versions of Google you’ll find on the Pixel.
+
+Rather than delve into all that, I’ll just say this: like the Google app, it’s incredibly easy to lose track of what you just did it in it. Every time you open the Assistant it’s a blank slate, and you have to dig pretty deeply to find your search history. And when you click on a link in the Assistant, it too opens in one of those ephemeral not-Chrome-but-Chrome windows (which have a gray title bar instead of a blue one, for some reason).
+
+4: Screen Search
+
+This feature used to be called “Now on Tap” and it was the headline search feature on Android a couple years ago. The idea was compelling: Google could read your screen and figure out what you care about on it, then perform a search on that thing. It could return phone numbers, restaurant reviews, directions, movie times, and so on — when it worked, which it very often didn’t. It essentially promised to search all of Google with whatever was on your screen.
+
+Now it’s called Screen search and it’s been relegated to a sub-feature of the Google Assistant that only shows up if you swipe up without asking your question. It never lived up to its promise, and you can safely (and sadly) forget about it most of the time. I still try to use it from time to time, especially when there’s a number or an address on my screen. I find it has about a 60 percent hit rate, which is better than nothing and worse than you want from something you expect to be reliable.
+
+5: Chrome
+
+Just opening up a new tab in Chrome is absolutely my preferred way to search Google on Android. It has all the search tools I want, you can open stuff up in new tabs, and your search results page doesn’t go anywhere unless you want it to.
+
+You do have some extra steps to get to Google in Chrome, though. You have to open the app and then deal with tabs, making sure that you’re not killing off some tab you wanted to read later. But the trade-off for those tabs are search results you won’t easily lose, full browser controls like back and forward buttons, and the ability to open up those tabs.
+
+Maybe I’m just old and used to working on desktop browsers, but this feels like the only Google experience on Android designed for users who don’t think search is a one-off, throwaway experience.
+
+This is the best way to Google on the Google Phone.
+
+6: Allo
+
+Google’s chat app, Allo, comes preinstalled on the Pixel. It is fine. As a way to do Google searches, I like it slightly better than calling up the Google Assistant by holding down the home button. Partly it’s because you can choose whether you type at it or talk to it, but mostly it’s because you can scroll back and see your previous searches in context — it does a much better job of being “conversational.”
+
+Like the main Google Assistant, Allo endeavors to just give you one answer, but usually with some extra bubbles you can horizontally scroll to continue searching. And the idea of quickly searching Google while in a chat with another person is neat — though I don’t know anybody that actually does this.
+
+If it didn’t take so many taps to get to (and if I actually used Allo), I would use it a lot more often. You know what would be cool? If there was a desktop or web client for Allo and my chats with the Google Assistant were the same across mobile and desktop. That would be cool. Maybe the Allo developers should think about it.
+
+7: Gboard
+
+Gboard is the newest way to do a Google search on the Pixel, and also the worst. Firstly, it only allows you to search for and use GIFs in certain apps — because “Android doesn't support copy paste for gifs.” It also buries said GIF search under the emoji keyboard and lacks dedicated image search altogether.
+
+When you use the in-keyboard Google Search, you only get one result — whereas on iOS it gives you a horizontal scrolling list of results. Google attempts to give you the most contextually relevant result: sometimes it’s a location, a single web search, images, or maybe one of those smart “knowledge graph” cards. But as smart as Google is, this is a Box o’ Chocolates way of designing something that ought to be reliable and predictable: you never know what you’re gonna get.
+
+Oh, and it’s inconsistent across devices: some show the “G” icon for search, some (like the Pixel) hide it by default.
+
+Those are all the ways of doing a standard Google or Google Assistant search on the Pixel. Of all of them, using Google in Chrome is the best and most consistent in its user experience.
+
+Now, of course, the obvious question: how many ways to Google is too many ways to Google? And also: does Google care that the experience is so wildly different across these different methods? Here is what a Google spokesperson had to say when I expressed many of the above gripes:
+
+We believe Search and Assistant should always be easy to access and, ideally, should not interrupt you when you need information in the context of another task. Our goal is to provide the best results, so depending on the surface, you may have a slightly different experience. For example, when you say ‘Hello’, where search will provide a set of web results, the Assistant will respond in a more natural, conversational manner. Additionally, while Search in the keyboard allows you to look up a restaurant while composing an email, the Assistant can answer a question at any time by long-pressing on the home button or saying 'Ok Google’. We're consistently improving the user experience and appreciate the feedback.
+
+Google’s right that the experience of searching can and should differ depending on the context, but there’s a line between “appropriate to context” and “unpredictably inconsistent” that I think the Pixel user experience crosses again and again.
+
+I can set that aside, but what I can’t get over is how many of these methods throw up a search result which then kind of goes away, I think Google expects, for most people, for search to be an ephemeral experience. You have a question, you get it answered, you move on with your life. That’s all well-and-good for simple things, but sometimes searching isn’t just looking for a single answer, sometimes its research, and most of the Googling experiences on Android don’t encourage that kind of work.
+
+Also, honestly Google, you already got somebody to buy a Google Phone, you really don’t need this much Google on it.

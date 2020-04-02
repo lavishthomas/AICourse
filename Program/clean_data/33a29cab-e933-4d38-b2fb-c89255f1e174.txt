@@ -1,0 +1,203 @@
+Amid bank bailouts and global recession, an unknown hacker operating under the false name Satoshi Nakamoto released an open-source code for a global, digital currency in January 2009. Running on a decentralized peer-to-peer online network, the currency does not rely on governments, corporations, or any single entity. It is also anonymous. The initial code contained a reference to a recent headline from The Times, “Chancellor on brink of second bailout for banks.” Nakamoto named the currency Bitcoin.
+
+The idea spread on forums that saw in Bitcoin’s anonymity and decentralized nature a social and economic revolution that challenges the supremacy of governments and the financial industry. It attracted libertarians and “cypherpunks.”
+
+Four and a half years later, monetary systems still threaten to implode, but Bitcoin shows signs of escaping its niche. There are nearly 11 million bitcoins with a value of roughly $128 in circulation, resulting in a market worth $1.4 billion. A small number of stores and early technology adopters like Reddit and Wordpress accept Bitcoin as payment, the American government has released guidelines regulating its use, and venture capital including Y Combinator has invested in Coinbase, a bitcoin startup.
+
+It also screams bubble. Bankers enjoy speculating on Bitcoin’s wildly unstable price, people are overwhelming exchanges in their frenzy to buy, and only a minority of users seem to be actually buying anything with the currency.
+
+Bitcoin is unknown territory. It draws praise from Silicon Valley fixture Paul Graham and simultaneous dismissal from Nobel Prize winning economist Paul Krugman. Although the buzz has focused on Bitcoin’s counterculture aspects, the currency’s potential for cost savings offers a compelling incentive for widespread adoption beside a desire for a cyberspace utopia or belief that the global banking system may collapse. Whether it will prove to be a feasible currency and, if Bitcoin does carve out a role in our lives, whether it will maintain its cypherpunk roots as it moves mainstream, remains an open question.
+
+From Beenz to Bitcoins
+
+Bitcoin is not the first online currency. During the dot com boom of the 1990s, two currencies called beenz and flooz failed to gain traction. E-gold allowed the transfer of gold-backed online currency before shutting down due to legal trouble.
+
+But all digital currencies rely on a company or trusted third party to maintain it. This third party adds or subtracts funds to and from an account linked to each individual in the same way a bank records the money you spend online. Without someone managing those accounts, people could double-spend their money. That is, someone could buy an iPhone with $400 worth of online currency, and then buy a second iPhone with that same online currency, as if they never gave it up.
+
+Bitcoin is the first digital currency to solve the double-spending problem without needing a trusted third party. It does so by keeping a single public record of the ownership and exchange of bitcoins by everyone in the system. To the extent that bitcoins “exist,” they exist as electronic records of their history. Every time a bitcoin is exchanged, a digital signature is added to it. You can imagine the signature as someone marking the coin to indicate the transaction. Every 8 minutes or so, the public record consisting of the electronic history of every bitcoin is sent to a dispersed network of verifiers that must agree that the public leger is correct. In exchange for doing this work, the verifiers are rewarded with new bitcoins, which is how the supply of bitcoins is introduced into the world.
+
+The ownership and exchange of currency remains anonymous through cryptography. As explained by a developer working on Bitcoin, “Even though the transactions are public, the individuals tied to the transactions are anonymous. This is similar to how the stock exchange makes stock values public without disclosing individual owners.”
+
+Bitcoins enter the world at a predictable rate set by the the Bitcoin algorithm until 2140, at which point the supply of bitcoins will max out at 21 million bitcoins. The verifiers are called miners, since the work they do to verify the record, as it earns them bitcoins, is like mining gold. After 2140, the verifiers will be paid via a tiny fee attached to each Bitcoin transaction. Satoshi Nakamoto’s original concept paper is available here.
+
+Bitcoin and Byzantine Generals
+
+The process of “verification” under the Bitcoin model is complicated. If you are feeling undesirous of performing intellectual wind sprints at the moment, feel free to skip the next two sections. Otherwise, let’s dive in.
+
+If there is a large, disperse group of people (or computers really) verifying the public record, each will have an incentive to create a false record that assigns itself more currency than it really has. So how does the group arrive at an agreement on the correct record?
+
+The first part of the solution is that every transaction must be agreed on by both parties, timestamped, and entered publically into the record as it is performed. Since the record accounts for every bitcoin’s entire history, any attempt to falsify the record would be immediately detected as inconsistent and ignored as long as the real record is recognized by the honest verifiers as such.
+
+This problem of identifying the legitimate record is known in Systems Theory as “The Byzantine Generals Problem.” For a long time, people doubted whether an answer existed. So when an unknown man that claimed to be Japanese, used a free German email service, and spoke English like a native speaker dropped the solution into a cypherpunk forum, conspiracy theories cropped up. A team at Google was behind Nakamoto, or the National Security Agency. But Nakamoto disappeared from online forums in 2010, likely taking the answer to the mystery with him.
+
+The Byzantine Generals Problem is eloquently described by Paul Bohm on Quora:
+
+“The Byzantine Generals’ Problem roughly goes as follows: N Generals have their armies camped outside a city they want to invade. They know their numbers are strong enough that if at least 1/2 of them attack at the same time they’ll be victorious. But if they don’t coordinate the time of attack, they’ll be spread too thin and all die. They also suspect that some of the Generals might be disloyal and send fake messages. Since they can only communicate by messenger, they have no means to verify the authenticity of a message. How can such a large group reach consensus on the time of attack without trust or a central authority, especially when faced with adversaries intent on confusing them? “Bitcoin’s solution is this: All of the Generals start working on a mathematical problem that statistically should take 10 minutes to solve if all of them worked on it. Once one of them finds the solution, she broadcasts that solution to all the other Generals. Everyone then proceeds to extending that solution - which again should take another ten minutes. Every General always starts working on extending the longest solution he’s seen. After a solution has been extended 12 times, every General can be certain that no attacker controlling less than half the computational resources could have created another chain of similar length. The existence of the 12-block chain is proof that a majority of them has participated in its creation. We call this a proof-of-work scheme.”
+
+In the analogy, the generals are the miners - the nodes of the peer to peer network verifying the public record of bitcoin ownership. But they cannot simply compare versions because someone could cheat and flood them with inaccurate records. (This is why the Byzantine Generals can’t trust the messengers). Instead, a set of difficult mathematical problems unique to the pre-existing record are attached to the record every time it is reviewed by the network. The nodes verify the record by solving these problems, which can only be solved through the brute force of a computer guessing solutions. The solutions to these difficult problems are saved in the record, and the number of these solved problems serves as proof of the chain’s authenticity - the record with the longest chain of solutions is assumed to be the correct one.
+
+The computational power required to solve these math problems is extremely high. It results in huge electricity costs, and people doing this work now use specialized hardware that solves the problem more efficiently than normal computers. This is why these verifiers (or miners) are rewarded with newly created bitcoins for doing this work.
+
+A Bitcoin mining rig
+
+Why Byzantium is Unconquerable
+
+Under this system, no one can simply submit a false record from scratch. Since the record does not contain solved mathematical problems serving to authenticate it, it will be ignored. A “rogue general” could try to solve math problems for his false record until it has more solved problems than the real chain. But as the real chain is being constantly added to by the honest generals, it would be nearly impossible to catch up.
+
+What if the rogue general tried to double-spend his bitcoins - purchase something with them (let’s say an iPhone) and then submit a false record showing that he still had those bitcoins?
+
+Well, first the rogue general would have to wait for all the other generals to solve the math problems that authenticated him buying an iPhone with his bitcoins. When the sale is finalized, he would then submit a false record showing that the purchase never took place. But since it has one less set of mathematically solved problems than the record showing that he did spend his coins, the other generals will ignore it and work on the authentic record.
+
+The only way to get everyone else to accept his false chain is for the rogue general to solve the math problems for his false record faster than everyone else can add to the real public record.
+
+The rogue can only succeed if he owns a majority of the computational power (or to follow the analogy, if the majority of the generals collude on the con). This is unlikely. Given that miners are rewarded for their verification work, someone with a majority of the mining/verification capabilities would have an incentive to work on the honest record, earn bitcoins, and maintain the system rather than try to deceive it.
+
+In short: Satoshi Nakamoto is a genius and the system is nearly foolproof.
+
+Whither Bitcoin?
+
+Bitcoin is an elegant solution to a difficult technical problem. But that won’t move millions of people to adopt a new form of money. Bitcoin has three advantages capable of driving its adoption. It decentralizes trust and reduces the control of governments and banks over the money supply; it offers anonymity and freedom from censorship over individuals’ use of their money; and it reduces the fees on online purchases and transfers of money.
+
+1) Decentralizing Trust
+
+If it seems crazy to use a digital currency with no value based in reality, remember that the value of every currency in use today exists only in our heads. Since Richard Nixon ended the gold standard system for American currency, under which an American dollar could be directly converted into gold, no currency has had a basis in a physically valuable product.
+
+Using the American dollar means implicitly trusting American institutions. If the Central Bank chose, it could print money (not literally - see here) until each dollar was worth a fraction of its current price. Or, for example, if the United States failed to service its debt, the value of the dollar would crash. Similarly, we trust banks as caretakers of our money.
+
+Satoshi Nakamoto saw this as a problem:
+
+“The root problem with conventional currency is all the trust that’s required to make it work. The central bank must be trusted not to debase the currency, but the history of fiat currencies is full of breaches of that trust. Banks must be trusted to hold our money and transfer it electronically, but they lend it out in waves of credit bubbles with barely a fraction in reserve. We have to trust them with our privacy, trust them not to let identity thieves drain our accounts.”
+
+Bitcoin instead asks people to trust an algorithm run by a decentralized network and an open-source code that anyone can review.
+
+Derivative trading, bank bailouts, the Euro Crisis, and America’s policy of quantitative easing all offer reason to distrust the institutions responsible for our money. Bitcoin offers an alternative to the traditional monetary supply. Or, if you like, a hedge against the failures or collapse of the global monetary system.
+
+2) Anonymity and Avoiding Censorship
+
+In 2010, Wikileaks publically released thousands of classified American documents. In retaliation, the American government went after its financing. They prevented banks and credit card companies from transferring donations to the organization and made PayPal freeze Wikileak’s account. Wikileaks supporters cried foul, claiming that the government used its control of the financial system to censor speech.
+
+In response, Wikileaks suggested users donate through Bitcoin, which the government lacked control over. The controversial hacker collective Anonymous has also accepted donations through Bitcoin.
+
+Bitcoin’s anonymity can also be seen as a danger. The currency has been used to buy illegal drugs from the online black market Silk Road, and commentators and government agencies have noted its potential usefulness to terrorists, money launderers, and other criminals.
+
+3) Lower Fees
+
+Although buried beneath a wave of press about its cypherpunk and libertarian aspects, Satoshi Nakamoto also saw Bitcoin as revolutionizing the world of finance by reducing fees and costs:
+
+“Commerce on the Internet has come to rely almost exclusively on financial institutions serving as trusted third parties to process electronic payments. While the system works well enough for most transactions, it still suffers from the inherent weaknesses of the trust based model. Completely non-reversible transactions are not really possible, since financial institutions cannot avoid mediating disputes. The cost of mediation increases transaction costs, limiting the minimum practical transaction size and cutting off the possibility for small casual transactions.”
+
+This is the premise of Coinbase, a Bitcoin startup that we talked with in their SOMA, San Francisco office. The founder, Brian Armstrong, previously worked at AirBnB. Co-founder Fred Ehrsam used Brian’s experience as an example for the power of Bitcoin.
+
+AirBnB is a marketplace where people can rent out their house or apartment to other people. It connects customers to renters and takes a small cut. In a frictionless world of free online money transfers, when a customer paid $100 to rent an apartment for the night, AirBnB might take a 10% cut and earn $10. But in reality, the credit card companies and payment processors charge the customer and AirBnB up to 3% in fees each.
+
+As a result, Fred explained, “Half of the profit is walking out the door in the funds transition process.” Online payments have costs arising from foreign exchange fees, chargeback risks, the massive infrastructure of inefficient credit card companies, and the inevitability of high rates in a market dominated by a few giant companies. Bitcoin has the potential to cut out and reduce many of these fees, resulting in much lower rates. “Just as the Internet allowed new companies to exist, I think lower costs will allow new industries and businesses to exist that could not otherwise due to high transaction fees,” Fred concluded.
+
+Bitcoin Makes Strange Bedfellows
+
+“A specter is haunting the modern world, the specter of crypto anarchy.” ~ The Crypto Anarchist Manifesto
+
+In 1988, Tim May, an accomplished electronic engineer at Intel, developed “The Crypto Anarchist Manifesto.” He shared it with fellow cypherpunks who formed a community over an electronic mailing list and some physical gatherings. The community saw cryptography applied to online privacy and security as a means to social, political, and economic change. May wrote:
+
+“Computer technology is on the verge of providing the ability for individuals and groups to communicate and interact with each other in a totally anonymous manner… These developments will alter completely the nature of government regulation, the ability to tax and control economic interactions, the ability to keep information secret, and will even alter the nature of trust and reputation. The technology for this revolution—and it surely will be both a social and economic revolution—has existed in theory for the past decade.”
+
+Bitcoin represented the potential realization of the cypherpunk dream. Nakamoto released it in their midst, and they nurtured it with the same intentions of Communists hurrying along the class struggle. (May realized his mirroring of the Communist Manifesto in promising an inevitable social and political upheaval, and wryly ends his manifesto with an allusion to George Orwell.)
+
+Gavin Andresen, who now works full-time on developing Bitcoin’s open-source code, gave away 10,000 bitcoins for free online. One man paid a volunteer 10,000 bitcoins to deliver him a Papa John’s pizza. A Massachusetts farmer selling alpaca socks accepted bitcoins.
+
+The first prices for Bitcoin were set in its main forum, Bitcoin Talk. The forum’s tone is passionate. There is much language of being “a believer” in Bitcoin and a sense that everyone is on the same mission of protecting the currency.
+
+In 2010, a fan of “Magic The Gathering” playing cards decided to pivot his company, which he had imagined as a marketplace for Magic cards, to become an exchange for Bitcoin. He kept the name Mt. Gox - Magic The Gathering Online eXchange - but focused on facilitating the buying and selling of bitcoins. The first coins sold for 3 cents each in April 2010. Bitcoin achieved “dollar-parity” in February of 2011, then boomed to a price of $29.57 in early June.
+
+The rising prices of bitcoins attracted the very people the cypherpunks hoped to put out of business: bankers. Before joining Coinbase, in 2011, Fred was a foreign exchange trader at Goldman Sachs. His roommate was a trader at Morgan Stanley. They began trading in bitcoins. “From a trading perspective it is still the Wild West,” Fred told us. “It moves insane amounts in percentage terms.”
+
+During the day, Fred monitored macroeconomic indicators and news from Central Banks to speculate on the movement of foreign exchanges. At night, he looked at Google Trends data on the search popularity of “bitcoin” or at the hit rate of the Bitcoin Wikipedia article to predict how the price might change and profit off its movement. “It’s a social networking problem,” he says.
+
+Speculation or Adoption?
+
+After peaking at $29.57, the price of bitcoins fell dramatically to below $5. With its recent rush of press, the price is above $100 and rising.
+
+Given the number of bankers reported to be speculating on the price, and the press describing how prices could continue to rise, the worry is that bitcoin prices purely represent speculative bubbles. Economic voices of reason from Paul Krugman to The Economist have dismissed Bitcoin as exactly that.
+
+The evidence available definitely suggests that the current Bitcoin economy is mainly speculation-based.
+
+Coinbase, which has an interesting position in that they deal with individuals buying bitcoins and merchants accepting bitcoin for retail purchases, estimates that for every 1 bitcoin used for economic transactions, roughly 3 are purchased for speculation. But that number is almost definitely skewed to downplay speculation, given that they deal with merchants more than most of the Bitcoin ecosystem.
+
+A paper looking at the record of bitcoin purchases in 2012, for example, found:
+
+“If we sum up the amounts accumulated at the 609,270 addresses which only receive and never send any BTC’s [bitcoins], we see that they contain 7,019,100 BTC’s, which are almost 78% of all existing BTC’s.”
+
+This suggests that 78% of bitcoins are being hoarded, waiting for prices to rise. Even when controlling extremely cautiously for the possibility of users who “lost” their bitcoins and other contingencies, they find that at least 51% of bitcoins have never been spent.
+
+Fred admits that “people are screaming bubble” and that he would normally be concerned given his background as a trader. But he remains confident in Bitcoin’s viability: “There are things in Bitcoin that the world hasn’t seen yet. The Internet was a complicated thing nerds played with until we got the web browser.”
+
+In Coinbase’s opinion, “the correct loops are in place.” Fred notes that people see the potential of Bitcoin (and obviously the price is rising meteorically), but merchants are also adopting it. While it’s currently early adopters like Reddit, the clear financial upside of Bitcoin for merchants will fuel adoption. In 6 months or so, he expects to see stores that people interact with regularly accepting Bitcoin. Its low fees will also allow retailers to offer discounts for using Bitcoin - the same way that many gas stations offer lower prices for using cash to avoid credit card fees. In this way, consumers will be incentivized to use Bitcoin for shopping.
+
+Fred doesn’t think that the world will abandon national currencies anytime soon. But he does expect that people in developed countries may keep 10% or so of their net worth in Bitcoin and that it is here to stay.
+
+“There is a chance Bitcoin’s price goes to $1 in a year. But it’s more likely in my opinion that it goes to $600 as an extremely low estimate.” Thousands of people seem to be taking that bet, including Coinbase’s venture capital backers.
+
+Counterculture versus Compliance
+
+Coinbase also exemplifies a problem for the cypherpunk dream - achieving mass adoption of the Bitcoin may come at the cost of Bitcoin’s cherished revolutionary characteristics.
+
+The unofficial motto of Coinbase is “Bringing Bitcoin to the masses.” Anyone with an Internet connection can use Bitcoin, but it’s difficult. Users need to download a desktop client and deal with 51 alphanumeric character passwords (or “private keys”).
+
+The irreversibility of bitcoin exchanges also comes as a danger. Anyone who loses the private keys linked to their bitcoins irreversibly loses those bitcoins. Users also need enough awareness of computer security to ensure that hackers don’t steal their private keys and irreversibly steal their money.
+
+Coinbase secures users’ wallets for them and abstracts private keys and other difficulties away from the user (both individuals and merchants) for an easy, seamless experience that, as Fred puts it, “my mother can use.” By doing so, Coinbase serves a role similar to PayPal, Western Union, or a bank. The financial advantage (less fees) of Bitcoin remains, but users are putting their trust in Coinbase to deal fairly with their money, and Coinbase complies fully with governments and financial regulation - the Bank Secrecy Act, scanning for entities deemed suspect (i.e. the banking equivalent of a terrorist watch list), customer laws… essentially every regulation the cypherpunks view as outdated and an unwanted check on a free system.
+
+Coinbase sees themselves playing an important role by meeting these high standards. Mt. Gox, the dominant player in the exchange market where people can buy bitcoins with real currency, feels similarly. They spent $25 million to become compliant in the US, stating, “We are the leader. We have a huge responsibility to do things by the books.”
+
+But the effect remains. Coinbase and Mt. Gox would comply with regulations, including investigations that demand user data. Coinbase also necessitates user trust, and would resist perceived censorship no more than PayPal did in the case of Wikileaks.
+
+As Bitcoin develops an ecosystem with non-anonymous players, people have even suggested that independent users cannot maintain anonymity.
+
+Challenges Ahead
+
+The three biggest challenges ahead for Bitcoin are overcoming the dominant position of national currencies, the question of whether its deflationary nature will make it an unsuitable currency, and surviving government regulation.
+
+1) Disrupting Dollars
+
+The biggest challenge for Bitcoin is implementing adoption. National currencies have a number of advantages. As Timothy B. Lee points out, people are used to them, countries require that taxes be paid in their national currency, and using a currency like bitcoins that only a tiny minority of the population accepts imposes substantial costs and inconvenience.
+
+As one prominent member of the Bitcoin community argues, these problems are mitigated when you abandon the assumption that bitcoins need to displace national currencies:
+
+“People need to get their head out of the sand in terms of thinking of it as a competitor to their local currencies. We no longer live in a localized economy. We live in a globalized economy and bitcoin is designed for a globalized system.”
+
+As argued above by Fred, there do seem to be sound financial reasons to use Bitcoin that have people “banging down the doors to get at them.” Further, an implosion in a Euro country like Greece or Spain, or a dramatic currency crash in an inflationary country like Zimbabwe or Argentina, could cause a major adoption of Bitcoin. Such events in the past have caused people to seek refuge in more secure currencies like dollars - why not Bitcoin?
+
+2) Deflation
+
+Under the old gold standard system, the money supply was limited by the fact that dollars were pegged to (backed up by the value of) gold. The number of bitcoins increases as they are “mined.” But they increase at a fixed and predictable rate until they reach an absolute cap of 21 million bitcoins. Therefore, the supply of Bitcoin is essentially fixed, recreating the circumstances under the gold standard.
+
+This was Satoshi Nakamoto’s intention. He envisioned a world in which inflationary Central Banks could not debase the currency by printing too much money. But this goes against mainstream economics.
+
+Paul Krugman is the dominant, tireless voice on this subject. If an economy expands but the money supply does not, deflation occurs. Money becomes more valuable with time because prices decrease relative to the value of money. This seems like a good deal, but has several harmful effects. Primarily, people prefer to sit on their (increasingly valuable) money rather than spend it and have no interest in borrowing money since they’ll have to pay it back with dollars worth more than the dollars they were lent. If this is not corrected by monetary policy “the economy may stay depressed because people expect deflation, and deflation may continue because the economy remains depressed.”
+
+It’s unclear how this would affect a complementary, global currency like Bitcoin. Fred sees this deflationary aspect as an incentive to join the Bitcoin economy. But if the incentive to hoard is too strong and prevents any purchasing from happening, then Bitcoin can’t be a very effective currency.
+
+However, a number of critics from the Ron Paul “End the Fed” crowd and the Austrian School of Economics to cypherpunks disagree with Krugman and believe that the reinstitution of the gold standard would prevent speculative bubbles and the debasement of the currency.
+
+3) Government Regulation
+
+From the very real possibility of criminals laundering money through Bitcoin to the less probable scenario of governments losing their ability to tax and control monetary policy, governments have reason to dislike Bitcoin and shut it down. Bitcoin forums are full of debate over Bitcoin’s resilience to government intervention.
+
+But as we’ve seen, at least for it to exist on a mass scale, Bitcoin probably needs the government’s approval.
+
+Last month, the US Treasury Department’s Financial Crimes Enforcement Network (FinCEN) offered guidelines on the treatment and regulation of Bitcoin businesses. Fred and Coinbase saw this as a positive development that reduced the uncertainty around Bitcoin:
+
+“The big worry in people’s minds is that there will be a draconian action by the government banning their use. But the first important data point of the government’s reaction was the FinCEN guidelines, and to me they’re a huge positive. They are saying that we need to be held to the same standards.”
+
+Like other major players, he sees some confusion in the guidelines, but otherwise finds it positive. What is notable is that even among players such as the Bitcoin Foundation, which takes umbrage with the guidelines, they are disagreeing with the substance of the guidelines, not their existence. Only the cypherpunk zealots reject government regulation entirely.
+
+Fred also noted that as more merchants and consumers adopt Bitcoin and profit from it, they would lobby against government infringement on the Bitcoin economy. Financially motivated political lobbying is perhaps not what the cypherpunks had in mind, but it could be what keeps a matured Bitcoin economy flowing smoothly.
+
+Conclusion
+
+Digital currency is coming, even if in a less revolutionary form than Bitcoin’s decentralized, algorithm-based variety.
+
+The Bitcoin ecosystem is dominated by speculation and hoarding, and it remains to be seen whether it can transition to a currency that people use in everyday life. If it does go mainstream, it will likely lose its most revolutionary aspects that the cypherpunk scene idealizes. But it can still act as a hedge against the global monetary system, if not replace it, and its potential implications are about as easy to predict as the effect of the Internet during the days of ARPANET. If nothing else, Bitcoin makes for one hell of a story and an interesting test case for the implications of digital currencies in the future.
+
+In ten years, Bitcoin may be spreading exponentially. Or we may look back at Bitcoin as a joke. The fact that no one knows which it will be is as good a sign as any that it could change the world.
+
+This post was written by Alex Mayyasi. Follow him on Twitter or Google Plus.

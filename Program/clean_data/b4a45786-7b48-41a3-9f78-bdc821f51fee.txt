@@ -1,0 +1,97 @@
+Companies need to increase revenues, lower costs, and delight customers. Doing that requires reinventing the operating model.
+
+Companies know where they want to go. They want to be more agile, quicker to react, and more effective. They want to deliver great customer experiences, take advantage of new technologies to cut costs, improve quality and transparency, and build value.
+
+The problem is that while most companies are trying to get better, the results tend to fall short: one-off initiatives in separate units that don’t have a big enterprise-wide impact; adoption of the improvement method of the day, which almost invariably yields disappointing results; and programs that provide temporary gains but aren’t sustainable.
+
+Stay current on your favorite topics Subscribe
+
+We have found that for companies to build value and provide compelling customer experiences at lower cost, they need to commit to a next-generation operating model. This operating model is a new way of running the organization that combines digital technologies and operations capabilities in an integrated, well-sequenced way to achieve step-change improvements in revenue, customer experience, and cost.
+
+A simple way to visualize this operating model is to think of it as having two parts, each requiring companies to adopt major changes in the way they work:
+
+The first part involves a shift from running uncoordinated efforts within siloes to launching an integrated operational-improvement program organized around customer journeys (the set of interactions a customer has with a company when making a purchase or receiving services) as well as the internal journeys (end-to-end processes inside the company). Examples of customer journeys include a homeowner filing an insurance claim, a cable-TV subscriber signing up for a premium channel, or a shopper looking to buy a gift online. Examples of internal-process journeys include Order-to-Cash or Record-to-Report.
+
+The second part is a shift from using individual technologies, operations capabilities, and approaches in a piecemeal manner inside siloes to applying them to journeys in combination and in the right sequence to achieve compound impact.
+
+Let’s look at each element of the model and the necessary shifts in more detail:
+
+Shift #1: From running uncoordinated efforts within siloes to launching an integrated operational-improvement program organized around journeys
+
+Many organizations have multiple independent initiatives underway to improve performance, usually housed within separate organizational groups (e.g. front and back office). This can make it easier to deliver incremental gains within individual units, but the overall impact is most often underwhelming and hard to sustain. Tangible benefits to customers—in the form of faster turnaround or better service—can get lost due to hand-offs between units. These become black holes in the process, often involving multiple back-and-forth steps and long lag times. As a result, it’s common to see individual functions reporting that they’ve achieved notable operational improvements, but customer satisfaction and overall costs remain unchanged.
+
+Would you like to learn more about our Digital McKinsey Practice
+
+Instead of working on separate initiatives inside organizational units, companies have to think holistically about how their operations can contribute to delivering a distinctive customer experience. The best way to do this is to focus on customer journeys and the internal processes that support them. These naturally cut across organizational siloes—for example, you need marketing, operations, credit, and IT to support a customer opening a bank account. Journeys—both customer-facing and end-to-end internal processes—are therefore the preferred organizing principle.
+
+Transitioning to the next-generation operating model starts with classifying and mapping key journeys. At a bank, for example, customer-facing journeys can typically be divided into seven categories: signing up for a new account; setting up the account and getting it running; adding a new product or account; using the account; receiving and managing statements; making changes to accounts; and resolving problems. Journeys can vary by product/service line and customer segment. In our experience, targeting about 15–20 top journeys can unlock the most value in the shortest possible time.
+
+We often find that companies fall into the trap of simply trying to improve existing processes. Instead, they should focus on entirely reimagining the customer experience, which often reveals opportunities to simplify and streamline journeys and processes that unlock massive value. Concepts from behavioral economics can inform the redesign process in ingenious ways. Examples include astute use of default settings on forms, limiting choice to keep customers from feeling overwhelmed, and paying special attention to the final touchpoint in a series, since that’s the one that will be remembered the most.
+
+In 2014, a major European bank announced a multiyear plan to revamp its operating model to improve customer satisfaction and reduce overall costs by up to 35 percent. The bank targeted the ten most important journeys, including the mortgage process, onboarding of new business and personal customers, and retirement planning. Eighteen months in, operating costs are lower, the number of online customers is up nearly 20 percent, and the number using its mobile app has risen more than 50 percent. (For more on reinventing customer journeys, see “Putting customer experience at the heart of next-generation operating models,” forthcoming on McKinsey.com.)
+
+Shift #2: From applying individual approaches or capabilities in a piecemeal manner to adopting multiple levers in sequence to achieve compound impact
+
+Organizations typically use five key capabilities or approaches (we’ll call them “levers” from now on) to improve operations that underlie journeys (Exhibit 1):
+
+Exhibit 1
+
+Digitization is the process of using tools and technology to improve journeys. Digital tools have the capacity to transform customer-facing journeys in powerful ways, often by creating the potential for self-service. Digital can also reshape time-consuming transactional and manual tasks that are part of internal journeys, especially when multiple systems are involved.
+
+Advanced analytics is the autonomous processing of data using sophisticated tools to discover insights and make recommendations. It provides intelligence to improve decision making and can especially enhance journeys where nonlinear thinking is required. For example, insurers with the right data and capabilities in place are massively accelerating processes in areas such as smart claims triage, fraud management, and pricing.
+
+Intelligent process automation (IPA) is an emerging set of new technologies that combines fundamental process redesign with robotic process automation and machine learning. IPA can replace human effort in processes that involve aggregating data from multiple systems or taking a piece of information from a written document and entering it as a standardized data input. There are also automation approaches that can take on higher-level tasks. Examples include smart workflows (to track the status of the end-to-end process in real time, manage handoffs between different groups, and provide statistical data on bottlenecks), machine learning (to make predictions on their own based on inputs and provide insights on recognized patterns), and cognitive agents (technologies that combine machine learning and natural-language generation to build a virtual workforce capable of executing more sophisticated tasks). To learn more about this, see “Intelligent Process Automation: The engine at the core of the next generation operating model.”
+
+Business process outsourcing (BPO) uses resources outside of the main business to complete specific tasks or functions. It often uses labor arbitrage to improve cost efficiency. This approach typically works best for processes that are manual, are not primarily customer facing, and do not influence or reflect key strategic choices or value propositions. The most common example is back-office processing of documents and correspondence.
+
+Lean process redesign helps companies streamline processes, eliminate waste, and foster a culture of continuous improvement. This versatile methodology applies well to short-cycle as well as long-cycle processes, transactional as well as judgment-based processes, client-facing as well as internal processes.
+
+Guidelines for implementing these levers
+
+In considering which levers to use and how to apply them, it’s important to think in a holistic way, keeping the entire journey in mind. Three design guidelines are crucial:
+
+1. Organizations need to ensure that each lever is used to maximum effect. Many companies believe they’re applying the capabilities to the fullest, but they’re actually not getting as much out of them as they could. Some companies, for example, apply a few predictive models and think they’re really pushing the envelope with analytics—but in fact, they’re only capturing a small fraction of the potential value. This often breeds a false complacency, insulating the organizations from the learnings that would otherwise drive them to higher performance because it is “already under way” or “has been tried”. Having something already under way is a truism: everyone has something under way in these kinds of domains, but it is the companies that press to the limit that reap the rewards. Executives need to be vigilant, challenge their people, and resist the easy answer.
+
+Speed and scale: Unlocking digital value in customer journeys Read the article
+
+In the case of analytics, for example, maxing out the potential requires using sophisticated modeling techniques and data sources in a concerted, cross-functional effort, while also ensuring that front-line employees then execute in a top-flight way on the insights generated by the models.
+
+2. Implementing each lever in the right sequence. There is no universal recipe on sequencing these levers because so many variables are involved, such as an organization’s legacy state and the existing interconnections between customer-facing and internal processes. However, the best results come when the levers can build on each other. That means, in practice, figuring out which one depends on the successful implementation of another.
+
+Systematic analysis is necessary to guide decision making. Some institutions have started by outlining an in-house versus outsource strategy rooted in a fundamental question: “What is core to our value proposition?” Key considerations include whether the activities involved are strategic or confer competitive advantage or whether sensitive data or regulatory constraints are present.
+
+The next step is to use a structured set of questions to evaluate how much opportunity there is to apply each of the remaining levers and then to estimate the potential impact of each lever on costs and customer experience. This exercise results in each lever being assigned an overall score to help develop a preliminary point of view on which sequence to use in implementing the levers.
+
+There’s also a need to vet the envisioned sequences in the context of the overall enterprise. For example, even if the optimal sequence for a particular customer journey may be “IPA then lean then digital,” if the company’s strategic aspiration is to become “digital first,” it may make more sense to digitize processes first.
+
+This systematic approach allows executives to consider various sequencing scenarios, evaluate the implications of each, and make decisions that benefit the entire business.
+
+3. Finally, the levers should interact with each other to provide a multiplier effect. For example, one bank only saw significant impact from its lean and digitization efforts in the mortgage application journey after both efforts were working in tandem. A lean initiative for branch offices included a new scorecard that measured customer adoption of online banking, forums for associates to problem solve how to overcome roadblocks to adoption, and scripts they could use with customers to encourage them to begin mortgage applications online. This, in turn, drove up usage of online banking solutions. Software developers were then able to incorporate feedback from branch associates, which made future digital releases easier to use for customers. This in turn drove increased adoption of digital banking, thereby reducing the number of transactions done in branches.
+
+Some companies have developed end-to-end journey “heat maps” that provide a company-wide perspective on the potential impact and scale of opportunity of each lever on each journey (Exhibit 2). These maps include estimates for each journey of how much costs can be reduced (measured in terms of both head count and financial metrics) and how much the customer experience can be improved.
+
+Exhibit 2
+
+Companies find heat maps a valuable way to engage the leadership team in strategic discussions about which approaches and capabilities to use and how to prioritize them.
+
+Case example: The ‘first notice of loss’ journey in insurance
+
+In insurance, a key journey is when a customer files a claim, known in the industry as first notice of loss (FNOL). FNOL is particularly challenging for insurers because they must balance multiple objectives at the same time: providing a user-friendly experience (for example, by offering web or mobile interfaces that enable self-service), managing expectations in real time through alerts or updates, and creating an emotional connection with customers who are going through a potentially traumatic situation—all while collecting the most accurate information possible and keeping costs in line.
+
+Many companies have relied on Lean to improve FNOL call-center performance. One leading North American insurer, however, discovered it could unlock even more value by sequencing the buildout of three additional capabilities, based on the progress it had already made with Lean:
+
+Digitization. This company improved response times by using digital technologies to access third-party data sources and connect with mobile devices. With these new tools, the insurer can now track claimant locations and automatically dispatch emergency services. Customers can also upload pictures of damages, and both file and track claims online. The insurer also allows some customers to complete the entire claims process without a single interaction with a company representative.
+
+Advanced analytics. Digitization of the FNOL journey provided the insurer with more and better data faster, which in turn allowed its analytics initiative to be more effective. Now able to apply the latest modeling capabilities to better data, the company is using advanced analytics to improve decision making in the FNOL journey. For example, intelligent triage is used to close simple claims more quickly, and smart segmentation identifies claims likely to be total losses and those liable to require the special investigative unit (SIU) far earlier than before. Analytics are even being used to predict future staffing needs and inform scheduling and hiring, thereby allowing both complex and simple claims to be handled more efficiently.
+
+Intelligent process automation (IPA). Once digital and analytics were in place, IPA was implemented. Automation tools were deployed to take over manual and time-consuming tasks formerly done by customer-service agents, such as looking up policy numbers or data from driving records. In addition to reducing costs, IPA sped up the process and reduced errors. IPA came last because the streamlining achieved by digitization and more effective use of analytics had eliminated some manual processes, so the IPA effort could focus only on those that remained.
+
+By combining four levers—lean plus digital, analytics and IPA—this insurer drove a significant uplift in customer satisfaction while at the same time improving efficiency by 40 percent. (For more approaches to improving claims, see “Next-generation claims operating model: From evolution to revolution,” forthcoming on McKinsey.com.)
+
+Bringing it all together: Avoid creating new silos by thinking holistically
+
+Senior leaders have a crucial role in making this all happen. They must first convince their peers that the next-generation operating model can break through organizational inertia and trigger step-change improvements. With broad buy-in, the CEO or senior executive should align the business on a few key journeys to tackle first. These can serve as beacons to demonstrate the model’s potential. After that comes evaluation of the company’s capabilities to determine which levers can be implemented using internal resources and which will require bringing in resources from outside. Finally, there is the work of actually implementing the model. (For more on the last topic, see “How to build out your next-generation operating model,” forthcoming on McKinsey.com.)
+
+Transformation cannot be a siloed effort. The full impact of the next-generation operating model comes from combining operational-improvement efforts around customer-facing and internal journeys with the integrated use of approaches and capabilities.
+
+Stay current on your favorite topics Subscribe

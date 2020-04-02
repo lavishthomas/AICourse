@@ -1,0 +1,43 @@
+It is my impression that, even among mathematicians, mathematical logicians are a bit weird. Kurt Gödel was no exception.
+
+Gödel is famous for proving foundational questions about mathematics. He asked questions like, “Can I prove that math is consistent?” and, “If I have a true statement, can I prove that it’s true?” and, “Can I prove that it’s impossible to prove the statement ‘This statement is unprovable’ is provable?”
+
+Yeah, not exactly the most obvious questions to ask, but important ones, I promise.
+
+Gödel was born in 1906 in what is now Brno, Czech Republic, but was then in Austria-Hungary. His family called him Herr Warum (“Mr. Why”), which is impressive given how fond children everywhere are of that question.
+
+By the time he went to the University of Vienna at 18, he had already mastered university-level math. During this time, he came across Russell’s work on the foundations of mathematics, and met Hilbert, who, around that time, was thinking deeply about axioms and logical systems, and whether it could be shown they had no contradictions, and whether all true statements could be proven.
+
+By 23, Gödel finished his PhD in mathematical logic. Two years later, he published his seminal work on his incompleteness theorems. These papers have the answers to the questions I introduced, but I want to finish talking about Gödel. We’ll discuss the details next time.
+
+Two years after that, in 1933, Gödel became a lecturer at the University of Vienna. He also traveled to the US, where he met Einstein, who became his good friend.
+
+During this time, Hitler came to power in Germany. A few years later, the professor who had originally interested Gödel in logic was assassinated by one of his former students, essentially because he was friends with Jews. This caused a “nervous crisis” in Gödel. He became paranoid, fearing that he would be poisoned. These symptoms continued later in his life.
+
+In 1938, Nazi Germany annexed Austria. Gödel’s job title was eliminated, so he had to apply to a new job. However, since he had been friends with Jews, they turned him down.
+
+Things got worse the next year. Germany found him fit for conscription, and World War II began. Within the year, Gödel left for Princeton, at the Institute of Advanced Study, where Einstein was.
+
+And, being Gödel, he decided that an Atlantic crossing was too much. So he took the obviously less strenuous route of a train ride across Russia to Japan, a boat ride across the Pacific, then another train ride to Princeton, New Jersey.
+
+He was very productive during his time in Princeton, proving some other results about the foundations of mathematics.
+
+In 1947, Einstein took Gödel to his US citizenship exam. Gödel, being a constant logician, told Einstein he had discovered an inconsistency in the US constitution that could allow the US to become a dictatorship. Einstein was concerned… not about the possibility of a dictatorship, but that Gödel’s eccentric behavior might endanger his citizenship application.
+
+Einstein was right to fear.
+
+During Gödel’s hearing, the judge asked what kind of government they had in Austria. Gödel replied that it was a republic, but that the constitution was such that it was changed into a dictatorship. The judge expressed his regret, then said that this could not happen in this country.
+
+Gödel replied, “Oh, yes, I can prove it.”
+
+Fortunately, the judge was an acquaintance of Einstein’s, and said, “Oh God, let’s not go into this.”
+
+Anyway, Gödel kept on working. Among other things, for Einstein’s 70th birthday, Gödel created a spacetime which… breaks general relativity. Well, at least, it has all sorts of things go wrong. For instance, there are “closed timelike loops” through every point of spacetime, meaning that anyone and everyone can time travel. He also expanded Leibniz’s “proof” of God’s existence.
+
+Later in his life, his paranoia recurred. He had an overwhelming fear of being poisoned, and would only eat food that his wife prepared for him. When she was hospitalized for 6 months, he refused to eat, eventually starving to death. At the time of his death, he weighed only 30 kilos.
+
+In the next post, we’ll get to talk about Gödel’s completeness and incompleteness theorems, and come face to face with the inherent limitations of mathematics!
+
+(For those of you who enjoyed this, you might also enjoy my articles on Georg Cantor and Karl Schwarzschild!)
+
+Advertisements

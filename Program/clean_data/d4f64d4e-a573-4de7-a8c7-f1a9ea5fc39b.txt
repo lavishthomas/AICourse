@@ -1,0 +1,66 @@
+DIY isn’t always the easiest way to do something, but it’s usually the most informative and educational one. This week, let’s check out some great DIY tech projects that’ll teach you a ton about the tools you probably use every day—and protect your privacy and give you control over your own data in the process.
+
+10. Build Your Own DIY Amazon Echo
+
+It may not be the most cost-effective option, but building your own Amazon Echo using a Raspberry Pi will not only teach you a lot about how the Echo works, but also how the Raspberry Pi works, and how you can unlock even a part of its overall potential.
+
+We’ve shown you how to do it before, and even shared Amazon’s official guide for doing so, and how to set a wake word for it. The beauty of this project though is that unlike an Echo, which you can buy and just let it work, you make use of a Pi, which can then be repurposed and reused for whatever you want in addition to being an Echo. The whole project is something you can do in an afternoon, and you’ll learn a lot in the process.
+
+9. Add Wi-Fi to Your DSLR Camera
+
+If you have a DSLR, or even a mirrorless camera, you probably love using it but have to remember to transfer the photos or video from your SD card to your computer manually for processing or sharing. You can cut out the middleman by giving your DSLR a Wi-Fi upgrade. All you need is the right SD card and a little setup time.
+
+Even if that model isn’t right for you, there are plenty of others in the guide that work just as well, and in the process will teach you a good bit about backing up your photos and streamlining the editing process while you make sure you never miss a shot. Alternatively, you can always pair your camera with your smartphone instead, both on iOS and over on Android.
+
+8. Build Your Own Private, Syncing Cloud Storage Service
+
+Dropbox is simple and easy, and everyone has an account, but whether you prefer to have complete control over your own data at all times, or you just want to understand how cloud services like Dropbox work, it’s not hard to roll your own Dropbox clone. If you have a web host, you could do it there, or you could roll your own with a Raspberry Pi and learn about the apps that make file sharing possible and about the Pi in one fell swoop.
+
+You’ll just need to expand your knowledge of networking and file sharing a bit, and try out a couple of apps to help get the job done. You could also use Resilio (formerly BitTorrent Sync) to do the job too, and there are tons of other options. The important thing is that you’ll learn a lot in the process, do your own thing, and protect your own data.
+
+
+
+7. Roll Your Own Image Hosting Service
+
+Services like Google Photos and even Facebook are certainly the most popular places to host your images, but like everything else, they put your precious memories beyond your true control, and put you at the mercy of someone else’s terms of service, privacy policy, and so on. So consider rolling your own! We have a bunch of great tools to help you do it, including the Gallery Project, JAlbum, and more—assuming you want to still be able to share those photos on the web when you want.
+
+If you’d rather control your own galleries and keep them organized on your own, you could always auto-sync with the app or tool of your choice and then manage locally only, but keeping a solid backup offside is a good idea just in case you lose your own data. Even if that backup is something you also own, set up yourself, and own personally.
+
+6. Build Your Own Streaming Dash Cam
+
+Dash cameras aren’t the near-necessities here in North America as they may be in other countries, but they’re fun to watch and can capture some amazing moments. Best of all, they’re not difficult to make on your own, and you can learn a ton about electronics, mobile recording, and more in the process. You could just grab an old smartphone you’ve upgraded from to do the job.
+
+If you’re willing to put a Raspberry Pi to good use, grab one of those and give your dash cam live streaming capabilities. Then, when you’re ready, you could make your setup even more elaborate with a pair of cameras, GPS capabilities, and even status LEDs. Start small and work your way up.
+
+5. Roll Your Own Home Theater PC
+
+Building your own home theater PC is one of the ultimate tech projects you can tackle. You combine an understanding of software, storage, online and streaming media, downloadable music and movies, and the sources for all of that stuff right along with the nuts and bolts of building a system that’ll fit in your living room or connect to your TV and serve it all up when you want to sit down and watch TV.
+
+Sure, HTPCs have fallen by the wayside now that tiny, cheap set-top boxes are available, but for the ultimate in control—and learning everything you could possibly want to know about your media collection, home network, and PC gear, there’s nothing like doing it yourself. We have a ton of guides on how to do it, including our recommended (if not dated) setup, and some tips to help you even after you’re all set up. This just all reminds me we should update our own HTPC recommendations, and do it ourselves, too.
+
+4. Roll Your Own VPN
+
+We talk a lot about how valuable a good VPN is, and how you can find a trustworthy one that actually meets all of your needs—but sometimes the best option is the DIY option. In this case, you’ll still need to trust your ISP, but no more than you do now, since you’ll run your VPN from home, connect to it when you’re out and about, and hide your surfing from prying eyes wherever you go.
+
+If you have an old Mac, it’s super easy to do with macOS Server, and if you have a Raspberry Pi, you can use one of those too. You can even combine your Pi VPN with Tor for added anonymity with your security. If you have neither, grab an old PC or laptop and try Amahi, it’ll get the job done too.
+
+3. Build A Fully-Functional Arcade Table or Cabinet
+
+If you’re interested in learning not just a lot about tech, but about carpentry and DIY woodworking, an arcade cabinet is your best bet. We have a couple of starter guides on how to make one out of your coffee table, and some tips to inspire you to tackle it, but if you don’t want yours in the center of the living room, this IKEA hack will get you a good-looking one off on the side of your office or game room., and this one is even two-player.
+
+As always, if that’s not your style, you can always turn an old PC into your personal arcade, even if you don’t stand it up in your own cabinet or anything. As always, if you have a Raspberry Pi, it’s perfect for that too. Just make sure you pick the right software for your needs, and you’ll have fun making it, and then even more fun playing it.
+
+2. Host Your Own RSS Feed Reader
+
+Feedly is great, don’t get us wrong, but many of us still lament the death of the simple, elegant, just-right-feature-wise Google Reader. For those folks, there’s no getting around it: You just have to do it yourself to have the kind of control you want.
+
+Of course, we showed you how to roll your own using Tiny Tiny RSS, and it even has a mobile app so you can read on the go. It’s not alone though, and you’ll learn a lot about how the web works and keep up with your favorite blogs (like this one!) if you try it out.
+
+1. Build Your Own Computer
+
+There’s nothing like building your own PC to teach you not just about how computers work, but also how to troubleshoot your own computer problems and be self-sufficient if you have issues.
+
+You’ll learn all about the internals of your PC by building your own rig, and if you’re a gamer or video producer or YouTuber, or audio enthusiast, you can customize your computer to suit your needs specifically. It’s way better than buying off the shelf—and depending on your needs, may even be more cost-effective too. Stick close to our PC build guides (we’re updating them right now), and keep these first-timer tips in mind to make the most of the experience.
+
+Illustration by Angelica Alzona. Additional photos by Shinichi Haramizu and ayaita.
+

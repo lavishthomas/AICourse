@@ -1,0 +1,53 @@
+Students now arriving for fall semester may find course catalogs that they can instantly sort and re-sort according to every imaginable search criteria. Scheduling programs that allow someone to find the 47 different classes that meet Thursdays at 8:30 p.m., then narrow them down to those that have no prerequisites, then narrow again to those that count toward requirements in two majors. Or apps that allow you to see what courses your friends are considering, or figure out who has the same free periods that you do, or plot the quickest route between two far-flung classrooms.
+
+But this culture of innovation has accelerated debates about the flow of information on campus, and forced colleges to reckon with some unexpected results of the programming skills they are imparting.
+
+Photo
+
+Last year 19 students at Baruch College in Manhattan used a computer script to check for openings in crowded courses — at such high frequency that they nearly took down not just Baruch’s computer system but also that of the entire City University of New York. That earned them a stern talking-to. On the other hand, the scheduling app that two University of California, Berkeley, students devised worked so well that administrators decided to adapt it for official use.
+
+These encounters have proved to be educational, though not always in the way the colleges intend.
+
+“What I really learned,” Mr. Kagan said of his negotiations with Brown, “is how hard it is to get the data you need out of these old legacy school information systems.”
+
+To some extent, the tension reflects a basic difference in worldview.
+
+“Students are always more entrepreneurial and understand needs better than bureaucracies can,” said Harry R. Lewis, the director of undergraduate studies for Harvard’s computer science department, “since bureaucracies tend to have messages they want to spin, and priorities they have to set, and students just want stuff that is useful. I know this well, since students were talking to me about moving the Harvard face books online seven years before Zuckerberg just went and did it without asking permission.”
+
+Zach Hall saw that up close when, as a student at Furman University, he developed a course-selection website that included a wide array of useful functions. “Classget.com beat the socks off the course listings that the university was putting out there,” recalled Brad Barron, the registrar at the South Carolina institution. But, worried that it might harm the university’s computer system, Mr. Hall recalled, “the I.T. department kind of freaked out.”
+
+Eventually, however, they proposed a compromise: Internet technology officials would make it easier for him to get the data he required if he would remove the links to rate-your-professor sites (which never go over well with the professors being rated). He took the deal.
+
+Advertisement Continue reading the main story
+
+To help their fellow student-developers, 10 students and newly graduated seniors from colleges around the country converged on a lodge at Lake Tahoe last summer for what they called a Campus Data Summit. They have since published a guidebook for dealing with recalcitrant university administrations, including advice like “be proactive about their fears,” “make friends with faculty” and, perhaps most crucially, ask for “forgiveness, not permission.”
+
+Amy Quispe, a summit-meeting organizer who was finishing her studies at Carnegie Mellon University, said struggles over campus data were so bad in some cases that “in a lot of ways students’ creativity was being stifled.”
+
+Campus software developers say they see evidence that some colleges are becoming more comfortable with these collaborations, though as with any learning process, the path is not always a straight one.
+
+Photo
+
+Alex Sydell and William Li collaborated on a website, Ninja Courses, that made it easy for fellow students at Berkeley, and later at four more U.C. campuses, to compare every aspect of different courses as they built their schedule for the semester. Berkeley saw the website’s value and went so far as to pay them for their innovation. (“For students, the offer they gave us was very generous,” is all Mr. Li will say about the amount.)
+
+But when their point person moved onto another job, Mr. Sydell says, they got a cease-and-desist letter accusing them, among other things, of violating U.C. copyrights by using the colleges’ names.
+
+Those concerns appear to have been assuaged; Ninja Courses now has over 50,000 registered users.
+
+Yale University, which initially shut down a website that the twin brothers Harry Yu and Peter Xu built to make the course catalog easier to navigate, later admitted that it did not really understand the processes it was trying to regulate. “Questions of who owns data are evolving before our very eyes,” Mary Miller, the dean of Yale College, said at the time. “What we now see is that we need to review our policies and practices.”
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+Some universities are bringing student software developers directly into the fold. Stanford administrators liked Kevin Conley’s idea for an app with information about the campus bus service, so they gave him a job building it. It is now available free at the iTunes app store.
+
+At Brown, where Mr. Kagan had trouble getting enrollment figures, Ravi Pendse, the university’s new chief information officer, said that when it came to sharing data, schools “tend to be risk averse, and with good reason” — starting with laws that require them to protect students’ privacy. “The easiest answer is to say no.”
+
+He has taken a different approach, however, starting what he calls “a student software hub for collaboration and innovation,” designed to support students with ideas about how to connect campus information systems. “I wish Jonah Kagan would come back, and we’ll work with him,” he said.
+
+Advertisement Continue reading the main story
+
+Many campus developers say the next frontier is for more colleges to get comfortable releasing their information not case by case, but in uniform formats known as A.P.I.s (for application programming interfaces). That would make it possible, they say, to create tools that work at Florida State University as well as they do at Alaska Bible College. Students at disparate schools could spend time building on one another’s efforts instead of just replicating them.
+
+“It turns out if you give students that power they’ll do some pretty great things with it.” said Alexey Komissarouk, who started a student group called PennApps while at the University of Pennsylvania.
+
+It has done some pretty great things for the students, too. Ms. Quispe now works at Google. Mr. Kagan works at Clever, an educational start-up that assembles student data from K-12 schools around the country. Mr. Li is still running Ninja Courses. And Mr. Sydell works at DropBox. He said he could not be sure how much Ninja Courses helped him get the job, but added, “I’d guess that it scored some bonus points.”

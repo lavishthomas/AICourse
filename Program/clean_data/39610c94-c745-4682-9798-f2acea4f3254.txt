@@ -1,0 +1,67 @@
+Link building plays a critical role in SEO today, but despite its importance, many people still approach this component haphazardly. They enthusiastically jump in with both feet, but without a structured process, they fail to achieve the results they could.
+
+In the past, I’ve taken both approaches: I’ve run some link-building campaigns with little to no structure, and I’ve run others with enough structure to make German engineers weep with joy.
+
+I can tell you from firsthand experience that the latter results in a more efficient campaign every single time. Meanwhile, that efficiency leads to better results for your clients and higher profit margins for you. So today, I’m going to share five steps you can use to make your link-building campaigns more efficient.
+
+Start with a plan
+
+I once had a client who, despite having the best of intentions, reminded me of a squirrel who had just guzzled a double espresso. Each time we would develop a detailed marketing plan working toward his goals, he would tell us how much he loved everything, sign off on it, and then within a few weeks, decide that he wanted to focus on some new shiny goal. As you might imagine, this absolutely killed his progress.
+
+Fortunately, he recently stepped down, and the new CEO bases his marketing programs on a plan rather than a whim.
+
+Planning is not a luxury. It’s a necessity that keeps you on track, improves performance and helps you reach your goals more quickly and efficiently because it reduces wasted time and energy.
+
+Think of it in the context of travel. How efficient do you think you would be if you just hopped in your car and started driving with no route in mind, no GPS or map, and only a destination with no plan on how to get there? It’s pretty safe to assume that it would not be an efficient trip, and that’s if you even made it to your destination at all!
+
+You need to develop a detailed link-building plan to maximize your results. It’s not just a numbers game, so by determining exactly what you want to accomplish and outlining the steps necessary to do so, you’ll achieve far greater results, and you’ll do so more quickly.
+
+Focus on a tighter niche
+
+Most SEO professionals today understand the importance of relevance in their link-building campaigns, and I would take this approach a step further. Rather than going after any and every link that is relevant to your content, you should further refine your strategy to go after links from a smaller niche within that pool of relevant websites. That may sound limiting, but hear me out.
+
+Let’s say you’re building links for an architectural firm. Obviously, links from home builders, commercial contractors and engineers would all be relevant, but they would each link to an architectural firm for their own particular reasons — so the content you would need to create to earn those links would be different in each case. Having to create all of these distinct types of content is relatively inefficient.
+
+On the other hand, if you create some amazing content that appeals to home builders, and then systematically conduct outreach targeting that type of site, your workflow will be both more efficient and more productive. You’ll also likely develop contacts who know each other, which come into play later.
+
+Speaking of workflow…
+
+Follow a process
+
+Jumping from activity to activity is a recipe for disaster because it reduces efficiency and makes it more difficult to measure and reproduce results. That’s why an assembly line is so much more efficient than one person building something from start to finish.
+
+When my team builds links, we follow a well-documented process that starts with thorough planning. We will first identify a strategic goal, and then determine what topics we need to rank for to achieve that goal.
+
+From there, we start planning our topics for the next four to 12 months, including core pages as well as blog posts. Next, we identify the ideal websites we want to earn links from and compile their information. Finally, we conduct outreach, build relationships and follow up until we’ve earned those links for our client.
+
+Following a documented process not only helps us produce better results for our clients more quickly, it also helps us to scale our agency more effectively because we can bring new employees on board and get them productive faster.
+
+Document your campaigns
+
+Documenting the work you put into your link-building campaigns makes it easier for teams to effectively work together because everyone has real-time access to tasks and their statuses, any necessary files and a log of all communications, both internal and external. Even if you work alone, this is still a valuable step because it helps you to consistently reproduce results.
+
+We use a project management system called Teamwork and a customer relationship management (CRM) system called Hubspot to do this, and when integrated with Gmail, we can log literally every single email we send without any extra effort. We also use Boomerang for Gmail to automatically remind our team to follow up if we don’t receive a reply within a specified time frame. (Of course, there are many project management and CRM tools available, and you should invest some time evaluating which work best for your needs, situation and workflow. What is best for my team might not be best for you.)
+
+One of the most powerful features of using a CRM to document your link-building efforts is that you can assign contacts to specific campaigns and even apply tags so that you can categorize, track and report on your efforts.
+
+This means that if I need a list of people with whom we have an existing relationship (because they have linked to our clients before), I can quickly and easily pull a list and connect. We’re far more likely to earn a link from one of these people than we would with a cold email to a stranger, so this can be a huge productivity booster.
+
+These tools aren’t solely effective for existing relationships, though. The vast majority of your initial cold emails will be ignored or declined, but a CRM allows you to set reminders to follow up with link prospects. That way, over time, you can develop and nurture a relationship that makes it easier to eventually earn links from them in the future.
+
+There is both art and science to doing this well, which is covered in a piece on Marketing Land called How to get your content amplified by influencers.
+
+And once you’ve built those relationships…
+
+Leverage your contacts
+
+We’ve already talked about how you can use your CRM to repeatedly go back to the well for new links from existing contacts, but there’s another opportunity that few people take advantage of, and that is to leverage those contacts to earn introductions to new contacts.
+
+We start by first running a crawler, like Screaming Frog, on their website to identify outbound links, and then sort the resulting data to identify potential link opportunities. From there, it’s a simple matter of asking your contact for an introduction via email. You might try something like this:
+
+“Hey Alex, I wanted to ask a quick favor. I noticed you have a link to xyz.com — do you know someone over there? If so, could you introduce me to them? Since we cover similar topics, I think we would be good contacts for each other.”
+
+It’s important to point out that this approach will only be effective if you’ve previously been in dialogue with a contact. Ideally, someone who already owes you a favor. This is another situation where the tactics outlined in the “how to get your content amplified by influencers” article come into play, because you’ll achieve far better results if you build a relationship with someone and do them a favor first — before you need something from them.
+
+After an introduction has been made, you can pitch the content you want them to link to. After nurturing the relationship, you can also use this same approach to meet that new person’s contacts.
+
+Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.

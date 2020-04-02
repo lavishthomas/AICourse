@@ -1,0 +1,9 @@
+Mac: System monitors are one of those brands of apps that are nice to keep around, but most of us don’t feel like paying for one. If you don’t mind a bit of simplicity, MONIT is a free, open source system monitor that lives in your Notification Center.
+
+
+
+MONIT is a Notification Center widget based on the much more complex system monitor, Monit. With it, you can get a glimpse at some basic performance data on your Mac, including your CPU, memory, disk, network info, and battery usage levels. When you click on one of the options, you’ll get a drop-down with more info. It’s not quite as customizable or complex as our pick for the best system monitor, Monity, but as a free solution, it should do the trick for most people.
+
+
+
+MONIT (Free) | Mac App Store via Hacker News

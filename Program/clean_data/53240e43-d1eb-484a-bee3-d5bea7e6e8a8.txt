@@ -1,0 +1,47 @@
+We all know the story. A team creates a groundbreaking new innovation only to see it mired in internal debates. When it is eventually launched in the market, there is an initial flurry of sales to early adopters, but then sales cycles become sluggish. Pilot customers are enthusiastic, but broader adoption is slow even with customer support and training. All the pieces are in place to create “disruptive innovation” and to “cross the chasm,” but the results are disappointing. What’s missing?
+
+The problem is that data, information, and value propositions are not enough to sell innovative products. We all know the saying, “I’ll believe it when I see it.” But when it comes to innovation, the truth is often “I’ll see it when I believe it.” To sell your idea to executives, buyers, and users, you have to change not only what they think, but how they think. Without the right mental model, they won’t see the problem, understand the benefits, or make the change.
+
+Mental models are how the brain makes sense of the vast amount of information to be processed every moment of every day. They are the lens through which we see the world. The filter that separates the signal from noise. The framework for attributing cause and effect. The “sorting hat” to decide what makes it into our conscious awareness.
+
+To understand the power of mental models, consider Dr. Ignaz Semmelweis, a physician working in Vienna in the 1840s. He observed that the death rate for puerperal fever fell tenfold when doctors washed their hands before treating patients. He shared his findings with his colleagues to introduce handwashing as a standard practice. Despite the data, his fellow doctors dismissed his findings. In fact, his colleagues and even his own wife thought he was losing his mind. They had him committed to a mental institution where he died shortly thereafter.
+
+Why couldn’t Semmelweis persuade people of his innovation? In the 1840s, the mental model of disease was an imbalance of four “humours” in the body such as phlegm, bile, and blood. Every disease was entirely internal and unique. With this mental model, Semmelweis’ colleagues couldn’t see how handwashing could affect a person’s health. It didn’t matter what the data said.
+
+A few decades later, Louis Pasteur proved that germs, not humours, were the primary cause of disease. With this new mental model, doctors could understand how handwashing would affect health. Personal hygiene became a new standard of care. Unfortunately, this was too late for Dr. Semmelweis. He had failed to shift his colleagues’ thinking, and thus failed to shift their behavior.
+
+Innovators change the lens through which we see the world. Companies that successfully market and sell innovation are able to shift how people think not only about their product, but about themselves, the market, and the world. Steve Jobs was one of the great mindshifters of our time. He championed the mantra “think different” and shifted the way people think about technology to be more personal and human.
+
+Shifts in mental models go deeper than traditional thought leadership. Most thought leadership tries to establish a company as an expert within the existing mental model. Shifts in thinking challenge the prevailing model.
+
+Over the last ten years, Salesforce.com has grown from an upstart to a market leader in enterprise software. From the beginning, Salesforce.com has focused on shifting the paradigm of computing as much as shifting customers over to its product.
+
+For years, the company’s marketing strategy has focused on the idea of “No Software,” reflecting the shift from packaged, installed software to cloud computing and software-as-a-service. Salesforce.com recognized that only after buyers understood the mental model of cloud computing could they understand the benefits of Salesforce.com as a product.
+
+To put the power of mental models to work in your business, start with three steps:
+
+A. Identify the shift
+
+The first step is identifying the underlying shift in thinking. This is different than your value proposition. It’s an assumption (usually unconscious) about how the world works.
+
+To find the shift, ask yourself a few questions. What was the original insight that led to the innovation? Where do you feel people “don’t get it” about your solution? What is the “aha” moment when someone turns from disinterested to enthusiastic?
+
+Try to frame it as a From and a To. This is not about bad to good, just better for the current context. As an example, consider companies selling software and services related to “big data.” The shift is not about “simple to intelligent” or “smaller to bigger.” In the area of data, the “aha” might relate to a shift in thinking about decision-making (from intuition to analytics), in data models (from spreadsheets to algorithms), or how the data is used (from target to empower)
+
+B. Find the sticking point
+
+Next, determine how mental models are getting in the way of your success. The sticking points are usually in one of three areas. You can tell which one by the associated symptom.
+
+PRESENT: The model of how things work today. Do people fail to see a problem that seems obvious to you? If so, they are operating with a different model of the current state. This is often because they don’t see how things are related. As an example, the movie An Inconvenient Truth was successful in shifting many people’s mental model of the relationship between greenhouse gases and global warming. If you are trying to get people to see a problem or opportunity, focus on disrupting their existing mental model.
+
+Do people fail to see a problem that seems obvious to you? If so, they are operating with a different model of the current state. This is often because they don’t see how things are related. As an example, the movie An Inconvenient Truth was successful in shifting many people’s mental model of the relationship between greenhouse gases and global warming. If you are trying to get people to see a problem or opportunity, focus on disrupting their existing mental model. FUTURE: The model of how things could be in the future. Do people recognize the problem, but fail to see how your solution could solve their problem? This was the situation faced by Dr. Semmelweis in his Vienna hospital. People agreed that mortality was a problem, but they couldn’t see how handwashing could make a difference. If you are trying to get people to understand the benefits of your solution, focus on shifting their thinking in a way that reveals why your solution would be effective.
+
+Do people recognize the problem, but fail to see how your solution could solve their problem? This was the situation faced by Dr. Semmelweis in his Vienna hospital. People agreed that mortality was a problem, but they couldn’t see how handwashing could make a difference. If you are trying to get people to understand the benefits of your solution, focus on shifting their thinking in a way that reveals why your solution would be effective. TRANSITION: The model for how to bring a new future into being. Do people recognize the problem, and the value of your solution, but fail to make the change? Sometimes people recognize the need to jump from the trapeze bar they are on, and can see the merits of the new bar you are offering them, but feel they can’t make the jump. In this case, focus on a mental model related to the transition. Define a roadmap that explains to them how to get from where they are to where they want to go.
+
+C. Build the program
+
+Shifts in thinking don’t happen overnight, any more than going to a weekend yoga workshop makes you flexible. Think of it like learning a second language or building a new habit – in this case a mental habit. People need to see how the new way of thinking plays out in different contexts and situations.
+
+“The really good innovations – the ones that change the world – need to be explained before they’re accepted,” Beth Comstock, the Chief Marketing Officer of GE, recently wrote. One of GE’s mantras is therefore “mindshare before market share.” GE’s strategy focuses on being a “content factory” to disseminate powerful stories. Interestingly, GE is also the home of Crotonville, one of the world’s top corporate universities. Perhaps in the future we will see corporate universities expand beyond employees to serve customers and clients as well.
+
+Albert Einstein once said, “We cannot solve our problems with the same thinking we used when we created them.” Companies that help customers shift their thinking will be more effective at solving problems and ultimately selling products.

@@ -1,0 +1,51 @@
+This post is adapted from the blog of Earnest, a Priceonomics Data Studio customer. Does your company have interesting data? Become a Priceonomics customer.
+
+***
+
+If you’re a twenty something, it may already have happened: that awkward moment when you realize all your friends have the same Pinsoshën coffee table from IKEA.
+
+The Swedish brand’s reputation for stocking stylish furniture and selling it for low prices has made it a one-stop shop for cash-strapped students furnishing their first apartments.
+
+But when do they leave IKEA behind in favor of something more grown-up? We wanted to find out, so we analyzed data from Earnest, a Priceonomics customer. We analyzed a dataset of more than 10,000 anonymous user responses on spending habits. When does it begin? When does it end? And where do people turn when they’re ready for something new?
+
+We first wanted to know how reliance on IKEA changes over a person’s lifetime, so we calculated the percent of our clients who shopped at IKEA. For the sake of comparison, we did the same for Lowe’s, a home improvement chain with similar overall popularity within our dataset.
+
+As it turns out, age 34 is when you start to outgrow IKEA:
+
+Data source: Earnest
+
+It’s written in the data: you’re more likely to buy from IKEA when you’re 24 than at any other time in your life. IKEA remains popular throughout the late 20s and early 30s, but drops after age 34. We may as well call the 10-year period spanning the mid-20s and mid-30s the “IKEA decade.”
+
+Lowe’s, meanwhile, shows the opposite trend: people are more likely to shop there as they get older. This makes sense, as increasing homeownership means more home improvement projects.
+
+We wanted to further explore where shoppers turn once they grow out of their IKEA interiors. For each of 14 top furniture retailers, we found the age when the most respondents reported shopping at that store. We tabulated those “peak customer ages” below.
+
+Data source: Earnest
+
+Not only is IKEA popular among young adults, it is the only retailer with a peak customer age below 30.
+
+People in their 30s are more likely to shop stores that specialize in housewares and home accessories like Bed Bath & Beyond and Williams-Sonoma - perhaps because their IKEA furniture is still serving them well.
+
+The oldest customers in our dataset prefer to do it themselves, favoring Home Depot and Lowe’s. When buying ready-to-use furniture, they visit big-box retailers like Ashley Furniture.
+
+Beyond age, we were curious about which personal attributes predict furniture retailer preference. We calculated the percent of men and women in our sample claiming to shop each brand.
+
+Data source: Earnest
+
+By and large, men and women visit the same stores when they go furniture shopping. And they visit IKEA in particularly even numbers. But do-it-yourself stores like Home Depot and Lowe’s are visited by men more often than women, and women visit most of the other stores we considered in greater numbers than men.
+
+Does geographic location influence retailer preference? We next looked at the percent of respondents from each state who identified themselves as IKEA shoppers. Results are listed below for all states for which we had at least 10 respondents.
+
+Data source: Earnest
+
+The Swedish brand began its North American expansion in the mid-Atlantic states, and this region still has the most IKEA brick-and-mortars. But it doesn’t lay claim to the most shoppers; that distinction goes to the Midwest and West Coast, which are home to the top 8 states.
+
+This ranking is curiously uncorrelated to a listing of IKEA’s store locations. The top 4 states have just one store apiece. The popularity of IKEA in the west may have less to do with store ubiquity and more to do with lifestyle attributes that make the brand a natural fit.
+
+***
+
+The recent explosion of big data means it’s now possible to tell a person’s fortune - empirically. Our data, for example, predict your apartment will resemble an IKEA catalog until you turn 34. Thereafter, you’ll surround yourself with housewares from upscale home stores like Crate & Barrel and Williams-Sonoma. And when you turn 40, the promise of home improvement projects will beckon you to Lowe’s and Home Depot.
+
+***
+
+Note: If you’re a company that wants to work with Priceonomics to turn your data into great stories, learn more about the Priceonomics Data Studio. Top photo via Flickr user Adam.

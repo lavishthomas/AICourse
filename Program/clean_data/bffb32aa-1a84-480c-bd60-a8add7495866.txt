@@ -1,0 +1,115 @@
+Bounce rates, referring links, time on site, page views – the availability of data about your website visitors can astound even the best content marketer. How do you know what data is important to your content marketing and how do you turn it into a treasure trove for your content marketing success?
+
+Some of the experts presenting at Content Marketing World offer their tips on how to use Google Analytics (or any web-data measurement system) so you can make informed decisions instead of wading in analysis paralysis.
+
+Don’t let them leave, show the way
+
+We like looking at pages with high page views that also have high exit or bounce rates. It shows us that the article is probably valuable but the user doesn’t have a clear path to take after reading it. We use that info to think of ways to retain the reader: Can we provide a feature showing more related content? What would the reader want or need to do after reading that article? We need to clearly show a helpful path for him or her to take.
+
+Aubrae Wagner, chief operations officer, EnVeritas Group | @AubraeAWagner
+
+RECOMMENDED FOR YOU: 5 Engagement-Driven Elements You Should Add to Every Blog Post
+
+Make it a daily habit
+
+Check in every day to see your top pages, or even better, set up Google Analytics to receive a daily email with the report. You may be surprised at which pages show up in the top 10. It may be an old blog post, your team page, or maybe your pricing page. Increased interest in these pages may signal an opportunity to take a few quick actions to further promote that content, such as scheduling social shares or running some social ads featuring those pages.
+
+Paul Roetzer, founder and CEO, PR 20/20 | @PaulRoetzer
+
+RECOMMENDED FOR YOU: 4 Quick Tools to Help an Audience Share Your Content
+
+Get to the bottom
+
+So many people focus on the top pages, but noticing what’s happening at the bottom will reset your attention. Are they pages you want people to see but aren’t getting enough love with content or optimization? Are they not useful anymore? Is it time to archive them?
+
+A website needs its own feng shui – when it’s too cluttered, nobody can find what they need. Once a quarter, move to the bottom of the page view list and see what you might be able to lose. You won’t regret it and it will make the rest of your data more meaningful.
+
+Ahava Leibtag, president and founder, Aha Media Group | @ahaval
+
+RECOMMENDED FOR YOU: 3 Content Strategy Practices That Will Make You a Better Content Marketer
+
+Translate data into English
+
+I ask the geeks to turn any five data points into five plain English sentences that include the phrase, “which means.”
+
+Doug Kessler, co-founder and creative director, Velocity Partners | @dougkessler
+
+Look at the intent
+
+Regardless of the analytics system, my No. 1 recommendation is to understand how the metrics translate to reader intention. People get caught up in the number of page views or visitors without thinking about what they mean for the big picture or without connecting them to other key performance indicators like revenue or conversions.
+
+Sachin Kamdar, CEO & co-founder, Parse.ly |@SachinKamdar
+
+RECOMMENDED FOR YOU: The Best 9 Analytics to Help With Content Audits
+
+Have objectives
+
+Set up goals, even for non-revenue-producing content. Track user interaction and engagement for valuable feedback on what works and what doesn’t in terms of your goals.
+
+John Hunt, senior manager digital marketing corporate communications & content, Smead Manufacturing |@Smead_JohnH
+
+Can you buy a beer?
+
+Set up conversion events. Traffic and stickiness don’t mean anything unless they lead to revenue. As a good friend of mine says, “If you can’t buy a beer with it, it’s not really worth as much as you think.”
+
+Matt Heinz, president and founder, Heinz Marketing|@HeinzMarketing
+
+RECOMMENDED FOR YOU: 11 Ways to Convert Blog Readers Into Customers
+
+Know when viewers bail
+
+The traffic flow report has been instrumental in showing clients and teams how well or poorly a user navigates a website from a specific entry point to a desired page, piece of information, or call to action. Stakeholders are often shocked to learn the number of users who enter their site at point X only to abandon before they reach point Y.
+
+Joey Hall, vice president of client services, EnVeritas Group |@JKHallJr
+
+RECOMMENDED FOR YOU: How to Bring Trust and Credibility to Your Website
+
+Learn from your referrals
+
+Look at the list of websites (not social media or search engines) that have sent you the most traffic. See what the top 20 to 50 are writing about, to whom they link, and what their writers or founders are sharing on social.
+
+Use that intelligence to create content that you can feel confident is up your referral viewers’ alley. Chances are that you’ll be much more informed about the types of stuff that will earn you amplification, links, traffic, and mentions from influencers.
+
+Rand Fishkin, co-author, The Art of SEO, co-founder, Inbound.org and Moz |@randfish
+
+RECOMMENDED FOR YOU: 3 Content Optimization Questions That Google Analytics Can Answer
+
+Bet on success
+
+Uncover what works based on meaningful measures such as page views, time on page, and conversion, and create more of it. More may mean more content on that topic, more of a form or style, more from the content creator, and so on. Essentially, I’m saying double down on your winners.
+
+Barry Feldman, founder, Feldman Creative | @FeldmanCreative
+
+RECOMMENDED FOR YOU: How Marketers Can Take Data-Driven Content Creation to the Next Level
+
+Take a long-range view
+
+Some people get in the habit of checking analytics every day, but it’s hard to spot trends that way and easy to make knee-jerk decisions. We look at our data once a month and record it on a spreadsheet so we can easily see how things change month to month. This makes it easier for us to see what is working and see trends over time.
+
+Stoney deGeyter, president, Pole Position Marketing|@StoneyD
+
+Doing something
+
+A Forbes article helps us understand what data points are important and what really matters to the bottom line. The key is to collect and analyze data that will help increase your conversions and add revenue to your bottom line.
+
+Some of the data you should be tracking includes:
+
+Users who viewed a landing page or blog post. By measuring this, you can determine what content is most engaging to your readers.
+
+Users who clicked a button, filled out a form, or downloaded a piece of content you created. (Use Google Tag Manager for this.)
+
+New subscribers to your blog
+
+Subscribers who opened your emails and clicked through to your site
+
+Qualified leads gained through site
+
+Revenue impact over time
+
+Arnie Kuenn, CEO, Vertical Measures |@ArnieK
+
+RECOMMENDED FOR YOU: Content Marketing Strategy: 3 Ways to Measure Success with Google Analytics
+
+Looking for a better understanding of how well your content marketing is working? Check out this guide to metrics made easy.
+
+Cover image by Joseph Kalinowski/Content Marketing Institute

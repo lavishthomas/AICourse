@@ -1,0 +1,161 @@
+So I was asked to give a presentation about “NewLaw.” No problem at all — aside from the minor, niggling detail of figuring out what “NewLaw” is supposed to be.
+
+Like other terms in vogue within the legal profession (cf. “non-lawyer”), we seem to understand better what “NewLaw” isn’t than what it is. George Beaton of Australia, who has written more than anyone else on this subject, describes the NewLaw business model as the antithesis of the BigLaw model, and that’s certainly true. For my purposes, though, I was inclined to cast the net a little more widely — to encompass not just law firm models, but also new legal talent combinations, legal service managers, and technology that both changes how lawyers practice and places the power of legal service provision in clients’ hands. So I decided to use “NewLaw” to describe any model, process, or tool that represents a significantly different approach to the creation or provision of legal services than what the legal profession traditionally has employed.
+
+With that definition and goal in mind, I set out to catalogue the genus “NewLaw” as best I could. What I wound up with was two broad categories, six sub-groups, and a whole bunch of exceptions. I thought I’d share the lot with you, partly because I thought you might be interested, and partly because I’d welcome your suggestions for supplementing the list with new entries, transferring an entry into a different category, expanding upon the disclaimers, and generally broadening and deepening the conversation. This is not meant to be a definitive inventory of “NewLaw.” It’s merely my attempt to understand the term better and identify at least some of its manifestations in the market.
+
+First, the exceptions and disclaimers.
+
+1. Several innovative legal companies and technologies aren’t on the list, but only because I think their primary focus is the marketing or management of law practices, rather than the creation and delivery of legal services. So I set aside the growing number of practice management support companies like Clio, CaseTrek, Curo Legal and Rocket Matter, as well as marketing, management, and business development services like Avvo, DirectLaw, LawDingo, LawGives, FlatLaw, Legati Law and UpCounsel, although they’re certainly in the NewLaw neighbourhood (and if you think they should be in the NewLaw community itself, let me know why in the Comments). [do_widget id=”text-7″ title=false]
+
+2. I also decided not to include e-discovery providers, but mostly because I’d have been here all week cataloguing all the players in this market. Also, while there’s no question it’s had a serious impact on how litigators do their job and sell their time, I might argue that e-discovery is increasingly accepted as part of litigation and isn’t all that “New” anymore. Similarly, predictive coding (or more accurately, binary classification) is a warp-drive engine for e-discovery and many other emerging legal functionalities; the whole area of legal machine learning promises to be extraordinarily disruptive. But aside from a few firms that made the list, I was hard-pressed to think of many clear leaders in this area. Again, I’d welcome your recommendations.
+
+3. I really wasn’t sure where to put LegalZoom and Rocket Lawyer in this list. They’re clearly “NewLaw” leaders and must be included, even if they’re frequently (and wrongly) described by lawyers as legal technology companies. They provide a sort of hybrid combination of legal documents available online and networks of affiliated law firms that supplement the documents with higher-value services (Jacoby & Meyers, which is listed below, could also fit within this category). Given that LegalZoom is frequently challenged by state bars and that Rocket Lawyer presumably also gets dirty looks from legal regulators, we might also refer to these enterprises as the NewLaw strike force.
+
+4. Also not making the cut: BigLaw online legal services (Ron Friedmann’s list is essential, but I’m not sure how many of these entries are game-changers), law school-based entities (Reinvent Law, LawSync, and Law Without Walls are still all worth your attention, though), and some true category killers that just haven’t reached a critical mass yet (say hello to accountants practicing law).
+
+5. I repeat: this list neither pretends nor aspires to be exhaustive. You may have a fascinating legal startup that I’ve never heard of, or that (to my mind) hasn’t gained enough traction yet to merit inclusion here. But if you belong to a small or midsize firm that’s pricing everything with fixed fees or selling through online delivery, or if you’ve launched a legal technology offering that’s changing the way legal services are produced or obtained, by all means identify yourselves in the Comments section.
+
+6. A final note to startups: in no way does this post mean I can give you useful feedback on your product or service, because I very likely can’t. I was a liberal arts major for a reason. This really is just an attempt at a “NewLaw” catalogue, not a stealth advertisement for consulting services.
+
+With all that out of the way, we can move to the actual lists. I ended up putting all the NewLaw entities I could find into two broad categories and six sub-groups:
+
+1. Aligning Human Talent with Legal Tasks
+
+New-Model Law Firms
+
+Project/Flex/Dispersed Legal Talent Providers
+
+Managed Legal Support Services
+
+2. Applying Technology to the Performance of Legal Tasks
+
+Tools To Help Lawyers Do Legal Work Differently
+
+Tools To Help Clients Resolve Disputes Directly
+
+Tools to Help Clients Conduct Their Own Legal Matters
+
+Of course, many of the tools and enterprises listed below overlap to some degree with other sub-groups and categories. There are very few NewLaw human enterprises that don’t make use of technology and very few NewLaw technologies that don’t involve human application; I tried to position each entry under the heading that made the most sense. (The one-line descriptions are taken from the entities’ own websites or materials; the parenthesised jurisdiction is where the entity is headquartered.)
+
+1. Aligning Human Talent with Legal Tasks
+
+A. New-Model Law Firms
+
+B. Project/Flex/Dispersed Legal Talent Providers
+
+C. Managed Legal Support Services
+
+Elevate Legal Services – “A global legal service provider helping law firms and corporate legal departments operate more effectively.” (US)
+
+LeClair Ryan Legal Solutions – “We provide a wide range of support services and incorporate best-in-class technology and quality control processes which will be uniquely integrated into the law firm’s litigation and transactional practice areas.” (US)
+
+MiamiLex – “A revolutionary alliance of the School of Law at the University of Miami and UnitedLex, a leading global provider of legal support and technology services.” (US)
+
+Novus Law – “We provide legal document management, review and analysis services for lawyers that are measurably more accurate, faster and less expensive.” (US)
+
+Obelisk Legal Support – “We provide flexible, affordable and quality support for in-house legal teams and law firms.” (UK)
+
+OnRamp Apprentice – “We hire recent law grads to work on large scale ‘contract genome mapping’ projects.” (US)
+
+Pangea3 – “The global leader in legal outsourcing. Our LPO provides comprehensive legal services to corporate lawyers and law firms.” (US)
+
+Radiant Law – “Outsourcing, IT, commercial contracts from negotiations to disputes. We bring together legal judgement, process and technology. ” (UK)
+
+United Lex – “The global leader in legal services outsourcing, provides litigation, contracts and IP services to corporations and law firms.” (US)
+
+2. Applying Technology to the Performance of Legal Tasks
+
+A. Tools To Help Lawyers Do Legal Work Differently
+
+AAA ClauseBuilder – “‘Designed to assist individuals and organizations develop clear and effective arbitration and mediation agreements.” (US)
+
+BrightLeaf – “A technology-driven service that automates the entire process of abstracting information from all your contracts for upload to your CMS or for use with our abstraction analysis tool.” (US)
+
+CaseText – “Judicial opinions and statutes are annotated with analysis by prominent law professors and attorneys at leading firms, giving you unique insight. And everything is 100% free.” (US)
+
+DealStage: “Enables attorneys and transactional professionals to better manage the deal process lifecycle from drafting to closing.” (US)
+
+ClearAccess IP – “Serving the patent marketplace by lowering transactions and streamlining data management at the prosecution level.” (US)
+
+Diligence Engine – “Technology-enhanced contract review: faster and more accurate.” (Canada)
+
+Judicata – “Mapping the legal genome to help you better understand the law.” (US)
+
+Jurify – “We harness the collective genius of legal titans to deliver a complete set of resources on legal topics in one quick search.” (US)
+
+KM Standards – “Our patented software allows you to build model forms from your own agreements, audit entire contract sets, and quickly review incoming contracts.” (US)
+
+Koncision Contract Automation – “A subscription-based service providing lawyers with document-assembly templates for business contracts.” (US)
+
+Legal Systematics – “We deliver automated document drafting programs and other advanced knowledge tools for making legal work more efficient.” (US)
+
+Lex Machina – “We provide legal analytics to companies and law firms, enabling them to craft successful strategies, win cases, and close business.” (US)
+
+Littler CaseSmart – “A case management solution that combines a Littler-developed proprietary technology platform with rigorous quality assurance measures.” (US)
+
+Mootus – “We help law students and lawyers build skills, reputation and knowledge for free through open, online legal argument.” (US)
+
+Neota Logic – “We transform expertise into answers and action.” (US)
+
+Ravel Law – “Data-driven legal research and analytics.” (US)
+
+Sky Analytics – “Helps reduce legal spend, control legal costs and benchmark legal spend.” (US)
+
+TyMetrix – “The leader in bringing advanced technologies to critical dimensions of legal transactions and analytics.” (US)
+
+B. Tools To Help Clients Resolve Disputes Directly
+
+CleanSplit – “An easy-to-use tool that allows divorcing couples to divide their property without confrontation while saving time and legal fees.” (US)
+
+Fair Outcomes – “Provides parties involved in disputes or difficult negotiations with access to newly developed proprietary systems that allow fair and equitable outcomes to be achieved with remarkable efficiency.” (US)
+
+Fixed – “The easiest way to fix a parking ticket.” (US)
+
+Modria – “The world’s leading Online Dispute Resolution platform.” (US)
+
+Picture It Settled – “Using neural networks to examine the behaviour of negotiators in thousands of cases, we can predict what an opponent will do, thereby saving time and money while optimizing settlements.” (US)
+
+Rechtwijzer – “Rechtwijzer 1.0 was … an appropriate, trustable legal helping hand that would assist people throughout their conflicts. [Rechtwijzer 2.0] enhances its services from diagnosing and referral into dispute-solving.” (The Netherlands)
+
+Resolve Your Dispute – “A self-help online tool for consumers to settle disputes with a business.” (Canada)
+
+Road Traffic Representation – “We provide you free expert advice to help you with your motor offence, from speeding fines to driving without insurance.” (UK)
+
+WeVorce – “Divorce is more than a legal problem. … You’ll come out with the necessary legal documents as well as a lifetime of tools, knowledge and agreements as you begin again.” (US)
+
+C. Tools to Help Clients Conduct Their Own Legal Matters
+
+A2J Author – “A software tool that delivers greater access to justice for self-represented litigants by enabling non-technical authors from the courts, clerk’s offices, legal services programs, and website editors to rapidly build and implement customer friendly web-based interfaces for document assembly.” (US)
+
+Docracy – “The web’s only open collection of legal contracts and the best way to negotiate and sign documents online.” (US)
+
+EverPlans – “We provide guides, resources and a platform to help you create a plan that contains everything your loved ones will need if something happens to you.” (US)
+
+Fair Document – “You get all your necessary estate planning documents completed quickly, and our streamlined process of working with an attorney affords peace of mind.” (US)
+
+Iron Tech Lawyer – “A competition held at Georgetown Law, where student teams show off apps built in our Technology Innovation and Law Practice practicum.” (US)
+
+Law Help Interactive – “H
+
+Lexspot – “Our online platform … makes the convoluted and expensive immigration process easy and affordable. ” (US)
+
+Peppercorn – “Create legal agreements, in multiple languages, in just minutes.” (Italy)
+
+Probate Wizard – “
+
+Shake – “We strive to combine the simplicity, convenience, and collaborative spirit of a handshake with the protection of a legal agreement.” (US)
+
+Smart Legal Forms – “Designed for US consumers and small business who want to resolve their legal problems at the lowest possible cost.” (US)
+
+Some closing observations:
+
+1. A disproportionate number of new legal talent arrangements are found outside the US (especially in England & Wales), while a disproportionate number (nearly all of them, in fact) of technology solutions are found inside the US. I attribute the former to more liberal regulatory regimes in other jurisdictions and the latter to the enormous amounts of venture capital available within the United States. (Conceivably, the restrictions on American law firm ownership help drive more resources towards tech solutions.)
+
+2. When I started this inventory, I expected the tech entries to outnumber the talent entries, and I was surprised to see the opposite result. That might be purely a function of what I found, rather than what’s actually there. But I do take it as evidence that many more lawyers have seen and responded to the changes in how clients are buying legal services and engaging legal professionals than we generally credit. If anyone within your organization wants to reject change on the basis that ” no one else is doing it,” show them this post.
+
+3. A lot of these companies and products might want to reconsider the fad in branding that creates a name by joining two related terms together to make one word. (Says the guy with a blog called “Law21.”)
+
+So there you have it: my incomplete inventory of this indeterminate thing called “NewLaw.” It’s good enough for my presentation; hopefully, with your contributions and observations, you can make it even better.
+
+Jordan Furlong is a lawyer, consultant, and legal industry analyst who forecasts the impact of the changing legal market on lawyers, clients, and legal organizations. He has delivered dozens of addresses to law firms, state bars, law societies, law schools, judges, and many others throughout the United States and Canada on the evolution of the legal services marketplace.

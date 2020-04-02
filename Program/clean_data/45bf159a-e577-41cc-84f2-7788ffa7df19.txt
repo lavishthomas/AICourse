@@ -1,0 +1,73 @@
+Provide meaning with motion Why motion design is now a required skill for designers.
+
+Last week I attended Google I/O for the first time and participated on a small panel about cross-platform design challenges. There was so much going on that it was a bit of sensory overload, much like walking down the Las Vegas strip for the first time. Google announced many welcomed Android improvements such as a battery saver mode and lock-screen notifications; something you'd previously need to use add-ons for as mentioned in Android is better.
+
+More uses of the Android operating system emerged: Android Wear, Android Auto and Android TV. A smartphone won't be the only thing that comes to mind when someone says Android. It'll be this family of screens from couch to car to wrist.
+
+“If there were no constraints, it’s not design — it’s art.” — Matias Duarte
+
+With Android and other such Google products now being used in more contexts it became necessary for Google to step back and voraciously think through their design. The resulting visual design language was dubbed Material Design. At a high-level it introduces constraints to craft a framework within which Google and others building on top of Android can more easily make design decisions.
+
+However, the real news from Google I/O wasn't about Android or Material Design itself. It was Google's implicit announcement that motion design is now a huge, required component for creating great software for mobile, desktop and wearable devices. Motion was mentioned in every design session at I/O. This coming from what has historically been a developer-focused event.
+
+"If you're a designer, please learn motion design skills. At 60fps there's 58 frames you need to design between Mock A and Mock B" #io14 — Paul Stamatiou (@Stammy) June 26, 2014
+
+
+
+
+
+A year ago I had a half-written post sitting in my drafts folder called “The right tool for the job.” The gist of it was using a suite of tools during your design process to effectively communicate the entirety of your intended design. It was going to be about showing animations and transitions with tools like After Effects, Quartz Composer and building HTML/CSS/JS prototypes to interact with on your mobile device.
+
+This was around the time Facebook made waves in the design community when they discussed how their design process for FB Home included Quartz Composer:
+
+Not only does QC make working with engineers much easier, it’s also incredibly effective at telling the story of a design. When you see a live, polished, interactable demo, you can instantly understand how something is meant to work and feel [...] Julie Zhou
+
+At the time incorporating such attention to motion and gesturally-interactive prototype work in your design process may have seemed nascent; if not entirely optional unless you wanted to customize everything and add another level of interaction detail.
+
+No jump cuts
+
+I won't dive into the intricacies of how material design defines animation but it's required reading: authentic motion, responsive interaction, meaningful transitions, delightful details. Read them now, I'll wait.
+
+"Carefully choreographed motion design can effectively guide the user’s attention and focus through multiple steps of a process or procedure; avoid confusion when layouts change or elements are rearranged; and improve the overall beauty of the experience.”
+
+Motion can and should go beyond a veneer of polish or delight. It's another avenue for adding personality, educating your users about how to interact with particular elements and for creating a story for the user.
+
+Changing an entire page on the user requires them to re-scan everything to see what has changed. This affords an opportunity to choreograph, or string together several transitions to provide context around what is changing.
+
+For example, Google has described much of their motion in terms of ripple choreography: using a sequence of small, delayed transitions as an affordance to express the transfer of energy from the user to the system. By connecting user actions to the resulting change you can improve the user's understanding of the relationship between spaces.
+
+Design tools
+
+One of the questions Roman Nurik asked us on the design panel was about how to best present your designs to others. This spurred a conversation on the power of functional prototypes.
+
+Though when you think of the term prototype in the context of design process over the last 5 years, more often than not the first thing that came to mind was something rudimentary like linking a few pages of a flow together with tap targets. Fast-forward to today where prototypes for me mean experiences that can just about fool someone into thinking they are real apps when put on a mobile device — real page transitions, draggable elements, scrollable areas, animations, keeping track of state where necessary and so on.
+
+In the past it probably wasn't the best use of a designer's time to recreate designs in a tool like Adobe After Effects. Doing anything beyond sliding in new page might have even been considered polish. Polish is a dangerous word as it implies that it's not vital and if it's not vital it's likely to be cut from the project when deadlines get tight.
+
+Instead After Effects was used to detail new microtransitions or object transformations. That was about it — tinkering with small, more complex nuggets of an experience. Beyond that it was easy to communicate with engineering teams about how the rest of the flow was supposed to work. This modal falls down, this page slides in.. standard app page transitions and the like.
+
+Times are changing. Things like page transitions will still exist but involve more of the elements on each page. You'll begin choreographing. In the next few years consideration for motion will be required to be a good citizen of your desktop/mobile/wearable/auto/couch platform. It will be an expected part of the design process just like people will begin to expect this level of activity and character in software.
+
+One of the popular questions at Google I/O design sessions was how designers should go about incorporating motion into their design process. Googlers mentioned that they personally use After Effects but mainly only for microtransitions, things like loaders and icons transforming. The also mentioned their own Polymer web framework that includes the new Material Design UI components.
+
+In short — there was no good answer. There's a huge opportunity here for new tools to cater to budding new choreographers.
+
+Polymer can help with choreography by including things like animating along a path and some affordances for sequencing animations but the components are only great if you're using the material design components exactly as they are and don't need any customization.
+
+I have been using Framer.js on an almost daily basis to build interactive prototypes of my designs. It's basically a JavaScript animation framework and can take some time to get up to speed if you're not comfortable with JavaScript. However, unlike other tools anything you learn about JavaScript while using Framer is applicable for web development in general.
+
+Framer is exceptional at testing out small bits of interaction or linking together several pages of a flow. But as a next generation tool with more needs for managing choreography, keeping track of state, and working with draggable and scrollable elements, you incur significant overhead for managing your code. I found myself creating views to manage other views, much like I used to do with complex pages when I was building Backbone.js apps, but I digress...
+
+There are more WYSIWYG tools like Pixate, which lets you use a drag-and-drop web app to create your prototypes, then view live on your device. But without a preview mechanism on the web this seems to slow development down with constantly having to publish to the device.
+
+I'm still waiting on the right tool for this new mix of motion and interactive prototyping. Building your design also makes you think about how it should be built and the constraints of the design; things you might have only run into later when it was actually being developed. And of course one thing's for sure: putting a real prototype in front of your team is the best form of communication. No more explaining your design to others by trying to talk through it .. "then you tap this, and this happens and that loads, then you slide this.."
+
+What are you trying to say Stammy
+
+It’s a great time to be a designer. We have never had so many capable platforms to develop on, nor as many ways to use our products and on so many new categories of devices.
+
+The more designers we have thinking about motion the more we'll have a need for great design tools and the better design tools we have, the easier it will become to build our designs as intended. And with that we'll have more delightful and easier-to-use products that set their users up for success so they can solve the problems you set out to solve for them.
+
+To design is to communicate clearly by whatever means you can control or master. Milton Glaser
+
+Like it? Tweet Get new articles via email I only publish once every few months.

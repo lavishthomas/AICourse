@@ -1,0 +1,9 @@
+Rosetta Code is a library of different coding tasks in multiple languages, so you can see how to perform a given task in any language you want.
+
+You can browse by task or by language. If you browse through tasks, you can choose one and it will have the logic in plain English or pseudocode first. Then, as you scroll down, you will be able to jump around see how to code that task in different languages. There are 753 tasks and 554 languages. Some tasks aren't written in every language, so you can also search by language to see the tasks that are available for it.
+
+Advertisement
+
+Sometimes the best way to learn is to see how it's done, and Rosetta Code offers that solution for programmers. While it doesn't give you full-on tutorials, it's definitely a good reference to bookmark. Hit the link below to check it out.
+
+Rosetta Code

@@ -1,0 +1,179 @@
+Anyone who’s worked in digital marketing knows that conversions are the lifeblood of any online marketing campaign.
+
+You run a marketing campaign to get people to do something—sign up for your services, buy your product, fill out a lead gen form, give you their email, etc.
+
+Essentially, you market in the hopes that people will do what you want them to do and eventually produce profitable revenue for your company.
+
+A good campaign will get a lot of people to take your conversion action.
+
+An ineffective campaign won’t.
+
+As a result, improved conversion rates are a key goal for any decent digital marketer. Marketing costs money, so the higher your conversion rate, the more bang you get for your buck.
+
+Improving your conversion rate is a great goal, but to do that, we need to look at your conversion tracking.
+
+Tracking Conversions
+
+One of the fundamental ideas behind conversion rate optimization (CRO) is the notion that you are effectively tracking conversions.
+
+Think about it, in order to improve your conversion rates, you have to actually know what your conversion rate is to begin with!
+
+And, to do that, you need fantastic conversion tracking in place.
+
+Unfortunately, most marketers aren’t tracking their conversions effectively. To understand how this affects conversion rate, let’s take a look at how well marketers are implementing conversion tracking in AdWords.
+
+AdWords Conversion Tracking
+
+AdWords is an ideal medium for conversion tracking.
+
+Google itself makes implementing conversion tracking incredibly easy and paid search is typically a direct response marketing channel, which means that most of your conversions should be directly attributable to clicks on specific campaigns.
+
+In contrast, higher funnel marketing campaigns like social media or branding efforts can be a lot harder to effectively track.
+
+It’s doable, but it’s harder.
+
+Since conversion tracking is so easy in AdWords, you’d think that every marketer would have great conversion tracking in place, right?
+
+Sadly, that’s not the case.
+
+Over the past 2 years, we’ve audited well over 2,000 AdWords accounts at Disruptive Advertising. Amongst all of those audits, perhaps one of the most common problems was a lack of effective conversion tracking.
+
+Accounts Without Conversion Tracking
+
+To the credit of everyone who’s encouraged conversion tracking over the years, 57.7% of AdWords accounts had set up some level of conversion tracking.
+
+But, if only 57.7% of accounts have tracking in place, then 42.3% of AdWords account managers have absolutely no idea whether or not their campaigns are working.
+
+Not surprisingly, AdWords campaigns without tracking rarely turn a profit.
+
+In fact, according to Hubspot’s State of Inbound report, 97% of inbound marketing campaigns without tracking fail.
+
+So, even in AdWords—one of the most trackable marketing platforms—42% of campaigns have almost no chance of success.
+
+Accounts With Conversion Tracking
+
+Of the 58% of AdWords accounts with conversion tracking, half were only tracking a small percentage of their actual conversions.
+
+In other words, 29% of AdWords accounts are technically tracking conversions, but their setup is so poor that they might as well not be tracking anything at all.
+
+For example, in the plumbing/HVAC industry, phone calls are a major source of leads.
+
+However, most plumbing/HVAC companies only track form submissions, which are few and far between—making forms a terrible indicator of campaign effectiveness!
+
+Plumbers aren’t the only ones with this problem, either. Many companies with millions of clicks have only a handful of conversions to their name.
+
+Are they tracking conversions?
+
+Technically, the answer is “yes,” but their conversion tracking isn’t painting an accurate picture of the effectiveness of their marketing campaigns.
+
+AdWords Conversion Rates
+
+Generally speaking, a conversion rate of 2-3% is considered “typical” for an AdWords account.
+
+Based on our data, it’s easy to see why:
+
+Clearly, the vast majority of accounts—regardless of how many clicks they get—fall into the 0-5% conversion rate window.
+
+Conversion Rate Benchmarks
+
+A couple of years ago, Wordstream ran an analysis on hundreds of AdWords accounts to try and create conversion rate benchmarks for AdWords performance.
+
+Here’s what they found:
+
+The median AdWords account had a conversion rate of 2.35%.
+
+The bottom 25% of accounts had a conversion rate of 0-1%.
+
+The top 25% of accounts had conversion rates of 5.31% or better.
+
+To validate their results and see if anything had changed, we used Wordstream’s criteria and ran the same analysis on our audit data.
+
+Not surprisingly, our results were very similar:
+
+The median conversion rate for an AdWords account is 2.18%.
+
+27.5% of accounts lie in the 0-1% conversion rate range.
+
+The top 25% of accounts have a conversion rate better than 5.34%.
+
+Here’s how the conversion rate distribution breaks down.
+
+As you can see, 75% of AdWords accounts have a conversion rate between 0% and 5.34%.
+
+It’s a little harder to calculate from this chart, but the top 10% of advertisers have a conversion rate of over 11.03% (in Wordstream’s study, the top 10% had a conversion rate of 11.45% or better).
+
+So, if more than 5.34% of your clicks are converting, that means your conversion rate is better than 75% of AdWords advertisers.
+
+If your conversion rate is above 11.03%, your account is in the top 10% of all AdWords accounts.
+
+Great news, right?
+
+Well, maybe…
+
+Where Wordstream Went Wrong
+
+As we were replicating Wordstream’s analysis, we realized that our results weren’t representative of actual account performance.
+
+The data was skewed by bad conversion tracking.
+
+Remember, in our audit process, we discovered that while 58% of AdWords accounts were tracking conversions, only 29% actually had an effective setup in place.
+
+By including all of those poorly-tracked accounts in our analysis, we were heavily underestimating the actual conversion rate of AdWords accounts.
+
+To Wordstream’s credit, they had tried to account for this by excluding accounts with less than 10 conversions, but that still left a lot of accounts that we knew from our audit process weren’t tracking conversions effectively.
+
+So, we reran our analysis. But, this time we only included the few hundred accounts we knew had good conversion tracking in place.
+
+Here’s what we found:
+
+The median conversion rate for a well-tracked AdWords account is 3.16%.
+
+Only 15.2% of these accounts have a conversion rate of 0-1%.
+
+The top 25% of accounts have a conversion rate of 7.82% or better.
+
+The top 10% of well-tracked accounts have a conversion rate of over 20%!
+
+Here’s the conversion rate distribution for well-tracked AdWords accounts:
+
+As it turned out, well-tracked AdWords accounts have a nearly 50% higher conversion rate than the average AdWords account.
+
+What does that mean for your company?
+
+Well, if you are advertising on AdWords and have conversion tracking in place, it’s even odds that you are only tracking two-thirds of your conversions.
+
+If you’re advertising in one of those harder-to-track channels like social media, you’re probably missing out on even more conversions.
+
+How to “Improve” Your Conversion Rate in One Day
+
+This brings us back to improving conversion rates.
+
+To put it simply, the easiest way to improve your conversion rate is to start effectively tracking the conversions you are already getting.
+
+That means tracking everything—phone calls, form submissions, sales, sign-ups, online chats, in-store visits—everything!
+
+In many cases, simply accounting for your missing conversions will increase your conversion rate by 50% or more…overnight.
+
+This will probably make your boss very happy in the short-term, but—more importantly—it will set you up for long-term success.
+
+Think about it, if you are only tracking some of your conversions, do you really know which campaigns are your top producers?
+
+A campaign that drives very few form submissions may actually generate a ton of chat leads. But, if you aren’t tracking chats, you might assume one of your top campaigns is a flop.
+
+Regardless of which online marketing medium you’re using, great analytics tracking is key to advertising success. Without the right data, you could be leaving a ton of money on the table.
+
+By knowing which campaigns deserve your dollar, you can dramatically improve your conversion rate, return-on-investment and capture a lot more market share.
+
+So, take the time to work with an analytics platform like Kissmetrics or Google Analytics, get your conversion tracking set up right and start making more money.
+
+Conclusion
+
+Proper conversion tracking can make a world of a difference to your conversion rate.
+
+We’ve seen the short- and long-term benefits of implementing effective conversion tracking with hundreds of clients, so it’s well worth the time and effort.
+
+The data may not always be as clearcut as our AdWords findings, but regardless of how you are marketing your company, quality conversion tracking is always the key to better conversion rates.
+
+How does conversion data affect your online marketing decisions? Did you find any of this data surprising? Let me know in the comments!
+
+About the Author: Jacob Baadsgaard is the CEO and fearless leader of Disruptive Advertising, an online marketing agency dedicated to using PPC advertising and website optimization to drive sales. His face is as big as his heart and he loves to help businesses achieve their online potential. Connect with him on LinkedIn or Twitter.

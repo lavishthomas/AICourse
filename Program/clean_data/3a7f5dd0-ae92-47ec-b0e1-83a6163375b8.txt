@@ -1,0 +1,19 @@
+There is a number of interesting questions and answers around how Google handles removing or hiding or filtering duplicate content from the search results. Does it happen during the indexing process or during the query process or both?
+
+Gary Illyes from Google said on Twitter that the topic might be worth doing a blog post on, and I think he or someone at Google should. Duplicate content is a topic that is always on the mind of webmasters, publishers and SEOs and a topic we have covered here probably over a hundred times.
+
+Understanding how Google handles duplicate content, duplication, etc throughout their search engine process, from indexing to serving search results - can be useful.
+
+So far, this is what Gary Illyes said on the topic:
+
+Page by page. Page A is compared to B for ex. contents match (by a margin), then they enter an auction & the winner gets to be the canonical — Gary "鯨理" Illyes (@methode) August 31, 2017
+
+The auction/canonicalization occurs during indexing, before the indexed contents end up in the serving trees, and it's quasi-permanent — Gary "鯨理" Illyes (@methode) August 31, 2017
+
+This is a separate mechanism. Basically if during indexing we couldn't eliminate dups, then this would try to take care of them. &filter=1 — Gary "鯨理" Illyes (@methode) August 31, 2017
+
+So you see, there is a process for Google to handle it while indexing but also potentially during the query process. Note how he also wrote &filter=1 which is how you show search results that are similar to other search results in the Google search results page.
+
+This would be a very technical and interesting topic for Google to cover and this post is encouraging it.
+
+Forum discussion at Twitter.

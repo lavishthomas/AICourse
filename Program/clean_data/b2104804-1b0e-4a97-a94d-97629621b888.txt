@@ -1,0 +1,31 @@
+Physicians across America feel that we were either left off the guest list or have been invited late to the party, too late to change things. We’d like to receive an invitation from you — the developers of digital healthcare tools — early in the development process. We want to help you help us help people. With the rise of chronic disease and the need for continuous connected care, time is of the essence. We’d like to be a part of the innovation process that will transform how we practice medicine.
+
+While many new technologies work well after the period of adaptation, leaving end-users (physicians) out of the product development process leads to unanticipated problems such as unintuitive and frustrating workflow, taxing documentation requirements, and nonsensical and inaccurate cut-and-paste progress notes. Certainly, it takes time to learn any new tool, and new technologies do force workflow evolution. But once the adaptation period passes, our tools should improve documentation and workflow and enhance the assessment of practice patterns and quality measures. These enhancements are not happening. To add to the annoyance, digital tools do little to help physicians embrace and apply the enormous amounts of new medical information coming out each day.
+
+Cumbersome digital tools make for poor workflow, provide little help, and do not communicate with each other. These attributes lead to emotional exhaustion, decreased work performance, and low enthusiasm — thus satisfying all three diagnostic criteria for workplace burnout.
+
+To be clear, the IT sector is only partially to credit for the astounding rate of physician burnout, currently estimated to affect over half of practicing physicians. Other contributors are the labyrinthine federal billing documentation regulations and the incredibly complicated ICD-10 codes. Then there is the explosion of information that is fundamentally impossible for human beings to master and apply. And finally we face increased “productivity” pressure, which can remove the human element from medical care. We cannot solve all these problems in one fell swoop, but we certainly can improve our tools to alleviate some of the pain, and that starts with designing for improved usability.
+
+Tech innovators are not wholly to blame for the fact that practicing physicians are largely being excluded from the development process. Physician time is expensive — not many practices or IT companies are willing to incur the cost of participation in, say, EMR development, nor have physicians been willing to sacrifice personal income to help develop new tools. What might happen if we addressed these hurdles?
+
+My 70-member practice did the experiment, so I can tell you. We paid 50 percent of one physician’s compensation for a year so that he could spend that time working with (and occasionally bullying) IT developers to create an EMR for our practice that would make sense in our clinical environment. It was expensive, but it worked. We have a tool that has become a prototype for our sort of practice and which the proprietor has cultivated across its larger user base (sadly though, this tool was not developed on an open platform).
+
+Baking in the user perspective makes a difference. So, tech entrepreneurs, from the standpoint of a practicing physician, here are my suggestions for building digital healthcare tools that would make our practices and professional lives more focused on patients and less frustrating:
+
+Design for mobility, integrating smart-phone-based applications
+
+Decrease documentation time (perhaps with speech recognition built into progress note functionality that would allow field population in EMRs as the physician is confirming information with the patient)
+
+Develop all EMR applications on open platforms that allow straightforward communication between systems
+
+The creation of a common medical identification number for every person starting at birth
+
+Patient ownership of their own medical information
+
+The ability to cull and curate new and existing scientific evidence
+
+The ability to use that curated evidence in medical decision making (perhaps through contextual, assistive pattern-matching algorithms)
+
+The story of transformative IT healthcare applications is in its early chapters. In fact, we are likely at the brink of significant technological breakthroughs. Think what artificial intelligence and machine learning can enable. Please ensure that the narrative of that story captures the physician’s perspective. The tech community must be willing to engage early and to listen. And we physicians must be willing to meet the developmental challenges and share.
+
+Dr. M. Christine Stock is a tenured professor of anesthesiology at Northwestern University and advisor to Health2047.

@@ -1,0 +1,61 @@
+After we published a primer for using Google Analytics, readers said they were hungry for more.
+
+Google Analytics has since revamped its design, giving it not only a cleaner look but also updated data sets. You can now find everything from real-time stats to details about which mobile device your site visitors come from.
+
+Though the data possibilities seem endless, Google Analytics product manager Phil Mui says the design reflects three core metrics: acquisition, engagement and outcome. Let's take a closer look at what these numbers mean and how you can track them with one of the most widely used web analytics platforms.
+
+Acquisition
+
+SEE ALSO: 10 New Google Analytics Features You Need to Start Using
+
+
+
+
+
+The tool has long provided information about where your visitors are coming from (geographically and on the web), what language they speak, how often they visit your site and what computers and browsers they use to get there. More recently, Google Analytics released mobile reporting. As people increasingly access the web from smartphones and tablets, this information is key to optimizing your site for those looking at it from a mobile device. This and most visitor-specific information can be found under the Audience tab. On report pages, the Visits metric can be found in the upper-left, while New Visits — the percentage of visitors coming to your site for the first time — is second in from the right.
+
+Measuring how many people are coming to your site is the most cut and dried — but it's only one piece of the metrics pie.
+
+Engagement
+
+The three key engagement metrics in Google Analytics are:
+
+Pages per Visit : This is the average number of pages a visitor views when coming to your website. The more engaging your site is, the more inclined visitors will be to continue clicking beyond the entry page.
+
+Average Time on Site : This refers to the typical amount of time visitors spend on your site, despite whether they continue to stay on the page they came in on or navigate elsewhere within your domain.
+
+Bounce Rate: This represents the percentage of single-page visits to your site. It gives you a sense of how many visitors left your site from the entrance page rather than clicking further into your site as compared to total visitors. Like Pages per Visit, Bounce Rate can help you determine the performance of your entry pages based on the actions visitors take (or don't take) after they've arrived on your site.
+
+Engagement metrics are especially important for reports created in the Traffic Sources and Content tabs. On report pages, Pages per Visit and Average Time on site are located at the top middle of report pages, while Bounce Rate is at the far right.
+
+So, how do you know if your site is "engaging?" Ask yourself: Is your site user-friendly? How simple is it for a visitor to click to the next page? Is there interactive content in which your readers can participate? Does landing page content match the keywords in its title? Considering these questions when designing your site is a surefire way to improve the quality of your web traffic.
+
+Outcome
+
+The first step is defining your business objectives: Are you driving visitors to make online purchases? Getting them to view a specific piece of content? Aiming for more newsletter signups? Once you've pinned down your site goals, make sure your site administrator enables Goals in Google Analytics in the Account Settings page. Then you can choose one of four Goal types to track:
+
+URL destination : This metric is best if your goal is to get visits to a key page of your site, such as your homepage or a post-purchase message page.
+
+Time on Site : If you're looking to measure engagement, this will track visitors spending a defined amount of time on your site.
+
+Pages per Visit : Also important for engagement, Pages per Visit will keep tabs on a defined number of pages visitors view in a session on your site.
+
+Events: Released in the most recent version of Google Analytics, Event Goals allow you to track specific actions visitors are taking on a page. This includes anything from downloading a PDF to watching a video.
+
+Goals reports can be found under the Conversions tab, which will provide information about goal completions and conversion rates. You can opt to track goal value and abandonment rates (the percentage of visitors who fail to convert on the goal) as well.
+
+If you're an online retailer, it may make more sense for you to set up Ecommerce in Google Analytics, which allows you to track transactions and order values. It's a more complicated setup process, but will provide more actionable metrics for visitors' purchasing behavior on your site. For Google Adwords users, linking your account to Google Analytics goals can help you keep a closer eye on your marketing campaigns.
+
+Other Noteworthy Features
+
+One problem with the analytics industry, Mui says, is that tools give users so much information — but they're not as good at telling users what they need to know. That's why Google Analytics improved its Intelligence product in the most-recent update. It searches your site traffic for anything out of the ordinary and then alerts you to the anomaly. You can see all your alerts in a simple graph, where you can drill into and annotate specific events.
+
+If you're running a dynamic website that frequently publishes new content, Google Analytics Real-Time helps you understand what content is working best and what sites are sending you the most traffic at any given moment. It's less useful for providing more long-term actionable insights.
+
+For more useful v5 products, check out our top 10 features of the new Google Analytics.
+
+Conclusion
+
+While your level of interest in these key numbers and features may differ depending on your role and organization, these data points have become the standard for web analytics today. Whether you're strategizing for a massive corporation or bolstering your personal web presence, understanding acquisition, engagement and outcome metrics is a must. "If content is king, then context is queen," Mui says.
+
+Which of these metrics and features are most important to your business? Has tracking them helped you improve your site? Tell us in the comments below.

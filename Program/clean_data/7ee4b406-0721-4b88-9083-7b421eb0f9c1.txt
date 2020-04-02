@@ -1,0 +1,179 @@
+Making a Vibrator That Listens to Your Body
+
+This project has been an astonishing little journey. Many of my previous projects were characterized by an amazing outpouring of effort to build something highly intricate and ultimately invisible.
+
+This is the opposite kind of project. A little bit of work and a little custom design to create something new and exciting that I can immediately use in my everyday life. It also happens to be a sex toy.
+
+In other words, I wanted to hack something I actually use: my vagina.
+
+The Inspiration
+
+I love feedback loops. Servo motors, thermostats, op-amps, DC-DC converters, social networks, flocking behavior. Our bodies. Massages, cuddling, sex– these are all ways of bringing a partner into your body’s most fun closed-loop systems.
+
+To me, a good sex toy helps form feedback loops. It doesn’t get in the way. A good toy gives you simple ways of exchanging signals with a partner or with your own body. It acts as a conduit. A good sex toy is analog.
+
+I was in the market for a remote-controlled vibrator recently, and I ended up with LELO’s Lyla vibe:
+
+(Update: LELO was nice enough to send me their updated model, the Lyla 2, which also works with this remote. The Lyla, Lyla 2, and Tiani 2 are all known to use the same radio protocol.)
+
+There are some things I really like about this toy. The vibrator itself is reasonably strong, rechargeable, waterproof, and quite comfortable. I was much less happy with the remote. The radio range was rather lackluster, and using the controls made me feel more like I was programming a VCR (remember those?) than having sex.
+
+The optional accelerometer input on the remote was a good idea, but I feel like the execution leaves much to be desired. The controls are laggy, and controlling the vibrator by tilting the controller never really felt right to me.
+
+So, naturally, I wanted to see if I could do better. I really had no idea where the project would go.
+
+Choosing a Sensor
+
+My early prototype used a simple knob attached to a variable resistor, and that already seemed like a big improvement over the original LELO remote. I wanted to build a simple proof-of-concept remote that would just demonstrate the improved radio range and responsiveness, without doing anything particularly fancy. After that, I planned to dabble in more esoteric input devices. Audio spectra, conductive fabric, capacitive sensors embedded in lingerie, and so on. The Arduino library I ended up writing for this project offers some great opportunities for further tinkering.
+
+But I was rummaging through my sensor drawer, and thought: Why not sonar? A few quick tests, and it seemed more than responsive enough. And for myself, often lazy about mechanical things, a small sensor with no moving parts was much easier to build a robust prototype around.
+
+Invisible Walls
+
+At first, the benefits seemed pretty easy to understand. It was hands-free. This meant that, unlike the original remote, it doesn’t need a bright pink silicone jacket to stay clean. Well that sounds convenient. Then I start to play with it more, and I discover something really unique about this configuration.
+
+Something about this toy really does become more than the sum of its parts. More than a simple remote control, it starts to feel a little like virtual reality. Haptic technology, it’s called. Interfacing with computers through our sense of touch.
+
+This toy serves as a kind of analog bridge between two remote spaces: the column of ultrasonically-oscillating air in front of the remote, and whatever body part happens to be in contact with the vibrator. Touch that invisible space above the remote, and the vibrator touches you.
+
+In fact, it does start to feel like there’s a palpable object in space above the remote’s sensors. Move your body close to it, and it reacts. Press into it lightly, or tease the edges. Flick your hand through it, or make graceful waves back and forth. You can use your whole body to touch it, almost like a big fuzzy vibrating cone floating in air.
+
+If the sensor can see your body’s rhythms, it responds in kind, effortlessly synchronizing to its frequency. This is exactly the sort of closed-loop control I was after.
+
+You can even use multiple vibrators. There’s no unique address or channel assigned to a particular vibrator, so any vibes that are turned on and within radio range will respond.
+
+So, what does it look like?
+
+The two black circles are ultrasonic transducers. One of them transmits short “chirps” at a frequency too high for humans to hear. The other listens for echoes. The 4-digit display gives another satisfying bit of feedback, in visceral high-contrast blue LED light. The external antenna gives it quite a bit more radio range than the original remote, and the exposed serial port on the left makes it easy to reprogram the remote using the Arduino IDE.
+
+You can get an idea for how the prototype works in this short video:
+
+That’s the end result, for now. The rest of this post will share the journey I took in building this toy. Perhaps it will inspire you to follow along, or to build something unique.
+
+Reverse Engineering
+
+In order to replace the original remote control, first I had to understand it. My first stop was the FCC ID database, to see if they had any info that would help me know if it was even worthwhile to crack the remote open. I was in luck. The internal photos clearly showed an MSP430 microcontroller and CC2500 radio. Hackability was looking good so far.
+
+The CC2500 is a really nice configurable 2.4 GHz radio and modem chip with an SPI interface. It’s part of a line of highly integrated radios made by Chipcon, now owned by Texas Instruments. They’re quite similar to the competing nRF24L01 radio made by Nordic Semiconductor. The CC2500 also has a popular sub-1 GHz sibling, the CC1100. This chip was featured in the ToorCon 14 badge, and the imminently hackable IM-ME toy.
+
+I wouldn’t even bother with trying to read or reprogram the original microcontroller. By sniffing this SPI bus, I could reverse engineer the proper radio settings and protocol to use. Then I could wire up any CC2500 to any microcontroller I want, and control the vibrator over the air.
+
+Unfortunately, opening the remote turned out to be somewhat messier. The pink silicone jacket is glued to the white plastic shell, and I failed to remove it without tearing the fragile silicone. I soon discovered that the shell itself was also glued shut, and it required quite a lot of cutting and prying to open. I was willing to sacrifice this remote for science, but I really wouldn’t advise ever opening one of these if you want it to stay nice and watertight.
+
+Once I had the remote open and the circuit board extracted, I started making a test jig. I’ll often do this by using a short length of snappable 0.1″ headers as a mechanical anchor. I solder it to some big sturdy pads on the PCB. In this case, I used the pads for the battery contacts. Then, I break out the microscope and run thin AWG 32 magnet wire from the headers to whatever I want to probe. In this case, I wanted the SPI bus. I also replaced the original remote’s small vibrator motor with an LED, so I could see when it was on without it shaking my whole setup.
+
+At this point there are all sorts of options for snooping on the communications between these radio and microprocessor. If you have room in your budget and toolbox for a special-purpose device, Total Phase makes a pretty sweet little SPI and I2C sniffer device. There are logic analyzers like the Saleae Logic, and open source tools like the Logic Shrimp.
+
+Unfortunately, I had none of these handy. My Saleae Logic was far away, and my trusty Bitscope isn’t really that helpful for protocol reverse engineering once you get above the physical layer. So, I improvised. Often in this situation I’ll break out something like the Saxo board, with an FPGA and a thick USB 2.0 pipe. In this case, I was dealing with low enough data rates that I could do something even simpler. I plugged the remote into my Propeller Demo Board and wrote a quick program to capture the SPI traffic and send it back in ASCII over the serial port.
+
+The full traces are available in Git. I was looking for two kinds of traffic: an initialization sequence for the radio, and SPI transfers which actually transmitted packets over the radio. I was also keeping my eye out for any clues as to how complex the protocol was. Do I need to pair with the vibrator? Exchange keys? Search for a radio channel to use?
+
+When the remote turns “off”, it’s actually entering a low-power standby mode. It doesn’t fully shut down the radio in this mode, it just sends a standby command. As a result, waking up the remote doesn’t fully initialize the radio. To capture a complete init sequence, I would cut and reapply power, as if fresh batteries were just inserted. When I did this, I was greeted with a nice burst of configuration traffic:
+
+300F SRES Strobe: Soft reset 0B0F 0A0F FSCTRL1 IF frequency of 253.9 kHz 0C0F 000F FSCTRL0 No frequency offset (default) 0D0F 5D0F FREQ2 FREQ = 0x5d13b1 = 2420 MHz 0E0F 130F FREQ1 0F0F B10F FREQ0 100F 2D0F MDMCFG4 CHANBW = 541.666 kHz 110F 3B0F MDMCFG3 DRATE = 249.94 kBaud 120F 730F MDMCFG2 MSK modulation, 30/32 sync word bits 130F 220F MDMCFG1 FEC disabled, 2 preamble bytes 140F F80F MDMCFG0 CHANSPC = 199.951 kHz ...
+
+The hex numbers on the left come from the SPI sniffer. The text to the right is my own annotation, starting with the name of the radio register in question. Each line is one SPI transaction, and each group of four digits represents one byte going across the SPI bus. The first two digits are command data from the microcontroller (MOSI), the last two digits are the radio’s simultaneous response byte (MISO).
+
+The log continues on like this a bit longer, but you can already see the most important radio parameters: A base frequency of 2.420 GHz, MSK modulation, 250 kBps data rate.
+
+When I looked at the SPI trace for waking the remote up from sleep, I was greeted with a rather large red herring. It spends some time scanning ten different channels, numbered 0 through 9. This represents 2 MHz of spectrum. On each channel, it spends some time polling the Received Signal Strength Indication (RSSI) register. Is it listening to see if the channel is clear? Is it searching for other remotes? Listening for an initialization sequence from the vibrator?
+
+As far as I can tell, none of these things are true. I’ve never seen the vibrator transmit or the remote receive, which rules out any kind of pairing sequence. To verify this, you can turn on a vibrator while the remote is already transmitting. The vibrator picks up the signal and starts moving, without any change to the remote’s routine. The original remote will even control multiple vibrators happily. There seems to be no pairing sequence at all: the address and radio channel are both hardcoded. Why scan through channels then? It feels like either a vestige of some library code the folks at LELO adopted. Or maybe it’s scaffolding for future functionality. Either way, it doesn’t seem to matter for the vibrators I have.
+
+How about the actual packets? Well, they also seem to have a lot of vestigial content. It’s possible this is LELO being super clever and leaving room for future products to be protocol-compatible. Or it’s possible they just hacked together all the example code they could find until they had a working product. It’s hard to say.
+
+The original remote transmits packets packets at a measly 9 Hz. This low update rate most definitely contributes to the laggy feeling and lacking radio range of the original remote. Why so slow? It was probably a battery life tradeoff. The original remote ran off of two AAAs, whereas my replacement is going to have significantly more power available. By transmitting about 10x as often, my remote can achieve much better responsiveness, plus it can tolerate more radio noise by virtue of having a lot more redundancy. Even if many packets are corrupted, quite a few packets are likely to make it through the air unharmed.
+
+Each packet contains a motor strength update, as an 8-bit number which seems to have a usable range of 0 through 128. The packets themselves always have 9 bytes of payload provided by the microcontroller, plus a CRC and header which is generated by the CC2500 itself. Here’s the payload of a typical packet:
+
+01 00 A5 28 28 00 00 00 05 \___/ Motor Strength
+
+In this example, the motor strength is 0x28, or about 30% of full power. I’m not sure what the other bytes are for. They seem to stay constant, and simply replaying these packets back to the vibrator always seems to work. I’m also not sure why there are always two copies of the motor power byte. It seems most likely that this is for added redundancy, so that even if the radio is very noisy and there’s a CRC collision, the vibrator is unlikely to accept a corrupted motor strength byte.
+
+At this point, I had enough information about the protocol to try and build my own emulation of the original remote. This was before I had ordered any CC2500 breakout boards, so I used the remote itself as a dumb CC2500 radio by holding the original MSP430 microcontroller in reset. This was the setup I used to develop an Arduino library that could configure the CC2500 radio correctly and send packets like the ones above.
+
+Now that the yak was bald, I could get on to the really fun part of the project: Designing a better, stronger, faster remote using commonly available parts.
+
+Power Exchange
+
+At this point, the project was seeming pretty straightforward: Off-the-shelf Arduino, CC2500 breakout board, sonar sensor, and LED display. But how would I power all of this? The sonar and LEDs are both pretty power-hungry, and I would be using the radio much more heavily than the original remote. I would need to budget nearly 100 mA, with 5v rails for the sonar and LED and 3.3v for the radio and Arduino.
+
+I certainly could have used AA or AAA batteries. I wanted the mechanical design to be simple and compact, though. Designing my own battery holder would not have been simple, and an off-the-shelf plastic battery holder would have been bulky. I even thought about using a flashlight body as a battery holder, but I didn’t see an elegant way to attach my own mechanical parts to it. Rechargeable batteries come in much more friendly shapes. But now you need a charger.
+
+This was getting complicated fast. Lithium polymer battery, a boost converter to raise the voltage to 5V for the sonar module, charging circuit, “fuel gauge” indicator. All of this work goes into every commercial product that runs on batteries, and we often take it for granted. As far as I’m aware, though, there isn’t a great equivalent for quick DIY prototyping. The Arduino Fio board is close to what I want: an Arduino with a built-in LiPo battery charger. But it doesn’t have the 5V boost converter or any way of monitoring the battery’s charge.
+
+Without designing my own PCB, I’d need several separate components: battery, fuel gauge, charge/boost. All total, over $45 and a lot more bulk and complexity than I wanted. I was really hoping there was a better option.
+
+It so happens that this sort of amalgamation of parts is already pretty commonplace in the form of portable cell-phone chargers. These devices are very little more than a boost converter, charger, lithium battery, and a very basic fuel gauge. Best of all, thanks to economy of scale, they’re really inexpensive. The 3200 mAH battery I used in this project was only $22, and it’s something I can reuse for multiple projects… or even to charge my phone.
+
+Bill of Materials
+
+This lists the exact parts I used in my prototype, but nearly everything here is commonly available from multiple manufacturers. In particular, many different vendors on eBay usually carry CC2500 breakout boards. Some of these have special features such as nicer antennas or power amplifiers. Keep an eye out for those.
+
+
+
+That’s it for the list of vitamins we’ll need to make the remote. There is no “main” PCB for this project. The small boards are all held in place by a custom-designed plastic enclosure.
+
+At this point, I did a little bit of preparation on the Arduino by soldering the FTDI-compatible serial header, and disabling the pin-13 LED by desoldering its current limiting resistor. If it was still attached, its glow would be visible through the plastic enclosure. You may also want to remove the LED on the Ping module. I forgot to do this on my prototype, and its blinking is just barely visible through the plastic.
+
+Plastics
+
+It’s easy to neglect the non-electronic parts of any electronics project. I’ve certainly built my share of prototypes that were little more than a bare circuit board. In this project, though, the plastic parts serve multiple purposes: providing a slot for the battery pack, holding the individual circuit boards in place, and providing a smooth exterior that’s a little less unfriendly to use in the bedroom.
+
+This seemed like a perfect job for 3D printing. I could make a plastic enclosure that exactly fits each of the circuit boards, and presents the LEDs and sonar transducers nicely while hiding all of the sharp and uncuddly circuitry inside.
+
+I chose to model the enclosure in Blender, a wonderfully powerful (if somewhat intimidating) open source tool. It takes some care to use Blender for CAD, but I enjoy having such diverse functionality integrated into one package, and the price is right.
+
+To keep the model as parametric as possible, I modeled the shell and the negative space separately. First, I created meshes for each of the internal parts: The circuit boards, bolts, antenna hole, battery pack, USB connector. These meshes would become the negative space inside the enclosure. I separated them into two layers, for items that would mount to the top and to the bottom half of the case. On the top-half items, I extruded them downward, and the bottom-half items were extruded upward. This leaves the space toward the inside of the case hollow.
+
+I modeled the outer shell using subdivision surfaces. A chain of boolean modifiers will non-destructively split the case into top and bottom, then carve out all holes. The downside to this technique is that all of the boolean operations can bog down Blender quite a bit. This can be mitigated by keeping your source meshes and your final meshes in different layers. With the final layers hidden, Blender won’t continuously recalculate them as you edit the source meshes.
+
+The end result of all this 3D modeling was a set of polygonal meshes in STL format for the top and bottom halves of the case:
+
+I used Slic3r to convert the polygon models into G-code, a simple language that defines the actual tool path used by the printer. This program slices the 3D model into many thin layers. The 3D printer will draw out each layer with a thin filament of molten plastic. After each layer, the nozzle moves up a little and the process repeats.
+
+This is a visualization of the tool path for just one of these thin layers. The tight zig-zag pattern is a solid fill, but much of the interior is filled with a light-weight honeycomb pattern that saves material and time:
+
+Over the course of several hours, my printer builds each part up from nothing.
+
+A tiny bit of post-printing cleanup helps the parts assemble smoothly. A hobby knife makes quick work of the “brim” that is added along the bottom of each part to help it stick to the build surface. Since this will be a handheld project, it’s important to sand any sharp corners.
+
+I also sanded the entire top face of each model, to eliminate any small bumps that would prevent the two halves from sitting flat against each other. This is a good time to test-fit the pieces with a pair of bolts and nuts. The bolts should go in easily, the nuts should be held in place by the hexagonal holes on the bottom half, and there should be only a very tiny gap between the two halves.
+
+Assembly
+
+Each component sits in its own custom-fit hole, with some epoxy to hold it in place. All of the components on the bottom half need to be robustly anchored. The radio’s antenna connector, the battery pack USB plug, and the Arduino’s serial header will all be subject to some mechanical force during normal use.
+
+I used a liberal dose of epoxy both under and above the USB plug. The Arduino and Radio boards both have flat backsides, so I put a dab of epoxy underneath both. On the radio, I added some additional dabs of epoxy at the corners near the SMA connector.
+
+It’s probably a good idea to avoid getting any epoxy on the RF components on the front side of the radio, as it may affect the circuit’s impedances and lead to reduced radio range. Also try to keep it off of anything you’ll be soldering. Solder won’t stick to it or burn through it, you’ll just be left with a mess that you have to scrape off with a hobby knife.
+
+I used the battery pack itself to help line up the USB connector while the epoxy sets. You’ll notice a little bit of wiggle when the connectors are mated. To make sure the battery pack plugs and unplugs smoothly, make sure that you seat the USB plug such that it’s pressed all the way to the back of the socket. This will ensure the plug isn’t stuck at a funny angle.
+
+The top half assembles in a similar manner. The sonar and LED modules both press into their respective slots. When they’re all the way in, the front face of the LED module and the front of each sonar transducer should be approximately flush with the front of the enclosure.
+
+Since these components are largely held in place by the shape of the enclosure, they only need a small amount of epoxy to keep them from sliding out of their holes. Note that the underside of the sonar module is exposed to the battery compartment. Make sure you go easy on the epoxy. Any blobby epoxy or messy wiring could get in the way of the battery pack.
+
+After the epoxy set, I soldered everything up point-to-point style with wire-wrapping wire:
+
+Module Pin ↔ Module Pin USB Plug GND Arduino GND USB Plug +5v Arduino RAW Arduino GND CC2500 GND Arduino VCC (+3.3v) CC2500 VCC Arduino 10 CC2500 CSN (SS) Arduino 11 CC2500 SI (MOSI) Arduino 12 CC2500 SO (MISO) Arduino 13 CC2500 SCK Arduino GND LED GND Arduino RAW (+5v) LED VCC Arduino 3 LED RX Arduino GND Ping GND Arduino RAW (+5v) Ping 5V Arduino 4 Ping SIG
+
+There will be six wires running between the top and bottom half. It’s okay to leave these a little bit long; there will be room to fold them up in the hollow space above the LED module.
+
+Firmware Time
+
+Bolt the enclosure together, making sure the wires end up in the hollow area instead of pinched in the edges of the controller. Now it’s ready for some firmware! The Arduino sketch is in the project’s GitHub repository.
+
+I designed the enclosure to work with common 3.3v FTDI cables. The programming slot is probably a bit too narrow for the FTDI Basic, but perhaps it works. I already had a Prop Plug handy, so I’ve been using that with a simple passive adaptor.
+
+The firmware is currently pretty basic. It takes sonar measurements as fast as it can, feeding those into a median filter. Median filters are a little bit magical when it comes to discarding outliers from noisy-ish data. There’s a smidgen of state machinery to manage the “lock” mode. Finally, it scales the distance reading to a motor power level and sends packets to the radio and LED modules about 80 times a second.
+
+The Next Thing
+
+Where to go from here? Well, there is certainly room for improvement in the firmware. For different kinds of play, it may make sense to have different scaling algorithms for converting distance to intensity. I’m interested in making the firmware more versatile, but not at the expense of reducing its intuitive quality. The “Lock” mode is already way too unintuitive for my tastes. Perhaps an additional flavor of user interface, via an accelerometer or SoftPot would help.
+
+But honestly, the thing I’m most excited about improving isn’t even technical. In some ways, this kind of toy feels like a musical instrument. It is a simple machine with very few inputs, but it interacts with your body in such a way that it opens up a broad array of techniques that can each be mastered. I’m looking forward to spending more time with it and learning how to play.
+
+I’ve already been thinking about the vast array of other sensing technologies that may be applicable for sex toys that support your own feedback loops instead of obstructing them. What if you could use a Kinect camera to remotely detect even your body’s subtler rhythms? Imagine using a phase-locked loop to not just synchronize with your motion, but predict it. The PLL could compensate for all of the system’s lag, including the mechanical lag in the vibrator motor.
+
+There could be a lot more to electronic sex toys than just a battery and a motor. I want the future to be full of toys that know how to play.

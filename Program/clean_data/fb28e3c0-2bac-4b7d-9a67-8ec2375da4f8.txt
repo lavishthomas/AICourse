@@ -1,0 +1,43 @@
+In our tests, the EX6200 could stream 1080p YouTube videos to three laptops at the same time (one up to 63 feet away), and it was the only extender we tested that could stream a 4K YouTube video to a single laptop at the same distance. The Netgear EX6200 also had the best long-range performance, even through exterior walls. It was the easiest to configure and it can give your devices the fastest connection they're likely to support.
+
+Do I need one?
+
+Our main pick, the Netgear EX6200, has a configuration page that shows you its three modes and their tradeoffs in a clearer way than you'll find on competing extenders.
+
+If there are parts of your home or apartment that don't get a good Wi-Fi signal, a wireless extender can give you a boost. The extender connects to your Wi-Fi somewhere with good signal and re-broadcasts its own networks, extending your Wi-Fi bubble beyond the range of your router.
+
+If your Wi-Fi isn't good enough, though, a wireless extender shouldn't be the first thing you try. A good wireless-ac router can vastly increase the speed and range of your Wi-Fi signal. If you already have a good router, try moving it to the center of your living space first.
+
+How we picked
+
+Our four finalist AC1200 extenders (from the top left, clockwise) were Netgear's EX6200, D-Link's DAP-1650, Amped Wireless's REA20, and Linksys's RE6500.
+
+A good extender should support the older, more crowded 2.4GHz band and the newer, faster 5GHz band. Single-band extenders aren't ideal, because they connect to the router and your devices using the same band, making the connection slow. A dual-band extender can avoid that by using one band to talk to the router, and the other to talk to your devices.
+
+Almost all new laptops, tablets, and smartphones support 802.11ac (the latest Wi-Fi standard). AC1200 routers and extenders, which use two spatial streams on both 2.4GHz and 5GHz, can handle the fastest speeds of the one- and two-stream wireless-ac devices that are most common today.
+
+We came up with our initial list of 25 extenders after researching top reviews from SmallNetBuilder, CNET, and PCMag.com. We also considered any of the 20 bestselling extenders on Amazon that were dual-band, as well as any dual-band extender currently featured on the major manufacturers' sites.
+
+Our pick
+
+The EX6200 doesn't come with an audio jack for streaming music to speakers, but it has every other connection you would want. (Its USB 3.0 port is on the front.)
+
+The Netgear EX6200 is the best wireless extender for most people. It's a dual-band, two-stream wireless-ac extender, and its great speed and range, multiple operating modes, and Gigabit Ethernet ports make it the best choice for people who need a good signal for all of their faraway Wi-Fi (and wired) devices.
+
+Every extender we tested was fine at close range, even through interior walls and furniture. However, the Netgear EX6200 was the only extender we tested that hit speeds above 30 Mbps—faster than most home Internet plans in the US—from 63 feet away, and delivered a flawless 4K YouTube stream at that distance.
+
+The EX6200 is easy to set up and, unlike competing extenders, it comes with three different connection modes to help you get the best performance for your particular situation. Our pick is also a five-port Gigabit Ethernet switch. Many extenders only come with one Gigabit Ethernet port or, worse, only support 100 Mbps Fast Ethernet.
+
+The Runner Up (which works great as a wired access point)
+
+The D-Link DAP-1650 doesn't come with any external antennas, unlike most extenders. It's a lot more compact than our main pick, which gives you more options for placing it around your home.
+
+If you don't mind stringing Ethernet cable from your router to your extender, or if the Netgear is out of stock or too expensive, you should get D-Link's DAP-1650 ($85). As a wireless extender, it's not as fast or as flexible as our pick. However, as an access point connected to your router over Ethernet, the DAP-1650's wireless-ac speeds are much better than the EX6200 (which doesn't support this mode). D-Link's extender comes with four Gigabit Ethernet ports. Its USB port is only 2.0, but that's enough for media streaming and printer sharing.
+
+Our major criticism of the DAP-1650 is that it broadcasts on both 2.4GHz and 5GHz bands at all times, but only connects back to your router on one of them. If you connect to the same band that the router is connected to, your speed will suffer.
+
+In closing
+
+If you already have a good wireless-ac router and it's not enough, the EX6200 is a great extender because it offers the best combination of speed and range for a reasonable price.
+
+This guide may have been updated by The Wirecutter. To see the current recommendation, please go here.

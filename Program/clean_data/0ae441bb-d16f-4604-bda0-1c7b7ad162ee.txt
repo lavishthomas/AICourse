@@ -1,0 +1,161 @@
+Every Facebook page owner’s first stop for Facebook analytics should be their page’s Insights. Facebook recently revamped Insights with the following sections of information about your Facebook page:
+
+Overview
+
+The Overview tab gives you the most important data about your page at a glance, including new page likes, post reach, and engagement for the last week.
+
+Beneath this, you’ll see data about your most recent page posts, including the type of post (link, photo, etc.), targeting, reach, clicks, and engagement (likes, comments, and shares) alongside the amount you spent promoting your posts using Facebook Ads.
+
+You can click on the header for each portion to view more detail, or use the navigation menu above to see the following.
+
+Likes
+
+The Likes tab shows your page’s fan growth. You can use the date selector to view data from the last week, month, or quarter. As you hover over your total page likes graph, you can see the number of likes you had on a particular date.
+
+Beneath this, you will get a breakdown of how your likes changed on a daily basis, including unlikes, organic likes, paid likes, and net likes (total likes minus unlikes).
+
+You also can see where your page likes come from. People can like your page using the like button on your page or from page suggestions, ads, and stories about others who have liked your page.
+
+This tab can help you gauge whether your page is growing at the rate you would like, and whether you are getting the most new fans from organic traffic or ads.
+
+Reach
+
+Want to know how much reach your Facebook posts have received from organic and paid sources? This can be found in the Reach tab.
+
+You can get a breakdown of positive actions such as likes, comments, and shares on your Facebook posts.
+
+You also can get a breakdown of negative actions such as the number of times your posts have been hidden, reported as spam, or caused someone to unlike your page.
+
+Finally, you’ll see your total reach from any activity related to your page, including posts, posts by others about your page, ads, mentions, and check-ins.
+
+This tab can help you see activity around your page as a whole, so you know whether your latest efforts to boost engagement have made a difference.
+
+Visits
+
+The Visits tab is one of the most informative. This is where you can see the areas of your Facebook page that people visit most, including your timeline, info, and photos tabs.
+
+Next, you can see the specific actions taken, such as mentions, posts by others on your page, check-ins, and offer purchases.
+
+Last, is a rather complex looking graph showing the top sites that refer traffic to your Facebook page.
+
+This tab can help you determine where to focus your efforts, from where to place your most important content (usually your timeline over your info tab) to where to promote your page for more fans (such as your website or other profiles).
+
+Posts
+
+Curious about when you should post to your Facebook page? The Posts tab starts off with a graph of when your fans are online.
+
+You can toggle over to Post Types to see the types of posts on your page that get the most engagement.
+
+Beneath this, is a more in-depth table of individual post data. The default view shows type, targeting, reach, engagement, and promotion budget.
+
+You can use the dropdown arrows at the top right of the table to switch to different views, such as reach between fans and non-fans.
+
+Or between positive and negative actions on your individual posts.
+
+This tab can help you choose the right type of content to post on your page for increased engagement and decreased negative actions.
+
+People
+
+Last, but not least, you’ll find demographic information about your fans, the people reached by your page, and the people engaged by your page in the People tab.
+
+This tab can help you determine if you are reaching your targeted audience. If not, it might be time to take a long look at your strategy, ad targeting, and other efforts to grow your Facebook page.
+
+Pages to Watch
+
+Another thing to look for in your own page’s admin dashboard is the new Pages to Watch block.
+
+Here, you can add pages of your competitors to monitor their growth.
+
+If you notice a huge increase in fans for a competitor in the last week or two, then you’ll know to go check out their page and see what they have been doing. It might be something you can replicate, such as a contest or series of updates.
+
+Basic Page Insights
+
+Want a simpler view of your insights? Just go to your page and click on the custom tab that shows the number of likes you have.
+
+Here, you’ll find the total number of likes and people talking about a page, basic demographics, a graph of the page’s popularity over the last month, and your friends who like the page.
+
+The best part is you can do this on any page, including those you don’t own, such as those of your competitors.
+
+Google Analytics
+
+Google Analytics can help you learn more about how Facebook traffic affects your website and your business. For starters, if you look under Acquisition (formerly Traffic Sources) > Social > Network Referrals, you can see how Facebook stacks up against other top social networks for driving traffic to your website.
+
+When you click on Facebook from this table, you can see what pages on your website get the most traffic / shares from Facebook.
+
+Alternatively, you can look under Acquisition > Social > Landing Pages to see the top pages on your website that receive traffic from social sources. Click on specific pages to find out how much traffic Facebook is sending them versus other social networks.
+
+If you have set up goals in Google Analytics and are curious about social conversions, look under Acquisition > Social > Conversions. Here, you can see if Facebook drives the most converting visitors to your website.
+
+If you prefer a more visual view, look under Acquisition > Social > Visitors Flow and click on the box for Facebook to select view only this segment.
+
+This will give you a flowchart of the path visitors from Facebook take on your website.
+
+If you’re trying to determine what social network helps your business the most, Google Analytics will help you go beyond page activity to learn about the actual traffic coming to your website from Facebook.
+
+Additional Facebook Analytics Tools
+
+Want more than what Facebook Insights and Google Analytics has to offer? Here are some additional tools you can use to dive into the analytics and insights for both your pages and your competitors’ pages.
+
+Simply Measured
+
+Simply Measured offers two sets of tools – free reports for small businesses looking to analyze specific areas of their Facebook presence and Facebook Analytics for Brand Marketers, which provides a certified analytics solution for brands and digital agencies. For businesses who do not want to invest in the $500 per month service, you still can get some valuable insights from the following free reports:
+
+(Note: You will be asked to post an update about their service to your Facebook account in order to access the custom reports. You can look at sample reports first, before you enter your own data and post an update to your account, to see if it is of interest to you.)
+
+Competitive Analysis Report – This report allows you to benchmark the last two weeks of activity from your page against your competitors for pages with no more than 250,000 likes.
+
+Facebook Fan Page Report – This report will analyze any fan page’s audience, content, and engagement trends for pages with no more than 250,000 likes.
+
+Facebook Insights Report – This report allows you to analyze the last two weeks of your Facebook fan page’s Insights to learn more about your audience, volume, content, and engagement for pages with no more than 2 million likes.
+
+Facebook Content Analysis Report – This report allows you to analyze the last two weeks of brand posts on Facebook to identify the types of content (photos, links, videos, etc.) that drive the most engagement and how to optimize different types of content to increase engagement for pages with up to 250,000 likes.
+
+Sprout Social
+
+Sprout Social users can access a Facebook fan page report in their admin dashboard that gives them a summary of data for up 90 days that includes number of likes, unlikes, page impressions, breakdown of impressions, visitor demographics, sharing statistics, and engagement of post content.
+
+It’s essentially an easy to understand report that gives you exactly what you need to know about your Facebook page in a nutshell.
+
+AgoraPulse
+
+AgoraPulse allows you to manage your Facebook page as well as get easy to read insights about your page’s growth and engagement.
+
+In addition to monitoring your own page, you can add your competitors’ pages in to see how you stack up in terms of audience size, admin posts, page posts, interactions, and overall engagement.
+
+Komfo
+
+Want a quick analysis of your last 30 day’s worth of Facebook posts? Try Komfo’s free Facebook analytics tool. Sign up for free and connect your Facebook account to get the fan penetration, viral amplification, click-through rate, spam score, stories, and reach for up to 100 posts.
+
+This tool will quickly identify both your most viral and most spammy posts, based on your average overall engagement.
+
+Fanpage Karma
+
+Fanpage Karma offers a lot of data about your fan page and those of your competitors. Just create a free account and start looking up the pages you are most interested in.
+
+You’ll learn more about the type of content posted on the page, influencers who engage with the page, fan posts, fan growth, and more. You also can sign up for a premium plan for continued monitoring and in-depth analysis.
+
+SocialBakers
+
+SocialBakers is a premium analytics tool that allows you to dive deep into the KPIs for your fan page as well as those of your competitors.
+
+You can see your main KPIs at a glance (change in fans, people talking about your page, average engagement rate, interactions, admin posts, user posts, etc.). You also can use this tool to do things like compare your page’s engagement with competitors and even see details such as your audience growth in relation to posts you’ve made on your page.
+
+Rival IQ
+
+If you really want to keep up with your competitors, then Rival IQ is the tool for you. It is a premium tool that allows you to research and stay updated about your competitors’ latest updates to their websites, SEO, and social networks.
+
+For Facebook, you can compare and monitor your page’s likes, posts, post engagement, shares, and description with those of your competitors as well as get email updates about their latest changes. It’s an easy way to make sure you are taking the lead in your industry.
+
+WolframAlpha
+
+Do you market your business with your personal Facebook page? If so, try WolframAlpha’s Personal Analytics for Facebook report.
+
+This will go through your personal profile to give you stats about the content you post, keywords you use, the people you are friends with, and much more. While it’s not Facebook Insights, it is the most comprehensive information you can get about your personal profile activity and connections.
+
+In Conclusion
+
+There are lots of ways for you to keep up with your business’s Facebook presence as well as with that of your competitors. In the beginning, be sure to monitor your Facebook Insights and dig into your Google Analytics to learn more about the traffic Facebook sends to your website. Then try out the free and premium third-party tools to get an even deeper analysis into your Facebook campaign.
+
+What tools do you use for Facebook analytics? Please share in the comments!
+
+About the Author: Kristi Hines is a freelance writer, professional blogger, and social media enthusiast. Be sure to sign up for her free mini-training course, 8 Days to Promotable Content, and learn how to create content that people love to share! You can also find her on Google+ and Twitter.

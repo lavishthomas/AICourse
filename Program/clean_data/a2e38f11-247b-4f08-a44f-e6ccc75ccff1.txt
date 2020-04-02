@@ -1,0 +1,29 @@
+Written by Jim Manzi, chairman of Applied Predictive Technologies.
+
+Big Data is now deep into the hype phase of the innovation cycle. All the classic signs are there: you can eat buffet dinners all 52 weeks a year at Big Data conferences, Big Data tag lines are now common in emails from industry analysts, and even investment bankers are tossing around the phrase. Any experienced businessperson has seen this movie before with earlier technologies ranging from the World Wide Web to CRM to Enterprise Data Warehouses. As with these other innovations, however, there is real substance at the root of the hype. And – like CRM, the Web, and data warehouses – Big Data is very likely to be a big part of running almost any large corporation in the future.
+
+Most early movers among the users of these prior technologies lost a lot of money, but a small number created enormous shareholder value. By definition, all of the early movers were willing to take risks. But three characteristics distinguished the winners from the losers.
+
+First was an unwillingness to be snowed by conventional wisdom, technical jargon or the fairy tales of universal knowledge that abound when everything was still mostly talk and potential.
+
+Second was a strong bias to act quickly at low cost, learn what works from experience, and then reinforce strengths. The ultimate goal was always to exploit the opportunity to pour cash into successful innovations before the competition, but these companies recognized that trial-and-error learning usually uncovers opportunities faster than master plans.
+
+Third was a ruthless focus on profits in excess of capital costs within the foreseeable future as the success criteria for proposed investments of time or money.
+
+This article will attempt to consider the Big Data opportunity from the point of view of the P&L-owning executive. It will keep experience of these prior technologies front of mind and will focus on one question: How can I use Big Data analytics to increase shareholder value?
+
+I have spent more than a decade trying to answer this question. Consumer-focused businesses have the latent power to exploit what is now called Big Data. This data has now been stored and maintained to create a multi-year history that grows year-by-year. Integrated with this are continuously updated data streams for thousands of weather monitoring devices across continents, social media data from various leading services, detailed individual and micro-geographic demographics, comprehensive business census data, and numerous other datasets. These transaction and other datasets are growing rapidly in terms of percentage coverage of all consumer transactions, variety of data sources, data granularity, and geographic coverage.
+
+The strategic intent has been to triangulate between business strategy, algorithmic math, and database structures to develop software tools that can change decisions to measurably increase shareholder value. The size and complexity of this data, in combination with the focus on the creation of shareholder value through competitively superior decision-making, has required a unique process that has led to some conclusions contrary to emerging received wisdom, starting with an unconventional definition of Big Data.
+
+What follows outlines three major analytical approaches for unlocking the latent opportunities of Big Data. Each can be exploited now, and at least some major corporations are doing so currently. No source of competitive advantage lasts forever, but some last longer than others. This review proceeds from those opportunities that we believe to be the most transitory to those that we believe to be the most sustainable basis for long-term success.
+
+1. Do It the Old-Fashioned Way: Exploit Faster Clock Speeds First
+
+Mary Smith walks into a grocery store, shops for twenty minutes, checks out and leaves. What stored data describes this visit that can be used to improve future decisions?
+
+In most real-life large retailers, the data would be Mary Smith’s customer ID number (from the loyalty or credit card program), the store ID number, the time of the transaction, the list of items she purchased, and the price paid (including discount codes) for each. The retailer might also collect and maintain address, phone number, email and other contact information for Mary Smith, and might also purchase information that describes her credit score and other financial data from third-party service bureaus. All of the transaction records for all customers for the last several years are collated to create the transaction data warehouse. This core database is usually on the order of 1 to 100 terabytes for a Fortune 500 company.
+
+Typically, various data “cubes” that can be queried by normal Business Intelligence (BI) tools are hived off by taking abstractions (e.g., transactions summarized to units, sales and margin by product by store by day) or subsets (e.g., all transactions in one product department for the last 12 months) of the complete database. Major BI tools answer descriptive questions such as “What is the most common product to be bought with diapers?” or “On what day of the week do we sell the most beer in Pittsburgh?” Cubes are created because of processing speed constraints.
+
+Ten to fifteen years ago a database measured in terabytes was very Big Data. It required capabilities like specialized database software, query tools, and massive IT support to maintain a whole system around this. Companies could achieve material competitive advantage by being cleverer about how to structure the data model, design queries, and so forth. Walmart is probably the most famous example of this.

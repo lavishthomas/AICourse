@@ -1,0 +1,47 @@
+Within the rough and tumble microcosm of motorcycle racing, MotoGP rules the roost with its astronomical budgets and Formula 1-like levels of bespoke engineering. But if you want to see knee-to-knee competition on relatable motorcycles that have more in common with street legal sport bikes than the prototype monsters of the top rung series, you'll want World Superbike Racing.
+
+In case you’re unfamiliar with this brand of racing, the global series features highly tuned superbikes based on the production motorcycles (née Crotch Rockets) you can buy at your local dealership—or the other way around, depending on how you look at it. If you doubt the caliber of the greatest racing series most Americans have never heard of, consider that at last year’s races at Mazda Raceway Laguna Seca, Kawasaki’s Tom Sykes eked out a 1:21’811 qualifying time—just 1.257 seconds off the MotoGP record set in 2012 by Jorge Lorenzo. That sliver of a difference that speaks volumes to the blood, sweat, and tech that makes World Superbike racing such a riveting sport.
+
+Accounting for that sliver of a difference is the massive effort that goes into fine-tuning these bikes to be more powerful, better handling, and stronger stopping versions of sub-1,200cc motorcycles. The effort focuses on three areas: Collecting huge amounts of data, developing tires to perfectly suit race conditions, and equipping the bikes with enough electronics to light up most of North Korea. The best part? This technology sooner or later migrates into bikes that you the consumer can throw a leg over.
+
+The Data Crunch
+
+Over a World Superbike race weekend, gigabytes of data are downloaded from nearly 400 channels on each competing motorcycle, covering everything from suspension travel and brake pressure to oil temperature and engine control unit behavior. The data can be analyzed onsite or streamed to a remote server (like at Ducati’s base in Bologna or Kawasaki’s in Milan), but the point is that engineers have gobs of data to analyze exactly how the bike is behaving, and thus how to make it better.
+
+Depending on whom you ask, this massive data download is either an indulgent layer of expense and complication (“Remember when racing was just dudes on bikes?”) or a stone cold bargain (“Hey, they’re not running live telemetry, like F1!”). The hardware may not be particularly expensive, but the manpower required to interpret the data can total around $300,000 per season.
+
+The Tire Game
+
+The fate of tires in World Superbike racing—and to a certain extent, the series at large—rests on Pirelli. The Italian firm supplies the rubber for each team (it does the same for Formula 1). At last year's race at Mazda Raceway Laguna Seca alone, it provided 1,939 tires.
+
+Pirelli provides all the tires for each time, creating special compounds for different track layouts and weather conditions. John Pangilinan
+
+The tire maker’s more daunting task is engineering a variety of options to keep everyone happy across the season’s 14 circuits and a wide variety of weather and surface conditions. “One team might say, ‘This solution is fantastic; I gained a second per lap,’ while another might say, ‘This is dangerous,’” says Giorgio Barbier, Pirelli’s racing activities director. “What I would like is an average advantage for everyone,” a goal that requires equal parts diplomacy and inventiveness.
+
+For the 2014 season, that meant developing 10 compounds designed for varied track conditions including ambient temperature, surface quality, and circuit layout. Those included six for the rear tire (comprised of four slicks, a wet intermediate, and a wet), and four for the front (two dry slicks, a wet intermediate, and a wet).
+
+In a theoretical world, tires could be hyper-specialized to address each track’s unique characteristics. For instance, Australia’s Phillip Island Circuit primarily involves left turns, while Italy’s Monza, one of the last of the old-fashioned tracks, features an unusually long straight, and thus produces huge demands on braking. “We could create a tire tread with six different compounds,” says compounds engineer Fabio Meni, but “what would be the use?” Not much, since Superbike tire development technology is intended to trickle down to commercially available rubber. “You could just use racing to promote the brand and improve lap times, but it wouldn’t allow you to improve your [consumer] products,” says Barbier.
+
+The Electronic Connection
+
+A Superbike rider’s relationship with the electronics that manage a motorcycle's performance often bounces between love and hate. Ducati’s Chaz Davies grew up racing analog two-strokes, and says electronics have played a considerably bigger role within the last five years. “It occupies a lot of time over the weekend,” he admits, adding that his job involves supplying constant feedback as well as assessment and adjustment of variables including engine braking levels, throttle maps, and traction control. Adjusting the electronic settings just so requires riding a fine line. For instance, when the wheelie control setting is too intrusive, Davies loosens the reins to unleash more power.
+
+But Davies finds that riders who rely too much on electronics are eventually slowed down. “I think the rider still needs to be 60 to 70 percent in charge when you’re flat out. If electronics are doing everything, the front wheel is on the ground and you’re not getting the best acceleration. As a rider, you need to fight and be physical and not just let the electronics take over. If it were like that, you’d have an automatic bike.”
+
+>"There has been a huge trickle down \[of technology\] to the average Joe."
+
+Ducati’s World Superbike program benefits from electronics systems that are largely shared with the brand’s MotoGP efforts, but Davies still believes success largely comes down to riders. “I think the best riders, whether you have electronics or no electronics, will come to the fore; with too much electronics, you don’t go fast, and with too little electronics, you don’t go fast. You’ve got to strike the balance.” Davies also says technological aids also fuel development of road bikes, which supports manufacturer’s efforts both on and off the track.
+
+Kawasaki’s Tom Sykes echoes the sentiment. “At the end of the day, there’s a fine balance with technology and how it can be your worst or your best tool,” he admits. “It’s down to the rider to give that feedback, and down to the operator as well to manage the rider’s comments and what he picks up. The beauty and excitement of racing for me is developing in every area, and technology is just one of them.”
+
+Some wonder if the bikes are doing too much work for the riders. “[On TV] with super-slow, you can see a lot of riders just whacking the thing wide open, but the bike doesn’t even wheelie or protest, it does nothing,” says Team Hero EBR’s Geoff May. “It just goes straight out of the corner like it was shot out of a cannon.” May says he attempts to dial in the wheelie control so the front end stays down and the traction control to prevent excessive wheelspin, which he learned about the hard way when he high-sided at Phillips Island. “It’s necessary because everybody has [electronic aids] and the guys that are able to get the best handle on it are up front. You see it week in and week out, especially if you watch Aprilia and Kawasaki, those things are completely dialed in electronically.”
+
+The upside of electronic intervention, May says, is the effect on street bikes. “There has been a huge trickle down to the average Joe. Our street 1190RX has 21 different settings you can tailor for track days. I’ve also had experience with the Suzuki GSX-R1000 with its three [throttle] maps, which can save you in the rain.”
+
+Building a Better Bike
+
+As much as the global stage of World Superbike racing is an extreme amalgam of supremely talented racers and focused machines, much of its appeal lies in the relative accessibility of the hardware, which more closely resembles consumer grade superbikes than the exotica on display in MotoGP.
+
+Ducati Team Manager Ernesto Marinelli says, “You have a transfer from MotoGP to Superbike, which then transfers to production motorcycles.” Similarly, the GP-developed electronics packages are often shared by World Superbike teams, which frequently make their way into street bikes. Tire construction and compounds also benefit from the lessons learned on the track, leading to grippier, more adaptable—and ultimately, safer rubber for the road.
+
+Though the average street rider lacks the skills to wring out a fraction of the capabilities wrapped up in their superbike, there’s a certain amount of pride taken in knowing your ride is a direct descendant of a machine that has fought battles on the world stage of racing.

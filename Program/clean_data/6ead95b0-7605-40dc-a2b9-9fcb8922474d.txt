@@ -1,0 +1,141 @@
+Whenever I speak to people about SEO, the number one question that I get asked is, “What’s the most important factor to rank number one in Google?”
+
+This is a difficult question to answer because it depends heavily on a whole bunch of variables related to your brand, current situation and the kinds of topics that you’re looking to gain visibility around within the search engines.
+
+That said, there are a lot of interesting insights to be had from analyzing a large data set of top-performing webpages. In order for me to give a holistic overview of the factors that are influencing search engine rankings, I need data.
+
+Luckily, data is what I have.
+
+With the help of the amazing team at Accuranker and also Ahrefs, I’ve gathered a huge variety of data points on over 1 million different URLs that rank on page 1 of Google. I also had the help of the amazing, Dimitris Vlachos, who supported on the data collection and organization.
+
+I’m now going to share the distilled findings from the research so that you can understand both the ways that Google is evaluating the webpages that it ranks, as well as highlight the tactics that top websites are using to dominate the search engine results page.
+
+Major Findings from the Data
+
+Backlinks matter. On average, the top 2 results on page 1 of Google equated to having 38% of all the backlinks from pages on page 1. On average, the higher up page 1 the result is, the greater the number of linking domains that the webpage has. Webpages ranking #1 had an average of 168% more linking domains than those ranking #5. Webpages on HTTPS had positive correlation with higher rankings, with 33% of all the sampled URL that ranked either #1, #2 or #3 using HTTPS. Anchor text is still a huge ranking signal. Webpages ranking #1 had an average of 5.42% of their anchor text actually including their target keyword. The further up page 1 you look, the higher this percentage goes. Top-ranking webpages tended to have shorter page titles, with the sweet spot nearing closer to 8 words in length. Webpages with their target keyword in their URL tended to rank higher in Google than those that didn’t. Including your target keyword within your page title positively correlated with higher search rankings. Of the sampled data, over 15% of all the page 1 rankings included the target keyword within its page title. Across the results of page 1, the average ratio of backlinks to linking domains was 37:1. This means that on average, each website that linked to page 1 content was linking from 37 different pages on their website. Top-ranking webpages in Google have shorter URLs, with position 1 URLs averaging 59 characters in length.
+
+Get Access to my Free Link Building Course I've shared 5 of my most effective link building tactics and put them together within a free video course. Get access today and start building better backlinks. Get Access
+
+Breaking Down the Findings
+
+There’s a lot to take in from the major findings, so I’m going to go through each one in a little more detail and explain what the core takeaway is. Before I do that, here’s a brief overview of the dataset that I examined:
+
+A random sample of 100,000 keywords were taken, and each of them had a minimum monthly search volume of 100 searches. From these keywords, the top 10 results on page 1 of Google.com were extracted, resulting in a total of 1 million URLs. For each of the URLs, data was gathered related to their SERP snippet (thanks to Accuranker) and their backlink data (courtesy of Ahrefs), as well as a wide range of HTML elements from the page.
+
+More Backlinks = Higher Rankings
+
+If you’re a regular reader of my blog then you’ll know that I’m a huge proponent of link building. As the data shows, this is one of the biggest factors associated with earning higher rankings in Google, and this is definitely what I’ve seen to be the case from my experience in running successful SEO campaigns.
+
+The chart quite clearly shows a gradual increase in the number of backlinks that a webpage has as you move higher up page 1 of Google.
+
+One of the traps that I often see people fall into is falling for the “create great content and you’ll rank” line that gets thrown about all too often. Great content isn’t enough.
+
+The long and short of it is: if you don’t have backlinks, you’re not going to rank.
+
+Action: go through your existing content and identify pages that are underperforming in organic search. Go through my go through your existing content and identify pages that are underperforming in organic search. Go through my SEO tips guide and test out some of the link building techniques to acquire more backlinks to those pages.
+
+Acquiring Backlinks from Multiple Domains is Important
+
+We know that earning backlinks to content is important, but how important is it that the backlinks are coming from different websites versus the same one?
+
+Well, the data clearly shows that it’s really important to have a substantial amount of diversity in the domains linking to your webpage(s).
+
+This is probably one of the most clear-cut factors that equate to high search engine rankings. In fact, the data showed that, on average, webpages ranking #1 had over 168% more linking domains than the webpages ranking at #5.
+
+This is even clearer to see when you look at the fact that webpages ranking #1 actually receive a 23% share of all the linking domains pointing to webpages on page 1 of Google.
+
+Whenever I map out a backlink acquisition strategy for an SEO campaign, one of the first questions that I try to answer is, “How can I get links from a wide range of different websites that are relevant to me?”
+
+Higher volumes of backlinks are great, but combining that with high diversity is what’s really going to move the needle.
+
+To give you an idea of the general ratio that you may want to aim for, I looked at the average ratio of backlinks to linking domains that results ranking on page 1 of Google.com had.
+
+As the trendline in the chart above indicates, the average ratio of backlinks to linking domains that page 1 ranking webpages had was 37:1.
+
+It’s worth noting here that this isn’t necessarily what you need to “aim for,” but rather it should be used as a benchmark to determine whether your current backlink profile could do with an increase in domain diversity.
+
+Action: Use a tool like Ahrefs to analyze your ratio of backlinks to linking domains. If you find that your backlinks are mainly coming from a small pool of domains, look at a way to diversify your backlink strategy to get links from a greater variety of domains. Use a tool like Ahrefs to analyze your ratio of backlinks to linking domains. If you find that your backlinks are mainly coming from a small pool of domains, look at a way to diversify your backlink strategy to get links from a greater variety of domains.
+
+Get Access to my Free Link Building Course I've shared 5 of my most effective link building tactics and put them together within a free video course. Get access today and start building better backlinks. Get Access
+
+Keyword-Focused Anchor Text Reigns Supreme
+
+Anchor text has been a huge talking point within SEO for many years now. Most of Google’s major algorithm updates focused around weakening the impact of having backlinks with keyword-focused anchor text, but it seems like it’s still a huge factor towards ranking.
+
+This isn’t a big surprise to me. I’ve seen this factor more than any other to create huge upward movements in search engine rankings. I talked a little about this in a study I did of the HubSpot blog, where the 100 top performing blog posts had, on average, over 80% more keyword-focused anchor text than the rest.
+
+The chart shows that results ranking #1 on page had an average of over 5.4% of all their anchor text containing the keyword they were ranking for. In fact, over 1.2% of all the #1 ranking URLs that I analyzed had 100% of their anchor text containing the keyword they were ranking for.
+
+As the chart above clearly illustrates, webpages ranking higher in Google had a much larger proportion of their anchor text containing their target keyword. Ultimately, it seems that keyword-focused anchor text is an important ranking factor, and this was even more evident in the upper quartile of search volume keywords sampled.
+
+Action: Work on acquiring backlinks that have your keyword present within the anchor text of the link. It’s important not to overdo it here, but it’s also important to not neglect it altogether. Work on acquiring backlinks that have your keyword present within the anchor text of the link. It’s important not to overdo it here, but it’s also important to not neglect it altogether.
+
+Shorter Page Titles and URLs Work Best
+
+The page title and URL are two of only a small number of elements that are present for a user to view within the search engine results page. It’s fair to say that they have a huge impact on click-through rate from the SERPs.
+
+I’ve run a number of studies over the page year relating to click-through rate from the results page and have seen very strong correlation between this and higher search rankings, even if Google’s official line is that this isn’t the case, at least as a ‘direct’ ranking factor (don’t believe everything you hear there).
+
+One study that I ran earlier this year enabled me to jump from the middle of page 2 for a high-volume, competitive keyword to the top of page 1 within 15 minutes. Now tell me that it’s not a ranking factor.
+
+The reason why I’m talking about click-through rate is because desirable SERP snippets, like the one shown above, tend to receive a much higher click-through rate, thus receiving a ranking boost.
+
+Understanding what makes a SERP snippet ‘desirable’ is a huge advantage. For larger websites, especially those within e-commerce leanings, there are huge SEO wins to be had with snippet optimization. One of my favorite examples is from Etsy, where they ran a really interesting test across page titles. Thumbtack ran a similar experiment too.
+
+The chart above shows that the title length and Google ranking are intertwined. Shorter titles correlate with higher rankings in Google.
+
+This makes a lot of sense to me for two main reasons:
+
+Longer titles end up being cut off in the search results which means a key part of the phrase could be lost, making it less desirable to the user. Shorter titles tend to get to the point quicker and enable the user to very quickly determine if the result will fulfil their initial need.
+
+On top of this, I looked into whether the length of the URL had a relationship with Google ranking. It’s quite clear to see that there’s a similar relationship with short URLs as there is with page titles.
+
+Again this makes a lot of sense to me, but this time for two slightly different reasons:
+
+Longer URLs tend to look a little more spammy within the search engine results page, and this is amplified if there are a lot of numbers and symbols within them. If a URL is too long then it misses out on the benefit of having any keywords within it bolded, which will likely draw more attention to the user.
+
+Action: Pull a list of all the URLs and page titles from your website using a tool like Screaming Frog SEO Spider. Export the data into Excel and then calculate the length of each one using a simple LEN() query. Quickly identify any page titles and shorten them down to ensure they’re as succinct as possible. Pull a list of all the URLs and page titles from your website using a tool like Screaming Frog SEO Spider. Export the data into Excel and then calculate the length of each one using a simple LEN() query. Quickly identify any page titles and shorten them down to ensure they’re as succinct as possible.
+
+Get Access to my Free Link Building Course I've shared 5 of my most effective link building tactics and put them together within a free video course. Get access today and start building better backlinks. Get Access
+
+The Presence of Keywords in the Page Title and URL is Crucial
+
+As well as the length of URLs and page titles, I tested them to see if the presence of the keyword that the webpage was attempting to rank for would have an impact on higher rankings.
+
+The results were similarly conclusive.
+
+The assumptions that I’d make to explain why this is the case have less to do with the keyword’s presence in the page title being a strong on-page SEO factor, but rather having a relatively large influence on the click-through rate of the search snippet.
+
+Probably the most obvious reasoning behind this would be that the searcher will gain immediate affirmation that what they’re searching for will appear within the webpage displayed. I can’t stress enough the importance of paying attention to this.
+
+An interesting (and free) tool to measure the impact of changes made to page titles is Tom Anthony’s SERP Turkey tool. If you’re interesting in running some tests then I’d highly recommend checking it out.
+
+The story remains the same for the presence of keywords in the URL. If anything, this is a little more conclusive, especially in the #1 position.
+
+There’s an added reason why I believe this can be more influential, and that’s the fact that any mentions of a keyword in the URL will be shown in bold, which draws their attention to it more than those not mentioning the keyword. Just look at this example when I search for “SEO Tips”.
+
+You can quite clearly see the added emphasis placed on the phrase “seo tips” within both the URL and the meta description.
+
+Action: go through your existing content and make sure that the primary keyword you’re targeting is included. For any new content that you produce, try to ensure that the keyword is used within the URL. Avoid updating URLs of existing content because there are greater risks associated with doing this than the potential reward. go through your existing content and make sure that the primary keyword you’re targeting is included. For any new content that you produce, try to ensure that the keyword is used within the URL. Avoid updating URLs of existing content because there are greater risks associated with doing this than the potential reward.
+
+Over 33% of all Pages Ranking 1, 2 or 3 Use HTTPS
+
+Google has come out and said that HTTPS is a confirmed ranking factor. That said, they haven’t actually confirmed how much this impacts search rankings. From the dataset analyzed, there was visible correlation between HTTPS and ranking higher in Google.
+
+All of this to one side, HTTPS is likely only going to get more important. Google is pushing the message of secure browsing particularly hard at the moment, and they will soon be showing much more obvious warning messages to Chrome users when they visit HTTP sites - as you can see below.
+
+One would assume that this shift towards HTTPS stretches far beyond just security, but rather opens up the opportunity of greater browsing speeds through the rollout of HTTP/2.
+
+Considering that at least 33% of all webpages ranking in position 1, 2 and 3 were using HTTPS, it’s relatively clear to see that this is the way the web is heading, and more importantly, the standard that is being set for websites looking to rank well in Google.
+
+Action: If your current website isn’t using HTTPS then you should start scoping out a migration. A good guide on switching over to HTTPS can If your current website isn’t using HTTPS then you should start scoping out a migration. A good guide on switching over to HTTPS can be found here that will go through the necessary steps involved.
+
+Tying This All Together
+
+This results that have come from this study should help guide you on the prioritization of your SEO campaign(s). That said, there are always slight nuances from one campaign to the next - my advice is to always test within your own situation.
+
+Use the findings that I’ve gathered to build your initial hypotheses as well as using them as a ‘best practice’ guide, but ensure that you and your team are consistently experimenting so that you remain up to date with any changes that happen within the search engines.
+
+I’d also recommend reading through my SEO tips guide that should give you a bunch of inspiration on experiments to run yourself.
+
+Finally, I’d like to thank the amazing teams at Accuranker and Ahrefs for supporting with this study. If you’ve not used their tools before then I’d highly recommend checking them out.

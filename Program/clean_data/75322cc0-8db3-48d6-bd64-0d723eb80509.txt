@@ -1,0 +1,55 @@
+See that little $190 daughter card up there^? It houses 240GB of Transcend SSD and it could replace the 64GB or 128GB SSD that came in your MacBook Air in as little as 5 minutes. Even better, Transcend just released larger versions in 480GB and 960GB sizes to blow your SATA III MacBook Air or Pro into new worlds of space. Keep in mind these are SATA-based SSDs and Apple’s latest round of MacBook Pro/Airs came with speedier PCIe SSDs so you can’t use these on Apple’s late 2013/2014 models (see bottom of the article for compatibility list).
+
+I got my hands on a demo unit and took it for a test drive…
+
+My wife’s 128GB MacBook Air from 2011 has been “full” for about a year now and every few months I have to run Cocktail to remove some caches, etc. and keep it going for a few more months. Luckily, it is a Samsung drive and not the slower Toshiba drives that came with these MacBook Airs.
+
+Spoiler alert: here’s Transcend’s video which makes it all look incredibly easy:
+
+The Transcend packaging is extremely nice. The first level you’ll see your new SSD on top. Remove that and you’ll see the enclosure you’ll use to transfer data and which can eventually turn your old SSD into a big fast USB3 stick. One more level down, you’ll see the Torx screwdrivers you’ll need, the “paltry” instructions and cable for the enclosure.
+
+The first step is hooking up the Transcend SSD to the USB3 cable with the enclosed adapter.
+
+A quick BlackMagic speed test to set a baseline for the upgrade.
+
+Then reboot the computer from the recovery partition. From there, go into Disk Utility.
+
+The cloning of the drive actually takes some serious time because the 2011 MacBook Air is USB 2. A very full 128GB SSD took about 1:45 to transfer to the new Transcend SSD with the USB 2 being the big bottleneck. USB 3 shouldn’t take much more than 10 minutes for the same amount of data.
+
+The instructions provided are pretty sparse (just the way I like them). These 2 pages of a small world language book are it!
+
+Now comes the hardware part of the journey. You’ll want to remove all of the screws on the bottom of the MacBook Air with the provided Torx screwdriver. Pro Tip – the longer screws are the ones in the top middle near the hinge. Don’t forget that like I did.
+
+The inside of the MBA was surprisingly dusty. I’ve heard that this is mostly dead skin which gives me the willies. Power through this and locate the SSD on the bottom. It will either be Samsung or Toshiba and will have a Black Torx Screw holding it in. Remove the screw and remove the card. Then pop in your new cloned Transcend SSD and replace that screw.
+
+Compare the two SSDs, Samsung above, Transcend below:
+
+At this point, you might as well pop your old SSD into the enclosure and secure it with the enclosed 3 screws. Then put the back of your MacBook Air back on and power it up!
+
+The first boot up will take a few minutes longer than you are used to. The EFI Firmware has to find the new drive and all kinds of other small things are happening. Also it will be slow at first while spotlight indexes itself again. From there, everything should behave like normal. My wife’s reaction was that the MacBook was much much faster. However that speed was likely due to having some free space rather than actually read/write speed. A BlackMagic test shows that its raw speeds were actually significantly slower than the default Samsung.
+
+However, if you download Transcend Toolbox you’ll get speeds much closer to the theoretical limit of SATA3. JetDrive Toolbox monitoring software leverages S.M.A.R.T. technology to analyze its health status. Additionally, it can enable TRIM support for your JetDrive in OS X, maintaining optimum write speeds and maximizing the lifetime of your SSD.
+
+Obviously this is a great update for those running out of space in MacBook Airs and almost a no-brainer recommendation for those running out of SSD space in our Apple laptops. OWC and others have offered this kind of update for quite some time but the price points never seemed quite so competitive.
+
+Everything you need. The package includes all the tools you need: MacBook-compliant SSD
+
+Enclosure Case with USB 3.0 to SATA Adapter
+
+Screwdrivers (T5 & P5)
+
+Screws for Enclosure Case x3
+
+USB Cable
+
+Rubber Feet
+
+Travel Pouch
+
+Quick Installation Guide & Warranty Card
+
+Match it up. Find the right model for your Mac below1. Model Mac Identifier JetDrive Model MacBook Air 11″ & 13″ Late 2010 Mid 2011 MacBook Air 3,1 / 3,2 / 4,1 / 4,2 *480/960GB JDM500 does not support 3,1 JetDrive 500 (240GB / 480GB / 960GB)2 MacBook Air 11″ & 13″ Mid 2012 MacBook Air 5,1 / 5,2 JetDrive 520 (240GB / 480GB / 960GB) MacBook Pro (Retina®) 13″ Late 2012 Early 2013 MacBook Pro 10,2 JetDrive 720 (240GB / 480GB / 960GB) MacBook Pro (Retina®) 15″ Mid 2012 Early 2013 MacBook Pro 10,1 JetDrive 725 (240GB / 480GB / 960GB) MacBook Pro Late 2008 – Mid 2012 MacBook Pro 5,1 / 5,2 / 5,3 / 5,5 / 6,1 / 6,2 / 7,1 / 8,1 / 8,2 / 8,3 / 9,1 / 9,2 JetDrive 420 (120GB / 240GB / 480GB / 960GB) MacBook Late 2008 – Mid 2010 MacBook 4,1 / 5,1 / 5,2 / 6,1 / 7,1 Mac mini Mid 2010 – Late 2012 Mac mini 4,1 / 5,1 / 5,2 / 6,1 / 6,2 The JetDrive series is specific for certain Mac computer models. Please identify your Mac model here.
+
+480GB / 960GB JetDrive 500 does not support 11-inch MacBook Air Late 2010 due to a mechanical limitation.
+
+MacBook Air, MacBook Pro, Retina, Mac, Time Machine, and Aperture are trademarks of Apple Inc.

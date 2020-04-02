@@ -1,0 +1,127 @@
+Most startups dream about immense organic traffic at their launch. While there has been no rocket or viral growth for us yet, we gain a steady stream of new users every day. We have grown from 0 to 100K signups in 10 months – spending zero – practicing the methods described in this post.
+
+Editor’s Note: We haven’t looked at the signup data mentioned by the guest author, however the conclusions drawn in this post appear to be sound advice. Obviously it’s up to you to use this as a guide and measure your own traffic and signups to see if the takeaways in this post work for you. Today’s post is about RealtimeBoard – a collaboration whiteboard for teams.
+
+First, Prepare to Listen
+
+Before you introduce your product in the market and acquire users, arrange to obtain feedback, because lots of advantages accrue from listening to customers:
+
+You find out if your product brings real value for the target audience
+
+for the target audience Users feel you’re alive and they’re not alone
+
+The first feedback providers are your trusted community and loyal promoters
+
+You have an opportunity to find and work out bugs
+
+A question that is answered once may be used as a guide (FAQ) many more times
+
+many more times Users generate great ideas and topics for your blog
+
+You can use the insightful testimonials on your website to establish credibility
+
+We can’t stress enough how much the above benefits help with that initial boost in growth. It’s easy to get buried in a sea of feature development and not spend any time listening and interacting with early adopters.
+
+To collect feedback, we’ve been using several tools:
+
+A Feedback Forum – on a visible area of the website and inside the product. (We’re using the UserEcho widget, but there’s a variety of tools on the market to consider.)
+
+Social Media – Twitter and Facebook pages to assist users outside the product.
+
+– Twitter and Facebook pages to assist users outside the product. Email ( Feedback@yourbrandname.com ) – to respond to private questions which may contain personal information.
+
+The following are the methods we used to acquire users, divided into these first three minor steps, then two bigger steps, and finally, one big leap…
+
+1. Start with Your Strongest Side — Your Existing Network
+
+The network you have is a great place to start acquiring early birds. Pitch your product to everyone you know and meet, and let them use your product:
+
+online and offline friends
+
+former colleagues
+
+university mates
+
+business partners
+
+family
+
+Later on, they might assist you in word-of-mouth, publishing articles through their media outlets, inviting you to events where your target audience might be present, guest blogging and/or whatever makes sense for your startup! It doesn’t bring much in terms of the number of signups, but, by doing this, we obtained loyal recommendations.
+
+2. Let Your Product Be Used in Workshops and in Academia
+
+When you’re entering a new market, it’s not only about acquisition. It’s also about educating your audience about your product. We’ve found that the offline workshops for designers, creative teams, and educators work great for us. They let you interact closely with the audience, understand the way they think and use your product, and see the reaction right away. You have a great chance to catch their attention.
+
+Another way is to connect with organizers of educational events and let them use the product. They gather audience at their channels and bring credibility to your product.
+
+Moreover, some organizers were glad to introduce our logo on their websites, write posts, and embed our video, which brought us online users and backlinks. So, open Google, type in “[your audience] workshops” into the search box, and go. Again, your current network might help a lot here.
+
+3. Earn Reviews and Blog Posts from Users
+
+This point works like a snowball. Once your product is referred to in a blog, you’ll continue to receive new reviews every month. In fact, five months after our launch, our brand was backlinked at over 700 websites and that gave us over 100,000 visitors.
+
+At the very start, we found users like to write about our product. Most of the posts were educational posts, like freetech4teachers.com, scoop.it, educacontic.es. Others were about productivity and technology. One of the posts was published at the largest Russian techie community and brought us more than 2K signups per night when we least expected it.
+
+Sometimes we pushed articles (but never paid), connecting with the bloggers via email or twitter at wwwatsnew.com, makeuseof.com, and others. The authors were thrilled with the product and wrote about us.
+
+You can use Google Analytics to get the freshest blog posts where your product has been backlinked. Don’t forget to thank the authors and share their articles through social media. Most probably, they’ll mention you again in later blog posts.
+
+Now, here are the two bigger steps I told you about…
+
+4. Work on Your PR
+
+We’ve been visiting journalist-attended events and participating in startup competitions, which have been giving us another snowball effect. This tactic has played a significant role in our acquisition process. Apart from a busy offline network, an event may be a bridge to the most popular media. That worked for us to get published at TechCrunch, Venturebeat, and Cloudtweaks, having no network out of there. These are the following types of events you might participate in:
+
+Startup competitions
+
+Startup alleys and exhibitions
+
+Techie competitions (if you have a savvy technology)
+
+Education for startups
+
+Before deciding whether to visit, make sure that big media outlets are going to be there, too. This tactic also works great for your SEO in terms of link building at the sites with the higher page rank.
+
+5. Use Your Product as a Viral Springboard
+
+Which part or your product can make it sharable organically? Until now, we’ve used the following ways:
+
+Peer-to-peer invitations via email
+
+Peer-to-peer invitations via Facebook
+
+Embed sharing at outer websites and blogs
+
+“Post to Facebook” option
+
+These altogether so far have brought about 15% of total signups, and there’s room to grow. What’s more, this channel has given us higher quality users; i.e., higher percentages of active and paying customers and revenue per paying user.
+
+Now, here is the big leap I told you about…
+
+6. Getting Broader Audience — We’ve Found the Perfect Platform
+
+After getting enough users for testing the beta version, it was time to broaden our acquisition channels. A year and a half earlier, Google had announced its free web application platform for developers, Chrome Web Store. As our application is for desktop users and browser-based, we found this store ideal to match the right audience. It took a few hours to make the extension and a couple of days to get approved by Google, and now this platform still brings the lion’s share of new visitors to the website
+
+These are the tactics that let us grow from this platform:
+
+Keyword Optimization . Once we showed up in the Chrome Web Store, we’ve been changing the headline and short description, which turned out to be efficient and raised the number of visitors. We tried adding the words “education,” “collaboration,” “free version,” “online whiteboards,” and “business tool,” measured the results, and picked the best one.
+
+. Once we showed up in the Chrome Web Store, we’ve been changing the headline and short description, which turned out to be efficient and raised the number of visitors. We tried adding the words “education,” “collaboration,” “free version,” “online whiteboards,” and “business tool,” measured the results, and picked the best one. The Cover Photo. The top search results in Chrome Web Store are displayed in pictures. So make it catchy, outstanding, and understandable. Don’t forget to test and figure out the best option.
+
+Categories . Don’t narrow your traffic by restricting it to one category. Find out which categories are relevant to represent your product and go there. We’ve found out that “Business tools,” “Education,” “Productivity,” and “Google Drive” categories work great for us.
+
+. Don’t narrow your traffic by restricting it to one category. Find out which categories are relevant to represent your product and go there. We’ve found out that “Business tools,” “Education,” “Productivity,” and “Google Drive” categories work great for us. Relevant Integrations . As we targeted chrome browser users, we’ve added Google Drive integration as the valuable feature for Chrome users.
+
+. As we targeted chrome browser users, we’ve added Google Drive integration as the valuable feature for Chrome users. Current Users . Enhancing the current user base to install the extension plays a big role in getting higher rating positions and gives you the chance to appear in the “Popular” tab. To inform the current users, we sent an email, wrote on our blog, and notified our followers on social media. Later on, we mentioned the Chrome Store application in a welcome letter to inform just-registered users.
+
+. Enhancing the current user base to install the extension plays a big role in getting higher rating positions and gives you the chance to appear in the “Popular” tab. To inform the current users, we sent an email, wrote on our blog, and notified our followers on social media. Later on, we mentioned the Chrome Store application in a welcome letter to inform just-registered users. Multiple Language Version of Chrome Store. This description trick shocked us with its results. It boosted traffic by 2,000% for a few days and helped us expand to the global area. After the growth, the average number of daily visitors doubled.
+
+Ratings and Comments . Unfortunately, some users may get dissatisfied and rate your product as one-starred. It’s not final, though. Get in touch with the commenters and find out if you may help solve a problem. In a while, they may change their mind and re-star. The higher score will raise you in search results.
+
+. Unfortunately, some users may get dissatisfied and rate your product as one-starred. It’s not final, though. Get in touch with the commenters and find out if you may help solve a problem. In a while, they may change their mind and re-star. The higher score will raise you in search results. Landing Page Optimization. We’ve figured out that directing visitors to the sign-up page results in a 15% increase in signup conversions, rather than leading visitors to the homepage first.
+
+Conclusion: Don’t Stop Here
+
+Every point I’ve mentioned is a never-ending process. There’s plenty of virgin fields for us to work, such as SEO, content marketing, cross-platform availability, PPC, integrations, and so on. That’s not a rigid framework, though. You might experience your unique acquisition path even better than we did. Find out your strongest side, search the opportunities to best market your product, and take actions to get real results.
+
+About the Author: Kseniya Maksimova is a marketing manager at RealtimeBoard, a collaboration whiteboard for teams. You may find the LinkedIn profile here.

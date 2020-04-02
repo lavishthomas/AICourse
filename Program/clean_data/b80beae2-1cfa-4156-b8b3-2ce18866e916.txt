@@ -1,0 +1,55 @@
+Taylor Martin/CNET
+
+Once you get into the habit of regularly adding events and tasks to your calendar, it can become an irreplaceable asset to your digital organization. But calendars can be used for so much more than scheduling meetings or remembering birthdays.
+
+You can subscribe to existing calendars, share calendars with your friends or family or even keep up with when your favorite show will return to TV.
+
+Here are some of the most useful things you can add to your Google Calendar to put it to work for you.
+
+Weather
+
+Before it met its untimely demise, one of my favorite features of Sunrise Calendar was its inline display of the weather forecast. Fortunately, Google has a weather feature built into Google Calendar, at least for the web client.
+
+Enlarge Image Taylor Martin/CNET
+
+To enable weather forecasts, go to calendar.google.com and login to your account. Click on the cog icon dropdown in the upper right and select Settings. Scroll down to location and enter your home ZIP code. Below that, beside Show weather based on my location, select either Celsius or Fahrenheit.
+
+A 5-day forecast will now appear in the upper right portion of each day display in the calendar.
+
+Favorite sports team schedule
+
+Another helpful inbuilt function is the ability to add interesting calendars. Outside the usual holiday calendars or birthdays are sports. You can choose from baseball, basketball, cricket, football, hockey, rugby and soccer. Each category has a list of included leagues, ranging from collegiate to minor and major leagues from around the world.
+
+After you narrow down the results to the proper league, find your favorite team and click Subscribe. Once the selected team's schedule is available, it will automatically appear in your calendar.
+
+TV episodes
+
+Sadly, Google's selection of calendars to add is fairly limited. If you want more, such as a custom calendar including when all your favorite television shows air and or return to television, you're going to have to do some manual configuration.
+
+Several services will allow you to sign up, add your favorite shows and export them to a Google Calendar for a monthly fee. However, PoGDesign TV Schedule & Episode Calendar will allow you to do this completely free of charge.
+
+Taylor Martin/CNET
+
+Open your browser and head to www.pogdesign.co.uk/cat and click Register. Fill out the appropriate forms and begin adding television shows to your filter. Once you have added all your favorite shows, right click the .iCal button at the top of the page and copy the address URL. Go to calendar.google.com and click the drop down menu beside Other calendars. Select Add by URL, paste the iCal URL in the text field and click Add Calendar. The days and air times of your selected shows will now be added to your Google Calendar automatically.
+
+Movie releases
+
+You can also add a calendar with all the release dates of new movies for individual countries. For the US, the best movie release calendar I came across was provided by First Showing. (For other countries, you can add a Google Calendar that is built from IMDb's release schedules here.)
+
+To add the calendar to your Google Calendar, go to firstshowing.net/schedule2016. Click on the Google Calendar button. This will open the web view of the calendar. Click the Google Calendar button with the plus sign in the lower right corner. When your own Google Calendar loads, confirm that you want to subscribe to the calendar.
+
+You will now see all the major upcoming movie releases in the US for all of 2016.
+
+Facebook events
+
+Enlarge Image Taylor Martin/CNET
+
+For the most part, I've always made it a point to avoid Facebook events. They're mostly filled with spammy invitations from people I knew in high school and haven't spoken with since. However, if you subscribe to events from your favorite artists, bands or venues, you can receive notifications for events you actually care about that are happening near you.
+
+You can subscribe to these events in your Google Calendar by navigating to facebook.com/events and right-clicking Upcoming Events under the Events Happening This Week section in the right sidebar. Copy the address URL and go to calendar.google.com. Click the drop-down menu beside Other calendars and select Add by URL. Paste the calendar URL in the text field and click Add Calendar.
+
+Bonus: Skimm Ahead
+
+If you're looking for something a little different, theSkimm just released its curated calendar, called Skimm Ahead, which has all the important stuff you could hope to follow on a calendar. It will add events for things like upcoming airings of popular TV shows and movie releases, holidays, important events and more. And for stuff like Father's Day or July 4, Skimm Ahead will remind you well in advance to make reservations or purchase a gift so you don't wait until the last minute.
+
+The downside? It doesn't integrate with Google Calendar, it's only available on iOS and will cost you $2.99 per month. But the value in following a highly curated calendar is undeniable.

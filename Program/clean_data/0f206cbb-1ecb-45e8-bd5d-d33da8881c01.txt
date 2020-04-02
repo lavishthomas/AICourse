@@ -1,0 +1,55 @@
+The Ability to Predict the Future Is Just Another Skill Psychologist Phil Tetlock on learning to deduce what's going to happen next.
+
+Phil Tetlock believes we can predict the future — we, us, anyone. In his new book, Superforecasting: The Art and Science of Prediction, the Wharton management professor and psychologist makes the case that futurists are skilled, not special. Normal people can make boggling accurate predictions if they just know how to go about it right and how to practice.
+
+Tetlock backs up his crystal ball populism with data: He’s spent the better part of the last decade testing the forecasting abilities of 20,000 ordinary Americans in The Good Judgment Project on topics ranging from melting glaciers to the stability of the Eurozone, only to find that the amateur predictions were more accurate — if not more so — than those of the pundits and so-called forecasting ‘experts’ the media so often defers to.
+
+When it comes to superforecasting, it isn’t what you think, it’s how you think. Tetlock talked to Inverse about how intelligence is overrated, the failures of media pundits, and why the best superforecasters need a healthy dose of doubt.
+
+Why did regular Americans involved in the Good Judgement Project make more accurate predictions than intelligence analysts?
+
+It was intrinsic motivation. They believed that probability estimation of messy real-world events is a skill that you can cultivate, and it’s a skill worth cultivating. If you throw up your hands and you say, well, look, whether Greece leaves the Eurozone or not, that’s a unique historical event, we can’t assign probability to that — well, you won’t get better at it, no matter how high your IQ is, how open-minded you are. If you’re closed on this subject, it’s going to preclude you from getting better.
+
+So the first step to becoming a forecaster is believing in it. What else did these people have in common?
+
+There is a constellation of attributes that go into making a superforecaster. Intelligence is one of the ones that is less under your control — some degree of it is a necessary condition for moving forward and some degree of knowledge of public affairs is important. But there’s also this factor of open-mindedness — willingness to change your mind, which a lot of people in the political sphere are not willing to do. The thing I would stress, really, is the attitudinal factor.
+
+In your book, you discuss the importance of doubt in making accurate predictions. A superforecaster, it seems, has to be humble.
+
+Degrees of doubt are important. Calibrate your doubt. [The superforecasters] might have been adjusting their beliefs about the likelihood of Hillary Clinton becoming the next president of the United States — or the downslide, over the last three to six months, in the wake of a gradual hemorrhaging of her poll support and uncertainty about the e-mail crisis and the possible emergence of Biden as a competitor. Various factors come into play.
+
+A lot of the work superforecasters do has that kind of quality: They track the news, and they adjust, gradually, their probabilities. They might have started off with a 0.55 or 0.6 estimate, then they might have scaled it back to 0.45, or 0.4. Over the previous six months, those are pretty small steps.
+
+Good forecasting, then, is all about those small steps.
+
+The very best forecasters — the superforecasters — are very granular in their use of probability judgments. Take world champion poker players: The great players know the difference between a 55-45 proposition and a 45-55 proposition. You play enough games of poker, someone who’s better at estimating the likelihood of various card draws is going to do significantly better in the long run. You’re sampling from a well-defined universe, it’s a game with repeated play — lots of opportunities for explicit learning.
+
+Why don’t we see that dedication to accuracy in the media?
+
+In the political sphere and the sphere of punditry, it’s not clear that they’re playing a pure accuracy game. They’re playing more of a game of blame avoidance and credit-seeking. Blame avoidance is best served by using vague verbiage — so if I say it could happen and it doesn’t, I just say “Well, I said it could happen.” And if it does happen, I say, “Well, you know I told you it could.” You’re well positioned no matter what.
+
+It’s very suboptimal for learning. If you want to learn, you need to translate “could” into some sort of probability metric. And “could” could mean anything from anything from “An asteroid could hit our side of the planet in the next 24 hours and incinerate us,” or it could mean “The sun could rise tomorrow.” There’s a vast probability range subsumed by the word “could.” If you don’t get people to limit those ranges, you’re not going to get people to create a favorable opportunity to learn.
+
+So can anyone really learn? Doesn’t making predictions require a certain level of intelligence?
+
+David Halberstam wrote a famous book about the best and the brightest in the Kennedy administration in the early period of the Vietnam war. They were one of the highest-IQ groups to advise advisors in the White House, and they made some quite devastatingly bad mistakes. They did some things right, too, but intelligence was certainly not a guarantee of getting it right. Nor was motivation to get it right, because the stakes couldn’t have been higher in those crises.
+
+Are computers ever just going to do all the forecasting for us?
+
+We talk in the book about a conversation we had with the great David Ferruchi, who was the former IBM senior scientist in charge of the Watson project. He designed Watson, and he seemed like a very appropriate person to talk to about exactly this problem. The example that we tossed around was how relatively easy it would be for Watson to answer a question of the form: Which two Russian leaders traded jobs in the last five years? And how insurmountably difficult it would be for an A.I. system to answer a question of the form: Will those leaders change jobs again?
+
+How would an A.I. system even begin to grapple with something like that? It’s not an answer you can look up, because the future hasn’t happened yet.
+
+So the jobs of superforecasters, at least, are safe from robots.
+
+I think so — in the medium term.
+
+Why don’t we try to make predictions about that?
+
+That’s the big challenge for the next generation of forecasting tournaments: How to ask interesting, early-warning indicator questions about long-term trends.
+
+Do you predict that’s going to happen?
+
+That’s next on our research agenda.
+
+Photos via Crown Publishing

@@ -1,0 +1,133 @@
+When Pope Julius II commissioned Michelangelo to paint the ceiling of the Sistine Chapel, Michelangelo toiled for four years on his master work. Renoir spent six months painting Luncheon of the Boating Party—the painting featured in the film Amélie. Even Guernica, which Pablo Picasso painted quickly to publicize the bombing of the Spanish city of Guernica, took over a month to complete.
+
+When we received orders for over 20 paintings in two weeks, we knew we were on to something. We also knew that we’d have to produce paintings much faster than Michelangelo, Renoir, or Picasso.
+
+We received the painting orders as the result of an experiment. Prior to that, we spent several years in the startup wilderness, pivoting between ideas without gaining traction, until we decided to test out a business where customers could send us photos they wanted turned into oil paintings. We created a very basic site, told people about it on Reddit, and two weeks later, had over 20 orders.
+
+The success of this experiment led us to found Instapainting in 2014. We knew that if we wanted to build a successful business, however, we would need to produce a lot more than 24 paintings. We estimated that we needed to eventually produce thousands of paintings a month to support a large company.
+
+This raised the question: How could we possibly paint thousands of paintings a month? How do you scale art?
+
+The art world actually has an answer to this question, and it’s in China. More specifically, the answer lies in Dafen, a Chinese village where 8,000 artists working on the art world’s version of assembly lines produce three to five million paintings a year. It’s a unique place with a fascinating history, and neither our business nor the modern art world could exist without it.
+
+Launching Instapainting
+
+When we started Instapainting, TechCrunch covered our launch. “Instapainting, a Y Combinator-backed company launching this morning,” the article read, “turns any photo into a hand-painted piece on canvas for under $100.” We imagined customers uploading wedding photos, family portraits, and pictures of their pets, and we would send them oil paintings based on their photos.
+
+I commissioned an oil painting of Sean Taylor for my dad on @instapainting + it IS AWESOME. http://t.co/cMy0ZXa2al pic.twitter.com/VHzd7UQ5Tr — Alexis Ohanian (@alexisohanian) September 29, 2014
+
+A happy Instapainting customer posts on Twitter in September 2014
+
+As soon as we launched, a potential solution to our dilemma landed in our laps. Chinese businesspeople contacted us, offering to produce our paintings. They owned art studios, which were nearly all located in Dafen, and their painters already created artwork for competing websites that offered custom oil paintings.
+
+The mass production of oil paintings appeared to be a well established industry—all centered in Dafen. So, like many entrepreneurs before us, we headed to China.
+
+The Fine Art Factories of Dafen
+
+China is big. Really big. So unfathomably big that individual Chinese cities provide individual products for the entire world. The residents of Yiwu, China’s “Christmas Village,” manufacture 60% of the world’s santa hats, tinsel, and mistletoe. Dafen produces 60% of the world’s oil paintings. China has economies of scale on a scale that the economists who coined the term economies of scale never imagined.
+
+Dafen took its first step from sleepy village to key piece of the art world in 1989. A businessman named Huang Jiang had received a large number of orders when he displayed the work of local artists at a Hong Kong art fair. So he hired assistants and started a studio in Dafen to pump out paintings.
+
+Sign marking the entrance to Dafen Village
+
+Jiang had chosen an excellent location. Land and labor was cheap, yet the village is in Shenzhen, China’s most successful Special Economic Zone, and very close to Hong Kong—the gateway to China for foreign businessmen. The success of Jiang’s studio drew art students and novice painters to Dafen, who were employed by bosses opening new studios. By 2002, Dafen was home to 150 galleries. Today, the roughly 8,000 painters of Dafen power a global industry worth well over $100 million.
+
+According to accounts from Chinese officials and Western press, Huang Jiang became the Henry Ford of China’s art world. He built up his studio into a factory with 3 floors: a ground floor for packaging and shipping works of art, a second story of painting areas, and a third floor of dormitories for the painters. Other studios followed suit. Art historian Winnie Won Yin Wong writes that from 1989 to 2009, studios in Dafen progressed from “rural workshops” to the “assembly of larger groups of painters into a single space for higher-volume production.”
+
+Dafen’s well known paintbrush sculpture.
+
+One of Jiang’s first, large orders—which he received via businessmen in Hong Kong—was to produce kitschy art for K-Mart. Jiang met these massive orders thanks to his workforce of several hundred painters and as many as 2,000 subcontracted artists. One colleague of Jiang told Wong that Jiang’s largest contract was for 250,000 identical paintings.
+
+The existence of art factories like Jiang’s essentially allowed Western businesses to make art like they did phones: mass produce them by outsourcing the work to China. Today, the majority of budget-priced art (think of the identical paintings you see for sale in Walmart or gracing the hallways of airports and hotels) comes from Dafen. Even episodes of The Simpsons are animated in Asia.
+
+These massive orders led studios like Jiang’s to specialize. Some painters in Dafen spend all day painting portraits of popular American celebrities. Others exclusively paint reproductions of The Mona Lisa or Van Gogh’s Sunflowers. (Town officials defend the prevalence of copies of famous paintings in Dafen by noting that Chinese copyright law allows reproductions if the artist has been dead for more than 50 years.)
+
+Painters in the largest studios spend hours painting individual brushstrokes or features on hundreds of canvases—exactly like how a worker in a Ford plant once spent all day tightening one screw on hundreds of Model T cars. By the mid 1990s, Wu Ruiqiu, the manager of an art studio in Dafen, was boasting that his painters formed an “assembly line” that produced thousands of identical paintings for the likes of Walmart.
+
+A painting factory that specialized in reproductions in Yiwu
+
+We saw a similar assembly line firsthand during a trip to China. We actually first went to a painting studio in Yiwu, the town known for mass producing Christmas decorations. The studio was a bare, concrete building. A painter with rows and rows of the same half-finished canvasses scooped up paint and went down the row. He painted an identical brushstroke on each painting, and then repeated the process. One brushstroke at a time, the paintings made their way toward completion.
+
+A painter does the same set of strokes down an aisle of identical paintings
+
+Photographer Susetta Bozzi has documented similar studios in Dafen, where artists often paint this way in teams. They paint spectacularly productively: single painters can produce thousands of paintings in a year, or even ten thousand.
+
+It was both impressive and baffling to see one artist paint hundreds of identical paintings at a time. The sight also made us question whether the painters could create the custom works we had promised our customers. Dafen produced art at the scale we needed, but an assembly line didn’t seem right for us.
+
+Made in the USA?
+
+Although Dafen’s assembly line reputation contrasted with our goal of making custom paintings, we never thought seriously about recruiting American artists.
+
+One reason is that there simply is not a commercial industry in the United States. Most painters here work for idealistic reasons. It would be difficult to find enough artists willing to paint photos of people’s’ dogs, vacations, and weddings to dependably do so at scale. We also knew that working with American artists would be quite expensive. Nevertheless our platform is open and we accept samples and signups from artists located anywhere. It just so happens the Chinese artists outnumber everyone else and actually do a better job at the paintings because they are painting every day.
+
+But we also wanted to encourage the strengths of artists outside of the Chinese industry because they do have value to offer. We added a product, Creative Artwork, to take full advantage of artists who can offer creativity. English-speaking artists have an advantage at communicating when dealing with non-straightforward paintings, although the product lets anyone, even Chinese artists, list creative styles that deviate from the original photographs being painted. This allows anyone who can offer value beyond a simple photo to painting to differentiate from the Chinese commercial painters.
+
+In the fine art world, collectors don’t usually shop for bargains. Instead they interpret high price tags as a sign of prestige. But such high prices are usually completely disjoint from technical quality, as any technical artist would tell you. Pricing here is purely from branding. The middle class art market, however, works differently. We have to price our paintings based on the value of the labor. It’s almost like the physics on a different planet. Before we entered the market it was a cesspool of shady websites and questionable business practices (we were initially threatened by a price-fixing ring, a story for another blog post). One of our main competitors, which also turns customers’ photos into paintings, has a banner on its website that says, “30% Off, Today Only!” We see that banner on the website every day.
+
+Our customers want artwork at an affordable price. They aren’t art collectors purchasing art as an investment. Their reasons are more utilitarian: a wall decoration, a unique gift, or a better way to present a photo. This is why all but our largest sizes of paintings cost less than $100. And it’s why we started offering “mixed media” oil paintings. Since the mixed media option costs half as much as a full oil painting and still looks like a painting, it already makes up over half of our sales. The pricing is based on the difficulty of the technical work involved in painting. Prices seem low, but in reality this is the real price of commercial art. Imagine if video game artists and film concept artists were paid like abstract artist Barnett Newman. We wouldn’t have those things anymore. They, like our artists, are paid at the market rate for their technical skills.
+
+Outside of the art world, a number of American companies charge higher prices by branding themselves as businesses that care where their products come from. This allows the clothing company Everlane, for example, to stand out in an industry where using cheap, overseas labor is the norm. But that isn’t possible in our cost-conscious industry, where all our competitors outsource the painting work to China.
+
+Luckily, Dafen is home to many more talented artists than you’d expect from its mass production and assembly line reputation.
+
+The Mythology of Dafen
+
+Most of the art world romanticizes painters. When describing a painting, museum curators and gallery owners talk about the artist’s quirks, vision, and career.
+
+It seems that Chinese officials and bosses in Dafen did the opposite.
+
+When Winnie Won Yin Wong, the author of Van Gogh on Demand, started studying Dafen, she expected to find “a den of copycats” and assembly lines churning out hotel room art. So did we. To her surprise, and ours, and that of many Western visitors, the artistry at Dafen was much less industrialized than we expected.
+
+Dafen’s painters make thousands of copies of famous paintings like Van Gogh’s Starry Night every year.
+
+Dafen is home to some large studios, but most studios house a few dozen or just a few artists. During our visit, the artists making reproductions also displayed their own, original art, which they sold at prices nearly as expensive as American art. (At least at the prices they told us.)
+
+A coffee shop inside Dafen Village featured original artwork from local artists inside
+
+“This is where many of the reproduction paintings that you see on the Internet come from. But I would guess that around 10% of the paintings are original, which is still a lot!” -Comment about Dafen on TripAdvisor
+
+In her interviews with artists and studio owners in Dafen, Wong uncovered a work environment that sounds nothing like an assembly line. She found that the painters did not have set hours, and they did not clock in and out every day. In most cases, the owners let the painters fulfill orders on their own and, after checking the quality, paid the artists per painting.
+
+A painter paints from a small studio. They told us they only came to the studio because we were visiting, and that they normally paint from their homes.
+
+Although painters will work together, assembly-line-style, to meet large orders, Wong writes that these situations are “intermittent.” The norm is for painters to work individually. And even when painters do work in teams, the analogy to an assembly line breaks down.
+
+A line worker in a Ford factory has no idea how to build an entire car; Dafen’s painters, in contrast, always know how to make the entire painting, even if they occasionally divide the work for the sake of efficiency. The absurdity of an art assembly line becomes obvious when you imagine someone without artistic skill being told to paint “just” the clouds in a landscape or “just” the first couple brush strokes of the Mona Lisa. Instead of breaking down the artistic process into unskilled parts, Wong writes, “through such practices apprentices could learn [to paint] the whole work.” As a result, Dafen painters could improve their skills and often made decent wages or even became owners of studios themselves.
+
+This art studio also has their own framing shop where they hand make the frames from wooden bars.
+
+So why does Dafen have a reputation for giant art factories? Well, it may have been a genius marketing move.
+
+In Van Gogh on Demand, Wong recounts how Hong Kong businessmen have turned to rural, Chinese art studios to meet large orders from Western businesses since before Dafen’s first art studio opened. Huang Jiang’s workshop in Dafen, which has been mythologized as inventing the art factory model, was so typical of the industry that when a government official visited in 1999, he did not understand the fuss.
+
+The assembly line rhetoric, however, was a media coup. American journalists and readers loved the idea of a factory that spewed out Monet paintings. And it likely played well with Western executives, who preferred to hear that their product was being mass produced in factories rather than subcontracted to rural artists.
+
+The State of Instapainting
+
+A year and a half after our launch, we had delivered thousands of handmade oil paintings to Instapainting customers. We face a number of challenges and lingering questions as we grow: the challenge of quickly shipping a custom product from China to our customers, the question of whether to expand into the reproductions business, and the necessity of acquiring more customers. Yet we never worry about finding enough artists to paint for us.
+
+One of the studios where artists make our paintings is owned by Edmond Li. Just as Wong describes in Van Gogh on Demand, Li’s studio in Dafen defies the village’s image as a massive art factory. The studio has work space for five artists, who work 8 to 10 hour days painting both reproductions and original paintings. Li can outsource work to additional painters when he gets a surge of orders, but his talented painters support a substantial business. Li’s artists have 5 to 10 years of experience. He says that one has a university degree, and the others have all been trained by painters.
+
+Li runs an excellent business; he also faces significant competition. Since our launch, we have regularly received emails from the owners of Dafen painting studios who would like to work with Instapainting. When we work with a new studio, we always order samples to ensure their quality. This, combined with rolling customer feedback, ensures only the top artists stay inside our network.
+
+The art industry in China is simply set up to efficiently produce reproduction and custom paintings. Dafen is home to so many Chinese artists who are able and willing to do this work that it gives us the great advantage of being able to choose the top artists to work with. Thanks to Dafen, our question of how to produce 10,000 paintings a month is effectively solved.
+
+Thanks to Tim Wu, Jean Liang, and Ryan Bednar for reading drafts of this blog post.
+
+A version of this article also appeared in Backchannel
+
+Learn More
+
+7 Pokemon Go Snaps Turned Into Paintings.
+
+Check out our arduino powered robotic painting replicator.
+
+See the gallery of actual paintings being ordered out of China.
+
+See the gallery of just the portrait paintings, pet portraits, watercolor paintings, or pencil drawings.
+
+Yes, you can get your own photo turned into a painting for the holidays.
+
+For artists
+
+Are you an artist? You can signup to sell through Instapainting.com by emailing support@instapainting.com. We accept registrations from artists around the world.

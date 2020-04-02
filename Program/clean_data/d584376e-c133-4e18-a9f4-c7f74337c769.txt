@@ -1,0 +1,49 @@
+In 'Weapons of Math Destruction,' a Wall Street analyst turned Occupy activist discusses the social and economic problems of letting our lives be run by algorithms.
+
+Don’t expect a joint statement of solidarity, but conservatives balking at a social science-driven administrative state and liberals flailing against Big Data on privacy and civil rights grounds may be approaching a Stanley and Livingstone moment, arriving at the same clearing in the ideological jungle from opposite directions.
+
+It hasn’t been too many years ago that Big Data was being hailed in such progressive publications as The Atlantic as an important weapon against a number of social ills: poverty, gun crime, education, medical care. But now a dark side is emerging, according to former Wall Street analyst turned Occupy activist Cathy O’Neil’s book, Weapons of Math Destruction, How Big Data Increases Inequality and Threatens Democracy.
+
+O’Neil has a Harvard Ph.D. in mathematics, worked for the hedge fund D.E. Shaw, created predictive models for various startups, and authors the blog Mathbabe.org. In the book, she writes about how algorithms conjured from Internet surfing patterns, purchases, ZIP codes, accident reports, the whole universe of data we constantly generate, are used against us.
+
+Per the title, O’Neil calls these algorithm-based systems—to which we have almost no access (hence she refers to them as “black box” algorithms)—weapons of math destruction, or WMDs
+
+From Remedy to Ruin
+
+The irony is that the assembling of vast blocks of data was originally considered an ideal remedy for society’s prejudices and biases. Over the decades, it has gone from sorting military recruits and ed-tracking elementary school students to judging credit applications, prison sentences, workplace evaluations, law enforcement procedures, hiring practices and the like.
+
+The goal has been to make decisions on an objective, information-driven basis. But far from removing bias from the system, the author argues, WMDs tend to just encode, computerize and intensify the same old human prejudices.
+
+An archetypal 1950’s banker, she says, would “know about your churchgoing habits, or lack of them. He’d know all the stories about your older brother’s run-ins with the law. He’d know what your boss (and his golfing buddy) said about you as a worker. Naturally, he’d know your race and ethnic group, and he’d also glance at the numbers on your application form.”
+
+To combat the first four factors’ influence, accurate FICO scores of people’s credit history were developed. But over time more airy “e-scores” have emerged, based on less objective measures like web browsing, neighborhood of residence, or spelling and grammar on application forms. Even patronizing “stores associated with poor repayments” can be counted against you.
+
+Less convincingly, O’Neil faults activist policing for creating instead of suppressing crime. Discussing application of the “broken windows” approach to law enforcement, which encourages police to focus on low-level crimes like vandalism, vagrancy, and pan-handling to discourage more serious criminals, O’Neil complains they artificially inflate crime statistics, drive even more aggressive policing, and create what she calls a “pernicious feedback loop.”
+
+“The result is that we criminalize poverty,” she writes. “Many of these ‘nuisance’ crimes would go unrecorded if a cop weren’t there to see them.” Unrecorded, perhaps, but not uncommitted.
+
+Certainly, there have been valid criticisms of over aggressive policing in the wake of Ferguson and other police shootings in recent years, but that isn’t necessarily proof that broken-windows policing—which worked wonders in New York—can be dismissed out of hand. O’Neil’s own bias seems to be that to avoid inconveniencing street toughs, she’d condemn law-abiding citizens to life in a dour and dangerous neighborhood.
+
+Almost Libertarian?
+
+She also writes about advertising created to attract business to for-profit educational institutions. “Predatory” ads target people who do Internet searches for payday loans or help with post-traumatic stress, playing on their weak points with doubtful come-ons tailored to fit their urge to improve themselves.
+
+“(S)pending more than $50 million on Google ads alone, the University of Phoenix targeted poor people with the bait of upward mobility. Its come-on carried the underlying criticism that the struggling classes weren’t doing enough to improve their lives,” she writes.
+
+While these forms of advertising may be unseemly, the onus should probably remain on people exercising good judgment. Legal remedies to absolve people from the consequences of their own decisions often overreach, to say nothing of the fact that a liberal arts degree from one of America’s myriad of supposedly more respected colleges charging upwards of $70,000 a year can be a much more financially disastrous decision than chicanery at for-profit colleges.
+
+But on increasingly coercive medical insurance and health standards, O’Neil seems almost libertarian. She talks about a Washington and Lee University professor forced to accrue “HealthPoints,” by logging doctor visits and meeting health goals, or else pay higher insurance premiums. The Michelin Tire Company sets goals for employees’ glucose, blood pressure, even their waist size, and penalizes them $1,000 a year if they don’t measure up, she writes.
+
+This is despite health standards that seem constantly in flux; cancer screenings, cholesterol metrics, even the Body Mass Index (BMI, a simple height/weight measurement which the author refers to as “discredited” and “more likely to conclude that women are overweight”) have become controversial.
+
+Political Problems
+
+But if this suggests to O’Neil that a whole range of big government initiatives might suffer from the same sort of data shortcomings she writes about, she gives little sign. For instance, she lauds predictive models that identify child-abuse prone households: those with a boyfriend present, past drug use or domestic violence, a parent who spent time in foster care.
+
+“If this were a program to target potential criminals, you can see right away how unfair it could be,” she writes. “Yet if the goal is not to punish the parents, but instead to provide help to children who might need it, a potential WMD turns benign. It funnels resources to families at risk.”
+
+But doing so while ruling out using the data to “target potential criminals” just creates a reward program enabling self-perpetuating dysfunction—a familiar pattern.
+
+Overall, O’Neil says government monitoring is needed. “We have to explicitly embed better values into our algorithms, creating Big Data models that follow our ethical lead…We need to impose human values on these systems, even at the cost of efficiency.”
+
+Translation: We need to curate Big Data based on whether we like what it’s telling us. How we can come to agreement on the values that should undergird these Big Data algorithms is, of course, a paradox embedded deep in human nature and exacerbated by our currently divisive politics. For all its potential, it looks like Big Data is going to present big problems for a long time to come.

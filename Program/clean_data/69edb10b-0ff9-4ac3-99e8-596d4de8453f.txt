@@ -1,0 +1,47 @@
+Peel away the layers of a house — the plastered walls, the slate roof, the hardwood floors — and you’re left with a frame, the skeletal form that makes up the core of any structure. Can we do the same with life? Can scientists pare down the layers of complexity to reveal the essence of life, the foundation on which biology is built?
+
+That’s what Craig Venter and his collaborators have attempted to do in a new study published today in the journal Science. Venter’s team painstakingly whittled down the genome of Mycoplasma mycoides, a bacterium that lives in cattle, to reveal a bare-bones set of genetic instructions capable of making life. The result is a tiny organism named syn3.0 that contains just 473 genes. (By comparison, E. coli has about 4,000 to 5,000 genes, and humans have roughly 20,000.)
+
+Yet within those 473 genes lies a gaping hole. Scientists have little idea what roughly a third of them do. Rather than illuminating the essential components of life, syn3.0 has revealed how much we have left to learn about the very basics of biology.
+
+“To me, the most interesting thing is what it tells us about what we don’t know,” said Jack Szostak, a biochemist at Harvard University who was not involved in the study. “So many genes of unknown function seem to be essential.”
+
+“We were totally surprised and shocked,” said Venter, a biologist who heads the J. Craig Venter Institute in La Jolla, Calif., and Rockville, Md., and is most famous for his role in mapping the human genome. The researchers had expected some number of unknown genes in the mix, perhaps totaling five to 10 percent of the genome. “But this is truly a stunning number,” he said.
+
+The seed for Venter’s quest was planted in 1995, when his team deciphered the genome of Mycoplasma genitalium, a microbe that lives in the human urinary tract. When Venter’s researchers started work on this new project, they chose M. genitalium — the second complete bacterial genome to be sequenced — expressly for its diminutive genome size. With 517 genes and 580,000 DNA letters, it has one of the smallest known genomes in a self-replicating organism. (Some symbiotic microbes can survive with just 100-odd genes, but they rely on resources from their host to survive.)
+
+M. genitalium’s trim package of DNA raised the question: What is the smallest number of genes a cell could possess? “We wanted to know the basic gene components of life,” Venter said. “It seemed like a great idea 20 years ago — we had no idea it would be a 20-year process to get here.”
+
+Minimal Design
+
+Venter and his collaborators originally set out to design a stripped-down genome based on what scientists knew about biology. They would start with genes involved in the most critical processes of the cell, such as copying and translating DNA, and build from there.
+
+But before they could create this streamlined version of life, the researchers had to figure out how to design and build genomes from scratch. Rather than editing DNA in a living organism, as most researchers did, they wanted to exert greater control — to plan their genome on a computer and then synthesize the DNA in test tubes.
+
+In 2008, Venter and his collaborator Hamilton Smith created the first synthetic bacterial genome by building a modified version of M. genitalium’s DNA. Then in 2010 they made the first self-replicating synthetic organism, manufacturing a version of M. mycoides’ genome and then transplanting it into a different Mycoplasma species. The synthetic genome took over the cell, replacing the native operating system with a human-made version. The synthetic M. mycoides genome was mostly identical to the natural version, save for a few genetic watermarks — researchers added their names and a few famous quotes, including a slightly garbled version of Richard Feynman’s assertion, “What I cannot create, I do not understand.”
+
+With the right tools finally in hand, the researchers designed a set of genetic blueprints for their minimal cell and then tried to build them. Yet “not one design worked,” Venter said. He saw their repeated failures as a rebuke for their hubris. Does modern science have sufficient knowledge of basic biological principles to build a cell? “The answer was a resounding no,” he said.
+
+So the team took a different and more labor-intensive tack, replacing the design approach with trial and error. They disrupted M. mycoides’ genes, determining which were essential for the bacteria to survive. They erased the extraneous genes to create syn3.0, which has a smaller genome than any independently replicating organism discovered on Earth to date.
+
+What’s left after trimming the genetic fat? The majority of the remaining genes are involved in one of three functions: producing RNA and proteins, preserving the fidelity of genetic information, or creating the cell membrane. Genes for editing DNA were largely expendable.
+
+But it is unclear what the remaining 149 genes do. Scientists can broadly classify 70 of them based on the genes’ structure, but the researchers have little idea of what precise role the genes play in the cell. The function of 79 genes is a complete mystery. “We don’t know what they provide or why they are essential for life — maybe they are doing something more subtle, something obviously not appreciated yet in biology,” Venter said. “It’s a very humbling set of experiments.”
+
+Synthetic Biology Venter envisions syn3.0 as a cellular chassis that scientists can build on. Researchers can embellish the genome to create new organisms, which could help them to better understand stages of evolution lost to time. “In theory, we should be able to add genes back to [syn3.0] to recapitulate key parts of evolution,” Venter said. For example, they might try to create more advanced bacteria, or even to convert the basic chassis into different biological classes altogether. “We could reduce billions of years of evolution to maybe years or months or weeks,” he said. Venter and his collaborators also plan to use the cells for industrial purposes, designing cells that can produce pharmaceuticals or other chemicals. “We have one cell in production to make omega-3s more efficiently than it can be isolated from fish,” Venter said. One of the challenges in synthetic biology — the quest to engineer cells for specific purposes — has been that living organisms behave unpredictably. Theoretically, a minimal cell would provide an engineering advantage because it has fewer unpredictable components. It’s not yet clear whether this will prove true. Most efforts in synthetic biology employ existing microbes, such as E. coli, and scientists may not yet see a good reason to switch.
+
+Venter’s team is eager to figure out what the mystery genes do, but the challenge is multiplied by the fact that these genes don’t resemble any other known genes. One way to investigate their function is to engineer versions of the cell in which each of these genes can be turned on and off. When they’re off, “what’s the first thing to get messed up?” Szostak said. “You can try to pin it to general class, like metabolism or DNA replication.”
+
+Dwindling to Zero
+
+Venter is careful to avoid calling syn3.0 a universal minimal cell. If he had done the same set of experiments with a different microbe, he points out, he would have ended up with a different set of genes.
+
+In fact, there’s no single set of genes that all living things need in order to exist. When scientists first began searching for such a thing 20 years ago, they hoped that simply comparing the genome sequences from a bunch of different species would reveal an essential core shared by all species. But as the number of genome sequences blossomed, that essential core disappeared. In 2010, David Ussery, a biologist at Oak Ridge National Laboratory in Tennessee, and his collaborators compared 1,000 genomes. They found that not a single gene is shared across all of life. “There are different ways to have a core set of instructions,” Szostak said.
+
+Moreover, what’s essential in biology depends largely on an organism’s environment. For example, imagine a microbe that lives in the presence of a toxin, such as an antibiotic. A gene that can break down the toxin would be essential for a microbe in that environment. But remove the toxin, and that gene is no longer essential.
+
+Venter’s minimal cell is a product not just of its environment, but of the entirety of the history of life on Earth. Sometime in biology’s 4-billion-year record, cells much simpler than this one must have existed. “We didn’t go from nothing to a cell with 400 genes,” Szostak said. He and others are trying to make more basic life-forms that are representative of these earlier stages of evolution.
+
+Some scientists say that this type of bottom-up approach is necessary in order to truly understand life’s essence. “If we are ever to understand even the simplest living organism, we have to be able to design and synthesize one from scratch,” said Anthony Forster, a biologist at Uppsala University in Sweden. “We are still far from this goal.”
+
+This article was reprinted on Wired.com.

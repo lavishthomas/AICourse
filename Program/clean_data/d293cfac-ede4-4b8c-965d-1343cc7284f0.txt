@@ -1,0 +1,93 @@
+This article comes from Togaware.
+
+A Survival Guide to Data Science with R
+
+These draft chapters weave together a collection of tools for the data scientist—tools that are all part of the R Statistical Software Suite.
+
+Each chapter is a collection of one (or more) pages that cover particular aspects of the topic. The chapters can be worked through as a hands-on guide to a specific task and then used as a reference guide. Each page aims to be a bite sized chunk for hands-on learning, building on what has gone before. Many chapters also have a lecture pack and a laboratory session where a number of tasks can be completed. The R code sitting behind each chapter is also provided and can be easily run standalone to replicate the material presented in the chapter.
+
+The material begins with an overview of how an organisation should go about setting up their Analytics capability and then introduce the Data Scientist to R.
+
+Part 1: Data Science
+
+Data Mining, Analytics, and Data Science Rattle to R
+
+An Introduction to R Programming Literate Data Science with KnitR
+
+More Basics of R
+
+
+
+Part 2: Dealing With Data
+
+A Template for Preparing Data
+
+Reading Data into R
+
+Open Access Data via the CKAN API
+
+Exploring and Summarising Data
+
+Visualising Data with GGPlot2
+
+Transforming Data
+
+Case Study: Analysis of Sea Ports
+
+Case Study: Web Log Analysis
+
+Part 3: Building Models
+
+A Template for Building Models
+
+Cluster Analysis
+
+Association Analysis Decision Trees
+
+Ensembles of Decision Trees
+
+Support Vector Machines Neural Networks Naive Bayes
+
+Multivariate Adaptive Regression Splines
+
+Evaluating Models
+
+Scoring (R) PMML (R) Exporting Models for Deployment
+
+Part 4: Advanced R and Analytics
+
+Strings
+
+Dates and Time
+
+Spatial Data
+
+Big Data
+
+Exploring Different Plots
+
+Writing Functions
+
+Parallel Processing
+
+Environments
+
+Text Mining
+
+Social Network Analysis Genetic Programming Time Series Analysis
+
+
+
+Part 5: Appendicies
+
+Doing R with Style
+
+Packaging (R) Pulling it Together into a Package
+
+
+
+To check out all this information, click here. For other articles about R, click here.
+
+Top DSC Resources
+
+Follow us on Twitter: @DataScienceCtrl | @AnalyticBridge

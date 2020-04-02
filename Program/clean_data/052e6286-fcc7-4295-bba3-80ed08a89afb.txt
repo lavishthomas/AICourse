@@ -1,0 +1,69 @@
+I trust my running app, most of the time. If I set out for a three-miler, and come home with only 2.8 on the screen, I’ll jog around the block to finish the job. But even a smartphone can be dumb sometimes: like when MapMyRun grabbed a data point on the other side of the river my friend was running along.
+
+That two-second imaginary swim ended up adding serious distance to the app’s estimate of her run. Errors that big are rare, but errors come in all shapes and sizes. And if you’re relying on an app to track your weekly mileage, or to pace you on a run or in a race, accuracy becomes very important.
+
+How Your Phone (or Watch) Knows Where You Went
+
+Whether you’ve got a dedicated watch like the ones made by Garmin, or you’re using an app like Runkeeper or Endomondo, the major source of location data is usually a constellation of satellites known as the Global Positioning System, or GPS.
+
+Advertisement
+
+These satellites broadcast their position along with the time. If your device can receive signals from four satellites, it can work out, through trilateration, your position in space relative to those satellites.
+
+Inconvenient things like the Earth’s atmosphere, though, can alter the signal’s speed and introduce some error. But the more satellite signals your device can detect, the more data it has to work out your position. With seven or more, the device can know your position to within about a 10-meter area.
+
+If you have an older GPS device you may remember that when the device was new (or after digging it out of your closet each spring) you had to stand around forever waiting for a location lock. The device was downloading frames of the almanac, a listing of satellites’ orbit and status. Newer, faster devices skip the almanac and use their own processing power to work out the satellites’ positions.
+
+Advertisement
+
+That’s the basic idea behind GPS. There are other constellations of satellites that serve similar functions, like Russia’s GLONASS, and they work in roughly the same way. A Garmin representative told us that some of their devices combine GPS, GLONASS, and WAAS, the Wide Area Augmentation System consisting of extra satellites and ground stations.
+
+Phones can use these systems plus a few more, including Wi-Fi location data (if your device can see a certain Starbucks hotspot, it knows you are near that Starbucks) and assisted GPS, which uses cell towers to keep track of GPS data so that devices don’t have to wait as long or search as hard for signals.
+
+How Accurate Is GPS, Really?
+
+With all of these systems, your phone or watch can know where you are to within 5-10 meters. Every few seconds, it will take note of your location, and can calculate how far you’ve gone by connecting the dots.
+
+Since the location is never totally exact, it may help to think of your GPS signal as a dog that runs mostly next to you. He’s your buddy, so he’s never far away; if you know how far the dog traveled, that’s roughly the same distance you traveled too.
+
+This is where sources of inaccuracy start to creep in: if your dog is zigzagging back and forth, he’ll run more total distance than you do. But whenever you turn at an intersection, the dog might cut the corner and shorten that distance. In a study published in PLOS ONE, GPS devices underestimated the distance that athletes ran on a back-and-forth path, and overestimated how far they ran in a 200-meter loop—in each case, the error varied but was in the range of 2-3%. Another real-world test, published in the Journal of Strength & Conditioning Research, found that the error was usually under 6.2%—fine for their purposes (measuring total training mileage) but not something you could always rely on to tell the difference between a nine- and a 10-minute mile.
+
+If you’re using a device to measure your pace during a race, there’s another thing you need to know: you might end up with a reading that is longer than the race distance because of the way race courses are measured. The race officials measure the shortest possible not-cheating distance, which means sticking to the inside of the curves, and not dodging around other runners—then they add an extra 0.1% just to be safe. So even if your GPS is perfectly on track that day, it’s normal to have a slightly long reading.
+
+Advertisement
+
+Advances in both software and hardware have made devices more accurate over time. Chris Drouin, a data analyst at Runkeeper, explains some of the reasons why newer phones can give more accurate results, and why accuracy can vary from phone to phone:
+
+Newer phone [system-on-chips] may be better-designed to reduce possible sources of interference with GPS.
+
+Newer phones frequently have more/newer/better sensors (including better and more accelerometers, gyroscopes, magnetometers, pedometers, etc. that can be used as part of a sensor fusion solution).
+
+Newer phones tend to support newer phone operating systems, and both Google and Apple have made steady progress in terms of their geolocation APIs over the years That said, differences go both ways. Newer phones and OSes are also getting more aggressive about battery usage. Generally this is a good thing - we all like more battery! - but it can potentially scrobble the end of a tracked activity if the phone goes into power-saving mode on the last lap.
+
+Apps can also apply their own logic to the data points they get from the hardware, for example removing a reading that’s far off the path the runner seems to be traveling, or turning a sudden direction change into a smooth curve.
+
+How to Get the Most Accurate Readings
+
+There are two places where your GPS won’t work well: among buildings, and among trees:
+
+Buildings (especially tall skyscraper types) can interfere with satellite readings because the signal bounces off of the building. Your device assumes that the signal went in a straight line, but the bounce added some distance, which changes where it thinks you are. The buildings can also physically block the signal; GPS works best when the device has a clear “view” of the sky.
+
+(especially tall skyscraper types) can interfere with satellite readings because the signal bounces off of the building. Your device assumes that the signal went in a straight line, but the bounce added some distance, which changes where it thinks you are. The buildings can also physically block the signal; GPS works best when the device has a clear “view” of the sky. Tree cover has the same two problems: it can block satellite signals from reaching your device, and the moisture in the leaves can provide a surface, in a sense, for signals to bounce off of. How much bouncing depends on how thick of a forest you’re in, the type of trees, and the time of year.
+
+Clouds and storms don’t noticeably affect GPS accuracy, the Garmin rep told me. If you run in a place with lots of flat, open areas, though, your device’s accuracy should be fairly good.
+
+Advertisement
+
+This makes farmland sound like the perfect place for accuracy, but if you’re in a remote area without many cell towers, that can make it hard to get the initial GPS lock—and cause a big jump when the device finally figures out where you are, Douin says. His take:
+
+If you’re looking to record the most accurate run possible with a phone or other GPS device, I’d recommend finding a long, relatively straight course to run that is fairly clear of tall obstructions… particularly anything solid and directly overhead [like a bridge or tunnel].
+
+To get extra accuracy—especially if you sometimes run indoors—many devices can work with a foot pod, like this one from Garmin or this one from Nike that works with their iPhone app. You calibrate it so the device learns how long your stride is, and it will work that into its calculations. Accelerometer-based Garmin devices have a Custom Step Length feature instead, which is the same idea but without the foot pod.
+
+Advertisement
+
+So if you’re looking for the best readings from your GPS watch or phone, it’s possible to get very close—but you still have to come to terms with the fact that you can never expect your device to be totally accurate all of the time. If you’re timing yourself on short distances (say, how fast you can run a quarter-mile, or even a full mile), find a track or measured path and learn to read the markings. If you’re trying to hit a specific pace for training purposes, GPS devices can help but you’ll want to have a backup plan (even if that’s “run by feel”) in case conditions aren’t perfect for accuracy. For measuring long runs or easy runs, though, or to get an idea of how many miles you’re covering over the course of a week, your phone or watch will do just fine.
+
+Image by Nemanja Cosovic (Shutterstock).
+
+Vitals is a new blog from Lifehacker all about health and fitness. Follow us on Twitter here.

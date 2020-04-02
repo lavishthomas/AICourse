@@ -1,0 +1,27 @@
+Photo Credit: TWC via Getty Images
+
+As a student and observer of meteorology, it constantly bums me out that people do not understand what it means when someone says there’s an “X% chance of rain” tomorrow. A 50 percent chance of rain does not mean there’s a 1-in-2 chance that you’re going to get wet.
+
+To be fair, this confusion cannot entirely be blamed on the general public. The terminology most used by people is “There’s a 80 percent chance of rain,” which reasonably leads people to think there’s an 80 percent chance it’s going to rain on them. And when they don’t see it, they think their local meteorologists are huffing glue.
+
+Advertisement
+
+The factor that’s missing in the comprehension of Probability of Precipitation (PoP)? Area. To quote the National Weather Service (NWS), what PoP is actually describing is the chance of rain at any point over an area.
+
+Here’s the math:
+
+PoP = C x A where “C” = the confidence that precipitation will occur somewhere in the forecast area, and where “A” = the percent of the area that will receive measurable precipitation, if it occurs at all.
+
+Let’s break that down. Using various models and data a meteorologist will look at the chances that rain will happen somewhere in their forecast area and determine how much of that area is likely to get rain. For the National Weather Service this can mean a large area. For instance, look at the Houston-Galveston NWS Forecast area outlined below:
+
+Photo: NWS Houston
+
+For those of you who haven’t driven from Palacios to Crockett or Galveston to College Station it’s a big area. If NWS forecasters were 100 percent certain that it was going to rain in the lower third of counties and 100 percent certain it wouldn’t rain in the upper third, then there would be a 30 percent chance of rain for the whole area.
+
+That rarely happens, again, as the NWS points out:
+
+[M]ost of the time, the forecaster is expressing a combination of degree of confidence and areal coverage. If the forecaster is only 50% sure that precipitation will occur, and expects that, if it does occur, it will produce measurable rain over about 80 percent of the area, the PoP (chance of rain) is 40%. ( PoP = .5 x .8 which equals .4 or 40%. )
+
+So, your local TV weather person isn’t a moron if they say there’s a 50 percent chance of rain every day and it never rains. It’s possibly that for some of the area he or she was referring to, there’s someone on the other end of your viewing area who got rained on every day.
+
+The standing out in floods, though, that’s just good television.

@@ -1,0 +1,49 @@
+With US politics swimming in so much corporate money that it's pretty much an oligarchy, it can be hard to keep track of which particular set of lobbyists is trying to milk more cash out of health care, fossil fuels, and other very important issues from one week to the next.
+
+But thanks to 16-year-old Nick Rubin, keeping track of just how much politicians have sold out has become a lot easier. He created Greenhouse, a new browser plug-in that operates under the motto "Some are red. Some are blue. All are green." The plugin aims "to shine light on a social and industrial disease of today: the undue influence of money in our Congress." It sounds like a bit of a lofty aim for an app, but it's actually pretty simple and effective—it provides a breakdown of a politician's campaign contributions when that politician's name comes up in an article. It is currently available for Chrome, Firefox, and Safari and is completely free. As you can imagine, reading about how your member of Congress voted in a recent health bill becomes all the more enlightening if you know how much money the health industry showered him in at the last election.
+
+I spoke to Nick Rubin about the plugin, politics, and what he calls the "money stories" behind what you read in the news.
+
+VICE: Hi, Nick. So how did you come up with the idea for Greenhouse?
+
+Nick Rubin: Back in seventh grade, I gave a presentation on corporate personhood, and ever since then I've been really interested in that issue. I think the one problem is that the sources of income for members of congress haven't been simple and easily accessible when people have needed it. More recently, I've been teaching myself how to code, and I thought that something like Greenhouse that puts the data at people's fingertips would be a perfect solution. It really is the intersection of these two passions of mine—coding and politics. I made it after school and on weekends on my computer.
+
+Why the name?
+
+Well, green is the color of money in the US, and house refers to the two houses of Congress [the Senate and House of Representatives]. The name also implies transparency; greenhouses are see through and they are built to help things thrive.
+
+Where did you get the information on the politician's donations?
+
+It uses the data from the last full election cycle which was 2012. This is simply because it's just the most complete set of data that we have. But the browser does provide access to the most up to date 2014 information by just clicking the name of the politician on the top of the window or the OpenSecrets.org link in the popup. So the 2014 data is just one click away.
+
+I'm intending to update the data as a whole later in the election cycle as the 2014 contributions are more complete—these are updates I'm currently working on—as well as thinking of other ways I can expand the tool.
+
+Nick Rubin
+
+What are your political views, and how are they relevant to the tool?
+
+I want a system that works, and so do other kids my age. I want Greenhouse to be a nonpartisan tool. What concerns me is the sheer amount of money being pumped into the system because there really is a lot. During the development of Greenhouse and looking over these numbers and seeing how much is being donated—it's really scary.
+
+How does Greenhouse work?
+
+It works by highlighting the name of any member of Congress on any website, and when you hover over these names a little box appears that shows detailed contribution information with amounts and where those amounts have come from. It's basically a list of the top-ten industries from which they receive their money. My goal was to create something that promotes transparency. It would be great if people used it on sites where they're reading about politics every day. For example, if you're reading a piece on Congress votes for energy policy, you might see that a sponsor has received hundreds of thousands of dollars from the oil and gas industry. I like to say that Greenhouse allows people to see the money story behind the news story.
+
+What money stories have you personally uncovered?
+
+I've noticed a lot of trends. I've been working on something called the "Story of the Day," which is me tweeting every day a story where if people used Greenhouse on the story they'd learn something very interesting and see the money story for themselves. These stories are all over. People who use it will be able to form their own opinions about the possible influences of money in politics.
+
+What do you hope from Greenhouse?
+
+I just want it to educate people because that's really the first step toward a solution. That's exactly why I designed Greenhouse with simplicity in mind, so that everyone—even kids—are able to understand it. In terms of whether Greenhouse will solve this issue—well, education is the first step. I really do believe that increased transparency will help fix the problem. Easy access to data empowers voters to make better decisions. Once people are informed, they will reject elected officials who are motived by money instead of principles. But for now, I'll leave the solution to others.
+
+What are you going to do next?
+
+At the moment, Greenhouse is my focus and I want to keep it fully updated and keep improving. One aim of mine has come out of the phenomenal response I've had from people that have downloaded the browser. People have got in contact asking to work with me to make versions of the tool for them. This is absolutely something I want to do.
+
+So could you make a Greenhouse app for other parts of the world?
+
+The first thing would be finding a reliable data source. But sure, why not?
+
+Cool. Thanks, Nick.
+
+Follow Hannah Ewens on Twitter

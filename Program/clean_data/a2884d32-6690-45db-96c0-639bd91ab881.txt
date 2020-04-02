@@ -1,0 +1,33 @@
+The equations of physics are things that we humans created to understand the Universe, and it can be hard to disentangle them from the Universe’s innate properties. It turns out that one of the weirdest things scientists have come up with, what Albert Einstein derisively called “spooky action at a distance,” is more than just math: It’s a fact of reality.
+
+
+
+That concept is also known as entanglement, and it’s what allows particles that have once interacted to share a connection regardless of the separation between them. A team of physicists in the United Kingdom used some dense mathematics to come to their Einstein-angering conclusion, taking an important step towards proving whether quantum mechanics’ weirdness is just the math talking, or whether it speaks to innate physical requirements. Their mathematical proof’s main assumption is that any new physics theory should be backward-compatible with the physics you learned in high school.
+
+Advertisement
+
+“It’s kind of a surprising result from Einstein’s perspective: There can be no description of nature without entanglement,” Jonathan Richens from Imperial College, London told Gizmodo. “Most physicists believe that there is a richer and deeper theory of nature beyond quantum theory. This theory has to have entanglement.”
+
+Quantum mechanics is the theory explaining the behavior of the smallest units of nature, like photons and electrons. Particles behave like waves (and vice versa), and before observing them, scientists can only explain the particles’ properties using probabilities. Rather than saying “this ball is blue,” they can only say “here are the chances this ball is blue or green.” But when two of these balls interact, they can become entangled, meaning you must describe both the balls’ properties at the same time. Measuring one of the balls’ colors directly implies what the color of the other ball will be, no matter how far away the balls are.
+
+Scientists can observe entanglement. Chinese scientists set up this special inter-particle connection between light particles on a ground station and a satellite 100 kilometers away, for example. They observed correlations between the light particles in space and on Earth that couldn’t exist based on the laws of classical physics alone. Einstein hated entanglement since it implies that somehow, photons are influencing each other instantly without actually being near each other.
+
+Advertisement
+
+Richens’ team’s new paper, published yesterday in Physical Review Letters, doesn’t observe entanglement. Instead, “the main contribution of this work is to provide a compelling argument that entanglement—one of the most interesting and counterintuitive aspects of quantum theory—is an inescapable feature of any physical theory more “fundamental” than classical physics,” Ciarán Lee, a researcher at University College London not involved in this paper told Gizmodo. “By “fundamental” here I mean that such a physical theory contains classical physics in some limit.” Any theory that’s backward-compatible with classical physics, the way Xbox 360s are backward-compatible to Xboxes, requires entanglement.
+
+The team’s esoteric proof requires lots of very high-level math, but Richens gave a simplified example using classical and quantum computer bits, or qubits. You can correlate two regular computer bits (things that can only assume values of zero and one) with a simple operation: If the first bit equals zero, make the second bit the opposite value. If the first bit equals one, leave the second bit alone.
+
+But what if you applied this operation to quantum bits? Rather than just being a zero or one like a regular bit, a qubit comes with a probability of being either zero or one until you measure it. Richens explained that if the above operation were to work on a pair of qubits, then entanglement rears its ugly head in the proof. Their paper found that “spooky action at a distance” is inevitable.
+
+
+
+The paper falls into part of a bigger movement to explain the innateness of quantum mechanics, and to derive it based on simple assumptions about the universe, explained Markus Müller, Group Leader at the Institute for Quantum Optics and Quantum Information in Austria not involved in the study. Lee is trying to find whether there are theories that are backward-compatible to quantum physics the way quantum is backward-compatible to classical physics. Einstein’s relativity, for example, is another more advanced theory that simplifies to textbook physics, and whose machinery falls out of some basic assumptions of the universe, for instance, that the speed of light is a constant. “We’re trying to do the same thing here,” said Müller.
+
+It is important to note that, while this is a mathematical proof, it is only as strong as the assumptions and definitions the authors include in the work, explained Lee. He found one of the assumptions potentially debatable, but still well-motivated.
+
+And there’s a long road ahead. The physicists only proved one (albeit wacky) piece of quantum mechanics, not the whole theory. Said Richens: “If we derive the whole of quantum theory, that would be a huge.”
+
+
+
+[PRL]

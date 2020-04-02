@@ -1,0 +1,83 @@
+Programming Doesn’t Require Talent or Even Passion
+
+This article was written by Tony You @howtomakeaturn and translated from Chinese to English by Wordcorp (http://www.wordcorp.net/en). Originally Posted on The Model Majority.
+
+Never before has a skill been mythicized to such an extent:
+
+You not only need to have talent, you also need to be passionate to be able to become a good programmer.
+
+It’s as if people who write code had already decided that, “they were going to write code in the future by the time they were kids.” If you lack one or the other, you’re either a fake, or you won’t go far, regardless of which, you’re just not cut out for it. Such deeply entrenched stereotypes are not only completely wrong, they’re also detrimental - a view shared by many successful programmers.
+
+Jacob Kaplan-Moss (Django creator)
+
+In this presentation, Jacob Kaplan-Moss states:
+
+The myth of the “genius programmer” is extremely dangerous. On one hand, it sets the entry threshold excessively high, scaring a lot of would-be-programmers away. On the other hand, it also haunts those that are already programmers, because it means that if you don’t “rock” at programming, then basically, you suck. As a result, as a programmer, all of your time needs to be used on learning more programming and work, which in the end has a large impact on the quality of life. … (omitted) …We need to get rid of this kind of attitude. Programming is just a bunch of skills that can be learned, it doesn’t require that much talent, and it’s not shameful to be a mediocre programmer.
+
+On his Twitter profile, he describes himself as “not a real programmer” to show that he’s had enough of these kinds of misconceptions.
+
+Jacob Thornton (creator of Bootstrap)
+
+Jacob Thornton was previously a programmer at Twitter and now Medium, as well as the creator of Bootstrap, which has achieved over 80,000 stars on Github. His response in the following interview gives another counter-example to this myth:
+
+Jacob Thornton Hates Computers
+
+when he says, “I hate computers,” he’s not entirely joking. “ I was going to study sociology at the New School.”
+
+He then goes on to describe his first job:
+
+“I had gotten hired for a job that I wasn’t even remotely qualified for. Every day, I could have been fired. I worked so hard, trying to learn more advanced Javascript because I didn’t know what was going on.”
+
+“The realest moment of my life was when the whole team at this startup gathered around me, asking for an XHR request. I’d never done it, and I only kind of knew what it was. So I started typing and refreshed the browser and nothing happened. I did that a few times. I started freaking out. They were going to figure out I was an impostor. Then I realized that I had forgotten to add ‘.send()’ — I did that and refreshed it and the page showed up, and the team was like, ‘Oh, cool.’ And then they all just went back to their desks.”
+
+“I sat there for fifteen minutes, thinking, That’s it. I’ve got it. I’m not going to get fired.”
+
+This story sounds nothing like the description of how a “genius programmer” performs at work. So, where does the motivation to keep going down this road come from? Jacob replied:
+
+“I’m very socially motivated, and my front-end developer friends will tell me in no uncertain terms if my rounded corners are messed up or something looks terrible in a particular browser. It’s kind of great. I really just want to code and work with my friends.”
+
+On his Twitter profile, he describes himself as a “computer loser.” His most upvoted Twitter post is him describing himself as the “worst engineer at the company, but third coolest”. This kind of attitude is completely opposite to what is expected of the stereotypical programmer.
+
+Rasmus Lerdorf (Creator of PHP)
+
+Rasmus Lerdorf’s remarks have often sparked controversy:
+
+* I actually hate programming, but I love solving problems.
+
+* There are people who actually like programming. I don’t understand why they like programming.
+
+* I’m not a real programmer. I throw together things until it works then I move on. The real programmers will say “Yeah it works but you’re leaking memory everywhere. Perhaps we should fix that.” I’ll just restart Apache every 10 requests.
+
+From his words, it’s hard to see how much passion he has for computers. Like Jacob Kaplan-Moss and Jacob Thornton, who didn’t feel the need to clarify on myths toward programming, he might as well call himself a programmer wannabe.
+
+David Heinemeier Hansson (Creator of Rails)
+
+When being interviewed by Big Think, DHH mentioned:
+
+It’s kind of funny; when I used to develop in PHP or the stuff I did in Java, I was always looking for something else. I was always looking for another programming language, another… just something else, in part just to distract me from being bored in the languages I was in.
+
+I was absolutely not convinced that I was going to be a programmer when I was working with PHP and Java.
+
+A self introduction that looks nothing like that of a “computer genius.” In the end what he fell in love with wasn’t the computer itself, but the elegance of Ruby, the language. If Ruby hadn’t been invented, DHH might be doing something completely different right now.
+
+From the above, we’ve demonstrated that there are countless articles out there that all reject the myth of the stereotypical programmer. Here are a few of the favorite jokes programmers like to make: 59 hilarious but true programming quotes from software developers
+
+* One man’s crappy software is another man’s full time job. (Jessica Gaston)
+
+* Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+
+* Software and cathedrals are much the same — first we build them, then we pray. (Sam Redwine)
+
+If programmers all really had so much talent and passion, then why are these jokes so popular amongst programmers?
+
+I found a few interesting quotes from a Medium article that resonate with my experience learning to program:
+
+* Someone will always tell you you’re doing it wrong
+
+* Someone will always tell you you’re not a real coder
+
+* Worrying about “geek cred” will slowly kill you
+
+This article was no doubt written to challenge the stereotypes people have toward programming, those pointless myths of what it takes to be a programmer. Next time someone is halfway through learning to program, but begins to question whether or not they’re suited, whether or not they’re qualified enough, I just want to tell them: try a few more different ways of learning, don’t worry about baseless allegories regarding qualifications or what not. Too often the problem is just in how you’re learning, or the attitude you have towards learning to program. Don’t give up unless you really don’t understand a thing after trying multiple different methods. Programming doesn’t require talent, nor does it require passion!
+
+This article was written by Tony You @howtomakeaturn and translated from Chinese to English by Wordcorp (http://www.wordcorp.net/en). Originally Posted on The Model Majority.

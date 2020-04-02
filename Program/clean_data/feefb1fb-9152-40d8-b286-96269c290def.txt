@@ -1,0 +1,92 @@
+From Open Source Ecology
+
+EN
+
+AR
+
+BG
+
+BN
+
+CS
+
+DE
+
+EL
+
+EO
+
+ES
+
+FR
+
+HE
+
+HI
+
+HU
+
+HR
+
+IT
+
+JA
+
+LT
+
+NL
+
+NO
+
+PA
+
+PL
+
+PT
+
+RO
+
+RU
+
+SV
+
+TH
+
+TR
+
+UK
+
+VI
+
+ZH-HANS
+
+Article Title: Global Village Construction Set
+
+Definition [ edit ]
+
+The Global Village Construction Set (GVCS) is a modular, DIY, low-cost, high-performance platform that enables fabrication of the 50 different Industrial Machines that it takes to build a small, sustainable civilization with modern comforts. The name, GVCS, has been coined for the first time in 2008 - at a lecture at the University of Missouri, Columbia - see UM Presentation.
+
+Media [ edit ]
+
+Key Features [ edit ]
+
+See summary at OSE Specifications for Product Design. Open Source - we freely publish our 3d designs, schematics, instructional videos, budgets, and product manuals on our open source wiki and we harness open collaboration with technical contributors. Low-Cost - The cost of making or buying our machines is, on average, 8x cheaper than buying from an Industrial Manufacturer, including an average labor cost of hour for a GVCS fabricator. Modular - Motors, parts, assemblies, and power units can interchange, where units can be grouped together to diversify the functionality that is achievable from a small set of units. User-Serviceable - Design-for-disassembly allows the user to take apart, maintain, and fix tools readily without the need to rely on expensive repairmen. DIY - (do-it-yourself) The user gains control of designing, producing, and modifying the GVCS tool set. Closed Loop Manufacturing - Metal is an essential component of advanced civilization, and our platform allows for recycling metal into virgin feedstock for producing further GVCS technologies - thereby allowing for cradle-to-cradle manufacturing cycles High Performance - Performance standards must match or exceed those of industrial counterparts for the GVCS to be viable. Flexible Fabrication - It has been demonstrated that the flexible use of generalized machinery in appropriate-scale production is a viable alternative to centralized production. Distributive Economics - We encourage the replication of enterprises that derive from the GVCS platform as a route to truly free enterprise - along the ideals of Jeffersonian democracy. Industrial Efficiency - In order to provide a viable choice for a resilient lifestyle, the GVCS platform matches or exceeds productivity standards of industrial counterparts.
+
+GVCS Machines [ edit ]
+
+See main article GVCS Machine
+
+OSE is developing 50 machines of the Global Village Construction Set via module-based design. This means that we break machines down into modules, and each module can be developed in parallel with other modules. Examples are CEB Press or Tractor.
+
+The exact list of GVCS machines has evolved over time and is still subject to change. For example, while the MicroHouse and the Car are not GVCS machines in a strict sense (but products created by GVCS machines), they are treated as GVCS machines for historical and business-oriented reasons.
+
+Documentation is found at different places for different target groups:
+
+Graphical list of 50 machines on our main website (Public)
+
+Hierarchical representation of machines/modules at dozuki: http://opensourceecology.dozuki.com/ (Public, Prototypers, Developers)
+
+Wiki internal list of GVCS machines and their breakdown into modules - GVCS Machines and Modules and GVCS State of Completion (Prototypers, Developers)
+
+
+

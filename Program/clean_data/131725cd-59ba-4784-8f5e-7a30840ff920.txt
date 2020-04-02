@@ -1,0 +1,117 @@
+Sign up for our daily recaps of the ever-changing search marketing landscape.
+
+For marketers, there are few skills more important than a deep understanding of Google Analytics and its conversion measurement capabilities.
+
+After all, this is the tool that tells you whether your efforts are actually translating into results.
+
+Unfortunately, mastering Google Analytics can be challenging, even for experienced marketers. There is far too much data and too few easy-to-follow dashboards to sort it out.
+
+To help you out, I’ve put together a list of seven custom and standard reports you can use right away to get better insight into your marketing performance.
+
+1. Mobile Performance Report
+
+You know this already: Ours is a mobile-first world. The total number of mobile users now exceeds the total number of desktop users…
+
+… and mobile e-commerce is nearly 30 percent of all e-commerce in the US.
+
+In fact, mobile is so important now that Google even penalizes websites that are not mobile-friendly.
+
+For marketers, knowing how their sites perform on smaller screens is vital to staying alive in the SERPs and winning over customers.
+
+The mobile performance report shows you how well your site (not app) is optimized for mobile and where you need to make improvements.
+
+You can even segment the report further to see which mobile devices/browsers customers are using to access your site. This will tell you if your site is performing poorly on some devices.
+
+Accessing this report is easy: Just go to Audience -> Mobile -> Overview.
+
+This will show you how your site does on different platforms:
+
+You can add more dimensions here as you see fit. Take careful note of bounce rate, time on site and page views to see whether your user experience is failing on one or more mobile channels.
+
+2. Traffic Acquisition Report
+
+Want to know if people are actually clicking on your ads? That guest post you published earlier — is it generating any traffic to your website? How about your SEO strategy? Is it actually working?
+
+The traffic acquisition report will tell you all this and more. For many marketers, this will be their first step in the reporting process.
+
+This is a standard report, so you can find it by going to Acquisition -> Overview.
+
+This will give you a quick breakdown of your traffic sources.
+
+Of particular insight here is the “Referrals” tab (Acquisition -> Overview -> All Traffic -> Referrals). This will tell you which external sites are driving traffic to your site.
+
+Clicking on a referring website will show you the exact pages visitors used to enter your site.
+
+3. Content Efficiency Report
+
+Do you generate a lot of content on your website and find that tracking it is getting a little overwhelming?
+
+Avinash Kaushik, author of Web Analytics 2.0 and a Digital Marketing Evangelist at Google, created this report to solve this exact problem.
+
+This report tracks entrances, page views, bounces and goal completions to help you answer questions like:
+
+Which content is engaging your audience the most?
+
+What type of content (images, videos, GIFs, infographics, reviews) performs best with your readers?
+
+Which content converts readers into customers?
+
+Which content is shared most by your users?
+
+Here’s a quick overview from Avinash himself:
+
+You can get a more detailed explanation of the report here. To grab a copy for yourself, check this link (you’ll need to log into Google Analytics first).
+
+4. Keyword Analysis Report
+
+Getting organic traffic from Google is great. Unfortunately, ever since Google started encrypting search data in 2012, your organic traffic keyword report has mostly shown this:
+
+However, you can still gain a ton of insight about your visitors by tracking the performance of unencrypted keywords.
+
+This report created by eConsultancy analyzes the most popular (and available) incoming keywords to your site. It shows visitor metrics, conversion rates, goal completions and page load time for each keyword.
+
+Use this data to figure out what keywords are working best for you, how many of them are actually contributing to your goals and what keywords you need to optimize for in the future.
+
+5. New vs. Returning Visitors
+
+Getting a user to come to your site for the first time is great. Getting them to visit again is even better. After all, it is the returning visitors who usually end up becoming readers, followers and customers.
+
+This standard report in Google Analytics will tell you what percentage of your users are coming back to your site.
+
+You can find it by going to Audience -> Behavior -> New vs. Returning in your Analytics account.
+
+Usually, the metrics for new and returning visitors are quite different. Returning visitors tend to stick around longer and have lower bounce rates.
+
+6. Landing Pages Report
+
+Your users will enter your site from all sorts of pages. Some will type in your home page URL directly, some will find a page through search engines, and some others will click on a link shared on your Twitter feed.
+
+This report will tell you which pages visitors are landing on when they first enter your site. Based on data from this report, you can figure out how users are interacting with your site.
+
+For example, if the report shows that some pages have a substantially higher bounce rate than others, you can take steps to make high bounce rate pages more engaging.
+
+Find the report – Behavior -> Site Content -> Landing Pages.
+
+7. Bounce Rate vs. Exit Rate Report
+
+“Bounce Rate” is the percentage of visitors who don’t take any action and leave from the same page they landed on.
+
+“Exit Rate” measures the percentage of your visitors who browse more than one page on your site before leaving.
+
+This report compares the bounce rate vs. exit rate for different pages on your site.
+
+You can find it by going to Behavior -> Site Content -> All Pages:
+
+Next, select “Bounce Rate” and “% Exit” in the Explorer tab.
+
+This will give you a visual comparison between bounce and exit rate for all your pages. You can drill down further to get this data for each page.
+
+Use this report to find pages with low engagement and detect UX problems on your site. For example, if visitors are exiting a three-page article after reading only the first two pages, there’s probably something that is causing them to leave on the second page (too many ads, bad copy, a distracting link in the sidebar and so on).
+
+Over to you
+
+Google Analytics is an essential analytics tool for any marketer, but making the most of it can be challenging. By using a mixture of pre-created custom reports and standard reports, you can gain valuable insight into your users.
+
+Google Analytics’ Solutions Gallery is particularly useful for someone new to analytics. Here, you can import expert-created reports into your Analytics account to build powerful dashboards quickly. You can also use these reports as guides to help you understand this incredible tool better.
+
+Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.

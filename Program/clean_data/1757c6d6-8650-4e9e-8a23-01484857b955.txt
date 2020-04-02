@@ -1,0 +1,159 @@
+A design contract is like a business card—it comes from the same desk, and bears the same creative mark. But it’s also the business card you hate handing out: a folder of legal gibberish with terrible formatting that reminds the client of everything that could possibly go wrong before the work has even started.
+
+Article Continues Below
+
+Share this on
+
+
+
+Translations Italian
+
+Is this just a necessary evil? Why can’t contracts evolve like everything else?
+
+Actually, they can—and should. Modernizing your contract will not only make it match your carefully crafted brand, but it can also help you reach an agreement faster, and even strengthen your position when negotiating. This is not an easy task. Legal content is a delicate matter, and you definitely can’t start tweaking your contract like it’s a blog post.
+
+Before we start modernizing contracts, we first have to understand their purpose, and how and why they got the way they are. It’s a long journey back.
+
+Five Roman principles of contracts still valid today
+
+The Romans developed a sophisticated system of commercial law that has become the foundation for pretty much all of the Western world’s legal systems. A design contract was probably signed to make the incredible decorations of Ara Pacis. Such a contract would have been created to accomplish something not that different from today’s products of design: defining what must be done, the deadline, the client’s approval, and the price. The concept of copyright did not exist yet, but unauthorized and fraudulent copies of literary works were socially unacceptable. (As for non-literary works, good luck copying those marble statues.)
+
+While our work has evolved, contracts have essentially stayed the same—for a number of good reasons. In fact, several principles are just as important in today’s contracts as they were in Roman times.
+
+1. Verba volant, scripta manent
+
+Spoken words fly away, written words stay.
+
+In a world where few people could read or write, a written contract was much more difficult to obtain—and therefore much more valuable than a handshake. Romans were the first to establish a now-universal principle of civil procedure: The burden of proof is on the plaintiff (onus probandi incumbit ei qui dicit). Therefore, a written contract protects the wronged party. This is still true today, so don’t only use a written contract before work begins; make sure every modification is documented in writing.
+
+That’s a much easier task today than in Roman times. You don’t have to run to a scribe, or even a notary. E-mail has been proved legally binding multiple times, so to amend a contract, you can just drop a line like, “As discussed in today’s meeting, we mutually agree to modify the statement of work as follows…”
+
+Some contracts even have a clause that requires all amendments to be in writing. If that’s the case, you’ll want to make certain you follow it; otherwise, the client can make excuses for not paying you for extra work.
+
+AIGA’s standard agreement for design services uses a nifty solution to make sure all modifications are in writing and that there’s a limit to the number of modifications that can be requested:
+
+4.2 Substantive Changes. If Client requests or instructs Changes that amount to a revision of at least 15% of the time required to produce the Deliverables, and or the value or scope of the Services, Designer shall be entitled to submit a new and separate Proposal to Client for written approval. Work shall not begin on the revised services until a fully signed revised Proposal and, if required, any additional retainer fees are received by Designer.
+
+As you can see, it’s the same old verba volant, scripta manent still in use.
+
+2. Aliquid dare, aliquid retinere
+
+Give something, keep something.
+
+The value of a project depends not only on what you put in a contract, but also what you leave out. This is particularly true for design, which is not strictly a product, nor strictly a service. It’s a hybrid set of “deliverables,” and the contract (not the e-mail with the design attached) is the place where you give them to your client.
+
+Be wary of what you give and keep. If possible, hold onto copyright: Delay the assignment, or the effective date of the license, until the money is in the bank. This is the best leverage you have.
+
+Clients will try to do the same with payment, of course. Welcome to contract negotiation.
+
+On this inevitable battlefield, details make a difference. For example, imagine you are an illustrator who creates a set of characters for a story. Your client picks the ones they like, and those are the deliverables they buy. Why shouldn’t you keep the rest, and “recycle” them for future projects? If you don’t specify this in the contract, the client will be assigned all the work in connection with the project, including unused sketches.
+
+Same thing if you are delivering code. It’s common to incorporate snippets of code into multiple projects, but just because that code ends up in that project doesn’t mean that client owns it. These are usually called “design tools” in a contract—which means instead of giving something away, you’re simply giving your client permission to continue using the tools.
+
+3. Leges sine moribus vanae
+
+Laws are useless without customs.
+
+Just as graphical and technical standards are essential to designing, standards and industry practices play a crucial role in negotiating contracts. Following best practices not only lowers transaction costs and streamlines the process, but also fosters more balanced deals.
+
+What are the contractual standards of design? The AIGA agreement mentioned earlier is a great start, but standards can also live in single clauses. Eric Adler, a lawyer who works with creative professionals, knows which clauses of his contract are more likely to be negotiated, and takes care to explain those to his clients.
+
+An excerpt from Eric Adler’s contract annnotations.
+
+When it comes to liability, Adler suggests that it’s standard to cover your asse(t)s up to the overall net value of the project. You could try to ask for more, but no one wants to make a client nervous over a legal boilerplate, and standards make sure this doesn’t happen.
+
+Standards don’t just come from lawyers or unions. Andy Clarke’s Contract Killer is extremely popular among freelance designers—in fact, a version of his contract is one of the most viewed and downloaded items at my company, Docracy, which provides an open collection of legal documents. This is likely due to Clarke’s strict no-legalese policy. He even dropped the classic impersonal language, transforming it into a natural dialogue with the client: “What both parties agree to do.”
+
+The result is a set of informal yet clear rules that cover essential legal provisions, like assigning copyright only upon full payment and reserving portfolio rights.
+
+But where is all the horrible small print?
+
+There is none. This contract shows that it’s possible to enter a binding agreement using everyday English. Your lawyer may not like it, because he may fear not being taken seriously enough, or feel uneasy not following his standard. Fortunately, this is something that has actually changed since the Romans. They had to use formulae and magic words to make sure the contract would be upheld in court, while we typically enjoy shared language and literacy skills.
+
+4. Clausulae insolitae indicunt suspicionem
+
+Unusual clauses will raise flags.
+
+We all like standards, but let’s face it: Everything is negotiable, and people will always try to sneak advantageous clauses into the contract. You need to make sure you don’t sign anything you’ll regret, and spotting bad provisions is not a lawyers-only job. Scanning contracts is a necessity sometimes, so always look closely at the following parts:
+
+Parties , particularly when companies are involved: Make sure the people you’re dealing with have the power to bind their companies.
+
+, particularly when companies are involved: Make sure the people you’re dealing with have the power to bind their companies. IP provisions: Who owns copyright and when, and what the licensing limitations are.
+
+Who owns copyright and when, and what the licensing limitations are. Your representation and warranties —the fewer, the better: underpromise and overdeliver!
+
+—the fewer, the better: underpromise and overdeliver! Termination : What happens if someone wants to get out of the deal early?
+
+: What happens if someone wants to get out of the deal early? Dispute resolution: The clause no lawyer ever wants to give up. Watch this one, because you don’t want to let a client drag you to a court a thousand miles away. If you can agree to arbitration or mediation, even better.
+
+The more contracts you read, the better you’ll get at spotting weird provisions. Trust your judgement: If something doesn’t seem quite right, it probably isn’t.
+
+At minimum, you should ask for an explanation. This is never a waste of time. If you have a lawyer do this, just find someone who doesn’t bill by the hour, or this negotiation will take forever.
+
+5. Pacta sunt servanda
+
+A deal is a deal.
+
+Both in Roman times and today, if you don’t deliver, it’s on you. Keeping promises is fundamental for a professional reputation. That’s why you have to be clear and consistent in the promises you make.
+
+How do inconsistencies arise? One common way is having a statement of work (SOW) that’s not compatible with a master service agreement (MSA). This happens more often than you might think, particularly if no one has ever read that thirty-page agreement. If it’s not clear which one prevails (yes, you have to write it down), you can find yourself in a legal mess.
+
+For example, capping your hours in the MSA is a great way to mitigate the fixed-fee or milestone-based pricing you agreed to in the SOW, but only if the cap prevails! Vice-versa, if you know you’ll only be looking at the SOW and all the special payment provisions are in there, then it should probably override any older pricing rule buried in that thirty pages of small print.
+
+Even better, an MSA doesn’t really need to include thirty nasty pages of small print.
+
+Making a modern contract
+
+I bet you didn’t read iTunes’ latest Terms and Conditions before clicking “I Agree.” We try to read contracts when we think it’s important, but it’s not easy, for several reasons:
+
+Contracts are optimized for print, but today we read mostly on screen.
+
+They are often poorly formatted and typographically awful.
+
+Many elements are difficult to read, like definitions and ALL CAPS PARAGRAPHS.
+
+They’re full of legal jargon, not plain language.
+
+The good news is, these problems can be fixed.
+
+Typography
+
+Let’s start with font. Designers and clients alike now mostly read on screens. Electronic signing is a reality, so there are few arguments for optimizing a contract for print.
+
+If you’ve studied typography, you know how to use contrast, proximity, and alignment to create emotional and persuasive effects, and you can apply these same principles to legal text.
+
+Matthew Butterick, author of Typography for Lawyers , has even developed a font optimized for legal text: Equity, a serif font that also looks good on screen—a nice compromise. Whatever you choose, ensure you give your contract balance and contrast.
+
+Typesetting
+
+Contracts are a very peculiar subset of legal documents. How can you use typesetting skills to improve their layout?
+
+Structure them in nested lists. HTML does such a great job handling nested lists and headings, so why use a crappy text editor? You often see reckless tabbing and manual line breaks made by frustrated people desperately trying to keep order. Using tools of the trade like Markdown, LaTeX, and Illustrator, you can do better in no time.
+
+Divide the boilerplate from the custom terms. Highlight relevant content like party names, important numbers, and percentages so they stand out from the boilerplates and can be easily skimmed.
+
+Make important clauses stand out, but never use all caps. The law only asks the drafter, in specific situations, to highlight certain provisions—and there are ways to do that without sacrificing readability. If your lawyer thinks differently, she’s wrong.
+
+Allow longer paragraphs. Words need to “breathe,” but contracts also need to cluster like clauses for readers. For this reason, line length is a delicate choice that depends both on the length of the clauses in your contract and on the font you choose to use. If you opt for a sans serif, you might get away with longer lines, but be sure to keep generous margins and line spacing (ideally, 120 to 145 percent of the point size, according to Typography for Lawyers ).
+
+You’ll also need to decide whether to justify or left-align text. The general rule is that justified text only works with proper hyphenation. This means you’ll have to manually input non-hyphenated breaks for the words you want to keep on the same line. Unless you’re drafting the contract yourself from start to finish, this is a daunting task. And, if your contract manages to have short paragraphs, ragged-right looks more natural, particularly on screen.
+
+When we redesigned Docracy’s PDF typography, we opted for a longer line with lots of white space on the sides. This lets even the longest contract breathe, yet creates a compact final look:
+
+Plain language
+
+Now for the million-dollar question: Why are contracts written in legal jargon? Sadly, it’s because lawyers are too lazy and change-averse to rewrite their forms. The good news is, this is changing. And you can contribute; most formulaic “legalese,” like herein, thereof, or hereby, can just be replaced with “this.” You might even be able to remove entire lines, but better check with a lawyer to make sure.
+
+Here’s an example of traditional contract language rewritten in plain English. Not only is the new version half the length, but it’s much easier to understand:
+
+Before After Timing. Designer will prioritize performance of the Services as may be necessary or as identified in the Proposal, and will undertake commercially reasonable efforts to perform the Services within the time(s) identified in the Proposal. Client agrees to review Deliverables within the time identified for such reviews and to promptly either, (i) approve the Deliverables in writing or (ii) provide written comments and/or corrections sufficient to identify the Client’s concerns, objections or corrections to Designer. The Designer shall be entitled to request written clarification of any concern, objection or correction. Client acknowledges and agrees that Designer’s ability to meet any and all schedules is entirely dependent upon Client’s prompt performance of its obligations to provide materials and written approvals and/or instructions pursuant to the Proposal and that any delays in Client’s performance or Changes in the Services or Deliverables requested by Client may delay delivery of the Deliverables. Any such delay caused by Client shall not constitute a breach of any term, condition or Designer’s obligations under this Agreement. Timing. Designer will prioritize the Services as may be necessary, or as identified in the Proposal, and will take reasonable efforts to perform the Services in a timely manner. Client agrees to review Deliverables within the time identified in Schedule A and to either (i) approve the Deliverables in writing or (ii) provide exhaustive written feedback. Designer may request written clarification of any of Client’s comments. Delays in the performance of the Services due to Client’s late feedback or requested Changes will not constitute a breach of Designer’s obligations.
+
+Classical roots, contemporary documents
+
+There are many reasons the core rules of contracts are still in place two millennia after the fall of Rome. But there are other elements that we can, and should, take to the twenty-first century.
+
+If we want to address the readability problems unique to our era—and improve communication with our clients—then it’s time we fix the language, layout, and typesetting of our contracts. And who better than designers to do it?
+
+Also in Issue № 366 Translation is UX We—the people who make websites—now study almost every aspect of our trade, from content and usability to art direction and… Further reading about Process Becoming Better Communicators As designers, we already know how to communicate with users in a language they understand. Yet, we often don’t do this when… Responsive Comping: Obtaining Signoff without Mockups If you’re making websites, chances are you’ve given some thought to what constitutes a responsive-friendly design…
+
+Get our latest articles in your inbox. Sign up for email alerts.

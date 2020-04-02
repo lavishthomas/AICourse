@@ -1,0 +1,31 @@
+View Images The massive El Reno tornado in Oklahoma in May 2013 grew to 2.6 miles wide and claimed eight lives.
+
+Photograph by Mike Theiss, National Geographic Creative
+
+Scientists now have a way to understand the fierce tornado that killed veteran stormchaser Tim Samaras in 2013 in El Reno, Oklahoma. The May 31 storm was the largest ever recorded, and one of the fastest.
+
+New software has allowed scientists to piece together video footage of that deadly storm from 45 different stormchasers. The video is synchronized with maps and radar data to create a unique 3-D picture of the tornado.
+
+For the first time, scientists can now actually see the “sub-vortex” that spun out of the tornado at 175 miles (280 kilometers) per hour, killing Samaras, his son Paul, and colleague Carl Young.
+
+“That sub-vortex had a structure unlike anything we’ve ever seen, but now we're able to track it second by second—using footage from different perspectives—to see if we can learn more about how it formed,” says Anton Seimon, a tornado scientist at Appalachian State University who co-developed the new software tool with programmer Skip Talbot and meteorologist John Allen.
+
+Built over the past year, the program is being launched officially this weekend, in conjunction with the debut of “Inside the Mega Twister” on the National Geographic Channel, which is about the El Reno storm. The software was developed with support from the National Geographic Society, which had also supported Samaras.
+
+Called the Tornado Environment Display (TED) visualization tool, the program was named for the late Ted Fujita, the pioneering tornado scientist who had used crowdsourcing in the 1950s to study the phenomena by soliciting footage from the public. For now, TED has only been applied to the El Reno storm, but Seimon says the technology could be used to model any other tornado for which there is ample footage.
+
+Check out the tool below. For the full-screen experience click here.
+
+By splicing together high-resolution imagery, the program allows scientists to get a finer view of what’s happening inside a storm, says Seimon, who had previously worked with Samaras. Radar is only able to capture images every few seconds but video typically records at 30 frames per second.
+
+Watch: Learn the basics of tornado science.
+
+That level of detail is allowing scientists to better map airflow. It has also allowed the team to identify a chunk of hail in the El Reno tornado eight inches in diameter, making it likely the largest piece of hail ever recorded.
+
+Seimon hopes the tool will one day improve public safety, because scientists and engineers will be able to better understand the behavior of storms and precisely how they cause damage. In the future, the team also hopes stormchasers will be able to upload video in real time, although bandwidth constraints are a major hurdle.
+
+“We hope this project honors the memory of Tim [Samaras] and his team,” Seimon says.
+
+Check out “Inside the Mega Twister” on the National Geographic Channel on Sunday, December 6 at 10/9c.
+
+Watch: Tim Samaras's last storm videos.

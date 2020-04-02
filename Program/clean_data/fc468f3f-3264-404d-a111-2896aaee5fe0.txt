@@ -1,0 +1,53 @@
+Operating cash flow is the lifeblood of a company and the most important barometer that investors have. Although many investors gravitate toward net income, operating cash flow is a better metric of a company's financial health for two main reasons. First, cash flow is harder to manipulate under GAAP than net income (although it can be done to a certain degree). Second, "cash is king" and a company that does not generate cash over the long term is on its deathbed.
+
+Tutorial: An Introduction To Fundamental Analysis
+
+But operating cash flow doesn't mean EBITDA (earnings before interest taxes depreciation and amortization). While EBITDA is sometimes called "cash flow", it is really earnings before the effects of financing and capital investment decisions. It does not capture the changes in working capital (inventories, receivables, etc.). The real operating cash flow is the number derived in the statement of cash flows.
+
+Overview of the Statement of Cash Flows
+
+The statement of cash flows for non-financial companies consists of three main parts:
+
+Operating flows - The net cash generated from operations (net income and changes in working capital).
+
+Investing flows - The net result of capital expenditures, investments, acquisitions, etc.
+
+Financing flows - The net result of raising cash to fund the other flows or repaying debt.
+
+By taking net income and making adjustments to reflect changes in the working capital accounts on the balance sheet (receivables, payables, inventories) and other current accounts, the operating cash flow section shows how cash was generated during the period. It is this translation process from accrual accounting to cash accounting that makes the operating cash flow statement so important.
+
+Accrual Accounting vs. Cash Flows
+
+The key differences between accrual accounting and real cash flow are demonstrated by the concept of the cash cycle. A company's cash cycle is the process that converts sales (based upon accrual accounting) into cash as follows:
+
+Cash is used to make inventory.
+
+Inventory is sold and converted into accounts receivables (because customers are given 30 days to pay).
+
+Cash is received when the customer pays (which also reduces receivables).
+
+There are many ways that cash from legitimate sales can get trapped on the balance sheet. The two most common are for customers to delay payment (resulting in a build up of receivables) and for inventory levels to rise because the product is not selling or is being returned.
+
+For example, a company may legitimately record a $1 million sale but, because that sale allowed the customer to pay within 30 days, the $1 million in sales does not mean the company made $1 million cash. If the payment date occurs after the close of the end of the quarter, accrued earnings will be greater than operating cash flow because the $1 million is still in accounts receivable.
+
+Harder to Fudge Operating Cash Flows
+
+Not only can accrual accounting give a rather provisional report of a company's profitability, but under GAAP it allows management a range of choices to record transactions. While this flexibility is necessary, it also allows for earnings manipulation. Because managers will generally book business in a way that will help them earn their bonus, it is usually safe to assume that the income statement will overstate profits.
+
+An example of income manipulation is called "stuffing the channel" To increase their sales, a company can provide retailers with incentives such as extended terms or a promise to take back the inventory if it is not sold. Inventories will then move into the distribution channel and sales will be booked. Accrued earnings will increase, but cash may actually never be received, because the inventory may be returned by the customer. While this may increase sales in one quarter, it is a short-term exaggeration and ultimately "steals" sales from the following periods (as inventories are sent back). (Note: While liberal return policies, such as consignment sales, are not allowed to be recorded as sales, companies have been known to do so quite frequently during a market bubble.)
+
+The operating cash flow statement will catch these gimmicks. When operating cash flow is less than net income, there is something wrong with the cash cycle. In extreme cases, a company could have consecutive quarters of negative operating cash flow and, in accordance with GAAP, legitimately report positive EPS. In this situation, investors should determine the source of the cash hemorrhage (inventories, receivables, etc.) and whether this situation is a short-term issue or long-term problem. (For more on cash flow manipulation, see Cash Flow On Steroids: Why Companies Cheat.)
+
+Cash Exaggerations
+
+While the operating cash flow statement is more difficult to manipulate, there are ways for companies to temporarily boost cash flows. Some of the more common techniques include: delaying payment to suppliers (extending payables); selling securities; and reversing charges made in prior quarters (such as restructuring reserves).
+
+Some view the selling of receivables for cash - usually at a discount - as a way for companies to manipulate cash flows. In some cases, this action may be a cash flow manipulation; but I think it is also a legitimate financing strategy. The challenge is being able to determine management's intent.
+
+Cash Is King
+
+A company can only live by EPS alone for a limited time. Eventually, it will need cash to pay the piper, suppliers and, most importantly, the bankers. There are many examples of once-respected companies who went bankrupt because they could not generate enough cash. Strangely, despite all this evidence, investors are consistently hypnotized by EPS and market momentum and ignore the warning signs.
+
+The Bottom Line
+
+Investors can avoid a lot of bad investments if they analyze a company's operating cash flow. It's not hard to do, but you'll need to do it, because the talking heads and analysts are all too often focused on EPS.

@@ -1,0 +1,67 @@
+Uber is a smartphone-app based taxi booking service which connects users who need to get somewhere with drivers willing to give them a ride. The service has been hugely controversial, due to regular taxi drivers claiming that it is destroying their livelihoods, and concerns over the lack of regulation of the company’s drivers.
+
+Source for picture: Mapping a city’s flow using Uber data
+
+This hasn’t stopped it from also being hugely successful – since being launched to purely serve San Francisco in 2009, the service has been expanded to many major cities on every continent except for Antarctica.
+
+The business is rooted firmly in Big Data and leveraging this data in a more effective way than traditional taxi firms have managed has played a huge part in its success.
+
+Uber’s entire business model is based on the very Big Data principle of crowd sourcing. Anyone with a car who is willing to help someone get to where they want to go can offer to help get them there.
+
+Uber holds a vast database of drivers in all of the cities it covers, so when a passenger asks for a ride, they can instantly match you with the most suitable drivers.
+
+Fares are calculated automatically, using GPS, street data and the company’s own algorithms which make adjustments based on the time that the journey is likely to take. This is a crucial difference from regular taxi services because customers are charged for the time the journey takes, not the distance covered.
+
+Surge pricing
+
+These algorithms monitor traffic conditions and journey times in real-time, meaning prices can be adjusted as demand for rides changes, and traffic conditions mean journeys are likely to take longer. This encourages more drivers to get behind the wheel when they are needed – and stay at home when demand is low. The company has applied for a patent on this method of Big Data-informed pricing, which is calls “surge pricing”.
+
+This algorithm-based approach with little human oversight has occasionally caused problems – it was reported that fares were pushed up sevenfold by traffic conditions in New York on New Year’s Eve 2011, with a journey of one mile rising in price from $27 to $135 over the course of the night.
+
+This is an implementation of “dynamic pricing” – similar to that used by hotel chains and airlines to adjust price to meet demand – although rather than simply increasing prices at weekends or during public holidays, it uses predictive modelling to estimate demand in real time.
+
+UberPool
+
+Changing the way we book taxis is just a part of the grand plan though. Uber CEO Travis Kalanick has claimed that the service will also cut the number of private, owner-operated automobiles on the roads of the world’s most congested cities. In an interview last year he said that he thinks the car-pooling UberPool service will cut the traffic on London’s streets by a third.
+
+UberPool allows users to find others near to them which, according to Uber’s data, often make similar journeys at similar times, and offer to share a ride with them. According to their blog, introducing this service became a no-brainer when their data told them the “vast majority of [Uber trips in New York] have a look-a-like trip – a trip that starts near, ends near, and is happening around the same time as another trip”.
+
+Other initiatives either trialled or due to launch in the future include UberChopper, offering helicopter rides to the wealthy, UberFresh for grocery deliveries and Uber Rush, a package courier service.
+
+Rating systems
+
+The service also relies on a detailed rating system – users can rate drivers, and vice versa – to build up trust and allow both parties to make informed decisions about who they want to share a car with.
+
+Drivers in particular have to be very conscious of keeping their standards high – a leaked internal document showed that those whose score falls below a certain threshold face being “fired” and not offered any more work.
+
+They have another metric to worry about, too – their “acceptance rate”. This is the number of jobs they accept versus those they decline. Drivers were told they should aim to keep this above 80%, in order to provide a consistently available service to passengers.
+
+Uber’s response to protests over its service by traditional taxi drivers has been to attempt to co-opt them, by adding a new category to its fleet. UberTaxi - meaning you will be picked up by a licensed taxi driver in a registered private hire vehicle - joined UberX (ordinary cars for ordinary journeys), UberSUV (large cars for up to 6 passengers) and UberLux (high end vehicles) as standard options.
+
+Regulatory pressure and controversies
+
+It will still have to overcome legal hurdles – the service is currently banned in a handful of jurisdictions including Brussels and parts of India, and is receiving intense scrutiny in many other parts of the world. Several court cases are underway in the US regarding the company’s compliance with regulatory procedures.
+
+Another criticism is that because credit cards are the only payment option, the service is not accessible to a large proportion of the population in less developed nations where the company has focused its growth.
+
+But given its popularity wherever it has launched around the world, there is a huge financial incentive for the company to press ahead with its plans for revolutionising private travel.
+
+If regulatory pressures do not kill it, then it could revolutionise the way we travel around our crowded cities – there are certainly environmental as well as economic reasons why this would be a good thing.
+
+Uber is not alone – it has competitors offering similar services on a (so far) smaller scale such as Lyft , Sidecar and Haxi. If a deregulated private hire market emerges through Uber’s innovation, it will be hugely valuable, and competition among these upstarts will be fierce. We can expect the winners to be those who make the best use of the data available to them, to improve the service they offer to their customers.
+
+The most successful is likely to be the one which manages to best use the data available to it to improve the service it provides to customers.
+
+Case study - how Uber uses big data - a nice, in-depth case study how they have based their entire business model on big data with some practical examples and some mention of the technology used.
+
+I hope you found this post interesting. I am always keen to hear your views on the topic and invite you to comment with any thoughts you might have.
+
+About : Bernard Marr is a globally recognized expert in analytics and big data. He helps companies manage, measure, analyze and improve performance using data.
+
+His new book is: Big Data: Using Smart Big Data, Analytics and Metrics To Make Bette... You can read a free sample chapter here
+
+DSC Resources
+
+Additional Reading
+
+Follow us on Twitter: @DataScienceCtrl | @AnalyticBridge

@@ -5,7 +5,8 @@ conda deactivate
 cd C:\Users\L00150445\.conda\envs\AI2_course>
 pip install 
 pip install jupyterthemes
-jt -t chesterish
+jt -t chesterish -T -N -fs 10 -cellw 90% -lineh 170
+
 
 git pull origin master
 git add -A

@@ -1,0 +1,482 @@
+Illustration by Jim Cooke
+
+Full wagering is illegal in 49 states, but sports betting is big business, with billions wagered each year—and everyone knows it. Lines and moves are discussed openly on TV, and covers are mentioned right next to game stories. Media outlets nationwide turn to a handful of people for insight and predictions into point spreads and odds. And the man they look to more than any other is RJ Bell, a self-proclaimed modern-day Jimmy the Greek.
+
+
+
+Various titles, some generous and others outright false—betting expert, professional handicapper, Vegas oddsmaker—are used to identify Bell when he is interviewed, but his role as head of Pregame.com is always included and rarely explained. Pregame, which Bell started in 2005, sells sports-betting picks. Bell does not sell his own selections any more–they never did very well–but instead oversees a revolving cast of two dozen men who do. Bell says they are winning pro bettors, and by paying for their advice, the implication is that you will win, too. After all, they do this for a living.
+
+Advertisement
+
+In the industry if not in the media, Bell’s army of handicappers are known, usually derisively, as touts, and Bell is chief tout of the most visible and quite possibly the most profitable pick-selling operation.
+
+But unlike his forerunners—notable loudmouths from the ‘80s and ‘90s like Jack Price and Stu Feiner who came across like professional wrestlers—Bell is not braying on TV infomercials, promising to bury your bookmaker. He doesn’t have to. Mainstream media now brings the heads of these services on air and passes them off as analysts, affording people like Bell streams of new customers and free advertising a salesman could scarcely imagine.
+
+Scribes and sportscasters alike present Bell as the oracle of Las Vegas. You can hear him on Stephen A. Smith’s Sirius show, KROQ in Los Angeles, ESPN radio in Las Vegas, Yahoo’s national networks, NBC Sports Radio, and Colin Cowherd’s nationally syndicated Fox Sports 1 show; see him in primetime on SportsCenter, CBS, ABC, CNBC, CNN, or at South by Southwest; and find him quoted regularly in the New York Times, Associated Press, Bloomberg, Los Angeles Times, Wall Street Journal, and any local rag or blog that calls him. A few years ago, he wrote a regular betting column for Grantland. On Twitter, his followers number more than 117,000. Following him, he says, is like having “a seat in the sportsbook.”
+
+Bell, 45, a native of Shadyside, Ohio, labors to separate Pregame, which the New York Times Magazine claimed in 2012 was worth $5 million, from its industry’s crooked history—which Rick Reilly summed up in a 1991 Sports Illustrated feature on touts . “In a world of cheats, cons, grifters, swindlers, carnival barkers and people you would not want to change your fifty, the brotherhood of so-called sports advisers is a gutter unto itself.”
+
+Advertisement
+
+The perception, at least, has changed. In May 2015, Bell wrote, magnanimously, “I feel strongly that Pregame.com is contributing significantly to the acceptance of sports betting...Pregame.com is different–and it’s plain wrong to lump [us] in with the scammers of the industry’s past.”
+
+I’ve spent my life around gamblers. From a young age I watched haggard men peddle worthless tip sheets at the racetrack. If a handicapper truly had an edge, I quickly learned, he would guard it. He would have everything to lose—quite literally—by advertising it. This axiom seems to escape journalists increasingly wading into covering sports betting, to say nothing of the desperate customers paying for picks.
+
+I spent a year investigating the tout industry and discovered the same old racket, wrapped in sophisticated-looking, digital-era packaging. I found gross misrepresentation of records, even amid insistent claims of transparency; a host of old-school tricks like using out-of-date or nonexistent betting lines; and misleading or deceptive marketing.
+
+Nobody is shrewder than Bell at hiding the simple truth that would put him out of business: Far from being “elite experts,” as Bell has described them, most of his current and former touts have records well short of the break-even point.
+
+In private, Bell seems to tell a different story. Audio recordings that surfaced last year appear to capture Bell telling a business partner that his touts’ picks aren’t successful enough to make them profitable for customers. “The odds are you don’t win,” the person identified as Bell says on the tapes. “I think we know that.”
+
+But the lies about winning picks, I came to realize, are merely the short con in advance of the long game: hush-hush arrangements with sportsbooks in which pick-sellers earn a significant cut of the losses of their referred clients.
+
+Advertisement
+
+Today’s touts get you on both ends. They sell you “winners,” and then collect when you lose. It’s a sucker’s game, same as it ever was.
+
+If you came across RJ Bell on ESPN or glanced at the cover of The New York Times Magazine a few years ago, you would find no reason to question his credibility. Go to Pregame, and you only find winning records. But running a tout service is an ongoing sleight of hand, beginning with those records.
+
+
+
+Advertisement
+
+“There are groups making real money and moving lines,” said David Frohardt-Lane, an algorithmic trader and respected bettor who traded his MLB models for greater profits in the stock market. “And then there is a completely pretend world happening, in which these touts apparently are powerful and influential and successful. The real world is getting ignored.”
+
+Records are everything in sports betting, where the margins between winning and losing are so thin. To beat the normal vigorish, or vig, which is the bookmaker’s cut of any wager, bettors have to win at least 52.38 percent of the time. And touts, because of the fees they charge for picks, have to be even more successful than that to make their clients money in the long run. Bell demands that Pregame customers trust him on this. His touts are not required to advertise their full records, Bell has said, and they don’t.
+
+Bell loves to say that every pick ever sold on Pregame is archived and available for review. This is ostensibly true, but to access results older than 30 days requires clicking through a calendar, day by day, and entering CAPTCHA codes for each one. Before long you find yourself in an infinite CAPTCHA loop, unable to continue, blocked from any attempts to tabulate the hard evidence.
+
+Advertisement
+
+Until now. Two real-world bettors, one of whom is a former financial analyst in his late 20s who is highly regarded by oddsmakers, developed a script to scrape Pregame.com URLs for daily selections and results going back to Jan. 1 2011, and their findings speak for themselves.
+
+You can view and download a spreadsheet containing all the data, including every single Pregame pick dating back to Jan. 1, 2011, at this Dropbox link. It is a large file and may take several minutes to open.
+
+
+
+Based on Pregame’s own record-keeping—which leans kindly toward its touts—all of the picks sold from Jan. 1, 2011 through the end of May 2016 add up to a loss of nearly $310,000.
+
+
+
+Based on full record of Pregame picks.
+
+Oh, and let’s not forget the fees to actually buy Pregame touts’ losing picks: Given normal per-pick prices—a “three-star play” for $15, one- or two-star plays for $10—then the fees over this period would total an additional million-plus dollars. If you had bought and played all of Pregame’s picks since 2011, you’d be down $1,359,432.
+
+
+
+Advertisement
+
+In just about every sport, college or pro, Pregame’s picks are losing money. The data covers 49 touts who sold their plays during this period (not including those whose existences have been completely expunged from the archives, like David Glisan, Mike Hook, and Stan Sharp), and of those 49, only 11 of them showed a profit. Of those gains, most were marginal and would be wiped out by standard fees. If Pregame’s experts followed their own betting advice, as Bell claims they do, most would be penniless.
+
+
+
+(Two days after I asked Bell for comment for this story, he published a statement on Pregame’s forum in which he claimed to have asked his tech department, at some unspecified date, to delete the archives of Glisan, Hook, and Sharp because he was told their “inactive pages [were] allowing Pregame to benefit from Search Engine traffic for their names.” He released their complete pick histories, and accordingly, Glisan showed a profit of 28 units, whereas Sharp and Hook combined for a loss of 179 units.)
+
+Pregame’s picks are sold with a suggested bet size, either one, two, or three units, where in this case one unit—in gambler-speak—equals $100. So Pregame’s total loss equates to nearly 3,100 one-unit bets. Take out the pushes (where you neither win nor lose) and free plays, and despite numerous examples of fudged records, Pregame’s roster picked around 51.67 percent against the spread, not enough to beat the vig. Flipping a coin would have been a more cost-effective strategy.
+
+Advertisement
+
+Here’s a visualization of Pregame touts’ individual performances from Jan 1, 2011, through May 30, 2016, both before and after standard fees:
+
+Based on full record of Pregame picks.
+
+Based on full record of Pregame picks plus standard per-pick prices.
+
+“Pregame will help you win more than you would without us,” Bell has said publicly of the company for which, in Nevada business filings, he is variously listed as the owner, CEO, and sole registered agent.
+
+
+
+Advertisement
+
+His touts, he claims, win 55 percent of the time. To casual bettors that may seem unexceptional, but to anyone who understands the math of sports betting—which is decidedly not Bell’s audience—this is implausible. Such a strike rate would be a license to print money.
+
+Bell is smart enough to understand that shouting about winning records of 75-90 percent, as some barrel-bottom touts do, would only garner ridicule. Instead he chooses a just-this-side-of-possible boast, and rides the coattails of sports’ wider analytical boom by spouting trends and statistics about certain teams’ abilities to “cover the spread.” Doing so provides a veneer of respectability for the mainstream press, something unthinkable a generation ago, when the likes of ESPN and USA Today declared they would refuse to accept ads from tout services. (Darren Rovell, who noted the anniversary of that announcement, has instead regularly offered Bell plenty in free advertising.)
+
+But not much has really changed. It tells you something that for all their supposed professionalism, touts still use aliases. At Pregame, the big ones go by names like Fezzik, Goodfella, Spartan, Sleepyj, VegasButcher, and King Creole. In July 2014, Bell patted himself on the back when he announced on Pregame a new standard for his touts: They had to publicly provide their real name and a signed declaration declaring any past legal troubles. That never happened.
+
+Advertisement
+
+In his forum statement, written after I asked him for comment on his 2014 pledge, Bell wrote that “this delay is on me,” and promised that all his touts will share their real names by July 15.
+
+As touts bounce from site to site, sometimes under different names, there really is no way to determine their true track records. And in addition to aliases and high turnover, there’s a simpler, more effective smokescreen: obscured or altered pick histories. Touts plug away despite columns of red, all the while advertising useless cherry-picked short-term streaks or outright falsified ones.
+
+One of Bell’s big signings last summer was a Coach Fletcher. (Seemingly every tout service has a “coach” or three on the roster.) His Pregame profile said that he was drafted by Major League Baseball out of high school, and again after his third year at Flagler College in St. Augustine, Fla. But Coach Fletcher’s real name is Eric Shimer, according to multiple sources including his personal Facebook account and one of his betting services, and nobody by that name shows up in MLB draft records.
+
+Advertisement
+
+Bell said Coach Fletcher offered “a unique perspective,” and clients were told that Coach has bet professionally since 1998. But if you played each of his selections from July to October, when he disappeared overnight, you would have lost almost $2,500. And that’s after you paid for his picks, say with a 7-day all-access pass for $119, or a 30-day pass for $249.
+
+Like most touts, Coach sold picks in a few places. If you weren’t turned off by his Pregame flameout, until recently you could still purchase his knowledge at his GamblersData Investment Group, which recently claimed 465 winning weeks and only 177 losing weeks since its start—a truly unbelievable record that somehow left him able to only afford a website that looks like a middle schooler’s Geocities page. (According to the website and an obituary in the Times West Virginian, Shimer died in February, although the service is still selling picks.)
+
+Nick “The BookieKiller” Parsons was on the Pregame roll from 2008 through 2012. The only people he killed were his clients; bookies rejoiced. In his last two years at Pregame, Parsons’s selections lost about $43,865 for a $100 bettor. Also known as the “Wizard of the Hardwood,” Parsons is now selling his picks at sites like SportsCapping.com, where this self-proclaimed college basketball specialist recently advertised records from 54 percent up to 77 percent. That would be an incredible turnaround: the BookieKiller’s college basketball plays alone lost around $4,000 in his last two years at Pregame.
+
+Advertisement
+
+Parsons couldn’t recall his record at Pregame, but when I told him, he said this “snippet of time” was a blip in an otherwise successful 20-year career. “Previous to that I dominated and I’ve dominated ever since,” he said. “Of course it’s impossible to win every single year, which is why handicappers bounce around all of these sites.”
+
+“Winning – especially in the short-term, is not the issue.”
+
+Also selling at SportsCapping is Ted Sevransky, better known as Teddy Covers. Every Super Bowl, places like The PBS NewsHour turn to the bespectacled Covers as the prototypical long-time professional bettor—a sharp. Teddy Covers is as sharp as a marble. A documented six-year loser at SportsMemo, he became one of the faces of Pregame after joining in August 2014.
+
+Advertisement
+
+Sevransky’s Pregame plays lost almost $4,000 through May of last year, not including another $4,000 in estimated fees to buy his picks, and then he nose-dived during the 2015 NBA playoffs, going 9-24. Still he peddled his “Slumpbuster” package. On June 20, he crowed about a “relatively rare” three-star “Big Ticket” release. How rare was it? He had sold another one nine days earlier. Both lost.
+
+“I lost my ass,” Covers told me about his time at Pregame. “I had as bad a year as you could have across sports.”
+
+Teddy Covers left Pregame last August, but there are at least three services still selling his know-how. His 2015-16 full-season NBA package sold for $999 at Covers.com or for $499.95 at SportsCapping.com. At SportsMemo, you can buy his complete selections for $299 per month, though you’ll want to bear in mind that under the site’s recurring billing plan, there is a $399 activation fee.
+
+Advertisement
+
+Fezzik, whose real name is Steve Fenic, joined Pregame with much hullabaloo in early 2013. Pregame co-founder Johnny Detroit (another alias, of course) said at the time that Fezzik, a former actuary and two-time NFL handicapping contest winner, had never sold picks before. In Pregame, Fezzik claimed, he’d at last found a site “selling picks the right way,” Detroit said. For Pregame, this was a boon: Fezzik came in with a lot of hype, and no documented record for clients to consider.
+
+In fact, Fezzik’s picks had been posted for years at two other websites, where he buried his backers. At a site called Las Vegas Advisors, or LVA Sports, his record showed a 147-unit loss from 2009 to 2012. When a few posters noted this on the Pregame message boards, Bell called them “trolls who have an agenda.”
+
+So what makes for a successful pick-seller, if it doesn’t involve making winning picks? The answer is just that: selling.
+
+Advertisement
+
+I combed through Pregame materials that Bell probably wishes had disappeared—contracts obtained via public legal filings, archived web pages, affiliate presentations—and nowhere is the importance of winning mentioned. In Pregame’s contracts, pick-sellers are called “Content Providers.” They are required to promote the site’s other touts, regardless of performance. And Pregame’s promotional efforts, contractually, are tied to its top “selling” touts, not necessarily its winning ones.
+
+Commissions are the norm—the more you sell, the more you earn. Tony George, a Pregame alumnus, told me touts are free to negotiate their own rates. George earned 40 percent at Pregame, he said, because of his “brand name” when he joined in 2006. According to a June 2012 contract with another one of its since-departed touts, Pregame paid “Vegas Runner” a 33-percent commission on his sales.
+
+In an hourlong conversation with Vegas Runner, whose real name is Gianni Karalis, he repeatedly boasted that he was the biggest seller at Pregame; he never once mentioned winning. Karalis said regular meetings at Pregame focused exclusively on how to sell, how to shape an ongoing “narrative” for each pick-seller. Karalis claimed Bell often told him, “Winning is a headache.”
+
+Advertisement
+
+I also found an email template that tells wannabe pick-sellers how to become “Pregame Pros.” “Pregame.com is always looking for quality content,” it begins. “Quality content, combined with engagement with our community, is a proven recipe for big money. Producing quality content is a combination of talent and effort…If a capper proves those qualities, then Pregame.com will make a strong effort to help them sell.”
+
+It concludes: “Winning – especially in the short-term, is not the issue.”
+
+What no tout service will tell bettors is that they stand to pocket even more money when their customers lose, thanks to their referral agreements with sportsbooks.
+
+Advertisement
+
+According to the websites of multiple offshore sportsbooks and several employees intimately familiar with their affiliate businesses, compensation for tout services ranges from 20 to 40 percent of a player’s losses. To choose one example, 5Dimes, which Bell and his site have routinely publicized, says an affiliate’s earnings “depends on the amount of people you refer and how much they lose.”
+
+One oddsmaker who has been employed by at least two sportsbooks that had arrangements with Pregame explains how it works: “You bring the client in, you’ll get all the action they do.”
+
+It’s a can’t-miss business plan, and it pays off twice. First when customers buy the picks, and again when they fork over their money to sportsbooks on those losing bets. This might explain why Pregame is so generous with discounts like “bulk dollars” and half-price coupons, and why Bell trumpets the savings of subscriptions over single-game purchases. Pregame has every incentive to keep buyers in the fold, and keep them betting.
+
+Advertisement
+
+For instance, Fezzik aggressively sold his WNBA expertise last season, but by mid-August his record had turned negative and his picks dried up. After the season ended, Pregame offered his season-long subscribers two options: a two-month subscription to any “Pro” or a 50-percent refund—in Pregame bulk dollars—on what they paid for their WNBA subscription.
+
+Before he left Pregame, Johnny Detroit patrolled the forum looking for similarly unhappy customers. He would privately contact them and offer incentives to keep them on board. I spoke to one former client—a Cleveland bartender in his mid-30s—whose introduction to Pregame was typical: he heard Bell on Colin Cowherd’s then-ESPN radio show and figured he was on the up-and-up.
+
+After a particularly bad spell, Johnny Detroit reached out and promised to take care of him.
+
+“Think of me like a Vegas casino host, and you are a high-roller. One thing I strongly suggest is letting me know the type of handicappers you like best, and I can recommend the best to follow for each sport. And if you want to take advantage of long-term discounts, I can put together custom packages to perfectly meet your desires.”
+
+Detroit declined to comment for this story.
+
+Even technical issues, like accidentally double-charging a customer’s credit card, are seen as opportunities to keep that person betting. According to Pregame’s own internal FAQ , customer service is encouraged to offer a coupon for a greater value than the actual refund:
+
+“So say someone bought the same $15 package twice. I would offer them a $20 coupon for a future purchase or I can refund the $15, at which time in the email I would ask for some info (like last 4 on cc). Even though we no longer need that info I think it motivates them to accept the coupon. General rule of thumb is that we don’t like to give the money back. BUT we don’t want to put a bad taste in anybody’s mouth so we are always willing to refund the money. We just want to make the coupon a better option for them.”
+
+With that coupon, they buy more picks, but more importantly, are obligated to continue wagering—almost always online, where most U.S. action still goes. And they continue losing. “Your beginner has zero chance,” one oddsmaker at a major sportsbook told me. “There’s no way they’re going to win.”
+
+Advertisement
+
+One percent of bettors win in the end, this oddsmaker told me, but touts “sell the dream.” As a result of the 2006 anti-Internet gambling law, or UIGEA, “we can’t advertise the way we used to,” he said. “[Touts] do the selling for us. They find the clients for us.”
+
+And tout sites are paid lavishly for those coveted referrals. In light of this, what Pregame tells would-be pick-sellers makes sense: Winning really isn’t the issue. Losing is.
+
+At his request, I emailed Bell a list of questions about the the issues raised in this story. He declined to respond to them individually, instead sending this statement:
+
+“Sports bettors deserve an unbiased story from Deadspin. I hope they get it. My participation will be limited to providing the following key facts: Pregame consistently stresses how hard it is to beat the bookie. We spend hundreds of hours a week producing content to help improve those difficult odds. Over 95% of what we provide is free. Every pick ever sold by any active seller is graded and archived online, allowing customers to make fully informed decisions. Pregame has an A+ Rating from the Better Business Bureau. Pregame has had no financial dealings with any online sportsbook since 2008, and we’ve always followed the letter and spirit of the law. Deadspin has long acknowledged Pregame’s trustworthiness, featuring our sports betting expertise on 9 separate occasions over the years.”
+
+In a follow-up email sent shortly thereafter, Bell requested to be allowed to provide information on background—that is, without using his name. He claimed that I would be reporting factual errors but refused to tell me what they were. I told Bell that if he could provide factual information that disproves my reporting, I was happy to hear it. He declined and told me that I was making a “clear mistake” by not allowing him to speak on background.
+
+Advertisement
+
+I told Bell that a fair and accurate story would benefit from him answering individual questions on the record. He again declined. The next day, he published his second statement on the Pregame forum. “One good thing about working so hard to do things right,” he wrote, “when you make a mistake, it feels good to admit it because that allows you to fix it.”
+
+In the year 2000, the NCAA took Bell to arbitration, claiming he was squatting on dozens of NCAA-related domain names.
+
+Advertisement
+
+The NCAA’s complaint to the World Intellectual Property Organization’s Arbitration and Mediation Center surrounded 32 domain names registered to one Rosemary Giancola. Twelve domain names included gambling terms, like ncaabasketballodds.com and freencaapicks.com, and the rest were generic, such as ncaamensbasketball.com and ncaabasketballstats.com. Many of the domain names linked to a site that provided access to Bell’s Watch Dog Sports (it’s unclear what that company did, but Bell was its president, secretary, and treasurer) and its offshore betting partner, Carib Sportsbook.
+
+According to the NCAA’s complaint, right before the hearing Bell had transferred some domain names to Giancola, who said she lived in San Jose, Costa Rica. This transfer was made, the NCAA’s complaint alleged, to “complicate jurisdiction if litigation is required, and conceal the true identity of the domain name holders.” But Giancola sent the arbitration panel an email claiming that she had never lived in the U.S.
+
+In hindsight, the NCAA and the administrative panel may have missed a seemingly major connection. RJ Bell’s mother is named Rosemary Giancola. No public record I could find showed Giancola ever living anywhere but Ohio. Her listed address in Shadyside, a small coal-mining town close to the West Virginia border, is the same three-bedroom house near the Ohio River in which Bell grew up.
+
+Advertisement
+
+In the end, the panel found that Giancola’s use of the non-gambling domain names were of no purpose other than to generate traffic. But the gambling domains were hers to keep. And Bell’s.
+
+The gap between appearance and reality is something Bell (real name: Randall James Busack) understood long before he started running a pick-selling operation.
+
+Advertisement
+
+Fundamentally, the touts at Pregame are marketable personae crafted by Bell. It says so in their contracts. I found this in the legal filings of an ongoing case in Nevada’s Clark County district court between Bell and Gianni Karalis, a.k.a. “Vegas Runner.” (It is currently in the discovery phase and was set for a September trial date. However, Bell’s lawyers recently withdrew from the case, putting its schedule in some doubt.)
+
+The lawsuit concerns Karalis’s non-competition provisions and the Vegas Runner handle, which Karalis used on Twitter and at a different tout site before Bell won a preliminary injunction. According to the contract, if a pick-seller— “Content Provider”—used his nom de gambling before joining Pregame, he had to sign it over to Bell. Per the terms of the five-year deal, Pregame apparently owns the name “Vegas Runner” until at least June 2017. Karalis, who had swapped Philadelphia for Sin City to run bets for gambling syndicates, told me this nom de gambling was his idea, whereas Bell had first suggested “Ace the Greek.”
+
+Advertisement
+
+Despite the fact that touts don’t use their real names, Bell asks customers to take Pregame’s claims about them at face value. The most important of those claims is that these handicappers actually win. Everything rests on this assertion—it even says so on the checkout page after you buy a pick. (“Pregame Pros gives you the confidence of betting the same games as winning pro bettors!”)
+
+But do they even bet sports as a full-time job? In a response to questions from the website WagerMinds in March 2014, Bell said, “The act of selling picks would make it impossible for them to ‘exclusively’ make their living betting on sports. Pro is short for professional. If you make money selling picks for Pregame, you are quite literally a Pregame Pro.”
+
+In other words, what qualifies you to sell picks is selling picks. There are no regulatory bodies, no independent checks or balances on the people who operate on the fringes of an industry that’s already barely quasi-legal. (Touts often point to a pair of “monitors” that post their records; these are Handicappers Watchdog, a website that actually sells picks from the touts it tracks, and the Oklahoma Sports Monitor, where years of touts’ records are missing because it omits their losing seasons.)
+
+Advertisement
+
+The data scraped from Pregame’s own archives, then, is the first truly complete picture of these touts’ records. And the single worst pick performance belongs to JR O’Donnell, whose credentials are claims to have been a PGA caddie and golf course owner. His selections from January 2011 through May 2016 have lost $61,201, more than anyone else on Pregame over any span of time. He routinely advertises winning streaks from 54 to 73 percent.
+
+(O’Donnell did not respond to multiple messages on Pregame and Twitter. His profile claims he is the owner of Berkleigh and Fox Hollow golf courses in southeastern Pennsylvania, but employees at both, including the wife of Fox Hollow’s actual owner, told me they had never heard his name before.)
+
+O’Donnell’s analyses often stretch the boundaries of the written language. Take his free play on the second game of last June’s NBA Finals. He picked the total score over 201. It not only lost—despite overtime, the game ended at 188. His analysis included cryptic references to other bets:
+
+Free Members Mover here to the “Over”... Power Rated @ 211.... 3* ESPN Sunday Nt MLB BOMB Cards/Los Dodgers . Sunday Night”r 3*’S ARE HOT... 3* Ap & 3* Over T B/ Hawks last night ... Espn Los Dodgers / St Louie Cards Watch & Win MLB Bomb... Let’s rollllllllll ...up by 1 pm Sunday Day .... Jr O a former Espn Radio host & Redhot Capper with a NICE 287-211 run... + 51.96... Units .... Click Up The Orange button and play right along side the Oster ...... BOOOOOOOM Um... 1 pm Sunday ..Let’s Roll Um Sunday Night ESPN let’s rolllllll
+
+Nobody would confuse this operation with Vanguard, or JR O’Donnell with a fund manager. Bell, though, has argued that Pregame’s “promotion approach is no different than the typical mutual fund.”
+
+Advertisement
+
+“When a fund outperforms the market over X period, they promote that—without being obligated to promote the period which is less impressive,” Bell told WagerMinds . “In both the case of Pregame.com and mutual funds, the raw data is available to consider for any time period the customer is interested in. Why would sports betting picks be held to a higher standard than mutual funds?”
+
+But mutual funds must reference their one-, five- and 10-year performances in all ads. And on the Vanguard website, as WagerMinds pointed out , it takes all of 30 seconds to find complete and customizable long-term performance data for any of their funds, over any length of time. “Pregame pros” advertise winning streaks as short as three picks and bury their losers.
+
+“Mutual funds,” says professional bettor Jacob Wheatley-Schaller, “are regulated by the SEC, and your touts’ picks are regulated by message board posters and CAPTCHAs.”
+
+You can view and download a spreadsheet containing all the data, including every single Pregame pick dating back to Jan. 1, 2011, at this Dropbox link. It is a large file and may take several minutes to open.
+
+
+
+Wheatley-Schaller, 28, is one half of the pair who cracked the code to the Pregame database. He has written 16 blog posts about Bell, in whom he first took an interest after hearing him pledge to give Pregame dollars to customers who donate to charity, and he considers Bell an “American success story.” Wheatley-Schaller is also one of the most outspoken members of a loose collection of mostly young, social-media savvy, anti-tout bettors who call themselves Contrarianville.
+
+Advertisement
+
+Wheatley-Schaller might know more about Pregame than anyone outside the company; he is well aware of its “unmatched” level of transparency. Last June, he was looking through older picks on Pregame when he noticed that the entire grading system had changed. “As usual, it seems like the only person who noticed was me,” Wheatley-Schaller told me at the time. “But now the ‘100 percent transparency’ archives are even more useless than they were previously.”
+
+The grading system at Pregame seems designed to encourage chicanery. Some touts embed “bonus” plays into their write-ups; these will only go into their records if they win, not if they lose. (Wheatley-Schaller’s Pregame data referenced in this story doesn’t capture bonus plays, which probably hurts some touts and helps others.) Teaser and prop bets also cannot be entered into the system.
+
+The same goes for bets placed on the first half of a game. The tout has to load a full-game play and then specify in the write-up that it is not for the whole game. If these are incorrectly graded as wins, the tout has to ask tech support to manually re-grade the play. I found plenty of examples where touts never amended winners to losers, or they did so only after pressure from Contrarianville.
+
+Advertisement
+
+On October 10, 2015, for instance, Fezzik sold a first-half college football bet on Miami, a four-point underdog. Miami’s opponent, Florida State, led by 10 at halftime, so the play lost. Miami covered the full-game spread, however, so the Pregame system incorrectly auto-graded the first-half play as a win. Months later, his record still doesn’t reflect this loss. It probably never will; it’s in CAPTCHA land now.
+
+Perhaps the easiest trick is to make picks based on lines that don’t exist. At Pregame in May 2015, for example, the “Book Slayer” Tony George, a sports radio host and self-professed “shining example of transparency,” sold a pick on the Cleveland Cavaliers as two-point underdogs. They were actually two-point favorites.
+
+He labeled the selection his “Game of the Year” and released it more than a day before tip-off. Later, he chastised those who didn’t get in ahead of what he claimed was a big line move. There had been no move. While those who purchased the play were asking customer service why they saw a different line, George was fishing for crappies on Missouri’s Truman Lake.
+
+Advertisement
+
+(George told me it was an honest mistake, although he was not regretful. “I’m not going to cater to a group of haters in the forum with an error on a game that won anyway,” he said.)
+
+After an outside uproar, George got the axe. Bell said the reason was not that the Book Slayer had been touting nonexistent lines, nor that he had failed to bring his customers a positive return in any sport, but that George was leaving because unnamed “outside commitments” meant he couldn’t spend enough time interacting with the Pregame community.
+
+When I asked him for his record at Pregame, George said, “I couldn’t recall, that was 2,000 games ago. I was probably a career 55-percent capper over there.” In reality, the data shows he was down more than $16,500. In response, George described those who track records as “guys sitting around in the basement of their mom’s house wearing a pair of flip-flops and boxer shorts.”
+
+“Customers care more about a 14-2 run than a 55 percent season.”
+
+I also found several touts who made a habit of releasing plays at a casino after it was closed for the night. Stephen Nover, a former Las Vegas newspaperman and radio host, has done exactly that at Pregame on at least 41 picks, according to the Pregame data and a pick-by-pick analysis of one watchdog. In June 2014, Nover released a bet on Giants-Padres at 1:46 in the morning Pacific Time. The bet didn’t exist at any sportsbook in the world, let alone Las Vegas. Five hours earlier, sportsbooks had taken the game off the board because of the scratch of one of the starting pitchers. Nover’s graveyard-shift release, however, included the new pitchers but the old line. Nover said he bet the game himself—this would have been impossible—and “urged clients to get down ASAP” on his “Triple Star” play.
+
+Advertisement
+
+For months, Wheatley-Schaller’s questions about Nover’s tale never made it past moderators on the Pregame forum. Their reasons? “Enough” and “LOL Yawn.”
+
+(Nover told me he spends a lot of time in Europe due to family considerations, and the time difference forces him to work with overnight numbers. He said that since Pregame’s grading changed last year, touts can only now use lines from their choice of six sportsbooks.)
+
+Wheatley-Schaller says that Bell profits from the fact that the public understands so little about sports betting. Bell has admitted that “customers care more about a 14-2 run than a 55 percent season” and “the reality is that most pick buyers look at a promotion for ‘55 percent winners this year’ and are underwhelmed.”
+
+Advertisement
+
+It’s a nifty diversion. If Bell’s pickers were actually hitting for 55 percent in a given year—and Wheatley-Schaller’s records indicate that they don’t—even recreational bettors would be lining up for those picks.
+
+That touts don’t have to show broad success can be put down to a neat trick, in which short-term results can obscure reality. Selling picks in six or more sports, plus different bets in each, plus the ability to segregate plays by the number of units, gives touts dozens of options from which to advertise on any given day. Behind the scenes at Pregame, they were encouraged to create as many “buckets,” or gimmick picks (“Game of the Month!”) as possible, Gianni Karalis told me. “The more buckets you create, the more chances you have that one of those buckets is going to give you something to promote,” he said.
+
+“Hot streaks” can be found during any cold snap. In late March 2015, Pregame’s Dave Cokin was stuck in an 11-22 run, but he was advertising four separate win streaks: 40-28 in college basketball, 13-8 in NFL, 52-35-1 in college football, and plus-117 units in MLB’s last five seasons.
+
+Advertisement
+
+“I actually don’t do any of the marketing myself, which was one of the agreements I made with Pregame,” Cokin told me. “I let them do that and I concentrate on contributing content. But I guess it’s like any other business—you’re going to focus on the positives and keep the negatives quiet. I don’t have any problem with that; I’d rather be with someone who’s hot than not.” (Cokin is down about $1,700 overall at Pregame since arriving nearly two years ago.)
+
+Streaks are arbitrary—their beginning and endpoints are chosen to make a point—but recreational bettors are attracted to them nonetheless. So the more touts an operation can employ, the more chances it has of digging up streaks to push. Few outfits are as large as Pregame. Its pitch to affiliates emphasizes this: “The wide selection ensures that some of our handicappers are always on win streaks, allowing customers a daily selection of ‘hot’ handicappers to choose from.”
+
+Pregame makes sure that its handicappers know what to do when they do string some wins together. In a 2009 YouTube video instructing touts how to sell subscriptions, Bell tells his “Pregame Pros” that “we wanna take advantage when you’re red hot.”
+
+“Not just hot, but red hot. Those occasional times during the year you’re like 20-and-6; that kind of hot. We wanna create special packages around that level of hotness. So, that’s really something that you reach out to us when you’re particularly hot, and we’ll work with you on creating the best subscription to take advantage of that. And that’s really the biggest moneymakers.”
+
+Judging by the public record, RJ Bell never did much winning himself. He saw that his talents lay in selling those who sell picks.
+
+Advertisement
+
+After he graduated from Ohio State University, Bell has claimed, he was accepted into Harvard Law School but passed it up and moved to Las Vegas instead. An oft-repeated claim by Bell is that he graduated valedictorian of his class with a Finance degree. According to the university, Bell graduated summa cum laude with a B.S. in Business Administration. Ohio State doesn’t name a valedictorian, the university told me, nor does the Fisher College of Business. Bell was a recipient of a Pace Setter award, which honors top business students. (Between 50 and 60 undergraduates receive the award each year.)
+
+In Bell’s Pregame.com forum statement published two days after I contacted him, he admitted to inserting this “valedictorian” claim into his bio in 2014 despite its falsity. He said the New York Times Magazine misconstrued his comments to them that he finished “#1 in my Finance class.” “I thought this wording sounded good (so added it to my bio),” Bell wrote. He said he has now removed it.
+
+In Las Vegas, Bell “was able to eke out a living for a few years as a full-time sports bettor and blackjack player, but he decided he could be more successful as an entrepreneur,” James Vlahos wrote in the New York Times Magazine. If he was able to earn a living as a full-time bettor, his performance as a pick-seller at Pregame offers little support. Bell sold 30 picks from October 2008 through March 2010. (His results at Pregame prior to this are long gone from its website.) His plays went 11-19 for a loss of $2,410. Eight months after his final sale, he came out of retirement to offer a freebie in college-football: Army as an eight-point underdog against Notre Dame. Army lost 27-3.
+
+Advertisement
+
+Before launching Pregame, Bell offered free picks. But where was the money in that? His NCAA domain squatting may offer a hint: The real profit was in lucrative referral deals with offshore sportsbooks. Pick-selling services popped up everywhere to capitalize on this gold rush, but Bell’s FreePicksByEmail.com became the largest daily free pick email on the Internet, with at least 150,000 subscribers. FPBE speaks to the heart of Bell’s business plan: get people in the door.
+
+Bettors signed up for free picks, and Bell accumulated a massive database of names and email addresses that he could sell to sportsbooks. If Bell could get a customer onto his affiliate sheet, as it’s known, then he would retain that referral—and, at many sportsbooks, a cut of that customer’s betting losses—forever.
+
+According to a Pregame advertising kit circa 2010, the average Pregame and FPBE user was a fairly avid bettor who played at multiple books. Fresh content and offers “are generally needed to push them back and forth between books,” the copy noted, and Bell provided both.
+
+Advertisement
+
+Judging by the advertising kit, sportsbooks were charged a lot to get in front of a large pool of mostly men aged 18-45 with college educations and disposable income: A flat rate of $120,000, plus a guaranteed player deposit amount, for 12 months. This premium rate included so-called full network exposure: “premium banner spots, extensive contextual placement, special offer emails sent to our segmented email lists,” plus Bell’s own plugs of particular sportsbooks on Twitter and in his media appearances—“prime external exposure driven by RJ Bell,” as the kit puts it.
+
+Sportsbooks less able or inclined to spend six figures could sign up as standard advertisers. For a one-time payment of $20,000, they received full-banner rotation and text advertising until 40 referrals were secured.
+
+(Bell declined to answer specific questions about these referrals, but in his emailed statement wrote that “Pregame has had no financial dealings with any online sportsbook since 2008, and we’ve always followed the letter and spirit of the law.”)
+
+Advertisement
+
+In addition to banner ads, advertising sportsbooks received periodic inclusion in Bell’s email newsletters. “Buzzer Beater” was sent weekly to 100,000 subscribers and always included a promotion for a specific book. “Bet Menu Delivered” was sent twice a week to 45,000 subscribers, along with its three best sportsbook deals. Weekly poker tips in “PotWatch” were emailed to 5,000 subscribers. NASCAR bettors signed up for “SundaySpeed.” “HollyWagers” looked at prop bets in the entertainment industry. And “Johnny Detroit’s Weekly Rant” utilized “the trust members have in Johnny Detroit to recommend only the best online betting offers.”
+
+(In 2004, Bell and Johnny Detroit, whose real name is John Adamczak, were part of a team that tied for first and shared a $130,000 payday in the Las Vegas Hilton NFL handicapping contest. Next January Bell launched Pregame; according to one interview, Bell paid $30 for the domain name from an old nutrition company going out of business. It merged with Johnny Detroit’s LetItRideSports.com that August.)
+
+Johnny Detroit was and is known for his sportsbooks connections. A testimonial of his is featured on the home page of WebPartners, an affiliate go-between and Costa Rica-based bookmaker. Ads for Mybookie.ag, owned by WebPartners, were recently featured all over WagerTalk, a tout site co-run by Johnny Detroit, who departed Pregame in mid-2014. A cookie-based tracking system and unique token ensured that those who clicked on the ads and then deposited money at Mybookie would be credited as referrals of WagerTalk. Every month thereafter, site heads would be sent a monthly statement and a check for their cut of those losses.
+
+Advertisement
+
+WebPartners doesn’t hide how its referrals work. “Earn up to 35% of the losses from the players you send.” In a special promotion, top-tier affiliates may earn up to 40 percent.
+
+Industry standard Sportsbook Review gives Mybookie a C rating. WagerTalk ranked Mybookie as its top sportsbook.
+
+As Johnny Detroit was handling the arrangements with sportsbooks, Bell was doing his part to push their merged tout service to the public. Their break came in 2007, provided by disgraced NBA referee and heavy gambler Tim Donaghy.
+
+“You guys would rather a sober recitation of the facts. Fine, but that’s not what the news readers want.”
+
+When Donaghy resigned amid an FBI investigation, Bell peppered media outlets with press releases claiming he had statistical analysis showing “strong evidence” that Donaghy had fixed games. His studies were immediately called into question on betting forums, but bettors weren’t his audience – reporters were. The figures he put out grabbed their attention, and Bell was invited onto CBS News, ABC News, and ESPN, quoted by the Wall Street Journal, Los Angeles Times, and the Associated Press. As more details emerged after the government’s investigation in 2008, Bell stayed on top of the story, sending out more releases. “Picked up by Deadspin!” he wrote in the comments of one release.
+
+Advertisement
+
+To this day, numerous outlets still say Bell provided the statistical evidence that broke the Donaghy story. But even at the height of the scandal, plenty of people believed Bell’s “evidence” proved nothing. Jan Suchanek, a bettor from New Zealand who goes by PerpetualCzech on betting forums, wrote that he found major flaws in Bell’s work.
+
+For example, Bell pointed out that Donaghy refereed 13 games during the 2006-07 season in which the margin fell within one point of the spread. Suchanek showed that this was what would be expected from random chance. Bell claimed that in the first 15 games of Donaghy’s 2006-07 season where betting moved the point spread by at least 1.5 points, the so-called sharp money won every time. But when asked by Suchanek to disclose the list of those games, Bell declined.
+
+He has still never explained how he possessed such sensitive information.
+
+“The exact games (in full detail) were provided to all the media who quoted my information,” Bell wrote on Pregame. “I’ve been advised by our attorneys not to provide that level of detail elsewhere.” (Deadspin, which quoted Bell’s information at the time, was not provided the list of games or any details beyond his press release.)
+
+Advertisement
+
+“Listen, I think the ‘disagreement’ comes down to this,” Bell wrote at the end of a message-board back-and-forth. “My goal is to present valid data in the most compelling way which is truthful. You guys would rather a sober recitation of the facts. Fine, but that’s not what the news readers want. No doubt this audience is different than the mass media’s – and thus the difference is your desires.”
+
+
+
+Accurately, he had pegged what reporters and editors and producers and bloggers want: sensational claims, concisely delivered, for undiscerning consumers. Overnight, Bell the “betting expert” was born. The Donaghy story was the beginning of his “trust with bettors,” he said in 2012.
+
+Pregame was ready to capitalize on the exposure, and Bell started to appear weekly on Colin Cowherd’s show. Then-director of content Matty O’Shea bragged that the national media was turning to Pregame as its breaking-news source for sports betting. He encouraged first-time visitors to check out their many offers: Pregame Wire, Pregame Buzz, Free Picks from Pro Bettors, FreePicksByEmail, and Sportsbook Spy. Waiting for them was an ocean of ads from sportsbooks and offers of generous sign-up bonuses. And maybe some surprises.
+
+Advertisement
+
+“Pregame, Covers, VegasInsider—any of these websites—did they and or do they derive income from offshore sportsbooks?” Tony George said when I asked him about tout services cutting deals with sportsbooks. “I don’t think I’m spilling any beans by telling you that they do. And they don’t share it with their handicappers; it’s their websites, it’s their property.”
+
+When I originally read in the New York Times Magazine that in 2012 Pregame was a $5 million company, I scoffed. Pregame would have to sell subscriptions and single-game picks by the truckload. A few years ago, Pregame told advertisers that their customers spend, on average, $600 a year. But if their results (a loss of 3,100 units over nearly five and a half years) are any indication, customers likely don’t stick around for long.
+
+Advertisement
+
+Then I learned about the affiliate sheets. Based on the rates Bell was charging sportsbooks just to advertise on Pregame, the multimillion-dollar valuation seems logical. At any one time, Pregame appeared to carry seven preferred sportsbooks. (Here is a cached version of “an advertiser’s page for an advertising deal discontinued in 2014”.)
+
+“If their players are winning, Pregame isn’t getting paid.”
+
+“Being an affiliate and a good one can be very profitable,” an oddsmaker at a major offshore sportsbook that had an arrangement with Pregame told me. “You don’t have to do anything. Just watch the money roll in. While Bell’s asleep he’s still making money.”
+
+Advertisement
+
+According to that oddsmaker and the websites of several sportsbooks, affiliates are sometimes given the choice between a commission based on net losses, or based on the referred customer’s first deposit.
+
+If tout services knew their customers were winning, the smart choice would be the one-time deposit, instead of one tied to losing. The oddsmaker said he has never seen touts choose the deposit.
+
+“If their players are winning,” the oddsmaker said, “Pregame isn’t getting paid.”
+
+Advertisement
+
+After the Donaghy scandal, Bell and Johnny Detroit tried to make Pregame.com a more respectable front-facing operation. So they funneled their sportsbook referrals through Canadian-registered Pregame Action, a go-between which may have provided a way around a U.S. anti-online gambling law passed in 2006. Pregame Action’s website was operated by Big Juice Media, a marketing company registered in Port Coquitlam, British Columbia, whose clients are “sportsbooks, sports information portals, handicapping firms, odds providers, and other businesses looking for growth in the ever expanding sports wagering industry.”
+
+In August 2014, the Pregame Action website went down and started redirecting to Sharpbettor.ag. The layout is the same, the website is still operated by Big Juice Media, and it’s still plastered with ads and deals for “recommended sportsbooks.” If you hover your cursor over the links to deposit money at certain sportsbooks, the tracking code in the URLs still contains references to “PregameAction.”
+
+The reason for the switch from Pregame Action to Sharpbettor.ag may lie in the major Pregame defections from mid-2014. Two months before Pregame Action went missing, Johnny Detroit left. “Quite simply, John is burned out, and has decided to go back to school to finish his degree,” Bell wrote .
+
+Advertisement
+
+Johnny Detroit apparently recuperated quickly. WagerTalk, which was started by Pregame expat Marco D’Angelo (real name: Michael Callipare) and then joined by Detroit, now looks a lot like the old Pregame, in both its roster and embedded links to affiliate sportsbooks on its live-odds page. (D’Angelo denied that WagerTalk receives money from sportsbooks from players’ losses or a per-head referral fee. He told me they took down their banner ads for Mybookie “because we didn’t want to go down that avenue,” even though, he noted, as a Canadian-registered company, they legally could.)
+
+About two weeks after Johnny Detroit’s departure, Gianni Karalis, or Vegas Runner, also left . Karalis wrote on Twitter : “Never knew my brand was being used to solicit for offshore books.” That’s doubtful, since everyone else in the industry knows what’s going on.
+
+D’Angelo soon left Pregame as well. There were rumors on sports betting forums that he and Karalis had asked to share in the affiliate spoils, but were rejected by Bell. (While Karalis explicitly told me Bell refused to split the affiliate fees, D’Angelo only mentioned unspecified financial disputes with Bell.)
+
+Advertisement
+
+Sportsbook referrals are hardly a secret inside the industry, but tout services, for obvious reasons, likely aren’t eager to disclose them to their customers. Given his vigilant patrolling of the forums, Bell couldn’t help but hear his users’ grumbling. He responded to claims of foul play in August 2015:
+
+“Pregame.com has ZERO financial dealings with ANY online sportsbook. Neither do I personally. Not a penny. That is UNIQUE among the major sites – meaning Pregame is the only major industry site that doesn’t have to choose between offending an online SB advertiser and telling the truth. It’s very important to me to remain independent – independent from online sportsbooks and independent from parent companies (with their own financial deals) dictating reporting.”
+
+Bell’s comment specifically mentioned Pregame.com. It did not mention Pregame Action or Sharpbettor.ag, services through which Pregame customers are funneled when they want to deposit money at sportsbooks.
+
+Advertisement
+
+Update, 1:39 p.m.: Before this story ran, in response to his request for a written list of questions, I asked Bell multiple questions specifically about his relationships with Pregame Action, Sharpbettor.ag, and Big Juice Media. He declined multiple times to answer those questions, instead issuing a statement that did not address them. After this story was published, he emailed me, denying involvement with Pregame Action and Sharpbettor.ag.
+
+Bell wrote,
+
+“I do not and have never run Pregame Action or Sharpbettor.ag. “Pregame (or any company I am associated) with has never promoted Sharpbettor.ag ever. “Pregame or any company I am associated with stopped promoting Pregame Action years ago., and have not received money from them in over 4 years.”
+
+Update, July 1, 2016, 3:37 p.m.: This story has been updated to reflect Bell’s statement, offered after publication, that he does not “run” any of the sportsbook referral sites to which Pregame sends its customers.
+
+The bettor whose livelihood is dependent on having an edge can only be so helpful. If enough people get a whiff, the value is gone. It is counterintuitive that anyone good enough at betting sports to make money on it would ever publicize his picks, no matter the price.
+
+Advertisement
+
+Maybe Americans would like to believe that successful sports bettors resemble average joes more closely than they do the mathematicians, financial analysts, statisticians, and software developers who actually do this for a living. The real bettors, like Jacob Wheatley-Schaller, offer fewer absolutes, and less interesting soundbites. It makes for great radio when Fezzik calls out his three-star game of the year, but far less exciting when a bettor explains that he bet three-quarters of a percent of his bankroll based on his perceived edge against the closing line. When Fezzik justifies a bet as a “double revenge game,” he is offering the same unquantifiable emotional analysis as casual fans. And if revenge were a computable variable, bookmakers would have already factored it into the line.
+
+“The biggest handicappers with the most clients are often just the ones with the best marketing,” wrote Fezzik in 2006. For poker magazine All In, he looked at more than 200 public handicappers and found that not one had a lifetime win rate of 55 percent. The data showed that only about five percent of these touts could achieve a lifetime win rate of 52.4 percent, the break-even point.
+
+Not much has changed since then, except now the hundreds of touts out there have a wider audience for their questionable logic. In a low-budget 2013 documentary on sports betting called Life on the Line, a group of sad-looking touts known as the Tuesday Group meet to discuss their ideas before the 2011 Super Bowl. The film calls them some of the world’s sharpest professional sports bettors.
+
+Advertisement
+
+“I also believe in karma,” declares the mustachioed Ken Thomson, a losing Pregame tout, in defense of his Packers bet. “I believe things happen in three as well. I saw Tiger Woods get humbled, I saw Brett Favre get humbled, I think Roethlisberger on the biggest stage of the world is gonna get humbled. I think he’s gonna get pummeled in this game.”
+
+Fezzik is there, as are past or present Pregame touts like Bruce Marshall, Bryan Leonard, and Teddy Covers. Later in the film, Covers mocks a young bettor for not being able to show him a spreadsheet of his allegedly excellent results.
+
+Fezzik’s own trip to “the dark side,” as it was put to me by Bob Eichenlaub, a bettor and retired aeronautical engineer who goes by the nickname “Computer Bob” and has avidly tracked touts for three decades, is an example of how challenging it is to stay ahead of the pack and win long-term. This explains why Bell almost never mentions Fezzik without including his past glory: back-to-back NFL contest wins from 2008 and 2009.
+
+Advertisement
+
+In recent months, Bell has circled the wagons around Fezzik, his flagship pick-seller. Pregame calls his $1,000-month “Bet Like a Pro” program a better investment than a hedge fund. Eichenlaub wrote that he found several errors in its grading and record-keeping early on, when Johnny Detroit was in charge of the records. Bell asked Eichenlaub to take over after a second record-keeper, “Jeff Scott Sports,” left the site.
+
+Bet Like a Pro was, according to Pregame, up 26 units year-to-date when Eichenlaub stepped in on August 7, 2015. Since then, it has taken a 14-unit loss.
+
+“We really need to get this Computer Bob guy out of here,” one person wrote on the forum. “Never seen a more obvious jinxer in my life. With Johnny Detroit and Jeff Scott Sports everything was fine, then Bob tracks and everything goes to crap.”
+
+Advertisement
+
+There was outright dissension on the Fezzik forum thread, and Bell banned people left and right for their slights against his star handicapper. Bell encouraged his customers to buy subscriptions and not daily selections, thus bringing down the cost of each pick. Using bulk dollars to buy subscriptions, Bell wrote, would be a “double discount.”
+
+I asked Fezzik for comment about about his pick-selling record, and the other issues raised about him in this story. He responded in a written statement:
+
+“The questions posed to me displayed a clear negative agenda. History shows that over 99% of all Pregame.com picks are tracked perfectly. My personal picks are also monitored daily by an independent documenter. Plus, a dedicated Pregame forum thread is prominent for anyone to report any pick grading or win streak mistakes, ensuring that necessary corrections are publicly made. No other pick selling site even comes close. I’ve never sold picks on a daily basis anywhere other than Pregame...Pregame and I have always conveyed a consistent message: There’s no easy money gambling – the best any expert can do is improve your chances.”
+
+“Jealous haters,” Bell wrote of Fezzik’s critics, “waiting for a guy with more talent than they could ever dream of having to have a bad run.”
+
+Advertisement
+
+But if Bell was referring to “jealous haters” like Contrarianville, he also has to look inside his own shop. A few months ago, four apparently clandestine recordings of a meeting purporting to be between Bell and his touts were posted online. They’re short and their context isn’t known, nor is their origin.
+
+(I asked Fezzik about the provenance of the audio recordings, and if it was his voice on the tapes. He declined to answer, but wrote in his statement, “I am most disturbed by questions about short audio snippets of questionable origin obviously edited to deceive. Did Deadspin confirm authenticity? Did Deadspin demand to hear the full context?” Bell’s statement made no mention of the tapes.)
+
+“The odds are you don’t win. We don’t want to get too specific about that, but I think we know that.”
+
+In one of the recordings, two men discuss the “sustainability” of keeping customers. A person purported to be Fezzik says average bettors are picking at 50 percent on their own, but after paying for a pick from a tout, they might win 53 percent of the time. But, he says, they’ll still lose money after the vig and the fees. A person purported to be Bell replies, “First off, people aren’t hitting 53; that’s the starting point, that’s something we gotta address too.”
+
+Advertisement
+
+The person purported to be Bell elaborates on the business model: “We’re asking people to pay an amount of money that’s not sustainable … Let’s just do the math. Say you only buy three picks a week, three packages a week.” That’s $25 each pick, he calculates, $300 for the month.
+
+“The odds are you don’t win,” he continues. “We don’t want to get too specific about that, but I think we know that.” Then the credit-card statement arrives with those fees. “And then, you’re like, hmm, now it’s time to go buy another pick? How many months does that go on?”
+
+In recent months, I’ve seen some of Pregame’s loyal message-board supporters beginning to question its practices. But if sustainability isn’t possible, then Pregame merely has to hold out longer than the dam holding back legalized sports betting. One day soon, sports wagering will be permitted from coast to coast. That will mean floods of new, inexperienced players, who know nothing of line moves or line shopping, let alone affiliate sheets or sportsbook referrals. Many will go looking for advice, and wherever they turn, they will find men like RJ Bell eager to help.
+
+Ryan Goldberg is an award-winning freelance journalist who lives in Brooklyn. His work can be found at his website.
+

@@ -1,0 +1,227 @@
+A hundred years ago today Albert Einstein published his General Theory of Relativity—a brilliant, elegant theory that has survived a century, and provides the only successful way we have of describing spacetime.
+
+There are plenty of theoretical indications, though, that General Relativity isn’t the end of the story of spacetime. And in fact, much as I like General Relativity as an abstract theory, I’ve come to suspect it may actually have led us on a century-long detour in understanding the true nature of space and time.
+
+I’ve been thinking about the physics of space and time for a little more than 40 years now. At the beginning, as a young theoretical physicist, I mostly just assumed Einstein’s whole mathematical setup of Special and General Relativity—and got on with my work in quantum field theory, cosmology, etc. on that basis.
+
+But about 35 years ago, partly inspired by my experiences in creating technology, I began to think more deeply about fundamental issues in theoretical science—and started on my long journey to go beyond traditional mathematical equations and instead use computation and programs as basic models in science. Quite soon I made the basic discovery that even very simple programs can show immensely complex behavior—and over the years I discovered that all sorts of systems could finally be understood in terms of these kinds of programs.
+
+Encouraged by this success, I then began to wonder if perhaps the things I’d found might be relevant to that ultimate of scientific questions: the fundamental theory of physics.
+
+At first, it didn’t seem too promising, not least because the models that I’d particularly been studying (cellular automata) seemed to work in a way that was completely inconsistent with what I knew from physics. But sometime in 1988—around the time the first version of Mathematica was released—I began to realize that if I changed my basic way of thinking about space and time then I might actually be able to get somewhere.
+
+A Simple Ultimate Theory?
+
+In the abstract it’s far from obvious that there should be a simple, ultimate theory of our universe. Indeed, the history of physics so far might make us doubtful—because it seems as if whenever we learn more, things just get more complicated, at least in terms of the mathematical structures they involve. But—as noted, for example, by early theologians—one very obvious feature of our universe is that there is order in it. The particles in the universe don’t just all do their own thing; they follow a definite set of common laws.
+
+But just how simple might the ultimate theory for the universe be? Let’s say we could represent it as a program, say in the Wolfram Language. How long would the program be? Would it be as long as the human genome, or as the code for an operating system? Or would it be much, much smaller?
+
+Before my work on the computational universe of simple programs, I would have assumed that if there’s a program for the universe it must be at least somewhat complicated. But what I discovered is that in the computational universe even extremely simple programs can actually show behavior as complex as anything (a fact embodied in my general Principle of Computational Equivalence). So then the question arises: could one of these simple programs in the computational universe actually be the program for our physical universe?
+
+The Data Structure of the Universe
+
+But what would such a program be like? One thing is clear: if the program is really going to be extremely simple, it’ll be too small to explicitly encode obvious features of our actual universe, like particle masses, or gauge symmetries, or even the number of dimensions of space. Somehow all these things have to emerge from something much lower level and more fundamental.
+
+So if the behavior of the universe is determined by a simple program, what’s the basic “data structure” on which this program operates? At first, I’d assumed that it must be something simple for us to describe, like the lattice of cells that exists in a cellular automaton. But even though such a structure works well for models of many things, it seems at best incredibly implausible as a fundamental model of physics. Yes, one can find rules that give behavior which on a large scale doesn’t show obvious signs of the lattice. But if there’s really going to be a simple model of physics, it seems wrong that such a rigid structure for space should be burned in, while every other feature of physics just emerges.
+
+So what’s the alternative? One needs something in a sense “underneath” space: something from which space as we know it can emerge. And one needs an underlying data structure that’s as flexible as possible. I thought about this for years, and looked at all sorts of computational and mathematical formalisms. But what I eventually realized was that basically everything I’d looked at could actually be represented in the same way: as a network.
+
+A network—or graph—just consists of a bunch of nodes, joined by connections. And all that’s intrinsically defined in the graph is the pattern of these connections.
+
+Space as a Network
+
+So could this be what space is made of? In traditional physics—and General Relativity—one doesn’t think of space as being “made of” anything. One just thinks of space as a mathematical construct that serves as a kind of backdrop, in which there’s a continuous range of possible positions at which things can be placed.
+
+But do we in fact know that space is continuous like this? In the early days of quantum mechanics, it was actually assumed that space would be quantized like everything else. But it wasn’t clear how this could fit in with Special Relativity, and there was no obvious evidence of discreteness. By the time I started doing physics in the 1970s, nobody really talked about discreteness of space anymore, and it was experimentally known that there wasn’t discreteness down to about 10-18 meters (1/1000 the radius of a proton, or 1 attometer). Forty years—and several tens of billions of dollars’ worth of particle accelerators—later there’s still no discreteness in space that’s been seen, and the limit is about 10-22 meters (or 100 yoctometers).
+
+Still, there’s long been a suspicion that something has to be quantized about space down at the Planck length of about 10-34 meters. But when people have thought about this—and discussed spin networks or loop quantum gravity or whatever—they’ve tended to assume that whatever happens there has to be deeply connected to the formalism of quantum mechanics, and to the notion of quantum amplitudes for things.
+
+But what if space—perhaps at something like the Planck scale—is just a plain old network, with no explicit quantum amplitudes or anything? It doesn’t sound so impressive or mysterious—but it certainly takes a lot less information to specify such a network: you just have to say which nodes are connected to which other ones.
+
+But how could this be what space is made of? First of all, how could the apparent continuity of space on larger scales emerge? Actually, that’s not very difficult: it can just be a consequence of having lots of nodes and connections. It’s a bit like what happens in a fluid, like water. On a small scale, there are a bunch of discrete molecules bouncing around. But the large-scale effect of all these molecules is to produce what seems to us like a continuous fluid.
+
+It so happens that I studied this phenomenon a lot in the mid-1980s—as part of my efforts to understand the origins of apparent randomness in fluid turbulence. And in particular I showed that even when the underlying “molecules” are cells in a simple cellular automaton, it’s possible to get large-scale behavior that exactly follows the standard differential equations of fluid flow.
+
+So when I started thinking about the possibility that underneath space there might be a network, I imagined that perhaps the same methods might be used—and that it might actually be possible to derive Einstein’s Equations of General Relativity from something much lower level.
+
+Maybe There’s Nothing But Space
+
+But, OK, if space is a network, what about all the stuff that’s in space? What about all the electrons, and quarks and photons, and so on? In the usual formulation of physics, space is a backdrop, on top of which all the particles, or strings, or whatever, exist. But that gets pretty complicated. And there’s a simpler possibility: maybe in some sense everything in the universe is just “made of space”.
+
+As it happens, in his later years, Einstein was quite enamored of this idea. He thought that perhaps particles, like electrons, could be associated with something like black holes that contain nothing but space. But within the formalism of General Relativity, Einstein could never get this to work, and the idea was largely dropped.
+
+As it happens, nearly 100 years earlier there’d been somewhat similar ideas. That was a time before Special Relativity, when people still thought that space was filled with a fluid-like ether. (Ironically enough, in modern times we’re back to thinking of space as filled with a background Higgs field, vacuum fluctuations in quantum fields, and so on.) Meanwhile, it had been understood that there were different types of discrete atoms, corresponding to the different chemical elements. And so it was suggested (notably by Kelvin) that perhaps these different types of atoms might all be associated with different types of knots in the ether.
+
+It was an interesting idea. But it wasn’t right. But in thinking about space as a network, there’s a related idea: maybe particles just correspond to particular structures in the network. Maybe all that has to exist in the universe is the network, and then the matter in the universe just corresponds to particular features of this network. It’s easy to see similar things in cellular automata on a lattice. Even though every cell follows the same simple rules, there are definite structures that exist in the system—and that behave quite like particles, with a whole particle physics of interactions.
+
+There’s a whole discussion to be had about how this works in networks. But first, there’s something else that’s very important to talk about: time.
+
+What Is Time?
+
+Back in the 1800s, there was space and there was time. Both were described by coordinates, and in some mathematical formalisms, both appeared in related ways. But there was no notion that space and time were in any sense “the same thing”. But then along came Einstein’s Special Theory of Relativity—and people started talking about “spacetime”, in which space and time are somehow facets of the same thing.
+
+It makes a lot of sense in the formalism of Special Relativity, in which, for example, traveling at a different velocity is like rotating in 4-dimensional spacetime. And for about a century, physics has pretty much just assumed that spacetime is a thing, and that space and time aren’t in any fundamental way different.
+
+So how does that work in the context of a network model of space? It’s certainly possible to construct 4-dimensional networks in which time works just like space. And then one just has to say that the history of the universe corresponds to some particular spacetime network (or family of networks). Which network it is must be determined by some kind of constraint: our universe is the one which has such-and-such a property, or in effect satisfies such-and-such an equation. But this seems very non-constructive: it’s not telling one how the universe behaves, it’s just saying that if the behavior looks like this, then it can be the universe.
+
+And, for example, in thinking about programs, space and time work very differently. In a cellular automaton, for example, the cells are laid out in space, but the behavior of the system occurs in a sequence of steps in time. But here’s the thing: just because the underlying rules treat space and time very differently, it doesn’t mean that on a large scale they can’t effectively behave similarly, just like in current physics.
+
+Evolving the Network
+
+OK, so let’s say that underneath space there’s a network. How does this network evolve? A simple hypothesis is to assume that there’s some kind of local rule, which says, in effect that if you see a piece of network that looks like this, replace it with one that looks like that.
+
+But now things get a bit complicated. Because there might be lots of places in the network where the rule could apply. So what determines in which order each piece is handled?
+
+In effect, each possible ordering is like a different thread of time. And one could imagine a theory in which all threads are followed—and the universe in effect has many histories.
+
+But that doesn’t need to be how it works. Instead, it’s perfectly possible for there to be just one thread of time—pretty much the way we experience it. And to understand this, we have to do something a bit similar to what Einstein did in formulating Special Relativity: we have to make a more realistic model of what an “observer” can be.
+
+Needless to say, any realistic observer has to exist within our universe. So if the universe is a network, the observer must be just some part of that network. Now think about all those little network updatings that are happening. To “know” that a given update has happened, observers themselves must be updated.
+
+If you trace this all the way through—as I did in my book, A New Kind of Science—you realize that the only thing observers can ever actually observe in the history of the universe is the causal network of what event causes what other event.
+
+And then it turns out that there’s a definite class of underlying rules for which different orderings of underlying updates don’t affect that causal network. They’re what I call “causal invariant” rules.
+
+Causal invariance is an interesting property, with analogs in a variety of computational and mathematical systems—for example in the fact that transformations in algebra can be applied in any order and still give the same final result. But in the context of the universe, its consequence is that it guarantees that there’s only one thread of time in the universe.
+
+Deriving Special Relativity
+
+So what about spacetime and Special Relativity? Here, as I figured out in the mid-1990s, something exciting happens: as soon as there’s causal invariance, it basically follows that there’ll be Special Relativity on a large scale. In other words, even though at the lowest level space and time are completely different kinds of things, on a larger scale they get mixed together in exactly the way prescribed by Special Relativity.
+
+Roughly what happens is that different “reference frames” in Special Relativity—corresponding, for example, to traveling at different velocities—correspond to different detailed sequencings of the low-level updates in the network. But because of causal invariance, the overall behavior associated with these different detailed sequences is the same—so that the system follows the principles of Special Relativity.
+
+At the beginning it might have looked hopeless: how could a network that treats space and time differently end up with Special Relativity? But it works out. And actually, I don’t know of any other model in which one can successfully derive Special Relativity from something lower level; in modern physics it’s always just inserted as a given.
+
+Deriving General Relativity
+
+OK, so one can derive Special Relativity from simple models based on networks. What about General Relativity—which, after all, is what we’re celebrating today? Here the news is very good too: subject to various assumptions, I managed in the late 1990s to derive Einstein’s Equations from the dynamics of networks.
+
+The whole story is somewhat complicated. But here’s roughly how it goes. First, we have to think about how a network actually represents space. Now remember, the network is just a collection of nodes and connections. The nodes don’t say how they’re laid out in one-dimensional, two-dimensional, or any-dimensional space.
+
+It’s easy to see that there are networks that on a large scale seem, say, two-dimensional, or three-dimensional. And actually, there’s a simple test for the effective dimension of a network. Just start from a node, then look at all nodes that are up to r connections away. If the network is behaving like it’s d-dimensional, then the number of nodes in that “ball” will be about rd.
+
+Here’s where things start to get really interesting. If the network behaves like flat d-dimensional space, then the number of nodes will always be close to rd. But if it behaves like curved space, as in General Relativity, then there’s a correction term, that’s proportional to a mathematical object called the Ricci scalar. And that’s interesting, because the Ricci scalar is precisely something that occurs in Einstein’s Equations.
+
+There’s lots of mathematical complexity here. One has to look at shortest paths—or geodesics—in the network. One has to see how to do everything not just in space, but in networks evolving in time. And one has to understand how the large-scale limits of networks work.
+
+In deriving mathematical results, it’s important to be able to take certain kinds of averages. It’s actually very much the same kind of thing needed to derive fluid equations from dynamics of molecules: one needs to be able to assume a certain degree of effective randomness in low-level interactions to justify the taking of averages.
+
+But the good news is that an incredible range of systems, even with extremely simple rules, work a bit like the digits of pi, and generate what seems for all practical purposes random. And the result is that even though the details of a causal network are completely determined once one knows the network one’s starting from, many of these details will appear effectively random.
+
+So here’s the final result. If one assumes effective microscopic randomness, and one assumes that the behavior of the overall system does not lead to a change in overall limiting dimensions, then it follows that the large-scale behavior of the system satisfies Einstein’s Equations!
+
+I think this is pretty exciting. From almost nothing, it’s possible to derive Einstein’s Equations. Which means that these simple networks reproduce the features of gravity that we know in current physics.
+
+There are all sorts of technical things to say, not suitable for this general blog. Quite a few of them I already said long ago in A New Kind of Science—and particularly the notes at the back.
+
+A few things are perhaps worth mentioning here. First, it’s worth noting that my underlying networks not only have no embedding in ordinary space intrinsically defined, but also don’t intrinsically define topological notions like inside and outside. All these things have to emerge.
+
+When it comes to deriving the Einstein Equations, one creates Ricci tensors by looking at geodesics in the network, and looking at the growth rates of balls that start from each point on the geodesic.
+
+The Einstein Equations one gets are the vacuum Einstein Equations. But just like with gravitational waves, one can effectively separate off features of space considered to be associated with “matter”, and then get Einstein’s full Equations, complete with “matter” energy-momentum terms.
+
+As I write this, I realize how easily I still fall into technical “physics speak”. (I think it must be that I learned physics when I was so young…) But suffice it to say that at a high level the exciting thing is that from the simple idea of networks and causal invariant replacement rules, it’s possible to derive the Equations of General Relativity. One puts remarkably little in, yet one gets out that remarkable beacon of 20th-century physics: General Relativity.
+
+Particles, Quantum Mechanics, Etc.
+
+It’s wonderful to be able to derive General Relativity. But that’s not all of physics. Another very important part is quantum mechanics. It’s going to get me too far afield to talk about this in detail here, but presumably particles—like electrons or quarks or Higgs bosons—must exist as certain special regions in the network. In qualitative terms, they might not be that different from Kelvin’s “knots in the ether”.
+
+But then their behavior must follow the rules we know from quantum mechanics—or more particularly, quantum field theory. A key feature of quantum mechanics is that it can be formulated in terms of multiple paths of behavior, each associated with a certain quantum amplitude. I haven’t figured it all out, but there’s definitely a hint of something like this going on when one looks at the evolution of a network with many possible underlying sequences of replacements.
+
+My network-based model doesn’t have official quantum amplitudes in it. It’s more like (but not precisely like) a classical, if effectively probabilistic, model. And for 50 years people have almost universally assumed that there’s a crippling problem with models like that. Because there’s a theorem (Bell’s Theorem) that says that unless there’s instantaneous non-local propagation of information, no such “hidden variables” model can reproduce the quantum mechanical results that are observed experimentally.
+
+But there’s an important footnote. It’s pretty clear what “non-locality” means in ordinary space with a definite dimension. But what about in a network? Here it’s a different story. Because everything is just defined by connections. And even though the network may mostly correspond on a large scale to 3D space, it’s perfectly possible for there to be “threads” that join what would otherwise be quite separated regions. And the tantalizing thing is that there are indications that exactly such threads can be generated by particle-like structures propagating in the network.
+
+Searching for the Universe
+
+OK, so it’s conceivable that some network-based model might be able to reproduce things from current physics. How might we set about finding such a model that actually reproduces our exact universe?
+
+The traditional instinct would be to start from existing physics, and try to reverse engineer rules that could reproduce it. But is that the only way? What about just starting to enumerate possible rules, and seeing if any of them turn out to be our universe?
+
+Before studying the computational universe of simple programs I would have assumed that this would be crazy: that there’s no way the rules for our universe could be simple enough to find by this kind of enumeration. But after seeing what’s out there in the computational universe—and seeing some other examples where amazing things were found just by a search—I’ve changed my mind.
+
+So what happens if one actually starts doing such a search? Here’s the zoo of networks one gets after a fairly small number of steps by using all possible underlying rules of a certain very simple type:
+
+Some of these networks very obviously aren’t our universe. They just freeze after a few steps, so time effectively stops. Or they have far too simple a structure for space. Or they effectively have an infinite number of dimensions. Or other pathologies.
+
+But the exciting thing is that remarkably quickly one finds rules that aren’t obviously not our universe. Telling if they actually are our universe is a difficult matter. Because even if one simulates lots of steps, it can be arbitrarily difficult to know whether the behavior they’re showing is what one would expect in the early moments of a universe that follows the laws of physics as we know them.
+
+There are plenty of encouraging features, though. For example, these universes can start from effectively infinite numbers of dimensions, then gradually settle to a finite number of dimensions—potentially removing the need for explicit inflation in the early universe.
+
+And at a higher level, it’s worth remembering that if the models one’s using are simple enough, there’s a big distance between “neighboring models”, so it’s likely one will either reproduce known physics exactly, or be very wide of the mark.
+
+In the end, though, one needs to reproduce not just the rule, but also the initial condition for the universe. But once one has that, one will in principle know the exact evolution of the universe. So does that means one would immediately be able to figure out everything about the universe? Absolutely not. Because of the phenomenon I call “computational irreducibility”—which implies that even though one may knows the rule and initial condition for a system, it can still require an irreducible amount of computational work to trace through every step in the behavior of the system to find out what it does.
+
+Still, the possibility exists that one could just find a simple rule—and initial condition—that one could hold up and say, “This is our universe!” We’d have found our universe in the computational universe of all possible universes.
+
+Of course this would be an exciting day for science.
+
+But it would raise plenty of other questions. Like: why this rule, and not another? And why should our particular universe have a rule that shows up early enough in our list of all possible universes that we could actually find it just by enumeration?
+
+One might think that it’d just be something about us being in this universe, and that causing us to choose an enumeration which makes it come up early. But my current guess is that it’d be something much more bizarre, such as that with respect to observers in a universe, all of a large class of nontrivial possible universe rules are actually equivalent, so one could pick any of them and get the exact same results, just in a different way.
+
+OK, Show Me the Universe
+
+But these are all speculations. And until we actually find a serious candidate rule for our universe, it’s probably not worth discussing these things much.
+
+So, OK. Where are we at with all this right now? Most of what I’ve said here I had actually figured out by around 1999—several years before I finished A New Kind of Science. And though it was described in simple language rather than physics-speak, I managed to cover the highlights of it in Chapter 9 of the book—giving some of the technical details in the notes at the back.
+
+But after the book was finished in 2002, I started working on the problem of physics again. I found it a bit amusing to say I had a computer in my basement that was searching for the fundamental theory of physics. But that really was what it was doing: enumerating possible rules of certain types, and trying to see if their behavior satisfied certain criteria that could make them plausible as models of physics.
+
+I was pretty organized in what I did, getting intuition from simplified cases, then systematically going through more realistic cases. There were lots of technical issues. Like being able to visualize large evolving sequences of graphs. Or being able to quickly recognize subtle regularities that revealed that something couldn’t be our actual universe.
+
+I accumulated the equivalent of thousands of pages of results, and was gradually beginning to get an understanding of the basic science of what systems based on networks can do.
+
+In a sense, though, this was always just a hobby, done alongside my “day job” of leading our company and its technology development. And there was another “distraction”. For many years I had been interested in the problem of computational knowledge, and in building an engine that could comprehensively embody it. And as a result of my work on A New Kind of Science, I became convinced that this might be actually be possible—and that this might be the right decade to do it.
+
+By 2005 it was clear that it was indeed possible, and so I decided to devote myself to actually doing it. The result was Wolfram|Alpha. And once Wolfram|Alpha was launched it became clear that even more could be done—and I have spent what I think has probably been my most productive decade ever building a huge tower of ideas and technology, which has now made possible the Wolfram Language and much more.
+
+To Do Physics, or Not to Do Physics?
+
+But over the course of that decade, I haven’t been doing physics. And when I now look at my filesystem, I see a large number of notebooks about physics, all nicely laid out with the things I figured out—and all left abandoned and untouched since the beginning of 2005.
+
+Should I get back to the physics project? I definitely want to. Though there are also other things I want to do.
+
+I’ve spent most of my life working on very large projects. And I work hard to plan what I’m going to do, usually starting to think about projects decades ahead of actually doing them. Sometimes I’ll avoid a project because the ambient technology or infrastructure to do it just isn’t ready yet. But once I embark on a project, I commit myself to finding a way make it succeed, even if it takes many years of hard work to do so.
+
+Finding the fundamental theory of physics, though, is a project of a rather different character than I’ve done before. In a sense its definition of success is much harsher: one either solves the problem and finds the theory, or one doesn’t. Yes, one could explore lots of interesting abstract features of the type of theory one’s constructing (as string theory has done). And quite likely such an investigation will have interesting spinoffs.
+
+But unlike building a piece of technology, or exploring an area of science, the definition of the project isn’t under one’s control. It’s defined by our universe. And it could be that I’m simply wrong about how our universe works. Or it could be that I’m right, but there’s too deep a barrier of computational irreducibility for us to know.
+
+One might also worry that one would find what one thinks is the universe, but never be sure. I’m actually not too worried about this. I think there are enough clues from existing physics—as well as from anomalies attributed to things like dark matter—that one will be able to tell quite definitively if one has found the correct theory. It’ll be neat if one can make an immediate prediction that can be verified. But by the time one’s reproducing all the seemingly arbitrary masses of particles, and other known features of physics, one will be pretty sure one has the correct theory.
+
+It’s been interesting over the years to ask my friends whether I should work on fundamental physics. I get three dramatically different kinds of responses.
+
+The first is simply, “You’ve got to do it!” They say that the project is the most exciting and important thing one can imagine, and they can’t see why I’d wait another day before starting on it.
+
+The second class of responses is basically, “Why would you do it?” Then they say something like, “Why don’t you solve the problem of artificial intelligence, or molecular construction, or biological immortality, or at least build a giant multibillion-dollar company? Why do something abstract and theoretical when you can do something practical to change the world?”
+
+There’s also a third class of responses, which I suppose my knowledge of the history of science should make me expect. It’s typically from physicist friends, and typically it’s some combination of, “Don’t waste your time working on that!” and, “Please don’t work on that.”
+
+The fact is that the current approach to fundamental physics—through quantum field theory—is nearly 90 years old. It’s had its share of successes, but it hasn’t brought us the fundamental theory of physics. But for most physicists today, the current approach is almost the definition of physics. So when they think about what I’ve been working on, it seems quite alien—like it isn’t really physics.
+
+And some of my friends will come right out and say, “I hope you don’t succeed, because then all that work we’ve done is wasted.” Well, yes, some work will be wasted. But that’s a risk you take when you do a project where in effect nature decides what’s right. But I have to say that even if one can find a truly fundamental theory of physics, there’s still plenty of use for what’s been done with standard quantum field theory, for example in figuring out phenomena at the scale where we can do experiments with particle accelerators today.
+
+What Will It Take?
+
+So, OK, if I mounted a project to try to find the fundamental theory of physics, what would I actually do? It’s a complex project, that’ll need not just me, but a diverse team of talented other people too.
+
+Whether or not it ultimately works, I think it’ll be quite interesting to watch—and I’d plan to do it as “spectator science”, making it as educational and accessible as possible. (Certainly that would be a pleasant change from the distraction-avoiding hermit mode in which I worked on A New Kind of Science for a decade.)
+
+Of course I don’t know how difficult the project is, or whether it will even work at all. Ultimately that depends on what’s true about our universe. But based on what I did a decade ago, I have a clear plan for how to get started, and what kind of team I have to put together.
+
+It’s going to need both good scientists and good technologists. There’s going to be lots of algorithm development for things like network evolution, and for analysis. I’m sure it’ll need abstract graph theory, modern geometry and probably group theory and other kinds of abstract algebra too. And I won’t be surprised if it needs lots of other areas of math and theoretical computer science as well.
+
+It’ll need serious, sophisticated physics—with understanding of the upper reaches of quantum field theory and perhaps string theory and things like spin networks. It’s also likely to need methods that come from statistical physics and the modern theoretical frameworks around it. It’ll need an understanding of General Relativity and cosmology. And—if things go well—it’ll need an understanding of a diverse range of physics experiments.
+
+There’ll be technical challenges too—like figuring out how to actually run giant network computations, and collect and visualize their results. But I suspect the biggest challenges will be in building the tower of new theory and understanding that’s needed to study the kinds of network systems I want to investigate. There’ll be useful support from existing fields. But in the end, I suspect this is going to require building a substantial new intellectual structure that won’t look much like anything that’s been done before.
+
+Is It the Right Time?
+
+Is it the right time to actually try doing this project? Maybe one should wait until computers are bigger and faster. Or certain areas of mathematics have advanced further. Or some more issues in physics have been clarified.
+
+I’m not sure. But nothing I have seen suggests that there are any immediate roadblocks—other than putting the effort and resources into trying to do it. And who knows: maybe it will be easier than we think, and we’ll look back and wonder why it wasn’t tried long ago.
+
+One of the key realizations that led to General Relativity 100 years ago was that Euclid’s fifth postulate (“parallel lines never cross”) might not be true in our actual universe, so that curved space is possible. But if my suspicions about space and the universe are correct, then it means there’s actually an even more basic problem in Euclid—with his very first definitions. Because if there’s a discrete network “underneath” space, then Euclid’s assumptions about points and lines that can exist anywhere in space simply aren’t correct.
+
+General Relativity is a great theory—but we already know that it cannot be the final theory. And now we have to wonder how long it will be before we actually know the final theory. I’m hoping it won’t be too long. And I’m hoping that before too many more anniversaries of General Relativity have gone by we’ll finally know what spacetime really is.

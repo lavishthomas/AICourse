@@ -1,0 +1,42 @@
+This is an artist's concept of the metric expansion of space, where space (including hypothetical non-observable portions of the universe) is represented at each time by the circular sections. Note on the left the dramatic expansion (not to scale) occurring in the inflationary epoch, and at the center the expansion acceleration. The scheme is decorated with WMAP images on the left and with the representation of stars at the appropriate level of development. Credit: NASA (Phys.org) —The universe may have existed forever, according to a new model that applies quantum correction terms to complement Einstein's theory of general relativity. The model may also account for dark matter and dark energy, resolving multiple problems at once.
+
+The widely accepted age of the universe, as estimated by general relativity, is 13.8 billion years. In the beginning, everything in existence is thought to have occupied a single infinitely dense point, or singularity. Only after this point began to expand in a "Big Bang" did the universe officially begin.
+
+Although the Big Bang singularity arises directly and unavoidably from the mathematics of general relativity, some scientists see it as problematic because the math can explain only what happened immediately after—not at or before—the singularity.
+
+"The Big Bang singularity is the most serious problem of general relativity because the laws of physics appear to break down there," Ahmed Farag Ali at Benha University and the Zewail City of Science and Technology, both in Egypt, told Phys.org.
+
+Ali and coauthor Saurya Das at the University of Lethbridge in Alberta, Canada, have shown in a paper published in Physics Letters B that the Big Bang singularity can be resolved by their new model in which the universe has no beginning and no end.
+
+Old ideas revisited
+
+The physicists emphasize that their quantum correction terms are not applied ad hoc in an attempt to specifically eliminate the Big Bang singularity. Their work is based on ideas by the theoretical physicist David Bohm, who is also known for his contributions to the philosophy of physics. Starting in the 1950s, Bohm explored replacing classical geodesics (the shortest path between two points on a curved surface) with quantum trajectories.
+
+In their paper, Ali and Das applied these Bohmian trajectories to an equation developed in the 1950s by physicist Amal Kumar Raychaudhuri at Presidency University in Kolkata, India. Raychaudhuri was also Das's teacher when he was an undergraduate student of that institution in the '90s.
+
+Using the quantum-corrected Raychaudhuri equation, Ali and Das derived quantum-corrected Friedmann equations, which describe the expansion and evolution of universe (including the Big Bang) within the context of general relativity. Although it's not a true theory of quantum gravity, the model does contain elements from both quantum theory and general relativity. Ali and Das also expect their results to hold even if and when a full theory of quantum gravity is formulated.
+
+No singularities nor dark stuff
+
+In addition to not predicting a Big Bang singularity, the new model does not predict a "big crunch" singularity, either. In general relativity, one possible fate of the universe is that it starts to shrink until it collapses in on itself in a big crunch and becomes an infinitely dense point once again.
+
+Ali and Das explain in their paper that their model avoids singularities because of a key difference between classical geodesics and Bohmian trajectories. Classical geodesics eventually cross each other, and the points at which they converge are singularities. In contrast, Bohmian trajectories never cross each other, so singularities do not appear in the equations.
+
+In cosmological terms, the scientists explain that the quantum corrections can be thought of as a cosmological constant term (without the need for dark energy) and a radiation term. These terms keep the universe at a finite size, and therefore give it an infinite age. The terms also make predictions that agree closely with current observations of the cosmological constant and density of the universe.
+
+New gravity particle
+
+In physical terms, the model describes the universe as being filled with a quantum fluid. The scientists propose that this fluid might be composed of gravitons—hypothetical massless particles that mediate the force of gravity. If they exist, gravitons are thought to play a key role in a theory of quantum gravity.
+
+In a related paper, Das and another collaborator, Rajat Bhaduri of McMaster University, Canada, have lent further credence to this model. They show that gravitons can form a Bose-Einstein condensate (named after Einstein and another Indian physicist, Satyendranath Bose) at temperatures that were present in the universe at all epochs.
+
+Motivated by the model's potential to resolve the Big Bang singularity and account for dark matter and dark energy, the physicists plan to analyze their model more rigorously in the future. Their future work includes redoing their study while taking into account small inhomogeneous and anisotropic perturbations, but they do not expect small perturbations to significantly affect the results.
+
+"It is satisfying to note that such straightforward corrections can potentially resolve so many issues at once," Das said.
+
+Explore further: Theorists apply loop quantum gravity theory to black hole
+
+More information: Ahmed Farag Ali and Saurya Das. "Cosmology from quantum potential." Physics Letters B. Volume 741, 4 February 2015, Pages 276–279. DOI: 10.1016/j.physletb.2014.12.057. Also at: arXiv:1404.3093[gr-qc].
+
+Saurya Das and Rajat K. Bhaduri, "Dark matter and dark energy from Bose-Einstein condensate", preprint: arXiv:1411.0753[gr-qc].
+

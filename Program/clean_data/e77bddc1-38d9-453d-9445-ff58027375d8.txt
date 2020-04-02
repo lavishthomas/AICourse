@@ -1,0 +1,31 @@
+Okay, so I mentioned that Google Now works with KnowledgeGraph. What’s that?
+
+John Giannandrea, the head of Google’s research from earlier, was brought into Google in 2010. He founded a company called Metaweb, which related text and objects on the internet. It was a logical parallel to search—not only finding things, but finding similar bits and pieces of information. He had worked on this issue even before that, when he was the CTO of Netscape. (Remember Netscape?)
+
+But this all manifested in KnowledgeGraph, which debuted in 2012 as the bits of information and text that automatically pop up when you search for facts. If you search “When was Popular Science founded?” Google will supply the answer (which is 1872).
+
+This is Google’s way of not only cataloging the internet, but making it more accessible and useful to its users. It was also the first leak of artificial intelligence into the main product, search. Since then, Google has handed 15 percent of its daily search traffic to artificial intelligence model called RankBrain. This system is the common sense of search—it’s meant to catch the queries that traditional algorithms can’t figure out.
+
+Beyond integration into its core search algorithms, and the expansion into products, Google also has a few moonshots in the works. For that, they rely on Geoff Hinton.
+
+Hinton is one of the foremost thinkers in artificial intelligence—he’s often listed in the same sentence as other high-level researchers like Yann LeCun at Facebook, Google’s Andrew Ng, and Yoshua Bengio. (In fact, LeCun, Hinton, and Bengio wrote a review in Nature this May on deep learning, which reads like the literal textbook on AI.)
+
+"There’s a thin line between magic and mystery, and we want to be on the right side of it."
+
+Speaking with Hinton is like talking to someone who lives five years in the future. Our conversation centered around turning documents into thought vectors, so that machines could understand and remember lengthy versions, and reverse engineer the algorithm our brain uses to learn.
+
+Many computer programs today, for example, brute force the problem of analyzing what a text document means by looking up the dictionary definitions of words in the document, and the grammar. But in order to understand the document like a human, a computer would ideally be able to break the document down into a series of distinct thoughts.
+
+“Google would love to be able to take a document, and figure out what the reasoning is, what the document is saying, and how one thought follows from the previous thoughts,” Hinton says. “If we could start doing that, then it could give you much better answers to queries, because it actually reads the documents and understands them.”
+
+When asked why we aren’t doing this already, Hinton says if we’re trying to match comprehension to the brain, it’s a matter of scale. The artificial neural networks researchers use now just don’t have the complexity of our brain, even at when scaled to their current limits. The best ones we have might have hundreds of millions of weights that can be manipulated (LeCun uses the analogy of a black box with a million knobs on the outside to explain fiddling with weights.) But Hinton explains that our brains have 100 trillion—that’s 100,000 times more information.
+
+In the face of being dwarfed by scale, Hinton is still optimistic that this streak of artificial intelligence research won’t fizzle out as it has in the past. (Artificial intelligence research has seen “winters,” where progress hasn’t matched expectations and investment has faded.) A large factor of this is the increasingly popular idea of thought vectors, as mentioned earlier. But the most comforting thing to Hinton is the progress in the last five years, especially object recognition and speech. These problems were often seen as too complex in the past, and now the error rate has drastically decreased on standardized tests.
+
+“They’re getting close to human-level performance."
+
+“They’re getting close to human-level performance. Not in all aspects, but things like object recognition. A few years ago, computer vision people would have told you ‘no, you’re not going to get to that level in many years.’ So that’s a reason for being optimistic,” Hinton says.
+
+But no matter how well a machine may complement or emulate the human brain, it doesn’t mean anything if the average person can’t figure out how to use it. That’s Google’s plan to dominate artificial intelligence—making it simple as possible. While the machinations behind the curtains are complex and dynamic, the end result are ubiquitous tools that work, and the means to improve those tools if you’re so inclined.
+
+“There’s a thin line between magic and mystery,” Google Now’s Chennapragada says.“And we want to be on the right side of it.”

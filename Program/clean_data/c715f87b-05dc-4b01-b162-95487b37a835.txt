@@ -1,0 +1,61 @@
+In 2004, Christopher Peterson and Martin Seligman came out with Character Strengths and Virtues: A Handbook and Classification. This volume was a significant contribution to psychology, a sort of antidote to the DSM's focus on mental illness, and an important reminder to psychologists that humans aren't only full of illness. Humans also have a lot of character.
+
+The book laid out the following 24 character strengths:
+
+In his book Flourish, Martin Seligman, the founder of the field of positive psychology (and my boss), argued that the five fundamental elements of well-being are:
+
+The main tenet of the field of positive psychology is that the path to well-being lies in nurturing your highest strengths. But one big question remains: Which character strengths are most predictive of well-being?
+
+As it so happens, in a fun collaboration with Spencer Greenberg, Susan Cain and the Quiet Revolution, we collected such data on 517 people ranging from 18-71 years of age (average age = 36) as part of a larger project to create a new scale of introversion.
+
+So I did the analysis.
+
+As it turns out, all five elements of PERMA were very strongly correlated with each other. People who tended to score higher on one of the elements (e.g., positive emotions) tended to score higher on the other elements (e.g., engagement, positive relationships, meaning, and accomplishment) and those who tended to score lower on one of the elements also tended to score lower on the others. Since all five elements of PERMA were so strongly related to each other, I collapsed them all into a single variable, reflecting the idea that well-being is a latent factor representing these five indicators.*
+
+Interestingly, virtually every single one of the 24 character strengths were individually correlated with well-being at the p < .05 level of significance. Well, all except one: humility (r = .072, p = .124). See all correlations here.
+
+The top three character strengths that were most strongly correlated with well-being were:
+
+Hope (r= .359, p < .000)
+
+Gratitude (r= .358, p <. 001)
+
+Love (r= .332, p < .001)
+
+The bottom three character strengths that were least strongly correlated with well-being (but were still statistically significant) were:
+
+Prudence (r = .118, p < .01)
+
+Judgment (r = .128, p < .01)
+
+Self-Regulation (r= .127, p < .01)
+
+So one of the core tenets of positive psychology is supported: developing your character strengths is predictive of well-being.
+
+Next, I wondered which character strengths stood alone as predictors of well-being after taking into account the other strengths. After all, I noticed that many of these character strengths were related to each other.
+
+So to see which were the best independent predictors of well-being, I put them all into the same pot and ran a regression analysis (controlling for age and gender):
+
+Out of all 24 character strengths, the only significant independent positive predictors of well-being were gratitude and love of learning.** Note that love, honesty, hope and humor came very close.
+
+If you just put in gratitude and love of learning, you see they both hold up on their own as independent predictors of well-being:
+
+The single best predictor of well-being was gratitude.
+
+So there you have it. Not all character strengths seem to be equally predictive of well-being. Not to say that you should rule any of them out, of course. Humility is considered very valuable character strength to have by most people, and is MUCH needed in our society and around the world. But it just doesn't appear to be a very good predictor of well-being.*** Remember, well-being isn't everything there is to life. There are other human goods.
+
+Nevertheless, if you do seek high well-being, your best bets are gratitude and love of learning.
+
+Now go and flourish!
+
+(C) 2015 Scott Barry Kaufman, All Rights Reserved
+
+You can take the free VIA Character Strengths survey here.
+
+* If you run the partial correlations and correct for multiple comparisons, you find that 6/10 correlations remain statistically significant at the 1% level of significance, and 8/10 remain statitically significant at the 5% level of significance. Therefore, while there is clearly a substantial chunk of variance that is in common among the PERMA variables (justifying a general factor of well-being), there is also quite a bit domain specificity. Again, this supports Seligman's argument that well-being is a latent construct, and that each of the five elements of PERMA are indicators of well-being, but neither one is a complete indicator of well-being.
+
+** As some commentators have rightly pointed out, kindness is negatively predictive of well-being in the full regression model. I suspected this is because of a suppression effect (kindness is so strongly related to so many of the other character strengths). In fact the correlation between gratitude and kindness is .679! My intuition was right: if you only put gratitude, kindness, and love of learning in the regression model, kindness is no longer a significant predictor of well-being.
+
+*** Interestingly, this finding (humility not related to well-being) has been replicated in Japan. See: Shimai, S., Otake, K., Park, N., Peterson, C., & Seligman,. M.E.P. (2003). Convergence of character strengths in American and Japanese young adults. Unpublished manuscript, Kobe College, Japan.
+
+image credit1; image credit 2; image credit 3; image credit 4

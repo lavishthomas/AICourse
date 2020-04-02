@@ -1,0 +1,35 @@
+I can't explain airline pricing but I do know some plane tickets can be cheaper depending on where you buy them or, even better, where you appear to buy them from. This is all about leveraging foreign currencies and points-of-sale to your advantage.
+
+For reasons I never quite understood, every time I tried to book a domestic flight in another country, the prices were always exorbitant. But, say, once I was in Bangkok, that same flight that was once $300 would fall to $30 almost inexplicably. This phenomenon is because a ticket's point-of-sale -- the place where a retail transaction is completed -- can affect the price of any flight with an international component.
+
+This post originally appeared on Map Happy.
+
+Most people don't know there is a simple trick for "changing" this to get a cheaper flight on an airline"s website; it's how I managed to pay $371 for a flight from New York to Colombia instead of $500+. Though it can be used for normal international flights, it often works best when you're buying domestic flights in another country. (Point in case: A Chilean friend once told me Easter Island flights were much cheaper to buy in Santiago instead of abroad.)
+
+To demonstrate how this scheme works, we ran a one-way search from Cartagena to Bogotá -- two cities in Colombia -- for June 17 on Google ITA, Kayak and Skyscanner. To keep things simple, I'll ignore a VivaColombia flight that Skyscanner found because Google ITA and Kayak do not include smaller airlines in their searches. Instead, we'll be comparing two large airlines that fly this route, LAN Airlines and Avianca.
+
+Unsurprisingly, Kayak takes a U.S.-centric approach. Going the path of least resistance, a Kayak search shows that the cheapest flight on LAN is $116 and the cheapest flight on Avianca is $137. If we run this exact search in Google ITA with New York City as the point-of-sale, we see those exact numbers. Skyscanner returns similar results: the cheapest flight on LAN is $114 and on Avianca it is $136.
+
+Where to change point-of-sale in Google ITA.
+
+Though Skyscanner actually has the best prices, let's not stop there. Instead of using an American city as the point-of-sale, let's use Colombia as the point-of-sale, something that can only be searched for in Google ITA. You actually don't have to tweak a thing because the departure city is usually set as the default for this option -- that said, it's possible to change this to any place in the world you want. The main difference is we'll get the price in Colombian pesos and that's *exactly* what we want.
+
+Prices shown in Colombian pesos.
+
+In this new search, the cheapest flight on Avianca is 116,280 COP and the cheapest flight on LAN is 173,820 COP. That of course means a lot of mumbo jumbo to most people, so let's convert that over to U.S. dollars. The same Avianca flight now approximates to $61.59 while the LAN flight is $91.96. In short, you'd be saving $22.04 on the LAN flight and $74.41 on the Avianca flight by simply paying in a different currency. The price difference between the cheapest flight in both the U.S. and Colombia search is $54.41. That's how much you'll end up saving just by comparing the flights in different currencies.
+
+Where to select a different point-of-sale on the Avianca site.
+
+Now the real problem is that we've got to find a place to buy this ticket in pesos since Google ITA won't tell us where to go for that. I head directly to the Avianca website, which brings us to the U.S. price--about $137--for the flight. That's not what I want though. I start again, but this time I click on the upper right-hand corner and select Colombia as my country and English as my language. (Other airlines may not always offer the ability to keep using the site in English. How good is your Spanish?) It's not using the same thing as a VPN, but this mimics the idea that you are buying from a different location other than the U.S.
+
+I search again. Sometimes I'm not always able to get the same exact fare I see in Google ITA, but I almost always manage to get something cheaper than what Kayak calculated for me. In this case, the cheapest flight available is 136,000 COP or $72.14, a bit more than what I was told but still less than Kayak's price. To save the most money, make sure you pay in a credit card that doesn't charge foreign transaction fees. In total, I manage to get a flight about $43.86 cheaper than what any U.S. site quoted me.
+
+Actual price shown on the Avianca site.
+
+Even if you don't have a travel-friendly credit card, it still might be worth it to pay the fees just to pay in pesos. In this case, the standard foreign transaction fee 3% surcharge would only cost you an extra $2.16 to book the flight. The exact percentage will vary depending on the terms of the card issuer, but in short, you still come out ahead.
+
+With a little adjustment, this trick can also be used for purchasing international flights. The most obvious points-of-sales to check for generally include the destination country and the country where the airline is based in. I mean, you can also go ahead and check for every single country out there, but that's real dedication that even I don't have time for.
+
+Though most of the time it works out that I get some sort of discount--which can range from a few dollars to over a hundred dollars--by leveraging foreign currencies against each other, it doesn't always work all the time. Sometimes, in fact, the cheapest airfare is the most straightforward fare you'll find. But hey, just so you know.
+
+PHOTO GALLERIES Best Budget Airlines

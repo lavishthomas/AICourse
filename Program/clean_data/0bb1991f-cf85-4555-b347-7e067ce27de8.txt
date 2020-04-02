@@ -1,0 +1,41 @@
+Only a few years ago, wireless routers were relatively dumb devices that merely beamed the Web into your home or office and not much more. Now, they offer everything from support for multiple wireless frequencies to mobile-management tools. And forget the painful setup: The best routers boast a much higher level of default intelligence, making it simpler than ever to configure and use more advanced features. Many functions that once required significant networking know-how can now be properly set up with the click of a mouse. With that in mind, here are seven features found in most advanced wireless routers that are well worth the time and effort to configure and use.
+
+The Wireless Welcome Mat: Guest Access
+
+Whether you're setting up your home or business network, you can extend the welcome mat to visitors with free Wi-Fi. Most routers on the market today include the ability to easily offer guest access to your wireless network. (In some cases this access is even enabled by default. If you are security-conscious, you may choose to not allow outside entities access to your network, but you'll need to disable this setting.)
+
+If you are allowing guest access, it's a good idea to change the guest password on a regular basis. And if your router supports multiple frequencies, say 2.4GHz and 5GHz speeds, you might also elect to limit guest access to the slower 2.4GHz network, saving the higher-performance access for internal connections only. Some router makers allow an even greater level of control access with the added capability of limiting the number of hours or time of day that guest access is available for use. With the mobile-management apps offered by most manufacturers, you can change passwords, control access to different frequencies, and enable and disable guest access on the fly from most smartphones.
+
+Keep the Kids Safe: Parental Controls
+
+Parental controls aren't simply for stopping kids from visiting unsavory websites. In a small business environment, they can be quite useful for explicitly managing sites that should not be accessed on company time. Router vendors offer varying levels of control, ranging from granular blocking on a per-device level to full-blown content-control systems that manage access to external sites. These capabilities can include an additional layer of security protection for your network with antiphishing and malware-detection capabilities you can configure.
+
+Do Double Duty: Add External Storage
+
+The latest breed of routers can take the pain out of shared data storage, too. Current generation high-end models offer the ability to connect external storage directly to the router, with options for USB 2.0, 3.0, and SATA connections, depending upon the model. This allows a do-it-yourself network-attached storage setup. The data may be accessible via multiple paths in addition to network mapping, for example via a router-based FTP server, which can make folders on the drive available externally via the Web. In most cases, any USB storage device, from thumb drives to spinning hard drives, can be attached and made available as shared-storage devices. If it supports it, the drive could also work with DLNA for use as a media server for DLNA-capable devices on your network.
+
+Do More With Connected Media & Backup Servers
+
+Some vendors have gone a step further than merely supporting network-attached storage. A range of high-end routers offer a DLNA-discoverable service that can be explicitly configured as a media server with detailed control over how and where audio and video services are delivered. This server-side application can also be used to manage file-sharing permissions on externally attached storage. Some manufacturers have gone as far as including backup applications, which allow attached storage devices to become part of an automated client backup process. With the continuing drop in storage prices, a small business, for example, may be able to use a multi-terabyte USB hard drive connected to an advanced router as a centralized backup.
+
+Expanded USB Connectivity Means Shared Printing
+
+Wireless printing is nothing new, but with USB connectivity becoming standard, nearly any printer can be turned into an Internet-connected model by just plugging it in to your router. Some manufacturers provide wireless support for printers that are not AirPrint-enabled, when accessed via a supporting router. In a home or office with heavy iPad/iPhone use, the ability to print from any iDevice can really come in handy.
+
+Control Traffic With Network Prioritization
+
+What if you could easily ensure faster Internet speeds for the applications that were most important to you? Wireless routers have offered Quality of Service (QoS) and Wireless Multimedia Extension (WMM) support for quite a few generations. But, for the most part, the actual effectiveness of these technologies was, at best, a slightly noticeable gain in performance and, at worst, a wasted effort in configuring explicit application and bandwidth settings. Router makers have taken note, however, and realize that getting optimal network speeds for specific programs has become a much more common requirement.
+
+Many models now offer the ability to configure specific applications and user devices for optimized networking performance. An administrator may elect to prioritize the performance of desktop devices, for example, while not optimizing connectivity for smartphones or tablets. For example, as businesses add cloud-based services, those offerings could be added by name to priority lists, giving them precedence over non-line-of-business Internet connections.
+
+Vendors have also taken a closer look at how WMM and QoS interact and have added intelligence that allows the technologies to co-exist in a much cleaner fashion than before. In the past, a conflict between the two configurations could easily degrade wireless networking performance.
+
+Apps for Mobile Management
+
+Smartphones and tablets in the office are here to stay, and router makers have responded to the upswing with tools that allow for greater functionality and mobile management on a range of devices. Some are just general purpose, like Wi-Fi scanners that can be used as part of the troubleshooting process when installing and positioning router equipment. Administrators can also monitor signal strength, channel contention, and attenuation from any manufacturer's router on their mobile devices. Some apps even allow you to go from room to room, identifying each space and noting the signal strength, allowing different router antenna configurations and locations to deliver optimal performance in each spot.
+
+Seriously Considering Configuring
+
+If you stick with the default settings, you'll certainly get the same router functionality you've come to rely on. But a few minutes spent configuring these advanced features could pay off in real benefits. These high-end options vary from vendor to vendor, of course, so be sure to consider the applications and hardware your router supports.
+
+Once you've made all the necessary tweaks to optimize your router, test your Internet speed below.

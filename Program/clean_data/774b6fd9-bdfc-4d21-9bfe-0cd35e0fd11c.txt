@@ -1,0 +1,15 @@
+Bunch, a newly-launched startup operating out of Berlin, is aiming to be something akin to a “Google Analytics for company culture”. It offers a SaaS to let companies and company teams quantify internal company culture, and then use this data as the basis to screen job candidates to help ensure that they will also be a good fit.
+
+Specifically, by mapping company culture data against that provided by a job applicant, the idea, Bunch founder and CEO Darja Gutnick tells me, is to be able to highlight any potential cultural fit issues that can be teased out during a subsequent interview. The software itself is based on the “organizational culture diagnosis” model developed by Charles O’Reilly from the Graduate School of Business at Stanford University.
+
+Gutnick says that during her time as a researcher and consultant for “high-growth startups”, she realized that a strong company culture is at the core of every successful team. However, creating the right company culture starts with hiring the right people, but it is a challenge for many companies to figure out who really is a fit for their team. Evaluating candidates based on a CV and numerous rounds of interviews alone just doesn’t cut it.
+
+The way Bunch works is as follows: A company signs to the Saas and its teams take a 5-minute culture assessment, based on the O’Reilly model. Then, using the data provided, Bunch creates a culture profile for the company and each of its teams, mapped onto 6 key dimensions: Results-orientation, Adaptability, Collaborative, Detail-orientation, Principles and Customer-orientation. Every new applicant is tasked with taking an automated culture quiz that Bunch checks against the team and company profile.
+
+Using the resulting Bunch report, which details the candidate’s “behavioral tendencies” as well their potential fit with the company, the premise is that hiring managers can make more informed decisions but also use any conflicts as a jumping off point during a subsequent interview to really drill down into how well they integrate or what cultural value they could in fact add.
+
+For example, someone very detailed oriented and rigid might not seem a fit for a fast-moving super early startup, but actually, within a particular team and by being aware of and talking through the potential conflict at interview, it could be the exact attribute a team needs. Or so the thinking goes.
+
+Put differently, Gutnick frames it as shifting the focus away from a candidate’s professional past and towards his/her present state of mind, team fit and work attitudes that impact present and future performance.
+
+“Team diversity in background, education and demographics is helpful and necessary, but when it comes to beliefs and attitudes, alignment is a key success factor resulting in 5x more annual revenue as opposed to companies that are not aligned. By measuring cultural alignment utilising multiple machine learning components, Bunch provides a solution that helps companies select candidates that fit the team, shape their culture early on when hiring and drive its success,” she says.

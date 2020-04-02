@@ -1,0 +1,81 @@
+Advertisement
+
+There are many things you can do to improve your laptop’s battery life 20 Ways To Increase Laptop's Battery Life 20 Ways To Increase Laptop's Battery Life Read More . But is there anything you can do to extend the actual lifespan of the battery?
+
+One often discussed question is whether it’s better to keep your laptop plugged in, or if you should use it on battery power.
+
+Turns out, the answer isn’t entirely straightforward. Let’s take a look.
+
+Know Your Laptop Battery
+
+There are two main types of battery New Technology Halves Cost of Lithium-Ion Batteries New Technology Halves Cost of Lithium-Ion Batteries A new manufacturing approach developed by researchers at MIT and startup 24M could significantly reduce the cost of the batteries while improving safety and durability. Read More used in laptops: lithium-ion and lithium-polymer. Although they are different technologies, they function in broadly the same way, with power being created by the movement of electrons. This flow also helps to keep the battery healthy.
+
+For both types of batteries, the following statements are true (for modern laptops):
+
+A battery cannot be overcharged. There’s no danger of a battery being overcharged if you leave it plugged in all the time. As soon as it hits 100%, it will cease charging and won’t start again until the voltage falls below a certain level.
+
+There’s no danger of a battery being overcharged if you leave it plugged in all the time. As soon as it hits 100%, it will cease charging and won’t start again until the voltage falls below a certain level. Fully discharging a battery will damage it. Having a battery fully discharged for an extended period can put it into a deep discharge state, from which it might never recover.
+
+So, based on this, do we conclude that you should simply leave your laptop plugged in all the time? Not quite.
+
+Advertisement
+
+Things That Damage Lithium Batteries
+
+The truth about lithium-based batteries is that they are inherently unstable. They begin to lose capacity from the moment they are produced, and there are numerous factors that hasten their decline How a Battery Works and 3 Ways You Can Ruin It How a Battery Works and 3 Ways You Can Ruin It The modern battery is featured in so many of our favourite technologies that you could almost be forgiven for not spending time learning about their workings. Read More . These include:
+
+Charge/discharge cycles. Every battery has a finite number of times it can be charged and discharged.
+
+Every battery has a finite number of times it can be charged and discharged. Voltage level. The higher the charge level (measured in volts per cell), the shorter the battery’s life.
+
+The higher the charge level (measured in volts per cell), the shorter the battery’s life. High temperature, over 30 degrees celsius. This can cause irreparable damage.
+
+The last two are the ones that we’re most concerned with here. A comprehensive study by Battery University Battery University: Your Guide To Rechargeable Batteries Battery University: Your Guide To Rechargeable Batteries Read More highlights how voltage level and high temperatures will shorten the life of a battery in isolation, and even more when they combine.
+
+Charge Level
+
+Lithium-ion batteries charge to 4.20V/cell, which amounts to 100% of its capacity. At this level, the battery will have a lifespan of 300-500 discharge cycles.
+
+Every 0.10V/cell reduction in the charge doubles the number of discharge cycles, until the optimum is reached: 3.92V/cell, with 2400-4000 discharge cycles. Unfortunately, at this level the battery is only 58% charged, so the runtime will be little more than half of a fully-charged battery.
+
+Heat
+
+And then there’s heat. Elevated temperatures, typically classified as being over 30 degrees celsius, will shorten the life of a battery irrespective of any other factors. Simply leaving your laptop in your car on a summer’s afternoon is a bad idea.
+
+When the stress of high temperature combines with the stress of high voltage, the effects are even greater.
+
+The Battery University tests showed that a battery stored with a 40% charge at 40 degrees would see its capacity fall to 85% after a year.
+
+Charged to 100% the capacity falls to 65% under the same conditions. For a fully charged battery at 60 degrees the capacity plummets to 60% in just three months.
+
+The evidence seems clear. Keeping the battery permanently charged at 100% will slowly shorten its life. Keeping it at 100% and exposing it to high temperatures will shorten it much quicker.
+
+These high temperatures are not just environmental. Resource intensive tasks such as gaming or video editing will considerably increase heat levels How to Fix an Overheating Laptop How to Fix an Overheating Laptop The greatest threat for your laptop, except for your your coffee mug, is overheating. We show you what you can do about it. Read More , and using the laptop on a pillow or in a poorly designed case will trap that heat as well.
+
+Should You Remove The Battery?
+
+If heat is such a danger, it begs another question. Should you remove the battery altogether when using your laptop on AC power?
+
+Obviously, this isn’t possible on the growing number of laptops that sport sealed batteries How To Care For Your Non-Removable Laptop Battery How To Care For Your Non-Removable Laptop Battery What precautions should you take to ensure your non-removable laptop battery last for as long as possible? Read More .
+
+Where they are replaceable, the answer seems to vary from one manufacturer to the next. Acer, for instance, suggests removing the battery at all times. When Apple produced laptops with removable batteries, it advised against ever taking them out.
+
+It all comes down to the power management setup in the laptop Save Energy & Extend Your Battery Life With Custom Windows Power Plans Save Energy & Extend Your Battery Life With Custom Windows Power Plans Read More . Some may reduce the power when a battery isn’t present, just as some do when the battery level gets low. This could leave you with subpar performance.
+
+If you do choose to remove the battery, ensure that you store it properly. This means charged to between 40% and 70%, and kept at room temperature.
+
+Recommendations
+
+Curiously, the industry as a whole doesn’t seem to have settled on a single answer for the question about whether to use your laptop on AC or battery power.
+
+We’ve seen that Acer recommends removing the battery when on AC power. HP draws the line at two weeks of continuous charging. But Dell says there’s no problem leaving the laptop plugged in at all times.
+
+Apple’s advice is no longer on its website, but you can still read it online. The company recommends against leaving a laptop plugged in all the time. Instead, it suggests:
+
+An ideal user would be a commuter who uses her notebook on the train, then plugs it in at the office to charge. This keeps the battery juices flowing
+
+Leaving your laptop plugged in will not cause short term damage, but if you only ever use it on AC power you’ll almost certainly find that after a year the battery’s capacity has been significantly reduced. Similarly, if you only ever use it on battery power you’ll get through the battery’s discharge cycles quicker.
+
+So, the best solution is something of a compromise between the two: use it on battery power some days, and keep it plugged in on others. And in all cases, you’ll want to ensure it doesn’t get too hot.
+
+How do you use your laptop? What steps do you take to keep your battery lasting for as long as possible? Let us know in the comments.

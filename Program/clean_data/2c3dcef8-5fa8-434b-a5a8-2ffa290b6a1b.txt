@@ -1,0 +1,23 @@
+Free service DoNotPay helps appeal over $4m in parking fines in just 21 months, but is just the tip of the legal AI iceberg for its 19-year-old creator
+
+An artificial-intelligence lawyer chatbot has successfully contested 160,000 parking tickets across London and New York for free, showing that chatbots can actually be useful.
+
+
+
+Dubbed as “the world’s first robot lawyer” by its 19-year-old creator, London-born second-year Stanford University student Joshua Browder, DoNotPay helps users contest parking tickets in an easy to use chat-like interface.
+
+The program first works out whether an appeal is possible through a series of simple questions, such as were there clearly visible parking signs, and then guides users through the appeals process.
+
+The results speak for themselves. In the 21 months since the free service was launched in London and now New York, Browder says DoNotPay has taken on 250,000 cases and won 160,000, giving it a success rate of 64% appealing over $4m of parking tickets.
+
+“I think the people getting parking tickets are the most vulnerable in society. These people aren’t looking to break the law. I think they’re being exploited as a revenue source by the local government,” Browder told Venture Beat.
+
+The bot was created by the self-taught coder after receiving 30 parking tickets at the age of 18 in and around London. The process for appealing the fines is relatively formulaic and perfectly suits AI, which is able to quickly drill down and give the appropriate advice without charging lawyers fees.
+
+Joshua Browder (@jbrowder1) It always brightens my day to receive these emails. I wish the local governments would just follow the rules pic.twitter.com/1gz6NjYSs3
+
+Browder intends to expand DoNotPay to Seattle next. But having started with parking tickets, Browder’s next challenge for the AI lawyer is helping people with flight delay compensation, as well as helping the HIV positive understand their rights and acting as a guide for refugees navigating foreign legal systems.
+
+At the same time, Browder is exploring a developer platform that only requires legal knowledge, not a coding background, which could spawn further useful chatbots to help dispense simple legal advice without exorbitant fees.
+
+At the very least, Browder’s robot lawyer shows that chatbots can be used for more than just ordering pizza or being spammed by news organisations.

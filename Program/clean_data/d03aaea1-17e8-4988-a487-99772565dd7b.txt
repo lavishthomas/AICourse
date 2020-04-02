@@ -1,0 +1,41 @@
+IF pencil marks on some colossal doorjamb could measure the growth of the Internet, they would probably be tracking the amount of data sloshing through the public network that spans the planet. Christened by the World Economic Forum as “the new oil” and “ a new asset class ,” these vast loads of data have been likened to transformative innovations like the steam locomotive, electricity grids, steel, air-conditioning and the radio.
+
+The astounding rate of growth would make any parent proud. There were 30 billion gigabytes of video, e-mails, Web transactions and business-to-business analytics in 2005. The total is expected to reach more than 20 times that figure in 2013, with off-the-charts increases to follow in the years ahead, according to Cisco, the networking giant.
+
+How much data is that? Cisco estimates that in 2012, some two trillion minutes of video alone traversed the Internet every month. That translates to over a million years per week of everything from video selfies and nannycams to Netflix downloads and “Battlestar Galactica” episodes.
+
+What is sometimes referred to as the Internet’s first wave — say, from the 1990s until around 2005 — brought completely new services like e-mail, the Web, online search and eventually broadband. For its next act, the industry has pinned its hopes, and its colossal public relations machine, on the power of Big Data itself to supercharge the economy.
+
+There is just one tiny problem: the economy is, at best, in the doldrums and has stayed there during the latest surge in Web traffic. The rate of productivity growth, whose steady rise from the 1970s well into the 2000s has been credited to earlier phases in the computer and Internet revolutions, has actually fallen. The overall economic trends are complex, but an argument could be made that the slowdown began around 2005 — just when Big Data began to make its appearance.
+
+Those factors have some economists questioning whether Big Data will ever have the impact of the first Internet wave, let alone the industrial revolutions of past centuries. One theory holds that the Big Data industry is thriving more by cannibalizing existing businesses in the competition for customers than by creating fundamentally new opportunities.
+
+In some cases, online companies like Amazon and eBay are fighting among themselves for customers. But in others — here is where the cannibals enter — the companies are eating up traditional advertising, media, music and retailing businesses, said Joel Waldfogel, an economist at the University of Minnesota who has studied the phenomenon.
+
+“One falls, one rises — it’s pretty clear the digital kind is a substitute to the physical kind,” he said. “So it would be crazy to count the whole rise in digital as a net addition to the economy.”
+
+Robert J. Gordon, a professor of economics at Northwestern University, said comparing Big Data to oil was promotional nonsense. “Gasoline made from oil made possible a transportation revolution as cars replaced horses and as commercial air transportation replaced railroads,” he said. “If anybody thinks that personal data are comparable to real oil and real vehicles, they don’t appreciate the realities of the last century.”
+
+Other economists believe that Big Data’s economic punch is just a few years away, as engineers trained in data manipulation make their way through college and as data-driven start-ups begin hiring. And of course the recession could be masking the impact of the data revolution in ways economists don’t yet grasp. Still, some suspect that in the end our current framework for understanding Big Data and “the cloud” could be a mirage.
+
+“I think it’s conceivable that the data era will be a bust for the things people expect it to be useful for,” said Scott Wallsten, a senior fellow at the Technology Policy Institute and the Georgetown Center for Business and Public Policy. Some entirely new use will have to turn up for data to fulfill its economic potential, he added.
+
+There is no disputing that a wide spectrum of businesses, from e-marketers to pharmaceutical companies, are now using huge amounts of data as part of their everyday business.
+
+Josh Marks is the chief executive of one such company, masFlight, which helps airlines use enormous data sets to reduce fuel consumption and improve overall performance. Although his first mission is to help clients compete with other airlines for customers, Mr. Marks believes that efficiencies like those his company is chasing should eventually expand the global economy.
+
+For now, though, he acknowledges that most of the raw data flowing across the Web has limited economic value: far more useful is specialized data in the hands of analysts with a deep understanding of specific industries. “The promises that are made around the ability to manipulate these very large data sets in real time are overselling what they can do today,” Mr. Marks said.
+
+Some economists argue that it is often difficult to estimate the true value of new technologies, and that Big Data may already be delivering benefits that are uncounted in official economic statistics. Cat videos and television programs on Hulu, for example, produce pleasure for Web surfers — so shouldn’t economists find a way to value such intangible activity, whether or not it moves the needle of the gross domestic product?
+
+In addition, infrastructure investments often take years to pay off in a big way, said Shane Greenstein, an economist at Northwestern University. He cited high-speed Internet connections laid down in the late 1990s that have driven profits only recently. But he noted that in contrast to the Internet’s first wave, which created services like the Web and e-mail, the impact of the second wave — the Big Data revolution — is harder to discern above the noise of broader economic activity.
+
+“It could be just time delay, or it could be that the value just isn’t there,” said Mr. Greenstein, who has studied the competitive success of online businesses in media, advertising and retailing.
+
+Perhaps surprisingly, the parallel most tightly embraced by digital futurists — the rise of the electricity grid — is largely dismissed by those who have studied the history of the subject. The idea is that a ubiquitous Internet will make data and “cloud” computing available anywhere, like electricity through a socket.
+
+The numerical comparisons are tantalizing. As illustrated in “The Electric City,” by Harold L. Platt, the booming quantity and adoption rates of electricity flowing on the Chicago grid in the late 19th and early 20th centuries instantly bring to mind those charts showing data growth today.
+
+Despite those similarities, Mr. Platt, a professor emeritus of history at Loyola University Chicago, said it was unlikely that the revolutions unleashed in manufacturing, domestic life, transportation and high and low society by electricity could ever be matched by the data era. “I’d be hard pressed to quickly draw comparisons,” he said.
+
+But even as Mr. Platt, 68, spoke by cellphone from Chicago, fragments of today’s inescapable data flood found him as he received messages from his grown children. “I have to text them or else they won’t answer me back,” Mr. Platt said gamely. “I’m going with the flow.”

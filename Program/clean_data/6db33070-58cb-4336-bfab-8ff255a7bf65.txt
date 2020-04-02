@@ -1,0 +1,129 @@
+With the increase in popularity of real-time web applications, WebSockets have become a key technology in their implementation. The days where you had to constantly press the reload button to receive updates from the server are long gone. Web applications that want to provide real-time updates no longer have to poll the server for changes - instead, servers push changes down the stream as they happen. Robust web frameworks have begun supporting WebSockets out of the box. Ruby on Rails 5, for example, took it even further and added support for action cables.
+
+In the world of Python, many popular web frameworks exist. Frameworks such as Django provide nearly everything necessary to build web applications, and anything that it lacks can be made up with one of the thousands of plugins available for Django. However, due to the way Python or most of its web frameworks work, handling long lived connections can quickly become a nightmare. The threaded model and global interpreter lock are often considered to be the achilles heel of Python.
+
+But all of that has started to change. With certain new features of Python 3 and frameworks that already exist for Python, such as Tornado, handling long lived connections is a challenge no more. Tornado provides web server capabilities in Python that is specifically useful in handling long-lived connections.
+
+In this article, we will take a look at how a simple WebSocket server can be built in Python using Tornado. The demo application will allow us to upload a tab-separated values (TSV) file, parse it and make its contents available at a unique URL.
+
+Tornado and WebSockets
+
+Tornado is an asynchronous network library and specializes in dealing with event driven networking. Since it can naturally hold tens of thousands of open connections concurrently, a server can take advantage of this and handle a lot of WebSocket connections within a single node. WebSocket is a protocol that provides full-duplex communication channels over a single TCP connection. As it is an open socket, this technique makes a web connection stateful and facilitates real-time data transfer to and from the server. The server, keeping the states of the clients, makes it easy to implement real-time chat applications or web games based on WebSockets.
+
+WebSockets are designed to be implemented in web browsers and servers, and is currently supported in all of the major web browsers. A connection is opened once and messages can travel back and forth multiple times before the connection is closed.
+
+Installing Tornado is rather simple. It is listed in PyPI and can be installed using pip or easy_install:
+
+pip install tornado
+
+Tornado comes with its own implementation of WebSockets. For the purposes of this article, this is pretty much all we will need.
+
+WebSockets in Action
+
+One of the advantages of using WebSocket is its stateful property. This changes the way we typically think of client-server communication. One particular use case of this is where the server is required to perform long slow processes and gradually stream results back to the client.
+
+In our example application, the user will be able to upload a file through WebSocket. For the entire lifetime of the connection, the server will retain the parsed file in-memory. Upon requests, the server can then send back parts of the file to the front-end. Furthermore, the file will be made available at a URL which can then be viewed by multiple users. If another file is uploaded at the same URL, everyone looking at it will be able to see the new file immediately.
+
+For front-end, we will use AngularJS. This framework and libraries will allow us to easily handle file uploads and pagination. For everything related to WebSockets, however, we will use standard JavaScript functions.
+
+This simple application will be broken down into three separate files:
+
+parser.py: where our Tornado server with the request handlers is implemented
+
+templates/index.html: front-end HTML template
+
+static/parser.js: For our front-end JavaScript
+
+Opening a WebSocket
+
+From the front-end, a WebSocket connection can be established by instantiating a WebSocket object:
+
+new WebSocket(WEBSOCKET_URL);
+
+This is something we will have to do on page load. Once a WebSocket object is instantiated, handlers must be attached to handle three important events:
+
+open: fired when a connection is established
+
+message: fired when a message is received from the server
+
+close: fired when a connection is closed
+
+$scope.init = function() { $scope.ws = new WebSocket('ws://' + location.host + '/parser/ws'); $scope.ws.binaryType = 'arraybuffer'; $scope.ws.onopen = function() { console.log('Connected.') }; $scope.ws.onmessage = function(evt) { $scope.$apply(function () { message = JSON.parse(evt.data); $scope.currentPage = parseInt(message['page_no']); $scope.totalRows = parseInt(message['total_number']); $scope.rows = message['data']; }); }; $scope.ws.onclose = function() { console.log('Connection is closed...'); }; } $scope.init();
+
+Since these event handlers will not automatically trigger AngularJS’s $scope lifecycle, the contents of the handler function needs to be wrapped in $apply. In case you are interested, AngularJS specific packages exist that make it easier to integrate WebSocket in AngularJS applications.
+
+It’s worth mentioning that dropped WebSocket connections are not automatically reestablished, and will require the application to attempt reconnects when the close event handler is triggered. This is a bit beyond the scope of this article.
+
+Selecting a File to Upload
+
+Since we are building a single-page application using AngularJS, attempting to submit forms with files the age-old way will not work. To make things easier, we will use Danial Farid’s ng-file-upload library. Using which, all we need to do to allow a user to upload a file is add a button to our front-end template with specific AngularJS directives:
+
+<button class="btn btn-default" type="file" ngf-select="uploadFile($file, $invalidFiles)" accept=".tsv" ngf-max-size="10MB">Select File</button>
+
+The library, among many things, allows us to set acceptable file extension and size. Clicking on this button, just like any <input type=”file”> element, will open the standard file picker.
+
+Uploading the File
+
+When you want to transfer binary data, you can choose among array buffer and blob. If it is just raw data like an image file, choose blob and handle it properly in server. Array buffer is for fixed-length binary buffer and a text file like TSV can be transferred in the format of byte string. This code snippet shows how to upload a file in array buffer format.
+
+$scope.uploadFile = function(file, errFiles) { ws = $scope.ws; $scope.f = file; $scope.errFile = errFiles && errFiles[0]; if (file) { reader = new FileReader(); rawData = new ArrayBuffer(); reader.onload = function(evt) { rawData = evt.target.result; ws.send(rawData); } reader.readAsArrayBuffer(file); } }
+
+The ng-file-upload directive provides an uploadFile function. Here you can transform the file into an array buffer using a FileReader, and send it through the WebSocket.
+
+Note that sending large files over WebSocket by reading them into array buffers may not be the most optimum way to upload them as it can quickly occupy to much memory resulting in a poor experience.
+
+Receive the File on the Server
+
+Tornado determines the message type using the 4bit opcode, and returns str for binary data and unicode for text.
+
+if opcode == 0x1: # UTF-8 data self._message_bytes_in += len(data) try: decoded = data.decode("utf-8") except UnicodeDecodeError: self._abort() return self._run_callback(self.handler.on_message, decoded) elif opcode == 0x2: # Binary data self._message_bytes_in += len(data) self._run_callback(self.handler.on_message, data)
+
+In Tornado web server, array buffer is received in type of str.
+
+In this example the type of content we expect is TSV, so the file is parsed and transformed into a dictionary. Of course, in real applications, there are saner ways of dealing with arbitrary uploads.
+
+def make_message(self, page_no=1): page_size = 100 return { "page_no": page_no, "total_number": len(self.rows), "data": self.rows[page_size * (page_no - 1):page_size * page_no] } def on_message(self, message): if isinstance(message, str): self.rows = [csv.reader([line], delimiter="\t").next() for line in (x.strip() for x in message.splitlines()) if line] self.write_message(self.make_message())
+
+Request a Page
+
+Since our goal is to show uploaded TSV data in chunks of small pages, we need a means of requesting a particular page. To keep things simple, we will simply use the same WebSocket connection to send the page number to our server.
+
+$scope.pageChanged = function() { ws = $scope.ws; ws.send($scope.currentPage); }
+
+The server will receive this message as unicode:
+
+def on_message(self, message): if isinstance(message, unicode): page_no = int(message) self.write_message(self.make_message(page_no))
+
+Attempting to respond with a dict from a Tornado WebSocket server will automatically encode it in JSON format. So it’s completely okay to just to send a dict which contains 100 rows of content.
+
+Sharing Access with Others
+
+To be able to share access to the same upload with multiple users, we need to be able to uniquely identify the uploads. Whenever a user connects to the server over WebSocket, a random UUID will be generated and assigned to their connection.
+
+def open(self, doc_uuid=None): if doc_uuid is None: self.uuid = str(uuid.uuid4())
+
+uuid.uuid4() generates a random UUID and str() converts a UUID to a string of hex digits in standard form.
+
+If another user with a UUID connects to the server, the corresponding instance of FileHandler is added to a dictionary with the UUID as the key and is removed when the connection is closed.
+
+@classmethod @tornado.gen.coroutine def add_clients(cls, doc_uuid, client): with (yield lock.acquire()): if doc_uuid in cls.clients: clients_with_uuid = FileHandler.clients[doc_uuid] clients_with_uuid.append(client) else: FileHandler.clients[doc_uuid] = [client] @classmethod @tornado.gen.coroutine def remove_clients(cls, doc_uuid, client): with (yield lock.acquire()): if doc_uuid in cls.clients: clients_with_uuid = FileHandler.clients[doc_uuid] clients_with_uuid.remove(client) if len(clients_with_uuid) == 0: del cls.clients[doc_uuid]
+
+The clients dictionary may throw a KeyError when adding or removing clients simultaneously. As Tornado is an asynchronous networking library, it provides locking mechanisms for synchronization. A simple lock with coroutine fits this case of handling clients dictionary.
+
+If any user uploads a file or move between pages, all the users with the same UUID view the same page.
+
+@classmethod def send_messages(cls, doc_uuid): clients_with_uuid = cls.clients[doc_uuid] message = cls.make_message(doc_uuid) for client in clients_with_uuid: try: client.write_message(message) except: logging.error("Error sending message", exc_info=True)
+
+Running Behind Nginx
+
+Implementing WebSockets is very simple, but there are some tricky things to consider when using it in production environments. Tornado is a web server, so it can get users’ requests directly, but deploying it behind Nginx may be a better choice for many reasons. However, it takes ever so slightly more effort to be able to use WebSockets through Nginx:
+
+http { upstream parser { server 127.0.0.1:8080; } server { location ^~ /parser/ws { proxy_pass http://parser; proxy_http_version 1.1; proxy_set_header Upgrade $http_upgrade; proxy_set_header Connection "upgrade"; } } }
+
+The two proxy_set_header directives make Nginx pass the necessary headers to the back-end servers which are necessary for upgrading the connection to WebSocket.
+
+What’s Next?
+
+In this article, we implemented a simple Python web application that uses WebSockets to maintain persistent connections between the server and each of the clients. With modern asynchronous networking frameworks like Tornado, holding tens of thousands of open connections concurrently in Python is entirely feasible.
+
+Although certain implementation aspects of this demo application could have been done differently, I hope it still helped demonstrate the usage of WebSockets in https://www.toptal.com/tornado framework. Source code of the demo application is available on GitHub.

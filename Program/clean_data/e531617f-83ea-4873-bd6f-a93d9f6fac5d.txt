@@ -1,0 +1,97 @@
+With over 1 billion websites on the World Wide Web today, it comes as no surprise that the domain name you may want to use is already owned by someone else. Luckily, in some cases, the current owner might be willing to part with it — for the right price.
+
+Acquiring a pre-owned domain can have a drastic impact on your SEO efforts, so it is important to approach such a purchase with caution. It is recommended that you do your due diligence — it’s not uncommon for a domain name to have changed hands many times, and just like buying a used car, it’s often difficult to get the full history.
+
+While examining the SERPs and scanning for any spammy links may be a good first step, it’s important to conduct a thorough assessment to ensure that the domain does not have a manual action penalty or warning from Google. There are many small issues that may not initially be cause for concern; however, in aggregate, these problems can seriously hamper your domain’s ability to rank.
+
+If you’ve bought, or are looking to buy, a pre-owned domain, read below for 10 things you should check before proceeding with a site migration:
+
+1. Google Search Console
+
+Obtaining access to the Google Search Console account is critical for analyzing the health of the domain you’re looking to acquire. If you don’t have the credentials to this account, it’s worthwhile to reach out to the current admin and request access. Likewise, if this property hasn’t been set up, you can request for it to be done at this time.
+
+Once logged into the Search Console account, you’ll want to go to Search Traffic > Manual Actions and look for any notes on the account.
+
+You can also click on Security Issues, which will notify you if Google suspects that your website has been hacked.
+
+While you can still make a valid assessment about the domain’s health by performing other checks, it’s highly recommended that you access Google Search Console if possible, since this is the only way to see manual action penalties on the domain.
+
+2. Google Analytics & Bing Webmaster Tools
+
+If you have access to Google Analytics (GA), poke around the account and make note of any abnormal traffic patterns or unusual URLs receiving organic traffic. You can also look at referral traffic to determine if spammy websites are mainly responsible for driving traffic to the site. If the site does not have GA set up, you won’t be able to backfill the data, therefore making this check null and void.
+
+Similar to Google Search Console, Bing Webmaster Tools has a site security section that will alert you about malware, phishing attempts and changes in your sites SSL certificate status. You can also visit the “Page Traffic” report under Reports & Data to assess the top landing pages, much like GA.
+
+3. Site indexation (SERP analysis)
+
+Use the site search operator [site:yourwebsite.com] to conduct a Google search, and check for any spammy or malicious landing pages in the SERPs. You can also add on the search operator [inurl:keyword], replacing “keyword” with red flag terms like “online games,” “gambling,” “porn” and so on.
+
+While Google typically displays a warning in the SERPs when it detects a hacked site, not all content may be flagged. Read here for a more comprehensive look at a hacked site.
+
+4. Blacklist status
+
+Your domain may be blacklisted if there is a history of sending spammy emails, which may in turn lead to your email server’s IP address getting blocked. You can check the Blacklist status of the domain you seek to acquire by using Site Securi.
+
+5. Internal & external linking
+
+One telltale sign of domain misuse is link manipulation. A compromised domain may use overly specific anchor text phrases to link out to other spammy content. In some cases, when hackers want to remain even more elusive, the anchor text will remain unchanged, making link manipulation even harder to detect.
+
+Fortunately, you can use a tool such as Screaming Frog, which allows you to crawl up to 500 URLS for free. Once in the program, click the “outlinks” tab at the bottom to see what a specific URL links to.
+
+When looking at external linking, you can use a tool like Majestic to get a snapshot of the backlink profile. From here, you can take a deep dive into other off-page factors, such as the referring domains which send the most backlinks to the site.
+
+You can even get as granular as seeing which TLDs (top-level domains) your backlinks are coming from. For example, if you have a US-based website and notice that 90 percent of your backlinks are coming from Taiwan, that may be cause for concern.
+
+Similarly, having a disproportionate amount of backlinks coming from one or more sites that may imply that the domain used a pay-to-play strategy to acquire those links, or perhaps the site has been the unfortunate recipient of negative SEO.
+
+6. Anchor text usage
+
+Another important but often overlooked off-page factor is anchor text usage. Anchor text is simply a word or phrase that is hyperlinked and takes a user to your website. Anchor text signals topical relevancy to Google — for example, if you have a page about women’s fleece pajamas, it would be ideal for other sites to link to that page using that phrase or something similar.
+
+If you plan to wipe all content off the domain you are purchasing, these anchor text phrases will lead to 404 pages, thus having no effect on the site. However, if there are any links pointing to the home page that use anchor text that is not in line with your content, it’s recommended you reach out to webmasters to update their anchor text or remove the links altogether.
+
+This could be a problem if numerous sites are linking to the domain you plan to acquire using location-specific anchor text. For example, if you sell women’s designer shoes in the US, and most of the anchor text says “Designer boots Paris,” then you may be sending Google mixed signals and implying that your company is based in France.
+
+7. Local citations
+
+Local citations that reference your business’s NAP (Name, Address and Phone number) are a critical local ranking signal. A citation is whenever your NAP information shows up on another website or directory. Before migrating to a pre-owned website, you should identify all instances of NAP that appear on the web and update them. There are several ways to make these updates:
+
+Identify which, if any, big data providers (e.g., Localeze, Factual, InfoGroup) were previously being utilized. Updating citations via these local content managers allows you to concisely manage your local listings across the web. Reach out to webmasters directly and ask them to update their citations. Perform outreach to gain new local citations.
+
+8. Hosting location
+
+While hosting location is not a direct SEO ranking factor, it’s important to at least make sure your website is hosted in the same country where you do business in. In fact, IP location has been shown to impact page speed, which in turn can impact your site’s SEO performance. You can use an IP location tool to determine your hosting location.
+
+9. Domain Authority
+
+Domain Authority (DA), a proprietary metric coined by Moz, aims to predict the “ranking potential” of your website. In an ideal world, the site you are looking to migrate to would have a higher Domain Authority than your current site. The higher the Domain Authority, the more likely you are to appear in the SERPs.
+
+While the formula for calculating Domain Authority is proprietary, we know that backlinks tend to play the biggest role in growing your DA score.
+
+If you are acquiring a site with a DA lower than yours, know that rebuilding this score will be a long-term effort. You can expect to see some movement around the three- to six-month mark; however, it may take up to 12 months, or even longer, to match your site’s previous DA.
+
+This shouldn’t deter you from migrating to a pre-owned site; however, you will need an ongoing SEO strategy over the course of the next 12 months to make sure you are moving the needle.
+
+10. Page speed
+
+Last but not least, one of the most important factors to benchmark prior to any migration is page speed. There are a host of free SEO tools to help you gauge page speed, such as Google PageSpeed Insights, Web Page Test, and GTMetrix, for those looking to get extra granular.
+
+While page speed will be influenced by your site’s architecture, if you plan to stay on the same CMS (content management system) as the current domain, ensure that you’re using the most up-to-date version before migrating any content. CMS updates typically include patches for any vulnerabilities –- and many CMSes are constantly optimizing for speed as well.
+
+Final thoughts
+
+Once you’ve completed these 10 checks and resolved any issues, you should feel confident to proceed with your domain migration. Before you begin, there are a few important properties you should make sure are set up correctly so you can start collecting data from the get-go:
+
+Next steps:
+
+Google Analytics — Ensure this property is set up correctly, or create if needed. Ensure GA tracking code is firing properly prior to go-live. Do not delete any pre-existing profiles. These should be archived and will serve as a benchmark.
+
+— Ensure this property is set up correctly, or create if needed. Google Search Console — Ensure this property is set up correctly, or create if needed. Make sure you are tracking for both HTTP and HTTPS versions of the site. Check for any lingering penalties or warnings prior to moving forward with the migration. Submit XML sitemap on the day of site launch. File a change of address request. Set country targeting appropriately.
+
+— Ensure this property is set up correctly, or create if needed. Bing Webmaster Tools — Ensure this property is set up correctly, or create if needed. Submit XML sitemap day of site launch. File a site move request.
+
+— Ensure this property is set up correctly, or create if needed.
+
+Once you’ve completed these steps, you are well on your way to a successful migration. For more migration tips and strategies, check out Thomas Stern’s article, “SEO Strategy During A Website Redesign Or Migration.”
+
+Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.

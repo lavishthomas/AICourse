@@ -1,0 +1,33 @@
+Source: Shutterstock
+
+NEW YORK, United States — Fashion has moved much faster in the last few years to adopt newer technologies in ways it firmly resisted for a long time. Whether that is because of influence from Silicon Valley, people who “didn’t get it” exiting the businesses, or perhaps just out of desperation. In any case, things are now moving forward more rapidly on many fronts, but one technology we haven’t really seen employed by fashion companies yet is the blockchain.
+
+Blockchains are the technology behind digital currencies like Bitcoin and Ethereum, and while they involve some rather complicated mathematics and cryptography under the hood, in a usability sense they are just digital ledgers that publicly show a record of transactions having happened.
+
+How does this play into fashion? Well, these blockchains don’t necessarily have to only track financial transactions; they could also be used to securely distribute other information, like where databases of SKUs and other product information, let's call it complex metadata, might be stored. Blockchains are essentially just indexes of standardised information. In a very simple sense, blockchains are community-generated maps.
+
+In light of the ever-present concern about pay-for-play curation, Google’s recent $2.7 billion European Commission antitrust fine and the general lack of innovation around SKUs, an initial fashion product-tracking blockchain application could be revolutionary in a grandly democratising way. It could be employed to create a decentralised marketplace data pool that would be used to feed many different types of new curation and interaction tools, whether online or in-store, preventing companies like Instagram and Google from having too much sway over curation in the long term.
+
+Ideally every SKU produced by every brand would be accessible through the blockchain by any retailer, editor or end consumer. Each "block" in the chain would belong to a different brand, registered through a central but open accreditation portal, and the blocks would merely include reference information on where to find data from a particular brand. The brands themselves would hold and control the data they supply both out to the world and internally to their own employees. Any number of companies and individuals could build tools on top of this foundation technology, which would help users browse and access a variety of public and secure private data. A group of competing tech companies helping brands register and secure their links in the blockchain could easily cover the minimal server costs required for the blockchain network to exist, and some major fashion houses with large IT departments could mirror the data as well, strengthening the network.
+
+To keep it all organised, a standardised universal SKU Metadata Format (SMF) would need to be adopted across the industry. This format could include links to product images, precise sizing data, encrypted instructions for shopkeepers on when to change prices or rearrange displays in a certain way, suggested product keywords to use in e-commerce for SEO, sustainability statistics about individual products, and the universal SMF standard (or Smurf standard, if you prefer) could be updated over time to incorporate new ideas or respond to new information technology requirements across the industry.
+
+May other industries are already using blockchain technology for things like secure trading micro-transactions in the finance industry and clearly documented tracking of encrypted medical records being shared between hospitals.
+
+What this technology can enable in the fashion business is uniform real-time access to updated product information supplied by brands, a universal pathway for retailers to immediately report back to suppliers on things like stock levels and customer feedback, and then who knows what else might come along once something like this new basic building block structure is in play.
+
+Unlike in other fields, there is no IEEE, UL, or ISO type of standards body for fashion-tech, and maybe forming one would be a first step toward eventually reaching new multi-level understanding of what is really going on in the retail marketplace.
+
+In many ways, the fashion industry's disorganisation on things like this is both a failing and a strength. For years the tech savvy people in this business like myself have been amazed at how many different tracking systems are used at all levels, and how disconnected and archaic most of them are. It is high time to take a leap forward on standardisation, and blockchains are how it's getting done in dozens of other industries, so it would seem to be a good time to look into their broader applications for our business more deeply.
+
+Charles Beckwith is director of communications at Save The Garment Center and the host of American Fashion Podcast on MouthMedia Network.
+
+The views expressed in Op-Ed pieces are those of the author and do not necessarily reflect the views of The Business of Fashion.
+
+Related Articles:
+
+Fashion’s Fourth Industrial Revolution
+
+How Automation Is Reshaping Fashion
+
+The Sewbots Are Coming!

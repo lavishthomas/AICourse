@@ -1,0 +1,97 @@
+Today we're excited to make freely available the new Web Developer's SEO Cheat Sheet 3.0.
+
+Ever since the indelible Danny Dover created the original version in 2008, the SEO Cheat Sheet has been downloaded tens of thousands of times by developers and marketers alike.
+
+Countless beginner and advanced SEOs have printed it out, laminated it, and hung it on their walls as a quick reference to the most impactful best practices in search engine optimization. Web developers and software engineers also find it handy to easily reference SEO technical standards.
+
+New for 2015
+
+
+
+Lots has changed in SEO since 2008 (even since 2013 when we published version 2.0.) To keep pace, we updated version 3.0 to reflect best practices in SEO today.
+
+Updated information in several places, most notably in User Agents, Social Metadata, and Mobile Web Development
+
+Eliminated sections with reduced relevance, such as Authorship and Publisher markup
+
+Simplified sections to make them easier to understand, such as User Agents
+
+Made the "best practice" advice clearer and easier to understand throughout
+
+Added entirely new important material such as Schema and Rich Snippets
+
+All together, we incorporated close to 100 new changes in this edition, some big, some small.
+
+If you can wait to dive in and print it out, feel free to download it right now:
+
+Download the SEO Cheat Sheet
+
+Details and SEO information covered
+
+Page one
+
+Important HTML Elements
+
+HTTP Status Codes
+
+Canonicalization
+
+URL Best Practices
+
+Webmaster Tools
+
+Page two
+
+Robot Control Syntax
+
+Important User Agents
+
+Sitemap Syntax
+
+Pagination
+
+Beyond having a page that search engines understand, you want to ensure search robots crawl your site effectively for optimal performance. Use these tips and best practices to avoid unwanted crawling or to stop accidentally blocking important bots from your top pages.
+
+
+
+Page three
+
+Social Metadata
+
+Rich Snippets
+
+Structured Data
+
+After your site is crawled and indexed, you may want to focus on how your content is displayed in search engine results and across social media. Both social metadata and rich snippets can improve your visibility, and structured data can add additional meaning to your content for search engines to understand.
+
+
+
+Page four
+
+Targeting Multiple Languages
+
+Mobile Web Development
+
+As both search engines and users evolve, you likely want to optimize for different devices, or target users of a different region or language. The final page of the SEO Cheat Sheet introduces you to the basics of International and Mobile SEO.
+
+
+
+Additional Resources
+
+Here are all the links to additional resources contained within the pdf.
+
+A bit of history...
+
+Back in 2008 Danny Dover - then an intern at SEOmoz - was frustrated with the lack of SEO information for web developers. Not finding what he needed online, he stayed up all night creating it himself. Here's a screenshot from an early version:
+
+When he arrived at work the next day, he thought he might be in trouble for posting it to the blog. Instead, the Web Developer's SEO Cheat Sheet quickly became one of the most popular post ever published on Moz, and remains so to this day.
+
+Always free, always changing
+
+At Moz, we're dedicated to the principle that SEO knowledge should be free and accessible to all (in contrast to the often secretive nature of search engines and their algorithms).
+
+We also believe in supporting a community that shares and exchanges information for the betterment of all. We've made version 3.0 of the SEO Cheat Sheet the best it can be, and it's been great fun watching it evolve to this point, but we also can't wait for it to change again.
+
+Download the SEO Cheat Sheet
+
+Thanks to everyone in the SEO community who has contributed to this body of knowledge and to all of you who have downloaded and shared the Web Developer's SEO Cheat Sheet to make it a success!

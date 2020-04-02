@@ -1,0 +1,71 @@
+Vikingmaiden88 is twenty-six years old. She enjoys reading history and writing poetry. Her signature quote is from Shakespeare. I gleaned all this from her profile and posts on Stormfront.org, America’s most popular online hate site. I also learned that Vikingmaiden88 has enjoyed the content on the site of the newspaper I work for, the New York Times . She wrote an enthusiastic post about a particular Times feature. I recently analyzed tens of thousands of such Stormfront profiles, in which registered members can enter their location, birth date, interests, and other information.
+
+Stormfront was founded in 1995 by Don Black, a former Ku Klux Klan leader. Its most popular “social groups” are “Union of National Socialists” and “Fans and Supporters of Adolf Hitler.” Over the past year, according to Quantcast, roughly 200,000 to 400,000 Americans visited the site every month. A recent Southern Poverty Law Center report linked nearly one hundred murders in the past five years to registered Stormfront members.
+
+Stormfront members are not whom I would have guessed. They tend to be young, at least according to self-reported birth dates. The most common age at which people join the site is nineteen. And four times more nineteen-year-olds sign up than forty-year-olds. Internet and social network users lean young, but not nearly that young. Profiles do not have a field for gender. But I looked at all the posts and complete profiles of a random sample of American users, and it turns out that you can work out the gender of most of the membership: I estimate that about 30 percent of Stormfront members are female. The states with the most members per capita are Montana, Alaska, and Idaho. These states tend to be overwhelmingly white. Does this mean that growing up with little diversity fosters hate?
+
+Excerpted from * Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are*. HarperCollins
+
+Probably not. Rather, since those states have a higher proportion of non-Jewish white people, they have more potential members for a group that attacks Jews and nonwhites. The percentage of Stormfront’s target audience that joins is actually higher in areas with more minorities. This is particularly true when you look at Stormfront’s members who are eighteen and younger and therefore do not themselves choose where they live. Among this age group, California, a state with one of the largest minority populations, has a membership rate 25 percent higher than the national average.
+
+One of the most popular social groups on the site is “In Support of Anti-Semitism.” The percentage of members who join this group is positively correlated with a state’s Jewish population. New York, the state with the highest Jewish population, has above-average per capita membership in this group.
+
+In 2001, Dna88 joined Stormfront, describing himself as a “good looking, racially aware” thirty-year-old Internet developer living in “Jew York City.” In the next four months, he wrote more than two hundred posts, like “Jewish Crimes Against Humanity” and “Jewish Blood Money,” and directed people to a website, jewwatch.com, which claims to be a “scholarly library” on “Zionist criminality.” Stormfront members complain about minorities’ speaking different languages and committing crimes.
+
+The day that saw the biggest single increase in membership in Stormfront’s history, by far, was November 5, 2008, the day after Barack Obama was elected president. There was, however, no increased interest in Stormfront during Donald Trump’s candidacy and only a small rise immediately after he won. Trump rode a wave of white nationalism. There is no evidence here that he created a wave of white nationalism.
+
+Obama’s election led to a surge in the white nationalist movement. Trump’s election seems to be a response to that. One thing that does not seem to matter: economics. There was no relationship between monthly membership registration and a state’s unemployment rate. States disproportionately affected by the Great Recession saw no comparative increase in Google searches for Stormfront.
+
+But perhaps what was most interesting—and surprising—were some of the topics of conversation Stormfront members have. They are similar to those my friends and I talk about. Maybe it was my own naïveté, but I would have imagined white nationalists inhabiting a different universe from that of my friends and me. Instead they have long threads praising Game of Thrones and discussing the comparative merits of online dating sites, like PlentyOfFish and OkCupid.
+
+And the key fact that shows that Stormfront users are inhabiting similar universes as people like me and my friends: the popularity of the New York Times among Stormfront users. It isn’t just VikingMaiden88 hanging around the Times site. The site is popular among many of its members. In fact, when you compare Stormfront users to people who visit the Yahoo News site, it turns out that the Stormfront crowd is twice as likely to visit nytimes.com.
+
+about the author About Seth Stephens-Davidowitz is a New York Times op-ed contributor, a visiting lecturer at The Wharton School, and a former Google data scientist.
+
+Members of a hate site perusing the oh-so-liberal nytimes.com? How could this possibly be? If a substantial number of Stormfront members get their news from nytimes.com, it means our conventional wisdom about white nationalists is wrong. It also means our conventional wisdom about how the internet works is wrong.
+
+The internet, most everybody agrees, is driving Americans apart, causing most people to hole up in sites geared toward people like them. Here’s how Cass Sunstein of Harvard Law School described the situation: “Our communications market is rapidly moving [toward a situation where] people restrict themselves to their own points of view—liberals watching and reading mostly or only liberals; moderates, moderates; conservatives, conservatives; Neo-Nazis, Neo-Nazis.”
+
+This view makes sense. After all, the internet gives us a virtually unlimited number of options from which we can consume the news. I can read whatever I want. You can read whatever you want. VikingMaiden88 can read whatever she wants. And people, if left to their own devices, tend to seek out viewpoints that confirm what they believe. Thus, surely, the internet must be creating extreme political segregation.
+
+There is one problem with this standard view. The data tells us that it is simply not true.
+
+The evidence against this piece of conventional wisdom comes from a 2011 study by Matt Gentzkow and Jesse Shapiro. Gentzkow and Shapiro collected data on the browsing behavior of a large sample of Americans. Their dataset also included the ideology—self-reported—of their subjects: whether people considered themselves more liberal or conservative. They used this data to measure the political segregation on the internet. How? They performed an interesting thought experiment. Suppose you randomly sampled two Americans who happen to both be visiting the same news website. What is the probability one of them will be liberal and the other conservative? How frequently, in other words, do liberals and conservatives “meet” on news sites?
+
+To think about this further, suppose liberals and conservatives on the internet never got their online news from the same place. In other words, liberals exclusively visited liberal websites, conservatives exclusively conservative ones. If this were the case, the chances that two Americans on a given news site have opposing political views would be 0 percent. The internet would be perfectly segregated. Liberals and conservatives would never mix.
+
+Suppose, in contrast, that liberals and conservatives did not differ at all in how they got their news. In other words, a liberal and a conservative were equally likely to visit any particular news site. If this were the case, the chances that two Americans on a given news website have opposing political views would be roughly 50 percent. The internet would be perfectly desegregated. Liberals and conservatives would perfectly mix.
+
+So what does the data tell us? In the United States, according to Gentzkow and Shapiro, the chances that two people visiting the same news site have different political views is about 45 percent. In other words, the internet is far closer to perfect desegregation than perfect segregation. Liberals and conservatives are “meeting” each other on the web all the time. What really puts the lack of segregation on the internet in perspective is comparing it to segregation in other parts of our lives. Gentzkow and Shapiro could repeat their analysis for various offline interactions. What are the chances that two family members have different political views? Two neighbors? Two colleagues? Two friends?
+
+Using data from the General Social Survey, Gentzkow and Shapiro found that all these numbers were lower than the chances that two people on the same news website have different politics.
+
+PROBABILITY THAT SOMEONE YOU MEET HAS OPPOSING POLITICAL VIEWS
+
+On a News Website 45.2%
+
+Coworker 41.6%
+
+Offline Neighbor 40.3%
+
+Family Member 37%
+
+Friend 34.7%
+
+In other words, you are more likely to come across someone with opposing views online than you are offline. Why isn’t the internet more segregated? There are two factors that limit political segregation on the internet.
+
+First, somewhat surprisingly, the internet news industry is dominated by a few massive sites. We usually think of the internet as appealing to the fringes. Indeed, there are sites for everybody, no matter your viewpoints. There are landing spots for pro-gun and anti-gun crusaders, cigar rights and dollar coin activists, anarchists and white nationalists. But these sites together account for a small fraction of the internet’s news traffic. In fact, in 2009, four sites—Yahoo News, AOL News, msnbc.com, and cnn.com—collected more than half of news views. Yahoo News remains the most popular news site among Americans, with close to 90 million unique monthly visitors—or some 600 times Stormfront’s audience. Mass media sites like Yahoo News appeal to a broad, politically diverse audience. The second reason the internet isn’t all that segregated is that many people with strong political opinions visit sites of the opposite viewpoint, if only to get angry and argue. Political junkies do not limit themselves only to sites geared toward them. Someone who visits thinkprogress.org and moveon.org—two extremely liberal sites—is more likely than the average internet user to visit foxnews.com, a right-leaning site. Someone who visits rushlimbaugh.com or glennbeck.com—two extremely conservative sites—is more likely than the average internet user to visit nytimes.com, a more liberal site.
+
+Gentzkow and Shapiro’s study was based on data from 2004–09, relatively early in the history of the internet. Might the internet have grown more compartmentalized since then?
+
+Have social media and, in particular, Facebook altered their conclusion? Clearly, if our friends tend to share our political views, the rise of social media should mean a rise of echo chambers. Right? Again, the story is not so simple. While it is true that people’s friends on Facebook are more likely than not to share their political views, a team of data scientists—Eytan Bakshy, Solomon Messing, and Lada Adamic—have found that a surprising amount of the information people get on Facebook comes from people with opposing views.
+
+How can this be? Don’t our friends tend to share our political views? Indeed, they do. But there is one crucial reason that Facebook may lead to a more diverse political discussion than offline socializing. People, on average, have substantially more friends on Facebook than they do offline. And these weak ties facilitated by Facebook are more likely to be people with opposite political views.
+
+In other words, Facebook exposes us to weak social connections— the high school acquaintance, the crazy third cousin, the friend of the friend of the friend you sort of, kind of, maybe know. These are people you might never go bowling with or to a barbecue with. You might not invite them over to a dinner party. But you do Facebook friend them. And you do see their links to articles with views you might have never otherwise considered.
+
+In sum, the internet actually brings people of different political views together. The average liberal may spend her morning with her liberal husband and liberal kids; her afternoon with her liberal coworkers; her commute surrounded by liberal bumper stickers; her evening with her liberal yoga classmates. When she comes home and peruses a few conservative comments on cnn.com or gets a Facebook link from her Republican high school acquaintance, this may be her highest conservative exposure of the day. I probably never encounter white nationalists in my favorite coffee shop in Brooklyn. But VikingMaiden88 and I both frequent the New York Times site.
+
+From the book Everybody Lies: Big Data, New Data, and What the Internet Can Tell Us About Who We Really Are . Copyright ©2017 by Seth Stephens-Davidowitz. Reprinted by permission of Dey Street Books, an imprint of HarperCollins Publishers.**
+
+A portion of this article was first published in The New York Times on July 13, 2014.

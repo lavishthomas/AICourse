@@ -1,0 +1,181 @@
+Sign up for our daily recaps of the ever-changing search marketing landscape.
+
+You need more traffic.
+
+More visitors on your site means more impressions, more signups, more purchases — more revenue.
+
+But how do you capture more traffic from search results that are becoming more crowded, more diverse, and evolving in the way they are delivered?
+
+With SEO, of course!
+
+Today, I want to share a process we’ve developed at Siege Media to earn links and visibility, and to increase web traffic for our clients. I’m going to walk through how we built a site’s SEO strategy from the ground up — growing from zero visitors to 100,000 — and share key takeaways that you can apply to your own strategy.
+
+The general outline of our strategy was:
+
+Start slow and take advantage of “easy wins.” Focus on securing a handful of strategic links to important pages. Establish passive link acquisition channels to build momentum. Be intentional about content creation and its impact on search. Level up over time, and target higher-value opportunities.
+
+Let’s dive into the case study.
+
+Note: We had control over every aspect of the site, making it much easier to accurately attribute organic gains to the SEO work we were implementing, as well as to make SEO recommendations every step of the way. I have also anonymized the data to maintain confidentiality for the website.
+
+1. Starting slow with a new site
+
+Starting with a new site, we understood there were limitations.
+
+At the beginning, we focused on opportunities with low competition and decent traffic value. We used SEMrush to determine traffic value and manual research to gauge competition.
+
+Examining the search engine results pages (SERPs), we looked for results with:
+
+bad exact-match domains.
+
+a lack of big name brands.
+
+low-quality or outdated content.
+
+pages with low link counts.
+
+Here is an example of this type of SERP, for [life insurance quotes in California]:
+
+You can see that although some big brands are ranking (State Farm and GEICO), there is also a bad exact-match domain result:
+
+Clicking this link shows the content quality is pretty low:
+
+There are other poor results in the SERP, too:
+
+Finding results with these types of pages would give us confidence that we could easily build something searchers would prefer.
+
+Once we identified potential opportunities, we built best-in-class content targeting those specific SERPs. To separate our content from others in the space we used:
+
+custom-built graphics.
+
+clear, concise, compelling copy.
+
+original photography.
+
+optimal formatting — font size, column width, scannable text and so on.
+
+By building content that would best answer searcher intent and needs, we set our pages up to be successful in the SERPs.
+
+More resources:
+
+2. Securing a handful of links to important pages
+
+Pages need links to rank in search.
+
+But the number of links needed to be competitive depends on the page, site, niche, type of query and so on. Furthermore, search engines have become more sophisticated in how they evaluate links, placing more emphasis on quality and less on numbers.
+
+What we learned from doing this project is that bottom-of-the-funnel pages really only need a handful of quality links to rank well, and from there, positive engagement signals would further validate the page as an authority in the eyes of search engines.
+
+Of course, securing links to bottom-of-the-funnel pages is extremely difficult because these pages typically aren’t link-worthy. The purpose of these pages isn’t to inform or entertain; these pages exist to drive conversions, and that doesn’t usually compel other sites to link.
+
+There are a few situations where serving direct value to your site aligns with the goals of other websites, and link opportunities exist. These opportunities involve hyper-focused link pages that are relevant to your content.
+
+Using the same insurance example, a page like this would represent a hyper-relevant links page for a company that offers pet insurance:
+
+This strategy isn’t sustainable for a long-term, large-scale campaign because these situations are limited. But we learned that you only need to execute on a select handful of these opportunities to be successful with bottom-of-the-funnel pages.
+
+Other opportunities available to bottom-of-the-funnel pages include:
+
+egobait — a specific person, brand, product or service, for example, is mentioned on your page.
+
+unique product or service — resource pages that list the small number of vendors available.
+
+discounts or promotions — the linking site’s audience is eligible for exclusive discounts.
+
+local — resource pages exclusive to local vendors and service providers.
+
+reviews — pages that review your product or service.
+
+You can’t build a sustainable link acquisition campaign with these tactics, but you can secure a few quality links to your converting pages and drive initial engagement for your site.
+
+More resources:
+
+3. Establish passive link acquisition channels
+
+Link building is really hard.
+
+Link acquisition is a manual process that is ongoing, forever. My favorite description of link building came from former Googler Matt Cutts, who defined it as “sweat, plus creativity.”
+
+Because securing links is so difficult — and we knew we needed links to grow traffic — we sought to establish passive link acquisition channels to amplify all our link-building efforts.
+
+Part of our content strategy was to use high-quality, original photography, and this provided a perfect opportunity to attract passive links. Rather than copyrighting or watermarking our photos, we decided to use a Creative Commons license that allowed others to use the photos as long as they linked back to their original source (on our site).
+
+For example, in the screen shot below, Ars Technica is citing the photo they used for their article.
+
+Even massive publications like this need great photos and often turn to Creative Commons or other sites to do that.
+
+Along with having your images cited, other potential ways to earn links organically include:
+
+sponsorships and community involvement.
+
+compiling original data or research.
+
+being interviewed or quoted.
+
+building a unique tool.
+
+The key is to create something original, and then make it easy for others to cite (link to) you as the original source.
+
+More resources:
+
+4. Strategic content creation
+
+Content drives SEO success.
+
+It’s possible to secure a few links to bottom-of-the-funnel pages, but you’ll need middle and top-of-the-funnel content to sustainably capture attention and links.
+
+Creating useful content for your audience is always a sound strategy, but you can take it a step further by being intentional and strategic about the content you publish. We maintained a relentless focus on SEO — creating every page with search, and the opportunities available to us, in mind.
+
+To determine opportunity, we compared SEMrush traffic value against competition level.
+
+Using the “pet insurance” example, we can analyze potential opportunities. For example, this site is ranking number one, which SEMrush estimates is worth $31.2K:
+
+However, it looks like the competition for this SERP is fairly high with strong results such as Canine Journal, Consumers Advocate, Consumer Report and Nerd Wallet.
+
+To find something less competitive, I’ll try [exotic pet insurance], where Nationwide is ranking number one and has a traffic value of $2.9K in SEMrush:
+
+Looking right below the Nationwide result, I can see these pages ranking with bad exact-match domains:
+
+Navigating to the page further validates this is a bad result:
+
+This represents an opportunity to create content that would better serve users and have a great chance to rank.
+
+Along with manually reviewing the search results, you can also use Moz’s Keyword Explorer tool to get an estimate of the competition and difficulty surrounding various terms and phrases.
+
+Of course, investing into creating quality content is important, but the key takeaway for us was the success we saw from being strategic about the SEO impact of the content we created.
+
+More resources:
+
+5. Leveling up over time
+
+Momentum is key in SEO.
+
+As you build traction with your campaign, SEO tends to have a multiplying effect where your results will build exponentially. As you earn more visibility in search, you begin to attract more visitors — and if you satisfy the needs of those visitors, they will keep coming back (increasing traffic), endorsing your website (links) and sharing how great you are with others (social media, blogs, podcasts and so on).
+
+We recognized our site was building momentum, and after six months of work, we started to raise expectations. We began to target more competitive spaces (which we avoided at the start), and because we had built a strong foundation, we were successful.
+
+We established a solid baseline of authority and trust with our site, giving us the ability to compete for higher-value terms. Seeing early returns, we began taking even bigger bets on the content we created — not only investing in original design and photography but also adding interactive elements such as custom tools and video.
+
+For example, in this screen shot you can see the payoff:
+
+We targeted a very competitive, high-volume topic in the summer months of this year, and the result is more all-time highs, beating our previous numbers by a significant margin.
+
+Another strategy that was fruitful was updating and improving old content using “Last Updated” post dates. Whether it be updating copy or adding a video, we found that small updates to existing content helped us in a variety of ways — it provided content freshness, increased click-through rate (CTR) and showed readers the post isn’t outdated.
+
+For example, you can see Brian Dean of Backlinko executing this strategy here:
+
+As we started targeting more competitive terms and earning more visibility, we began seeing significant gains in traffic, eclipsing 100,000 visitors by the end of month 12.
+
+More resources:
+
+Recap
+
+We didn’t use any secret tricks or hacks to grow traffic. Rather, we invested in building quality content, and we implemented various link acquisition strategies to match each stage of the project. As the site grew, so did our expectations and goals.
+
+To recap, here’s our process for growing traffic:
+
+Start slow and take advantage of “easy wins.” Focus on securing a handful of strategic links to important pages. Establish passive link acquisition channels to build momentum. Be intentional about content creation and its impact on search. Level up over time, and target higher-value opportunities.
+
+This is a repeatable, scalable process that we’ve found to be effective. Of course, you will need to tweak and adjust this process a bit to fit your unique situation and needs. However, I hope you can take the key lessons we learned from this project and apply them to your own strategy.
+
+Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.

@@ -1,0 +1,279 @@
+2014 was a year completely dominated by the Mercedes team, with the barest sniff of the title for Ricciardo. But who would have won the title if all cars had been equal? Were the Mercedes drivers the year’s best performers, or would other drivers have looked even better behind the wheel of a Mercedes? That’s a question you could debate for hours. Alternatively, we can pose the question to a mathematical model, such as the one I previously used to estimate all-time driver rankings.
+
+In a nutshell, my model ignores races for each driver where they had non-driver failures (e.g., mechanical DNFs), then uses points per race in each of the remaining races as a performance metric for each season. While this is not a perfect metric (e.g., it doesn’t assign blame for crashes), it does capture one of the most important aspects of driver performance, and it can be easily applied across the board to all historical races without any subjective interpretation. Note that the model uses a scoring system based on the 10-6-4-3-2-1 system and includes fractional points for all lower race positions, allowing it to differentiate between drivers who finish 13th and 19th, for example.
+
+Performance is assumed to be a function of both the driver’s performance and their team’s performance. Using the race results from 1950-2014, the model estimates the performance of each driver and each team so as to statistically best fit the race result data. This is possible because drivers are connected to one another by many different teammates, allowing their relative performances to be estimated.
+
+2014 driver rankings
+
+Using my model, I ranked the driver performances of 2014. Rankings are quantified by the adjusted points per race (ppr) up to a maximum of 10 ppr, as described previously. Each driver is discussed below. Note that the 2014 Marussia team and their drivers Jules Bianchi and Max Chilton were unranked, because to date Chilton and Bianchi have only driven alongside each other, so they cannot be compared to others. All other drivers are connected via common teammates. For the sake of completeness, I note that if we make the crude assumption that Marussia and Caterham were equal in performance in 2014, then the model ranks Chilton 17th and Bianchi 9th.
+
+20. Esteban Gutierrez, 3.97 ppr
+
+This was another disappointing season for Gutierrez. Last year he was outscored 54-6 by Hulkenberg. In 2014, he was closer to level with his teammate, but Adrian Sutil is himself lucky to still be on the grid after being convincingly beaten by Paul di Resta in 2013. With Caterham and Marussia both in peril, there may be nowhere for the Sauber drivers to go next year.
+
+19. Adrian Sutil, 4.46 ppr
+
+Sutil shows very occasional flashes of brilliance — usually at Monaco — but at this stage in his career it’s no longer a matter of waiting to realize potential promise. His lack of outright speed is not helped by the fact that he crashes out of races more often than any other current driver, with 1 crash every 5 starts. Sauber had a car that was capable of scoring points in 2014. They were potentially on offer in Australia, Monaco, Hungary, Singapore, and USA. Through a combination of extremely poor driver performances and unfortunately timed mechanical failures, they finished the year ahead of only Caterham.
+
+18. Kevin Magnussen, 5.26 ppr
+
+Rookies today are often held to the impossibly high standard of Lewis Hamilton in 2007. Formula 1 is a different world now, with preseason testing cut down to just 12 days — that’s 6 days per driver to fully acquaint themselves with a new Formula 1 car, while developing the car and typically losing time to technical problems. Given that, Magnussen’s 2nd place on debut was a stunning achievement. Unfortunately, it proved to be an aberration. That one race was almost a third of Magnussen’s total season points haul. Across the season he was outraced and outscored heavily by Button: 126-55. Magnussen will undoubtedly be stronger if he returns next year, but he now faces significant competition for his seat, both from Button and from the hugely impressive Stoffel Vandoorne.
+
+17. Sergio Perez, 5.29 ppr
+
+In 2014, Force India developed one of their most competitive cars, even leading McLaren for the first half of the season. Perez capitalized on that with a podium ahead of Hulkenberg in Bahrain, but he also threw away easy points in Monaco, Canada, Hungary, and the USA. Ultimately, he was outscored 96-59 by his teammate in a year where he could and should have been much closer.
+
+16. Pastor Maldonado, 5.38 ppr
+
+As always, Maldonado showed impressive bursts of speed, sometimes surprising Grosjean, but his frequent carelessness ruined multiple race weekends. As a positive, Maldonado didn’t crash out of any races in 2014, although he still caused the most egregious collision of the year in Bahrain when he ignored every possible guideline for sensible overtaking.
+
+15. Marcus Ericsson, 5.66 ppr
+
+With only Kobayashi to compare him to, and only 7 races where both Caterhams finished, Ericsson’s rating is still highly uncertain. Kobayashi beat Ericsson 5-2 in their races together, but Ericsson delivered an impressive 11th place at Monaco and seemed to relatively gain on Kobayashi towards the end of the season. Neither Kobayashi nor Ericsson had strong junior careers by Formula 1 standards, so little is expected of them in the long run, but we will have another chance to assess Ericsson next year.
+
+14. Kamui Kobayashi, 5.90 ppr
+
+Ditching his Ferrari affiliation for a year at Caterham now seems like a poor decision for Kobayashi, although you have to respect his desire to return to Formula 1 above all else. He spent much of the year as Caterham’s lead man against Marussia’s Bianchi. With a shortage of seats on the grid next year and a shortage of money on Kobayashi’s part, this is likely the last we’ll see of him.
+
+13. Felipe Massa, 5.93 ppr
+
+On paper, Massa fell short of his targets in 2014, scoring just 134 points to Bottas’s 186 points. In reality, it was much closer than that, as discussed under Bottas’s entry below. Massa was affected by numerous incidents outside of his control, which set him back in the points standings. Taking those into account, he deserves a higher ranking. Massa started the year stronger, Bottas launched into another gear in Spain and led the team through most of mid-season, then Massa came back very convincingly in the last few races. A second year of Massa vs. Bottas will give us a better idea of where these two relatively stand.
+
+12. Sebastian Vettel, 6.16 ppr
+
+Vettel had to come crashing back to Earth some time, just as Fangio did in 1958 following his own four consecutive championships. In Fangio’s case, a confluence of events hurt his competitiveness. Alcohol-based fuels were banned, which hurt Maserati. The rise of better handling mid-engined cars was suddenly making obsolete the front-engined cars in which Fangio had dominated. To make matters worse, Fangio was kidnapped in Cuba and his decision to attempt Indianapolis instead of Monaco completely backfired. In the end, Fangio made only two race starts, finishing 4th each time, which was tremendously disappointing for a driver who won 24 of his 51 race starts and only 6 times finished off the podium.
+
+Vettel faced his own series of challenges in 2014, including a new breed of car that he struggled to come to terms with, a devastatingly quick teammate, a lack of early season mileage, and problems drawing performance from the Pirelli tyres without destroying them. Beating his teammate in only 3 races was a bitter disappointment. While Fangio retired in 1958 at the age of 47, Vettel is still just 27 and will move to Ferrari to answer his critics. But there he risks another hiding to nothing. If he beats Raikkonen, people will likely point to 2014 and say Raikkonen’s past his best. If Raikkonen beats Vettel, people will likely infer that Alonso >> Raikkonen > Vettel.
+
+11. Daniil Kvyat, 6.18 ppr
+
+Kvyat’s 2014 performance is considered just as strong as Vettel’s by my mathematical model, which is rather remarkable. This makes Kvyat the model’s rookie of the year. Kvyat failed to deliver the big points opportunities his teammate did and he had some weekends where he was mystifyingly slow. However, there’s no doubting the potential of a driver who beat Vergne 12-7 in qualifying and equaled him 6-6 in races. If Kvyat can achieve the kind of second-year progression many seem to be expecting of Magnussen, then Ricciardo had better watch out. It might seem cruel to Vergne, but Kvyat’s promise is definitely worth pursuing, even if it ultimately amounts to nothing.
+
+10. Nico Hulkenberg, 6.23 ppr
+
+Hulkenberg remains a difficult driver to assess. His junior results were sublime — he received the highest score of any driver using a junior career metric I previously devised. He took a similar path through junior series as Hamilton, but reached Formula 3 Euro one year earlier. He dominated GP2 as a rookie in 2009 ahead of 9 other future F1 drivers: Grosjean, Perez, Maldonado, Kobayashi, van der Garde, Petrov, d’Ambrosio, Chandhok, and di Grassi.
+
+Given this pedigree, Hulkenberg’s first year performance alongside Barrichello at Williams was somewhat underwhelming. Replaced by the well-financed Maldonado for 2011 (who performed just as well as Hulkenberg relative to Barrichello), Hulkenberg spent a year as reserve driver for Force India before returning to a race seat in 2012. A sabbatical year spent testing worked wonders for a young Fernando Alonso at Renault in 2002, although test drivers in those days could do plenty of… testing. With most mileage now restricted to race weekends, gone are the junior driver testing apprenticeships and the specialist test drivers like Luca Badoer and Pedro de la Rosa.
+
+On his return in 2012, Hulkenberg was beaten by di Resta 6-1 in the first 7 races before he began to turn his season around, dominating di Resta in the later stages. Overall, Hulkenberg narrowly beat di Resta 10-9 in qualifying, 10-9 in races, and 63-46 in points.
+
+Hulkenberg jumped ship to Sauber for 2013, where he thrashed Gutierrez 18-1 in qualifying, 13-2 in races, and 51-6 in points. The comparison to Gutierrez was largely unhelpful in terms of assessing Hulkenberg, given Gutierrez was a rookie with a fairly unimpressive junior record. However, Hulkenberg also showcased his excellent racecraft in 2013 with several jaw-dropping defensive drives.
+
+Perez served as a much better reference point for measuring Hulkenberg’s capabilities: here is a driver who had a slight edge on Kobayashi across 2011-2012 and who got outclassed by Button in 2013. Overall, Hulkenberg beat Perez 12-7 in qualifying, 9-7 in races, and 96-59 in points. Next year will provide additional data on this match-up. The data so far suggest a slight advantage to Hulkenberg, which would perhaps place Hulkenberg just slightly below the level of Button.
+
+With the constant influx of junior talents, Hulkenberg’s chances of getting to a top team are seemingly diminishing. Much like Nick Heidfeld before him, Hulkenberg has proven he is very good, but his case has never been quite compelling enough to select him ahead of proven champions or team-affiliated junior drivers. The next thing Hulkenberg needs to demonstrate is that he can not only perform consistently, but also occasionally achieve something spectacular. After 76 starts, it is surprising that he is yet to achieve a podium. Currently, the model consider him one of the two best drivers in history to never score a podium. The other is Jean-Eric Vergne.
+
+9. Romain Grosjean, 6.30 ppr
+
+Grosjean endured a frustrating year, with many reliability problems and only a few positive results. He finished last season on a high, competing with Raikkonen on level terms and taking regular podiums as Lotus became best-of-the-rest behind Red Bull. However, it was always clear that Lotus were set for a dramatic fall in 2014, given their budget problems, dodgy investors, failure to pay staff, loss of key personnel like Boullier and Allison, and their partnership with the faltering Renault.
+
+Despite the difficult situation, it was a strong performance from Grosjean in 2014. Two eighth places put him ahead of Kvyat in the drivers’ championship, despite a clearly worse car. Overall, Grosjean beat Maldonado 11-4 in qualifying, 5-5 in races, and 8-2 in points. Notably, Maldonado was out of contention both times that Grosjean scored. In Spain, after setting top 10 times in all practice sessions, Maldonado had an astonishingly careless crash in Q1. Then in Monaco, Maldonado had a fuel pump failure just before the start of the race, which either cost him a very good shot at points or saved him a later trip into the barriers, depending on your outlook.
+
+Some might have expected Grosjean to beat his crash-prone teammate by an even greater margin, but Maldonado is considerably quicker than most give him credit for. His junior results demonstrate he is at least capable of mixing it with drivers like Perez. His F1 results emphasize that he is a capable midfield performer. In his rookie year, he was beaten by Rubens Barrichello 10-8 in qualifying, 9-5 in races, and 4-1 in points. For comparison, Barrichello beat the highly-touted rookie Hulkenberg 13-6 in qualifying, 11-7 in races, and 47-22 in points the following year. Maldonado subsequently beat Bruno Senna 15-5 in qualifying, 8-8 in races, and 45-31 in points, then was closely matched with talented rookie Bottas 7-12 in qualifying, 10-7 in races, and 1-4 in points.
+
+Both Lotus drivers will be hoping for a progression into at least midfield next year. While fiscal problems persist and podiums are almost certainly out of the question, the team can at least look forward to Mercedes power in 2015.
+
+8. Kimi Raikkonen, 6.92 ppr
+
+Last year, Raikkonen was widely considered a member of the sport’s elite four, alongside Alonso, Hamilton, and Vettel. It was an appealing narrative that helped fans mentally sort the grid into nice clean boxes. A humbling year for both Raikkonen and Vettel, as well as a close teammate battle at Mercedes, has undermined that simple hierarchy and shown that things are closer and more confusing than ever at the top.
+
+Many fans and pundits were excited to finally see Alonso and Raikkonen in the same car. This was a prospect that had mouths watering as far back as 2003, when Alonso and Raikkonen graced the cover of the September 2003 issue of F1 Racing magazine.
+
+Sadly, it proved to be a very one-sided fight.
+
+Before the season began, my mathematical model predicted a 94% chance of Alonso coming out ahead across the season. The model predicted Raikkonen would score around two-thirds of Alonso’s points. In reality, the end-of-year points tally was 161-55 in Alonso’s favor, suggesting Raikkonen underperformed and/or Alonso overperformed.
+
+Some would say this result was no surprise, given Massa had a slight edge on Raikkonen across 2007-2009 (beating him 25-19 in qualifying, 18-16 in races, and 213-195 in points) and Alonso made mincemeat of Massa. Others would say that Massa was performing at a higher level before 2010. Both arguments have some merit. Interestingly, the model thinks most drivers would have looked just as bad alongside Alonso in 2014.
+
+So which factors have hampered Raikkonen? He had bad luck at Malaysia (hit by Magnussen), Spain (team favoritism), Monaco (collision with Chilton), and Germany (hit by Hamilton), but these races explain very little of the performance gulf to Alonso. Raikkonen also faced the challenge of moving to “Alonso’s team”. However, Ricciardo clearly had no difficulties moving to “Vettel’s team” and Senna had no difficulties moving to “Prost’s team” in 1988, so this also seems an inadequate explanation, especially given the crumbling relationship between Alonso and Ferrari.
+
+An obvious culprit is the F14T. While the car’s terrible handling characteristics are clearly to nobody’s tastes, they play to Alonso’s ability to radically adapt his driving style as needed. Alonso is not infallible in this regard, as his troubles adapting to a new braking system and tyres in 2007 showed, but he seems to have a wider operating window than his teammate, who has previously shown great reliance on a responsive front-end. Raikkonen struggled badly with a new front suspension system at Ferrari in 2008 and had McLaren build him a different front suspension system from Montoya’s in 2005.
+
+According to Raikkonen, he has also struggled to adapt to the more conservative tyres produced by Pirelli after the spate of punctures last year. Pirelli used a new kevlar construction for Germany 2013 then changed the compounds (favoring harder tyres) from Hungary 2013, continuing that trend into 2014 to avoid any potential tyre problems with the new engines. Looking at Raikkonen’s race performances relative to his teammates across that time period lends credence to his claim.
+
+Prior to Hungary 2013, Raikkonen beat Grosjean 21-3 in races (excluding non-driver failures). After the change, Grosjean beat Raikkonen 4-2 in races and Alonso beat Raikkonen 16-1.
+
+Sadly, we won’t see a Raikkonen vs. Alonso rematch, but getting to see Raikkonen vs. Vettel in 2015 is more than adequate compensation. To date, Vettel has faced only one known benchmark across a season (Mark Webber), making it difficult to place him and Ricciardo relative to other current drivers. This new teammate comparison will help shed light on the true hierarchy. Based on overall career performances, the model predicts a small edge to Vettel. Based on 2014 performances, the model predicts a small edge to Raikkonen. It should be a fascinating battle to watch.
+
+7. Nico Rosberg, 6.95 ppr
+
+Prior to 2013, the Rosberg précis was essentially: A big brain behind a reliable pair of hands. He hadn’t distinguished himself with any especially bold moves or outstanding characteristics, nor had he disgraced himself any. His junior results were outstanding and he had some stand-out performances across 2006-2009, but nobody could be sure where he ranked compared to the sport’s best. He gained little more than a pat on the back for crushing the legendary Michael Schumacher, with most putting this down to age-related decline. What went largely unnoticed (but now can hardly be missed) was Rosberg’s blinding speed over a single lap.
+
+Seeing Rosberg up against Hamilton for a couple of years has helped to identify their relative strengths and weaknesses. Hamilton is quite rightly considered one of the sport’s best ever qualifiers, having previously outqualified Alonso 9-8, Kovalainen 26-9, and Button 44-14. Against expectations, Hamilton did not assert dominance over Rosberg in qualifying in either 2013 or 2014. Excluding Germany 2014 and Hungary 2014, the overall head-to-head tally stands at 18-18.
+
+Looking back, Rosberg’s tremendous qualifying pace should have been obvious. As a rookie he was beaten 12-6 by the exceptionally quick Webber, who outqualified every teammate he ever had except Vettel, including a 31-4 drubbing of Coulthard. Rosberg then beat Wurz 15-1, Nakajima 27-9, and Schumacher (arguably the best qualifier of all time in his heyday) 41-17.
+
+My subjective perception in 2014 was that Rosberg excelled in picking patient, exact lines through slow corner complexes, while Hamilton was unbeatable under heavy braking. To test this observation, I recorded each driver’s best sector times for each track (set in any session, and excluding qualifying times for both drivers at Germany 2014 and Hungary 2014), and I recorded the number of heavy braking zones (reductions in speed of at least 150km/h) and the number of slow corners (minimum apex speed less than 100km/h) in each sector.
+
+As you can see below, Hamilton gained net time on average the more heavy braking zones there were in a sector, while Rosberg gained net time on average the more slow corners there were in a sector.
+
+Blue points are individual sectors. Black dots with error bars are mean +/- standard error of the mean. Red lines are linear regressions.
+
+The coefficient of determination is obviously very low for these linear fits, as this is a very complex system with lots of noise that these two variables are not accounting for. The trends are nevertheless suggestive.
+
+Fitting a multivariate linear model shows that Hamilton gained on average 0.030 seconds per heavy braking zone, while Rosberg gained on average 0.011 seconds per slow corner. For all other corners (minimum apex speed of at least 100km/h), Rosberg gained on average 0.003 seconds per corner.
+
+On ultimate pace, there was clearly nothing between the Mercedes drivers. In the 57 track sectors, Hamilton’s best time was quicker in 29 and Rosberg’s was quicker in 28, with a mean advantage of 0.011 seconds to Hamilton. As the cars changed dynamically across a race distance, however, Rosberg looked more fragile and his advantages more transient. Rosberg also made a string of errors in 2014 that looked like poor pressure management, perhaps because this was his first ever championship battle while Hamilton was a seasoned championship veteran. It’s worth remembering that before 2014, Hamilton had 22 wins while Rosberg had only 3 wins.
+
+Despite their contrasting qualities, Hamilton and Rosberg have proven to be two of the closest matched teammates in history. Almost every race between them has been a game of inches. Across 2013-2014, Hamilton was ahead 17-14 in races where neither driver had a mechanical DNF. That tally can be adjusted for cases where one driver experienced misfortune that changed their relative finishing positions — Malaysia 2013 (brake-balance adjuster failure in qualifying and team orders against Rosberg in the race), Britain 2013 (puncture for Hamilton), Korea 2013 (front wing failure for Rosberg), and Belgium 2014 (Hamilton hit by Rosberg) are all clear-cut cases, while Canada 2013 (KERS and radio failure for Rosberg in qualifying), Germany 2013 (Rosberg prematurely eliminated due to team holding him in Q2), Abu Dhabi 2013 (suspension failure for Hamilton in Q3 on his final hot lap), Monaco 2014 (Hamilton’s last lap hampered by yellow flag), and Germany 2014 (brake failure for Hamilton in Q1) are all ambiguous.
+
+It will be fascinating to see how the Mercedes drivers perform next year, especially if they find themselves battling at least one other team for the championship. Will Rosberg go the way of Webber at Red Bull after narrowly missing out in 2010, or will he learn from 2014 and come back even stronger next year?
+
+6. Jenson Button, 6.99 ppr
+
+Jenson Button was a baby-faced 20 year old when he debuted in 2000. He had spent just two years in single-seaters, dominating British Formula Ford in his first year, then claiming 3rd in British Formula 3 and 2nd at Macau in his second year. He was clearly an exceptional talent and was soon being compared to Senna. The Williams team needed a driver to fill a seat while they waited for Montoya to complete his IndyCar commitments, so they signed Button.
+
+No driver had arrived in Formula 1 with so little experience before. The closest was probably Mike Thackwell, who debuted in 1980 aged 19 in the midst of his third year of car racing. Button’s super license application went to committee, requiring 17 votes in favor out of 26 to pass. He received 18.
+
+Many had concerns about Button’s ability to step up from Formula 3 cars with less then 200 horsepower to an 800-horsepower Formula 1 car, but he performed respectably in his first season. This paved the way for Alonso and Raikkonen to enter Formula 1 in 2001 with only two years of experience apiece, and for Max Verstappen to enter Formula 1 in 2015 with only one year of experience. This 2001 article excerpt captures the climate at the time.
+
+Last year, Button — whose level of experience was only slightly higher than Raikkonen’s — provoked similar alarm. Dual world champion Mika Hakkinen predicted that the newcomer was in for a “nightmare four or five years” while he adapted to F1; ex-driver turned commentator Martin Brundle said Button had joined F1 at least two years too early. By the end of the season, however, Button was regularly qualifying ahead of established stars, and is now tipped to one day become a title winner. Many observers of Raikkonen’s brief career deliver equally glowing predictions.
+
+Today, Button is the second oldest driver on the grid. McLaren are considering pulling the plug to make way for new talent, presumably in the form of Kevin Magnussen, or Stoffel Vandoorne if they want to put their support behind the star of their junior team. Certainly those drivers could be signed more cheaply.
+
+Yet there are no signs of decline for Button, nor should we really expect any at age 34. Alonso appears to be at the height of his powers at 33, as was Senna in 1993. Schumacher drove one of his greatest seasons at 35. Prost easily dispatched teammates Mansell at 35, Alesi at 36, and Damon Hill at 38. Given Button’s incredible fitness and his recent results against Hamilton, Perez, and Magnussen, he shows every sign of remaining an elite driver for several years to come.
+
+Button’s stand-out performance in 2014 was surely the Japanese Grand Prix, where he beat both Williams cars by almost a minute and was unlucky to miss the podium. As the statistics show, Button is peerless in the wet. Due to having spent his career in cars of mixed competitiveness, Button’s scoring rate in the dry (6.4 points per dry race, retroactively applying the 25-18-15-12-10-8-6-4-2-1 scoring system) is about half that of Vettel (13.5), Hamilton (12.1), and Alonso (11.2). In the wet, Button scores 50% more points per race (9.5), approaching Vettel (10.7) and Alonso (10.8), who both perform relatively worse in the wet than the dry, and not far behind Hamilton (13.6), who is another phenomenal wet-weather driver. While Button and Hamilton were teammates, they started 12 wet races together. Button won 5, Hamilton won 3.
+
+Magnussen’s results versus Button in 2014 bear many resemblances to Perez’s in 2013. In qualifying, both battles were close: Button was ahead of Magnussen 10-9 (Perez was ahead 10-9). Come the races, Button was faster and more consistent. He beat Magnussen 14-3 in races (he beat Perez 11-5) and he beat Magnussen 126-55 in points (he beat Perez 73-49).
+
+Magnussen undoubtedly had some bad luck, which affected his results. We can account for this by awarding back lost results for both drivers:
+
+Bahrain: No prospect of points for Magnussen, but Button was running 5th when he hit trouble.
+
+Monaco: Magnussen would have been 6th (demoting Button to 7th) without engine trouble.
+
+Germany: Magnussen had the pace to beat Button by about 10 seconds in the race if not for colliding with Massa. Optimistically, that’s 7th place (demoting Button to 9th).
+
+Hungary: Magnussen started from the pits, but ended up right behind Button after the safety car reshuffle, so nothing was ultimately lost there.
+
+Italy: Unlike Malaysia and Belgium, this incident fell within a Unlike Malaysia and Belgium, this incident fell within a rules of racing gray area . Without the penalty, Magnussen would have finished 7th (demoting Button to 9th).
+
+Singapore: Button had the tyres to likely resist Vergne and Perez, so would have finished 6th once Bottas hit trouble (demoting Magnussen to 11th).
+
+Japan: Both drivers required steering wheel changes. Without this, Button would have been running 3rd, but the timing of the red-flag just after his last pit-stop would have left him 5th. Magnussen would have been in good position to beat the Force Indias for 8th.
+
+Russia: Magnussen had a 5-place grid drop but could not have finished higher than 5th.
+
+USA: Button had a 5-place grid drop. Without this, he would have likely finished 9th.
+
+Restoring these results puts Button ahead 13-6 in races and 140-74 in points. As a rookie, Magnussen certainly has potential for improvement, but improving to the level of Button remains a huge task.
+
+5. Jean-Eric Vergne, 7.00 ppr
+
+2014 was a bittersweet year for Vergne. On the one hand, he scored over 70% of Toro Rosso’s points and finally caught some mainstream attention for his excellent racecraft and wet-weather skills. On average, Vergne has scored 3.6 times as many points in the wet (13 points in 5 wet starts) than in the dry (38 points in 53 dry starts), which is the biggest wet/dry discrepancy of all current drivers (Button is next with 1.5 times as many points per wet race). On the other hand, he was overlooked again for a seat at Red Bull and is now losing his Toro Rosso seat.
+
+In the Red Bull junior program, potential greatness is worth more than proven competency. Helmut Marko is therefore willing to gamble until he finds the next Red Bull superstar, even if it means putting talented drivers’ careers on the line (both Vergne’s and Verstappen’s in this case). This is why Frijns turned down the Red Bull program, fearing he might become another statistic. But you miss 100% of the shots you don’t take (which is easy to say when you’re Wayne Gretzky) and Vergne’s fate is certainly still preferable to sitting on the sidelines at Caterham.
+
+Versus Kvyat, Vergne continued to show that qualifying is not his strongest suit, losing the qualifying battle 12-7 to his inexperienced teammate, with the balance of power shifting progressively in Kvyat’s direction as the season went on. However, Vergne tended to have more consistent pace in race trim and showed some extremely feisty racing. He was also one of the only drivers to hold a Mercedes at bay, keeping Rosberg stuck behind him for 19 laps at Hungary, before his tyres finally went over the degradation cliff and Hamilton brilliantly scorched past. Kvyat and Vergne were tied 6-6 in races, but Vergne showed the ability to step up to a higher level when it counted, three times making the top 8. Between that and Kvyat’s unfortunate failure in Abu Dhabi, Vergne was ahead 22-8 in points.
+
+Ricciardo’s astounding season at Red Bull raised two obvious questions: (1) Is Vettel as good as we think, and (2) is Vergne not getting anything like the credit he deserves? After all, Vergne and Vettel both trailed Ricciardo by a similar margin as teammates, as shown below.
+
+In Vergne’s case, he was beaten 29-10 in qualifying, 17-12 in races, and 30-29 in points across 2012-2013, despite Ricciardo having a slight head-start in Formula 1. Ricciardo and Vergne were certainly two of the strongest drivers to ever come through the Red Bull Junior Team. Right now, one looks like a potential Formula 1 champion while the other will be very fortunate to have a seat next year. Such is the way of Formula 1.
+
+4. Valtteri Bottas, 7.13 ppr
+
+Before his 2013 debut, Frank Williams described Bottas as “quite simply one of the most talented young racing drivers I have come across.” On the strength of his junior results, Bottas seemed destined for great things in Formula 1. His first season for Williams was difficult, as most rookie seasons tend to be in this era. Bottas had some stand-out performances, such as qualifying 3rd in Canada, but more often than not he finished races behind Maldonado.
+
+In 2014, Williams achieved an extraordinary recovery, just in time for Bottas’s coming of age. Bottas wasn’t quite able to achieve a race win against the all-conquering Mercedes team, but his six podiums tell us a win can’t be far away, just as Raikkonen’s four podiums in his second season marked his intent. Whether Williams will maintain the same level of competitiveness in 2015 is questionable, since the massive spending power of Ferrari, Red Bull, and McLaren should help them overcome any smaller budget ingenuity given a relatively static rule-set and time to learn from their mistakes. The Mercedes engine advantage, which played perfectly into Williams’ hands, will also likely diminish over time. Nevertheless, a clear 3rd position in the constructors’ championship was extremely impressive.
+
+Since the model makes estimates of team performance, we can directly ask how the points standings would have looked if all teams were running identically skilled drivers — imagine an individual driver cloned 20 times. This allows us to assess which teams overperformed and which teams underperformed.
+
+These estimates suggest that Williams performed right to expectations, while Ferrari massively overperformed and Sauber massively underperformed.
+
+On paper, Bottas was Williams’s leading driver, scoring 58% of the team’s points. In qualifying, it was 11-6 to Bottas (excluding Monaco and Russia where Massa was prevented from setting a representative time). In races where neither driver had a mechanical DNF, it was 10-8 to Bottas.
+
+However, Massa was a magnet for so many problems in 2014 that this match-up requires careful dissection. Here are the issues outside of each driver’s control.
+
+Australia: Massa was taken out at the first corner while ahead of Bottas. He had the pace to be 5th, demoting Bottas to 6th.
+
+China: Massa had a 1-minute pit-stop. Otherwise, he was set for 6th, demoting Bottas to 8th.
+
+Monaco: If not for his engine failure, Bottas would have been 7th, demoting Massa to 8th.
+
+Canada: Massa was taken out by Perez. Otherwise he would likely have been 4th, demoting Bottas to 8th.
+
+Britain: Massa had an unavoidable collision with Raikkonen’s car. He made a terrible start and would likely have lost ~20 seconds moving back through the field. That would have been 5th.
+
+Hungary: The safety car was unfortunate for Bottas, but Massa had slightly better pace anyway.
+
+Belgium: Massa lost an estimated 40 seconds due to tyre debris. He should have been 5th.
+
+Russia: Massa adopted a disastrous strategy to make up for issues in qualifying. Had he started further up, he would have at least jumped Perez and Raikkonen for 9th.
+
+Brazil: Bottas had multiple issues. He should have finished at least 4th.
+
+If we award back these lost results, the new tally is 11-8 to Massa in races and 197-184 to Bottas in points. The Williams drivers were actually very closely matched in 2014. This suggests that Bottas is still some way behind Alonso in absolute terms, given Alonso dominated Massa every year from 2010-2013. But it also means that Bottas’s performance is rapidly on the rise.
+
+3. Daniel Ricciardo, 7.97 ppr
+
+Ricciardo was undoubtedly the breakout star of 2014. In the pre-season build-up, not even Ricciardo fans were seriously entertaining the prospect of their man beating quadruple-champion Vettel. After all, Vettel was fresh off dominating Webber 17-2 in qualifying, 15-0 in races, and 397-199 in points in 2013. Most expected the younger Australian to put up a tougher fight, but the Sky F1 team still predicted a qualifying tally of between 18-1 and 12-7 in Vettel’s favor. What we saw instead was a 12-7 tally in Ricciardo’s favor.
+
+At Toro Rosso, Ricciardo looked phenomenal in qualifying, but there were questions raised by his tendency to lose positions in races, especially given Vergne outscored him 16-10 in their first year together. Ricciardo obliterated any concerns by beating Vettel 11-3 in races and 238-167 in points. The correct interpretation now seems to be that both Ricciardo and Vergne are exceptional race drivers, we just had nobody to compare them against. This interpretation is bolstered by Ricciardo’s strong record as a rookie against Liuzzi in 2011: 5-5 in qualifying and 4-1 in races.
+
+Ricciardo’s race record in 2014 was particularly impressive given his Webber-esque starts. Statistically, he was the worst starter in 2014, losing an average of 1.3 positions on the first lap. He more than compensated for this with some of the year’s keenest racecraft and a superb ability to extract life from the tyres while living with an unstable rear end. Across all uninterrupted stints in 2014 (i.e., no stops triggered by problems or safety cars), Ricciardo averaged 25.1 laps on primes and 17.2 laps on options, while Vettel averaged 22.8 laps on primes and 15.9 laps on options. Ricciardo’s ability to gradually eke performance out of the tyres often made the difference of an extra pit-stop across a race distance.
+
+So what are we left to conclude? Is Ricciardo better than Vettel and is Vergne therefore about as good as Vettel? All three were similarly brilliant juniors, so this is within the realm of possibility. Or was this an anomalous season for Vettel? Top drivers are not immune to downturns in form. Senna suffered one in 1992 when McLaren lost their advantage and he was left watching Williams cars disappearing into the distance. In Senna’s case, he raced more brilliantly than ever the following year. No driver should be definitively judged on a single year.
+
+Examining Vettel’s topsy-turvy relationship with Webber provides additional insights. From 2009-2010, Vettel beat Webber 18-13 in races. From 2011-2013, Vettel beat Webber 43-7 in races. What caused this sudden change in their relative performances? There are two good candidates: Pirelli tyres and changes to the regulations surrounding exhaust configuration that affected diffuser blowing. Webber temporarily regained the initiative in early 2012 when new restrictions on exhaust design reduced Red Bull’s rear stability. In 2014, a single upward-facing tailpipe exhaust was mandated, which completely eliminated the possibility of diffuser blowing. Vettel looks less at home in the new cars with their reduced rear stability, but he himself has stated that no single factor is to blame:
+
+“It’s a combination of things. It’s not saying ‘okay, we lost downforce, we lost blown exhaust’ it’s not that, it’s a combination of things.”
+
+One potentially important factor that has not been carefully analyzed elsewhere is the loss of mileage Vettel suffered early in the season due to an enormous number of failures in practice and races. As Vettel noted,
+
+“What is really puzzling is that I have done so little mileage in a race season. That you could call really extraordinary.”
+
+In today’s Formula 1, drivers are lucky to complete a total of 6 race distances in pre-season testing, meaning they are still learning the car on race weekends. Graphing season mileage for Ricciardo and Vettel highlights the problems Vettel faced. The graphs show the three pre-season tests (PRE), the three in-season tests (T), and two data points for each race weekend (Rn): these are combined free-practice mileage and race mileage, respectively. Due to technical glitches, both drivers completed less than 3 race distances in pre-season testing. Further problems for Vettel dropped him almost 5 race distances behind Ricciardo by the Canadian Grand Prix. Vettel partially closed the difference by the end of the season.
+
+How much did these factors impact Vettel’s performance? Would Vettel have performed better against Ricciardo in a different car? These are questions that can’t yet be confidently answered. We will need to see both Vettel and Ricciardo matched up against different teammates before we can fully understand this year’s performances.
+
+2. Lewis Hamilton, 8.23 ppr
+
+2014 was one of Hamilton’s strongest ever years. In qualifying, he looked unusually vulnerable, but in races he was supremely quick and more composed than ever. The new regulations proved a great boon to Hamilton due to the increased role of energy recovery. Under braking, the rotational kinetic energy of the wheels and the linear kinetic energy of the vehicle is converted into heat and sound by the brakes. At the front wheels, none of this energy is recovered. At the rear axle, some of the energy is harvested by MGU-K (motor generator unit – kinetic) to improve fuel efficiency.
+
+One of Hamilton’s greatest gifts is his brake control — this is the area where he really troubled Alonso in 2007. Hamilton has a fantastic ability to pick the last possible braking point and he’s phenomenally good at feeding out the brake pedal at the correct rate. This allows him to run slightly more rear brake bias than most drivers, as he’s able to judge exactly how much pressure the unloaded rears can handle without locking up. Thus, he can brake incredibly late, setting up overtaking moves that most drivers would find impossible.
+
+The upside of running extra rear brake bias, besides gaining time, is less energy wasted at the front wheels, more energy harvested at the rear axle, and therefore greater fuel efficiency. Time and again, Hamilton’s preternatural feel for the brakes allowed him to go faster than Rosberg while paradoxically using less fuel. Over one lap in qualifying, this wasn’t worth much, but over a race distance it paid dividends. All year, Hamilton seemed to be pushing this advantage to its absolute limits. We saw that in his surprising rear-brake lock-ups at Austria and Brazil, as well as his rear brake failure at Montreal (renowned as one of the most brake unfriendly tracks on the calendar) after the MGU-K system failed.
+
+At most races, Hamilton had a small edge on Rosberg, allowing him to win 11 races to Rosberg’s 5. However, Hamilton’s points advantage over Rosberg was limited by the incredible performance of the Mercedes, because even a relatively poor performance was still usually good enough for 2nd place. With a slightly less competitive car, poor performances would have been more heavily punished and the Mercedes drivers would have more frequently had to engage in combat with other cars, which might have been to the better driver’s advantage.
+
+I decided to use a numerical simulation to test this hypothesis. I modeled a field of 20 drivers, whose race performances are represented by numerical values (higher value = better performance) drawn from a Gaussian distribution (mean = 0, standard deviation = 1), and with each driver having a small (1 in 7) chance of failing to finish each race. To this field, I added 2 drivers, each of whom has their own Gaussian distribution for their race performances with their own average performance value. Both drivers were assigned a standard deviation of 0.2, since this achieved a quantitatively realistic spread in race finishing positions across the season (it would be interesting to consider drivers with unequal standard deviations, but I didn’t do that here). I then added a team performance factor to both drivers’ race performances. These two drivers also had a small (1 in 7) chance of failing to finish each race.
+
+In each simulated race, the finishing order was determined by the numerical order of race performances. I used this method to simulate 10,000 seasons, each of 20 races, for a variety of different settings. I was then able to ask: What is the probability of the better driver scoring more points across the season, and how does this depend on: (a) the performance difference between the two teammates, and (b) the performance of their team?
+
+The results are graphed below. The horizontal axis represents the performance difference between the two teammates, quantified by the probability of the better driver beating their teammate in a race where they both finish. The vertical axis represents the team performance, quantified by the average number of points the team scores across a season with two equal drivers.
+
+The graph shows that when a driver has a 60% chance of beating their teammate in a race, their chance of finishing ahead in the championship is about 60% in a very dominant car (team points ~700), about 75% in a midfield car (team points ~200), and about 60% in a backmarker car (team points ~20). In other words, the stronger driver has the best chance of outscoring their teammate when they are in a midfield or lower midfield team (team points ~100-300). When the car is near the front, championship positions are more affected by random DNFs. When the car is very uncompetitive, championship positions are largely determined by the single best race result in the season, which can involve considerable luck (e.g., Marques vs. Alonso).
+
+1. Fernando Alonso, 9.13 ppr
+
+It has been a remarkable year for Fernando Alonso, reminiscent of Senna’s 1993 or Schumacher’s 1996. The 2014 Ferrari was hopelessly underpowered and difficult to handle. It belonged in midfield, where his world champion teammate spent his season, finishing between 6th and 12th in all but one of his races. Alonso finished in the top 5 eight times and astoundingly almost won in Hungary despite being caught by the safety car just after he had passed the pit-lane. Alonso dragged his car into places it simply shouldn’t have been, routinely battling wheel-to-wheel with Red Bulls and McLarens. In Austria, he even came close to catching Williams in what he described as his best race of the season. Without Alonso’s contribution, the model thinks Ferrari would have been a distant 6th in the constructors’ championship (see Bottas’s entry above).
+
+Before 2014, Alonso’s brilliant career already put him among the all-time greats. The model rates him the 3rd greatest driver since 1950, behind only Jim Clark and Jackie Stewart, and marginally ahead of Michael Schumacher. This year further cemented his legacy. In the same car, he made a world champion look completely ordinary. Overall, Alonso beat Raikkonen 16-1 in races and 16-3 in qualifying. In qualifying, Alonso was on average 0.53 seconds ahead. In races that both finished, Alonso was on average 33 seconds ahead. One has to look back to Prost’s 1986 domination of Keke Rosberg — another Finnish champion struggling to adapt to turbo engines and fuel-saving — to find a double champion duo that delivered such lopsided results.
+
+One of Alonso’s greatest strengths is his ability to manipulate and provoke the car on corner entry, which he exploited to help tame the unruly F14T. Different cars respond to different types of manipulation; Alonso is adaptable enough to employ whichever methods the vehicle demands. In the mid-2000s on Michelin tyres, he mastered an extremely violent turn-in that looked foreign to Formula 1. Rapidly increasing the front slip angle caused a dynamic response, giving the car some initial attitude followed by sudden induced understeer, with the front then sliding on the approach to the apex. If the car bit more than expected, his famously fast hands were ready to catch any oversteer. There’s a superb explanation of this peculiar but massively quick driving style in this article.
+
+With the Pirellis tolerating less slip angle than the Michelins and having a tendency to fall to pieces if provoked too much, Alonso has been gentler in his initial steering input in recent years. However, he has continued to use his feet to manipulate the car on entry. For most of his career, Alonso has had a tendency to briefly tap the throttle (up to about 5-10% throttle) at the end of the braking phase, just before arriving at the apex. This helps to rotate the car into the corner, setting it up for a straighter and therefore faster exit, which is particularly important with the monstrous torque engines of 2014. This is a stylistic choice, which doesn’t suit every car or driver. Ricciardo is another fan of the gentle throttle tap, while Hamilton uses a style more closely aligned with Schumacher’s, progressively releasing brakes, dialing in steering, and easing in throttle to achieve a neutral premeditated slide at the apex all in one fluid movement, rather than jabbing the car into sliding with the throttle. Bottas doesn’t tap the throttle, but gets on it very early, introduces it progressively, and then reacts to any excess oversteer generated on exit. Raikkonen has typically been closer to Hamilton/Schumacher in his throttle application and much prefers a car to respond sensitively to his inputs on corner entry, rather than needing blunt manipulation.
+
+One of the most impressive aspects of Alonso’s season was the lack of any serious errors in a car that frequently brought Raikkonen unstuck. Although Alonso spent the year savagely battling other cars, he made fewer errors than the Mercedes pair, who were usually on their own out front. As shown in the graph below, the model ranks Alonso’s performances over the last several years at Renault and Ferrari a significant margin ahead of his main championship competitors. The difference is comparable to Schumacher’s performance advantage over his competitors in the 1990s.
+
+Interestingly, there are no signs of Alonso slowing down, with stable performances since 2008. The model rates 2014 Alonso’s 2nd best year, narrowly ahead of 2005, 2006, and 2012. The only higher-rated performance was 2009, a year in which Alonso scored all of Renault’s 26 points.
+
+One way of visualizing Alonso’s impressively stable form is to look at how his race performances have varied over time. For each of the six drivers who have been active since 2007, I took all race results relative to their teammates, excluding races where either driver had a mechanical DNF. Using a sliding window 9 races long, I calculated the fraction of races in which they beat their teammate. Alonso’s record is shown below.
+
+Following his difficult start to 2007, where he seemed to have difficulty adapting from Michelin tyres and Hitco brakes to the rounder-profile Bridgestone tyres and the stiffer Carbon Industrie brakes, Alonso has consistently beaten his teammates around 60-100% of the time.
+
+Compare that to Hamilton, whose form seems less stable by comparison. He has gone through three difficult phases over the same time period: late 2007, 2011, and late 2013. Hamilton has always been his own worst enemy, so it will be interesting to observe whether his seemingly heightened maturity will carry forward into 2015.
+
+Vettel’s fortunes have also risen and fallen. While he dominated Mark Webber overall, there were relative dips in 2009, 2010, and 2012.
+
+Rosberg had a slight dip in his performance relative to Nakajima in 2008. He then ran into progressively more difficulties against Schumacher across 2010-2012.
+
+Button had a temporary up-turn in his performances relative to Barrichello in early 2009, which helped carry him to the championship by cashing in on points when Brawn were at their best. Against Hamilton, he had a temporary gain in 2011 as Hamilton slumped. He then dominated Perez in early 2013, but had less of an advantage later in the year.
+
+Finally, Massa showed an enormous relative improvement to Raikkonen in 2008. He then fell progressively backwards relative to Alonso, before relatively gaining on Bottas in late 2014.
+
+Alonso’s very stable form across multiple teams, multiple teammates, and multiple waves of technical changes is phenomenally impressive. If McLaren-Honda can deliver a championship contending car, expect him to be there ready to snatch the title.
+
+Advertisements

@@ -1,0 +1,85 @@
+This post is by Justin Butlion of Yotpo. In this post he describes how Yotpo was able to sign up over 4,000 customers in one month. Justin discusses his key methodology for acquiring customers (which are e-commerce businesses) as well as some thoughtful tips on how to view B2B customers.
+
+The e-commerce space is extremely challenging for B2B marketers because of the high level of fragmentation (millions of e-commerce sites spread out over dozens of platforms), an ever growing number of service providers all fighting for attention, and a market which is in constant flux because of shifts in technology and consumer behavior.
+
+In this post, I cover the marketing strategies and philosophies we used to sign up 4,400 online stores in the month of October.
+
+Understanding the Landscape
+
+Since the e-commerce space is highly fragmented, in order to continue to reach more and more online stores, you need to be available on more and more e-commerce platforms. It has been our ongoing approach at Yotpo to develop integrations for an increasing number of platforms.
+
+In October, we had support for 21 different e-commerce platforms, and we are adding more every month. Supporting so many platforms is a challenge, but each new integration we launch provides us with a host of new marketing channels that we can leverage for increased awareness.
+
+Understanding the nature of each platform and how you can position yourself for maximum exposure is extremely important. A developer friendly, highly organized app marketplace like that of Shopify (image below) is very different from the app marketplaces of OpenCart and CS-Cart.
+
+On some platforms, you’re an app; on others, you are a module. Some platforms have accurate search and filtering in their app stores to help customers find what they are looking for, while others have very old, outdated app stores where your app will get very little exposure.
+
+A major advantage of being spread across so many different platforms is that you quickly learn which platforms work better for you, and this can help you choose where to focus your attention and who you should target with your other marketing activities.
+
+Be Everywhere, All the Time
+
+At Yotpo, we are constantly monitoring chatter about our brand and the e-commerce space in general on a number of forums, Facebook groups, LinkedIn groups, Quora, Twitter, and Facebook. Not only does communicating regularly with the market help us with brand awareness and growth, it also helps us achieve a number of other goals, from gathering feedback of the people who matter most (our active customers) to establishing ourselves as an industry authority.
+
+There are a number of useful tools out there, like Google Alerts, Mention, and SproutSocial that will notify you of ongoing discussions around your brand or area of expertise, and then you can jump in. With the tools that are available today, there is no reason for you not to be active on the platforms where your target market resides.
+
+In the screenshot below, you can see that, even in a foreign language forum (in this case, in the SEOshop forum), you can get great engagement and exposure by creating a dedicated thread related to your product or service.
+
+Continue Optimization
+
+In order to grow from month to month, it is critical to continuously optimize your marketing channels.
+
+There are two different areas where you should be focusing your attention when it comes to channel optimization. The first is your positioning, pitch, and overall appearance (and in our case, it matters within each platform). Everything, from the name of your app, the images you use, your video, and sales pitch, should be tested and tweaked until you find which content helps your page convert best.
+
+The second area where you should be focusing your attention is on the landing pages for all of your different marketing channels. At Yotpo, we have over 20 landing pages set up for the 80+ marketing channels that are driving traffic to our domain. These landing pages have been customized for each of the 21 platforms we support, our viral traffic, and a host of other inbound marketing activities.
+
+The way that we optimize our sign-up funnels is by combining Kissmetrics, Weebly, and Optimizely. These 3 tools help us easily build landing pages, which we then can A/B test with Optimizely. Kissmetrics has been crucial for us because it allows us to segment all our sign-ups by channel, and it helps us to easily identify which channels work best on which landing page.
+
+Remember, sometimes the smallest change can have the biggest impact, so don’t be afraid to make adjustments to everything.
+
+Store Owners are People, Too
+
+As a marketer, it is my goal to create awareness of the service I’m marketing among my target market in the hope that a percentage of them will decide to try my service. At the end of the day, it doesn’t matter what we are selling. We are selling to people, and we need to put our customer in the center of every marketing decision we make. If we approach online marketing with that mindset, then the concept of B2B marketing goes out the window.
+
+In order to convince online store owners to try my product, I have to take a B2C approach in order to achieve the following goals:
+
+Rise above all the noise – There is a content war going on, and if my scope is too narrow, then I won’t be able to leverage content marketing to continuously grow brand awareness. Leverage viral traffic – The network effect within large social networks like Facebook, Twitter, LinkedIn, and others have incredible power to expand awareness. Create context – In order to compete against the thousands of other services, apps, extensions, and modules out there, I need to be able to touch people in a way that B2B marketing struggles to do. Help myself – It is much easier for a marketer to develop strategies and implement them when the target market is real people and not businesses. It makes the job more meaningful, and this is a big deal.
+
+Diversify to the Extreme
+
+The minute you identify the fact that you are trying to convert a real person and not simply an online store, your marketing boundaries expand to a place where it is much easier to diversify. In the month of October, we had 83 different marketing channels that we tracked at Yotpo.
+
+That is a lot of channels to manage, but by taking this approach, we were able to spread our brand awareness to places that the competition hadn’t yet touched. Even though not all of these channels bring a large number of sign-ups, the combined power of all of them does wonders for brand positioning, awareness, and growth.
+
+Below are just some of our “out of the box” channels from our list:
+
+Platform welcome emails Guest blog posts Invite a friend Facebook competition Mention on social media accounts of customers (AKA viral traffic)
+
+The aim should be to generate as many automated or low resource dependent marketing channels as possible and continuously optimize these channels. The channels which bring a negative ROI should be dropped. You should be adding new marketing channels as often as possible.
+
+Strong Relationships are Key
+
+I can’t emphasize enough the importance of maintaining strong relationships with everyone in your ecosystem. The benefits you will gain from continuously strengthening relationships with your partners, customers, and other influencers will make all the difference to your business.
+
+Below are just a few of the amazing benefits we have received as a company thanks to our relationships with major players in the e-commerce space:
+
+One of the first apps to launch in the Tictail app marketplace (we even got mentioned on TechCrunch) Recommended to potential users by the admins of e-commerce forums Quick support from e-commerce platforms when something breaks Guest blogging opportunities Webinars with other e-commerce experts Special mention in newsletters, blog posts, welcome emails, and other marketing channels (continuous communication = top of mind) First to take advantage of paid promotion within a number of e-commerce platforms
+
+The list goes on and on. And if you put in the effort to grow and nurture strong relationships with the individuals in the market that have the influence, you will be positioned much better than your competition, and additional opportunities will come to you.
+
+Use the Language Your Customers Use
+
+Communicating the benefits and strengths of your product should be done with simplistic language, which can be understood by anyone’s grandmother. This is an ongoing process that never stops because markets are constantly shifting and evolving. You shouldn’t be scared to try and explain what you do in different ways until you see what generates the most response. (A higher conversion rate is a response).
+
+In order to communicate effectively with your target market, it is very important that you use the terms, phrases, and explanations that those in your target market use to communicate about your brand. Take notice of how your customers and other influencers are talking about your brand, and start using their phrasing.
+
+In order to achieve massive growth, you have to rely on word of mouth marketing; and your best bet for maximizing the effect word of mouth will have on your growth is adopting the language that will inevitably be used by your brand’s evangelists.
+
+In the image below, you can see 3 reviews written by our users in the Shopify app store. These reviews are good for the ego, and they also are a great source of information for how customers really think about a service and the language they use to describe it.
+
+Conclusion
+
+In October, over 4,400 online merchants joined the Yotpo service with zero advertising dollars spent. We did this by focusing on the person behind the online store and treating them, first and foremost, as a human being that consumes content through blogs, spends time on social networks, and works hard to build their online business so they can live their dream life.
+
+I hope that you have taken a lot from the list of marketing tips, approaches, and philosophies that I have written in this post and welcome you to post below any questions, comments, or feedback you may have.
+
+About the Author: Justin Butlion is the Inbound Marketing Manager of Yotpo. Justin loves to blog about e-commerce, online marketing, web development, and entrepreneurship. Check out his latest posts in the Yotpo blog or contact him directly at justin@yotpo.com.

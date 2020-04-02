@@ -1,0 +1,231 @@
+One of the fundamental new features of Universal Analytics is user-centric measurement. This includes measurement across multiple devices – computers, smart phones, tablets, kiosks, etc.
+
+But this change introduces a number of new challenges for analysts and marketers. In order to do cross device measurement you need to understand some of the challenges and limitation. Let’s begin our exploration of cross device data with a discussion about how it works.
+
+How Cross Device Measurement Works
+
+You’ll recall that most analytics tools set an anonymous identifier to measure users. On websites the JavaScript code creates the identifier and stores it in a cookie. On mobile apps the SDK creates the identifier and stores it in a database on the device. (We call this default ID the Client-ID).
+
+We actually discussed this concept in our Google Analytics Platform Principles course. Skip to 21 seconds for details – but the whole video is helpful :)
+
+The User-ID feature lets you override this default behavior. So rather than letting the tracking code create the a Client-ID, YOU can create and use your own identifier. How do you do that?
+
+Well, your business needs to have some way of identifying users. Don’t worry, most businesses do. A CRM system or customer database usually has a User-ID that you can use.
+
+The important thing is that you can create the technology that moves the ID from your database into your website, app or other digital experience where your users interact with your content.
+
+In the above diagram the company would need to create code that pulls the User-ID from the database, then passes it through the web servers, and finally places it in the Google Analytics Tracking code that appears on the website.
+
+I know – that seems like a lot of work! But a good tech person can make this happen.
+
+After you add all the necessary code, and set up the User-ID feature in Google Analytics, then the actual id value that you supply is sent to Google Analytics with each hit (see my post on hits, sessions and users to learn about all the different hit types in Google Analytics.)
+
+Then, as Google Analytics processes the data, it groups hits with the same User-ID together. It does not matter if the hits come from a website, mobile app or some other device.
+
+In the above image there would be three unique users – one user with a User-ID=1 , one user with a User-ID=2 and one user with a User-ID=5 . Again – it doesn’t matter where the hits come from (mobile, web, kiosk, etc.).
+
+But what about instances when the User-ID is not present? For example, what if the user is not logged in and we can not retrieve the User-ID? Good question.
+
+In this case, Google Analytics will go back to its default behavior and generate it’s own User-ID (again, this is called a Client-ID, because the ID is specific to the client or device). Obviously this ID can not be used to measure across devices as it will only exist on the device where it is set.
+
+But now we have a scenario where a user might have two different User-ID numbers for a single user? Isn’t this going to have an impact on the data? Aren’t we trying to avoid that? This sucks!
+
+Well – it’s not that simple. Let’s talk about something called Session Unification.
+
+Session Unification
+
+The above scenario is very common. You will not always be able to set the User-ID in Google Analytics – even for known users. The result is some hits and sessions will have a User-ID value, and some with an automatically generated User-ID value.
+
+Google Analytics has a feature called Session Unification. When activated, it will unify, or group, hits with the manually set User-ID and hits with an auto-generated User-ID together. This means that Google Analytics can associate some hits that were received prior to setting the User-ID.
+
+Here’s the definition of Session Unification from the Google Analytics Help center (I think it’s pretty good!):
+
+Session unification allows hits collected before the User-ID is assigned to be associated with the ID, as long as those hits happen within the same session in which a specific ID value is assigned for the first time.
+
+This means that Google Analytics will only associate hits collected in the same session AND it must be in the first session where the User-ID is set.
+
+This functionality is sometimes called “stitching” – and it differs from one tool to another.
+
+Google Analytics will not go back in time and stitch every single session from a given user together. I can hear the groans now – and the comparisons to other tools. I hope to write about session unification in a later post. But I think a lot of people that are going to complain about this are missing the point. It’s not “can we stitch data together” it’s “should we stitch data together?”. Rant over.
+
+So how does Session Unification impact the data? Well, to understand that we need to talk about another topic the User-ID View and reports.
+
+The User-ID View
+
+We all know the basic hierarchy of a Google Analytics account. Within your account you can create a number of properties. Under a property you can create a number of views – which were formerly called profiles.
+
+Now you can designate certain views as User-ID views. This means that the view will be filtered and the only data in this view is data that contains hits where you set the User-ID value.
+
+Obviously this view will have less data than a standard view where the User-ID is not enabled. But the idea is that this view will be able to provide deeper insights into how users who are logged in – a VERY valuable segment of your users – interact with your business across multiple devices.
+
+To view all of the data, hits with and without a User-ID, you would use a standard view.
+
+Let’s also consider the scenario from above – when a manually set User-ID is present in some sessions, but not others. The result is that the data from sessions without your User-ID will not be in the User-ID view.
+
+There are also some other significant differences between views that do, and do not, have User-ID feature enabled.
+
+1. Certain metrics are calculated differently. Obviously if a User-ID view contains different data, then certain metrics will be calculated differently.
+
+For example, the number of Users is calculated based on the number of unique User-ID values. This will provide a fairly accurate view of the number of users. It will probably be less than the number of users in a standard view because that that view will also include users where you do not set a User-ID.
+
+2. Cross device reports. This is the HUGE benefit of a User-ID view. These reports provide some awesome insights into how users access your content from multiple devices. More info about the reports below.
+
+3. Limited date range. When working with a User-ID view you can only change the date range to the past 90 days. This is consistent with the standard 90-day user look-back window in other features, like Multi-Channel Funnels and user segments.
+
+Implementing Cross Device Measurement
+
+Implementing the User-ID feature can be involved, depending on your specific infrastructure. Here’s a brief overview of the process.
+
+1. First, you need to “turn on” the user ID feature for a given property.
+
+2. Second, you need to add the actual user ID value to the data collection. For website, this means you need to modify the JavaScript tracking code. For mobile apps you need to change the SDK.
+
+3. Third, create a User-ID view. This is a special data view that includes new reports.
+
+Let’s get into a bit more detail.
+
+1. Enable User-ID Feature
+
+This is really important to read and understand the terms. For example, it’s important to note that you can not use personally identifiable information as the User-ID. This includes an email address, name, etc.
+
+You also really need to take a look at your own privacy policy and make sure it complies with the following:
+
+You will give your end users proper notice about the implementations and features of Google Analytics you use (e.g. notice about what data you will collect via Google Analytics, and whether this data can be connected to other data you have about the end user). You will either get consent from your end users, or provide them with the opportunity to opt-out from the implementations and features you use.
+
+2. Implement User-ID in your Tracking Code
+
+Now for the coding! Go get your nerds and Red Bull! Just kidding.
+
+As I mentioned above, the User-ID value must come from you. You must generate the ID from one of your systems. Once you do that you must place it inside the tracking code. The hard part is writing the code that moves the User-ID from your systems and puts it in {{ USER_ID }} in the code snippets below..
+
+Let’s look at some of the most common code formats.
+
+Adding the User-ID to website tracking
+
+Adding a User-ID to the JavaScript code is fairly easy – it’s a single line.
+
+
+
+ga('create', 'UA-XXXX-Y', 'auto');
+
+ga('set', '&uid', {{ USER_ID }});
+
+ga('send', 'pageview');
+
+
+
+Remember, the User-ID needs to be set before any hits are sent to Google Analytics. So make sure you call the set command before a pageview, event, transaction, etc. is sent.
+
+It’s also recommended that you include the set method on ALL of the pages, not just one page.
+
+See the developer docs for more about JavaScript information.
+
+Adding the User-ID to the Android SDK
+
+
+
+t.set("&uid", {{ USER_ID }});
+
+
+
+See the developer docs for more Android information.
+
+Adding the User-ID to the iOS SDK
+
+
+
+[tracker set:@"&uid" value:{{ USER_ID }}];
+
+
+
+See the developer docs for more iOS information.
+
+For both the Android code and the iOS code, you only need to set the User-ID once. Once it is set once the User-ID will be sent with all subsequent hits. But try to set it before any hit is sent to Google Analytics.
+
+Adding the User-ID to the Measurement Protocol
+
+Adding the User-ID to a measurement protocol hit is actually really easy. All you need to do is add the uid parameter in each hit. So a hit might look something like this:
+
+http://www.google-analytics.com/collect?v=1&_v=j16&a=164718749&t=pageview&_s=1&dl=http%3A%2F%2Fcutroni.com%2F&ul=en-us&uid=hsjfy4782jduyth6k4
+
+Adding the User-ID via Google Tag Manager
+
+A quick note that you can also set the User-ID with Google Tag Manager. You’ll find the setting in the ‘More Settings > Fields to set’. You’ll also need to create a macro to pull the actual User-ID value from a cookie or the data layer.
+
+In addition to adding the User-ID to your data collection code, you must also choose if you want to use Session Unification. See above for more information on session unification.
+
+Now it’s time to add a User-ID view.
+
+3. Create a User ID View
+
+As mentioned above, a User-ID view is a filtered view of your data. It only includes hits in which you have set the User-ID value. This view also contains reports that show cross device usage and other user-centric metrics.
+
+Please note, this view is in ADDITION to the other views that you have for a property. This means that you will need to configure things like goals, filters custom reports, dashboards, etc. on this new view.
+
+That’s really it. I don’t want to oversimplify the implementation. But most of the work is really creating the code that pulls your User-ID from your systems and then places it in the correct tracking code.
+
+Data and Reports
+
+We finally made it, let’s look at some data and figure out how we can use this.
+
+Remember, in all of these reports we’re trying to understand the behavior of our users. And we’re not just looking at the behavior of everyone – we’re looking at the behavior of those users that have self identified. This is really important as this group is naturally very valuable.
+
+User-ID Coverage
+
+Let’s start by understanding what percentage of our users are actually logged in.
+
+Remember, you’ll have two different profiles with data. One profile will just be all of the data, the other will be a User-ID profile that only contains information about logged in users.
+
+The Coverage Report identifies the data that has a User-ID associate with it vs. the data that does not have a User-ID.
+
+Remember, you’re probably not going to get 100% User-ID coverage – unless your online experience requires authentication. But this depends on your specific business and your specific implementation.
+
+You can use this data to get a better understanding of how big your data pool is – will you be making decisions on 1% of sessions or 50%?
+
+Device Overlap
+
+Ok this is where we start to get into the really interesting data. Here’s a visualization that shows the device overlap. That means the percentage of users that use various combinations of devices.
+
+Rather than just looking at how many people use certain combinations of devices, let’s look at the associated revenue from those combinations. Notice that you can change the display using the selector at the top of the chart?
+
+So what’s the actionability here?
+
+Do people who use a certain combination of devices behave differently than others? Are people who use tablet and desktop more valuable than those that use tablet and phone? If so – how do we encourage more of that behavior? Is it via marketing? Changes to the platform?
+
+And don’t forget, you need to add a LOT of context to this data. You need to keep in mind your marketing initiatives along with the user experience that you offer your users on each device.
+
+Device Pathing
+
+Now let’s move on to device pathing. This report shows the device used for a sequence of sessions.
+
+You can look at a specific path prior to, or after, a user action. The action could be a goal conversion, a pageview, a transaction or an event.
+
+What’s the actionability here? Let’s look at a use-case.
+
+If you have a SaaS business you may offer your users a free trial. In this case the user would create an account for the trial and then use your service. At the end of the trial they would need to upgrade to a real account.
+
+The first thing you could do is look at the user’s device behavior after creating their free trial account. Did they perform any specific tasks on a specific device? Was one device more popular than another? If so maybe you can simplify the workflow on that device.
+
+You could also look at the device path at the end of their trial, when they upgraded to a paying account. Did they perform the upgrade on a certain device? Or, more importantly, was the conversion rate higher on on a certain type of device? If so, you might want to simplify or optimize the process on that type of device.
+
+Don’t forget to look back at the Device Overlap report to understand if a certain combination of devices yielded a more valuable customer.
+
+Also notice that there are a lot of ways that you can configure this report to view different paths. One of the most important things to note is that you can not choose specific instances of each item. For example, if a user generates multiple transactions you can not choose a specific transaction.
+
+My suggestion is to create a goal, page or unique event for the most important user actions – the ones that represent the transition from one phase of the customer lifecycle to another. That way you will always be able to see the device path before and after the action.
+
+Device Acquisition Report
+
+Finally we have the Acquisition Device report. This is similar to the Device Overlap report in that it helps you understand the value of users on a certain device. But the difference is that it shows the value based on the first device type.
+
+What’s the actionability here? Do users acquired on a specific type of device generate more value on the same device or on other devices? If so how can you drive more of that behavior?
+
+Segmentation
+
+One final thing to mention. You may have noticed that you can apply segmentation to all of these reports. Segmentation will work the same in these reports as it does in all other GA reports.
+
+If you create a session based segment then Google Analytics will show all the paths that include a session that meets your criteria.
+
+If you create a user based segment then Google Analytics will show all of the paths generated from users that match your criteria.
+
+Did you make it to the end? I hope this post gave you some insights into how Cross Device Measurement works. There’s going to be a lot of chatter about User-ID and cross device measurement – some positive, some negative. And I have a lot more to say – but this post is long enough!

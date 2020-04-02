@@ -1,0 +1,7 @@
+There was a time when embedded system developers didn’t need to worry about graphics. When you have a PIC processor and two-line LCD, there isn’t much to learn. But if you are deploying Linux-based systems today, graphics are a real possibility. There are many options for doing Linux graphics including Wayland, X11, and frame buffers. Confused? This tutorial can help. The sections on Wayland and Mir are under construction, but that’s probably not what you are going to be using on a typical hacker project for the foreseeable future, anyway.
+
+Of course, even inside those broad categories, you have multiple choices. If you are doing X11, for example, you can go low-level or pick any of a number of high-level libraries.
+
+The tutorial assumes you understand C and basic Linux programming. It has two sections, really. One on how to plot points on the screen and another that covers basic graphics algorithms for drawing things like circles. We’d be interested in some benchmarks about the relative performance between the different raw drawing methods.
+
+If you have a graphics-intensive application, the Raspberry PI 3 isn’t too bad. However, you can get dedicated hardware that will do better. You can even roll your own if you are so inclined.

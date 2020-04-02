@@ -1,0 +1,83 @@
+In this blog series, we shed some light on our marketing approach at The Next Web through Web analytics, Search Engine Optimization (SEO), Conversion Rate Optimization (CRO), social media, and more.
+
+A couple of weeks ago I was at MeasureCamp London and shared how we’re dealing with custom data The Next Web’s Google Analytics setup. As I couldn’t share the whole presentation I’ve decided to write more in depth about it.
+
+This particular piece focuses on the calculated metrics feature in Google Analytics (360), which we use to create metrics that don’t exist by default in GA. We’ll be sharing 24 recipes and examples on how we use them at the moment.
+
+What are Calculated Metrics?
+
+The Google Analytics Help Center puts it best:
+
+“Calculated Metrics are user-defined metrics that are computed from existing metrics and drive more relevant analyses and enable greater actionability without leaving the product.”
+
+So for example if you want to know the percentage of people that don’t bounce – Non Bounces – you’ll have to create this metric yourself. As you can use them in your (custom) reports, they’re very useful for things that aren’t available as a metric by default.
+
+What are we using them for?
+
+As we track so much information about readers, it’s important for us to make a clear distinctions between Users, Sessions, and Pageviews, as well as what their impact is on a visitor. As some default metrics are only based on Sessions or Users, we sometimes want to calculate them as well on a Pageview or Session basis. By doing this we get more insight in what happens during each stage of a user’s life cycle.
+
+The 24 examples of Calculated Metrics
+
+So let me share the 24 calculated metrics that we have in our set-up. The format that I’ll try to explain this in is: {Name of the Calculated Metric} – {Format of the Metric} – {Type of the Metric}. Followed by an explanation of what it will provide us with and how we use it.
+
+Avg. Cost per Session: {{Cost}} / {{Sessions}} – Currency (Decimal)
+
+At times when we run PPC campaigns we want to know what the costs per session are. The metric CPC sometimes isn’t accurate enough when there are multiple sessions per User. Avg. Engagement: {{Total Engaged Time}} / {{Page Views}} – Time
+
+Engagement on Page is very important for us. By dividing it by Pageviews we have a better insight in how long somebody is staying on a typical page per session. Avg. Events Per Session: {{Total Events}} / {{Sessions}} – Float
+
+By sending over 750 million events to Google Analytics monthly we want to know how many events that is per Session so we can either use it for engagement analysis and to track our limits of our Google Analytics account. Avg. Events Per User: {{Total Events}} / {{Users}} – Float
+
+Same metrics as the one above, but as a User can do multiple sessions, we also want to know how many events that is per individual. Avg. Order Value (No Shipping / Tax): ( {{Revenue}} – {{Delivery}} – {{Tax}} ) / {{Transactions}} – Currency (Decimal)
+
+As you send along tax + shipping costs, we want to make sure we capture the actual average order value, which is the number with these fees subtracted. Avg. User Duration: {{Session Duration}} / {{Users}} – Time
+
+Easy one – how long is a User staying on The Next Web. Normally you could only use the Session Duration or the Time on Page, but it’s not possible on a User level. Cost of Acquisition: {{Cost}} / {{Revenue}} – Currency (Decimal)
+
+The acquisition costs for the revenue that we’re making. Customer Lifetime Value: {{Revenue}} * ( {{Transactions}} / {{Users}} ) – Currency (Decimal)
+
+The amount of time a User spends with us and their value due to that. Effective Revenue Share: {{Cost}} / {{Revenue}} – Percent
+
+The acquisition costs for the revenue we’re making, but this time as a percentage. Non-Bounce Rate: ( {{Sessions}} – {{Bounces}} ) / {{Sessions}} – Percent
+
+The percentage rate of people who bounce is obviously already one of the most important metrics. But we also wanted to know the opposite percentage – how many people don’t bounce. Non-Bounces: {{Sessions}} – {{Bounces}} – Integer
+
+The same metric, but this time as an integer. Non-landing pages pageviews: {{Unique Page Views}} – {{Entrances}} – Integer
+
+The landing pages report is awesome for measure traffic to a page, but sometimes in a content report you also want to know how many Pageviews came from internal sources or how many Pageviews came from somewhere else. Pages / User: {{Page Views}} / {{Users}} – Float
+
+Pageviews per Sessions is a default metric. But as a publisher we’d like to know how many Pageviews a User is doing in total so we can calculate at some point what his/her loyalty is. Publisher Revenue per User: ( {{AdX Revenue}} + {{AdSense Revenue}} ) / {{Users}} – Currency (Decimal)
+
+Publisher Revenue is the actual revenue from Adx (our backfill ad network) + AdSense revenue (the work we momentarily use for AMP). Divided by the number of Users provided this decimal currency tells us with how many we make on backfill per User. Return On Investment: ( {{Revenue}} – ( {{Cost}} + ( {{Revenue}} / 2 ) ) ) / ( {{Cost}} + ( {{Revenue}} / 2 ) ) – Percent Revenue (No Shipping / Tax): {{Revenue}} – {{Delivery}} – {{Tax}} – Currency (Decimal)
+
+Similar to a previous metric, but we want to know what our revenue is subtracting shipping costs and tax. With this number we know the actual revenue for The Next Web much more accurately. Revenue after Refunds: {{Revenue}} – {{Refund Amount}} – Currency (Decimal)
+
+Revenue isn’t revenue when you have to deal with refunds. By subtracting that from the actual revenue we know how much money we really make. Revenue per Session: {{Revenue}} / {{Sessions}} – Currency (Decimal)
+
+How much we make on average based on a sessions. A great metric to use when you’re analyzing PPC campaigns. Revenue per User: {{Revenue}} / {{Users}} – Currency (Decimal)
+
+How much revenue we make based on the number of Users. An important metric, as we have so much reach but don’t make that much on a User metric. If this metric goes up overtime we know we do our works well as marketers + sales people. Sessions / Clicks: {{Sessions}} / {{Clicks}} – Float
+
+Checking if our tracking is working correctly when we report more sessions then clicks or the other way around. An important one for PPC campaigns. Sessions / User: {{Sessions}} / {{Users}} – Float
+
+How many sessions a User does on average. Always above 1 obviously, but when this number increases it says a lot about the loyalty + retention of our users. A simple metric but unfortunately not a default one. Total Events / Unique Events: – Float
+
+If you send over 750 million events monthly, a lot of them will be duplicates. So we want to know how many we send are unique. Transactions per User: {{Transactions}} / {{Users}} – Float
+
+Makes sense hopefully – how many transactions a User is doing on average. User Ecommerce Conversion Rate: {{Transactions}} / {{Users}} – Percent
+
+Ecommerce Conversion Rate is by default calculated based on Session Level. But if a User is doing multiple conversions we want to know what his/her conversion rate is. For us as a publisher the User is more important than the Sessions.
+
+What’s next?
+
+Already by going through this list I came up with new ideas for calculated metrics that we want to track.
+
+One of things that you might have noticed is that we don’t have that many calculated metrics yet to figure out the revenue per user based on publisher advertising (via DFP). Currently our set-up between the two isn’t amazing yet, which causes a lot of Publisher Revenue data to be incorrect.
+
+This has to do mostly with our set-up on the side of DFP. Once we get them fixed permanently we’ll be doing more and more reporting on revenue from a Google Analytics perspective. So expect an update on this in a couple of months!
+
+So now we shared our calculated metrics, what metrics are you missing? Which ones are you using in your own Google Analytics setup?
+
+If you missed previous posts in this series, don’t forget to check them out: #1: Heat maps , #2: Deep dive on A/B testing and #3: Learnings from our A/B tests, #4: From Marketing Manager to Recruiter, #5: Running ScreamingFrog in the Cloud, #6 What tools do we use?, #7: We track everything!, #8: Google Tag Manager , #9: A/B Testing with Google Tag Manager, #10: Google Search Console, #11: 500 Million Search Results and #12: How are you engaging with this page?, #13: Supporting Schema.org
+
+Read next: Always get free airport Wi-Fi with these simple tricks

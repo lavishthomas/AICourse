@@ -1,0 +1,63 @@
+There’s no question that Google Analytics is an essential tool to understanding your digital audience. It allows you to dig deeper into the types of content they interact with, the platforms they engage on, and the path that leads to a conversion. Businesses large and small can take advantage of these benefits, giving them the data to adjust their marketing plan as needed and make the best use of their budget.
+
+In 2014 over two-thirds of Fortune 500 companies utilized Google Analytics as part of their data collection and marketing strategies, a 6% increase from 2013. Across companies of all sizes, over half of businesses utilizing web analytics software rely solely on Google Analytics. Despite competition from Adobe, Webtrends, and many others, it’s hard for these data providers to stack up to all that Google Analytics offers (let alone for free at the basic level).
+
+It’s hard to believe, but Google Analytics has already been around for 10 years! Despite the fact that we’ve had access to such valuable data for all these years, there are constantly new or updated features and reports hitting the platform.
+
+While regular Google Analytics users are probably well-versed in the “Audience” and “Acquisition” reporting tools, there are so many other features that tend to go untouched or unnoticed. These are tools that could completely transform how you manage your digital presence moving forward. Even if you’re among the most avid of users, here are five Google Analytics features that you may not be as familiar with.
+
+When analyzing how your web pages are performing, it’s easy to sort the table by bounce rate or by the number of pageviews. You simply have to click that attribute’s heading and you’re good to go. However, just sorting by one factor or another doesn’t give you the whole picture. Organizing the pages by bounce rate won’t necessarily put your pages in order by traffic volume, but sorting by pageviews won’t take bounce rates into account.
+
+This is where the Weighted Sort option can help. This feature allows you to see which pages have both a high traffic volume and high bounce rate, identifying where a good majority of your missed conversion opportunities may lie. To do this is really simple. On any table, click the “Bounce Rate” column header to sort the rows. Then, click the dropdown next to “Sort Type” and choose “Weighted.” The first web page you see in the list is likely the first place you should start when evaluating both design and content elements of your site, as it has one of the highest bounce rates as well as pageviews.
+
+Figuring out why users are leaving your site from this place is crucial. Are they unsure about next steps for contacting you or making a purchase? Are they turned off by the layout or design of your website? Or have they simply found all of the information they need at this time? Utilizing the Weighted Sort option is an important first step to making these discoveries.
+
+Practically every website nowadays has a search bar for users to narrow down what they are looking for and expedite the search process. Not only is having this feature available to visitors important, but acknowledging exactly what they’re looking for and why is equally valuable. The Site Search feature in Google Analytics can help you understand all of that. Through this tool, you can see which products or services are most important to your audience as well as whether or not your website is easy to navigate.
+
+To start using Site Search, go to the Admin section of your account and click on “View Settings” under the website you would like to begin tracking.
+
+Then scroll to the bottom of the page and turn the switch on. Once the setting is on, the two fields below will appear. You will need to enter your website’s search parameters into the text box in order to extract the search term(s) from the custom URL.
+
+Then scroll to the bottom of the page and turn the switch on. Once the setting is on, the two fields below will appear. You will need to enter your website’s search parameters into the text box in order to extract the search term(s) from the custom URL.
+
+Search parameters are the letters or words that precede a query in the URL. For example, a search for Google Analytics-themed blog posts in Kissmetrics’ search bar brings you to https://blog.kissmetrics.com/?s=google+analytics, so the search parameter would be the portion that is highlighted. All you have to do is enter those characters into the Query Parameter section, and everything but the specific search terms will be filtered out when you go to view the report.
+
+Once the tool is turned on and tracking, you’ll find your data under the Site Search segment of the Behavior section. You can filter the data by unique search terms, time spent on the site after a search, and the number of pages viewed following the search.
+
+This will help give you greater insight into the typical paths your visitors take once they’ve searched for a particular product or service, helping you better organize your website’s content and personalize future marketing efforts by understanding what a user is looking for.
+
+Remarketing is a valuable tactic in a marketer’s arsenal, allowing you to reach back out to potential customers that didn’t convert the first time around. Whether your initial marketing message was off, they didn’t gather enough information to make a decision, another company was recommended to them, or they weren’t in a buyer frame of mind yet, remarketing is your second chance at converting them into a customer. It’s a great way to make the most of the audience you have, without having to invest more into your marketing budget to attract an even wider pool of consumers.
+
+The Remarketing Lists feature in Google Analytics works together with your AdWords account to help you build lists of prospects that you can target with future campaigns. That being said, you cannot utilize this feature without having an active AdWords account.
+
+To get started, go to the Admin section of Analytics and click on “Remarketing” under the Property column.
+
+Then click “Audiences” in the dropdown that appears to begin creating your own custom audiences. You can either let Google select your audience through a Smart List, or you can create your own based on new or returning users to your site, as well as those who visited a particular page, completed a goal, or made a purchase.
+
+Once you’ve created one or more audiences, you can then add them to future ad campaigns in AdWords. Google Analytics does limit you to 2,000 remarketing audiences per account, but it’s highly unlikely that you’ll reach this threshold.
+
+Within the “Flow Visualization” section of Google Analytics, there are several reports that shed light on the specific path each user takes through your website to ultimately end up at their final destination. You can see where visitors may have abandoned their original path to pursue something else, went back to a previous page to get more information, and where they bounced from your site (and most importantly, if a conversion was recorded).
+
+The Funnel Visualization report focuses on how your Goals perform overall, measuring conversion rate over time. This feedback allows you to further analyze the Goals that you’ve set for your company in Google Analytics, and determine whether they meet the mark or should be reevaluated. To find this tool, go to the Conversions dropdown and click on “Goals.”
+
+You can view each Goal’s conversion rate over the course of a day, week, or month, allowing you to zoom in on the impact of a particular campaign or see how your efforts have worked throughout the month. Looking at the sample graph above, you can see that the goal of “Request Consultation” peaked towards the end of the 7-day period on September 27th.
+
+You should compare this to your marketing efforts on that specific day to dig into why you saw this spike. Did you promote a new blog post or product offering on social media? Did you send out an email to your subscriber list? What was it about that day that stood apart from the rest of the week? Since the 27th fell on a Sunday this year, maybe that was the best time for consumers or business owners to take the time and fill out your contact form. The Funnel Visualization report is a great way to get your marketing team talking to see what strategies have the greatest impact on that particular goal.
+
+This feature also helps you see which Goals are working well and which ones may need to be reconsidered. From this point, it’s helpful to make a pit stop at the Goal Flow report to dig deeper into why certain goals are more effective than others. You can choose items from six categories: Acquisition, Advertising, Behavior, Custom Variables, Social, and Users. This helps you laser in on user behavior broken down by traffic type, actions completed on your site, social network, or even custom factors that you identify.
+
+In this example, you can see that the majority of the “Request Consultation” goal completions can be attributed to organic traffic, and email had almost no impact. This is a clear indication that your website content and SEO strategies are proving to be effective, while you may want to take a look at how you’re approaching email marketing. Starting off with the Funnel Visualization report to get an initial look at your Goals and then digging deeper with Goal Flow will allow you to ensure that your priorities are in line to convert visitors into customers.
+
+It’s so easy to get caught up in the search and website elements of Google Analytics that you might forget that there’s an extremely valuable section dedicated to social media and its impact on SEO. The Social segment can be found within the Acquisition dropdown, allowing you to see how your social media presence drives web traffic and ultimately conversions. The Trackbacks feature takes a look at everyone who has linked to your site’s content, whether it’s a blog post, piece of downloadable content, or even one of your services pages.
+
+What’s most helpful here is that you can see how many sessions on your website resulted from that particular link or how many times the same URL has linked to you, separating more passive users from those that are truly engaged with your content and message. For example, if you see that an industry publication has linked to one of your ebooks multiple times, that could indicate the potential for a future partnership. Maybe they would be interested in having you contribute a guest post to their blog, or they have a tool or piece of content that would be useful to you.
+
+Regardless of the industry you operate in, partnerships are vital to making a name for your business and standing out as a thought leader. Whether it’s an opportunity to share content, services, or to co-sponsor an industry-related event, link building continues to prove its importance in both SEO and business in general. Don’t miss out on these individuals or companies who are taking note of what you have to offer; they could lead to valuable business propositions.
+
+Keep Up With What’s New
+
+Google Analytics is constantly adding new features and enhancing old ones, making it difficult for even the most experienced of users to keep up. It’s important that you take some time to look around your account every so often and see what’s new. You’ll likely stumble upon a feature that you never knew existed, perhaps even some of the examples above. From simply sorting current data in new ways to setting custom goals and analyzing sources of web traffic, there’s a seemingly endless number of ways to put Google Analytics to work for your business. And don’t worry, you don’t have to do it all to gain the insight you’re looking for. If you’re able to zoom in on a specific target market or goal that is top priority, you can cater your approach accordingly.
+
+Are there some new or lesser-known Google Analytics features that you’ve recently discovered? We’d love to hear about them in the comments!
+
+About the Author: Kim Speier is an inbound marketing specialist at Mainstreethost, a digital marketing agency in Buffalo, New York. She frequently writes about social media, content marketing, user experience, and web design for the Mainstreethost blog. Connect with Kim on Twitter at @krspeier.

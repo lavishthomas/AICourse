@@ -1,0 +1,43 @@
+Your router might look like an impenetrable black box of internet mystery, but tweaking a few settings under the hood is easier than you might think. Here are some of the options you can reconfigure to get a faster wireless connection and keep unwelcome visitors off your network.
+
+We haven’t gone into much detail about where to find these settings, as all routers are different and have their own bespoke interfaces. You typically log into a router configuration screen by typing its base address in your web browser, but check the router manual for precise instructions—then click through the available screens to find the options we’ve mentioned below.
+
+1. Change the channel
+
+Modern-day routers are much better at this than the old ones used to be, but changing the wireless channel your box is using can sidestep interference or congestion caused by other devices. The wireless channel may well be set to auto but try tuning it to something specific to improve speed and stability.
+
+Advertisement
+
+You can use a free tool like Acrylic WiFi (on Windows) or Netgear WiFi Analytics (on Android) to see which channels are the busiest in your home, and that should give you some idea as to which to switch to next. Your devices shouldn’t need any reconfiguring if your router does its job.
+
+2. Prioritize devices
+
+If you’ve got a newer or more expensive router then you might find there are options to give certain apps or devices VIP treatment—giving them more bandwidth to play around with. It can make a big difference for online gaming, for example, or when you’re streaming high-definition video.
+
+Advertisement
+
+This technology is usually called Quality of Service (QoS) or Wifi Multimedia (WMM) and different routers take different approaches to it. You might want to leave the default settings in place or push your games console to the top of the list. Just be aware of the option and what you can do with it.
+
+3. Switch to the highest speeds
+
+Delve into the tech specs of your gadgets and there are likely to be all kinds of letters written after the “802.11” that denotes the wireless standard: 802.11a is the oldest you’ll come across and 802.11ac is the newest (and fastest). Most routers are designed to handle all or most of these standards.
+
+If you only have the newest laptops and smartphones at home—and you have an 802.11ac-capable router—you can tell it to focus on the fastest speeds possible and forget about trying to accommodate older kit (though if something stops working you may need to abandon this idea).
+
+4. Hide your SSID
+
+By default your router broadcasts its SSID (Service Set Identifier) so it’s easy for you to add new devices to it. However, most models let you hide the SSID, so it won’t show up in a scan for nearby networks. This doesn’t affect the wifi password, which is still required whether or not the SSID is being broadcast.
+
+Advertisement
+
+It means you’ll need to enter your router’s SSID manually whenever you want to connect a new device to the network, but it also means visiting relatives and neighbors can’t even tell you’ve got a network, so they might be less tempted to try and guess the password or repeatedly ask you what it is.
+
+5. Upgrade the firmware
+
+Upgrading the firmware on your router isn’t quite the same as upgrading from iOS 8 to iOS 9, but you get the idea. Firmware updates released by router manufacturers include bug fixes and security patches and will often improve compatibility with newer devices and standards at the same time.
+
+Advertisement
+
+Head to the support section of the website of whichever company made your router to see if you can find newer firmware. You should also find step-by-step instructions for upgrading in the same place. Typically the update comes as a .zip file that you point the router’s software towards.
+
+Header image: A Aleksii/Shutterstock.com

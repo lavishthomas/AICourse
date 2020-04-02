@@ -1,0 +1,795 @@
+Article stats Twitter 350
+
+Facebook 850
+
+Google+ 60
+
+Linkedin 248 Referring domains 139
+
+Organic traffic 161 Data: Ahrefs' Content Explorer
+
+Share
+
+Quick links
+
+Links have long been one of the primary factors used by Google and other major search engines to rank websites and pages. Which means, if you want to rank in search, you're going to have to build links.
+
+The problem: there's a lot of information out there about link building. Some of it good. Some of it not so good. Some of it just plain bad.
+
+So to help you build links the right way, we've put together this complete, noob friendly, guide to link building.
+
+We'll be covering:
+
+link building theory
+
+essential skills and tactics
+
+the best link building tools
+
+linking to some of the best link building tutorials and case studies on the web
+
+We'll also be revealing the results of our recent industry wide link building survey.
+
+But let's start with the basics.
+
+Editor's note If you'd like to start with the basics of SEO, be sure to check our recently published guide: How to Learn SEO in 2017 (and Stay Sane)
+
+# What Is Link Building?
+
+Link building is the process of acquiring new inbound links (backlinks) to a website from external sites.
+
+The goal of most link building campaigns will be to increase future search traffic from Google, although links from popular sites (such as newspapers) can also be an excellent source of referral traffic.
+
+Our own research has found that link popularity (the number of inbound links to a site/page) continues to have a high correlation with Google rankings.
+
+Indeed, the chart below (taken from our study of over 2 million keywords) shows that link signals have a much higher correlation score than individual on-page factors (meta tags, keyword usage etc).
+
+# Chapter 1: What kind of links move the needle?
+
+In simple terms, each link to a website is considered as a vote. The more votes a site accumulates, the more likely it will be to show up for a particular search query.
+
+However it is not a ‘one member, one vote’ system.
+
+There are a number of factors which determine the weight Google will assign to a particular link and how likely it will be to influence future rankings. These include:
+
+1.1 Authority Of The Linking Page/Site
+
+As a site accumulates links its own authority increases. It is then able to pass on more authority (votes) when it links out.
+
+So a link from a high authority site (such as the BBC) will generally be more powerful than a link from a low authority site (for example a new site with no inbound links of its own).
+
+Ahrefs has 2 metrics which can help you determine the authority of a linking page or site:
+
+Domain Rating (DR) — refers to the overall strength (authority) of a site and is measured from 0-100 — with 0 being no authority (for example a new site with no inbound links) and 100 being the highest.
+
+— refers to the overall strength (authority) of a site and is measured from 0-100 — with 0 being no authority (for example a new site with no inbound links) and 100 being the highest. URL Rating (UR) — refers to the strength (authority) of an individual page and is measured from 0-100.
+
+In the example below, we can see that this page has a DR score of 67 and a UR score of 32.
+
+We can also see that Ahrefs has discovered 66 domains linking to this page. These are the links which have contributed directly to the UR score.
+
+Ahrefs is well known for its huge index of backlinks, so you can rely on our metrics when assessing the authority of a website or page.
+
+Recommended Reading: Ahrefs’ SEO Metrics Explained (Finally).
+
+1.2 NoFollow Links
+
+Certain links (for example links from blog comments) may have the rel=”nofollow” attribute applied.
+
+<a href="example.com" rel="nofollow">This is a nofollow link</a>
+
+To comply with Google’s guidelines, any paid links should also have the rel=”nofollow” attribute.
+
+The nofollow attribute instructs search engines not to follow the link and in theory links with this attribute should not contribute to rankings.
+
+Opinion varies however on whether this is actually the case.
+
+For example, links from wikipedia are nofollow and many leading SEOs consider wikipedia links to be beneficial for rankings due to the site’s high trust (see this article for more).
+
+We asked link building expert Eric Ward for his opinion on whether nofollow links contribute to rankings:
+
+I believe that any search engine with the goal of returning accurate results must maintain ultimate control over what it does and does not give credit to, and selectively choose the signals it values. And this includes rel=nofollow. I think it is perfectly reasonable to assume that any search engine can give credit to any link it wants to give credit to, if it feels there are enough signals to indicate it’s a credible link. And that means even if the link is nofollowed. In my entire career I have never made a decision about whether or not I would pursue a link based upon whether or not that link would be followed or nofollowed. I pursue links if I feel they will help my client reach a certain goal or objective. Eric Ward ericward.com
+
+While ‘dofollow’ links are preferred, a high quality nofollow link may contribute to rankings and will certainly be a good link to acquire. Additionally, a mixture of ‘nofollow’ and ‘dofollow’ links will result in a more natural backlink profile.
+
+Sidenote. There is no ‘dofollow’ attribute, but this is the term most SEOs use to refer to links without the nofollow attribute applied. There is no ‘dofollow’ attribute, but this is the term most SEOs use to refer to links without the nofollow attribute applied.
+
+1.3 Link Placement
+
+It may be the case that the search engines attribute more weight to certain types of links.
+
+For example, a text link from within content may pass more authority than a link from a sidebar or footer. This is because an in-content link is more likely to be:
+
+Editorial
+
+Actually clicked
+
+Surrounded by relevant text (see link relevancy)
+
+Google’s ‘Reasonable Surfer’ patent, filed in 2004 and approved in 2010, suggests that Google will attempt to determine how likely a link is to be ‘clicked’ and consider this when deciding how much weight a link will pass.
+
+That being said, there is anecdotal evidence that Google continue to give weight to links from footers, sidebars etc when the linking site is considered an authority. This recent study by Viperchill demonstrated how major brands are using footer links to influence (and dominate) search results.
+
+1.4 The Anchor Text
+
+The search engines have long used anchor text — that is the words used to link — as a ranking factor.
+
+For example a web page with a target keyword of “fishing rods” is likely to benefit from a percentage of its inbound links containing that phrase; in either partial or exact match form:
+
+Exact match: fishing rods
+
+Partial match: this page about fishing rods
+
+Ahrefs recently conducted a study across 16,000 keywords which confirmed there remains a strong correlation between keyword anchors and rankings:
+
+We can see from the chart above that the pages at position 1 had an average of:
+
+13% exact match links
+
+24% partial match links
+
+While it is clear from the data that keyword use in anchor text has a positive impact on rankings, it should also be pointed out that overuse of keyword rich anchors can have the opposite effect.
+
+Too many anchor text links can be a sign of manipulation and may incur link penalties, such as Google Penguin.
+
+Here is what Eric Ward had to say about anchor text:
+
+I’m not saying that anchor text as a signal is no longer useful. What I believe is Google can make a distinction between what it considers to be a normal distribution of anchor text vs. manipulated distribution of anchor text. This doesn’t mean I try to stay within some sort of anchor text percentage or range. I have said many times that over the two decades I have been building links I’ve never once asked for specific anchor text. Not once. Eric Ward ericward.com
+
+Recommended reading: Everything You Ever Wanted To Know About Anchor Text.
+
+1.5 Link Relevancy
+
+There are a number of factors that may influence the ‘relevancy’ of a link and the weight that Google subsequently assigns to it.
+
+These include:
+
+The anchor text (see above)
+
+Other outbound links on the page
+
+It is also likely (and logical) that the text immediately surrounding a link is an important ranking signal.
+
+Indeed, Google holds a patent (filed in 2004) called “Ranking based on reference contexts”, which could be construed as a blueprint for inferring context from surrounding text.
+
+Ahrefs indexes both the surrounding text and anchor text for all backlinks discovered by our crawler.
+
+1.6 Unnatural Links
+
+Links which Google flags as unnatural (either algorithmically or through manual review) are likely to be discounted and not contribute towards rankings. Multiple unnatural links may also lead to a penalty and a decrease in rankings/traffic.
+
+There is a little blurring of the lines in what constitutes an unnatural link, with some arguing that any link that is ‘built’ (even through outreach) is intended to manipulate search results and is therefore unnatural.
+
+This is however an overly-literal interpretation of Google’s guidelines and a line often repeated by ‘black hat’ SEOs to incorrectly justify their approach to link building.
+
+I would say that any link in which there has been an editorial choice (the site has chosen to link to you) is white hat and Google safe. This applies whether the linking site found your content organically (by themselves), or your pointed them to it (through outreach/promotion).
+
+Links built manually for traffic reasons (e.g. guest blogging, content repurposing, content syndication) should also be safe when used as part of a wider link strategy and not abused.
+
+Recommended Reading: Bad Links: How To Identify Toxic Backlinks & Remove Google Penalties.
+
+# Chapter 2: Essential Link Building Skills
+
+Effective link building in the post Penguin age combines a number of skills and the modern link builder has to be a truly diverse marketer with:
+
+A logical, analytical thought process (competitor analysis and strategy)
+
+A creative mind (link bait and content ideas)
+
+Excellent communication skills (networking and outreach)
+
+It could even be said that effective link building includes an element of psychology (working out how to get someone to link to you).
+
+Before we move on to individual link building strategies, let's take a closer look at 2 of the most important skills in link building; competitor research and outreach.
+
+2.1 Competitor Research
+
+A good starting point for most link building campaigns is to analyse the backlink profiles of competing sites.
+
+Ahrefs crawls the web in the same way as Google and collects backlink data (linking sites and pages) for each site we discover.
+
+This data can be accessed in our “referring domains” report (below), which shows all domains linking to an individual site or web page.
+
+Site Explorer > Enter domain or URL > Explore > Backlink profile > Referring domains
+
+Analysing the backlink profiles of several competitors will:
+
+Give an insight into their link building strategies
+
+Provide opportunities to replicate their links
+
+The trick is to work out how (or why) your competitor received a particular link and determine whether that’s something you can replicate. You’ll probably want to start with some ‘quick wins’.
+
+Here are some examples of easier links to replicate:
+
+User generated links — Social profiles, video sites, blog comments etc.
+
+— Social profiles, video sites, blog comments etc. Guest post links — You can simply reach out to the linking site and ask if you can contribute your own guest post.
+
+— You can simply reach out to the linking site and ask if you can contribute your own guest post. A link from a resource page — Reach out and ask if the site will add your resource.
+
+Tip Look out for ‘hubs’ - that is sites linking to more than one competitor. These can be very strong link prospects.
+
+Harder to replicate will be genuine editorial links to popular content pieces on your competitor’s site.
+
+You can use the ‘Best By Links’ report in Ahrefs Site Explorer to quickly find the most linked to content on a domain.
+
+Site Explorer > Enter domain > Explore > Pages > Best by links
+
+To replicate these links you will probably have to ‘one up’ your competitor’s content and then conduct an outreach/promotion campaign. This might seem a lot of work, but (as a very loose rule of thumb) the harder a link is to acquire, the more likely it will be to positively influence your rankings.
+
+2.2 Outreach
+
+Outreach is arguably the most important skill in a link builder’s toolset, but is also one of the hardest to master.
+
+With the exception of (very) rare cases — where content naturally picks up viral traction and spreads by itself — to acquire links you will have to get your content (or site) in front of of the right eyeballs at the right time.
+
+And despite the rise of social media, the most effective medium for outreach continues to be email.
+
+While outreach is a topic deserving of its own article, here is one tip that can dramatically improve your success rate:
+
+How Timing Can Increase Your Success With Outreach
+
+Reacting promptly to link opportunities — in close to real time — is a great way to increase your outreach ‘hit rate’.
+
+Which would you be more likely to add a link to:
+
+a) An old article, published last year that you have probably forgotten about and moved on from;
+
+b) An article you have published in the past month and are still actively promoting?
+
+I'm sure you'll agree, the answer is b.
+
+Ahrefs has a tool called ‘Alerts’, which actively monitors the web and can be set to send you an email when someone:
+
+1. Links to specific competitor content:
+
+2. Mentions your brand or a keyword you are tracking:
+
+These are ‘hot’ link building opportunities and early outreach can yield excellent results.
+
+Recommendation If someone links to your competitor’s content — reach out quickly and ask if they would consider linking to your similar resource. If someone writes a new article about your target keyword — reach out quickly and point them to your own resource.
+
+
+
+Recommended Reading: I Just Deleted Your Outreach Email Without Reading. And NO, I Don’t Feel Sorry.
+
+# Chapter 3: Industry Survey Results 2016
+
+As part of the preparation for this guide we conducted an industry wide survey to gauge:
+
+Which link building tactics are the most popular in 2016
+
+How effective each tactic is considered in 2016
+
+There were 29 individual link building tactics included in our survey.
+
+Here are the results.
+
+3.1 Most Popular
+
+We asked the question "Please select all link building methods you use in your current campaigns".
+
+There were 628 respondents to this question. Below is a chart showing the percentage of individual respondents who selected each link building strategy.
+
+By default the chart shows the percentage of all respondents, however, you can also view responses from individual 'roles' (i.e. SEO consultants, bloggers etc).
+
+It turns out 'white hat' strategies (link bait, guest blogging, infographics) are the most popular link building strategies in 2016.
+
+3.2 Most Effective
+
+We asked the question "How effective do you believe each of the following tactics will be in 2016".
+
+There were 428 respondents to this question. The chart below shows a score (out of 10) for each tactic.
+
+'Link bait' was rated the most popular link building strategy in 2016 and scored the highest in terms of effectiveness - 7.54/10.
+
+# Chapter 4: Link Building Strategies
+
+Now let's take a closer look at some of the individual strategies listed in our survey. We have decided to limit this section to tactics we either recommend, or that are proven to still be effective (although we may not necessarily recommend them as you will see).
+
+This means that tactics such as scaled social bookmarking and tiered link building did not make the list. Why?
+
+Because they simply DO NOT WORK.
+
+(if you disagree with me on that feel free to leave a comment — but I will require proof)
+
+For each tactic we start with a brief overview, followed by scores from our survey + ratings for:
+
+difficulty (low/medium/high)
+
+cost (low/medium/high)
+
+link value (low/medium/high)
+
+penalty risk (low/medium/high)
+
+recommended (yes/no)
+
+Also provided are links to further reading, which we highly recommend checking out for more in-depth tutorials, case studies and tips.
+
+We start with the most popular and effective tactic from our survey — link bait.
+
+1. Link Bait
+
+What many people call linkbait or Link Bait, I call content. Call me old fashioned, but if you try to create a buzz (and links) by creating contrived content, the buzz you hear will be flies. Eric Ward ericward.com
+
+Link bait is a wide strategy, and ‘link bait content’ can take on many forms — including many of the individual tactics which follow in this guide.
+
+In simple terms however, link bait refers to creating content which attracts links naturally due to its high value or unique proposition. Links are considered ‘earned’ rather than ‘built’. Although that is not to say that link bait content does not require promotion.
+
+That value could come from:
+
+In depth research
+
+Unique data
+
+A survey
+
+Attractive/unique graphics
+
+A free tool
+
+Link bait is white hat link building in its purest form and is a return to the way Google originally envisaged links would ‘vote’ the best content to the top.
+
+By definition, link bait requires a high quality resource as ‘bait’. A piece of content that will engage users, is likely to be widely shared, and ultimately deserves to rank in search.
+
+The second link building tactic on our list (side projects/free tools) would also fall under link bait.
+
+These side projects would generally be separate from, but related to, your main product or service and should provide value on their own. A good example is Coschedule’s headline analyser, which has picked up links from over 1,600 domains.
+
+2. Ego Bait
+
+In my mind, Ego Bait is really just about attempting to engage influencers to further amplify your work and build links. It's a very basic marketing/psychology principle - the element of reciprocity. If you positively feature another person, they're more likely to return the favor. Jesse Stoler upspringseo.com
+
+While influencers can often seem unapproachable — particularly when you are starting out — most of them are marketers just like you and will be pleased to be featured, quoted, or mentioned.
+
+Some effective ego-bait tactics include:
+
+Interviewing an influencer on your site
+
+Including an influencer in an expert roundup (although this tactic has become a little over-used in the marketing niche)
+
+Quoting an influencer in your content, or linking to their site
+
+Including an influencer in a top 10 list
+
+Most influencers will be happy to at least share content that shows them in a positive light — amplifying its reach and potentially leading to links.
+
+3. Broken Link Building
+
+Broken link building is starting to get a bad rep. People think it’s a narrow, straightforward strategy, when in reality it’s not. You can get more creative with this strategy than any other link building technique out there. Jon Cooper pointblankseo.com
+
+As the internet ages, many previously useful resources disappear from the web. Perhaps the company behind the site went out of business. Perhaps the site is no longer actively maintained.
+
+For the link builder this represents an opportunity:
+
+Creating a similar resource on your own site, then reaching out to sites with broken links and offering your content as an alternative can yield a reasonably high success rate. Most webmasters will be keen to fix errors on their site.
+
+This tactic can be particularly effective for securing trophy, needle moving links — for example from University, or government resource pages.
+
+4. Link Reclamation
+
+Link building isn’t always about discovering new opportunities. Sometimes it can simply involve taking advantage of opportunities that already exist but haven’t been tapped into yet. Kristi Hines kristihines.com
+
+Link reclamation is broken down into 3 sub-strategies:
+
+Fixing broken links pointing your site (+ broken internal links) Finding (and actively monitoring for) unlinked brand mentions Identifying uncredited use of copyrighted material, i.e. proprietary images or video
+
+Here is a quick overview of each:
+
+1. Fixing broken links pointing to your site
+
+If there are broken links pointing to 404 pages on your site, then you are losing valuable link juice. Fortunately this is easy to fix.
+
+Here's how to do it with Ahrefs and a free wordpress plugin called Redirection.
+
+Step 1: Run the 'broken backlinks' report in Ahrefs Site Explorer to get a list of all broken backlinks
+
+Step 2: Create a 301 redirect for each broken link using the "Redirection" plugin
+
+2. Unlinked Brand Mentions
+
+When someone mentions your brand on the web they have already actively engaged with your business. But there may be cases when the writer didn’t include a link back to your site.
+
+Reach out to the site, thank them for the mention, and ask if they would consider adding a link.
+
+3. Uncredited Use Of Copyrighted Material
+
+If someone uses your copyrighted material (for example a photo) on their site then you could of course ask them to remove it. However, this is a prime link building opportunity and a polite email informing them of the infringement and asking for accreditation should be all that’s required to pick up a link.
+
+You can use Google’s reverse image search to find sites using your copyrighted images.
+
+5. Newsjacking
+
+Reporters are always looking for the second paragraph of the story. The first paragraph introduces readers to the story in question. The second paragraph, however, is where the most notable quotes and reactions to the news/event will be found. That’s where you want to find yourself. Those brands moving quickly to produce content around the news that adds a unique perspective or thought leadership to the discussion have the best chance of being featured in this all important paragraph. David Meerman Scott davidmeermanscott.com
+
+Newsjacking refers to tapping into the slipstream of trending news and injecting your own brand, or ideas into the story.
+
+It can be a very effective way to pick up high quality links from major publications.
+
+Timing is everything in newsjacking. As a major story breaks, journalists will be eager to cover unique angles and gather quotes from experts who may be able to add insight. But you have to act fast as today’s news is tomorrow’s chip paper.
+
+6. Guest Blogging
+
+With data from 3 sites it’s pretty safe to say that building links through guest posting remains an effective way to increase your site’s organic traffic. David McSweeney ahrefs.com
+
+Guest blogging continues to be an effective way to both get your website/brand in front of new audiences and build authority boosting links.
+
+While low quality guest blogging has been squeezed by Google and is certainly not as effective as it once was, high quality guest blogging remains a preferred method of gaining white hat links.
+
+In most niches there will be high quality, tier 1 blogs, accepting guest posts.
+
+7. Interviews
+
+In this golden age of thought leadership, interview opportunities provide your clients with increased brand authority, professional credibility, and even domain authority. Getting interviewed on podcasts, news sites, blogs, and in other publications is also a straightforward way to build natural backlinks.—And yet it’s one of the most overlooked and underused natural link building strategies. Myles Vives ereach.net
+
+Many aspects of modern link building intersect with traditional PR. Building links through interviews falls into this category.
+
+Interviews themselves can take on many forms:
+
+Blog interviews
+
+Participating in ’expert roundup’ posts
+
+Podcasts
+
+Webinars
+
+In each case the goal will be to grow your profile in your niche and pick up some quality links along the way. These are also the kind of links that drive traffic, so are very much on the white hat side of the link building spectrum.
+
+Further reading How to Get Interviewed by Popular Blogs
+
+8. Infographics
+
+As someone that’s sent thousands of link request emails, I can tell you that there’s a simple link building formula that works every time: Great Content + Targeted Outreach + Added Value = Links Brian Dean backlinko.com
+
+Infographics have been around for a while as a link building tactic, but after going out of fashion a few years back, they have experienced somewhat of a renaissance in recent times.
+
+The reason why is that they remain a particularly effective way to maximise return for your outreach efforts.
+
+Outreach is always more effective when there is a value proposition for the host site, and offering to provide a high quality infographic (often with a customised introduction) is one such value exchange. The host site gets some cool content - you get a backlink.
+
+9. Content Syndication
+
+Done correctly, syndication can be a very effective way to help develop your reputation and visibility online. To many, this is a controversial topic, but it really shouldn’t be. You just need to know why it can help you, when to do it and how to do it the right way. Eric Enge stonetemple.com
+
+While syndicating content everywhere and anywhere is not advisable, syndicating your content to quality sites (with link attribution) can lead to an increase in traffic and a boost in rankings.
+
+Quality sites to syndicate your content to include:
+
+Medium
+
+Linkedin Pulse
+
+Business 2 Community
+
+Examiner
+
+To get the most out of your syndication, you might want to consider writing a custom title and introduction for each platform.
+
+10. Content Repurposing
+
+Some users prefer visual infographics over text statistics. Some choose podcasts over ebooks. Reformatting your content for different mediums means appealing to more audiences and extending your reach. Megan Mars bostonfoodtruckblog.com
+
+Repurposing content can be a great way to both:
+
+Squeeze more value out of your content
+
+Acquire high quality links
+
+For example, a blog post could be repurposed into:
+
+A video
+
+An infographic
+
+An eBook
+
+A slideshare presentation
+
+Each of these pieces of content can then be shared on relevant channels — with many of them offering the opportunity for a backlink.
+
+As each content format (and platform) has a different potential audience, it can be argued that repurposing content can be classed as ‘amplification’ and is therefore a white hat method of building links.
+
+As with all link building strategies however, it should not be abused and any repurposed content should be high quality and capable of standing alone.
+
+11. Link Building With Images
+
+As far as linkable content goes, images are up there with the best. For blog owners in particular, images can be an SEO goldmine with most of the hard work being done for you already. Matthew Barby matthewbarby.com
+
+There are several ways you can leverage custom images to gain backlinks to your site. For example:
+
+Creating charts to visualise data
+
+Creating memes specific to your niche
+
+Creating images with quotes from famous bloggers in your niche (or celebrities)
+
+Creating pinnable images for your blog posts
+
+Providing stock images for use with attribution
+
+Adding ‘swipeable’ images to your blog posts (charts and graphs are particularly effective) and actively encouraging readers to download and share them on their own sites can be a particularly effective way to pick up links.
+
+12. Directory Submissions
+
+Submitting your site to directories can be both GOOD and BAD. It depends on which directories you submit to, how you go about submitting, your intent, and the approach you take. John Romaine seopoint.com.au
+
+While the days of mass directory submissions are over, there may be some SEO value to be had in acquiring links from quality, or niche specific directories.
+
+Pagerank is the metric generally used to determine a directory’s strength, however, this is a metric which has not been updated in some time (and is also open to manipulation). We would therefore advise against using this in your consideration process.
+
+To determine the quality of a directory, we would recommend checking the following:
+
+Human review. Ensure that all links added to the directory go through a human review before going live.
+
+Quality of sites in the directory. Check the quality of the sites that the directory includes and also whether there are obvious manipulated anchor text links from the directory pages.
+
+The age of the directory. Use archive.org to ensure it has been around for some time in its current form.
+
+The directory’s backlink profile. Use Ahrefs to ensure the site has a relatively clean link profile, and has not been building spammy links.
+
+Google’s cache. Check that the page where your link would be placed is cached by Google. You can use the command cache:thedirectory.com/theurl
+
+Notwithstanding the above, directory submissions should be a small part (if any) of your overall link building strategy.
+
+Further reading Are Directory Submissions Worthwhile
+
+13. Press Release Distribution
+
+Press releases are still beneficial for SEO, but their power and their nature are in the middle of a transformative shift. If you’re going to include them in your optimization strategy, you need to understand the current scope of press release tactics, and find ways to mitigate their potential drawbacks. Jayson DeMers audiencebloom.com
+
+As with directories, mass press release distribution is a link building tactic which now offers little benefit and may be a sign of manipulative link building.
+
+However, press release distribution, with the goal of attracting genuine press, is a legitimate PR tactic — which makes it a legitimate link building tactic.
+
+If you have something genuinely newsworthy (a site launch would qualify), choose one channel to distribute your press release and make sure it is:
+
+High quality
+
+Written in the third party
+
+This will increase the chances of it being picked up and leading to more links.
+
+Note that press releases are not the place to build your anchor text links: branded links are recommended.
+
+14. Local Citations
+
+Remember, your business listing is essentially your business identity, it reflects your company and for some potential customers it will be the first interaction they have with your business. Make sure you spend the time creating a listing that best reflects your company and what you do/offer. Darren Shaw whitespark.ca
+
+Building citations on local business directories and portals remains an effective tactic for boosting local SEO.
+
+Business directories tend to have higher acceptance standards than general web directories and will only list legitimate businesses. They are therefore likely to be reasonably well trusted by Google.
+
+It should be noted that not every business directory will include a link back to your site, however, many SEOs believe that a mention from a trusted resource may be counted by Google as an ‘inferred link’ and assist with rankings.
+
+Sidenote. Consistency in your business’s contact details (name, address, phone number) is key to maximising the impact of your citation building. Consistency in your business’s contact details (name, address, phone number) is key to maximising the impact of your citation building.
+
+15. Blog Commenting
+
+Regardless of your ultimate opinion on the SEO benefit of blog commenting, you cannot dispute the branding and awareness benefits of a solid blog commenting strategy. Ryan Malone smartbugmedia.com
+
+Blog commenting is one of the easiest ways to get backlinks to a new or old website. In fact, an effective blog commenting strategy will make sure your backlink graph remains constant or goes up with time.
+
+Google likes to see active participating in a niche and commenting on blogs is a good way to show you are an engaged member of a community.
+
+Commenting is also a good way to build relationships with other bloggers. This will help with future outreach as it is always easier if you are ‘known’ by the site you are reaching out to.
+
+Again, mass commenting will not work, but genuine, thoughtful commenting on a select number of blogs may help with rankings.
+
+Quality comments, which add insight and show expertise, can also drive traffic back to your own site and help to grow your audience. This could be classified as an indirect ranking factor.
+
+16. Contributing In Niche Forums
+
+A forum link has potential to send decent, qualified referral traffic your way. But more importantly, building a forum link still leads to exposure to a niche audience. It’s relationship building. And the power of relationship building is that a good relationship can build your next link. Jesse Stoler upspringseo.com
+
+There is a saying in SEO ‘go where your audience is’ and most niches will have at least one forum where your potential customers/clients hang out.
+
+If you are an active participant in a forum, you should have no problem dropping an occasional link back to your site — where that link adds value or answers a question.
+
+These are good links for both traffic and conversions. Participating in a forum and showing your expertise will help to build your trust in the community and anyone clicking through to your site will be semi-qualified.
+
+17. Participating In Niche Community Sites
+
+You’d be forgiven for being frightened of marketing on Reddit. It’s a goldmine for users but a minefield for anyone even hinting at self-promotion. Yet despite the risks, some marketers have managed to pull it off. Jack Simpson harvard.co.uk
+
+From fly fishing, to plumbing, there is a subreddit for pretty much everything.
+
+Identifying subreddits related to your niche, participating, and occasionally sharing genuinely interesting and relevant content from your own site is a legitimate way to build links that also drive traffic.
+
+Note that once submissions achieve a certain number of upvotes (that number varies from subreddit to subreddit) they become dofollow — increasing their SEO value.
+
+A popular Reddit submission is also likely to bring in additional editorial links, as many curation sites use Reddit to source their content.
+
+Reddit aside, there are many industry specific community sites (for example inbound.org for marketers). Again, active participation will present opportunity for building both links and relationships.
+
+18. Answering Questions (Quora, Yahoo etc)
+
+Quora links are marked as “nofollow” which means they don’t pass any “link juice" to your site. However, adding links to answers on Quora is a great overall inbound strategy because you’ll increase your authority, drive traffic to your site and raise brand awareness. Plus no-follow links can help build a well-rounded backlink portfolio. Rebecca Babicz beccababicz.com
+
+While the direct SEO value is up for debate, links from question and answer style sites — such as Quora and Yahoo Answers — are certainly a good way to drive traffic to your site and build your authority in a niche.
+
+They can also be a great way to identify trending topics in a niche.
+
+If you notice a particular question is being asked consistently, there is a good chance that is because those posing the question have failed to find an answer in Google. Creating content on your own site that fills that information gap presents an opportunity for both bringing in search traffic and future link building.
+
+Sidenote. The next 3 link building strategies involve purchasing links. Buying links for SEO purposes is against Google guidelines, and if you are caught your site may be penalised. The next 3 link building strategies involve purchasing links. Buying links for SEO purposes is against Google guidelines, and if you are caught your site may be penalised.
+
+19. Sponsorships (charity, events etc)
+
+Whether you’re a world-renowned philanthropist — or a penny-pinching miser — you’ll be donating like mad when you realize that your donation dollars can land you top-quality backlinks from authority sites. Brian Dean backlinko.com
+
+Many charities and organisations will list their sponsors — often with a link back to the sponsor’s site. By their nature, charities tend to be trusted and often have high domain authority, so these links may be beneficial for rankings.
+
+While technically these are paid links, they would fall on the lower risk side of the link buying scale.
+
+Another tactic which can be effective is to offer services in exchange for a write up on the charity’s site. For example, if you are a photographer you could offer to go along and photograph an event for free, with the proviso being that the charity includes some of the images on their site (with link attribution).
+
+20. Sponsored Content
+
+Getting reviews from bloggers and online content creators can make a huge difference in how successful a new product or company is. In addition to bringing direct traffic from the sites giving you links, incoming links from high-ranking websites, especially if they include keywords, can help your search engine rankings. Cameron Chapman cameronchapman.com
+
+Many bloggers will be happy to write about your product or service in exchange for compensation; either monetary, or in the form of free samples, a license for your software etc.
+
+To comply with Google’s webmaster guidelines, any such write ups should be clearly marked as sponsored and links should have the nofollow attribute applied. Google has confirmed that they consider free samples as payment for links:
+
+Buying or selling links that pass PageRank. This includes exchanging money for links, or posts that contain links; exchanging goods or services for links; or sending someone a “free” product in exchange for them writing about it and including a link
+
+The choice of whether to comply with these guidelines is of course entirely yours (see below).
+
+Further reading How to Ask Bloggers for Backlinks and Reviews
+
+21. Other Paid Links
+
+As buying backlinks is often the quickest way to acquire them, for lots of businesses it’s the most appealing option, especially so if the extra revenue generated by good rankings more than covers the cost of buying the links needed to achieve them. The problem? Google clearly states that buying backlinks to improve your rankings breaches their guidelines. Mark Walters seomark.co.uk
+
+Google has long waged war on paid links and any ‘dofollow’ link for which money has changed hands is against their webmaster guidelines. Get caught buying links and your site (and the linking site) could be penalised.
+
+That being said, despite the risks, there continues to be a large market for both buying and selling text links for SEO purposes.
+
+Particularly in vogue at the moment are paid guest post placements; including on large authority sites such as Forbes, The Huffington Post etc. Many of these leave a semi-obvious footprint (for example the same authors linking to the same sites from multiple publications) so be wary of the risks.
+
+Further reading Should You Buy Backlinks For SEO?
+
+Sidenote. The final link building strategy below (PBN links) is considered 'black hat'. Although there are many SEOs who continue to claim success with the tactic, it is not one that we recommend as it carries a high risk of penalty. The final link building strategy below (PBN links) is considered 'black hat'. Although there are many SEOs who continue to claim success with the tactic, it is not one that we recommend as it carries a high risk of penalty.
+
+22. PBN Links
+
+The message is pretty clear to me, the day of using private blog networks is over. I’m done. Spencer Hawes nichepursuits.com
+
+Private Blog Networks (PBNs) are a divisive subject in the SEO community. There are many vocal advocates of the technique — with some claiming that creating a truly private blog network is the best way to rank a site in 2016.
+
+While it may be true that there are some who are still having success with PBNs, there are many other stories of sites whose networks have been uncovered — leading to a loss of rankings overnight.
+
+In short, creating a PBN involves registering expired domains with good link profiles/authority, creating sites on those domains (or recreating old content), and adding a link back to your own site.
+
+Keeping the network private is a complicated subject, involving:
+
+Using different domain registrars/registrant details for each site
+
+Separate hosting for each site
+
+Different themes/platforms for each site
+
+Different plugins for each site
+
+Linking to different sites on each site (and not interlinking)
+
+Blocking crawlers such as Ahrefs, Majestic, OSE from indexing the links
+
+The key is to ensure that there is no obvious footprint for Google, or your competitors, to follow.
+
+As you can see there is a lot of work (and ongoing costs) in creating just a small network and there is a strong argument that this time/money would be better spent on acquiring white hat links.
+
+# Chapter 5: The Best Tools For Link Building
+
+While it is technically possible to build links with just a bit of brain power and an email account (sometimes even without that), there are a number of tools that will help make the process of acquiring links much easier.
+
+Below we have listed some of the best link building tools currently available, split into 5 categories.
+
+Backlink Checkers
+
+Content Research
+
+Web Monitoring
+
+Outreach Tools
+
+Freelance Sites
+
+5.1 Backlink Checkers
+
+Backlink checkers allow you to spy on your competitor’s backlinks — giving you an insight into their link building strategies and an indication of how difficult it would be to outrank them.
+
+Here are some of the best backlink checkers currently available.
+
+We are proud to have one of the best set of tools for backlink research there is. Our index of backlinks is one of the largest and we have lots of awesome tools and reports to play with.
+
+Majestic is our biggest competitor in the niche of "backlink checkers". When we are asked about who has the bigger index of backlinks we usually reply that our indexes are comparable.
+
+Moz has the smallest backlink index of the three, but they are currently investing a lot of their resources in this area, so the chances are they will get much better soon.
+
+5.2 Content Research
+
+Content research tools take the guess work out of creating shareable, linkworthy content. Use them to find previously popular content based around your target keyword, that you can build upon, improve, or repurpose for your own campaigns.
+
+Simply enter a target keyword (or topic) into Ahrefs Content Explorer and you'll get a list of the most popular content (sortable by shares and backlinks) for your chosen phrase.
+
+An excellent content research tool that has some unique tools for scouting influencers.
+
+Web Monitoring
+
+As I covered in the section on essential skills, actively monitoring the web for new mentions of your keyword (or new links to your competitors) and acting quickly is guaranteed to double the results of your outreach.
+
+Here are a selection of the best tools for monitoring the web.
+
+Set up email alerts for new content mentioning your keyword or brand, new backlinks to your competitors and more.
+
+Monitor the web and social media for new mentions of your keyword or brand.
+
+3. Google Alerts
+
+Google alerts is a free tool from Google that can be set to send you an email when they index new content with your chosen keyword.
+
+5.3 Outreach Tools
+
+While an outreach campaign can be conducted with your regular email client, there are a number of commercial tools available that will help simplify building a database of contacts and tracking correspondence.
+
+Here are some of the best.
+
+Web based software, which allows you to create outreach campaigns, build prospect lists, create email templates, track correspondence and more.
+
+A relative newcomer, with some excellent features for finding outreach prospects, managing, and executing link building campaigns.
+
+Yesware is a chrome extension which allows you to track email opens and link clicks in Gmail. Useful for split testing subject lines and email templates.
+
+5.4 Freelance Sites
+
+There are many repetitive tasks in link building — for example building prospect lists, or submitting to local business directories. Many of these repetitive tasks can be outsourced to freelancers, or virtual assistants.
+
+Other, more complex link building projects may require commissioning a designer to create custom graphics, or an expert writer to create a detailed guide.
+
+Here are 2 of the best sites for sourcing freelancers and virtual assistants.
+
+A large database of freelancers, covering various skills and levels of expertise.
+
+Hire freelancers for various link building tasks.
+
+# Chapter 6: The Future Of Link Building
+
+Finally, let’s take a quick look at the future of link building. To simplify this section, we have split it into 3 commonly asked questions.
+
+6.1 Will links continue to be a primary ranking factor?
+
+While it is true that Google’s algorithm continues to grow in complexity, we believe that links will continue to be used as a primary ranking signal for the foreseeable future.
+
+Indeed in a 2014 webmaster video, Matt Cutts intimated Google have experimented internally with ‘turning off’ links as a ranking signal and the results were poor.
+
+We don't have a version like that that is exposed to the public, but we have run experiments like that internally, and the quality looks much much worse. It turns out that backlinks, even though there's some noise and certainly a lot of spam, for the most part are still a really really big win in terms of quality of search results. So we've played around with the idea of turning off backlink relevance and at least for now backlink relevance still really helps in terms of making sure that we return the best, most relevant, most topical search results.
+
+So link building will continue to be a big part of SEO.
+
+6.2 Which types of link building will be ‘future proof’?
+
+White hat, editorially given links (acquired through outreach, or organically) should be safe from any future Google algorithm updates.
+
+6.3 Which types of link building won’t be ‘future proof’?
+
+We would anticipate that Google will get better at algorithmically detecting spammy/manipulative links — particularly as they develop their artificial intelligence.
+
+We would also expect to see a big clamp down on PBNs over the next year or so, as at the moment it is probably the tactic most commonly used to artificially influence rankings. Again, we would expect artificial intelligence/machine learning to allow Google to better determine what is a ‘real’ site and what is a site built as part of a network.
+
+Over To You
+
+We’d love to hear your thoughts on:
+
+what you think is working at the moment
+
+how you expect link building to change in the future
+
+general thoughts on our guide
+
+And of course if you have any questions, then please leave a comment below.
+
+In the mean time… good luck with your own link building!

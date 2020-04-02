@@ -1,0 +1,245 @@
+After testing a total of 13 two-bay network-attached storage (NAS) devices over the past two years, we found that the QNAP Turbo NAS TS-251 is still the best home NAS. It’s one of the fastest we’ve tested, it offers hardware that’s more powerful than that of most NAS devices in its price range, it has upgradable RAM, and it comes with flexible, powerful software that does everything most NAS users need.
+
+We've updated our pick from the DS212 to the DiskStation DS213, an annual refresh with a faster processor and more RAM. It costs the same $300. While reviewers haven't scored the DS213, it should perform better than its predecessor, and the software experience is unchanged.
+
+Synology just announced a refresh to the lower-end cousin to our top pick, DS213J . At $220, it's $100 cheaper than our top pick but you lose Wi-Fi and USB 3.0. It has double the DRAM of the DS212J it replaces and a new processor with floating point (still just 1.2 GHz though). If saving money is more important than speed, this might be a good step down choice, but we still recommend spending the extra money since this is a long term investment.
+
+Four years ago: Setting this to wait status while we refresh this guide. We plan to take a look at the entire field, including the latest from Synology, the DS214play, which allows 1080p video streaming.
+
+B. Do a hard shutdown of your Disk/RackStation to prevent any further issues. This entails a long-press of your unit’s power button, until a long beep has been heard. The unit will shut itself down safely from that point.
+
+: If you have our pick or any Synology NAS, update your DiskStation Manager software immediately. Synology tells us that their DiskStation software is undergoing a bitcoin ransomware hack called SynoLock. Synology says, "It’s a BitCoin Mining hack that encrypts portions of data, and ransoms the decryption key for .6 BitCoin ($350). So far, it looks like the matter is localized to non-updated versions of DSM 4.3, but we are actively working on, and researching the issue to see if it also effects DSM 5.0 as well.
+
+Two years ago: We know this guide has been on wait status for a long time--too long, and we're sorry about that. After several delays, we are now actively working on an update, and plan to publish our latest research and findings by mid-May. Please check back then.
+
+After weeks of testing, we've identified the QNAP TS-251 as the best home NAS for most people. It has powerful hardware and software, an easy-to-use UI, and an HDMI port so you can connect it directly to a TV for media playback. The Synology DS214 is a close second, but the QNAP has a more powerful CPU and RAM for around the same price, and the RAM is upgradeable, which means it'll last longer. We're wrapping up edits on our full guide, which should be published by the end of May.
+
+After testing 10 of the latest two-bay NAS devices, we've chosen the QNAP Turbo NAS TS-251 as our new top pick for home users. If the TS-251 is sold out, we recommend the less expensive (and slightly less powerful) Synology DS214 . If you’ve never used a NAS before, try the especially user-friendly Western Digital My Cloud Mirror
+
+Synology and Western Digital have released new versions of our current picks. The Synology DiskStation DS216 replaces the DS214 , and the WD My Cloud Mirror is the second-generation model of our easy-setup pick . We’ll be testing both of these options and updating this guide with our findings.
+
+Our previous runner-up was discontinued, so we retested the pick against three new NAS units to find our new runner-up pick , the Synology DiskStation DS216+II . We’ll do a more thorough update in mid-2017 once more new models are available. We’ve removed our “beginner NAS” pick, the WD My Cloud Mirror, until WD fixes recently disclosed security flaws
+
+The QNAP Turbo NAS TS-251 allows remote access (which is easy to configure), plus it has mobile apps for media streaming and the most third-party apps of any NAS we tested. You can use the TS-251 as a media streamer, a home backup device, a mail server, a website hosting device, a BitTorrent box, a video surveillance recorder, a Plex Media Server—nearly anything you can do with a Linux computer. It even has HDMI video output so you can connect it directly to your home theater setup.
+
+If you need more storage space, the TS-451, our upgrade pick, is the same thing but with two more drive bays. You still have access to all of the same mobile apps for streaming, backup, or anything else you can do with a Linux computer. And since it has two more bays than our top pick, you have access to other storage configurations that could offer better data protection and performance. This NAS is best suited for professionals or for anyone who wants to expand their NAS system down the line.
+
+If our top pick is sold out, its price goes above $300, you need hardware encryption, or you don’t care about an HDMI port, the Synology DiskStation DS216+II is the next-best choice we tested. The DS216+II offers most of the same features as the TS-251, and its software is just as good, but it’s more expensive, its RAM is a little harder to upgrade, it has one fewer USB 3.0 port, and it has an eSATA port rather than HDMI. Otherwise, it’s the closest equivalent to the QNAP TS-251 we’ve found (aside from other QNAPs, some of which we mention below).
+
+Table of contents
+
+Why you should trust us
+
+Samara Lynn has worked with networked storage since the 1990s, spending almost 20 years in IT. She’s tested most of the major consumer and small-business NAS devices over the past seven years for a variety of tech magazines and websites, including PCMag, CRN, and CRN Tech.
+
+Nathan Edwards has tested storage devices off and on since 2008, first for Maximum PC and then for Wirecutter, including roughly too many NAS devices.
+
+Who a NAS is for
+
+If you’re reading this guide, you probably already want a home network-attached storage device—or are at least curious about one. A NAS is a small computer with an Internet connection, at least one but usually two or more hard-drive bays, a (usually) Linux-based operating system optimized for network storage, and enough CPU power and RAM to do everything.
+
+Most people don’t need to store thousands of raw photo files, gigabytes of lossless digital music, or backups of their Blu-ray collection, but some people do, and a NAS can be a great tool for those people.
+
+A NAS is great for people with large media libraries: You can store all your files in one place and stream them to computers, tablets, networked speakers, or media centers throughout the house. You can also back up your computers to the NAS to avoid connecting an external drive to every computer. Any NAS allows you to do such things. Most models—even home NAS devices—can also act as email, database, and virtual private network (VPN) servers; BitTorrent boxes; hosts for CMS, CRM, and e-commerce software; and DVRs for network cameras. Depending on your patience and your tech savvy, a NAS can do almost anything a Linux computer can do, using less energy than a desktop computer. The power and flexibility are great, but they can make some NAS devices confusing to use.
+
+If you have only one or two computers in your house and you rely mainly on cloud storage and streaming media, you probably don’t need a NAS. But if you have a large media collection, you could have terabytes of data you need to keep backed up and accessible. Most people don’t need to store thousands of raw photo files, gigabytes of lossless digital music, or backups of their Blu-ray collection, but some people do, and a NAS can be a great tool for those people.
+
+A NAS is also useful if you have too much data to store in Dropbox or Google Drive, or if you just don’t trust your data to cloud storage providers. When you use a NAS, your data remains in your home and does not go to the cloud. Of course, you’ll still want an off-site backup of your NAS-stored data, so you’ll need to back up to an external drive for storage elsewhere—or you may just have to trust the cloud at some point.
+
+If you simply want to share and store data on your network, you may not need a NAS at all. Many routers have USB ports to which you can attach an external drive, but this arrangement will be slow and suitable only for the most basic file sharing. It will also lack any data redundancy, so you’re taking your chances in case of a drive failure. Windows, macOS, and Linux all have built-in file-sharing features that make it easy to access files on your computer across your network. But that approach takes up disk space on your computer, and your computer has to be on all the time.
+
+You could make your own NAS with old computer hardware and free software such as FreeNAS, but a dedicated NAS device uses far less power (usually about as much as a couple LED light bulbs), has a better interface and more apps, and comes with a manufacturer warranty and technical support.
+
+If you’re seeking a suitable NAS device for your home network, this guide is for you. If you’re an IT professional or storage guru looking for a business-level NAS, this guide is not for you. Nor does this guide cover more advanced uses of NAS such as iSCSI targeting, SANs (storage area networks), or RAID configurations such as RAID 5, 6, or 10 for multi-drive NAS devices. Websites focused on enterprise network storage, such as Computer Weekly and StorageReview.com, can help you in those cases.
+
+Finally, this guide is not for people who want a NAS that can support 1080p on-the-fly video transcoding via Plex Media Server. Almost every NAS we recommend supports Plex, and many can manage on-the-fly transcoding with their own apps, but Plex transcoding currently requires a lot of CPU power. NAS boxes that can manage 1080p on-the-fly transcoding through Plex are too expensive to be worthwhile—you’re better off running Plex Media Server on a computer or on an Nvidia Shield TV and using the NAS only for media storage.
+
+How we picked
+
+Hundreds of NAS devices are available, and you can find models with one, two, four, eight, or even more drive bays. For most home users, a two-drive NAS is just right. Such a model allows you to protect your data by mirroring the contents of one drive to the other (a configuration known as RAID 1, or a mirrored array). This arrangement gives you half the NAS’s actual amount of storage for files—a NAS with two 8 TB drives in RAID 1 has 8 TB of space available, not 16 TB—but as a result your data remains safe and accessible even if a drive fails. You still need to back up your NAS, either to the cloud or to an external drive connected to the NAS and then stored off-site (or both), but a mirrored array means your NAS should never have downtime.
+
+A NAS with two 8 TB drives in RAID 1 has 8 TB of space available, not 16 TB.
+
+A single-drive NAS (or “personal cloud” device) doesn’t provide the added data protection of drive mirroring, though NAS boxes with more drives are more complicated to manage and are likely overkill for most home users. If you want more than two bays, both our main pick and our runner-up are available in four-bay versions or close equivalents.
+
+For our previous major update to this guide in 2015, we started by assembling a list of every two-bay NAS from a reputable vendor. The biggest names in home NAS devices are Asustor, QNAP, Seagate, Synology, and WD, though we also considered models from Netgear, Thecus, and Zyxel. We also read NAS reviews on sites like CNET, PCWorld, SmallNetBuilder, and StorageReview.com; we looked at consumer reviews on Amazon and Newegg; and we surveyed 1,094 Wirecutter readers on what they wanted in a home NAS.
+
+Based on our research, we looked for two-bay NAS devices that were released in the previous year or so, or that received a significant software update in that time. They needed to offer at least 512 MB of memory and a reasonably powerful processor (preferably Intel, but a dual-core ARM CPU is also acceptable in the right configuration); have hot-swappable drive bays (so you don’t have to shut down the NAS to replace a failed drive or to increase the NAS’s capacity); and cost less than $350 without disks. We looked for NAS devices with at least one USB 3.0 port, because those are useful for backing up the contents of the NAS to an external drive, and vice versa.
+
+For our early 2017 update, we looked at successors to our top picks, as our runner-up had been replaced by a new model.
+
+Most survey respondents said they wanted a NAS with a highly configurable, Linux-based OS, so we focused on those models instead of “personal cloud” devices that are less flexible (though we have a pick for that category, too).
+
+A NAS needs to be easy to set up as a network file server, simple to configure for local computer backups, and ready to use out of the box for streaming video, music, and photos. Based on the results of our survey, we looked for NAS devices that support computer backups via Windows’s File History or system image tools, Time Machine, and rsync; music streaming via DLNA and iTunes; VPN and FTP access; and cloud backup. We also looked for NAS devices with good mobile apps and remote access (via port forwarding or a cloud service). Compatibility with popular third-party apps such as BitTorrent, CrashPlan, and Plex Media Server was a bonus.
+
+Nice-to-have features included email servers, website hosting, and video surveillance; folder or hardware-level encryption; the capability to use a USB Wi-Fi dongle; USB support for an uninterruptible power supply (UPS), printers, and other devices; solid-state drive support; and SSL certificate uploading for extra security.
+
+How we tested
+
+First we set up each NAS following its included install guide, if it had one. Next we looked at the Web interface’s organization and features. We tested ease of use by configuring user and group accounts, as well as file and folder access permissions. We checked to see if the NAS offered a secured cloud service for remote access so you don’t have to mess with port forwarding and static IP addresses. We also looked at Android and iOS mobile apps for accessing and administering the NAS. (Windows Phone has virtually zero support from any NAS vendor, so we didn’t take that into account.) We copied about 5 GB of videos, documents, and photos to each NAS to see how easy it is to upload and download files.
+
+The easiest way to measure real-world NAS performance, at least for what you’re going to be doing with a home NAS, is to copy files to and from the NAS and calculate the data rate. For the NAS devices we tested in 2015, we connected each via Gigabit Ethernet to TP-Link’s Archer C9 Gigabit Router. To test read and write performance, we connected a Dell Latitude 3550 laptop to another one of the router’s Ethernet ports and copied a 1.48 GB video file between the laptop and NAS. We measured the file-copy speed in megabytes per second.
+
+For our early 2017 testing, we tested three potential replacements for our discontinued previous runner-up pick and tested them alongside our still-current top pick, the QNAP TS-251. We connected each via Gigabit Ethernet to an Asus RT-AC66U router and connected a desktop PC with an Intel 82579V Gigabit NIC to another port. We used Windows 10’s built-in Robocopy file-copying tool to read and write three datasets to each NAS: a 1.35 GB photo folder containing 216 individual JPEG files; a 35.2 GB music folder with 8,961 MP3 files in it; and a single 17.8 GB high-definition MKV (movie) file. We ran each test three times in each direction (writing to the NAS and reading from it) and averaged the results.
+
+To simulate drive failure, we pulled a drive from the NAS while it was running. A NAS should beep or flash an LED to alert a user that something is wrong, and the interface should show a notification of drive failure. If the NAS allows you to set up SMS or email alerts, that’s even better. If a drive fails and the NAS doesn’t notify you, you’re at risk of data loss if the second drive also fails.
+
+Next we replaced the pulled drive with one of equal or greater capacity. A NAS should detect a new drive and automatically re-create the mirrored array. With each device, as the RAID 1 mirror rebuilt, we confirmed that all data stored on the NAS was intact and accessible.
+
+This process also allowed us to test the quality of the NAS’s drive bays. A good NAS has drive trays or slots that make drives easy to remove but are sturdy enough to ensure that the drives fit tightly and securely, with no chance of getting disconnected by a random bump.
+
+We also connected a flash drive to one of the USB ports. A NAS interface should recognize a connected drive and display its make, model, and file system. It should allow transfers between the USB drive and the NAS, and if the NAS supports one-touch USB copy backup, the settings for one-touch should recognize the connected drive.
+
+All of our NAS picks have some sort of energy-savings feature. We tested each NAS’s power consumption when it was performing a task (such as a file copy), when it was idle, and when energy-saving settings were enabled. In 2015, we used the Floureon TS-836A Plug Power Meter, and in 2017 we used a Watts Up Pro.
+
+Finally, we looked at warranty and support options. Lack of customer support is one of the most common complaints in Amazon customer reviews of NAS devices. Most of the models we tested offer two- or three-year warranties. Most also offer some form of support, largely through online knowledge bases and user forums. Some have email and phone support, and a few vendors also provide detailed, accessible tutorials and videos on their websites.
+
+In most cases, every NAS from the same company runs the same operating system and has the same features. They differ in the number of drive bays, the specific CPU and amount of RAM installed, and the number of hardware ports. They can have minor differences in build quality, as well.
+
+Our pick: QNAP Turbo NAS TS-251
+
+The QNAP Turbo NAS TS-251 is the best two-bay home NAS for most users. Its read and write speeds are among the fastest of any NAS we’ve tested, it offers an easy-to-use and flexible interface with a wide array of available apps, and it supports all the features Wirecutter readers say they want in a NAS. Unlike most NAS devices, it also has an HDMI port, so you can connect it directly to your entertainment setup for use as a home theater PC (HTPC).
+
+Equipped with an Intel Celeron processor and supporting up to 8 GB of memory, the TS-251 has more-powerful hardware than most NAS devices in its price range, so it should last many years. Its Linux-based OS is more complicated than most people are used to, but anyone who has worked with a Windows or Mac desktop should be able to set it up. The TS-251 is a few years old at this point, but still receives regular software updates and has enough power for home users. It holds its own against newer and more expensive NAS units.
+
+Most NAS devices in this price range use slower Intel Atom or ARM-based processors and have 1 GB of RAM or less. The TS-251 ships with an Intel Celeron 2.41 GHz dual-core processor and either 1 GB or 4 GB of RAM, which you can expand up to 8 GB with off-the-shelf RAM modules. (We recommend the 1 GB version; the 4 GB is hard to find and is overkill for most people; you can always upgrade the RAM later if you need to.) It has two USB 2.0 ports and two USB 3.0 ports, and it’s one of only two NAS devices we tested for this guide that include an HDMI port. (The other is the Asustor AS-5002T, which also has an S/PDIF audio port.) Like every NAS we considered for this guide, the TS-251 has two drive bays. If you need more space, our upgrade pick has identical hardware and software, but with four drive bays instead of two.
+
+The TS-251 is also one of only two NAS devices we tested (the other is the Asustor AS-5002T) that has dual Gigabit Ethernet ports. These ports support link aggregation, which lets you combine the speed of both ports for a faster connection, but that function isn’t much use to most people because most home routers don’t support link aggregation. At least you have a second Ethernet port in case something goes wrong with the first one.
+
+A one-touch copy button sits on the front of the TS-251. Once you’ve selected (within the NAS Web interface) the files or folders you want to copy, pushing this button will automatically copy those files to an external drive connected to the front USB port—perfect for periodic backup of valuable data.
+
+LEDs on the front of the NAS indicate drive and network activity, power status, and whether a USB drive is connected. The TS-251 has an IR receiver, too, so if you’re using it as an HTPC you can control media playback by using the QNAP RM-IR002 remote control, another MCE remote,1 or a universal remote or by installing QNAP’s Qremote app (though it works only in QNAP’s HD Station app).
+
+The TS-251’s interface (called QTS) is colorful, easy to use, and seems visually inspired by macOS. Icons even bounce the way they do in the macOS dock before an app opens. When you open QTS in your browser, it prompts you to create a strong admin password, which you should do right away. (This is a marked improvement over previous versions of QTS, which used an insecure default admin password and did not prompt you to change it.)
+
+Like most of the NAS operating systems we tested, the QTS Web interface includes a pop-out dashboard widget that gives an overview of the NAS’s drive health, CPU and RAM usage, and system temperature. The widget also has a news ticker that keeps you posted on the latest updates and news about QNAP and your NAS.
+
+QNAP’s easy-to-configure myQNAPcloud service lets you access the files on your NAS when you’re away from home. If you’re paranoid and you don’t want any part of anyone’s cloud service, you can access your NAS without it through a virtual private network or DDNS (Dynamic DNS) and good old-fashioned port forwarding. But for most people, myQNAPcloud will be much simpler.
+
+QNAP has many mobile apps—maybe too many. Qfile, Qmobile, Qmusic, Qphoto, and Qvideo are for accessing media, and Qmanager is one of the few good remote-management apps available for any NAS, offering access to system tools, user settings and permissions, download controls, and more. Remote management may not be important to most home users, but if it is important to you, QNAP’s app is the best. All of QNAP’s apps are available for iOS and Android, and most are even on Windows Phone.
+
+QNAP also gives you the option to secure remote access and app access by enabling HTTPS with just a click in the remote-access or app settings. The TS-251’s other security features cover volume encryption and uploading SSL certificates.
+
+Like most other home NAS devices, the TS-251 supports multimedia streaming. This model has an iTunes server and a DLNA media server with a media library. I was able to scan my network for any DLNA devices and have the media library detect multimedia content across my network. And the device’s inclusion of an HDMI port makes it an ideal multimedia box, because you can connect the TS-251 directly to a TV or receiver for playback of your media files without the need for transcoding.
+
+QTS also supports on-the-fly and offline high-definition video transcoding, so you can store HD video on the TS-251 and stream it to another device in a format that particular device supports. Michael Passingham at ExpertReviews writes that the TS-251 can transcode files as soon as they are copied to the NAS. Passingham also says that transcoding 240p, 360p, 480p, 720p and 1080p files on the TS-251 “worked without a hitch,” and calls OTF transcoding “seamless.”
+
+This was not our experience. We had trouble streaming a 1080p MKV video from the NAS to the Qvideo app on an HTC One via 802.11ac Wi-Fi. It played, but suffered from a lot of stutter. Transcoding in 720p wasn’t much better.
+
+A non-HD MPEG movie clip transcoded fine. And a MP4 1080p video of the trailer for I Am Legend played beautifully on the HTC One through Qvideo. As mentioned above, if you have a large video collection and you’re serious about on-the-fly video transcoding, you should use a more powerful computer for the job; it’s just not cost-effective to transcode on a NAS.
+
+Even though your data is mirrored on the TS-251, you still need to back up the important data on your NAS (and you should store that backup somewhere off-site). You can back up to another NAS or server; to Elephant Drive, Glacier, or Amazon’s S3 cloud service; or to a USB drive connected to the TS-251. You can schedule backups or perform them on the fly. You can also install third-party backup options from the QNAP App Center, including CrashPlan (though running CrashPlan on a NAS is not officially supported).
+
+The TS-251 had the best performance of the five NAS devices we tested in early 2015, and it held its own with the Synology DS216+II, our new runner-up pick, when we tested them head-to-head in early 2017. This shouldn’t be surprising considering its specs: Though most NAS units in its price range have ARM or Atom mobile processors, the TS-251 has a dual-core Intel Celeron J1800 processor. (The Asustor AS-5002T we tested in 2015 and the Synology DS216+II we tested in 2017 both have dual-core Celeron processors, as well). The TS-251 also ships with 1 GB of RAM, twice as much as most NAS devices in its price range, with the exceptions again being the Synology and Asustor models, as well as the Synology DS216play we tested in 2017. Like the Asustor and the DS216+II, but unlike most other NAS, you can upgrade the RAM later, which means your NAS will be able to feel faster for longer.
+
+In our 2015 tests, using matched 6 TB WD Red drives, the TS-251 posted a read speed of 114 MB/s and a write speed of 97 MB/s, faster than anything else we tested at the time.
+
+Of the five NAS units we tested in 2015, the QNAP TS-251 had the fastest sequential transfer speeds
+
+In our 2017 test using identical sets of 8 TB WD Red hard drives, the TS-251 easily beat the Synology DS216play, which costs about the same and has the same amount of RAM but a less-powerful ARM processor. The Celeron-powered DS216+II, which is more expensive and more powerful than the DS216play, did better, and traded the top spot with the TS-251 in half of our tests. Both the TS-251 and the DS216+II were slower than the TS-251 was in our 2015 round of testing, but we’re using different hard drives, a different router, different file copy tests, and a different client computer, so differences are to be expected.
+
+The TS-251’s data-protection features work well. With the TS-251 running, we pulled the drive from the second bay. The NAS beeped twice, the status LED flashed red, a drive failure notification popped up in QTS, and the NAS sent two emails to the address associated with the admin account. (It would have also sent a notification to QManager had we had that configured.) The Storage Manager app also reported that the RAID was degraded, just in case we missed all the other notifications.
+
+When we replaced the pulled drive with another hard drive, the NAS beeped again, and Storage Manager detected the new drive and started rebuilding the RAID. As with any high-capacity RAID, this process took hours.
+
+The TS-251 also exhibited low power consumption in our tests. During the write tests, the TS-251 used 18 to 23 watts, which is roughly standard for a NAS, but when the drives weren’t active, it used just 9 to 10 watts. That’s about as much as one LED light bulb. The Synology DS216+II had similar power consumption, and both NAS units drop down to about 1 watt when on standby mode.
+
+The QNAP NAS has several energy-savings options, including power on-off scheduling and a feature called EUP Mode Configuration. With this option enabled, Wake-on-LAN, AC power resumption, and other energy-consuming features are disabled.
+
+A bonus: The TS-251 is the only NAS we tested that supports virtualization, so you can run Windows, Mac, UNIX, Linux, and Android virtual machines on it.
+
+As much as we like this NAS, you still may encounter issues or questions when using it, as with any piece of technology. The TS-251 comes with a two-year warranty, and QNAP offers phone support, an online form for submitting questions and comments, a community forum, a knowledge base, and online tutorials.
+
+Who else likes it
+
+It’s hard to find sites that regularly review NAS devices—each vendor offers dozens or even hundreds of models, so covering just a portion of them is a formidable task.
+
+SmallNetBuilder has the most consistent and in-depth NAS reviews, though its reviewers focus more on file-copy performance than on ease of use. The site’s Craig Ellison praises the TS-251’s performance: “There’s no question that the TS-251 and TS-451 are high-performance NASes capable of large sequential file reads and writes of over 100 MB/s.” But Ellison also notes that “it’s not clear that the switch to Intel’s Bay Trail processor provides a price / performance point that you can’t already get with existing QNAP models.”
+
+At PCWorld, Jon L. Jacobi commends the TS-251 for its “good performance” and “massive software feature set,” mentioning that it “can replace several devices.” But he also says that the QNAP’s OTF transcoding is not “up to snuff.”
+
+Amazon customers like the TS-251. At the time of this writing, the TS-251 has a 4.2-star rating (out of five) across 280 reviews. Many people praise its software features, multimedia capabilities, and backup options. The device’s transcoding capabilities receive mixed reviews, but as we mentioned above, we don’t recommend you use a NAS for on-the-fly transcoding.
+
+Flaws but not dealbreakers
+
+The TS-251’s tacky, white plastic housing is the biggest blemish on an otherwise spectacular piece of hardware—the material is susceptible to looking beat-up pretty fast. (The TS-251’s plastic presumably keeps the device’s price down, but the Asustor AS-5002T’s gunmetal-gray casing is better.) Even during our 2015 testing, the white plastic started to discolor and scuff. More important, the drive bays are made from the same thin plastic, so they may not hold up well to repeated drive swaps.
+
+Other reviewers have also noted the cheap design. PCWorld’s Jacobi writes that “the company penny-pinched on the TS-251’s enclosure.” And an Amazon customer mentions that the “white soapbox plastic case is just a letdown.”
+
+The TS-251 supports AES-256 software encryption. However, its CPU is a couple of years old and does not support hardware encryption, so reading and writing data to encrypted folders will be much slower than writing to unencrypted folders. If you plan to use encryption frequently, check out our runner-up pick, the Synology DS216+II, or the QNAP TS-251A, a newer and more powerful QNAP NAS that’s otherwise very similar to the TS-251. Both have CPUS with AES-NI support, so writing to and from encrypted folders should be practically as fast as unencrypted ones.
+
+Like us, Tim Higgins at SmallNetBuilder had issues with the automatic transcoding feature, in his case testing with a Samsung Galaxy Tab S and a Roku 3. He says, “For now at least, Synology has a big edge over QNAP when it comes to ease of use for on-the-fly transcoding.” The general consensus from our research is that Synology devices, specifically the -play models, do a better job at transcoding than the QNAP TS-251—but, again, most people who are interested in hardware transcoding want to do so via Plex Media Server, and they’re better off using an inexpensive computer instead of a NAS.
+
+Some Amazon reviewers complain about the TS-251 being unsuitable for those new to working with network-attached storage. “Not a simple device for the ‘plug and play’ crowd,” is how one Amazon reviewer puts it. If you’re looking for a simpler NAS and you don’t need features like a webcam DVR, an email server, or an HDMI port, you should get a more user-friendly model like the one we discuss below.
+
+Finally, the TS-251 debuted in 2014, and QNAP has launched several updated models since then, including the TS-251+ and TS-251A. However, both of those newer models are substantially more expensive, and though they’re more powerful than the TS-251, it’s not in ways that the average home user will notice or care about, especially if you’re not using QNAP’s apps for media streaming or transcoding. They’re both fine NAS devices (because they run the same software and have slightly better specs), but the TS-251 is still the sweet spot in QNAP’s lineup for now.
+
+Runner-up: Synology DiskStation DS216+II
+
+If the TS-251 is sold out or is too expensive when you’re buying, or you need hardware encryption support, the Synology DiskStation DS216+II is a good alternative. Its operating system, DSM, is as powerful and feature-packed as QNAP’s, and its performance is just as good. Like the TS-251, the DS216+II has a dual-core Intel Celeron processor and 1 GB of RAM (upgradable to 8 GB), hot-swappable drive bays, and USB 3.0 ports. Unlike the QNAP, it doesn’t have an HDMI port or an IR receiver, so it’s not meant to be plugged directly into your media center, but it’s just as capable as a media server. The DS216+II is more expensive than our pick, its RAM is a little harder to access, and it has one fewer USB 3.0 port and one fewer Gigabit Ethernet port, but it’s a great NAS in its own right and a good alternative to the TS-251. Synology has NAS models closer in price to the TS-251, but the DS216+II is faster now and will be more usable in the future, thanks to its powerful hardware.
+
+The DS216+II’s dual-core Intel Celeron N3060 processor has a base clock speed of 1.6 GHz, but its turbo speed goes up to 2.48 GHz, around the same as the base speed of the QNAP TS-251’s processor, an older dual-core Celeron. In our tests, the DS216+II traded first place with the TS-251, depending on the test, with write speeds that averaged between 86 MB/s and 96 MB/s.
+
+Both Synology and QNAP let you use AES-256 encryption on shared folders, but the Synology DS216+II’s processor supports AES-NI, which makes reading and writing encrypted data much faster; the TS-251’s doesn’t. Many QNAP NAS devices, such as the TS-251A, support AES-NI, but they’re usually more expensive than the DS216+II.
+
+The DS216+II is about the same size and weight as the TS-251, measuring 6.5 by 4.3 by 9.2 inches (height by width by depth) and weighing 2.8 pounds without any drives installed. But the Synology model is built of sturdier material than the TS-251 is, with a black metal casing. The drive bays are also easier to work with on the Synology—attached handles make sliding drives in and out a breeze, and unlike the QNAP, the trays are tool-less, so you don’t need a screwdriver to install a drive. Unlike most NAS units we’ve tested, the DS216+II has a drive door cover, though it doesn’t lock.
+
+The DS216+II has only one Gigabit Ethernet port, but because few home routers support link aggregation, this won’t matter for most people. On the other hand, the DS216+II also has an eSATA port, which you can use to connect expansion units—you can turn your two-bay NAS into a seven-bay NAS. Most people won’t need this feature, though, and would likely prefer a second USB 3.0 port, as on the TS-251.
+
+Synology’s excellent user interface, called DSM (DiskStation Manager), is similar to QNAP’s QTS and offers the same features, including media streaming capabilities, a file manager, photo and video apps, video surveillance functions, backup options, and a Package Center from which you can install many more apps such as Plex Media Server, Asterisk, Directory Services, Drupal, and Joomla. AnandTech says, “Subjectively speaking, the DSM OS has the best UI and UX of all the NAS operating systems.”
+
+Remote access is available through Synology’s QuickConnect service, and through Synology’s iOS and Android mobile apps for accessing data on the DS216+II. The DS Cloud app lets you choose folders on your DiskStation that you want to sync to your mobile device for offline viewing. Another app, DS Finder, monitors the status of the DiskStation and gives you some control over it. A link in DS Finder allows you to open a mobile version of the DSM.
+
+Synology also has several mobile apps for streaming multimedia files: DS Audio, DS Photo, and DS Video. To use them, you have to enable, on the NAS, the appropriate service for each app. For example, before you can use DS Video, you must enable Video Station on the NAS.
+
+Like the TS-251, the two-bay DS216+II supports drive mirroring and adequately reports drive failure. During testing it rebuilt its array without trouble.
+
+Synology also provides a two-year warranty and excellent support both over the phone and via an online forum, plus a knowledge base and tutorials.
+
+The DS216+II has a 4.6-star rating (out of five) on Amazon, though that’s a combined rating with other models in the same line.
+
+Our main pick but with more drive bays: QNAP TS-451
+
+A two-bay NAS is the best option for most people, but if you need more capacity or data protection, get the QNAP TS-451. It has the same CPU and memory specs as the TS-251, but with two more drive bays.
+
+A NAS with four or more bays gives you more storage options than a two-bay NAS does. For starters, you can opt for RAID 5, 6, or 10. These are data storage configurations that require three or more disks but provide better data protection and (depending on which RAID configuration you choose) can offer better performance. A four-bay NAS also lets you expand your storage capacity more easily. You can start with two drives and add more as needed, whereas the only way to expand the storage space on a two-bay NAS is to replace first one drive, then the other, with higher-capacity drives.
+
+Four-drive NAS devices are typically more suited to professional settings—and if you want to use one, having a good understanding of RAID storage management will help. But if you have the extra dollars, want additional security and space, and don’t mind learning more about RAID, the TS-451 is a good bet.
+
+NAS care and maintenance
+
+When you first set up a NAS, it prompts you to log in to its interface via a browser, typically with the “admin” account and no password. Very few NAS devices prompt you to change or reset the admin password, which is a crucial security feature because the NAS connects to the Internet and is thus a ripe target for threats. So the first thing to do with any new NAS is to change the password on the admin account. (Both Synology and QNAP prompt you to do this during the initial setup.)
+
+Creating a unique user account for each person who accesses your NAS is a good idea. You can do so on any of the NAS devices we tested by going into the Users settings in the interface. Be sure to give each user the appropriate permissions—you don’t want everyone to have god-level admin access to your NAS! If you want to give someone the ability to upload files to the NAS, give that user write permissions as well as read permissions. If someone should only download files, make them a read-only user.
+
+Maintaining a NAS doesn’t take much effort, but you should keep a few things in mind. Because a NAS is almost always on, place it somewhere that doesn’t get too hot, and ensure that it gets sufficient airflow—confirm that the back panel has a few inches of clearance so as not to obstruct the exhaust fan. When something goes wrong with a NAS, the culprit is usually drive failure, and according to this infographic from Seagate, temperature extremes are one of the top five causes of hard drive failure.
+
+Data corruption is another big issue with hard drives. Because most NAS devices ship diskless, you’ll have to provide and install your own drives. Be sure to check the compatibility list of hard drives on the NAS vendor’s website so that you install supported drives. Otherwise, if something goes wrong with the NAS, you may have problems getting customer support—or worse, you may have voided the warranty.
+
+The same rule applies to memory: If you buy a NAS that allows you to add RAM, check with the vendor to make sure that you purchase supported memory.
+
+Most of the NAS devices in this guide support WD Red hard drives, which are specifically built for NAS use. WD engineers designed these drives to tolerate heat and vibration better than typical hard drives (though not as much as enterprise server drives), so these drives are ideal for multi-drive NAS setups. They’ve received accolades from both professional reviewers and NAS users because they provide good performance and large storage capacity at a decent price. TechRadar says, “The WD Red 6TB performs excellently, offers a gargantuan amount of storage and is a more affordable proposition than enterprise 6TB hard disks.” Seagate, another favored hard drive manufacturer for NAS, has its own line of drives specifically for this purpose.
+
+What to look forward to
+
+Synology updates its NAS units on a near-yearly cadence and Netgear and other NAS vendors announced new models at CES 2017, so we’ll take a fresh look at the entire field once there are enough new models to test.
+
+Western Digital released an updated My Cloud model, the My Cloud Home. Because there were several security flaws in their previous versions, we’ve reached out to WD to see if this new model addresses the security vulnerabilities, and we won’t recommend the model until we’re sure it’s safe.
+
+What about the WD My Cloud Mirror?
+
+The WD My Cloud Mirror was our former “beginner NAS” pick for easy setup and file management. In March 2017, researchers disclosed several security flaws in WD’s My Cloud line of NAS devices, including the My Cloud Mirror. These vulnerabilities could give attackers remote access to your NAS, and a foothold in your network, even if remote access is disabled, just by tricking you into visiting certain Web pages from a PC on your network. Until WD patches these security flaws, we don’t feel comfortable recommending the My Cloud Mirror, and we’ve removed it from our picks. If you already own a My Cloud Mirror, consider physically disconnecting it from your home router until these issues are resolved.
+
+The competition
+
+As mentioned above, both Synology and QNAP sell many, many NAS devices, all of which run the same software but vary in CPU, RAM, number of drive bays, and some features. We think our picks have the best combination of performance, features, and price for most home users, and Synology and QNAP’s software is more powerful and polished than those of other NAS makers. Our testing over the years has reinforced this, as has AnandTech’s recent two-part dive into NAS operating systems and features
+
+In 2017, we tested the Synology DS216play, which costs about the same as our pick and has the same amount of RAM, but it has a less powerful ARM CPU and no hot-swap bays, and it was significantly slower than our main pick and runner-up (which both use Intel CPUs). It’s optimized for on-the-fly transcoding, but only through Synology’s app, not Plex.
+
+The Synology DS216 has only 512 MB of RAM and uses a weaker ARM processor, but costs as much as our main pick. We also eliminated the DS216j, which is even weaker.
+
+The QNAP TS-251A is a more powerful version of our main pick, with the same Celeron N3060 processor as our runner-up and 2 GB of RAM instead of 1 GB. It supports hardware encryption and QNAP claims it can transcode 4K video on-the-fly (though, again, only using its own apps). It’s a good choice if you love QNAP (surely there are QNAP megafans) and need hardware encryption, but for most people it’s not worth the $70 premium over our main pick, or the $20-ish it costs over the Synology DS216+II unless you really want that HDMI port.
+
+In 2015, we tested the Asustor AS-202TE, Asustor AS-5002T, Seagate Personal Cloud Home Media Storage, Synology BeyondCloud Mirror, Synology DiskStation DS214, and WD My Cloud EX2, in addition to our pick and budget pick. Most of them are now hard to find or have been replaced with newer models. We plan to thoroughly overhaul this guide later in 2017.
+
+The Seagate Personal Cloud 2-bay Home Media Storage Device is a direct competitor to the WD My Cloud Mirror. Both devices target beginning NAS users, and they have the same specs, nearly the same features, and even similar pricing. However, the Seagate device’s drives are not hot-swappable. This model also had the worst write performance of any NAS we tested, and it ran a little hot, more so than the My Cloud Mirror. The Wall Street Journal’s Joanna Stern prefers the Seagate Personal Cloud to the WD My Cloud Mirror, however, for its better media streaming to Chromecast and Roku devices. StorageReview.com notes, “From a performance perspective the Personal Cloud isn’t a screamer, but has enough speed for what the vast majority will use it for.” Amazon reviewers also complain about some performance issues. With those considerations, we opted for the My Cloud Mirror as the user-friendly choice.

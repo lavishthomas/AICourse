@@ -1,0 +1,41 @@
+As Slack and other cloud-based office productivity tools become more commonplace, they're making their way well beyond the land of cubicles and into more hands-on places of business like farms and restaurants.
+
+Rebecca Yazbek was six months pregnant when she first introduced Slack to her staff at Nomad, the Sydney, Australia-based restaurant she runs with her husband, Al.
+
+Then, her baby came early, and Yazbek ended up in the hospital with only her cellphone.
+
+"Slack was the only form of communication," she told Business Insider over the phone from her vacation in Croatia, with her now 1-year-old cooing in the background.
+
+"That 1-year-old that you heard was forcing me to take time out. I was very hands-on before I had my son, and I was anxious about taking time out of the business and was looking for a solution."
+
+As director of Nomad, Yazbek is just one of many small business owners finding use for software initially developed with traditional offices in mind. While a lot of what she personally oversees is the business side of the restaurant, Yazbek and her team have found ways to make Slack integrate seamlessly into the day-to-day operations of the locally-sourced eatery.
+
+Now, Yazbek and her husband are moving to Melbourne, Australia, to launch a second location, and she plans to continue managing the original restaurant via Slack.
+
+"That will be the main source of communication," Yazbek said.
+
+Out of 47 employees at the restaurant, 20 are on the business' Slack channel. Most of them are managers and use the platform to communicate across teams — between the kitchen and the front of house, for example — or with people working different shifts. Nobody uses Slack while on the floor of the restaurant because "customers would hate that," Yazbek said.
+
+In addition to using Slack's chat feature, Nomad uses it to get notifications from other services. For example, Nomad linked its Dropbox account to Slack, so when a prospective employee submits a resume using the online storage service, the Nomad team gets a Slack notification.
+
+Likewise with Wufoo, which allows users to easily create online forms. Nomad created a customer feedback form in Wufoo and linked it to Slack. Now when a customer sends in feedback, Slack alerts the Nomad team.
+
+Getting that instant notification of customer feedback is one of the fun parts of the tool, Yazbek said.
+
+"Someone wants lime instead of lemon or says there is too much salt," she said. "From a team building perspective, people have a chuckle over that."
+
+Across the globe in Hilmar, California, Aaron Wickstrom uses Slack to take care of the 2,400 Jersey cows on his family's fourth-generation dairy farm.
+
+All of Wickstrom's 27 full-time employees have the app installed on their phones. They use it while in the field to handle everything from spontaneous questions to solar-eclipse preparation.
+
+The area where Slack has had the most impact is in late-night manure emergencies.
+
+Wickstrom Dairy uses a solids separations system to convert cow waste into fertilizer, and the machinery sometimes gets stuck. When that happens, everyone on the team gets a text alert.
+
+Before Slack, there was no good way to tell the rest of the team that the malfunction was being dealt with, so multiple people would show up in the middle of the night to address the same issue. Now, whomever is dealing with it just notifies everyone else over Slack.
+
+"It's become more convenient and we're not disrupting people's sleep schedules," Wickstrom said.
+
+Slack isn't the only program being used on the farm. Wickstrom said he uses Asana, an online project management service, for scheduling. For documents he and his team use Google's G-Suite of cloud-based productivity software and Evernote.
+
+"We produce a lot of data points every day. Every time a cow is milked we capture how much milk is produced," Wickstrom said. "People have a view of farming as people leaning on their pitchfork, not having a lot to do. Most people don't realize how much tech is involved in farming."

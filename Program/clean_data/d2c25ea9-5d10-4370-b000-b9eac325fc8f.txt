@@ -1,0 +1,51 @@
+Should we be worried about the dangerous potential of artificial intelligence?
+
+Sort of, says Max Tegmark, a physicist at the Massachusetts Institute of Technology. Tegmark is a co-founder of the Future of Life Institute, a Boston-based research organization that studies global catastrophic risk, with an especial focus on AI. He’s also the author of Life 3.0, which is out today. Life 3.0 outlines the current state of AI safety research and the questions we’ll need to answer as a society if we want the technology to be used for good.
+
+Tegmark doesn’t believe that doomsaying Terminator scenarios are inevitable, but he doesn’t think that we’re doing enough thinking about artificial intelligence either. And he’s not the only one who’s concerned. Stephen Hawking has been urging researchers to pay more attention to AI safety for years now. Microsoft partnered with Elon Musk to create OpenAI, an organization dedicated to the same issue. Musk, who also donated $10 million to FLI in 2015, also recommended Life 3.0 on Twitter.
+
+The Verge chatted with Tegmark about his book, what we should be doing, and why he thinks the discussion around AI is the most important one of our time. This interview has been lightly edited and condensed for clarity.
+
+What does the title of the book refer to? What is “Life 3.0” and what were Life 1.0 and 2.0?
+
+Well, I think of life broadly as any process that can retain its complexity and reproduce. Life 1.0 would be like bacteria. Bacteria are small atoms put together in the form of simple algorithms that control what they do. For instance, whenever the bacteria notices there is a higher sugar concentration in front than in back of it, it comes forward, but if it notices that there’s less sugar in front of it, then it turns around. But bacteria can never truly learn anything in its lifetime. The only way that bacteria can gradually get better software, or learn, is through evolution over many generations.
+
+We humans are what I call “life 2.0.” We still have our hardware, or bodies, largely designed by evolution, but we can learn. We have enormous power to upload new “software” into our minds. For example, if you decide you want to become a lawyer, you can go to law school, and law school involves uploading new algorithms into your brain so that now suddenly you can have the expertise of the lawyer. It’s this ability to design our own software rather than having to wait for evolution to give it to us that enable us to dominate this planet and create modern civilization and culture. Cultural evolution comes precisely from the fact that we can copy ideas and knowledge from other people in our lifetime.
+
+Life 3.0 is life that fully breaks free of its evolutionary shackles and is able to design not only its software, but its hardware. Put another way, if we create AI which is at least as smart as us, then it can not only design its own software to make itself learn new things, but there’s always an attempt to swap up upgraded memory to remember a million times more stuff, or get more computing power. In contrast, humans can put in artificial pacemakers or artificial knees, but we can’t change anything truly dramatic. You can never make yourself a hundred times taller or a thousand times faster at thinking. Our intelligence is made of squishy biological neurons and is fundamentally limited by how much brain mass fits through our mom’s birth canal, but artificial intelligence isn’t.
+
+Some people are still skeptical that superintelligence will happen at all, but you seem to believe strongly that it will, and it’s just a matter of time. You’re a physicist, what’s your take from that perspective?
+
+I think most people think of intelligence as something mysterious and limited to biological organisms. But from my perspective as a physicist, intelligence is just simply information processing performed by elementary particles moving around according to the laws of physics. Nothing in the laws of physics that says we can’t build machines much smarter than us, or that intelligence needs to be built from organic matter. I don’t think there’s any secret sauce that absolutely requires carbon atoms or blood.
+
+I had a lot of fun in the book thinking about what are the ultimate limits of the laws of physics on how smart you can be. The short answer is that it’s sky-high, millions and millions and millions of times above where we are now. We ain’t seen nothing yet. There’s a huge potential for our universe to wake up much more, which I think is an inspiring thought, coming from a cosmology background.
+
+I know that FLI does work with issues like nuclear disarmament, but it made spreading the word about AI safety its first major goal. Similarly, you believe that the conversation around AI safety is “the most important conversation.” Why? Why is it more important than, say, climate change?
+
+We’ve done a lot for nuclear war risk reduction, but the question of a good future with AI is absolutely more important than all of these other things. Take climate change: Yes, it might create huge problems for us in 50 years or 100 years, but many leading AI researchers think that superhuman intelligence will arrive before then, in a matter of decades.
+
+That’s obviously a way bigger deal than climate change. First of all, if that happens, it would utterly transform life as we know it. Either it helps you flourish like never before or becomes the worst thing that ever happened to us. And second, if it goes well, we could use it to solve climate change and all our other problems. If you care about poverty, social justice, climate change, disease — all of these problems stump us because we’re not smart enough to figure out how to solve them, but if we can amplify our own intelligence with machine intelligence, far beyond ours, we have an incredible potential to do better.
+
+So, it’s something which is different from all the other things on your list in that there’s not just possible downsides, but huge possible upsides in that it can help solve all the other problems. Cancer, for example, or disease more generally — cancer can be cured, it’s just that we humans haven’t been smart enough to figure out how to deal with it in all cases. We’re limited by our own intelligence in all the research we do.
+
+There’s a fairly wide spectrum of attitudes on this topic, from the skeptics to the utopians. Where do you put yourself?
+
+I’m optimistic that it’s possible to create superhuman intelligence, and I’m also optimistic in that we can create a great future with AI. But I’m cautious in the sense that I don’t think it’s guaranteed. There are crucial questions we have to answer first for things to go well, and they might take 30 years to answer. We should get cracking on them now, not the night before some dudes decide to switch on their superintelligence.
+
+What questions? You said you’re not focused in what you call “near-term” questions, like how automation is going to affect jobs.
+
+There’s so much talk all the time now about job automation, people tend to forget that it’s important to also look at what comes next. I’m talking about questions like, how do we transform today’s easily hackable computers into robust AI systems? How can you make AI systems understand our goals as they get ever-smarter?
+
+When your computer crashes, it’s annoying, you lost an hour of work, but it wouldn’t be as funny if that computer were controlling the airplane you were flying in or the nuclear arsenal of the Untied States.
+
+What goals should AI have? Should it be the goals of some American computer programmers, or the goals of ISIS or of people in the Middle Ages? What kind of society can we create? Look how much polarization is there in the US right now.
+
+If we don’t know what we want, we’re less likely to get it. You can’t leave this conversation just to tech geeks like myself, either, because the question of what sort of society we create is going to affect everybody.
+
+A lot of the initiatives you discuss are big-picture — like how laws need to be updated to keep up with AI. But what about the average person? What are we supposed to do?
+
+Talking is a great start. The fact that none of the two presidential candidates in our last election talked about AI at all, even though I think it’s the most important issue facing us, is a reflection of the fact that people aren’t talking about it and therefore don’t care about it when they vote.
+
+When will you consider yourself “successful” in making sure we’ve had this conversation?
+
+Look at it this way: we have billions and billions of dollars now invested in making AI more powerful and almost nothing in AI safety research. No governments of the world have said that AI safety research should be an integral part of their computer science funding, and it’s like, why would you fund building nuclear reactors without funding nuclear reactor safety? Now we’re funding AI research with no budget in sight for AI safety. I’m certainly not going to say that we have enough conversation about this until this, at least, changes. Every AI researcher I know thinks it would be a good idea to have more funding for this. So I’d say, we’re successful when things like this are going a little bit in the right direction.

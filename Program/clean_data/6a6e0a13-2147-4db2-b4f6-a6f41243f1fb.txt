@@ -1,0 +1,113 @@
+Thanks for an amazing Kickstarter campaign! The next chapter of 3D printing is just beginning.
+
+Pre-order your Form 1 at Formlabs.com
+
+
+
+
+
+Read about the Form 1 on:
+
+
+
+
+
+Are you frustrated that low-end 3D printers don’t have the quality to make the true beauty of your designs real? Do you dream of having the power and resolution of a truly professional machine on your desktop? We’ve created an easy-to-use system that rivals the output of high-end printers at a fraction of the cost.
+
+Formlabs is disrupting 3D printing.
+
+Our reason for starting this project is simple: there are no low-cost 3D printers that meet the quality standards of the professional designer. As researchers at the MIT Media Lab, we were lucky to experience the best and most expensive fabrication equipment in the world. But, we became frustrated by the fact that all the professional-quality 3D printers were ridiculously expensive (read: tens of thousands of dollars) and were so complex to use. In 2011, we decided to build a solution to this problem ourselves, and we are now ready to share it with the world.
+
+High resolution belongs on your desktop.
+
+We’ve been hard at work for over a year, and with your help, we’re ready to take the Form 1 into full-fledged production. By supporting this effort, you’ll be the first to get your hands on an amazing 3D printer AND help usher in a new era of 3D printing - an era in which your creative output is no longer limited by price or dauntingly complex machines.
+
+The Form 1 will change creative design.
+
+We’ve gone to extraordinary lengths to design a complete 3D printing experience:
+
+The Form 1 printer is engineered to produce high resolution parts with the touch of a button
+
+Form software is intuitive and simple to use so you can spend less time setting up prints and more time designing
+
+The Form Finish post-processing kit keeps your desktop organized so that you can easily put the finishing touches on your masterpiece
+
+Read on for more details on what you’ll help bring into the world (and onto your desktop) if you support this effort.
+
+Hardware - The Form 1:
+
+For most designers, the extruded plastic (i.e. FDM) of low-end printers is simply not capable of the high resolution and quality surface finish necessary for professional work. So, we decided to go straight for the real deal: a stereolithography printer we call the Form 1.
+
+Stereolithography (SL) is the gold standard for accuracy and resolution in the 3D printing world, reaching layer thicknesses and feature sizes that are worlds ahead of what is possible with FDM. The process is pretty straightforward - a laser is used to draw on the surface of a liquid plastic resin that hardens when exposed to a certain wavelength of light. The laser draws and hardens a layer at a time until the entire model is built. It’s simple, reliable, and quiet.
+
+Unfortunately, SL is traditionally one of the most expensive 3D printing processes. With pricey lasers and high-precision optical components, SL 3D printers can easily cost tens or even hundreds of thousands of dollars. Until now. Check out these pictures of parts made with the Form 1 as compared to a currently available FDM printer:
+
+After a great deal of research, engineering, and experimentation, we’ve figured out how to do it at a much, much lower cost, making this premium technology available to everyone.
+
+The results are amazing: the Form 1 can print layers as thin as 25 microns (0.001 in) with features as small as 300 microns (0.012 in) in a build volume of 125 x 125 x 165 mm (4.9 x 4.9 x 6.5 in). This means you can print complex geometries with the exquisite details and beautiful surface finish that will make your creations stand out.
+
+Form print software:
+
+Great hardware is only half the battle. We painstakingly designed our Form software to have a simple, intuitive user experience that streamlines the process of importing .STL models from any 3D CAD package. Generating smart support structures for complex geometries and sending jobs to the printer is as easy as a few clicks.
+
+A key advantage of the Form software is the ability to precisely generate thin, breakable support structures that serve their purpose during printing but are easily removed afterward. Test users have delightfully compared this part removal to a feeling almost like separating Velcro. You can finally print those designs with crazy overhangs!
+
+Materials:
+
+When the Form 1 is released, it will come with our first material - a neutral matte gray that is great for look-and-feel models, standalone parts, or even as a base color for painting.
+
+After a successful launch (thanks to your support!), we will continue development of an entire palette of materials for your printer. A variety of colors, transparency, flexibility, and even burnout capability for lost wax casting processes are all possible with SL.
+
+Accessories - Form Finish kit:
+
+With any 3D printing process, there are key finishing steps to get your print into its final and ready-to-use form. With SL, each part comes out of the printer with a small amount of liquid resin on its surface.
+
+We’ve designed the Form Finish kit - a finishing tray and accessories set to assist you and keep your workspace clean and organized during this process.
+
+After printing, all you need to do is remove the build platform from the printer, set it into the tray, snap the model off its supports, and use the rinsing basket to clean the print for final use. Check out our website for step by step photos!
+
+We are ready for full production with your support.
+
+So where are we in this whole process? We’ve:
+
+Formed an awesome team in Boston, Montreal, and London
+
+Engineered the system to be mass-manufactured
+
+Built and tested 7 generations of prototypes
+
+Tested a wide range of material formulations
+
+Written and optimized thousands of lines of code
+
+Tested a production run of alpha units
+
+We’re nearly ready to set up full-scale manufacturing to get your Form 1 delivered as soon as possible. We take this last crucial step seriously, and we’ll need a lot of support to do the job right. That’s why we’ve turned to Kickstarter to get the production lines up and running!
+
+If you decide to pitch in, you’ll get a discount and be one of the first to have our product on your desktop. But more importantly, you’ll play a huge part in starting this revolution in 3D printing by providing your feedback and creating amazing things with the Form 1. We can’t wait to see what you can design!
+
+What do the Gyrocube and T-Shirt rewards look like?
+
+They look like this:
+
+Spiffy, eh?
+
+The Formlabs Gyro was inspired by "Gyro the Cube" designed by Virtox. For a brief history of the design click here.
+
+Special thanks to:
+
+Juriaan Booij
+
+Andy Ryan
+
+Nervous System
+
+Skylar Tibbits
+
+Nadia Cheng
+
+Philippa Mothersill
+
+Jon Hirschtick
+
+Charlie the formlab[rador]

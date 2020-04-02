@@ -1,0 +1,55 @@
+It was winter in New York City, and Asaf Jacobi’s Harley-Davidson dealership was selling only one or two motorcycles a week. It wasn’t enough. A chance meeting led Jacobi to try out a new AI-driven marketing platform that autonomously optimizes marketing campaigns. That weekend Jacobi sold 15 motorcycles — almost twice his all-time summer weekend sales record. How? By analyzing existing customer data to isolate the defining characteristics and behaviors of high-value customers, the system identified “lookalikes” who resembled these past customers, and then used these lookalikes to test new marketing campaigns. The test results helped the algorithm predict which ad copy and visuals would resonate with the customers most likely to buy; for example, an email urging customers to “Call now” outperformed an email asking them to “Buy now” by 447%. Once it determined what was working and what wasn’t, the system autonomously chose and scaled the most effective marketing campaigns — and Jacobi’s business tripled. The spike in demand left him with a new dilemma: how to hire a bunch of new employees, fast.
+
+It was winter in New York City and Asaf Jacobi’s Harley-Davidson dealership was selling one or two motorcycles a week. It wasn’t enough.
+
+Jacobi went for a long walk in Riverside Park and happened to bump into Or Shani, CEO of an AI firm, Adgorithms. After discussing Jacobi’s sales woes, Shani, suggested he try out Albert, Adgorithm’s AI-driven marketing platform. It works across digital channels, like Facebook and Google, to measure, and then autonomously optimize, the outcomes of marketing campaigns. Jacobi decided he’d give Albert a one-weekend audition.
+
+That weekend Jacobi sold 15 motorcycles. It was almost twice his all-time summer weekend sales record of eight.
+
+Naturally, Jacobi kept using Albert. His dealership went from getting one qualified lead per day to 40. In the first month, 15% of those new leads were “lookalikes,” meaning that the people calling the dealership to set up a visit resembled previous high-value customers and therefore were more likely to make a purchase. By the third month, the dealership’s leads had increased 2930%, 50% of them lookalikes, leaving Jacobi scrambling to set up a new call center with six new employees to handle all the new business.
+
+While Jacobi had estimated that only 2% of New York City’s population were potential buyers, Albert revealed that his target market was larger – much larger – and began finding customers Jacobi didn’t even know existed.
+
+How did it do that?
+
+AI at Work
+
+Today, Amazon, Facebook, and Google are leading the AI revolution, and that’s given them a huge market advantage over most consumer goods companies and retailers by enabling them to lure customers with highly personalized, targeted advertising, and marketing. However, companies such as Salesforce, IBM, and a host of startups are now beginning to offer AI marketing tools that have become both easier to use (that is, they don’t require hiring expensive data scientists to figure out how to operate the tool and analyze its outputs) and less expensive to acquire, with software-as-a-service (SaaS), pay-as-you-go pricing. And instead of optimizing specific marketing tasks, or working within individual marketing channels, these new tools can handle the entire process across all channels.
+
+In the case of Harley-Davidson, the AI tool, Albert, drove in-store traffic by generating leads, defined as customers who express interest in speaking to a salesperson by filling out a form on the dealership’s website.
+
+Insight Center Putting Data to Work Sponsored by Accenture Analytics are critical to companies’ performance.
+
+Armed with creative content (headlines and visuals) provided by Harley-Davidson, and key performance targets, Albert began by analyzing existing customer data from Jacobi’s customer relationship management (CRM) system to isolate defining characteristics and behaviors of high-value past customers: those who either had completed a purchase, added an item to an online cart, viewed website content, or were among the top 25% in terms of time spent on the website.
+
+Using this information, Albert identified lookalikes who resembled these past customers and created micro segments – small sample groups with whom Albert could run test campaigns before extending its efforts more widely. It used the data gathered through these tests to predict which possible headlines and visual combinations – and thousands of other campaign variables – would most likely convert different audience segments through various digital channels (social media, search, display, and email or SMS).
+
+Once it determined what was working and what wasn’t, Albert scaled the campaigns, autonomously allocating resources from channel to channel, making content recommendations, and so on.
+
+For example, when it discovered that ads with the word “call” – such as, “Don’t miss out on a pre-owned Harley with a great price! Call now!” – performed 447% better than ads containing the word “Buy,” such as, “Buy a pre-owned Harley from our store now!” Albert immediately changed “buy” to “call” in all ads across all relevant channels. The results spoke for themselves.
+
+The AI Advantage
+
+For Harley-Davidson, AI evaluated what was working across digital channels and what wasn’t, and used what it learned to create more opportunities for conversion. In other words, the system allocated resources only to what had been proven to work, thereby increasing digital marketing ROI. Eliminating guesswork, gathering and analyzing enormous volumes of data, and optimally leveraging the resulting insights is the AI advantage.
+
+Marketers have traditionally used buyer personas – broad behavior-based customer profiles – as guides to find new ones. These personas are created partly out of historic data, and partly by guesswork, gut feel, and the marketers’ experiences. Companies that design their marketing campaigns around personas tend to use similarly blunt tools (such as gross sales) – and more guesswork – to assess what’s worked and what hasn’t.
+
+AI systems don’t need to create personas; they find real customers in the wild by determining what actual online behaviors have the highest probability of resulting in conversions, and then finding potential buyers online who exhibit these behaviors. To determine what worked, AI looks only at performance: Did this specific action increase conversions? Did this keyword generate sales? Did this spend increase ROI?
+
+Even if equipped with digital tools and other marketing technologies, humans can only manage a few hundred keywords at a time, and struggle to apply insights across channels with any precision. Conversely, an AI tool can process millions of interactions a minute, manage hundreds of thousands of keywords, and run tests in silica on thousands of messages and creative variations to predict optimal outcomes.
+
+And AI doesn’t need to sleep, so it can do all this around the clock.
+
+Consequently, AI can determine exactly how much a business should spend, and where, to produce the best results. Rather than base media buying decisions on past performance and gut instincts, AI acts instantly and autonomously, modifying its buying strategy in real-time based the on ever-changing performance parameters of each campaign variable.
+
+Taking the AI Plunge
+
+Because AI is new, and because marketers will be wary of relinquishing control and trusting a black box to make the best decisions about what people will or won’t do, it’s wise to adopt AI tools and systems incrementally, as did Harley-Davidson’s Jacobi. The best way to discover AI’s potential is to run some small, quick, reversible experiments, perhaps within a single geographic territory, brand, or channel.
+
+Within these experiments, it’s important to define key desired performance results; for example, new customers, leads, or an increased return on advertising spending.
+
+When it comes to choosing a tool, know what you want. Some tools focus on a single channel or task, such as optimizing the website content shown to each customer. Others, like IBM’s Watson, offer more general purpose AI tools that need to be customized for specific uses and companies. And still other AI tools produce insights but don’t act on them autonomously.
+
+It’s worth taking the plunge, and, in fact, there’s an early adopter advantage. As Harley’s Jacobi told me, “The system is getting better all the time. The algorithms will continue to be refined. Last year, we tripled our business over the previous year.”
+
+That’s good news for Jacobi and his employees, and not such good news for his competitors.

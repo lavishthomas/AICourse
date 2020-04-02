@@ -1,0 +1,165 @@
+Some advanced languages
+
+Haskell
+
+Haskell excels as a language for writing a compiler, an interpreter or a static analyzer. I don't do a lot of artificial intelligence, natural-language processing or machine-learning research, but if I did, Haskell would be my first pick there too. (Scheme would be a strong second.) Haskell is the only widely used pure, lazy functional programming language.
+
+Like Standard ML and OCaml, Haskell uses an extension of Hindley-Milner-style type inference, which means that the programmer doesn't have to write down (most) types, because the compiler can infer them. It has been my experience that it is difficult to get a bug through the Hindley-Milner type system. In fact, experienced programmers become adept at encoding correctness constraints directly into the Haskell type system. A common remark after programming in Haskell (or ML) for the first time is that once the program compiles, it's almost certainly correct.
+
+As a pure language, side effects (mutations of variables or data structures and I/O) are prohibited in the language proper. This has forced the language's designers to think seriously about how to provide such functionality. Their answer, monads, enables one to perform side effects and I/O inside a safely constrained framework. Naturally, Haskell lets users define their own monads, and now the programmer has access to monads for continuations, transducers, exceptions, logic programming and more.
+
+Aside from being pure, Haskell is also lazy. That is, an expression in Haskell is not evaluated until (and unless) its result is required to make forward computational progress. Some have argued that the promised efficiency gains from laziness haven't materialized, but that's not of concern for me. I appreciate laziness for the increase in expressiveness. In Haskell, it is trivial to describe data structures of infinite extent. Where other languages permit mutually recursive functions, Haskell permits mutually recursive values.
+
+More pragmatically, I have found laziness useful in encoding option types, where utilizing the empty case should always nuke the program. In Haskell, you can avoid creating an option type and instead use error to produce the empty value. Because of laziness, every type in Haskell automatically has two additional values: non-termination and error. Used well, this eliminates much tedious pattern matching.
+
+My favorite feature of Haskell is type classes. Haskell's type system allows the compiler to infer the correct code to run based on its type context, even when that type context is also inferred. The example of type classes that got me excited was bounded lattices. A bounded lattice is a mathematical structure that has a least element ( bot ), a greatest element ( top ), a partially ordered less than relation ( <: ), a join operation ( join ) and a meet operation ( meet ).
+
+In Haskell, one can define a bounded lattice as a type class:
+
+class Lattice a where top :: a bot :: a (<:) :: a -> a -> Bool join :: a -> a -> a meet :: a -> a -> a
+
+a
+
+Lattice
+
+a
+
+This says that if typeis a, thensupports the expected operations.
+
+What I really love about Haskell is that it lets the programmer define conditional instances of a class; for example:
+
+instance (Ord k, Lattice a) => Lattice (Map k a) where bot = Map.empty top = error $ "Cannot be represented." f <: g = Map.isSubmapOfBy (<:) f g f `join` g = Map.unionWith join f g f `meet` g = Map.intersectionWith meet f g
+
+k
+
+Ord
+
+a
+
+k
+
+a
+
+This rule says that if the typeis an instance of an order (class) and the typeis an instance of a lattice, then a map fromtois also an instance of a lattice.
+
+As another example, you can easily turn the Cartesian product of two lattices into a lattice:
+
+instance (Lattice a, Lattice b) => Lattice (a,b) where bot = (bot,bot) top = (top,top) (a1,b1) <: (a2,b2) = (a1 <: a2) || (a1 == a2 && b1 <: b2) (a1,b1) `join` (a2,b2) = (a1 `join` a2, b1 `join` b2) (a1,b1) `meet` (a2,b2) = (a1 `meet` a2, b1 `meet` b2)
+
+It's easy to make the "natural" lifting of the lattice operations, relations and elements to almost any data structure. The end result is that if you use the expression bot or the relation <: anywhere in your code, Haskell can infer, at compile-time, their "appropriate" meaning based on the type of the expression (which it can also infer).
+
+The ML languages have functors to play the role of type classes, but they lack the ad hoc polymorphism support of Haskell's type classes. Having spent a considerable amount of time programming in the MLs and in Haskell, the practical ramifications of inference on expressiveness cannot be overstated.
+
+Favorite features
+
+Resources
+
+haskell.org. Downloads, documentation, tutorials and more.
+
+The Glasgow Haskell Compiler (GHC). GHC provides robust support for Haskell on multiple platforms.
+
+Kathleen Fisher's slides for her class at Stanford are a good introduction to Haskell.
+
+Real World Haskell. As the title implies, this book pays attention to using Haskell for real applications (e.g., web programming), instead of just for compilers, interpreters and program analyzers.
+
+Scala
+
+Scala is a rugged, expressive, strictly superior replacement for Java. Scala is the programming language I use for tasks like writing web servers or IRC clients. In contrast to OCaml, which was a functional language with an object-oriented system grafted to it, Scala feels more like a true hybrid. That is, object-oriented programmers should be able to start using Scala immediately, picking up the functional parts only as they choose to.
+
+I learned of Scala from Martin Odersky's invited talk at POPL 2006. At the time, I saw functional programming as strictly superior to object-oriented programming, so I didn't see a need for a language that fused functional and object-oriented programming. (That was probably because all I wrote back then were compilers, interpreters and static analyzers.)
+
+The need for Scala didn't become apparent to me until I wrote a concurrent HTTPD from scratch to support long-polled AJAX for yaplet. In order to get multicore support, I wrote the first version in Java. I don't think Java is all that bad, and I can enjoy well-done object-oriented programming. As a functional programmer, however, the lack of terse support for functional programming features (like higher-order functions) grates on me. So, I gave Scala a chance.
+
+Scala runs on the JVM, so I could gradually port my existing project into Scala. It also means that Scala, in addition to its own rather large library, has access to the entire Java library as well. This means you can get real work done in Scala.
+
+As I started using Scala, I became impressed by how tightly the functional and object-oriented worlds had been blended. In particular, Scala has a powerful case class/pattern-matching system that addressed annoyances lingering from my experiences with Standard ML, OCaml and Haskell: the programmer can decide which fields of an object should be matchable (as opposed to being forced to match on all of them), and variable-arity arguments are permitted. In fact, Scala even allows programmer-defined patterns.
+
+I write a lot of functions that operate on abstract syntax nodes, so it's nice to match on only the syntactic children, while ignoring fields for annotations or source location.
+
+The case class system lets one split the definition of an algebraic data type across multiple files or across multiple parts of the same file. Scala also supports well-defined multiple inheritance through class-like constructs called traits. And, Scala allows operator overloading; even function application and collection update can be overloaded. Used well, this tends to make my Scala programs more intuitive and concise.
+
+One feature that turns out to save a lot of code, in the same way that type classes save code in Haskell, is implicits. You can imagine implicits as an API for the error-recovery phase of the type-checker. In short, when the type checker needs an X but got a Y, it will check to see if there's a function marked implicit in scope that converts Y into X; if it finds one, it automatically applies the implicit function to repair the type error.
+
+Implicits make it possible to look like you're extending the functionality of a type for a limited scope. For example, suppose you want to "add" an escapeHTML() method to type String . You can't modify the definition of String , but with implicits, you can make it so that when type-checking fails on myString.escapeHTML() , it will look for an implicit function in scope that can convert a String object into a type that supports the escapeHTML() method.
+
+Implicits also allow cleaner domain-specific embedded languages (DSELs) in Scala, since they allow you to transparently map Scala literals (like 3 or "while" ) into literals in the DSEL.
+
+Favorite features
+
+JVM support.
+
+Intelligent operator overloading.
+
+Extensive library.
+
+Case classes/pattern matching.
+
+Extensible pattern matching.
+
+Multiple inheritance via traits.
+
+Rich, flexible object constructors.
+
+Implicit type conversions.
+
+Lazy fields and arguments.
+
+Related blog articles
+
+Resources
+
+scala-lang.org. Downloads, documentation, tutorials and more.
+
+Programming in Scala by Martin Odersky (creator of Scala), Lex Spoon, and Bill Venners is great as both an introduction and a reference.
+
+Standard ML and OCaml
+
+The ML family is a sweet spot in the language-design space: strict, side-effectable and Hindley-Milner type-inferred. This makes these languages practical for real-world projects that need high performance and stronger guarantees of correctness. The ML family has gained traction with aerospace engineers (for its support of bug-free code) and with programmers in the financial industry (for the same reason). Standard ML was the first functional language I learned well, so I still remember being shocked by its expressiveness.
+
+Today, OCaml seems to be the popular ML to learn, but there is at least one convincing argument in SML's favor: MLton. MLton really delivers on the thesis that functional languages offer the best opportunities at optimization. As a whole-program optimizing compiler, I've yet to see another compiler match its performance. I once created OpenGL bindings for MLton to toy around with 3D graphics, and the resulting program ran faster than the C++-based model I had used as a reference, with just 10% of the code.
+
+The functor system in SML, while more verbose than Haskell's type class system, is more flexible. Once you instantiate a type class T for a kind/type k in Haskell, you can't instantiate that type class again for that kind/type. With functors, each instance gets its own name, so you can have multiple instances of a given functor for the same type. It's rarely been the case that I needed such expressiveness, but it has been nice in those cases where I have.
+
+The other modern branch on the ML family tree, OCaml, is good to know because there is a large community invested in it, which means that there are a lot of libraries available. The OCaml tool-chain is also rich, with interpreters, optimizing compilers and byte-code compilers available to the developer.
+
+Because the ML languages are more expressive than all the mainstream languages, but they still permit side effects, they make a nice stop on the way to learning Haskell. In Haskell, programmers not yet well versed in functional program design may find they repeatedly code themselves into a corner, where they don't have access to the monad that they need. The MLs keep the side effects "escape hatch" open to patch over incomplete design, which prevents projects from coming to a sudden, unexpected "refactor-or-abort" decision point. One useful measure of a language is how well it tolerates a bad or incomplete design for the software system, since design is something that inevitably changes as a program evolves. In this regard, the MLs still have the upper hand over Haskell.
+
+Favorite features
+
+Flex records. (SML only)
+
+Pattern matching.
+
+Structures and functors.
+
+Resources
+
+Scheme
+
+Scheme is a language with a pure core (λ-calculus and the theory of lists) and a design mandate to maximize freedom of expression. It's untyped, which makes it ideal for web-based programming and rapid prototyping. Given its Lisp heritage, Scheme is a natural fit for artificial intelligence.
+
+With its support for arbitrary-precision numerics, Scheme is also my first choice for implementing cryptographic algorithms. [For examples, see my short implementations of RSA and the Fermat and Solovay-Strassen primality tests in Scheme.]
+
+By far, the most compelling reason to use Scheme is its macro system. All of the macro systems available for Scheme, including the standard syntax-rules and syntax-case systems, are Turing-equivalent.
+
+Consequently, the programmer can reconfigure Scheme to reduce the impedance mismatch between the language and the task at hand. Combined with support for first-class continuations, it is even possible to embed alternate programming paradigms (like logic programming).
+
+For example, in the code:
+
+(let ((x (amb 3 4 5)) (y (amb 6 7 8 ))) (assert (= (+ x y) 12)) (display x) (display y))
+
+amb
+
+assert
+
+it is possible to write anmacro that "chooses" the right argument to make a subsequentstatement be true. (This program prints 4 and then 8.)
+
+In Scheme, during any point in the computation, the program can capture the current continuation as a procedure: invoking this procedure returns the program to the evaluation context that existed when the continuation was captured. Programming with continuations feels like traveling back and forth in time and shifting between parallel universes.
+
+Ultimately, Scheme is so minimal and extensible that there's not a whole lot to say about it, except that Scheme allows the programmer to extract from the language whatever the programmer is willing to put into it.
+
+Favorite features
+
+Related blog articles
+
+Resources

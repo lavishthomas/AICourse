@@ -1,0 +1,67 @@
+Posted on June 10, 2015 | By Matt Stauffer
+
+(This is part of a series of posts on New Features in Laravel 5.1 . )
+
+If you're not familiar with Artisan commands, they're command-line functions that you can run to interact with your Laravel application.
+
+If you run php artisan from the command line in any Laravel application directory, you'll see a list of all of the Artisan commands available for each app. As you can see, Laravel comes with quite a few enabled out of the box.
+
+The Old Way
+
+While Artisan commands are powerful and refreshingly encapsulated, prior to Laravel 5.1 they were a bit of a hassle to define. Let's look at the old way, and then check out the new.
+
+For these examples, we'll be using a Symposium command that syncs down all of the conferences available on the Joind.in API.
+
+You generate a new Artisan command using the following (Artisan!) command:
+
+$ php artisan make:console SyncJoindInEvents
+
+In Laravel 5 and earlier, that would pump out this boilerplate:
+
+<?php namespace Symposium\Console\Commands; use Illuminate\Console\Command; use Symfony\Component\Console\Input\InputOption; use Symfony\Component\Console\Input\InputArgument; class SyncJoindInEvents extends Command { /** * The console command name. * * @var string */ protected $name = 'command:name'; /** * The console command description. * * @var string */ protected $description = 'Command description.'; /** * Create a new command instance. * * @return void */ public function __construct() { parent::__construct(); } /** * Execute the console command. * * @return mixed */ public function fire() { // } /** * Get the console command arguments. * * @return array */ protected function getArguments() { return [ ['example', InputArgument::REQUIRED, 'An example argument.'], ]; } /** * Get the console command options. * * @return array */ protected function getOptions() { return [ ['example', null, InputOption::VALUE_OPTIONAL, 'An example option.', null], ]; } }
+
+As you can see, defining arguments and options uses a complicated syntax that leaves you needing to reference the docs every step of the way. We'll end up with this for now:
+
+<?php namespace Symposium\Console\Commands; use Illuminate\Console\Command; use Symposium\JoindIn\Client; class SyncJoindInEvents extends Command { protected $name = 'joindin:sync'; protected $description = 'Sync down Joind.in events.'; protected $client; public function __construct() { parent::__construct(); $this->client = Client::factory(); } public function fire() { if ($eventId = $this->argument('eventId')) { $this->info("Syncing event $eventId"); return $this->client->syncEvent($eventId); } $this->info("Syncing all events"); return $this->client->syncAllEvents(); } protected function getArguments() { return [ ['eventId', InputArgument::OPTIONAL, '(optional) Joind.In event ID'], ]; } }
+
+The New Way
+
+Let's create this same command in Laravel 5.1. Here's our boilerplate:
+
+<?php namespace Symposium\Console\Commands; use Illuminate\Console\Command; class SyncJoindInEvents extends Command { /** * The name and signature of the console command. * * @var string */ protected $signature = 'command:name'; /** * The console command description. * * @var string */ protected $description = 'Command description.'; /** * Create a new command instance. * * @return void */ public function __construct() { parent::__construct(); } /** * Execute the console command. * * @return mixed */ public function handle() { // } }
+
+First of all, take a look at that gorgeous PSR-2 formatting. Breathe it in.
+
+Second, look how much simpler the boilerplate is. But, Matt, how do we customize the arguments and options?
+
+Signature
+
+You'll notice that $name has been replaced with $signature , which says "the name and signature of the console command." This particular property of the command is where we define our arguments and options. So, here's our same command in Laravel 5.1:
+
+<?php namespace App\Console\Commands; use Illuminate\Console\Command; class SyncJoindInEvents extends Command { protected $signature = 'joindin:sync {eventId?}'; protected $description = 'Sync down Joind.in events.'; public function handle() { if ($eventId = $this->argument('eventId')) { $this->info("Syncing event $eventId"); return $this->client->syncEvent($eventId); } $this->info("Syncing all events"); return $this->client->syncAllEvents(); } }
+
+So, what else can you do? Check the docs for everything you want to know, but here are some goodies:
+
+Argument: joindin:sync {eventId}
+
+Optional Argument: joindin:sync {eventId?}
+
+Argument with default: joindin:sync {eventId=all}
+
+Boolean Option: joindin:sync --wipeOldEvents
+
+Option with Value: joindin:sync --afterDate=
+
+Option with Value and Default: joindin:sync --afterDate=1999-01-01
+
+Note that you can also add descriptions inline:
+
+protected $signature = 'joindin:sync {eventId? : (optional) The ID of the event to sync} {--wipeOldEvents : Whether to replace all locally-stored events with API results}';
+
+There's plenty more you can do, most of which you are likely familiar with: $this->argument() or $this->option() to get the data out; $this->ask() , $this->secret() , $this->confirm() , $this->anticipate() , and $this->choice() to prompt users; and $this->info() and $this->error() to output data.
+
+There are also two new output functions: $this->table() , and the $this->output->progress* , which I'll cover tomorrow.
+
+Conshmusion
+
+That's it! We can now create Artisan commands with ease, without needing the Artisan docs open every time we write out the argument and option syntax. Go forth and create!

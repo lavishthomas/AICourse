@@ -1,0 +1,155 @@
+eI’m not your lawyer, this is not legal advice. It’s not investment advice, either, unless of course you want to invest in the future of the cutest animal in the world, the endangered Vancouver Island Marmot.
+
+One of the nice things about stepping away from blockchain for a bit to get my U.S. legal qualifications in order is that I don’t have to sit through meetings or phone calls with venture capitalists anymore. With a few notable exceptions (including a very helpful Texan and the forward thinking and thoroughly charming folks who funded us), I was never a huge fan of those meetings, which are sort of like bad Tinder dates, but without any alcohol and where you talk about nothing but work the entire time.
+
+These appointments became especially painful at the beginning of 2017, when every single one went something like this:
+
+VC: So what does your business do? PJB: [Detailed explanation as to the benefits of distributed process automation which is cryptographically secure, pointing to use by SWIFT, Deloitte, and various Tier 1 banks] VC: Great, but, are you doing a token?
+
+It was moments such as those that forced me to quietly muster whatever inner steel I had and ask the one true Roman Catholic God to lend me strength to suppress the words
+
+Of course I’m not doing a %@&#*! token, you supine, Ether-huffing prokaryote. I’d like to be a responsible citizen and keep my licence* to practise* law, thank you very much.
+
+*British spelling of those words uses ‘c’ for the noun and ‘s’ for the verb.
+
+Had I given forth on a VC in this way, while in my previous employment, there is a non-zero probability that my co-founder or investors would have had me swiftly taken out back and shot. There is a 100% likelihood I would have deserved it. But, as I’m a free agent now, I can say it. And I just did, so there.
+
+But at the time, I smiled and nodded, thanked the VCs for their time, and either left or hung up.
+
+I digress. I have been a bear on ICOs since the day I started a venture of my own in the space, back in 2014 when my company was walking door-to-door visiting every bank in London and competing with a certain ICO-funded project named Ethereum for attention and budget. I remain one now.
+
+The bull case
+
+This is what we’re up against. As put by Business Insider, earlier today:
+
+ICOs, or Initial Coin Offerings, are an alternative, unregulated way of fundraising enabled by blockchain technology. Investors are sold digital “tokens” in exchange for their financial contributions, which can then varyingly be used to allow access to the finished product, act as a kind of voting power, or for other purposes. Once esoteric, they’re currently one of the hottest tickets in tech circles. And that billboard was, at the time, one of the most visible examples yet of how even the most arcane aspects of the cryptocurrency craze are now bleeding into the “real” world — accompanying a wave of interest in more “mainstream” digital currencies like bitcoin. ICOs are booming — repeatedly raising hundreds of millions of dollars and overtaking mainstream funding sources. Digital currencies like Bitcoin and Ethereum are soaring in value, increasing tenfold in a little over a year.
+
+The bull case says that Bitcoin and its ilk are the future of money and commerce itself.
+
+Getting on the ride now promises countless riches, failing to do so means missing the future. Proponents point to Bitcoin and Ethereum as prototypical examples of this new paradigm of making and selling software. As a result of the wildly outsize returns we’ve seen to date, we have already seen institutional money coming into the space via firms such as Union Square Ventures, Andreessen Horowitz, Draper Associates, and Sequoia. If the rumours are true, hundreds of millions if not billions more in institutional money is sitting on the sidelines, waiting to be deployed.
+
+I think the bull case is wrong, transparently short-termist, ethically bankrupt, and will deal tremendous damage to the reputations of the technology and its promoters before the end of the day. Below, I set out why.
+
+The bear case
+
+Cutting to the chase, the reason the ICO and Bitcoin markets are booming the way they are is because regulators in the major jurisdictions for transacting financial business have, for four or five years, more or less entirely abdicated responsibility for enforcing the laws. Enforcement of which would have brought these markets’ development to a prompt and permanent end. Bitcoin’s growth is not based on its technology alone (which, while powerful, is open-source and therefore easily replicable) but rather on the strength of virality, encouraged by the vested interests who held early and invested in marketing it; with no genuine business underlying it, it acquires its (very substantial) power and potency only from the evangelism of those who hodl and preach. The paucity of effective regulation to date means that, as an investment, it has enjoyed an advantage vis-a-vis other investments, like shares or bonds.
+
+First among these is the fact that the forward-looking statements used to sell Bitcoin are so silly, so off the wall, and so out of proportion to its terrible UX and 3 transaction-per-second transaction capacity that, if a CEO of a listed company made statements about his business like the ones we often see in relation to BTC, he would face prompt sanction (assuming of course that he didn’t immediately die from embarrassment).
+
+As Bitcoin starts to disrupt the State, watch DHH and other EU Socialists go totally berserk against it. They won't sit still and take it. — Beautyon (@Beautyon_) September 1, 2017
+
+How soon will Bitcoin replace the dollar entirely and render government obsolete? — Adam Kokesh (@adamkokesh) April 20, 2017
+
+With BTC out of the way, let us consider the public Ethereum ecosystem and its unique flavor of technology woo. Where Bitcoin is obsessed with “decentralizing” monetary policy, and does a fairly decent job of it, Ethereum is obsessed with “decentralizing” literally everything:
+
+Is Ethereum About To Unseat Amazon Cloud? https://t.co/oBSzXTRDOX — zerohedge (@zerohedge) August 13, 2017
+
+Ethereum investors have been eagerly awaiting more news about the Enterprise Ethereum Alliance, the enterprise platform that’s supposed to transform Ethereum into the Amazon Web Services (AWS) of the future. The announcement of the co-venture between several of the largest US tech companies coincided with the beginning of a massive runup in the value of Ethereum. Some have speculated that enabling the Ethereum network to process a million transactions a second could potentially boost the value of ether tokens past $2,000 a coin.
+
+That is absurd.
+
+Bear with me for a minute while I break this down. A two-node Aerospike cluster with a direct 10Gb Ethernet connection to the client can barely churn out 500,000 TPS if you’re lucky; Aerospike’s benchmarking on a single server is a million TPS. Ethereum, by contrast, runs as a distributed system on consumer hardware (slow), with users geographically distributed all over the world (slow), and with an ECDSA signature scheme (slow), such that its blocks enjoy a leisurely global propagation time of 0.3 to 3 seconds, with an absolute, fixed theoretical minimum limit of 70 ms, on account of the fact that we can’t send information more quickly than the speed of light (as slow as the slowest node).
+
+In other words, Ethereum is slower than molasses. It will continue to be slow as long as it is a blockchain. As we are not going to master quantum teleportation before the next update release, the capacity for millions (or, when seeking extra attention, “billions”) of TPS folks keep talking about is not going to exist anytime soon.
+
+Whoever planted that EEA story in ZeroHedge should be ashamed of themselves.
+
+My technical friends and I have, privately, had a good chuckle more than once at the expense of outlandish claims just like this one, and the folks making them, over the years. But reasoned, public rebuttals of Ethereum gospel or tamping down of inflated expectations are few and far between. Fake news like the above usually goes unchallenged.
+
+This is by no means the only instance of technologically questionable marketing woo Eth companies regularly churn out (see, e.g., the “World Computer” meme, the incoherent and rambling Plasma white paper, or practically any Eth community discussion on blockchain scalability).
+
+Ergo, my suspicion is that the hopes and ambitions of cryptocurrency investors probably don’t match the platform’s capabilities (Eth, e.g., currently clocks in at 14 TPS, or 999,986 shy of 1 million TPS). The chain ceases to function whenever it sees any moderately heavy use (for example, during an ICO) and is already more bloated than Bitcoin. With constraints like this, Ethereum isn’t going to “decentralize” the entire Internet anytime soon. As it is, it would have trouble “decentralizing” a call center.
+
+Help me with a disconnect: currently a strong ICO brings Ethereum network to its knees but we are dreaming of apps with massive users number — Yann Ranchere (@tek_fin) August 17, 2017
+
+The wider the expectation/reality mismatch, the more severe the correction will be.
+
+Some incentives are stronger than mining
+
+What irks me most as a legal professional, and underlies the argument that the asset class as a whole is mispriced, is the degree to which new investors are induced to buy cryptocurrencies – whether in Bitcoinland or Eth-land – as a result of claims which are overblown, untrue, or unverifiable.
+
+In both cases, the few voices who are capable of providing sober, technical criticism are often interested in the coin’s success themselves, and new, third parties who are disinterested run the risk of mob revenge if they speak out of turn. As a result, in-depth criticism of the two primary platforms is fairly rare, with debates revolving around whether this improvement or that one should be added rather than questioning whether the 120GB database we are all running is really worth more than everything produced by Kenya and her 50 million citizens for an entire year.
+
+This is why we regulate the marketing and sale of investments. Highly aggressive marketing, openly directed at unsophisticated investors, from people who should be fairly disclosing their interests results in ordinary folks making potentially life-destroying decisions like selling their homes to buy altcoins (hoping that they will be enriched in a similar manner as hyper-early adopters like Roger Ver or Rick Falkvinge).
+
+Faust 2.0
+
+The differences between the time Rick Falkvinge got in and today, of course, are (a) the number of victims and (b) how much closer the clock is to striking midnight. Back then, Bitcoin was a hobbyist’s toy, but now it and the other cryptos possess industrial marketing apparatus of terrifying scale. ICO capital gains have funded dozens of companies, with hundreds if not thousands of employees, which collectively have thrown many tens of millions of dollars – and are poised to throw tens to hundreds of millions more, if current trends are any indication – towards sponsorships, consortia, feel-good events and hackathons, promoting their own financial interests while (as far as I can tell) almost never disclosing them.
+
+It is similar for the VCs, who know that providing a favoured project with even the slightest whiff of institutional involvement will cause an ICO fundraising to blast into the ionosphere. And it is thus that a technology meant to undo entrenched corporate interests is pressed into their service for the sake of short-term liquidity.
+
+The coins may undo them yet. Despite the fact that neither Bitcoin nor any of these cryptocurrencies are especially useful (on and offramping fees are insane and writing a check is more efficient in terms of transaction fees), the price continues to spiral wildly out of control with, seemingly, no end in sight.
+
+Then again, perhaps it is.
+
+Light at the end of the tunnel
+
+Distressingly, my home jurisdiction – England and Wales – seems to be very slow off the line (if indeed they have begun seriously considering enforcement activity at all). By contrast, news out of the United States – where, it seems, the only serious enforcement has occurred – teaches us a great deal about where we might expect other aggressive jurisdictions to set down the acceptable boundaries for conducting cryptocurrency business. We know, for example, selling Bitcoins in-person has seen folks get slapped with charges for running an unlicensed money transmitting business. Willful blindness on the part of Bitcoin on-ramps as to how Bitcoins on one’s platform are being used off-platform is capable of inviting judicial sanction, even for a cryptocurrency exchange.
+
+We also know that starting a bog-standard, ho-hum, plain Jane cryptocurrency is capable of amounting to operating a money services business for the purposes of the Bank Secrecy Act. We know that tokens which purport to provide interactivity similar to profit sharing (“investment tokens”) are likely to be viewed as securities, not just by the United States but by Canada, Singapore, and possibly China as well, and furthermore that even tiny, $40,000 ICOs based in the United States are not escaping the regulators’ purview.
+
+Cryptocurrency is a criminal liability minefield. Yet, for whatever reason, nobody seems to care.
+
+Which brings me to the bear case for crypto. They say when you’re a hammer everything looks like a nail, so it is perhaps understandable that my reasons for being a bear are legal in nature. Here goes:
+
+Bear Case #1: Zombie Marmot Apocalypse
+
+Bear Case #1 assumes that the list of enforcement actions in the various categories mentioned above is a prelude to simultaneous dawn raids at the major exchanges and the homes and offices of the major ICO promoters, with a variety of agencies in a variety of countries co-ordinating their activities. Most liquidity dries up; the few remaining legal on-ramps for liquidity have nothing in which to put it. Billions in paper gains are lost.
+
+Think I’m exaggerating? Think again.
+
+For context, let’s take a ride on this marmot time machine I have right here, and visit the early Eighties. It was a more civilized age in America, when all the women were strong, all the men were good-looking, no Millennials had yet been born, and Communism wasn’t trendy or cool – it was the enemy, and rightly so.
+
+Good times. We have set our coordinates to the city of Denver at the end of 1982:
+
+For two years, a powerful belief in a type of alchemy had a grip on the Denver area. It promised to transform pennies into millions of dollars overnight and produced its own industry. It was the “hot issues” market, a fast moving boom environment that produced batches of brokerage firms specializing in penny stocks, dozens of stories of instant millionaires and–ultimately–a bust. Its focus was Denver, where small companies, primarily energy firms, sought to raise money through stock offerings. Hundreds of new issues floated onto the over-the-counter market on the crest of the oil and gas boom. Most of them were low-cost. From January 1979 to the end of December 1981, some 492 new offerings went to market through Denver underwritings. Of that group, 397 sold for a dollar or less, which put them in the “penny stock” category (as slightly redefined by inflation). More than 300 of them were oil or mineral extraction firms.
+
+Gee, this sounds awfully familiar. “Digital gold,” “digital oil,” “cryptofuel…”
+
+Back to the matter at hand: what, pray tell, did our friends at the Commission do in response to this paradigm shift?
+
+In early 1982, the market really softened. We were very concerned out here, very, very concerned at what was going to happen to the broker/dealers and the people that owned all these stocks and the financial capabilities of the brokerage community—the penny stock firms… Jim and John sent about 35 securities compliance examiners to Denver. Jim pulled from the different regional offices of the Commission; John pulled from the district offices of the NASD throughout the United States. These 35 examiners flew into Denver one Sunday night. Everyone met at the office of the SEC the next morning, bright and early. The staff in Denver had put together packets for twenty-eight different broker/dealers, containing their last financials, their last exam report, names of the principals, directions to get to the brokerage house, etc. All the examiners, including 15 from the Denver office, left the office, got into rental cars, and at nine o’clock in the morning walked into twenty-eight penny stock brokers. That was basically the end of the penny stock boom.
+
+Anyone familiar with dawn raids will know that these exercises can be highly disruptive for clients and highly lucrative for their lawyers. They are best avoided.
+
+Consensus among my colleagues seems to be that any governmental enforcement action (particularly a criminal action) would be followed swiftly by a series of private lawsuits to mop up what remains.
+
+It is, of course, impossible to read the tea leaves from outside of a governmental agency to understand what their plans or intentions are. But these things are possible.
+
+Bear Case #2: The shakeout
+
+Bear case #2 is not as extreme but looks to government agencies to cause significant disruption over an extended length of time.
+
+There are a couple of risks to this approach.
+
+First, the crypto markets are pushing $170bn in market capitalization and show no signs of stopping; I am meeting non-crypto people who know what Bitcoin and Ethereum are, which considering how few people are actually competent at developing on these platforms is alarming and speaks to hype writing checks that the code just can’t cash. Delaying enforcement gives time for these schemes to turn more speculators into victims. The longer enforcement waits, the more damage will be done.
+
+Second, as the stakes rise, we should expect institutional players with significant amounts invested to begin leaning hard on legislators for legal changes or forbearance from enforcement on the grounds that enforcement “stifles innovation.” This is nonsense, of course, as cryptocurrencies front-load their innovation into the Genesis Block and then take years to implement new features (unlike normal software, where developers can agree on and experiment with changes in hours or days).
+
+To an extent, Coin Center already performs this function, but as we begin hearing more stories like Protostarr’s, ICO firms and their investors will commit additional resources to procure favourable regulatory capture (the irony).
+
+I do wonder how much of the regulatory forbearance we’ve seen with Bitcoin has similar origins.
+
+Bear Case #3: The light touch
+
+Here, only the most outrageous frauds are prosecuted and the regulators leave everyone else alone. I think this is unlikely, or rather, that this was the correct answer in 2014. The space has become too “successful” for this to remain a credible regulatory option for much longer, if it still is at all.
+
+This is effectively the bull case, but it is temporary at best; all it means is that the ICO space will continue to grow until it becomes too large for the regulators to ignore.
+
+Why are you such a Debbie Downer?
+
+I’m not. I just think that ICOs are to the future of networks/investment what the Railway Mania was to the Industrial Revolution: a vast misallocation of capital arising from misapprehending the true utility of revolutionary technology and misapplying that technology to contemporary problems.
+
+The ICO boom shows us two things.
+
+First, that there is, in a NIRP world, enormous demand for higher-risk, higher-yield investment.
+
+Second, it has shown us that blockchains (Bitcoin and Ethereum included) are extremely reliable distributed state machines that keep on ticking despite being subjected to an almost unbelievable amount of abuse and almost no active human management and oversight.
+
+A ground-up, tech-driven reimagining of contracts, money and legally legitimate financial services is desperately needed and long overdue. My bet is that ICOs and speculative cryptocurrencies, as we encounter them in the wild today, will only be a small part of that.
+
+The future application of these technologies – the persistent 100x, 1000x gains that change the way people live – will not come from shilling coins on Facebook. Rather it will come by combining the two truths about Bitcoin and systems like it to create new institutions and new products that comply with the law but operate automatically and extremely efficiently. Companies like the Coinbases and the Blockchain.infos will provide the UX and licensing; companies like Tendermint or Monax will provide the back-ends for this next-generation infrastructure.
+
+The ICO bubble and its promise of cheap, quick gains is rightly the focus of attention for most folks at the moment. It is the promise of the greatest gains in the shortest time with the least effort. That bubble needs to pop before we can get down to business with the utility-driven applications of this technology. And pop it will, as surely as the sun rises in the morning.
+
+So as not to end this blog post on an overly serious note, here’s a picture of an adorable little marmot.

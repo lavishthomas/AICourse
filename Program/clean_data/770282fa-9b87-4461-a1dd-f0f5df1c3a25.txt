@@ -1,0 +1,69 @@
+Theft, Lies, and Facebook Video
+
+Facebook says it’s now streaming more video than YouTube. To be able to make that claim, all they had to do was cheat, lie, and steal.
+
+I’m a professional YouTube creator. Some people think that this is some kind of joke but I have 30 employees. All of them work in the online video industry, about half of them work directly on producing videos for our educational YouTube channels. We’re a small, profitable business.
+
+Facebook is an interesting, emerging platform for us. Reaching an audience is valuable, even if there’s no way to turn that value into money. So I’m excited about the potential future of Facebook as a video platform.
+
+But there are a few things that make me wary, not of their ability to grow my business, but of whether they give a shit about creators, which is actually pretty important to me. Let’s go through them one by one.
+
+They Cheat
+
+This is the least important, but it does bug me.
+
+If I embed a YouTube video or Vine on Facebook, only a tiny fraction of my audience will actually see it. But if I post the same video natively on Facebook, suddenly it’s in everyone’s feed everywhere! This data is pretty easy to come by for us, and Facebook is happy to admit the strategy. A SciShow YouTube video embedded on Facebook will reach between 20,000 and 50,000 people and be viewed by hundreds of people. The same video uploaded natively will get a reach of between 60,000 and 150,000 and be “viewed” by tens of thousands (more on what those “views” actually mean later).
+
+Sonja Foust of Duke University actually took the time to crunch some real numbers on this, and she was kind enough to allow me to share them with you:
+
+* is for clicks to open the YouTube video. ** is for clicks to open the Facebook video (rather than autoplay)
+
+A second video did better both natively and as an embed, but did MUCH better natively.
+
+So Facebook is pushing Facebook video. I guess that’s their prerogative (unless someone decides there’s an anti-trust argument to be made.) But as a creator, it seems like an abuse of their power.
+
+They Lie
+
+When a “View” is not a view.
+
+In our analytics-obsessed world, it’s tempting to first ask how to measure whether something is a view, but if we take a step back and just ask what a “view” is, the answer becomes clearer. What is a view? It’s when someone watches the video. And Facebook counts views significantly before people could be said to be watching the video.
+
+Facebook counts the “view” at the three second mark (whether or not the viewer has even turned on the sound) in the midst of a precipitous decline in retention. At that moment, 90% of people scrolling the page are still ‘watching’ this silent animated GIF. But by 30 seconds, when viewership actually could be claimed, only 20% are watching. 90% of people are being counted, but only 20% of people are actually “viewing” the video.
+
+YouTube, on the other hand, counts views in a logical way…the view is counted at the point at which people seem to actually be engaging with the video and not just immediately clicking away. This is usually around 30 seconds, but of course is different for videos of different lengths.
+
+Retention on YouTube for the same video.
+
+This might seem a little like this is a victimless crime, but it fundamentally devalues the #1 metric of online video. The view is the thing that everyone talks about and it’s the thing creators sell to advertisers in order to make a living. Applying that word to something far less valuable is going to be extremely disruptive to creators. Ad agencies and brands are confused enough without Facebook muddying the waters by calling something a view when it is in no way a measure of viewership.
+
+When Facebook says it has roughly the same number of views as YouTube, what they really mean is that they have roughly 1/5th of YouTube’s views, since they’re intentionally and blatantly over-counting to the detriment of everyone except them.
+
+They Steal
+
+Welcome to the bit that really pisses me off
+
+According to a recent report from Ogilvy and Tubular Labs, of the 1000 most popular Facebook videos of Q1 2015, 725 were stolen re-uploads. Just these 725 “freebooted” videos were responsible for around 17 BILLION views last quarter. This is not insignificant, it’s the vast majority of Facebook’s high volume traffic. And no wonder, when embedding a YouTube video on your company’s Facebook page is a sure way to see it die a sudden death, we shouldn’t be surprised when they rip it off YouTube and upload it natively. Facebook’s algorithms encourage this theft.
+
+What is Facebook doing about it?
+
+They’ll take the video down a couple days after you let them know. Y’know, once it’s received 99.9% of the views it will ever receive.
+
+Creators have been yelling (apparently into a void) about this for over a year now. Fullscreen CEO George Strompolos shared his thoughts on Twitter last month:
+
+And then he was joined by the Fine Brothers, who run one of the largest channels on YouTube
+
+Destin Sandlin, who runs the “Smarter Every Day” channel released a video on the topic after a video of his was ripped and re-uploaded by a subsidiary of Bauer Media Group and received 17 million views on their Facebook page.
+
+But most creators have responded, thus far, the same way as me. By shrugging our shoulders and saying “What am I gonna do about it…it’s Facebook, they’re massive.”
+
+But that’s exactly what makes it so awful.
+
+It’s no secret that YouTube was built, in part, on copyright infringement. Among the user generated content that drove traffic to YouTube in 2006 and 2007, there were plenty of Family Guy and Daily Show clips. But YouTube was a tiny start-up flying under the radar. As soon as it got big (and got bought) Google fixed this problem with “Content ID,” a system that analyzes every single video uploaded to YouTube and checks it against a massive database of known owned content.
+
+It’s a little inexcusable that Facebook, a company with a market cap of $260 BILLION, launched their video platform with no system to protect independent rights holders. It wouldn’t be surprising if Facebook was working on a solution now which they can roll out conveniently after having made their initial claims at being the biggest, most important thing in video.
+
+But even if they do have a system, it won’t function as well as Content ID. Content ID works so well largely because YouTube is good at monetizing content. So, instead of taking a video down, a copyright holder can claim the video and receive revenue from it. Content ID has claimed millions of videos and is responsible for over a billion dollars in revenue so copyright holders love it. But without a good system of monetization, Facebook can only remove videos, not send big checks to the owners of stolen content. For the copyright holder, interfacing with a profitless system is just a pain in the ass with no upside.
+
+What to do? Well, the lack of searchability on Facebook makes it impossible for creators to discover when their content is being freebooted, so if you see suspect content, please reach out to the creator so they can take action. If you have any legal or technical solutions you think might work, please post those as responses to this. And above all, just know that this is an issue and share what you can with who you can. Facebook won’t hold itself accountable, but maybe they will if we make them.
+
+Facebook is big enough that it shouldn’t need to resort to these tactics to build its video presence. It makes them look weak to be so excited about skyrocketing numbers if those numbers are based on cheating, lies, and theft.

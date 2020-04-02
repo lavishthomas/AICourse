@@ -1,0 +1,39 @@
+Back in the 1970s, robots revolutionized the automotive industry, performing a wide range of task more reliably and quickly than humans. More recently, a new generation of more gentle robots has begun to crop up on production lines in other industries. These machines are capable of more delicate, fiddly tasks like packing lettuce. This powerful new workforce is set to revolutionize manufacturing in ways that are, as yet, hard to imagine.
+
+But the building industry is trickier than many others. Construction sites are complex environments that are constantly changing. Any robot would have to be powerful enough to handle heavy material but light and small enough to enter standard buildings and flexible enough to navigate the terrain.
+
+That’s a big ask, but the potential benefits are huge. Construction robots would allow new types of complex structures to be assembled in situ rather than in distant factories and then transported to the site. That allows new types of structures to be built in place, indeed these structures could be modified in real time to allow for any unexpected changes in the environment.
+
+So what is the state-of-the-art for construction robots?
+
+Today we get an answer thanks to the work of Markus Giftthaler at the ETH Zurich in Switzerland and a few pals who have developed a new class of robot capable of creating novel structures on a construction site. They call their new robot the In Situ Fabricator1 and today show what it is capable of.
+
+The In Situ Fabricator1 is designed from the bottom up to be practical. It can build stuff using a range of tools with a precision of less than five millimeters, it is designed to operate semi-autonomously in a complex changing environment, it can reach the height of a standard wall, and it can fit through ordinary doorways. And it is dust- and waterproof, runs off standard electricity, and has battery backup. On top of all this, it must be Internet-connected so that an architect can make real-time changes to any plans if necessary.
+
+Those are a tricky set of targets but ones that the In Situ Fabricator1 largely meets. It has a set of cameras to sense its environment and powerful onboard processors for navigating and planning tasks. It also has a flexible, powerful robotic arm to position construction tools.
+
+To show off its capabilities, Giftthaler and co have used it to build a pair of structures in an experimental construction site in Switzerland called NEST (Next Evolution is Sustainable building Technologies). The first is a double-leaf undulating brick wall that is 6.5 meters long and two meters high and made of 1,600 bricks.
+
+Even positioning such a wall correctly on a construction site is a tricky task. In Situ Fabricator1 does this by comparing the map of the construction site it has gathered from its sensors with the architect’s plans. But even then, it must have the flexibility to allow for unforeseen problems such as uneven terrain or material sagging that changes a structure’s shape.
+
+“To fully exploit the design-related potentials of using such a robot for fabrication, it is essential to make use not only of the manipulation skills of this robot, but to also use the possibility to feed back its sensing data into the design environment,” say Giftthaler and co.
+
+The resulting wall, in which all the bricks are positioned to within seven millimeters, is an impressive structure.
+
+The second task was to weld wires together to form a complex, curved steel mesh that can be filled with concrete. Once again, In Situ Fabricator1’s flexibility proved crucial. One problem with welding is that the process creates tensions that can change the overall shape of the structure in unpredictable ways. So at each stage in the construction, the robot must assess the structure and allow for any shape changes as it welds the next set of wires together. Once again, the results at NEST are impressive.
+
+In Situ Fabricator1 is not perfect, of course. As a proof-of-principle device, Giftthaler and co use it to identify improvements they can make to the next generation of construction robot. One of these is that at almost 1.5 metric tons, In Situ Fabricator1 is too heavy to enter many standard buildings—500 kilograms is the goal for future machines.
+
+But perhaps the most significant problem is a practical limit on the strength and flexibility of robotic arms. In Situ Fabricator1 is capable of manipulating objects up to about 40 kilograms but ideally ought to be able to handle objects as heavy as 60 kilograms.
+
+But that pushes it up against a practical limit. In Situ Fabricator1’s arm is controlled by electric motors that are incapable of handling heavier objects with the same level of precision. What’s more, electric motors are notoriously unreliable in the conditions found on construction sites, which is why most heavy machinery on these sites is hydraulic.
+
+So Giftthaler and co are already at work on a solution. These guys have designed and built a hydraulic actuator that can control a next-generation robot arm while handling heavier objects more reliably and with the same precision. They are already using this design to build the next generation construction robot that they call In Situ Fabricator2, which should be ready by the end of this year.
+
+All that shows significant promise for the building industry. Other groups have tested advances such as 3-D printing new buildings. But a significant limitation of 3-D printing is that the building cannot be bigger than the 3-D printer. So a robot that can construct things that are bigger than itself is a useful advance.
+
+But there is significant work ahead. The building industry is naturally conservative. The relatively long lead time in creating new buildings (not to mention the red tape that goes with it) make it hard for construction companies to invest in this kind of high-tech approach.
+
+But the work of Giftthaler and co should help to overcome this and showcase the ability of robots to create entirely new forms of structure. It’ll be interesting to see if they can do for the construction industry what robots have done, and continue to do, for cars.
+
+Ref: arxiv.org/abs/1701.03573: Mobile Robotic Fabrication at 1:1 scale: the In situ Fabricator

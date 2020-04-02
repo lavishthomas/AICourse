@@ -1,0 +1,94 @@
+One of the most popular and powerful features in Google Analytics is Advanced Segmentation . It lets you isolate and analyze subsets of your traffic. You can select from predefined segments such as "Paid Traffic" and "Visits with Conversions" or create your own segments with a flexible, easy-to-use segment builder. Then, you can apply one or more of these segments to current or historical data, and even compare segment performance side by side in reports.
+
+
+
+
+
+
+
+
+
+We’ve recently re-imagined segmentation to make it even easier for new Analytics users, yet also more powerful for seasoned analysts and marketers.
+
+Some of the key updated features include:
+
+
+
+
+
+User segmentation
+
+Previously, advanced segments were based on visits. With the new segment, a new option is provided to create user segment. In a user segment, all visits of the users who fit the segment criterias will be selected (such as specific demographics or behaviors). It will be a useful technique when you need to perform user level analysis.
+
+
+
+
+
+When you are using a segment template, the text below the template name tells you which kind of segment you are building. When you are creating a segment from advanced ‘conditions’ and ‘sequences’, you can choose to create visits or user segments or even a combination of both.
+
+
+
+
+
+Cohort analysis
+
+Measuring users in cohorts provides benefits in the consistency of analysis, and is a technique well applied in the offline world. It helps analyze the long-term benefit of specific groups of customers (for example, customers who first visited within a specified timeframe).
+
+
+
+
+
+
+
+
+
+Sequence segment
+
+Sequence segments provide an easy way to segment users based on a series of on site behaviors. For example, customers who started on a specific landing page, visited some particular pages and ended up converting. User sequences now provide you with capability to define a sequence across multiple visits.
+
+
+
+
+
+Segment templates
+
+You can always build your segments from scratch, but for most common use cases, building segments from templates will be an easier choice. We have provided 6 templates as ‘Demographics’, ‘Technology’, ‘Behavior’, ‘Date of First Visit’, ‘Traffic Sources’ and ‘E-commerce’ for you to start with. You can combine the configuration in multiple templates to build a segment.
+
+
+
+
+
+Fully refreshed new UI
+
+
+
+
+
+As seen above, the newly refreshed UI makes segmentation simple and makes this powerful feature even more useful. The new segment card design promotes segmentation as a critical analytics technique with better visibility and readability. For users maintaining a fair number of segments, new features are provided to filter, sort and search your segments in both grid view and list view.
+
+
+
+
+
+
+
+
+
+Additionally, the below video provides a quick overview:
+
+
+
+
+
+
+
+The new segmentation version will be rolling out to all users over the next couple of months. View our help center article for more details on how to get started and check out our Analytics Evangelist Justin Cutroni’s blog for a post sharing more reasons to get excited about the new segmentation.Additionally, the below video provides a quick overview:
+
+
+
+
+
+Posted by Wayne Xu, Google Analytics team
+
+
+

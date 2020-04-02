@@ -1,0 +1,133 @@
+Today, a narrowly divided Supreme Court held that the practice of instantaneous triple talaq (talaq – ul – biddat) [hereinafter “triple talaq” for short] which authorised a Muslim man to divorce his wife by pronouncing the word “talaq” thrice, was legally invalid. On the outcome, the Court split three to two: Justices Nariman, Lalit and Joseph in the majority, with the Chief Justice and Justice Nazeer dissenting. However, Justice Nariman (writing for himself and Justice Lalit) and Justice Joseph used different – and partially contradictory – reasoning to arrive at the conclusion. With what is effectively a 2 – 1 -2 split, there will be considerable controversy over what, precisely, the Supreme Court held in this case. Before discussing the different opinions, therefore, it will be useful to provide a brief overview.
+
+The constitutional status of triple talaq depended, in part, upon its legal status. In particular, there was a dispute over whether triple talaq had been codified into statutory law by the 1937 Muslim Personal Law (Shariat) Application Act. This was important, because all statutes are subject to fundamental rights. However, under existing jurisprudence, uncodified personal law is exempt from fundamental rights scrutiny. Therefore, if the 1937 Act did codify triple talaq, then the Court could examine whether it was consistent with the Constitution. If it did not, however, then the Court would have to ask whether triple talaq was part of Muslim personal law; and if so, whether to uphold its existing jurisprudence exempting personal law from fundamental rights scrutiny, or to reconsider it.
+
+Within this framework, this is how the Court’s three judgments mapped out:
+
+A. Does the 1937 Act codify triple talaq under statutory law?
+
+Yes: Nariman and Lalit JJ
+
+No: Kurien Joseph J., and Khehar and Nazeer JJ
+
+A1. If the answer to A is yes, then does triple talaq (as codified by the 1937 Act) violate the Constitution?
+
+Yes: Nariman and Lalit JJ (Article 14)
+
+No: _____
+
+N/A: Kurien Joseph J., and Khehar and Nazeer JJ
+
+B. If the answer to A is no, then is triple talaq part of Muslim personal law – that is, is it uncodified Muslim personal law?
+
+Yes: Khehar and Nazeer JJ
+
+No: Kurien Joseph J
+
+N/A: Nariman and Lalit JJ
+
+B1: If the answer to B is yes, then can triple talaq be tested under the Constitution?
+
+Yes: ______
+
+No: Khehar and Nazeer JJ
+
+N/A: Nariman and Lalit JJ, Kurien Joseph J
+
+C. In any event, is triple talaq protected under Article 25 as an “essential practice” of Islam?
+
+Yes: Khehar and Nazeer JJ
+
+No: Kurien Joseph J., Nariman and Lalit JJ.
+
+Therefore:
+
+A majority of three judges held that the 1937 Act did not codify triple talaq. Beyond that, however, there is no clear majority for any consequential legal proposition in this case (apart from a momentous change on the legal status of the doctrine of arbitrariness, which I shall deal with in a separate post). Justice Kurien Joseph – the “swing vote” in this case – agreed with the dissent that triple talaq had not been codified by the 1937 Act. This was at odds with the foundation of the judgment of Justices Nariman and Lalit, who held that the 1937 Act did codify triple talaq. However, Justice Joseph then disagreed with the next step in the dissent’s reasoning, which was the proposition that triple talaq was part of Muslim personal law (this, naturally, brought him into agreement with Justices Nariman and Lalit on the issue that triple talaq was not an essential or integral aspect of Islam, and therefore protected under Article 25 of the Constitution). What we therefore get, at the end of the day, is a majority in terms of outcome (3:2), a different majority on the interpretation of the 1937 (3:2) Act, but no majority for the reasoning leading up to the outcome.
+
+—
+
+The Judgment of Nariman J (joined by Lalit J)
+
+Justice Nariman began by noting that talaq – ul – biddat was only one of the many permissible forms of divorce under Islamic law, and a strongly disapproved one at that (paragraph 9). With this brief background, he analysed the 1937 Act. Noting the Statement of objects and Reasons of the Act, which recognised a demand from the Muslim constituency that “Muslim Personal Law (shariat) should be made applicable to them.” Section 2 of the Act then stated that “Notwithstanding any custom or usage to the contrary… regarding… marriage, dissolution of marriage, including talaq, ila, zihar, lian, khula, and mubaraat… the rule of decision in cases where parties are Muslims shall be the Muslim Personal Law (Shariat).”
+
+Justice Nariman held that the plain meaning of Section 2 was that, after 1937, the shariat was accorded statutory sanction in India. Or, to put it in simpler language, after the 1937 Act, what made the shariat legally enforceable in India (as applied to Muslims) was the 1937 Act. Before the 1937 Act, colonial judges were applying and enforcing the shariat (presumably) directly as religious sanctions, drawn from the Quran, the Hadith, and other authoritative texts. The 1937 Act, however, now mediated between Islamic scripture and its application in concrete cases.
+
+It was argued by the Muslim Personal Law Board that the opening words of Section 2 – “notwithstanding any custom or usage to the contrary…” implied that the purpose of the 1937 Act was not to enforce Shariat, but to remove “custom and usage” as sources of Islamic personal law. Justice Nariman swiftly rejected this argument, holding that to allow a non-obstante clause to determine the interpretation of a Section that was otherwise unambiguous, would amount to “the tail wagging the dog” (paragraph 16).
+
+Consequently, Justice Nariman was able to conclude that the 1937 Act (which included the statutory sanction of triple talaq) “would be hit by Article 13(1) if found to be inconsistent with the provisions of Part III of the Constitution, to the extent of such inconsistency.” (para 21). In other words, if the Court found that the practice instantaneous triple talaq violated any constitutional provision, then to the extent that Section 2 of the 1937 Act authorised it, it would be unconstitutional and void.
+
+This would be true, of course, unless triple talaq was saved by any other constitutional provision. The Muslim Personal Law Board argued that it was saved by Article 25, which guaranteed the freedom of conscience and religion. Justice Nariman rejected this argument, pointing out that under Indian jurisprudence, Article 25 only protected “integral” or “essential” aspects of religion. In view of extensive and uncontroverted religious authority holding that triple talaq was an “irregular” way of conducting divorce, it could not, under any circumstances, be held to be an essential aspect of Islam (or under the Hanafi school of Islam, which practiced it) (paragraph 25).
+
+Having strongly affirmed that it was the duty of the Court to strike down unconstitutional laws, and not leave the task up to Parliament (paras 26 – 30), Justice Nariman then came to the core of the case – the examination of the constitutionality of instantaneous triple talaq (paragraph 31 onwards). Focusing on Article 14 of the Constitution, he asked whether a law or a statute could be invalidated on the ground of “arbitrariness” (for a summary of the constitutional controversy on this point, see Mihir’s guest post here). After a detailed and technical discussion, Justice Nariman found that arbitrariness had always been a ground of legislative review under Article 14 (paragraphs 32 – 55), and judgments that held to the contrary were incorrectly decided.
+
+The standard of arbitrariness required that if a law was “disproportionate, excessive… or otherwise manifestly unreasonable“, then it would be struck down under Article 14 (paragraph 45). Applying the standard to instantaneous triple talaq, Justice Nariman then held, in his concluding paragraph:
+
+“Given the fact that Triple Talaq is instant and irrevocable, it is obvious that any attempt at reconciliation between the husband and wife by two arbiters from their families, which is essential to save the marital tie, cannot ever take place. Also, as understood by the Privy Council in Rashid Ahmad (supra), such Triple Talaq is valid even if it is not for any reasonable cause, which view of the law no longer holds good after Shamim Ara (supra). This being the case, it is clear that this form of Talaq is manifestly arbitrary in the sense that the marital tie can be broken capriciously and whimsically by a Muslim man without any attempt at reconciliation so as to save it. This form of Talaq must, therefore, be held to be violative of the fundamental right contained under Article 14 of the Constitution of India. In our opinion, therefore, the 1937 Act, insofar as it seeks to recognize and enforce Triple Talaq, is within the meaning of the expression “laws in force” in Article 13(1) and must be struck down as being void to the extent that it recognizes and enforces Triple Talaq. Since we have declared Section 2 of the 1937 Act to be void to the extent indicated above on the narrower ground of it being manifestly arbitrary, we do not find the need to go into the ground of discrimination in these cases, as was argued by the learned Attorney General and those supporting him.”
+
+Three things stand out in Justice Nariman’s judgment. The first is his refusal to consider the question of whether personal laws are subject to the Constitution (although, in paragraph 22, he specifically casts doubt on the correctness of Narasu Appa Mali, and opines that it might need to be reviewed). In a guest post on this blog, Praharsh Johorey argued that the triple talaq case was an ideal opportunity to reconsider a judgment as clearly wrong as Narasu; elsewhere, I argued that a judgment invalidating triple talaq could either do it narrowly, through the 1937 Act and the essential religious practices test, or by taking a broad route, and reversing Narasu Appa Mali. Justice Nariman chose the narrow route, and in that sense, there is a feeling of a remarkable opportunity missed. To be fair, technically, it is difficult to fault him for this: once he had held that the 1937 Act codified Muslim personal law, there was no need for him to consider any other question. On this blog, I have often argued that judges should not go charging like wild horses over constitutional terrain, and ought to decide cases on the narrowest grounds available to them. I cannot, in good faith, criticise Justice Nariman for doing precisely that. Nonetheless, the sense of regret remains.
+
+The second issue is Justice Nariman’s reliance upon the essential religious practices test to deny triple talaq the protection of Article 25. On this blog, I have tried to point out before that ERP is both constitutionally unprincipled and impractical, because it involves a secular Court making ecclesiastical judgments. I am not alone in this criticism: for the last four decades, ERP has been criticised by both scholars and practitioners; apart from a dissenting judgment by Justice Lakshmanan in 2004, however, it has never been seriously challenged within the judiciary. This case marked an ideal starting point for the Court to jettison this seriously flawed approach, and hold – along with Ambedkar in the Constituent Assembly Debates – that Article 25 simply wasn’t applicable to the laws of marriage, divorce, inheritance, which had a tangible impact upon the civil status of parties; in other words, one cannot, under the cover of religion, claim a vast domain of human life off-limits from constitutional values. As Ambedkar had said:
+
+“The religious conceptions in this country are so vast that they cover every aspect of life, from birth to death. There is nothing which is not religion and if personal law is to be saved, I am sure about it that in social matters we will come to a standstill. I do not think it is possible to accept a position of that sort. There is nothing extraordinary in saying that we ought to strive hereafter to limit the definition of religion in such a manner that we shall not extend beyond beliefs and such rituals as may be connected with ceremonials which are essentially religious. It is not necessary that the sort of laws, for instance, laws relating to tenancy or laws relating to succession, should be governed by religion.”
+
+In this second sense, the judgment represents a chance missed.
+
+And thirdly, it appears to me that – notwithstanding his spirited revival of the doctrine of arbitrariness – Justice Nariman’s constitutionality analysis misplaces priorities. The core problem with instantaneous triple talaq was not its arbitrariness, but how, in giving men a unilateral power of instant divorce, it discriminated against Muslim women. It was more a question of unequal power and inequality (Article 15) than the rule of law (Article 14). Again, technically, one cannot fault the reasoning; in a broader sense, however, it seems to have achieved the right outcome, for the right reasons, but perhaps not… the best reasons.
+
+The Judgment of Joseph J (for himself)
+
+Justice Joseph wrote a brief judgment. He held that the Supreme Court, in Shamin Ara, had already held that “instantaneous triple talaq” was invalid under Islamic law (paragraph 1). It was necessary for him to carry out this analysis, because – in his view – the 1937 Act only made Islamic personal law applicable to Muslims, but was “not a law regulating talaq.” (paragraph 4) Noting that the primary authoritative source for Islamic personal law was the Quran, Justice Joseph then examined the Quranic suras that dealt with talaq, and found that:
+
+“The Holy Quran has attributed sanctity and permanence to matrimony. However, in extremely unavoidable situations, talaq is permissible. But an attempt for reconciliation and if it succeeds, then revocation are the Quranic essential steps before talaq attains finality.51 In triple talaq, this door is closed, hence, triple talaq is against the basic tenets of the Holy Quran and consequently, it violates Shariat.” (paragraph 10)
+
+Justice Joseph then cited multiple High Court judgments, leading up to the Supreme Court judgment in Shamin Ara, which had affirmed this proposition (paragraphs 11 – 23), and concluded that:
+
+“Fortunately, this Court has done its part in Shamim Ara. I expressly endorse and re-iterate the law declared in Shamim Ara. What is held to be bad in the Holy Quran cannot be good in Shariat and, in that sense, what is bad in theology is bad in law as well.”
+
+It is important to note that Joseph J. expressed no opinion on the question of whether uncodified personal laws are subject to the Constitution, and therefore, there is no majority in this judgment that supports that point of view. In paragraph 5, he made the limited observation that “I wholly agree with the learned Chief Justice that the 1937 Act is not a legislation regulating talaq. Consequently, I respectfully disagree with the stand taken by Nariman, J. that the 1937 Act is a legislation regulating triple talaq and hence, the same can be tested on the anvil of Article 14.” That is, his disagreement with Nariman J. was limited to the question of whether triple talaq, through the 1937 Act, could be tested under Article 14; however, since Nariman J. himself expressed no opinion on whether, if triple talaq remained uncodified, it could be tested under Article 14 (by overruling Narasu), Justice Joseph could not possibly have disagreed with him on this point, because there was nothing to disagree with.
+
+That said, Justice Joseph’s analysis of Section 2 of the 1937 Act does not seem correct. The distinction between the 1937 Act enforcing the shariat, and the Act “regulating” triple talaq, is irrelevant to the constitutional analysis. What matters is not that the procedure of triple talaq is contained in a statute, but that the source of authority of triple talaq is a statute. The moment that is conceded, the statute in question – and along with everything that it authorises – becomes subject to Part III and the Constitution. On this issue, Justice Nariman’s view appears to be the correct one.
+
+The Judgment of the Chief Justice (for himself and Justice Nazeer)
+
+The Chief Justice’s judgment has the merit that, after page 176, when the recording of submissions ends, and the analysis begins, it is clear and easy to follow. That, however, is its only merit. The judgment advances novel constitutional propositions unsupported by the constitutional text, history, or precedent, and it severely undermines the constitutional balance between individual rights and religious precepts.
+
+The Chief Justice began by noting that the sources of Islamic personal law are not limited to the Quran (paragraph 121), and that, in fact, all parties have agreed that talaq – ul – biddat is “bad in theology but good in (Islamic personal) law” (paragraph 127). Declining to go into an interpretation of rival hadiths provided by both parties, he noted that:
+
+“The fact, that about 90% of the Sunnis in India, belong to the Hanafi school, and that, they have been adopting ‘talaq-e-biddat’ as a valid form of divorce, is also not a matter of dispute. The very fact, that the issue is being forcefully canvassed, before the highest Court of the land, and at that – before a Constitution Bench, is proof enough. The fact that the judgment of the Privy Council in the Rashid Ahmad case1 as far back as in 1932, upheld the severance of the matrimonial tie, based on the fact that ‘talaq’ had been uttered thrice by the husband, demonstrates not only its reality, but its enforcement, for the determination of the civil rights of the parties. It is therefore clear, that amongst Sunni Muslims belonging to the Hanafi school, the practice of ‘talaq-e-biddat’, has been very much prevalent, since time immemorial.” (paragraph 144)
+
+And:
+
+“We are satisfied, that the practice of ‘talaq-e-biddat’ has to be considered integral to the religious denomination in question – Sunnis belonging to the Hanafi school. There is not the slightest reason for us to record otherwise. We are of the view, that the practice of ‘talaq-e-biddat’, has had the sanction and approval of the religious denomination which practiced it, and as such, there can be no doubt that the practice, is a part of their ‘personal law’.” (paragraph 145)
+
+The problem with this argument is that paragraph 145 does not follow from paragraph 144. Under the essential religious practices test, as applied by the Supreme Court over time, not everything sanctioned by religion is integral to it. The Chief Justice slid seamlessly between noting that instantaneous triple talaq is practiced by Indian Muslims as a part of their religion, to holding that is an essential part of it, without showing independently that the threshold of ERP has been met. Recall that the Supreme Court has held, in the past, that neither worshipping at a mosque nor cow-slaugher on Id, are integral parts of Islam, on the basis that Islam does not mandate either practice. Under this standard, in this case, it would under the ERP, it would have to be shown that Islam mandated instantaneous triple talaq. This, the Chief Justice did not show; and while I disagree with the ERP test, given that the Chief Justice had chosen to apply it, I think it important to point out that he applied it incorrectly.
+
+The Chief Justice then advanced a proposition that is utterly bizarre. In paragraph 146, he said:
+
+“‘Personal law’ has a constitutional protection. This protection is extended to ‘personal law’ through Article 25 of the Constitution. It needs to be kept in mind, that the stature of ‘personal law’ is that of a fundamental right. The elevation of ‘personal law’ to this stature came about when the Constitution came into force. This was because Article 25 was included in Part III of the Constitution. Stated differently, ‘personal law’ of every religious denomination, is protected from invasion and breach, except as provided by and under Article 25.”
+
+Notably, no authority is advanced to support this proposition. That is because there is none. No Court has held that “personal law” is a fundamental right. In fact, that sentence is incoherent – how can “personal law” have the “stature” of a “fundamental right”? Rights under Article 25 belong to individuals, not to “laws”. More importantly, Article 25 does not confer constitutional protection upon personal laws. It guarantees that “all persons are equally entitled to freedom of conscience and the right freely to profess, practise and propagate religion.”
+
+To go from “all persons are equally entitled to… freely… practice… religion” to “Article 25 protects personal laws” is to put language into a rack and torture it into a shapeless mass. What might have the Chief Justice been thinking? Perhaps he was thinking this: personal law falls within religion. Article 25(1) protects religion. Therefore, Article 25(1) protects personal laws. That train of thought, however, misses the fact that Article 25(1) does not protect religion per se, but protects an individual’s freedom to practice her religion; in other words, it does not protect religious norms, rules, or institutions, but individual rights. Now, it might be argued that, potentially, a Muslim man could approach the Court and argue that by denying him the option of triple talaq, his Article 25(1) right was being violated; such a case, however (apart form being decided on separate grounds altogether), is conceptually different from conferring the “stature” of fundamental rights upon an entire system of (personal law) rules, and the distinction is crucial.
+
+Most of all, what is entirely unacceptable about this proposition is that, as the Chief Justice himself observed (in the extract quoted above), marriage affects an individual’s civil status and civil rights. The effect of holding that “personal laws” are protected under the Constitution’s religious freedom guarantee is to grant to religious bodies the power of determining individuals’ civil status (and their civil rights), without constitutional recourse. This seems to be a negation of the very basic meaning of secularism.
+
+The Chief Justice then held that the 1937 Act did not codify triple talaq, but only negated the use of “customs and usages” in adjudicating cases between Muslims (paragraph 156). I have already argued above that this is a flawed reading of the 1937 Act. Consequently, he held that the only limitations upon personal law can be those found in the opening phrase of Article 25(1): “public order, health, and morality.” On this, he noted:
+
+“… it is impossible to conclude, that the practice impinges on ‘public order’, or for that matter on ‘health’. We are also satisfied, that it has no nexus to ‘morality’, as well.“
+
+But why? He provided no reasoning for this. If “morality” under Article 25(1) refers to the concept of constitutional morality, then surely gender equality and non-discrimination art part of that definition of morality? And if not, what else does morality mean? What does the Chief Justice think it means, and why is instantaneous triple talaq “moral”? There are no answers.
+
+The other preliminary phrase in Article 25(1) is “subject to… the other provisions of this Part” (that is, Part III). The Chief Justice held that this is also inapplicable, because Articles 14, 15 and 21 – which triple talaq potentially violates – are only applicable to State action against individuals, and not to private violations of rights (paragraph 165). However, not only does this argument go against the Supreme Court’s recent liquor ban judgment, which the Chief Justice himself signed on to, and which held that Article 21 places an affirmative obligation upon the State to protect fundamental rights – but it also ignores the fact that triple talaq is only legally effective because it is sanctioned by the Courts. Triple talaq does not operate in some parallel, extra-legal domain; rather, it is not only recognised (as an aspect of personal law) by the State, but it can also be enforced through the courts. Therefore, the State involvement is inextricable.
+
+Lastly, the Chief Justice addressed an argument that instantaneous triple talaq violates principles of constitutional morality, which he rejected by reiterating the proposition that personal laws themselves are a part of fundamental rights, and ending with this paragraph:
+
+“Religion is a matter of faith, and not of logic. It is not open to a court to accept an egalitarian approach, over a practice which constitutes an integral part of religion. The Constitution allows the followers of every religion, to follow their beliefs and religious traditions. The Constitution assures believers of all faiths, that their way of life, is guaranteed, and would not be subjected to any challenge, even though they may seem to others (-and even rationalists, practicing the same faith) unacceptable, in today’s world and age. The Constitution extends this guarantee, because faith constitutes the religious consciousness, of the followers. It is this religious consciousness, which binds believers into separate entities. The Constitution endevours to protect and preserve, the beliefs of each of the separate entities, under Article 25.” (paragraph 193)
+
+It is a particularly stark irony that Chief Justice needed to replace the word “persons” (which is what Article 25(1) says) with the word “entities”, in order to sustain this unsustainable conclusion.
+
+I have engaged with the dissent at some length, because a 3 – 2 split is a judgment by a hair’s breadth. Had one judge flipped, the dissent would have become the majority. While I feel that the majority opinions could have been stronger on some points, I feel – even more strongly – that the dissent, which elevates personal law to the status of the Constitution, and in fact, elevates it above all other fundamental rights in Part III, would – had it carried the day – done profound damage to the constitutional fabric. It would have fatally undermined the framers’ attempts to frame a secular Constitution, where religion could not become the arbiter of an individual’s civil status and her civil rights, and would, in a single stroke, have set back a long struggle for the rights of basic equality and democracy against the claims of religion.
+
+What this divided judgment means for future jurisprudence dealing with the relationship between personal law and the Constitution, remains to be seen. The question is perhaps more open now than it ever was.
+
+Advertisements

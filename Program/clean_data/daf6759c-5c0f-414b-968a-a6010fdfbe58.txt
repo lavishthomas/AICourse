@@ -1,0 +1,329 @@
+You might have noticed that I have a pretty large website with over 2000 pages indexed in Google. Lots of content. Lots of pages. Lots of moving parts.
+
+As you can imagine, doing SEO for a huge site can sometimes cause a huge headache.
+
+Interestingly, it’s equally as tough to do SEO for a super tiny site.
+
+It sounds like a paradox, but both tiny and huge sites present their own sets of challenges.
+
+With small sites, it’s hard to gain a lot of momentum. There’s less content to share and optimize. You’ll naturally get fewer backlinks.
+
+It seems like there’s no way such a featherweight site could jump in the ring with the big timers.
+
+…Right?
+
+Small sites do stand a chance.
+
+In my SEO career, I’ve advised for more sites than I can count. I’ve worked with big and small sites on all kinds of budgets.
+
+And I found out that a lot of the SEO principles that apply to larger sites actually apply to smaller sites as well.
+
+As the title of this article suggests, you can do big-scale SEO on a tiny site.
+
+I wanted to push this idea to the extreme. Could I make an SEO plan for a five-page WordPress site?
+
+WordPress is the budget content management system (CMS) of choice, and you might just start with only five pages.
+
+That’s nothing to be ashamed of. It just means you have to know what to do.
+
+I distilled all of my SEO knowledge into a repeatable and scalable process that you can use right now.
+
+Whether you’re just starting out or stuck in the same old place, this is for you. Let’s get started!
+
+Download the essential plugins
+
+For most WordPress users, plugins are the backbone of the platform.
+
+Plugins are like apps for your site. There are over 50,000 of them!
+
+They can do most of the heavy lifting for you, so you don’t need to have any technical SEO or coding experience.
+
+You can handle it all with the experience you have now.
+
+If you missed it, I published a huge list of my 46 favorite SEO plugins .
+
+I’m going to handpick the 5 best plugins from that list and go into some more detail for you in this article.
+
+These are the plugins I’ve had the best success with, and they all have earned my full recommendation.
+
+Since each plugin has so many parts to it, I’ll go over a few of my favorite features too.
+
+If any plugin is the SEO plugin, it’s Yoast. Over 3 million sites rely on it to improve their SEO.
+
+Maybe you know that SEO is important but you want a helping hand. Yoast has your back.
+
+It will spell everything out for you so you don’t have to second-guess yourself.
+
+My favorite part of Yoast is this:
+
+In that small section, you can control so much of your SEO.
+
+You can edit your title tag, meta description, focus keyword, and more
+
+Yoast will then tell you how you’re doing. The section at the bottom lets you know what’s good (green), what needs work (orange), and what needs serious improvement (red).
+
+While this is by far my favorite part of Yoast, it has a lot more power.
+
+For example, you can easily edit metadata.
+
+If you’re a non-technical person like me, you’ll love Yoast.
+
+Let me tell you something. I spend a ton of money on marketing tools each month.
+
+But one of my favorite tools is completely free: Google Analytics (GA).
+
+I love how much you can do with it, and with this nifty plugin, you can connect your GA account with your WordPress site.
+
+This makes it a snap to track all kinds of metrics on your WordPress site.
+
+It’s important to keep a close eye on how your site is performing. GA is my preferred tool for that, and many of the top-notch marketers and SEOs I know also use it.
+
+You can track links, see how your AdSense ads are doing, check out real time statistics right from your WordPress dashboard, and much more.
+
+In my own words, “Squirrly is more than an SEO tool––it’s a complete content marketing suite.”
+
+I’m not trying to be egotistical by quoting myself, I promise. That’s a testimonial I wrote years ago for SEO Squirrly.
+
+To this day, it remains one of the most comprehensive SEO plugins, free or paid.
+
+I like plugins that don’t require me to have a ton of knowledge. Although I’ve built million-dollar businesses, I don’t know how to code!
+
+So plugins like Squirrly are perfect for me.
+
+This plugin does everything from analytics to keyword research.
+
+It’s extremely user-friendly, so you’ll be up and running with it in no time.
+
+WPtouch bills itself as “the most popular WordPress mobile solution, eight years running.”
+
+It solves a huge problem for SEO: mobile friendliness.
+
+I’ve written about mobile friendly content and discussed the implications of mobile-first indexing .
+
+But all that doesn’t mean a thing unless you’re sufficiently prepared for a mobile world .
+
+Are you?
+
+If you’re not, WPtouch can help.
+
+It has one simple task: “WPtouch is a mobile plugin for WordPress that automatically adds a simple and elegant mobile theme for mobile visitors to your WordPress website.”
+
+It’s even recommended by Google .
+
+This is one of the best plugins you can install.
+
+You’re probably reading this article on a mobile device right now. If I hadn’t optimized this site for mobile, it would look terrible.
+
+WPtouch ensures your site looks fantastic on any mobile device, and you don’t have to know any code at all.
+
+Another Google-recommended plugin, Jetpack gives you a host of useful SEO tools.
+
+You can share your content on any social network, view site stats, show your users related content, and protect your site from attacks, just to name a few features.
+
+While it has free and premium features, the free features are more than enough to get you started.
+
+It’s a superb addition that finishes up my top 5 picks for SEO plugins.
+
+If you install and get to know these plugins, you’ll have 5 powerful tools at your disposal.
+
+Create cornerstone content
+
+If you have a tiny site, you might feel like you have a massive disadvantage.
+
+That’s true in some areas, but in others, you absolutely have a leg up.
+
+Don’t believe me? I don’t blame you.
+
+Think about it this way.
+
+Since your site is so small, you can make huge changes right now that will permanently (and positively) affect your site in the long term.
+
+Cornerstone content is one big change you can make today to secure your spot as a top result in the SERPs. (No, I’m not exaggerating.)
+
+Cornerstone content is content that serves as the foundation for your entire site.
+
+It’s the content everything on your site revolves around .
+
+There are several steps to creating cornerstone content.
+
+First, you have to create the content itself. Put hours and hours of thought into this. I’m not kidding.
+
+I’ve personally spent hundreds of hours and tens of thousands of dollars on my cornerstone content.
+
+It’s that important.
+
+For thousands of your future users, this content will be their first impression of your site, so you have to nail it.
+
+Think about which specific topics your cornerstone content will address. The more specific, the better.
+
+Start off by brainstorming a bunch of ideas . Then narrow them down to a few really good ones.
+
+This is where you need to give it everything you’ve got. Content makes up a big part of SEO.
+
+That’s right. More than half of the SEO process is focused on the content itself.
+
+Study up on copywriting techniques and make sure you know what value you’ll give to your readers .
+
+It helps to know what your unique value proposition is.
+
+You should write your content so that a person coming to your site for the first time almost immediately knows what value you can bring to their life.
+
+Next, you have to choose how you’re going to deliver the content.
+
+I suggest using an in-depth article (or a few). Make sure it’s deep and comprehensive .
+
+This content should be the perfect introduction to your site.
+
+Let’s look at Yoast.com. Yoast is all about SEO, so their cornerstone content is about SEO copywriting:
+
+If someone stumbles upon that article, it will give them an excellent idea of what Yoast is about.
+
+Video is also a good medium to use for cornerstone content.
+
+I personally prefer written content because you can go into extreme amounts of detail without losing your readers’ attention.
+
+Next, you have to optimize your content.
+
+Once you’re done creating your cornerstone content, you can use the Yoast SEO plugin to fine-tune your content.
+
+Make sure it’s optimized for your focus keyword, but you should also include a few long-tail keywords and LSI keywords .
+
+Here are a couple of related keywords I spotted in the Yoast article:
+
+When you use long-tail or LSI keywords, make sure you use them organically like this Yoast article does. Don’t resort to awkward-sounding keyword stuffing.
+
+If you’re making a video, think about writing content for the page on your site the video will be on. (Or the YouTube description, if applicable.)
+
+One last note: You should regularly build internal links that lead to your cornerstone content .
+
+This helps more readers find your cornerstone content, and it also enhances your overall SEO.
+
+I know it sounds like a lot, but I promise it’s easy. Take it step by step and don’t let it overwhelm you.
+
+Get prestigious backlinks
+
+So you’ve got some awesome cornerstone content.
+
+What do you do with the fruits of your labor? Get other sites to link to it.
+
+Don’t think that the size of your site means you can’t land a backlink from an authority site.
+
+I routinely link to smaller sites.
+
+It’s not always on purpose––I just find what I need.
+
+Many tiny sites have gone through the exact same process I’m describing and they’ve risen to the top of the SERPs. So I often pick lesser-known sites to cite.
+
+For example, in this article , I cited GetCredo.com , which has a super low Domain Authority score:
+
+Now that’s a tiny site.
+
+But size doesn’t matter. Quality does.
+
+That means you can definitely snag backlinks from authority sites in your niche.
+
+Since we’re talking about a five-page WordPress site, we’re going to focus on only building links to the cornerstone content.
+
+This is the most valuable content, so it’s the most likely to get links, shares, and views.
+
+One of the best ways to get links is by using the Skyscraper Technique.
+
+Coined by Brian Dean, the Skyscraper Technique is essentially one-upping your competition.
+
+You take a piece of content from your competitors (in our case, preferably their cornerstone content) and make it better .
+
+That might mean making the content more comprehensive or just longer.
+
+If you use this technique, that means your cornerstone content will be better than your competitors’ content.
+
+Here’s a quick video of Brian explaining the Skyscraper Technique in detail:
+
+Can you see why this is the perfect way for a small site to get authority backlinks?
+
+In fact, you can use the Skyscraper Technique to create your own cornerstone content from scratch.
+
+All you need is one piece of outstanding content to get these links. (It helps to have more, but one will do the job.)
+
+This is the result you want to create:
+
+And don’t forget to put together a great pitch to send out to sites.
+
+Most of the people who have big sites get hundreds or even thousands of link requests every week. You have to catch their attention.
+
+You do this with your pitch.
+
+Here’s an example pitch to give you some inspiration:
+
+Obviously, this isn’t 100% accurate for you, so you have to do a little rewriting.
+
+Tweak this template a little bit, and you’ve got a winning pitch.
+
+Optimize for local SEO
+
+So far, we’ve only focused on cornerstone content.
+
+You might be wondering what we’re going to do with the four other pages on the site.
+
+That’s where local SEO comes in.
+
+Local SEO is a vital part of almost every SEO strategy.
+
+Believe it or not, most small businesses don’t pay enough attention to local SEO.
+
+Many businesses don’t think it applies to them, and still, others think it just doesn’t help.
+
+Whether you’re national or local, big or small, you can use local SEO.
+
+We’re going to focus on your Google My Business (GMB) listings.
+
+These are the sidebar panels you’ll see when you Google a business:
+
+When people Google your business, this is what they’ll see even if they’re not near you. So it’s important you get this information right.
+
+Google has specific guidelines for GMB listings.
+
+For example, your business name can’t have extra keywords, and you can’t use a virtual office for your business address.
+
+Read these guidelines thoroughly before setting up your listing.
+
+When you’re ready, go to the GMB page and click the big green “Start Now” button.
+
+Fill out all of your business’s information and double check it for accuracy.
+
+When you’re going through the signup process, be as specific as possible, especially when it comes to your category.
+
+You have a better chance of ranking for more specific categories , so take some time to find the most specific category that applies to your business.
+
+That’s it!
+
+In the end, you should have an optimized GMB listing like this one.
+
+That listing tells users all the important information about the business.
+
+It may not look like much, but it can give you a nice SEO boost.
+
+Conclusion
+
+When I started doing SEO, it was really tough to get the ball rolling.
+
+I spent years building links and figuring out which keywords I should optimize for.
+
+That’s why so many people used to use black hat tactics. Those served as shortcuts.
+
+But today, while black hat SEO is not cool, there are more legitimate shortcuts than ever before.
+
+You can use a simple plugin like Yoast to do most of the hard work for you, and you can create awesome cornerstone content based on what other people are doing.
+
+I wish I’d had half the tools that are available today when I started out in online marketing. I didn’t have Yoast, and I didn’t know about the Skyscraper Technique.
+
+All of these helpful resources have greatly leveled the playing field.
+
+You can do the same kind of SEO that a Fortune 500 business does.
+
+And you can do it all on a shoestring budget.
+
+This is one of the reasons I love SEO. You don’t have to spend thousands of dollars a month on premium tools or build a humongous site to have excellent SEO.
+
+No matter how small your site is, don’t get discouraged. Work hard on your SEO today and you’ll see the results in a matter of months.
+
+What SEO strategies are you using on your tiny website?

@@ -1,0 +1,39 @@
+The U.S. Food and Drug Administration (FDA) has just approved the first medical robot from Auris Surgical, a stealthy startup led by the co-founder of industry leader Intuitive Surgical, makers of the widely-used da Vinci robot.
+
+The teleoperated ARES robot (the acronym stands for Auris Robotic Endoscopy System), was cleared by the FDA at the end of May, and could now be used for diagnosing and treating patients.
+
+Auris, which describes itself only as a “technology company based in Silicon Valley,” was previously thought to be working on a robotic microsurgical system designed to remove cataracts, and the company has in fact filed several patent applications along those lines.
+
+However, an investigation by IEEE Spectrum suggests that the company has greater ambitions, including, according to current and former employees, “building the next generation of surgical robots… capable of expanding the applicability of robotics to a broad spectrum of medical procedures.”
+
+A close reading of recent patent applications filed by Auris scientists shows that the company is focusing on so-called endolumenal (or endoluminal) surgery. This involves surgeons introducing flexible robots via the body’s natural openings (the mouth in particular), to address conditions of the throat, lungs and gastrointestinal system. IEEE Spectrum can reveal that Auris has already carried out at least one successful human trial of such a robot, outside the United States.
+
+Because endolumenal surgery does not involve large incisions or (usually) general anesthesia, it benefits fragile patients who cannot withstand the trauma of normal surgery. The Society for American Gastrointestinal and Endoscopic Surgeons estimates that effective endolumenal therapies for obesity and reflux diseases alone could help more than 1 million patients a year in the United States.
+
+Traditional endoscopes are controlled manually by manipulating levers or dials, with the surgeons helped by images from tiny cameras mounted at the instruments’ tips. Some procedures require doctors to operate in contorted positions, and guiding the endoscope can involve complicated CT (computed tomography) scans or X-ray fluoroscopy.
+
+“A robot helps keep your surgical team out of that radiation exposure,” says David Drajeske, president of Applied Dexterity, a start-up that makes a surgical robot for research. “Robotics can also add more precision and repeatedly get tools where they need to be, while maintaining good ergonomics for the surgeon.”
+
+The ARES robot, which Auris has yet to announce publicly, was approved by the FDA as a bronchoscope to view and treat lung conditions. It appears to be quite similar to Medrobotic’s Flex Robotic System, an endolumenal robot, fitted with one of a number of surgical instruments, that goes down the throat. The Flex was cleared by the FDA in 2015.
+
+Auris would not confirm that the ARES, which may have a different brand name when it launches, is the same system described in its patent applications. That paperwork describes a system where “interchangeability of instrument device manipulators allow [the] robotic system to perform different procedures… Any number of procedures that may require a tool or no tool at all can be performed using the flexible endoscope.”
+
+One of Auris’s patent applications mentions tools including lasers, forceps, needles, graspers, and scalpels, potentially enabling a surgeon to do everything from biopsies and gastric repairs to excising tumors. “Once a device is on the market, there is a tendency for surgeons to look for new ways to make use of it,” says Drajeske.
+
+Like the well known da Vinci robot, Auris’s robot would be remotely controlled by a qualified surgeon at a desktop work station. She would operate the robot using 3-D maps generated from a collection of 2-D CT scans, and locate the device with electromagnetic sensors, accelerometers, or even automatic video tracking.
+
+Ariel Waldman, an author, digital anthropologist, and co-founder of Science Hack Day, a global science-based hackathon, is working on the hardware and software interface for Auris. Waldman describes the system as a “new breakthrough surgical robot.”
+
+Although Auris Surgical does not feature in the U.S. government’s database of clinical trials, IEEE Spectrum has discovered that in late 2014, Auris sponsored a small clinical trial of a robotic bronchoscope in a hospital in San Jose, Costa Rica.
+
+According to the principal investigator, Dr. José Rafael Rojas Solano: “The pilot study we carried out was to test for the first time on humans, a robot designed to perform diagnostic bronchoscopies on patients with lesions in the bronchi or lungs suspicious [sic] of cancer.”
+
+The study found that Auris’s robot was able to navigate the airways of all 15 patients in the trial without adverse effects. Of the nine patients eventually diagnosed with cancer, the robot obtained biopsy material from eight. “This study constitutes the first step of [a] very promising technology in the diagnosis and treatment of lung cancer,” says Solano.
+
+Auris has grown rapidly since it was started in 2007 by Frederic Moll, co-founder of Intuitive Surgical. Last year, the company raised $150 million from high profile investors including Lux Capital and the Peter Thiel-backed Mithril Capital Management. It then spent $80 million in April to acquire Hansen Medical, yet another surgical robotics firm that Moll had started, back in 2002. While Hansen’s robotic catheter and blood vessel robots have not proven as successful as Intuitive’s da Vinci, Hansen does hold a horde of patents—and a cross-licensing deal with Intuitive—that could smooth Auris’s route into the flexible robotics market.
+
+Auris does have some interesting intellectual property of its own. A patent application published late last year describes a 3-D coordination system for surgical robots that includes an internal ‘geo-fence’ to prevent surgeons from accidentally injuring patients from the inside.
+
+“Moll is brilliant and I’ve been waiting for his next act,” says Ken Goldberg, head of the Berkeley Laboratory for Automation Science and Engineering. “I’m very curious if he’s considering some form of supervised autonomy. He could pull it off.”
+
+With VC millions in the bank and Auris’s first robot almost ready for market, Moll looks well positioned to impress the world yet again.

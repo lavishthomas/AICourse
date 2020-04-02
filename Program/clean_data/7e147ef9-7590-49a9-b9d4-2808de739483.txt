@@ -1,0 +1,383 @@
+If Football—that is, the American National Football League football—used the same naming scheme as “Dungeons & Dragons,” we’d call it “Beer Commercials & Cheerleaders.”
+
+Like dungeons and dragons, beer commercials and cheerleaders are two things that not everyone likes. They are also, however, not The Point of their respective games: they are simply nouns which evoke an atmosphere. You either buy into that atmosphere body and soul—or you don’t.
+
+This article originally appeared on February 1, 2013.
+
+I’m going to need you to forget about beer commercials. I’m going to need you to forget about cheerleaders. Don’t worry—you’re free to remember them when we’re done, if you absolutely must.
+
+Advertisement
+
+I’m here to tell you that Football is, beneath its blaring American pop-culture facade, a turn-based / real-time action collectible trading card game of fine, minute mathematical depth, with just the right pinch of procedural randomness, and character / plot development unparalleled in any other role-playing game released yet in the history of games. You might not believe at first that Football is a deeper, harder, more interesting game than Advance Wars, though once you give it a chance and look past the boring graphical presentation, its math will blow your mind and you will be a convert for life. [jump]
+
+Football Is Basically An RPG I watch a lot of football. I play a lot of RPGs. And I've always had this theory that… Read more
+
+A Game of Dueling Wizards (Generals) (Kings) (Emperors)
+
+Football would perhaps better be titled “Battleball,” “Warball,” or “Wizardball.” The “foot” in “football” only applies to the notion that the ball is most often carried by someone who is “on foot,” and places the brunt of the glory on the idea that the game is about mastering terrain and fighting for progress one inch at a time.
+
+Advertisement
+
+Yet the name “football” maybe doesn’t give enough credit to the masterminds who have continued to devise new creative strategies inside the framework of the game’s rules for well over eight decades.
+
+In Football, the two “coaches” each start the game with a deck of forty-five players. At any given time, they can use eleven of these players. During the turn-based phase, coaches can substitute any player if they see fit, for one they deem more suited to a situation.
+
+The team controlling the ball is called the “offense.” The team trying to regain control of the ball is called the “defense.” Like Pac-Man, yes—this is a game of duality, where the hunter can become the hunted on a moment’s notice.
+
+The offensive team’s goal is to move the ball forward, over the “goal line.” Doing so gets them a “touchdown,” which is worth six points.
+
+Each attempt of the offense to move the ball forward is called a “play.” Every time the ball touches the ground, that’s a “down.”
+
+Advertisement
+
+“Downs” are “lives” in Football’s battle system. If the offense can move the ball ten yards toward their goal within four downs, they get a “First Down”—a “continue.” Depending on the strength of the offensive team and their ability to navigate the other team’s defense, players might experience a thrilling sensation of scoring multiple first downs in a row, without ever seeing a second, third, or the dreaded “Fourth Down.”
+
+The defense’s goal is to keep the offense from moving forward. If they’re especially tough, they’ll even manage to push the offense backward.
+
+First down is always “1st and 10,” meaning the offense has ten yards to go for a 1up, though if a defense’s strategy is solid second down can be “2nd and 11.” Third down can be “3rd and 3" or “3rd and 25,” depending on the impregnability of the defense.
+
+Advertisement
+
+The toughness of the defense clashes with the strategy of the offense in a battle of strength versus wits, versus wits versus strength.
+
+The coach playing defense at the time places his eleven players (units) nearly anywhere he sees fit—on his team’s side of the line of scrimmage. The line of scrimmage is what they call the imaginary line spanning the width of the field, radiating outward from the exact spot where the ball last touched the ground.
+
+The defense is the “level design” that the offense has to navigate. So here’s the interesting part—unlike a first-person shooter where players’ main goal is to always shoot at the other guys, or to get the flag to their base, always in ready-made level designs, in Football the players (by which I mean coaches) are navigating the levels in one phase, and designing the levels in the other phase.
+
+Advertisement
+
+Actually, in an action game, “level design” either means the geometry of an arena in which players kill one another, or the presentation of events in a curated single-player campaign where the goal of the level design is to entertain the player. “Defense” in football is actually one team calculatedly attacking the other. Let’s not dwell on this. Football defense is enthrallingly complicated.
+
+This streamlining of a complex duality penetrates other aspects of Football, as well: “damage” in Football is measured in “yards.” The further a team is from their target goal line, the more “damaged” they are. The offense “heals” itself by moving forward toward the target goal line. If they heal themselves up to 100 yards, that’s a six-point “touchdown.” If you can’t get the full touchdown, on the fourth down, you’re free to kick a “field goal” through the goalpost in the endzone for three points—if you’re close enough to not fail.
+
+Meanwhile, as the offense heals themselves, they’re damaging the defense—moving them further away from their goal line. So it is that, in Football, healing and attacking happen at the same time. Literally every gain or loss of yards heals one team and damages the other. You’d think this might dumb the game down, though as with many time-honored games such as chess, this is a restriction that only deepens the experience.
+
+Advertisement
+
+For example, if a defense manage to push an offensive team backward into the goal behind them, that’s a two-point score called a “safety.” This is rare, though you’ll see it happen every now and again.
+
+Fusion of Turn-Based and Real-Time
+
+Football has been in open beta for 144 years. The original goal of the developers was to create a game that roped together more than five centuries of rugby history into a more spectator-friendly, strategically deeper game.
+
+Advertisement
+
+Rugby is a fascinating game, if considerably less polished than American Football. Rugby is a sport that the very idea of folklore itself designed. As such, it’s not good for newcomers to the sports strategy genre. Give it time. You’ll soon find it’s easily one of the top three best ways to legally hurt other people.
+
+Football goes one magnitude deeper by implementing elements of a turn-based rugbylike with “the huddle”: between downs, the coach relays play formations to the quarterback, who then takes the play to the rest of the team. In a secret on-field meeting called a “huddle,” the quarterback communicates the play to the rest of the team. They have forty seconds to decide their play, line up, and prepare for “the snap.” (Taking longer than forty seconds earns a “delay of game” penalty.)Where Football excels over its spiritual predecessors is the implementation of the “system of downs” feature—which we touched on briefly above. Breaking up a “drive” toward a “touchdown” into four-part mini-battles, adding chances for continues and resets to “first down” for highly successful plays really helps funnel the juice of the strategy into a meatier game.
+
+Advertisement
+
+One player on the offense, known as the “center,” is in control of the start of the play. When the quarterback shouts “set,” all players on the field must stand still for one second. When one second—or more, if the offense wants to hammer in suspense—has passed, the center “snaps” the ball to the player behind him. Now the game is officially being played: the center class-changes in an instant, and is now a blocker.
+
+The game has switched from turn-based mode to real-time mode in a heartbeat.
+
+In real-time mode—while the game is in play—it all comes down to whether or not the players on the field can live up to the coaches’ expectations, and perform their heroic physical duties under intense pressure. This is where the first layer of psychological randomness falls into place.
+
+Advertisement
+
+After the snap, the quarterback—or “QB”—has the ball. He can hand it to one of his runningbacks, or he can pass it to a wide receiver. Or he can run it himself.
+
+Almost every play formation gives the quarterback options, because the heavy tome of Football play formation history has taught coaches and players that sometimes, anything can happen.
+
+The QB has to think quickly: ahead of him the center, two guards, and two tackles—the biggest, toughest, and smartest players on the offensive team—are pushing back with all their might against the defensive linemen—the biggest, toughest players on the defensive team. Whose “tanks” are tougher than whose? That’s a question that a game of Football asks dozens of times in its course, and the answer is never always the same.
+
+Advertisement
+
+Depending on success or failure of his blockers, the quarterback might have two seconds to get rid of the ball. Or he might have six. He might be about to get tackled by a successful defensive player. Or he might just have enough time to get the ball to one of his receivers.
+
+Wide receivers generally start on the farthest sides of the line. When the ball is snapped, they run forward, ready to receive a pass. Since the team knows the play, the wide receivers know what destination they’re supposed to stop at. Meanwhile, cornerbacks and/or linebackers—the “fast” and “smart” defense units, respectively—will home in on them, either trying to keep them from reaching their destination, or intercepting a pass (immediately turning over the game so that the defense is now the offense).
+
+After many decades of strategic iteration, coaches have arrived at this right here as the generic play formations.
+
+Advertisement
+
+In the case of a forward pass play, the quarterback is under severe pressure. Maybe the linebackers and/or a cornerback and/or a safety (another defensive unit) are attempting a “blitz”: that’s the Football equivalent of “suppressing fire” in a first-person shooter. In a “blitz,” the defense tries to psych out—or even take down the quarterback. If the defense tackles the quarterback while he’s still holding the ball, that’s called a “sack,” and it is the Football equivalent of most first-person shooters’ “shotgunned in the side of the neck at close range.”
+
+Completing a pass is a genuinely heroic action. One might even call it “magical,” and one might call the quarterback a wizard. (Uh-oh—didn’t I say the coach was a wizard? Hmm. The coach is a Level-100 Wizard, then. Or a general. Got to think fast, metaphors falling apart—)
+
+A crude passing play. I drew this with a mouse and am not, for the record, a professional offensive coordinator.
+
+Advertisement
+
+By way of the “magic” of a “pass,” the quarterback teleports the ball many yards. If the wide receiver is in position, and able to outwit his defenders, he catches it, earning multiple yards—healing his team, and damaging the other.
+
+In the real world, the physical act of completing a pass is about as easy as playing a full round of Halo 4 multiplayer viewing the game through a sniper scope—and winning.
+
+Sacking the quarterback is about as easy for a defense as scoring a tetris in Gameboy Tetris while someone chases you around with a baseball bat.
+
+Advertisement
+
+Then, of course, there’s the act of running the ball. At the beginning of a play, with faith in the ingenuity and strength of his blockers, the quarterback might hand the ball to the halfback or fullback, his two “warriors,” in charge of fighting most non-magically for every inch of progress: they run the ball. That means they carry the ball in their hands and they gun it. They are melee fighters. With speed, smarts, and instinct, they dodge attackers, ideally homing in on a touchdown.
+
+Though maybe it’s not always a touchdown you want—not right away, anyway. Maybe you’re just looking to make progress. Maybe you just want a first down. This is where the game becomes even more about psychology: consider briefly that every “down” is a reset; every play is a complex, quick, fluid, fast, full-featured game within a game, and the number of ways to play that microcosm game—always involving strength, speed, skill, and strategic smarts in varying areas—are frighteningly infinite.
+
+Strategic Depth
+
+In its many years of professional and collegiate play, Football, despite its many freedoms, has been home to a general condensation of strategic maneuvers. For example, though the offense needs to have seven players on the line of scrimmage at all times, and though the players don’t need to be standing shoulder-to-shoulder, the offense almost always lines up five players in front of the quarterback. Why is this? Because sometimes “common sense” and “tradition” fall in love and get married.
+
+Advertisement
+
+Yet, heavy as the Football history books are with hundreds of winning plays that look, uh, exactly like most other plays, every once in a while you find a whole chapter devoted to the One Minorly Different Thing That Worked.
+
+The shotgun formation, for example: in the shotgun formation, you put the quarterback back several yards from the center, instead of making him stand right behind the center. You can put him back as many yards as you want—there’s no rule on where the quarterback has to stand, though of course it’d be suicide to put him twenty yards back. For one thing, the biology of the human arm and the gravity of planet Earth conspire such that the quarterback can only throw so far.
+
+Football only offers one multiplayer map. This isn’t exactly a complaint: it affords immense room for creative strategic freedom.
+
+Advertisement
+
+The reward of the shotgun formation is that the quarterback is possibly going to have two or even three extra whole seconds to think, and the receivers will be able to use those seconds to more reliably get into position.
+
+The primary reward of the shotgun formation is that the extra distance affords the quarterback extra visibility with which to better assure the ball gets to the right receiver.
+
+The primary risk of a shotgun formation is on the runningbacks—they’ll have extra distance to cover if the team ends up running the ball. And if the quarterback gets sacked by some wily, adrenalin-jacked linebacker, that’s extra yards lost.
+
+Advertisement
+
+On paper, it sounds smart; in practice, heroic quarterbacks like Joe Namath and Joe Montana have wielded it as a weapon of genius.
+
+Meanwhile, the strategic pantheon of football is lined with tales of fake field goals, rule-bending moves like onside kicks (kick the ball the minimum distance on the kickoff, and recover it before the other team), and psychology-twisting moments like that team that Went For It (running or passing the ball on Fourth Down, just as the other team was expecting them to punt, gracefully surrendering, and turning the game over). Between two experienced coaches, the very act of play selection is psychological paper-rock-scissors and poker, hugging as though super-glued together.
+
+The Story
+
+Everyone knows the story about that Notre Dame player whose fake girlfriend died. The internet is aflame with the rumors—did he think she was real? Was “she” an internet troll? Or was he just nuts? Also, lots of people (and puppy-lovers) know that Philadelphia Eagles quarterback Michael Vick participated in illegal underground dog-fighting events.
+
+Advertisement
+
+I have to admit that I find this element of the Football “story” not very interesting. It’s full of trite plot twists and boldly, dumbly stereotypical characterization—like Tim Tebow, the devout Christian quarterback who prays frequently on the field. That’s just lazy writing.
+
+One of the innovations legendary boxing promoter Don King brought to the sports genre is the concept of rivalry—of a game being more than a game: it’s a bloody, personal, bitter battle. In boxing, a one-on-one sport, this feature devolved into interviews which bait boxers to verbally abuse their opponents, and appear unintelligent. American television networks have iterated and reiterated upon this concept, however, and summarized it nicely with phrases such as “The Best Offense in the NFL faces The Best Defense in the NFL—This Monday Night.” They’re making it about the math; they’re encouraging you to think about the math. That’s right up my alley—and probably the alley of any Magic: The Gathering player.
+
+My favorite characters in stories like “Game of Thrones” are always the old people, so naturally I enjoy the coaches’ story arcs more. They’re the level-100 wizards—or they’re the kings, or the generals. Can such-and-such coach have as much luck with such-and-such running formation as he did last year, or has the rest of the conference caught up, watched all the tapes from all the angles, and theoretically outwitted his secret weapon?
+
+Advertisement
+
+The structure of the season lends itself to great long-term plot arcs: Teams play just one game per week during the season, which keeps the game personal: Team A lost to Team B last year. Last year, Team B lost to Team C. Team A also lost to Team C last year. Now, a year later, Team A just beat Team C. Does this mean they’re going to beat Team B? Team D also lost to Team C two weeks ago, and this week Team D beat Team E—and Team E made it into the Super Bowl last year. Whoa—is Team A an underdog Super Bowl contender all of a sudden? Creative, statistics-based speculation will drive you insane. The overarching game design of the season structure deepens that insanity.
+
+And the icing on that narrative cake is the league structure: two conferences of sixteen teams each. Teams don’t always play teams in other conferences, meaning that many possible match-ups don’t occur during regular season play. Sometimes the only way for two teams from different conferences to face one another is in the Super Bowl. And getting to the Super Bowl is a matter of winning multiple games—can the team master long-term goals like single-game victories, medium-term goals like touchdowns or first downs, and immediate-term goals like “dodge that guy, quick” with enough success to accomplish the super-long-term goal of “Win enough games to get into the Super Bowl”?
+
+All throughout the season, you’ll be eyeing teams in both leagues, wondering which of them will win in a game, and never really knowing, because they might never get to have a faceoff. At the end of the season, there can be only one team from each conference, leading viewers to speculate forever on a robust catalog of delicious “What if?” scenarios.
+
+Advertisement
+
+Players sometimes get injured, prompting fans to wonder how their teams will cope without them. Sometimes, an injured player is (Final Fantasy VII spoilers) as sad a moment as Aeris dying.
+
+Then there’s the preseason, during which the coaching staffs devise new plays, revise old plays, and train the players to acquire new skills or polish old ones. You know Football has got its hooks in you if you’re talking about the preseason—or the draft, during which teams acquire hot new players for big money.
+
+How Interactive Is It?
+
+Televised Football’s biggest competitor, the Madden franchise of Football-inspired video games, flaunts direct interactivity: using a controller, you can become the quarterback, passing to a receiver, and then you can become the receiver and run the ball to a touchdown.
+
+Advertisement
+
+Many game-players say that playing Madden will teach you an appreciation of Football—John Madden himself has pointed out that Football coaches are getting younger, and they’re citing the Madden video games as a valuable tool for learning the ways of the game.
+
+Many game-players say that playing Madden will teach you an appreciation of Football—John Madden himself has pointed out that Football coaches are getting younger, and they’re citing the Madden video games as a valuable tool for learning the ways of the game.
+
+Though after spending more than twenty years carefully studying Football, I have to put my foot down: I enjoy the open-endedness of the Televised Football Viewing Experience—it’s like Skyrim to Madden’s Zelda.
+
+Advertisement
+
+With Televised Football, I’m my own taskmaster. I can think, “I bet they’re going to run the ball the next play,” and there it is. They run the ball, and I’m right—or they don’t, and I’m surprised. That’s interesting either way. Or I can think, three games into the season, “The 49ers are definitely going to be in the Super Bowl,” and then, when it turns out I was right, there’s an enormous headshot feeling, like I just sniper-shot a head the size of a dime from a mile away. No “Achievement Unlocked” pops up on the screen, though I’m fine with that. I enjoy setting my own achievements.
+
+The character creation process of Televised American Football Viewing offers incredible freedom of classes: you can be a Barbarian (the beer-drinking, “WE WON!”-screaming happy and/or violent psycho), a Dungeon Master (pick a roster of currently active players and play “fantasy football” with a group of friends), a Calculator / Mathemagician (turn your near-psychic brain encyclopedia of Football strategy and creative statistics-reading ability into an airtight plan for betting and winning), or a Necromancer, like me (watch games usually with the sound off, and loud music playing, sitting motionless and speechless in a meditation posture, your internal monologue consisting of the word “interesting” repeated). There are plenty of sub-classes to master, as well—such as the topless, face-painted variety of shrieking fan-barbarian (Football’s closest relative to video gaming’s “furry”).
+
+Whatever you choose, know this: everyone who loves Football is, in some way, as much a “geek” for Football as people who play video games are for video games. And why shouldn’t they be? Football is so deep and so complex you have to be some sort of geek for it just to understand what the heck is going on.
+
+Advertisement
+
+I know that many of you out there have the impression of Football as a game for big dumb knuckle-dragging, beer-guzzling brutes. I understand that whenever a sports championship ends, fans light a car on fire in the winners’ hometown and the losers’ hometown. However, if you look beyond the microscopically car-arson-decriminalizing, drunken-idiocy-enabling graphical facade, you’ll find a game as strategically rich as Final Fantasy Tactics and Fire Emblem’s Ivy-League-educated firebaby, with action as mechanically ferocious as an entire Street Fighter III: Third Strike tournament.
+
+And that, my friends, is why Gears of War is better than Halo.
+
+Unit Classes
+
+OFFENSE
+
+Center
+
+Center of the line. Starts each play. Becomes a blocker once play has started. Maybe the most well-rounded player on the field—has the mammoth responsibility of coordinating protection at the line.
+
+Agility: 1
+
+Dexterity: 2
+
+Intelligence: 3
+
+Power: 4
+
+Guards
+
+Positioned around the center. When the play starts, they push against the defensive line to protect the quarterback. Typically coaches use four of them—five linemen, counting the center.
+
+Agility: 1
+
+Dexterity: 1
+
+Intelligence: 3
+
+Power: 5
+
+Tackles
+
+Bigger, stronger linemen who stand on the outside of the guards. They keep defenders away from key offensive players.
+
+Agility: 2
+
+Dexterity: 1
+
+Intelligence: 2
+
+Power: 5
+
+Tight End
+
+Specialty unit: powerful defensive lineman in his own right, though is also trained to be able to catch passes. A rare talent (“an expensive unit”). Typically just one per formation.
+
+Agility: 3
+
+Dexterity: 3
+
+Intelligence: 2
+
+Power: 4
+
+Quarterback
+
+The “Wizard.” Can “magically” “transport” the ball long distances by passing to wide receivers. Not as physically adept as his supporters.
+
+Agility: 2
+
+Dexterity: 5
+
+Intelligence: 5
+
+Power: 1
+
+Wide Receiver
+
+“Rangers”: skilled in evading the defense’s human obstacle gauntlet (“level design”), can run great distances quickly enough to be ready to receive quarterback’s passes, and gloriously run for the touchdown. These guys get the job done, and take a big chunk of the glory.
+
+Agility: 5
+
+Dexterity: 4
+
+Intelligence: 3
+
+Power: 2
+
+Halfback
+
+A sort of “Paladin”—the quarterback’s most trusted defender/blocker, and carrier of the ball in most running plays. Also trained to occasionally receive short passes.
+
+Agility: 5
+
+Dexterity: 5
+
+Intelligence: 3
+
+Power: 3
+
+Fullback
+
+A “Warrior”: the quarterback gives him the ball, and he runs it. More of a “power runner” than the Halfback—more muscularly built, adept at berserkering his way through dense crowds.
+
+Agility: 4
+
+Dexterity: 4
+
+Intelligence: 2
+
+Power: 4
+
+DEFENSE
+
+Defensive Tackle
+
+An “Aggro”: wants to break through the offensive line, and does so with strength.
+
+Agility: 1
+
+Dexterity: 1
+
+Intelligence: 1
+
+Power: 5
+
+Defensive End
+
+A “Smart Aggro”—positioned on the end of the defensive line, and works to prevent offensive players from getting around.
+
+Agility: 2
+
+Dexterity: 2
+
+Intelligence: 1
+
+Power: 4
+
+Linebackers
+
+They are “Clerics.” Though yardage in Football = “damage” for one team and “healing” for another, we’ll call these guys “Clerics” because they are “defensive.” The Middle Linebacker is often called “The Defensive Quarterback.” They make intelligent, fast defensive decisions—not always brute force.
+
+Agility: 2
+
+Dexterity: 2
+
+Intelligence: 3
+
+Power: 5
+
+Cornerbacks
+
+“Rogues”: they cover receivers, to keep them from completing successful attacks using either distractions or physical takedowns.
+
+Agility: 4
+
+Dexterity: 3
+
+Intelligence: 2
+
+Power: 3
+
+Safety
+
+The last line of defense: damage control. The ultimate healer. They stay back a bit, in case a receiver breaks away. When they tackle, they mean it.
+
+Agility: 3
+
+Dexterity: 5
+
+Intelligence: 2
+
+Power: 4
+
+THE OLD-TIMERS
+
+Coach
+
+The mastermind of strategy. The Level-100 Wizard. The general. The king. The emperor.
+
+Agility: N/A
+
+Dexterity: N/A
+
+Intelligence: ∞
+
+Power: N/A
+
+Scout
+
+The grizzled old guy who goes from high school to high school with a clipboard, passing judgment on which kids are going to stand a chance in the NFL. If quarterbacks are wizards and coaches are level 100 wizards, this guy is god darn Gandalf.
+
+Agility: N/A
+
+Dexterity: N/A
+
+Intelligence: ∞+1
+
+Power: N/A
+
+Tim Rogers is someone you can follow on twitter. He is the founder and director of Action Button Entertainment, makers of ZiGGURAT for iOS. He is currently directing development of ViDEOBALL, a next-level electronic sport that might be deeper than football and soccer combined.
+
+Advertisement

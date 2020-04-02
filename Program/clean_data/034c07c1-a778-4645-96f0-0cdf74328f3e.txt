@@ -1,0 +1,81 @@
+For years, I kept hearing how awesome Evernote was: how it could store everything you possibly needed, make it available everywhere, and how scores of people couldn’t live without it. I tried it multiple times, and never saw the appeal until now. Here’s what I was missing. [jump]
+
+Any time we talk about Evernote, a good number of you say the same thing: you’ve tried it time and time again, but you could never really “get into it.” I was in the same camp, but after reading the other side’s experiences in this article and its comments, I decided to give it another shot. If you’re like I was and haven’t yet experienced the greatness of Evernote, here are some things you should try.
+
+The More You Add, the More Useful Evernote Becomes
+
+Let’s start with the most important trick: In order to see why everyone likes Evernote, it’s important to take advantage of everything it has to offer (rather than use it as just another note taker). Reader ppdd says it best:
+
+The key to Evernote is to commit to it and jump in with both feet. It’s pretty rotten if you’re just using it for a few isolated tasks, because absolutely, it doesn’t do any one thing perfectly and it’s not as fast as other apps. It really starts to show its brilliance once you start using it as your default bookmark/webclip app, notetaker, recipe box, repository of all your reference material, and so on. It’s great to have ALL the information you need indexed and searchable across every single platform you have. I love opening it up in a meeting and recording the meeting audio right along with my typed notes on my iPad. If I miss something (entirely possible while pecking things out on a glass screen) I can always return to it after the meeting.
+
+So, if you want to give Evernote another shot, try putting everything in it that you want to hang onto. The more you add, the more useful Evernote becomes. Here are a few examples of what you could do.
+
+Use the Web Clipper
+
+I always thought Evernote’s web clipper extension was pointless. If I needed to reference articles for later, I’d just save them in my browser’s bookmarks folder or drag them to my desktop. However, that didn’t allow me to make notes on an article, or save it with other related notes on that project. Evernote solved that problem perfectly.
+
+Test Case: Buying a New Grill
+
+I just moved into a new apartment, and I need to buy a new grill. After a bit of searching, I found a few I liked but wasn’t ready to buy. I used the Web Clipper to throw its product page into a note under a new notebook, entitled “Wish List.” Now when I come into some extra money, I can open up Evernote and see my top picks at the top of my “Wish List” notebook.
+
+Bonus tip: Evernote’s Web Clipper also integrates with Google. For example, let’s say I’m not quite done with my grill research, and I head back to Google later on to search for “gas grills.” When I do, any related Evernote clippings will show up in the right side of my search results to remind me which grills I already liked and saved. To turn on this feature, just open up Evernote’s options and check the box next to “Related Results.”
+
+Don’t Be Afraid to Create Lots of Notes and Notebooks
+
+I always tried to keep my notes to a minimum, so I didn’t get buried under an endless amount of notes that I could never filter through. Evernote is better than this, though: it manages a multitude of notes easily thanks to notebooks, tags, and note links (see below). I found that most of my “notes” should have, in fact, been “notebooks,” allowing me to store larger volumes of information with better organization.
+
+Test Case: Troubleshooting a Finicky PC
+
+I have a home server that I love, but always seems to give me problems, so it’s a “work in progress.” Back in the day, I used to keep track of this project in one note, jotting down lines from log files, troubleshooting commands I wanted to run, links to research I wanted to do, and more, all jumbled together in one big block of text. Even with some subheadings and formatting, it was still very difficult to navigate.
+
+Now, I have an entire notebook dedicated to my home server. Right now, it has four notes:
+
+Some sections of my server’s log, containing all the information I need to troubleshoot my most recent problem A web clipping from an article on the best VPN providers, since I’m installing a VPN on my home server A web clipping on how to install OpenVPN on my home server, since I don’t remember how to do it by heart A web clipping on setting file permissions, since I need to give my girlfriend access to my server’s files
+
+Because I saved each article with the Web Clipper, I have the entire text of the article and the source link right there, plus any highlights and notes I’ve made in each. This is light years better for me than just pasting the links to each article, or trying to write everything down myself into one giant note. Plus, by creating an entire notebook, each note functions as an item in a to-do list, which makes finishing the project much easier.
+
+Advertisement
+
+The bottom line: Don’t be afraid to create a ton of different notebooks and a ton of different notes. Evernote equips you with the ability to easily handle thousands of notes, and what seems overwhelming will soon feel like the best organizational scheme you’ve ever had.
+
+Bonus Tip: Create a notebook called _INBOX, right-click on it, and make it your default notebook. That way, any new notes you send to Evernote show up in this inbox, at the top of your list of notebooks, ready for you to funnel into one of your other notebooks.
+
+Sift Through Notes with Saved Searches and Tags
+
+Using tags always felt like a waste of time to me: tagging every note seemed like a chore, and serves the same purpose that filing notes into notebooks does. However, tags can be useful if you have notes that you think could fit into multiple notebooks—or are on the same subject—without getting overwhelming. You don’t need to tag every note you have, and you only need a few really important ones. It basically makes your archive easier to search through with Evernote’s advanced search operators. You can even then save those searches by clicking the little arrow next to the search bar, and pressing the magnifying glass.
+
+Test Case: Filter Out Family Members
+
+Our own Walter Glenn uses tags, albeit sparingly, to keep track of things across multiple notebooks. Both he and weblog Nerd Gap, for example, recommend creating a tag for each member of your family. That way, if you have notes across different notebooks that apply to someone besides you, it’s easy to find them through a simple search. Nerd Gap explains:
+
+I have tags for both of my kids and my wife. When I look up my son’s tag, I get everything from pictures he’s drawn for me to the results of his last check-up with the doctor.
+
+You could also create tags for work (if your work likely spans multiple notebooks, and you want to filter out work-related notes after 5pm), to do items (since your to dos will span different notebooks), and so on. You can then save more complex searches related to those tags—say, tag:todo created:week-1 for to do items created in the last week—and access them with one click in your sidebar.
+
+Advertisement
+
+Again, don’t go overboard—Walter notes that tags are only really useful if you have a few that you really remember and use—but they can be a godsend once you start amassing thousands of notes. Check out Nerd Gap’s introduction to tags and search for more ideas on how to use these features.
+
+Use Note Links to Jump Between Related Stuff
+
+Once you have more notes and notebooks than you know what to do with, Evernote can link everything together so you don’t have to search high and low for contextual information.
+
+Right-click on one of your notes and choose “Copy Note Link.” Then, paste that link into another note for quick access later.
+
+Test Case: Researching This Article
+
+When I write a long article (like this one), I create a notebook for that article. Then, I create a text note with a basic outline of how I want the article to look, with all its subheadings. As I research, I clip all relevant web articles to that notebook, highlighting all the important parts and cutting out the irrelevant stuff. Then, I’ll copy each note’s individual link, paste it in the article outline, and I’ll have a general skeleton of what that article’s going to look like, using just the stuff I’ve saved in Evernote.
+
+Advertisement
+
+Walter notes that often, if he has a ton of notes in a notebook, he’ll just create a “Table of Contents” note at the top, where he can dump links to all the notes in that notebook, organized however he sees fit. This can be particularly helpful if Evernote’s sorting options don’t really fit your needs.
+
+Bonus Tip: You can also drag any note to Evernote’s toolbar to quickly access the ones you use every day. That way, your most used notes are always one click away. For example, I have a note entitled “Post Ideas” that I access throughout the day, so I’ve added a button to my toolbar so no matter where I am inside Evernote, I can get to it right away.
+
+Other Things You Can Put In Evernote
+
+We’ve talked a little bit about what you can store in Evernote, and I’ve given some examples above. But again: the more you put in, the more useful it becomes. Anything you need to save, put it in Evernote and see how it works. For example, you could use it to store:
+
+...and of course, anything else you can possibly think of.
+
+Is this approach for everyone? Of course not. In fact, our own former Editor Adam Pash found the “everything bucket” model too limiting for him (and he he advocates Simplenote instead). Like most things, it depends on the kind of work you do and how your brain wants to organize that information. Sometimes, you just need a simple app with a bunch of text notes. Evernote can do that if you want—that’s part of its beauty—but it isn’t what makes Evernote special. If you’ve tried it over and over again and can’t understand what the fuss is all about, focus its more specific features like notebooks, note links, and the web clipper. You might finally find the organizational nirvana you’ve been looking for.

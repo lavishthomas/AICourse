@@ -1,0 +1,45 @@
+Digital technology also makes it possible to conduct and aggregate personality-based assessments, often using online quizzes or games, in far greater detail and numbers than ever before.
+
+In the past, studies of worker behavior were typically based on observing a few hundred people at most. Today, studies can include thousands or hundreds of thousands of workers, an exponential leap ahead.
+
+“The heart of science is measurement,” says Erik Brynjolfsson, director of the Center for Digital Business at the Sloan School of Management at M.I.T. “We’re seeing a revolution in measurement, and it will revolutionize organizational economics and personnel economics.”
+
+The data-gathering technology, to be sure, raises questions about the limits of worker surveillance. “The larger problem here is that all these workplace metrics are being collected when you as a worker are essentially behind a one-way mirror,” says Marc Rotenberg, executive director of the Electronic Privacy Information Center, an advocacy group. “You don’t know what data is being collected and how it is used.”
+
+Companies view work-force data mainly as a valuable asset. Last December, for example, I.B.M. completed its $1.3 billion acquisition of Kenexa, a recruiting, hiring and training company. Kenexa’s corps of more than 100 industrial organizational psychologists and researchers was one attraction, but so was its data: Kenexa surveys and assesses 40 million job applicants, workers and managers a year.
+
+Big companies like I.B.M., Oracle and SAP are pursuing the business opportunity. So is eHarmony, the online matchmaking service. It announced in January that it would retool its algorithm for romance so it could examine employee-employer relationships, and enter the talent search business later this year.
+
+THE penchant for digital measurement and monitoring seems most suited to hourly employment, where jobs often involve routine tasks. But will this technology also be useful in identifying and nurturing successful workers in less-regimented jobs? Many companies think so, and can point to some encouraging evidence.
+
+Advertisement Continue reading the main story
+
+Tim Geisert, chief marketing officer for I.B.M.’s Kenexa unit, observed that an outgoing personality has traditionally been assumed to be the defining trait of successful sales people. But its research, based on millions of worker surveys and tests, as well as manager assessments, has found that the most important characteristic for sales success is a kind of emotional courage, a persistence to keep going even after initially being told no.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The team of behavioral and data scientists at Knack, a Silicon Valley start-up firm, uses computer games and constant measurement to test emotional intelligence, cognitive skills, working memory and propensity for risk-taking. Early pilot testers include the NYU Langone Medical Center, Bain & Company and a unit of Shell, says Guy Halfteck, Knack’s C.E.O.
+
+Google, not surprisingly, is committed to applying data-driven decision-making to human resource management. For years, candidates were screened according to SAT scores and college grade-point averages, metrics favored by its founders. But numbers and grades alone did not prove to spell success at Google and are no longer used as important hiring criteria, says Prasad Setty, vice president for people analytics.
+
+Since 2007, the company has conducted extensive surveys of its work force. Google has found that the most innovative workers — also the “happiest,” by its definition — are those who have a strong sense of mission about their work and who also feel that they have much personal autonomy. “Our people decisions are no less important than our product decisions,” Mr. Setty says. “And we’re trying to apply the same rigor to the people side as to the engineering side.”
+
+Evolv, a San Francisco start-up, uses data science to advise companies on hiring and managing hourly workers. Evolv is sharing its data from clients — data that are stripped of personally identifying information and demographics like race and sex — with researchers at Wharton, Yale and Stanford. (This column’s first two examples came from Evolv’s data and analysis.)
+
+Michael Housman, an economist and managing director of analytics at Evolv, says he thinks work-force science will increasingly be applied across the spectrum of jobs and professions, building profits, productivity, innovation and worker satisfaction.
+
+Evolv, he says, has focused initially on hourly workers and call centers, which capture masses of data on every call and online exchange. Jobs at these centers are often difficult and have very high rates of attrition, routinely as high as 100 percent a year. “We wanted to start where there was a huge opportunity” to make improvements, he says.
+
+Transcom, a global operator of customer-service call centers, conducted a pilot project in the second half of 2012, using Evolv’s data analysis technology. To look for a trait like honesty, candidates might be asked how comfortable they are working on a personal computer and whether they know simple keyboard shortcuts for a cut-and-paste task. If they answer yes, the applicants will later be asked to perform that task.
+
+Those who score high on honesty typically stay in their jobs 20 to 30 percent longer than those who don’t, Evolv says.
+
+Advertisement Continue reading the main story
+
+Neil Rae, an executive vice president of Transcom, was impressed with the project’s results and plans to use Evolv in the call centers he runs, which employ 12,500 workers.
+
+In the call-center world, Mr. Rae says, 5 percent attrition a month — 60 percent a year — is stellar performance. Dropout rates are calculated at 30-day intervals, and it takes four to six weeks to train a worker. The cost of attrition — for hiring and training a replacement — is about $1,500 a worker, he says.
+
+In the project with Evolv, Mr. Rae says, Transcom was able to hire fewer people — about 800 instead of a more typical 1,000 hires — to get 500 workers who were still on the job at least three months later. The big payoff, he says, should come in cost savings and better customer service with less worker churn in call centers.
+
+“This makes hiring more a science and less subjective,” Mr. Rae says.

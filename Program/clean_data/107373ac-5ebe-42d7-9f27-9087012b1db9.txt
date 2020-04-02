@@ -1,0 +1,53 @@
+I put out a HARO query to see what tactics other SEO specialists and agencies used as quick wins when they took on a new project. I got back some great, solid responses from SEO experts across the country and wanted to share their advice.
+
+Most of the answers I received fell into one of five basic categories: digital asset consolidation; link reclamation; long-form content creation; identification of low-hanging fruit keywords; and internationalization. I’ve picked what I felt was the best advice for each of these categories because I’ve personally seen results from these actions on my own client sites:
+
+1. Consolidate your assets
+
+Dan Mallette of InVue Digital takes note of all of the client’s digital assets and consolidates them:
+
+“Some of the easiest wins for new SEO clients come from a consolidating the customer’s redundant assets. Too often, as you start diving in, I find brands with three or four websites for no good reason whatsoever. Whether they are lingering from the SEO Dark Ages when this was common practice or the customer just likes seeing themselves on the internet, redirecting these helps centralize the authority and fortify their main site’s backlink profile.
+
+“Convincing a brand to let go of these has shown to pay immediate dividends for visibility and allows the brand to better control its own image. Even on the main website, consolidating www and non-www versions of the site and ensuring there is only one home page (instead of a /index.html for example) centralizes the authority, helping this page compete better in search.”
+
+Mike Lalonde of Londes takes a similar approach to making sure the proper canonicals and redirects are in place:
+
+“When looking at SERPs, it’s pages that rank, not websites. Of course Domain Authority is important, but building the strength to specific pages is just as (or more) important when it comes to trying to rank specific pieces of content. And when that value is divided multiple times by a lack of redirects and poor URL structure, that website is unnecessarily fighting an uphill battle.
+
+“To reduce issues and make sure page value isn’t being split between variations (or worse, creates duplicate content issues), we recommend using canonical tags, as well as setting up high-level redirects to create one version of the page that is accessed (the same one you’ve chosen for your canonical URL). Redirects can add or get rid of trailing slashes, www’s in the domain name, or extensions like /index.php. The result should be the same version of the page loading each time (and update your links to point to this one page as well).”
+
+2. Reclaim unlinked brand mentions
+
+Blake Denman of RicketyRoo identifies easy link opportunities right away:
+
+“One of the easiest and often most overlooked SEO wins is to find unlinked brand mentions for a client. Use search operators to discover these gems on authoritative sites, then reach out to the publication and ask for a link to your client’s brand name. More often than not they’ll update with a link to the site. It’s easy and really effective!”
+
+3. Create longer-form content Maher Abiad of 3Seven7 Studios leverages long-form content. I’ve found that longer form content definitely ranks better, so I agree with him here: “One of the best tactics I can give that has been working like hot cakes is to create longer form content sales pages. For businesses that want to see an immediate effect on the ranking of their money keywords, you need to have a lot more text on page. Google is loving longer pages, as this is absolutely true for blog posts, and this is also completely true for your sales pages as well. Just by increasing copy on page to 1000+ words, you will see a resounding [e]ffect in the SERPs. The reason for this is that the search engines want the most authoritative piece on that subject to rank the highest. So think about it this way: the top ranking pieces of blog content are on average around 2200-2500 words long. “So you work hard to ensure that the topic you are writing about is jam packed with pure value content in your blog posts. Well then, the exact same rules that apply to long-form blog content, [hold] true for your marketing sales pages as well, where you are able to really show your visitor why you are the market leader in your niche. And this works the best on your inner pages here, as you want to rank your home page for your brand terms and your inner pages for your money keywords. Spend more time crafting the perfect copy, add more media such as images and video to enhance engagement and you will notice a difference within a very short time on your changes made.”
+
+4. Find your ‘low-hanging fruit’ keywords
+
+Dustin Christensen of AZ Search looks for pages that are on the cusp of getting traffic but need a little boost:
+
+“One of the easiest wins for new clients is to go through their current analytics and keyword data to see which keywords they’re ranking for but haven’t focused on. This is easiest when the client has Google Search Console data, which allows you to look page by page at which content is generating traffic and momentum for keywords that are related to the main topic but haven’t been optimized for.
+
+“If a page is about types of apples, for example, and the page is ranking on the second page for ‘types of apples for applesauce,’ then updating the page for that phrase could generate quick gains if it makes sense for the user and the client. These low-hanging opportunities take little time but can make tremendous changes in traffic right off the bat.”
+
+Will Sharpe of Sharpe Digital uses a similar approach to finding and optimizing his client’s ‘low-hanging fruit’:
+
+“One of the first things we do when we take a client on is to navigate to the ‘Top Organic Keywords’ section on the SEO tool SEMRush for the client’s domain. From here, we can sort the results by position and see all the traffic-generating keywords that the client’s website is currently ranking for. We then make a note of all commercial keywords between position #11 and position #20 (page 2 results) and the URL of the client’s website that is ranking.
+
+“During the first few weeks, we’ll make very basic on-page optimisation improvements to these ranking pages for the keywords in question. More often than not, we achieve page #1 rankings for these keywords within a few weeks as a result. Nothing is more conducive to a long-term relationship with an SEO client than contacting them within the first few weeks and showing them you have got page #1 results already!”
+
+5. Internationalize
+
+Joonas Jukkara of SEOSEON thinks that internationalizing your site is a quick way to get an SEO boost. Personally, I’ve found internationalizing to be a boon for PPC in the short term and SEO in the long:
+
+“Easiest SEO win for a website that is targeting only specific country but using a generic top-level domain such as .com or .org, is to set a specific geographic target from Google Search Console. International targeting helps Google to understand which specific country your website is targeting. You can change the options by logging into Search Console, choosing the right website property and going to Search Traffic -> International Targeting.
+
+“Preconditions being that the content of the site already has some relevance to the search terms and questions of the user, international targeting helps you to rank better for location-related queries. Just be aware that you will lose exposure on search results in all the other countries, so before implementing make sure that the goal of your website is to really serve an audience within a certain country.”
+
+—
+
+What are some quick SEO wins that you’ve pulled off for your clients?
+
+Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.

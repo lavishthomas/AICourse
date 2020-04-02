@@ -1,0 +1,113 @@
+When on-boarding a new client, there is a lot that needs to get done. Usually the list includes a tech audit, reviewing content, and combing through back links to name a few tasks. A review of the analytics implementation is often overlooked though.
+
+If you don't review how the analytics account is set up, you could set yourself up to waste a lot of time down the road, even finding yourself investigating an organic traffic drop that doesn't exist.
+
+Below is my Google Analytics checklist that I review when starting a new account. Many of these items joined the checklist as the result of previous "learning experiences." My hope is that this list will help you avoid those same experiences.
+
+The basics
+
+Exclude internal IP addresses
+
+If we don't exclude internal and partner IP addresses, we will over-report traffic and reduce our conversion rate.
+
+To implement, go to Admin > Filters (in the appropriate view) > New Filter.
+
+Documentation can be found here.
+
+Pro Tip:
+
+Create a copy of the profile, and apply the filter to that copy. If your filter creates a problem, you won’t be able to get back any lost data, so it’s nice to have a backup.
+
+Google Analytics code on all pages
+
+If GA code is missing from pages, we will get incorrect site engagement metrics and misappropriated conversion data. A quick way to check this is to look at your referrals report. Do you have any self referrals?
+
+It is not uncommon for pages in the checkout process to not include GA code. If this is the case, you will see almost all conversions are from "referral" or "direct."
+
+To check this more thoroughly, fire up Screaming Frog and update the custom field to check for the proper UA ID
+
+UA account is only listed one time
+
+Running two GA codes simultaneously is ok. Two instances of the same code is not.
+
+The two separate instances of Track Pageviews will mess up metrics such as pageviews, time on site, bounce rate, and pages per visit.
+
+The best way to find this one is to pull up the source code and search for "ua-".
+
+Linking related accounts
+
+Link Google Analytics and AdWords
+
+This will allow you to share data across Google Analytics and AdWords
+
+Documentation can be found here
+
+Link Google Analytics and Google Webmaster Tools
+
+This will allow you to share Webmaster Tools data with Google Analytics
+
+Documentation can be found here.
+
+Ensure proper campaign tracking implementation
+
+Auto tagging is enabled for Google Analytics
+
+If you don't have auto tagging enabled, odds are your paid search traffic is showing up in Google Analytics as organic traffic
+
+To check the status of auto tagging, log into your AdWords account, go to Account Settings, and then to Preferences.
+
+Documentation can be found here.
+
+Non-Google paid search campaign URLs contain UTM tags
+
+If you're not including UTM parameters in your non-Google paid campaigns, the traffic is most likely being counted as organic search visits.
+
+Google Analytics interprets utm_medium=cpc and utm_medium=ppc as paid search traffic, so one of these should be used for the medium.
+
+Documentation can be found here.
+
+Vanity domains redirect using UTM parameters
+
+This will allow you to easily attribute visits and conversions from the vanity domain to the campaign associated with the vanity domain
+
+Email campaign links use UTM parameters
+
+This will allow you to properly attribute visits and conversions to the right email marketing effort
+
+Conversions and interactions
+
+Set up goals
+
+This should be a wide range of activities such as purchases, contact form completions, creating an account, time on site, signing up for a newsletter, etc.
+
+Associate monetary value with these goals if possible.
+
+Documentation can be found here.
+
+Set up e-commerce tracking
+
+Ecommerce tracking will allow you to understand not only how much revenue you're making but what channels are responsible for driving revenue
+
+Documentation can be found here.
+
+Set up event tracking
+
+Event tracking is a simple way to track how users are interacting with your site.
+
+You can track just about anything such as videos played, submitted forms, if people scroll through your content, or downloads.
+
+Here's an overview of event tracking from the SEER blog.
+
+Further documentation can be found here.
+
+Content grouping
+
+Create content groupings
+
+These can be groups of pages like blog posts, ecommerce category, landing pages, or any other group of related pages.
+
+Here's a useful RegEx Guide from LunaMetrics.
+
+Documentation can be found here.
+
+What else do you always check in your Google Analytics implementations? Let me know in the comments.

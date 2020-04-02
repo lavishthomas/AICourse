@@ -1,0 +1,27 @@
+OHSU
+
+Skepticism surfaces over CRISPR human embryo editing claims
+
+When the first U.S. team to edit human embryos with CRISPR revealed their success earlier this month, the field reeled with the possibility that the gene-editing technique might soon produce children free of their parents’ genetic defects. But the way CRISPR repaired the paternal mutation targeted in the embryos was also a surprise. Instead of replacing the gene defect with strands of DNA that the researchers inserted, the embryos appeared to use the mother’s healthy gene as a template for repairing the cut made by CRISPR’s enzyme.
+
+But such a feat has not been observed in previous CRISPR experiments, and some scientists are now questioning whether the repairs really happened that way. In a paper published online this week on the preprint server bioRxiv, a group of six geneticists, developmental biologists, and stem cell researchers offers alternative explanations for the results. And uncertainty about exactly how the embryos’ DNA changed after editing leaves many questions about the technique’s safety, they argue. (The authors declined to discuss the paper while it’s being reviewed for publication.)
+
+Embryologist Shoukhrat Mitalipov of Oregon Health and Science University in Portland, who led the now-disputed experiments, released a statement saying that his team stands by its explanation. “We based our finding and conclusions on careful experimental design involving hundreds of human embryos,” it says.
+
+In the 2 August Nature paper, Mitalipov and his collaborators showed they could bump up the efficiency of human embryo editing by inserting the CRISPR machinery earlier in development than previous experiments. When they combined healthy eggs with sperm bearing a disease-causing mutation and immediately added CRISPR, they found that 72% of the resulting embryos were free of the mutation—rather than the expected 50% that would have avoided inheriting the harmful gene anyway.
+
+Although the researchers inserted short strands of DNA as templates for repair, the cells didn’t seem to take them up; those specific sequences were absent from the embryos. The cells must have relied instead on the nonmutated sequence in the egg donor’s DNA when making the repairs, the team concluded.
+
+The bioRxiv response, led by developmental biologist Maria Jasin of Memorial Sloan Kettering Cancer Center in New York City and Columbia University stem cell biologist Dieter Egli, challenges that interpretation. The authors, which also include well-known CRISPR researcher and Harvard University geneticist George Church, say that the Nature paper goes against conventional wisdom about how embryos are organized early in development. Right after an egg is fertilized, the DNA from the sperm and the egg aren’t believed to be in close enough proximity to interact or share genes, they explain.
+
+Stem cell researcher Junjiu Huang of Sun Yat-Sen University in Guangzhou, China, who led the first published study of CRISPR editing of a human embryo, isn’t on the bioRxiv paper, but shares that concern. It’s not unexpected for a cell to use its own sequences to guide repair, he notes. In his group’s study, which used nonviable embryos, a gene related to the CRISPR-targeted gene seemed to function as a template. But that gene was on the same chromosome as CRISPR’s edits. Here, the sperm and egg nuclei are seemingly too far apart to cooperate in the repairs, he says.
+
+The preprint authors lay out two other scenarios for what Mitalipov’s team saw. It’s possible that some of the embryos didn’t take up paternal DNA at all, and thus never inherited the mutation to begin with. In some in vitro fertilization procedures, embryos can occasionally start to develop from maternal DNA alone, and the study didn’t rule out this phenomenon for every embryo, they say.
+
+They also suggest that mutated paternal gene could have been snipped out of young embryos but never actually replaced with a healthy version. CRISPR’s cuts can sometimes cause chunks of DNA to be removed from the strand before the two cut ends are rejoined, they note. That would mean no detectable mutation—but it could also mean missing sections of DNA that could have unknown consequences for the embryo.
+
+This possibility of “allele dropout” has been the subject of discussion in the field ever since the Nature paper was published, says developmental biologist Robin Lovell-Badge of the Francis Crick Institute in London. Many scientists are now waiting for a response from Mitalipov, he says.
+
+In his statement, Mitalipov promised to “respond to [the] critiques point by point in the form of a formal peer-reviewed response in a matter of weeks.” He also urged follow-up to resolve the matter. “We encourage other scientists to reproduce our findings by conducting their own experiments on human embryos and publishing their results.”
+
+*Update, 1 September, 1:30 p.m.: The new version of this story has additional comments from several researchers and clarifies the authorship of the preprint.

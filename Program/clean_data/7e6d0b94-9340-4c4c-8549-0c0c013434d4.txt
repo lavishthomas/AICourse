@@ -1,0 +1,111 @@
+Note: "Max Sta." is the amount of stamina you can recover if you eat the food that was cooked using as many additional ingredients as possible.
+
+Name Utensil Required Ingredients Additional Ingredients Profit
+
+1 Star to 5 Star Max Sta.
+
+Yam Dessert Pot Yam + Butter + ( Egg or Black Egg or Golden Egg ) Egg or Black Egg or Golden Egg 396 G | 528 G | 660 G | 792 G | 924 G 60
+
+Pumpkin Pudding Pot Pumpkin + Jersey Milk + ( Egg or Black Egg or Golden Egg ) Egg or Black Egg or Golden Egg 852 G | 1136 G | 1420 G | 1704 G | 1988 G 64
+
+Chocolate Banana Pot Banana + Chocolate Pack (None) 1056 G | 1408 G | 1760 G | 2112 G | 2464 G 36
+
+Stewed Apple Frying Pan Apple + ( Butter or Good Butter or Great Butter ) Butter or Good Butter or Great Butter 396 G | 528 G | 660 G | 792 G | 924 G 62
+
+Apple Pie Frying Pan Apple + Flour + Butter + Egg Good Butter or Black Egg 504 G | 672 G | 840 G | 1008 G | 1176 G 52
+
+Pineapple Pie Frying Pan Pineapple + Flour + Butter + Egg Good Butter or Black Egg 1752 G | 2336 G | 2920 G | 3504 G | 4088 G 50
+
+Strawberry Pie Frying Pan Strawberry + Flour + Butter + Egg Good Butter or Black Egg 612 G | 816 G | 1020 G | 1224 G | 1428 G 46
+
+Sponge Cake Frying Pan Flour + Egg Black Egg or Golden Egg 210 G | 280 G | 350 G | 420 G | 490 G 44
+
+Pudding Pot Milk + ( Egg or Black Egg or Golden Egg ) Egg or Black Egg or Golden Egg 269 G | 358 G | 448 G | 538 G | 627 G 52
+
+Cheesecake Frying Pan Egg + Milk + ( Cheese or Good Cheese or Great Cheese ) Cheese or Good Cheese or Great Cheese 384 G | 512 G | 640 G | 768 G | 896 G 68
+
+Pancake Frying Pan Egg + Milk + Flour + Butter + ( Honey or Spring Honey or Summer Honey or Fall Honey or Fruit Honey or Rose Honey ) Honey or Spring Honey or Summer Honey or Fall Honey or Fruit Honey or Rose Honey 630 G | 840 G | 1050 G | 1260 G | 1470 G 46
+
+Donuts Pot Flour + Oil + Egg + Milk + Butter (None) 546 G | 728 G | 910 G | 1092 G | 1274 G 36
+
+Cookies Frying Pan Flour + Egg + Butter Walnut 378 G | 504 G | 630 G | 756 G | 882 G 28
+
+Chocolate Cookies Frying Pan Chocolate Pack + Cookies Walnut 1020 G | 1360 G | 1700 G | 2040 G | 2380 G 56
+
+Ice Cream Spice Rack Black Egg Butter or Good Butter 168 G | 224 G | 280 G | 336 G | 392 G 38
+
+Cake Frying Pan Flour + Butter + Egg + Milk (None) 492 G | 656 G | 820 G | 984 G | 1148 G 34
+
+Honey Cake Frying Pan Cake + ( Honey or Spring Honey or Summer Honey or Fall Honey or Fruit Honey or Rose Honey ) Honey or Spring Honey or Summer Honey or Fall Honey or Fruit Honey or Rose Honey 768 G | 1024 G | 1284 G | 1536 G | 1792 G 72
+
+Chocolate Cake Frying Pan Chocolate Pack + Cake Walnut 1193 G | 1590 G | 1988 G | 2386 G | 2783 G 62
+
+Party Cake Spice Rack Flour + Good Butter + Black Egg Golden Egg or Strawberry or Walnut 576 G | 768 G | 960 G | 1152 G | 1344 G 56
+
+Choc. Party Cake Spice Rack Chocolate Pack + Party Cake Strawberry 1080 G | 1440 G | 1800 G | 2160 G | 2520 G 88
+
+Party Cheesecake Spice Rack Party Cake + ( Good Cheese or Great Cheese ) Good Cheese or Great Cheese 871 G | 1162 G | 1452 G | 1742 G | 2033 G 92
+
+Chocolate Fondue Pot Chocolate Pack + Bread Strawberry or Apple or Pineapple or Banana or Peach or Mandarin or Cherry or Grape 672 G | 896 G | 1120 G | 1344 G | 1568 G 88
+
+Trifle Pot Sponge Cake + Black Egg + Jersey Milk + ( Strawberry or Apple or Pineapple or Banana or Peach or Mandarin or Cherry or Grape or Watermelon ) Strawberry or Apple or Pineapple or Banana or Peach or Mandarin or Cherry or Grape or Watermelon 708 G | 944 G | 1180 G | 1416 G | 1652 G 104
+
+Baumkuchen Frying Pan Flour + Black Egg + ( Jersey Milk or Golden Milk ) Jersey Milk or Golden Milk 564 G | 752 G | 940 G | 1128 G | 1316 G 46
+
+Churros Pot Flour + Oil + ( Black Egg or Golden Egg ) Black Egg or Golden Egg 318 G | 424 G | 530 G | 636 G | 742 G 36
+
+Mont Blanc Spice Rack Chestnut + Cake (None) 600 G | 800 G | 1000 G | 1200 G | 1400 G 40
+
+Scone Frying Pan Flour + Good Butter + Jersey Milk Fruit Yogurt or Good Fruit Yogurt or Great Fruit Yogurt 720 G | 960 G | 120 G | 1440 G | 1680 G 68
+
+Choco. Ice Cream Spice Rack Ice Cream + Chocolate Pack (None) 726 G | 968 G | 1210 G | 1452 G | 1694 G 62
+
+Strawb. Ice Cream Spice Rack Ice Cream + Strawberry (None) 456 G | 608 G | 760 G | 912 G | 1064 G 46
+
+Matcha Ice Cream Spice Rack Ice Cream + Matcha Tea (Can) (None) 228 G | 304 G | 380 G | 456 G | 532 G 48
+
+Choc. Sponge Cake Pot Sponge Cake + Chocolate Pack (None) 780 G | 1040 G | 1300 G | 1560 G | 1820 G 66
+
+Chocolate Donuts Pot Donuts + Chocolate Pack (None) 1252 G | 1669 G | 2086 G | 2503 G | 2920 G 60
+
+Chocolate Pudding Pot Pudding + Chocolate Pack (None) 816 G | 1088 G | 1360 G | 1632 G | 1904 G 76
+
+Fondant Chocolate Frying Pan Flour + Chocolate Pack + Black Egg + ( Butter or Good Butter or Great Butter ) Butter or Good Butter or Great Butter 936 G | 1248 G | 1560 G | 1872 G | 2184 G 72
+
+Fruit Parfait None Corn Cereal + Ice Cream + Strawberry + Banana + ( Pineapple or Peach or Cherry or Grape or Mandarin or Watermelon ) Pineapple or Peach or Cherry or Grape or Mandarin or Watermelon 1242 G | 1656 G | 2070 G | 2484 G | 2989 G 146
+
+Soft Chocolates Pot Chocolate Pack + Jersey Milk (None) 948 G | 1264 G | 1580 G | 1896 G | 2212 G 36
+
+Strawb. Soft Choc. Pot Chocolate Pack + Jersey Milk + Strawberry (None) 1140 G | 1520 G | 1900 G | 2280 G | 2660 G 44
+
+Matcha Soft Choc. Pot Chocolate Pack + Jersey Milk + Matcha Tea (Can) (None) 924 G | 1232 G | 1540 G | 1848 G | 2156 G 46
+
+Tiramisu None Choc. Sponge Cake + Hot Coffee + Cocoa Pack + ( Cheese or Good Cheese or Great Cheese ) Cheese or Good Cheese or Great Cheese 1500 G | 2000 G | 2500 G | 3000 G | 3500 G 136
+
+Rice Pudding Pot Pudding + Cooked Rice (None) 342 G | 456 G | 570 G | 684 G | 741 G 58
+
+Honey Pudding Pot Pudding + ( Honey or Spring Honey or Summer Honey or Fall Honey or Fruit Honey or Rose Honey ) Honey or Spring Honey or Summer Honey or Fall Honey or Fruit Honey or Rose Honey 414 G | 552 G | 690 G | 828 G | 966 G 90
+
+Soy Milk Pudding Pot Soy Milk + ( Egg or Black Egg or Golden Egg ) Egg or Black Egg or Golden Egg 528 G | 704 G | 880 G | 1056 G | 1232 G 48
+
+Egg Tart Frying Pan Flour + ( Black Egg or Golden Egg ) Black Egg or Golden Egg 288 G | 384 G | 480 G | 576 G | 672 G 34
+
+Strawberry Candy Spice Rack Strawberry + Rice Candy Soy Flour 474 G | 632 G | 790 G | 948 G | 1106 G 14
+
+Sweet Dumplings Spice Rack Shiratama Flour + Soy Flour Walnut or Apricot 336 G | 448 G | 560 G | 672 G | 784 G 12
+
+Bamboo Dumpling None Rice Flour + Bamboo Apricot or Plum 234 G | 312 G | 390 G | 468 G | 546 G 12
+
+Fruit Shiratama None Shiratama Flour + ( Any two of the following: Strawberry or Apple or Pineapple or Banana or Peach or Mandarin or Cherry or Grape or Watermelon or Apricot ) Strawberry or Apple or Pineapple or Banana or Peach or Mandarin or Cherry or Grape or Watermelon or Apricot 354 G | 472 G | 590 G | 708 G | 826 G 58
+
+Chestnut Bun Pot Chestnut + Rice Candy Walnut or Apricot or Plum 198 G | 264 G | 330 G | 396 G | 462 G 22
+
+Green Rice Candy Pot Summer Tea Leaves + Rice Candy Soy Flour or Apricot or Plum or Chestnut 228 G | 304 G | 380 G | 456 G | 532 G 22
+
+Soba Dumplings Pot Buckwheat Flour + Shiratama Flour Apricot or Chestnut 312 G | 416 G | 520 G | 624 G | 728 G 14
+
+Soybean Rice Candy None Soy Flour + Rice Candy Matcha Tea (Can) 354 G | 472 G | 590 G | 708 G | 826 G 16
+
+Almond Tofu Pot Apricot + Tofu Milk or Jersey Milk or Golden Milk 192 G | 256 G | 320 G | 384 G | 448 G 48
+
+Cherry Pie Frying Pan Cherry + Flour + Butter + Egg Good Butter or Black Egg 384 G | 512 G | 640 G | 768 G | 896 G 52

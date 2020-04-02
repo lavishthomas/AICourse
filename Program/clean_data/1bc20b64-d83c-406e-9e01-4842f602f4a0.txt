@@ -1,0 +1,71 @@
+Coding Is Over
+
+When many products are essentially the same app with different color schemes and copy, why are we still coding?
+
+The files in your computer can be represented in multiple ways. The way most people find their files is with a visual interface, like Mac Finder. But you could also do all the same things using a text-based interface like the Terminal. These are multiple ways to model and interact with the same information.
+
+A web application can be represented in many ways too; An architecture diagram, a conversation, mockups. As working software engineers, we usually interact with code. But is this the most intuitive and productive approach?
+
+Inspiration
+
+I used to make electronic music with a program called Reason. I loved it because it let you drag and drop wires between different machines, showing you exactly how everything was connected. To me, the visual wires made a lot more sense than an endless array of menus and dropdowns, which was prevalent in the cutting-edge software of the 2000's. (I luv u Adobe Flash CS3 Professional) Because of Reason’s interface, I had a deeper understanding of what I was doing, and I made a lot more music than I made Flash movies.
+
+We Need More Fun
+
+I don’t know when or how it happened, but at some point, “IT person” became “developer” which became “software engineer”. I love being called an engineer, especially after only three months of “education”. But most of what we do is not engineering. Being an engineer is about solving new problems, and about deep thinking. It’s intellectual work.
+
+Thousands of CRUD apps have already been built. We’ve already solved that problem. But for some reason, we’re still building more of the same apps, mostly from scratch.
+
+Once a problem has been solved, that solution should be applied to other similar problems. A template of instructions is handed off to a worker, or a factory of workers, to duplicate the design as needed. We don’t tell each worker in a car factory to design a new car from scratch. Instead, we give workers a template, and we make it impossible for them to mess things up. When the instructions are so easy anyone can follow them, it becomes a menial job. More than that, it becomes a robot’s job.
+
+Engineers should be solving new and interesting problems, not rebuilding the same apps over and over. That is a job for robots.
+
+Same great website, now with more CSS
+
+It is a proven fact (probably) that the more “original” your UI design, the less people will understand how to use it. It is counterproductive to reinvent established visual language. The internet would work much better if we agree on a handful of common elements, and then express our meaning by combining those. Styles should generate themselves based on a few keywords like “make it metal, black, and evil”, or “make it business, respectable, and blue”, “make it hipster and fun and Apple", or “make it cute and appeal to moms”. At no point should we be typing code to move something over by 5 pixels.
+
+Ego Problems
+
+Coding is revered by many as the holy grail of software engineering. Real engineers code, they say, and coding is what makes you a great engineer. A lot of people have attached their egos and their identities to coding. These people probably need counseling, and I don’t say that flippantly. I am becoming one of these people.
+
+But knowing fancy syntax and “coding skillz” does not make you a good engineer and it does not make you smart. You can be a great coder and a horrible engineer. Devising better, faster, scalable, creative ways to solve real people’s problems is what is valuable, and this will become increasingly true in the coming years.
+
+Coding is super dumb
+
+Coding allows for typos. More than that, it allows for infinite “creativity”, also known as code smells. Most code is pretty rank. Engineers spend countless hours dealing with syntax, typos, indentation, linting, errors, arguing over style and best practices, and making shortcuts to try to coax some of the code to type itself. It’s absurd. And it’s a waste of time.
+
+We’re already there
+
+GraphQL eliminates backend routes and will completely replace REST in the coming years. Have you ever wondered why we need a server acting as a middleman between the client and the database? This should be abstracted away yesterday.
+
+Algolia makes a pile of data searchable. I’m not sure how they do it. But what I do know is, a computer is cheaper and better at optimizing structured data than a human is.
+
+We should be throwing data into a pile and databases should organize and optimize themselves using machine learning and other buzzwords. People should not be writing database schemas, because we inevitably get it wrong. Database design is an optimization algorithm, not an area of engineering.
+
+Engineers around the world are re-writing things like authentication, shopping carts, messaging, and countless other ubiquitous features. And a lot of them are probably feeling pretty cool about it.
+
+These are just a few examples of how engineers waste time duplicating the same basic features over and over.
+
+The Solution
+
+Product Managers should be able to just make the app do what it’s supposed to do, without knowing how to code at all. The only thing a company should be creating are the things that make their product unique. Everything else has already been built in other apps and should be reused.
+
+For all the fervor and allegiance around open source, most of the projects suck, aren’t maintained, and aren’t used at the enterprise level. Companies end up “rolling their own” and duplicating work.
+
+My current undertaking is to build an easy-to-use drag-and-drop interface, where anyone and everyone can construct fully-featured, full-stack apps, with no coding. I have no idea how I’m going to do it, but I’ll probably use those Adobe Flash CS3 Professional skillz I mentioned earlier. Just kidding I’ll probably use React.
+
+Profit
+
+Companies have an economic interest in lowering the barrier to entry for software engineering jobs, as well as decreasing the number of people they need to hire to push new features and show “growth”. If making web applications becomes easier, more people will be available to fill those positions, and salaries will go down.
+
+Good For Engineering Culture
+
+Software engineers are grossly overpaid, and many (I) feel entitled to the money and benefits they (I) enjoy. In reality, software engineers are not smarter or better than any other type of worker. With the death of coding, diversity will increase. Engineering will reflect the rest of society, rather than favoring a very small and socioeconomically exclusive subset of people.
+
+Moneyball
+
+Basically, Moneyball is a great movie. I know it’s old, but I just watched it last night, and I was gonna try and relate this all back to this awesome movie, but I didn’t. And I don’t even care.
+
+You Know What Else Would be Cool?
+
+Building stuff in virtual reality. I just bought one of these and it’s dope.

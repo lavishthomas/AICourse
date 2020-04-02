@@ -1,0 +1,55 @@
+Of all the great DIY projects at this year's Maker Faire, the one project that really caught my eye involved converting a regular old $60 router into a powerful, highly configurable $600 router. The router has an interesting history, but all you really need to know is that the special sauce lies in embedding Linux in your router. I found this project especially attractive because: 1) It's easy, and 2) it's totally free.
+
+So when I got the chance, I dove into converting my own router. After a relatively simple firmware upgrade, you can boost your wireless signal, prioritize what programs get your precious bandwidth, and do lots of other simple or potentially much more complicated things to improve your computing experience. Today I'm going to walk you through upgrading your router's firmware to the powerful open source DD-WRT firmware.
+
+Photo by puruan.
+
+Update: This is a rather old post at this point, and much has changed in the world of DD-WRT. For one, DD-WRT now supports considerably more devices, and it's much easier than it used to be. Check out our updated guide to supercharging your router with DD-WRT to see how it works. And, for an alternative to to DD-WRT with a simplified interface and fancy charts and graphs, check out our other guide to turning your $60 router into a user-friendly super router with Tomato.
+
+What you'll need:
+
+One of the supported routers. I used a Linksys WRT54GL Wireless router that I picked up from Newegg, and the instructions that follow detail the upgrade process specifically for that router and its close siblings. If you're upgrading one of the other supported routers, you might want to look into instructions specific to your router. These instructions may generally work for other supported routers, but I'm not making any promises. The generic DD-WRT v23 SP1 mini firmware version located here.* The generic DD-WRT v23 SP1 standard firmware version located here.*
+
+*You'll be upgrading the firmware twice, first using the mini firmware, then using the standard.
+
+Upgrading your router to the DD-WRT firmware
+
+Check out this gallery for the detailed step-by-step upgrade with screenshots. When you're finished, come back here for some of my favorite tweaks.
+
+Update, October '07: Reader Josh Harris writes in:
+
+All the new WRT54G routers being sold now are v8, and the previous DD-WRT software didn't work on them. However, recent versions added support for the new v8 router— but it's a little more in depth. Got this to work on the WRT54G v8 (should work on 7 as well, just replace the files with the corresponding 7 version): First of all, use IE explorer. Firefox didn't work at all on this for me, even after install. Second, go to this page. Read the textfile carefully and follow its instructions. Two edits to the textfile: 1. Make sure you go to command prompt and type ipconfig /all . Record the default gateway, the subnet mask, and the two DNS addresses. When you set the IP address manually on your desktop/laptop to 192.168.1.100 as per the instructions, you will need to set these 4 numbers as well. 2. Don't forget when you do the tftp that you need to be in the folder that contains the downloaded dd-wrt.v24_micro_wrt54gv8.bin file (for example, if it is in C:/Downloads, type /cd C:/Downloads ). Lastly don't forget you need to be on a wire to the router, and download both vxworkskillerGv8.bin and dd-wrt.v24_micro_wrt54gv8.bin before you start. Following this procedure will install the micro version on your router. After this, switch your laptop/desktop back to receiving your IP address via DHCP rather than the manual configuration you set as per the instructions. You will be able to access the DD-WRt micro install via 192.168.1.1 with the login username root and the password admin . From here, you still need to install the DD-WRT standard. Unfortunately, you cannot go any farther than this with WRT54G v7 and v8 because Linksys downgraded the physical memory in these recent models. However, micro is still an improvement over the original Linksys firmware.
+
+Boost your wireless signal
+
+The first thing I did after I finished the firmware upgrade was give my wireless signal a much needed boost ("needed" in the sense any signal boosting that can be done needs to be done, right?). Doing so is trivial.
+
+Advertisement
+
+Go to the Wireless tab, then to Advanced Settings. Find the entry labeled Xmit Power, which is set by default at a paltry 28mW, and can be set up to 251mW. To be honest, I don't know much about the science of the whole process, but I do know that 251 is WAY bigger than 28. However, you probably don't want to pump it up to 251mW right away.
+
+The DD-WRT manual suggests that a "safe increase of up to 70 would be suitable for most users." Anything too much above that and you'd be flirting with overheating your router and damaging the life of your router (though I've heard that many people have pushed it up to 100 or above). So go ahead and change your Xmit Power to 70 and click the Save Settings button at the bottom of the page.
+
+Advertisement
+
+I can't measure for sure how the signal boost has improved things for me since I've just moved into this apartment, but I can say that the signal is full bars pretty much anywhere I go. How's that for scientific?
+
+Throttling your bandwidth by program
+
+While most routers treat one request for bandwidth the same as any other, your new $600 router is a step above. By setting up QoS (Quality of Service) rules, you can give priority to your interactive traffic (like VoIP, web browsing, or gaming) while throttling traffic that doesn't require a steady rate of bandwidth to function (like P2P programs).
+
+Doing so will ensure that even if your network gets clogged with lots of file sharing, you'll still have enough bandwidth left over to make all of your free SkypeOut phone calls. If you've got roommates who tend to sponge up a lot of bandwidth, you can even prioritize by IP address.
+
+What to do if you brick your router
+
+If, god forbid, while flashing your firmware you end up "bricking" your router, don't worry - all is not lost. The DD-WRT wiki (a great resource of all things DD-WRT) can help you recover from a bad flash.
+
+Advertisement
+
+Of course, your router will handle securing your network, port forwarding, and all the other things your regular old router does.
+
+Obviously I've just scratched the surface here, so if you decide to try this out, there's a lot of potential for other things you can do. Any readers tricked out a router with DD-WRT or one of the other open source distros? Tell us what tweaks have worked for you in the comments or at tips at lifehacker.com.
+
+Advertisement
+
+Adam Pash is an associate editor for Lifehacker who loves a good signal boost. His special feature Hack Attack appears every Tuesday on Lifehacker. Subscribe to the Hack Attack RSS feed to get new installments in your newsreader.

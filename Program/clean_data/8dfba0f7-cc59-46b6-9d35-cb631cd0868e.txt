@@ -1,0 +1,45 @@
+Ninite is a free tool that automatically downloads, installs, and updates various Windows programs for you, skipping past the evil toolbar offers. For Windows users, Ninite is arguably the only really safe place to get freeware.
+
+This application is far more than a tool for tech support people to easily set up PCs. It’s a place you can get safe Windows freeware without trawling the usual download sites full of harmful garbage.
+
+The Only Safe Place, Really?
+
+Of course, safe freeware is available elsewhere online. But there’s no real trustworthy, centralized source of the stuff. Download sites are uniformly terrible these days — even good old SourceForge is now bundling junkware.
+
+If you want a safe place to get freeware without worrying about toolbars and other junkware, Ninite is the program to use. If you have parents or relatives that use a computer, you can tell them just to use Ninite to get and update the free programs they need — the software on Ninite is guaranteed to be safe. Even programs that come with toolbars (like Java) won’t have a toolbar when you install them via Ninite. We can’t think of a single rule of thumb that will help a typical user get useful free Windows applications while avoiding all the junkware and malware beyond “just use Ninite.”
+
+This doesn’t mean you should avoid other websites entirely — sure, if you use Microsoft Office, download it from Microsoft. But, if you need a free application to do something, head to Ninite’s website and find one there instead of attempting to hunt down an application on the freeware sites.
+
+How Ninite Works (or Why Ninite is Awesome)
+
+Ninite offers a website with a list of popular free Windows applications. Practically all the freeware a typical Windows user would need it here. This includes everything from web browsers like Chrome and Firefox to system tools, media applications, compression utilities, and cloud storage programs. Just check off the programs you want to install, click Download Installer, and Ninite will download a single .exe file onto your system. Run the downloaded Ninite installer and it will automatically download each program you selected, installing it in the background without any annoying choices and automatically declining any toolbar offers.
+
+Yes, it’s really that easy. Ninite is a great way to quickly install your favorite programs on a new PC or fresh Windows install, but it’s more than that — it’s a safe, centralized place to get the freeware you need. Ninite has a lot of smarts. It downloads programs from their official websites, automatically checking their digital signatures or hash values to ensure they haven’t been tampered with. It works entirely in the background, skipping any questions, ignoring prompts to reboot your PC, and automatically installing 64-bit applications on a 64-bit PC.
+
+Ninite Can Update Applications, Too
+
+Ninite isn’t just about easily installing applications. When you launch your downloaded Ninite installer again, it will check for updated versions of the programs you chose. If a new version is available, Ninite will download and install it automatically. If you already have the current version, Ninite will skip installing that application.
+
+This means Ninite is also a great way of updating the freeware you use. You can re-run the installer once a week or so to ensure you have the latest versions of your installed applications — all it takes is a double-click on the Ninite installer and your applications will be updated for you.
+
+Automatically Update Applications With Ninite and a Scheduled Task
+
+You may want to check for updates regularly without buying Ninite’s paid solution, which we’ll cover below. For example, you might want to use Ninite to install software on a relative’s computer. Afterward, you might want to ensure Ninite automatically updates the software on a regular basis.
+
+You can automate this by creating a scheduled task. Just download the Ninite installer .exe file and save it to an out-of-the-way folder so your relative doesn’t delete it from the downloads folder. Open the Task Scheduler and create a task that runs the application once a week or so. Once a week, the computer will automatically load the Ninite application, which will automatically download and install the updates.
+
+Your relatives will see the Ninite application open and have to close it — just tell them to let it do its thing and close it when it’s done. There is a command-line switch that lets you run Ninite silently in the background, but it’s only available in the paid pro version. Ninite can update applications automatically with a scheduled task, but you’ll have to see its interface while it runs.
+
+This trick isn’t just for less-knowledgeable relatives, of course. You could use this trick on your own computer to run Ninite regularly so you wouldn’t have to remember to open it.
+
+How Ninite Makes Its Money
+
+Ninite’s basic features are completely free for home users. To make some money, the company behind Ninite, Secure By Design Inc., offers a few paid services.
+
+The Ninite Updater is a small tool that runs in your system tray, automatically checking for application updates and allowing you to install multiple updates with a single click. It costs $9.99 per year, and is really designed for home users who want to financially support the Ninite project. This tool isn’t necessary — you can double-click the downloaded Ninite installer to automatically check for and install updates occasionally. Important programs like your web browser will automatically check for and install their own updates, too.
+
+For corporate users, Ninite offers a $20 per month application called Ninite Pro that will allow you to centrally manage the software on up to 100 computers on a Windows domain. This also includes Ninite One, a desktop application for installing applications without visiting the Ninite website first.
+
+Ninite is brilliant. For all the tasks we’ve made easier on a computer, finding and installing Windows software is often a hard one — at least if you want your computer to stay junkware-free. And, with Windows freeware websites turning to bundling increasingly invasive software with their installers to make money, it’s become increasingly important.
+
+This tool has now been around for five years, and it has a great track record of respecting users and a business model that doesn’t depend on tricking people or foisting unnecessary junkware on them. Ninite has proven can be trusted while other software download websites have turned to the dark side. Spread the word: Ninite is the place to get Windows freeware.

@@ -1,0 +1,137 @@
+Recent breakthroughs in artificial intelligence and machine learning are enabling computers to understand the world and respond intelligently to it. Google is already embracing these technologies for Android, but they’re poised to have bigger implications, touching everything from drones to medical diagnosis.
+
+At least that’s the view of Marc Andreessen, a prominent venture capitalist at the firm Andreessen Horowitz. And he should know. He made his fortune as co-founder of Netscape two decades ago, and more recently his firm has invested in successful companies like Facebook, Twitter, Airbnb, Slack, and Lyft. Andreessen is in constant contact with entrepreneurs and investors trying to build the next great technology company.
+
+Andreessen argues that recent breakthroughs mean artificial intelligence has the potential to spawn a new generation of big, important technology companies. At the same time, he acknowledges that certain industries have proven stubbornly resistant to technological change — and he argues that more work is needed to bring the power of software to every corner of the economy.
+
+We spoke by phone in late September. The transcript has been edited for length and clarity. You can read part two of the conversation here.
+
+Timothy B. Lee
+
+Where do you think the next great technology companies will come from? In the 1990s you had Google and Amazon, and in the 2000s you had Facebook and Uber. Obviously there might be a startup I haven’t heard of yet that’s about to get a big break. Still, it’s hard for me to think of any companies founded in the last six years that have a shot at becoming a Google or Facebook or Amazon-sized company.
+
+Marc Andreessen
+
+The traditional way this happens is with new platforms and architectures. New generations of technology that emerge. The last big category of technology was the smartphone and smartphone apps. Smartphones materialized in 2007, many of the app categories were identified in 2010 or 2011. It’s becoming clear that there are some major new smartphone-centric companies that are going to be important companies. But four years ago or even two years ago that wasn't clear as it is today.
+
+So if smartphone architecture was the last one, it feels like artificial intelligence, virtual reality, autonomy, voice, and the internet of things are all candidates for the next wave. The obvious example right now is AI. It sure feels like there are going to be a new set of products and companies that are going to be AI-powered at their core.
+
+Facebook and Google and Amazon have these giant first-class efforts in this space. But we’re also seeing a legion of startups. I think there will be a whole generation of new very important AI companies that come out — many of which are just getting started right now.
+
+Timothy B. Lee
+
+People have been talking about AI for a long time, but commercial success has been elusive. What makes you think things are different now?
+
+Marc Andreessen
+
+I was really skeptical at first. It’s not widely known, but there was an AI bubble in the 1980s where there were a whole bunch of venture-backed companies that got funded and they basically all blew up and torched all the capital.
+
+We feel like we're seeing something different now. The really big change was the ImageNet competition in 2012. In 2012, computers became better than people at recognizing objects in images. This is an actual competition where they’ve calibrated how to measure this.
+
+Basically what we've seen in the last four years is breakthrough after breakthrough after breakthrough. First was the breakthrough in recognizing objects in still images. There are corresponding breakthroughs happening right now in recognizing objects in videos — entirely new kinds of video classification. If you can do video recognition you can do realtime video, which means you can do autonomy.
+
+There's a whole new generation of autonomous vehicle startups that are spinning out of Google
+
+We’ve invested in a company called Skydio that’s doing full autonomous consumer drones. It's such a different product than you can get today, with such different capabilities, it’s almost eerie. It's following you around with no human guidance at all. You run into a forest and it’s navigating and flying between tree branches entirely by itself. And it’ll be at a consumer price point. That's something out of a science fiction movie.
+
+We’re seeing deep learning applied to pre-detection of cardiac events. We have a company called Freenome doing deep learning applied to blood biopsies for cancer diagnoses that seems to be working very well.
+
+Timothy B. Lee
+
+There’s a classic tech industry question: “Is this a product or a feature?” You see Google, Facebook, and Amazon all putting a lot of money into artificial intelligence. Siri began as a startup but was quickly acquired by Apple. So is AI going to spawn big, independent companies with new products? Or is it more likely that these innovations will be absorbed by existing big companies to improve their existing products?
+
+Marc Andreessen
+
+Two years ago, I thought the big companies would dominate. The big companies had several big advantages:
+
+There’s a limited number of people who understand how to build this kind of thing. The big companies can pay them more money than startups. The big companies pay them like sports stars. So the big companies will be able to employ them all so there won't be any talent available.
+
+These projects are very big and complicated. This is a very advanced new area of technology. The Echo project at Amazon was 1,500 engineers for four years. As a startup, you can’t match that.
+
+The additional kicker was the need for data. The theory had been that you need these huge datasets. Part of the breakthrough on ImageNet was the sheer size of databases you could train the algorithm against. The theory was that big companies like Google and Facebook would have access to giant oceans of data but the startups would never be able to match that.
+
+What's happened in the last two years is that every single one of those factors has changed to at least some degree. All of a sudden, you have a lot more computer science graduates coming out knowing how to do this because this has become the hot new area of computer science. You also have a lot of the engineers who have been at the big incumbents working on this stuff who are now realizing they can start their own companies.
+
+There's a whole new generation of autonomous vehicle startups that are spinning out of Google. Otto (recently acquired by Uber) was a prominent one, but there are, like, six others that are in flight right now.
+
+Meanwhile, the technology itself is becoming more tractable. A lot of the interesting new projects we’re seeing don't need 1,500 people. They need five. Google open sourced this thing called TensorFlow, which is one of the building blocks of deep learning. We’re seeing startups all over the place picking that up and running with it, which would not have been possible a couple of years ago.
+
+The science itself keeps advancing. People are learning how to do deep learning on small data sets. We’re seeing startups that either figure out a clever hack to get the big data set, or figure out a way to run the algorithms in a way where they only need a small data set.
+
+Timothy B. Lee
+
+A lot of these potential AI applications seem like viable businesses but not necessarily big businesses. And for the really big opportunities — like self-driving cars — it seems like the big companies have advantages that will be hard to match.
+
+Marc Andreessen
+
+I still think you're thinking of this as you'll take an existing product and add some AI to it. That’s not what we’re seeing. What we’re seeing is an entirely new kind of product that wasn't possible before.
+
+Let's talk about drones for a second. You buy a drone today and pilot it yourself and 20 minutes later you crash into a tree. You say “boy that was fun,” and you have to buy a new drone.
+
+It's not a feature; it's a totally new architecture
+
+The incumbent drone-makers have been talking for some time about adding a feature they call “follow me.” The number of drone companies that are either incumbent drone companies that are deciding they want to add that feature, the number of Kickstarter projects that are promising to add that feature, is dozens or hundreds. But nobody’s been able to make it work.
+
+The reason is because it's not a feature; it's a totally new architecture. The drone has to be built on AI from the ground up. The bet that DJI and other drone makers are making is that it's a feature. The bet that we’re making is that it requires a brand new architecture.
+
+That's an example of fundamental reinvention. If our thesis on that is right, then all the existing drones become obsolete. They just don't matter because they can't do the thing that actually matters.
+
+If you talk to the automakers, they all think that autonomy is a feature they're going to add to their cars. The Silicon Valley companies think it's a brand new architecture. It’s a bottom-up reinvention of the fundamental assumptions about how these things work.
+
+Timothy B. Lee
+
+So it sounds like we have a lot of innovations coming out. At the same time, interest rates are very low and growth is slow in the economy overall. The way it’s supposed to work is that when interest rates are low, it’s easy to borrow money and easy to raise money, and we should have this surge of investment. But the statistics seem to show that there’s a lot more money being saved than invested. What do you think is going on?
+
+Marc Andreessen
+
+Right now there are two different kinds of industries. There are the industries that have rapid technological adoption and productivity improvement. Television sets, computer equipment, media, food. Bloomberg had a story that food prices are plummeting because food production is getting much more sophisticated.
+
+So you've got these sectors of the economy where there's rapid productivity growth. Prices are falling fast. Those are the industries where everyone is worried that the jobs are going away — or to China or Japan or Mexico. People say there's too much disruption — too much technological change. The Silicon Valley kids are wreaking havoc on the economy.
+
+Then you have the sectors in which prices are rapidly rising: health care, education, construction, prescription drugs, elder care and child care. Here there’s very little technological innovation. Those are sectors with insufficient productivity growth, innovation, and disruption. You’ve got monopolies, oligopolies, cartels, government-run markets, price-fixing — all the dysfunctional behaviors that lead to rapid increase in prices.
+
+The government injects more subsidies into those markets, but because those are inelastic markets, the subsidies just cause prices to go up further, which is what is happening with higher education.
+
+What happens over time is that the rising-cost sectors eat the entire economy
+
+And so in these sectors, people are irate that there's not enough productivity growth. There’s not enough technological growth and we’re paying too much.
+
+You sum those together, you get this muddle in the middle where it looks like we're puttering along. But this masks what’s actually happening.
+
+You have some sectors falling in prices very fast, some are rising very fast. What happens over time is that the rising-cost sectors eat the entire economy. Consumers see their incomes being eaten by health care and education.
+
+To me the problem is clear: The problem is insufficient technological adoption, innovation, and disruption in these high-escalating price sectors of the economy. My thesis is that we're not in a tech bubble — we’re in a tech bust. Our problem isn't too much technology or people being too excited about technology. The problem is we don't have nearly enough technology. These cartel-like legacy industries are way too hard to disrupt.
+
+Timothy B. Lee
+
+One thing that most of these low-growth industries have in common is that they’re very labor-intensive. A big chunk of what you’re paying for is another human being to spend time with you — a nurse, a teacher, a nanny, etc. You’re probably familiar with the concept of Baumol’s cost disease — that as manufactured goods become cheaper, people are going to devote more of their resources to the thing that’s scarce, which is human labor.
+
+So I wonder if this is a problem that’s just inherently unsolvable. There are always going to be some labor-intensive industries with slow productivity growth, and those industries are always going to have costs going up rapidly relative to the others.
+
+Marc Andreessen
+
+On the macro level I agree with that. I think that’s an accurate description of what’s happening, and I do think Baumol's disease plays a big role in how the cost shifts.
+
+The thing that I would point to is just because we think that an industry has to be labor intensive because it always has been, that doesn’t mean it has to be going forward. If you go to the productivity literature of the 1980s, one of the things they all knew for a fact in the 1980s was that you could automate production but you couldn’t automate retail. It was taken as a given that retail was always going to be labor-intensive. Distribution would always be labor-intensive. You’ve got the person who stocks the shelves, you’ve got the checkout person, you’ve got the person who helps carry stuff out to the car.
+
+The big advance at the time was computer-based checkout and laser scanning. But it turned out the laser scan didn’t help productivity. The laser scan took time. Half the time it didn’t work and then you had to do a price check. Maybe it even degraded productivity because with the laser scan you didn’t have a price tag on the object because you didn’t think you needed one.
+
+So there was a lot of disillusionment at that time that you’d never get retail to be more productive. Of course, in the last 20 years, retail has become radically more productive. First there was Wal-Mart with their modern approach to the supply chain. And then there was Amazon. And then I would argue the transition from physical products to software products is a third layer of productivity improvement, delivering music as an MP3 or a stream is a much more productive way of doing it than having a physical CD through stores.
+
+So you have this giant industry of retail that was held to be completely hand-crafted. And now it turns out it can be almost completely automated. There’s a point where everyone is upset that the retail jobs are going away.
+
+Timothy B. Lee
+
+Are they though? Retail stores employ almost 5 million people, and the Labor Department has projected that to grow by 7 percent over the next decade.
+
+Marc Andreessen
+
+That’s right. This is the thing where the luddites just keep getting it wrong. It’s an application of what you said, which is that the scarce thing becomes valuable. Retail clerks are growing.
+
+The other thing that's been growing for decades is bank tellers. That one might actually finally begin to decline. But bank teller jobs have continued to grow for the last 30 years as ATMs and online banking were rolled out exactly for the reason you said. Which is all the sudden there’s an opportunity to differentiate by providing a higher level of service by providing a person.
+
+Vinod Khosla has written all these stories about how doctors are going to go away. He thinks computers are going to be so much better at diagnosis that there’s no room for doctors any more. And I just think he's completely wrong. I think the job of a doctor shifts and becomes a higher-level, more important job that pays better as the doctor becomes augmented by smarter computers.
+
+That's why I'm so optimistic about the economy. That’s why I think the Luddites and the slow-growth people are wrong. We can have tremendous amounts of job creation and have huge productivity improvements. They’re not actually in conflict, despite what everyone thinks right now.
+
+Watch: Why Elon Musk says we're living in a simulation

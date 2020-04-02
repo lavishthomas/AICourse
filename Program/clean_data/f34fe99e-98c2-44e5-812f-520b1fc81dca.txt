@@ -1,0 +1,44 @@
+With the rising costs of healthcare and the even faster pace at which technology is advancing, hospitals need to stay ahead of the curve. A number of startups are aiming to help these facilities do just that. Check out three startups that have developed tech breakthroughs for the hospital room:
+
+NXT Health + Patient Room 2020
+
+What will the hospital room of the future look like? New York-based nonprofit NXT Health won a Department of Defense contract in 2006 to figure it out. NXT Health teamed up with Clemson University's Healthcare and Architecture Graduate Program on the project, dubbed "Patient Room 2020." Conceptual planning began in 2010, with the goal of implementing the design in 10 years.
+
+David Ruthven, who's the creative director of Patient Room 2020, likes to playfully remind people that when the team began work on the project, the iPad wasn't even invented yet. Even so, they were keenly interested in including cutting-edge technology--as long as they were useful and didn't overwhelm the environment.
+
+The main challenge was to incorporate those tech advances in way that enhanced the patient experience and improved doctors' workflow. For instance, the room features a sink with a sensor-controlled light to encourage hand washing by medical staff. When a nurse or doctor walks into the patient room, the sink glows red as a reminder that they need to wash their hands, the light then shifts to green when they have washed their hands long enough. Staff can multitask while they wash their hands--a tablet above the sink can be programmed to show patient informating and caregiving checklists.
+
+The bathroom has an open design concept and features a sliding door--eliminating the threshold that can be a trip hazard and making it easier to reach patients if they need assistance. "A bathroom in a hospital is more like a procedure space, so we wanted to make it true to what the environment was and design it that way," Ruthven says.
+
+The team also sought to simplify the look of hospital rooms. A "Patient Ribbon"--a streamlined collection of typically disparate items that runs from the patient's head wall to their footwall of the room that has a trash recepticle, smoke detectors, the patient lift system, among other features. A "Patient Halo," which refers to the lights above the bed and the bedside controls, let the patient help dictate the environment. Patients even get their own tablet--the "Patient Companion"--to stay informed about their treatment.
+
+Patient Room 2020 is still undergoing changes and improvements to its design, but NXT health did open a full-size, 400 square foot prototype of the room in July 2013. It likely won't appear in hospitals until 2020. NXT Health has a reported $4 million in funding.
+
+LifeBed
+
+In most hospitals, only the highest risk patients are monitored 24/7--there just isn't the manpower to do it, says Eddie Chen, president and COO of Hawaii-based medical device company Hoana Medical. So some patients can fall through the cracks.
+
+Hoana's LifeBed, which was originally designed for military use, aims to solve that problem. The hospital bed features passive, wireless sensors that track a patient's vital signs, such as respiratory patterns and heart rates, without uncomfortable cuffs or electrodes. If any negative changes occur--based on customizeable parameters--the system alerts the hospital staff.
+
+"Our technology was kind of designed to provide virtual eyes or a safety net for the hospital," Chen says.
+
+Based on feedback from nurses, Hoana also incorporated a feature that measures bed exit events. Meaning, anytime a patient gets out of bed or falls out of bed, the system will alert the staff.
+
+Chen wouldn't disclose Hoana's funding but he says the company is currently in the process of introducing its system into hospitals and is raising another round of funding in the hopes of creating a newer, cheaper, Bluetooth-enabled version of the LifeBed system that could be used in nursing homes and home care.
+
+Eyes-On Glasses
+
+Nearly everyone has had a bad experience getting blood drawn or getting hooked up to an IV in which more than a few needle pokes were required. What few people realize is that the true cost of those mishaps go beyond patient discomfort. "If a nurse spends [a lot of] time trying to get a simple IV started, it destroys workflow and delay in treatment is a big problem," says Frank Vall, CEO and president of Evena Medical. The Silicon Valley company founded about three and a half years ago, invented the Eyes-On Glasses to try to streamline this process.
+
+Evena--which has been in the vein imaging business for years--introduced the battery-powered glasses to allow clinicians to see through a patient's skin to the vein so they can deliver needle injections more accurately. The glasses feature a "heads-up display," which means that wearers see a far-field image by looking through the glasses (like they would any other pair of glasses) but also see a near-field image, presented on the inside of the glasses. This near-field image is typically of the vasculature (veins) under the skin, rendered through a multi-spectral imaging system.
+
+Though the glasses are similar to Google Glass, the image is presented squarely in front of the practitioner rather than in the upper right corner. This provides the wearer with situational awareness, which Vall says is key.
+
+"All of us can touch our nose and if you look at something on your desk and then look away you can still reach out and touch it because of muscle memory," said Vall. "If we present the image squarely in front of the practitioner with muscle memory, intuitively they can do the [needle] stick, it's just natural."
+
+The image offered by Eyes-On Glasses is the equivalent of a 60-inch screen, which offers crucial visibility for medical procedures. The glasses can also record footage (they have two cameras---3D and Stereoscopic).
+
+In April of 2013, Evena began shipping Eyes-On Glasses throughout the country. The company has raised $11.4 million to reach this stage, and just closed a Series A round last September, and closed a $5 million Series B funding round in February of this year.
+
+
+

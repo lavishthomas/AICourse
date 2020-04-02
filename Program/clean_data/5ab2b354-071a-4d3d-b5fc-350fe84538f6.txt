@@ -1,0 +1,105 @@
+2016 was a great year for Open Hardware. The Open Source Hardware Association released their certification program, and late in the year, a few silicon wizards met in Mountain View to show off the latest happenings in the RISC-V instruction set architecture.
+
+The RISC-V ISA is completely unlike any other computer architecture. Nearly every other chip you’ll find out there, from the 8051s in embedded controllers, 6502s found in millions of toys, to AVR, PIC, and whatever Intel is working on are closed-source designs. You cannot study these chips, you cannot manufacture these chips, and if you want to use one of these chips, your list of suppliers is dependent on who has a licensing agreement with who.
+
+We’ve seen a lot of RISC-V stuff in recent months, from OnChip’s Open-V, and now the HiFive 1 from SiFive. The folks at SiFive offered to give me a look at the HiFive 1, so here it is, the first hands-on with the first Open Hardware microcontroller.
+
+Before I dig into this, I must discuss the openness of the HiFive 1, and RISC-V in general. Free Software and Open Hardware is a religion, and it’s significantly more difficult to produce Open Hardware than Free Software. No matter how good or how Open the design is, the production of the first Open Source microcontroller will generate far too many comments from people who use the words ‘moral imperative’ while citing utilitarian examples of why Open and Libre is good. You should ignore these comments, but not just because these people have only read the back cover of the Cliff’s Notes for Philosophy For Dummies.
+
+The Openness of the HiFive 1 and RISC-V
+
+The biggest selling point for RISC-V chips is that there are no licensing fees, and this microcontroller is Open Source. This is huge — your AVRs, PICs, ARMs, and every other microcontroller on the planet is closed hardware. You can’t study the silicon. If we’re ever going to get a completely Open Source computer, it has to start somewhere, and here it is.
+
+With that said, this is an Arduino-compatible board with an FTDI chip providing the USB to serial conversion. If we had a facepalm emoji, we’d use it here. An FTDI chip is not Open Source, and they have designed drivers to break chips that aren’t theirs. The design files for the HiFive 1 were made with Altium, a proprietary and non-Free software.
+
+Will Stallman ever say the HiFive 1 is Free as in speech? Absolutely not. Instead, the HiFive 1 is an incrementally more Free microcontroller compared to a PIC, ARM, or AVR. There will be people who will argue – over the Internet, using late-model Intel processors with Management Engines — this is insufficient to be called Free and Open Source. To them, I will simply link to the Nirvana fallacy and ask them to point me to a microcontroller that is more Free and Open Source. Let’s not cut down the idea of an Open Source microcontroller because it’s not perfect on the first release.
+
+Hardware Teardown
+
+So, what’s in the HiFive 1? The spec sheet is simple enough, the datasheet is complete enough, although there are some caveats:
+
+Microcontroller: SiFive Freedom E310 (FE310) CPU: SiFive E31 CPU Architecture: 32-bit RV32IMAC Speed: 320+ MHz (the stock frequency seems to be about 256 MHz, this can be changed) Performance: 1.61 DMIPs/MHz Memory: 16 KB Instruction Cache, 16 KB Data Scratchpad Other Features: Hardware Multiply/Divide, Debug Module, Flexible Clock Generation with on-chip oscillators and PLLs
+
+SiFive Freedom E310 (FE310) Operating Voltage: 3.3 V and 1.8 V
+
+3.3 V and 1.8 V Input Voltage: 5 V USB or 7-12 VDC Jack
+
+5 V USB or 7-12 VDC Jack IO Voltages: Both 3.3 V or 5 V supported
+
+Both 3.3 V or 5 V supported Digital I/O Pins: 19
+
+19 PWM Pins: 9
+
+9 SPI Controllers/HW CS Pins: 1/3
+
+1/3 External Interrupt Pins: 19
+
+19 External Wakeup Pins: 1
+
+1 Flash Memory: 128 Mbit Off-Chip (ISSI SPI Flash)
+
+128 Mbit Off-Chip (ISSI SPI Flash) Host Interface (microUSB): Program, Debug, and Serial Communication
+
+Basically, the HiFive 1 is the SiFive FE310 microcontroller packaged in an Arduino Uno form factor. The pin spacing is just as stupid as it’s always been, and there is support for a few Adafruit shields sitting around in the SDK.
+
+There are no analog pins, but there are two more PWM pins compared to the standard Arduino chip. The Arduino Uno and Leonardo have 32 kilobytes of Flash, while the HiFive 1 has sixteen Megabytes of Flash on an external SOIC chip.
+
+The HiFive 1 supports 3.3 and 5V I/O, thanks to three voltage level translators. The support for 5V logic is huge in my opinion — nearly every dev board manufacturer has already written off 5V I/O as a victim of technological progress. The HiFive doesn’t, even though the FE310 microcontroller is itself only 3.3V tolerant. It should be noted the addition of the voltage level translators add at least a dollar or two to the BOM, and double that to the final cost of the board. It’s a nice touch, but there’s room for cost cutting here.
+
+Other than that, the only other chip of note on the board is the FTDI FT2232HL, a well-supported but most certainly not Free and Open Source USB to UART chip. This is a two-port chip that provides programming, serial, and debug connections simultaneously.
+
+Getting Started With The HiFive 1
+
+The folks at SiFive realize documentation and SDKs are necessary to turn a chip into a development board. To that end, they have a bare-metal SDK and support for the Arduino IDE. The board itself comes with a bootloader, and when you plug the HiFive 1 into a USB you get the equivalent of the Blink sketch from the Arduino. Yes, you too can have Open Source blinkies. What a magical time to be alive.
+
+Right now there are two methods of programming the HiFive 1. The Freedom E SDK, and the Arduino IDE. The Arduino IDE appears to be dependent on the Freedom E SDK, so either way, you’ll have to get the SDK running.
+
+Right now, the SDK only works under Linux (and OS X, and possibly Cygwin), but support for Windows is coming. For Linux users, the getting started guide is more than sufficient, although it will take quite a while (at least 30 minutes) to build all the tools.
+
+Once the Freedom E SDK is installed, support for the Arduino IDE pretty much falls into place. You’ll have to futz around with the Boards Manager, but with a few clicks, you get something fantastic. You can blink an LED with Open Source Hardware.
+
+Actually Programming the Thing
+
+Blinking an LED is proof enough this can be programmed, but what about the vast SDK we had to install before getting the Arduino IDE working? Here, too, it’s pretty easy to get the SDK up and running:
+
+For this example, I simply changed the ‘hello world’ program shipped with the SDK to a ‘hello Hackaday’ program, compiled it, and ran it. Yes, someone as dumb as me can compile and upload a program to the HiFive 1.
+
+This Stuff is Still New, Okay?
+
+Before receiving the HiFive 1, I originally planned to benchmark this dev board against other small, common dev boards. The SDK comes with a Dhrystone program, making this the obvious choice. The results were not good, but this isn’t a reflection of the power of the FE310 microcontroller. Allow me to present the shocking infographic you should not pay attention to:
+
+This test used this Dhrystone Arduino sketch with the Arduino Micro, HiFive 1, and the Teensy 3.6. As you would expect the Arduino Micro performed poorly (but still ten times faster than a mainframe from 1988), and the Teensy 3.6 was extremely fast. According to this benchmark, the HiFive 1 did terribly at barely twice the computing power of the Arduino while running 16 times faster. If this benchmark was accurate, it would immediately spell the end of the RISC-V ISA.
+
+The above benchmark is not accurate, and the poor Dhrystone performance was due to incorrect assumptions about the timer’s frequency. I plopped this problem up on the SiFive forums, and a patch was available in a few hours. What does the real benchmark say?
+
+I love this test. Beginning this review, I originally planned to run a few benchmarks on an Arduino, a Teensy, and the HiFive 1, throw together a graph and spend a hundred or so words on the results. I got so much more.
+
+Right off the bat, we can see the HiFive 1 is fast. Really, really fast. Right now, if you want to build a huge RGB LED display, you have one good option: the Teensy 3.6. If you need a microcontroller to pump a lot of data out, the Teensy has the power, the memory, and the libraries to do it easily. In this small but very demanding use case, the HiFive 1 might be better. The HiFive 1 has more Flash (although it’s an SPI Flash), it has DMA, and it has roughly twice the processing power as the Teensy 3.6. This could be very, very cool, and I can’t wait to see the real life examples of how much the HiFive 1 can push out of its pins.
+
+There’s your hundred word review on the performance of the HiFive 1 based on synthetic benchmarks. However, getting this benchmark working revealed far more about the state of the HiFive’s software, and how much support SiFive is throwing at it.
+
+Admittedly, I do have a very early version of this board, and the CrowdSupply campaign for the HiFive 1 was only funded last week. No one would expect one of the three demo apps shipped with a newly released board with a mature architecture to be completely broken (unless it’s an Allwinner chip, but whatever). Very few people would expect the devs to get a patch out in less than 24 hours in response to a random person on a support forum.
+
+All of this circles back to a single observation on the HiFive 1: It’s new. The HiFive 1 and all RISC-V microcontrollers don’t have a vast market share, user base, or decades of work behind them. However, the SiFive team seems to be taking their work seriously. They’re fixing the problems they have, and they’re constantly pushing out new documentation. This is great, and a very good indication of how much support the RISC-V chips from SiFive will have.
+
+Chips As A Service
+
+I should note that the folks at SiFive aren’t in the business of building RISC-V Arduino boards. They’re in the business of making chips for people. This is custom silicon we’re talking about here.
+
+The easiest parallel to draw is between SiFive and OSH Park. These companies don’t have their own manufacturing capability; the value is in connecting end users (engineers, startups) to manufacturers. OSH Park connects you to a board house that really knows purple, and SiFive connects you to a chip fab. In the case of the FE310, that’s TSMC.
+
+For anyone who wants silicon you can study, this is great. No, it’s not as simple as sending a board off to a fab house, but it’s a start. The fact that SiFive chose to start with Open Hardware is great, and we can’t wait to see the other hardware made with their sweat and hydrofluoric acid.
+
+Update: You can already get your hands on the RTL for the SiFive chips if you want to run the cores on your own FPGA.
+
+It’s a Beginning
+
+At the base level, the HiFive 1 is a powerful microcontroller with a lot of Flash, with support for hundreds of Arduino libraries. That’s great, and alone this might be worth the $60 price of admission.
+
+However, the big story here is the Openness of the HiFive 1. Is it completely open? No. the HiFive 1 itself uses an FTDI chip, and I’ve heard rumor and hearsay the FE310 chip has proprietary bits that are ultimately inconsequential to the function of the chip. A strict interpretation of Open Hardware will not allow this board to be called Open Hardware. Those who advance this interpretation are dumb, and to counter this argument I will quote the man himself:
+
+…We need to distinguish levels in the design of a digital product (and maybe some other kinds of products). The circuit that connects the chips is one level; each chip’s design is another level. In an FPGA, the interconnection of primitive cells is one level, while the primitive cells themselves are another level. In the ideal future we will want the design to be free at all levels. Under present circumstances, just making one level free is a significant advance. – Richard M. Stallman, Free Hardware And Free Hardware Designs
+
+A design that fails to be completely Open does not deserve to be grouped with designs that are explicitly closed.
+
+Nevertheless, this is the best we have so far, and it is only the beginning. We’re going to have more microcontrollers that are more Open, but until then, the HiFive 1 is actually a pretty cool board.

@@ -1,0 +1,47 @@
+Liquid biopsy for cancer Credit: Reprinted with permission from Victor Velculescu et al., Science Translational Medicine 2017
+
+Share Fast Facts Blood test spots tumor-derived DNA in people with early-stage #cancer - Click to Tweet
+
+- Click to Tweet Blood test distinguishes between #cancer and non-cancer DNA - Click to Tweet
+
+In a bid to detect cancers early and in a noninvasive way, scientists at the Johns Hopkins Kimmel Cancer Center report they have developed a test that spots tiny amounts of cancer-specific DNA in blood and have used it to accurately identify more than half of 138 people with relatively early-stage colorectal, breast, lung and ovarian cancers. The test, the scientists say, is novel in that it can distinguish between DNA shed from tumors and other altered DNA that can be mistaken for cancer biomarkers.
+
+A report on the research, performed on blood and tumor tissue samples from 200 people with all stages of cancer in the U.S., Denmark and the Netherlands, appears in the Aug. 16 issue of Science Translational Medicine.
+
+“This study shows that identifying cancer early using DNA changes in the blood is feasible and that our high accuracy sequencing method is a promising approach to achieve this goal,” says Victor Velculescu, M.D., Ph.D., professor of oncology at the Johns Hopkins Kimmel Cancer Center.
+
+Blood tests for cancer are a growing part of clinical oncology, but they remain in the early stages of development. To find small bits of cancer-derived DNA in the blood of cancer patients, scientists have frequently relied on DNA alterations found in patients’ biopsied tumor samples as guideposts for the genetic mistakes they should be looking for among the masses of DNA circulating in those patients’ blood samples.
+
+To develop a cancer screening test that could be used to screen seemingly healthy people, scientists had to find novel ways to spot DNA alterations that could be lurking in a person’s blood but had not been previously identified.
+
+“The challenge was to develop a blood test that could predict the probable presence of cancer without knowing the genetic mutations present in a person’s tumor,” says Velculescu.
+
+The goal, adds Jillian Phallen, a graduate student at the Johns Hopkins Kimmel Cancer Center who was involved in the research, was to develop a screening test that is highly specific for cancer and accurate enough to detect the cancer when present, while reducing the risk of “false positive” results that often lead to unnecessary overtesting and overtreatments.
+
+The task is notably complicated, says Phallen, by the need to sort between true cancer-derived mutations and genetic alterations that occur in blood cells and as part of normal, inherited variations in DNA.
+
+As blood cells divide, for example, Velculescu says there is a chance these cells will acquire mistakes or mutations. In a small fraction of people, these changes will spur a blood cell to multiply faster than its neighboring cells, potentially leading to pre-leukemic conditions. However, most of the time, the blood-derived mutations are not cancer-initiating.
+
+His team also ruled out so-called “germline” mutations. While germline mutations are indeed alterations in DNA, they occur as a result of normal variations between individuals, and are not usually linked to particular cancers.
+
+To develop the new test, Velculescu, Phallen and their colleagues obtained blood samples from 200 patients with breast, lung, ovarian and colorectal cancer. The scientists’ blood test screened the patients’ blood samples for mutations within 58 genes widely linked to various cancers.
+
+Overall, the scientists were able to detect 86 of 138 (62 percent) stage I and II cancers. More specifically, among 42 people with colorectal cancer, the test correctly predicted cancer in half of the eight patients with stage I disease, eight of nine (89 percent) with stage II disease, nine of 10 (90 percent) with stage III and 14 of 15 (93 percent) with stage IV disease. Of 71 people with lung cancer, the scientists’ test identified cancer among 13 of 29 (45 percent) with stage I disease, 23 of 32 (72 percent) with stage II disease, three of four (75 percent) with stage III disease and five of six (83 percent) with stage IV cancer. For 42 patients with ovarian cancer, 16 of 24 (67 percent) with stage I disease were correctly identified, as well as three of four (75 percent) with stage II disease, six of eight (75 percent) with stage III cancer and five of six (83 percent) with stage IV disease. Among 45 breast cancer patients, the test spotted cancer-derived mutations in two of three (67 percent) patients with stage I disease, 17 of 29 (59 percent) with stage II disease and six of 13 (46 percent) with stage III cancers.
+
+They found none of the cancer-derived mutations among blood samples of 44 healthy individuals.
+
+Despite these initial promising results for early detection, the blood test needs to be validated in studies of much larger numbers of people, say the scientists.
+
+Velculescu and his team also performed independent genomic sequencing on available tumors removed from 100 of the 200 patients with cancer and found that 82 (82 percent) had mutations in their tumors that correlated with the genetic alterations found in the blood.
+
+The Johns Hopkins-developed blood test uses a type of genomic sequencing the researchers call “targeted error correction sequencing.” The sequencing method is based on deep sequencing, which reads each chemical code in DNA 30,000 times. “We’re trying to find the needle in the haystack, so when we do find a DNA alteration, we want to make sure it is what we think it is,” says Velculescu.
+
+Such deep sequencing, covering more than 80,000 base pairs of DNA, has the potential to be very costly, but Velculescu says sequencing technology is becoming cheaper, and his research team may eventually be able to reduce the number of DNA locations they screen while preserving the test’s accuracy.
+
+He says the populations that could benefit most from such a DNA-based blood test include those at high risk for cancer including smokers — for whom standard computed tomography scans for identifying lung cancer often lead to false positives — and women with hereditary mutations for breast and ovarian cancer within BRCA1 and BRCA2 genes.
+
+Scientists who contributed to the research include Mark Sausen, Derek Murphy, Sonya Parpart-Li, David Riley, Monica Nesselbush, Naomi Sengamalay, Andrew Georgiadis, Siân Jones and Sam Angiuoli from Personal Genome Diagnostics; Vilmos Adleff, Alessandro Leal, Carolyn Hruban, James White, Valsamo Anagnostou, Jacob Fiksel, Stephen Cristiano, Eniko Papp, Savannah Speir Qing Kay Li, Robert B Scharpf and Luis A. Diaz Jr. from Johns Hopkins; Thomas Reinert, Mai-Britt Worm Orntoft, Frank Viborg Mortensen, Torben Ørntoft and Claus Lindbjerg Andersen from Aarhus University Hospital, Denmark; Brian D Woodward and Hatim Husain from the University of California, San Diego; Mogens Rørbæk Madsen from the Herning Regional Hospital, Denmark; Joost Huiskens and Cornelis Punt from the University of Amsterdam, The Netherlands; Nicole van Grieken from the VU University Medical Center, The Netherlands; Remond Fijneman and Gerrit Meijer from The Netherlands Cancer Institute and Hans Jørgen Nielsen from Hvidovre Hospital, Denmark.
+
+Funding for the study was provided by the Dr. Miriam and Sheldon G. Adelson Medical Research Foundation; the Stand Up to Cancer-Dutch Cancer Society International Translational Cancer Research Dream Team Grant; the Commonwealth Foundation; the Cigarette Restitution Fund Program; the Burroughs Wellcome Fund; the Maryland-Genetics, Epidemiology and Medicine Training Program; the International Association for the Study of Lung Cancer/Prevent Cancer Foundation; the National Institutes of Health’s National Cancer Institute (grants CA121113, CA006973 and CA180950); the Danish Council for Independent Research; the Danish Council for Strategic Research; the Novo Nordisk Foundation; and the Danish Cancer Society.
+
+Phallen, Sausen, Diaz and Velculescu are inventors on patent applications related to this research. Velculescu, a founder of Personal Genome Diagnostics and a member of its scientific advisory board and board of directors, owns Personal Genome Diagnostics stock, which is subject to certain restrictions under university policy. Velculescu is also on the scientific advisory board for Ignyta. The terms of these arrangements are managed by The Johns Hopkins University in accordance with its conflict of interest policies.

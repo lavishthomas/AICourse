@@ -1,0 +1,125 @@
+Google Analytics is introducing a number of new technologies, collectively called Universal Analytics, that will create a better way for businesses to measure their digital world.
+
+The cornerstone change in Universal Analytics is that Google Analytics is becoming user or customer centric rather than visit centric. This paradigm, sometimes called customer centricity, more closely aligns with how businesses traditionally measure their performance.
+
+Let’s take a look at the new technologies and how they can be used.
+
+The Measurement Protocol
+
+The Measurement Protocol is a standard way to send data to Google Analytics. The new Measurement Protocol defines how you can send to data to Google Anlaytics from any system or any device.
+
+Data is still sent via the __utm.gif image request and you can send data via a GET or a POST . As long as long as you format the data according to the protocol Google Analytics will accept the data.
+
+This means you can send data from call center systems, point of sale systems, etc.
+
+See the power in this?
+
+There are a number of code libraries, in common languages like PHP, Java, etc., that let you integrate Google Analytics into other systems. Or you can build your own library. You decide what the data you want to send and then use the libraries to send the data.
+
+There will also be a new library for Flash. The current Android and iOS SDKs already suppor the Measurement Protocol.
+
+Speaking of libraries, the Measurement Protocol includes a new JavaScript library named analytics.js .
+
+Yes, you will need to retag your site. Luckily there a new, free tag management tool that helps you manage your tags more easily.
+
+NOTE: analytics.js supports all of the standard Google Analytics functionality, like events and ecommerce tracking. But it does not support content experiments or the new remarketing feature.
+
+Server Side Sessionization
+
+Sessionization is the process that any analytics tool uses to identify users and group the sessions they create. In the old Google Analytics sessionization was handled in the tracking cookies. The cookies store things like session length and campaign information, as well as an anonymous identifier.
+
+With Universal Analytics all of the sessionization happens at the server level. The new analytics.js does not maintain any tracking information (other than an anonymous identifier).
+
+There are a couple of really cool benefits here.
+
+First, almost all configuration settings that are normally done using JavaScript will be moved to the admin section of Google Analytics. This includes things like:
+
+Another cool part of the measurement protocol and server side sessionization is the ability to use your own anonymous sessionization key. This data is an anonymous ID that Google Analytics can use to aggregate all of the data.
+
+For example, if you have an anonymous CRM id then you’ll be able to use this in analytics and GA will group all the data using this ID.
+
+Offline Conversion Import
+
+Using the Measurement Protocol you’ll now be able to send offline conversions to Google Analytics. For example, if a user converts via phone you’ll be able to track that conversion in Google Analytics.
+
+Here’s how you would implement offline conversion import:
+
+You need to send a hit to Google Analytics when the offline conversion happens using the Measurement Protocol. When you send the hit you’ll need to include some identifier that links the offline conversion to the data in Google Analytics.
+
+Offline conversion import could also be used with a point-of-sale type of system and loyalty cards. You could use the loyalty card ID as the sessionization key and the measurement protocol to collect all the data.
+
+This is one of the Universal Analytics features that truly makes Google Analytics a more business-focused tool. Heck, it’s universal.
+
+By having all conversions in Google Analytics we’ll have a much more accurate view of revenue/conversions and the overall performance of the business.
+
+Is it possible that this is the big data moment for Google Analytics? That’s a discussion for later :)
+
+Custom Dimensions and Custom Metrics
+
+As the name implies Custom Dimensions and Custom Metrics are custom data that you can add to Google Analytics. To put it simply, this is the evolution of Custom Variables. You still need to understand things like the variable scope and index! So make sure you read up on mastering custom variables. Until there is a mastering custom dimensions post :)
+
+The big difference is that Custom dimensions & metrics are set up both in the code and in the Google Analytics admin section. This is possible because of the server side sessionization.
+
+First, you need to add code to your site to create the custom variable. Something like this:
+
+ga("set", "dimension1", "Custom Dimension 1");
+
+Then you need to set up the custom dimension or metric in the admin settings. That’s where you’ll configure things like the scope and manage which custom dimensions and metrics are active.
+
+All of this server side configuration is made possible by the server side sessionization. Less coding – it’s a good thing.
+
+Custom dimensions and metrics will be available in your Custom Reports and Advanced Segments. Custom dimensions will also be available as secondary dimensions in your standard GA reports.
+
+I’ll have a full post on using custom metrics and dimensions once they start rolling out to more people.
+
+Dimension Widening
+
+Dimension widening is based on custom dimensions and metrics. The key difference is that this is a bulk-type of feature. Whereas custom dimensions and metrics are done one at a time, dimension widening allows you to add a bunch of new dimensions via a data upload.
+
+This is a big deal for enterprises and large analytics implementations.
+
+Let’s say you are a publisher, and your analytics data has thousands ISBN numbers (basically unique book IDs) in the content reports. You can import detailed information like publication date, author, edition, etc. into Google Analytics, link it with theISBN number and view other info like publication date, author, edition, etc.
+
+Let’s say you’re an ecommerce site. You could import data from a product database and link it with information in Google Analytics.
+
+Some of you old timers will remember this feature from Urchin. It was called custom lookup tables. This is a bit more advanced, but the same general idea.
+
+Cost Data Import
+
+A great way to use the custom metrics feature is to import cost data associated with a marketing campaign. Using an ID number in your content data (like a query string parameter named CID), import cost information about your marketing campaigns.
+
+This is a feature that has been long-missing from Google Analytics.
+
+We’ve always had cost data about Google AdWords but not other marketing activities. This has made it hard to measure true marketing ROI within Google Analytics.
+
+Using cost data import we can get a more accurate view of campaign performance and the ROI of marketing activities because we’ll know how much a campaign costs along with how much revenue it generates. And that’s a good thing.
+
+What Does Universal Analytics Look Like?
+
+A lot of this post has talked about the different technologies and what they do. But what are some of the tactical things that you’ll need to change? And what does Universal Analytics actually look like?
+
+This is a massive change to the platform. It enables a lot of new data. But the front end does not change drastically.
+
+You’ll see new dimensions and metrics if you use Custom Dimensions or Custom Metrics. And you’ll see some small changes to the admin settings due to the server side sessionization. But that’s really it.
+
+Applying to the Universal Analytics Beta
+
+This is a beta launch – so it’s rolling out slowly. Use this form to sign up for the Universal Analytics beta.
+
+If you are white-listed for the beta you’ll need to create a new web property to use Universal Analytics Remember the data processing is fundamentally different. It’s visitor based, not visit based.
+
+Next you’ll need to send the new web property ID to Google and it will be white-listed.
+
+If you’re just tracking a website (mobile or desktop) then you’ll need to update from ga.js to analytics.js . That’s the only change.
+
+But if you want to integrate offline data, like a call center, you’ll need to integrate the Measurement Protocol.
+
+Wrapping Up
+
+There’s a LOT to Universal Analytics. Moving to a user centric system means that businesses can get a better understanding of their marketing investment and performance of content across the digital world.
+
+I know this post may be a little vague, but this is going to be a gradual migration process. I’ll post more as time goes on and more people have access to Universal Analytics.
+
+Just remember that Google Analytics is a platform that you can build on. It will help you execute a measurement strategy that is more closely aligned with how you do business.
+
+Be Sociable, Share!

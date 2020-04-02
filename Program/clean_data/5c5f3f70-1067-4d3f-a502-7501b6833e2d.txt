@@ -1,0 +1,53 @@
+Why you should move that button 3px to the left
+
+When a product is close to launch, I become a perfectionist. Each misaligned element or awkward interaction is like a thorn in my side. There’ll be a dozen tiny implementation mistakes that taunt me each time I run into them. Everything seems so broken.
+
+But to everyone else on the team, the product seems fine! It’s functional. They ask, “Will moving that button by 3 pixels really improve our product?” They argue, “The last time we fixed a small design bug, the product didn’t feel any different.” And so the team moves onto the next big idea and the next set of features.
+
+If you’re anything like me, this situation can be incredibly frustrating. As designers, we are held responsible for the overall quality of the experience. Yet we’re at the mercy of our teams. We can design beautiful, intricate, delightful details — but we can’t build, test, and deploy them all.
+
+How do we convince our engineering and product counterparts to care about design fit and finish? I’ve struggled with this issue many times. Here’s what I’ve learned.
+
+It’s not design for design’s sake
+
+Designers notice the gap between functional and delightful, and that’s why we obsess over the little details. (littlebigdetails.com) But there’s a very real tradeoff between perfecting the design details and building more functionality: getting the details right often means moving slower.
+
+So it’s not enough to say “it looks better this way”. Designers need to make a case for why the team should spend time on fit and finish.
+
+Trust increases when we get the details right
+
+Customers judge online credibility by evaluating visual design, copywriting, and interactions. If trust matters to your business, then design details should matter too. Check out the academic literature on the topic of interface design and trust, or look into Stanford’s Web Crediblity Project.
+
+Mint, Square, and Simple have all done a fantastic job of getting design details right, and earning customer trust. They all began as unproven products, yet customers trusted them to store financial details, process payments, and safeguard accounts.
+
+Usability improves when we get the details right
+
+The MailChimp logo makes me smile every time! The lack of clutter on the Google homepage is so peaceful. The glossy pixel-perfection of Apple interfaces is delightful. They got the design details right, and it’s creating a positive emotional state, but why does that matter?
+
+There’s a curious brain hack at work here. Our minds are deeply tied to emotional states. Being frustrated or happy changes the way we approach problems. I have certainly been in a bad mood, gotten confused by a product, and found myself repeatedly smashing a button to no effect. In my frustration, I try the same thing, just harder. But it doesn’t help me accomplish my goal.
+
+When we’re happy, using an interface feels like play. The world looks like a puzzle, not a battle. So when we get confused, we’re more likely to explore and find other paths to success. There’s a whole book on this topic: Emotional Design by Don Norman. But here’s the important bit: Getting design details right can create positive emotional states that actually make products easier to use.
+
+Batch up the work
+
+If your product needs a massive helping of fit and finish, fixing one issue won’t do much to delight you or your users. Filling one pothole won’t turn a bumpy street into a smooth one — you’ll barely notice the change!
+
+So here’s the trick: Batch up UI bugs into one sprint. If your team regularly holds a fix-it day to squash bugs, then piggyback on that habit and hold a design fix-it day. As a designer, you can do advance work like putting all the changes into a spreadsheet or bug tracker and prioritizing issues.
+
+On the day of the sprint, everyone can just focus and crank through the list. Maybe you don’t fix everything — that’s OK. The small changes you do make will add up, and by the end of the day your product will be noticeably better. That makes everyone feel great and it’ll be easier to get people focused on fit and finish issues in the future.
+
+Polish as you go
+
+I really screwed up the first time I tried to keep quality high as we were building features. It always started fine: an engineer and I would agree to a design, I’d send him a few mockups, and the next day he’d show me the progress. What I saw: a sloppy version of my design. Ugh.
+
+I’d moan and complain and point out all the mistakes, which wasn’t any fun. So the next time he was less likely to ask for my feedback, quality slipped further, and I became more upset. Classic death spiral.
+
+I came to realize that when a feature is 90% done from an engineering perspective, it can still feel about 10% done to a designer. Now I get excited about the functionality and celebrate that there’s only a bit of surface details to finish before the feature is perfect.
+
+I also try to build in triggers for feedback sessions while engineers are in context. I’ll say, “Grab me right before you check this in.” That way we can go over any small changes while all the files are open and checked out.
+
+Avoid customization icebergs
+
+Designing a custom button in Photoshop is easy — that’s the part of the iceberg we can all see. Below the surface it takes a lot of effort to get the details right: building pressed and inactive states, preventing text highlighting on double-click, adding right-to-left support, testing accessibility, and so on.
+
+I often hit this iceberg when I stray from native controls. For example, Ajax interactions require more polish than basic web pages. Custom mobile menus require more polish than the built-in version. If the team doesn’t have the time to polish custom UI, it’s often better to stick to the boring native controls that work.

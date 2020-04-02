@@ -1,0 +1,113 @@
+If you manage a website, there’s a good chance you are using Google Analytics (GA) to keeping track of your visitors, or you are considering using it. GA is an excellent product, and given the fact it’s free makes it a very viable and attractive solution to many website owners.
+
+But it has its flaws and imperfections, some of which are:
+
+It’s Google
+
+They already know so much about you, should they know your web site stats too?
+
+Real-Time
+
+GA does have a feature to view real-time stats, but it could use some improvement so it can be more than just a fancy counter.
+
+Time spent on page
+
+GA can’t really keep track of time spent by a visitor unless he or she moves forward to the next page. This means, according to GA, if a user closes the browser tab, the visit length counts as 0.
+
+Privacy concerns
+
+In Europe there’s a new sheriff in town, conveniently called the “Cookie law”. It describes in detail how you must inform your visitors of cookies being used, including the ones GA uses. Legislation is still being drawn, but there are still countries (mine for example) where it’s still unsure if you have to throw in an ugly cookie notice when using GA, even after anonymizing IPs. This unfortunately applies also to most Google Analytics alternatives.
+
+Steep learning curve
+
+You can take hour long courses on GA for just basic functionality, not to mention its advanced functionality like funnel tracking and segmenting.
+
+Lag between data collection and analysis
+
+GA is regularly updating throughout the day, but is always a few hours behind. There is a lag between the real time data collection, and the actual viewing afterwards. All the alternatives listed below offer you up-to-the-minute data.
+
+With these concerns in mind, let’s have a look of some of the best Google Analytics alternatives, and see how they measure up.
+
+Piwik
+
+Having just released version 2.0, Piwik is a serious contender. And it’s free (though there is a rather expensive hosted version).
+
+It is self-hosted, which requires keeping the monitoring server up. But combined with disabling cookies, having it self-hosted allows you to comply with the European cookie law without the cookie notice.
+
+Most of its features are up to par with GA, and due to it being open source it has a more open environment than GA, like an open roadmap. It also allows you to import log files, something not possible with GA. It has a very nice mobile app for both Android and iPhone (GA has an official app only for Android), and offers a detailed (but not so pretty) real-time overview.
+
+Downsides?
+
+On the downside, it counts time spent on the page the same way GA does. The interface looks cluttered, as if it’s missing a stylesheet. And while its main focus is being a GA alternative, it can’t compete with Google’s AdSense and AdWords integration. But to be fair, most alternatives can’t either.
+
+Why choose Piwik over Google Analytics?
+
+If you want to step away from GA and want to host it yourself, Piwik is a solid choice. And it’s your safest bet if you need to work with the cookie law.
+
+Parse.ly Dash
+
+Suggested by our Editor in Chief Ophélie Lechat, Parse.ly (they call their product Dash, but it is better known as just Parse.ly) is measuring you as you are reading this article. That’s right, it’s used by SitePoint.com (and by some other large publishers as well). Dash is targeted at publishers, so it might not be the best for, let’s say, an e-commerce site.
+
+Parse.ly is a pricey option, but the great thing is they track via posts and authors. It’s a publisher’s dream, as you can compare using articles, authors, published posts, social shares, etc. It helps you figure out popular topics to use as a basis for future articles, based on both your site and worldwide trends. It also tries to predict future traffic as accurately as possible.
+
+The real-time feature is pretty amazing and really complete, letting you begin analyzing metrics right away. There is a pretty impressive dashboard as well, if you want to have a quick look how your site’s doing. And it is very easy to set up reports on anything important and have these emailed to you on a recurring basis.
+
+Downsides?
+
+Parse.ly is mostly focused on the performance of your site, articles, and authors. This means there is no detailed analysis of where your visitors are coming from, what they are doing on your site and certainly no e-commerce features. But you are free to combine your data with GA, and from a publisher point of view I can certainly see the benefits.
+
+Why choose Parse.ly over GA?
+
+Parse.ly knows how real-time should be done. And the fact that the product is focused on traffic generation makes it very convenient for a publisher of a large site to use it for making content decisions.
+
+KISSMetrics
+
+Now let’s move over to the complete opposite of Parse.ly, KISSMetrics. This one is all about tracking your visitors, where they came from, what they do on your site up to the point that they (hopefully) buy something (or they perform some other conversion). KISSMetrics is all about optimizing your conversion rate by giving you excellent tools to drill down to the most frequently used order paths and most lucrative referral sources.
+
+Once logged in you will be seeing lots of dollar signs, which is good since this is your revenue. KISSMetrics is like “Conversions” in GA on steroids. It is so highly focused on giving you exact metrics that you can even set up refunds to be deducted from your revenue. Installation can be a hassle, but for most popular systems they provide plugins.
+
+Downsides?
+
+The real-time functionality shows you some basic information about the current events (like a purchase) being done on your site. Visually not very appealing, but watching money rolling in in real time can be satisfying.
+
+Why use KISSMetrics over GA?
+
+KISSMetrics is the king of conversions, and if you are running an e-commerce business this tool will really help you increase revenue.
+
+Clicky
+
+Clicky has an impressive feature set. You can view heat maps and uptime monitoring, for example, so you don’t have to use an additional service for this. It’s also one of the most well-known names when people discuss a Google Analytics alternative. In addition to lots of features, Clicky even has a free limited plan. So why aren’t we all using Clicky then?
+
+Although it describes itself as “Real Time Web Analytics”, the real-time feature isn’t that impressive. Also, its real-time analytics feature is called “Spy”, so it’s difficult to find it until you start clicking around in the navigation bar. Basically, Clicky looks like it isn’t built for large numbers of visitors, and it provides the same basic information as GA.
+
+Downsides?
+
+So, even though there are a lot of features, they all seem to be very basic. It has video tracking that connects to YouTube, but YouTube provides better analysis options. It has keyword tracking for incoming visitors, but you can’t see what is happening after a visitor has entered your site. Even though Google traffic mostly has “(not provided)” as keywords, with large sites there are still plenty of data to analyze and that’s simply not possible with Clicky.
+
+The positive side of this simplicity is that it takes you about 10 minutes to become familiar with all of its features, in comparison to the hours you can spend on GA after which you still get the feeling you’re missing half of it.
+
+Why choose Clicky over GA?
+
+Because it’s simple. GA can be very overwhelming and can be overkill when you’re just running a simple blog. And although the heatmaps feature is a paid feature, it’s still very cheap with Clicky.
+
+Woopra
+
+Woopra is another provider billing itself as a real-time analytics provider, and they deliver on the promise. Woopra shows you how many visitors are online, and how many of them are actually reading. You can even zoom in on any visitor and see what they have done so far on your site, not only in the last few minutes, but over the last 90 days.
+
+Woopra keeps the full history of every visitor on your site, and you can determine yourself how you want to approach this data (number of pages viewed, entrance page, etc). Digging into your data is much easier than with GA, and it clearly focuses on visitors instead of raw numbers. It’s almost like the only thing missing is the name of each visitor (actually, integrating it with your customer base does give you names!).
+
+But that’s not all. You can also integrate Woopra with your online store, and view what your visitors are doing. This can be simple things like adding a credit card, but it can also be someone who is requesting a refund after looking at a number of related products. This is valuable data, since it can give you some good insight in upsells or cross sells (so no refund is needed). It’s also possible to set up a promotion campaign, and get real time results for the purchases (or subscriptions for a newsletter for example) being done.
+
+Downsides?
+
+Woopra does take some time to set up because you need to be sure it’s fully integrated. But after that, it is way more powerful than GA if you like to dig deep into your data.
+
+Why choose Woopra over GA?
+
+Both the real-time and the general analytics are more advanced than GA. It has the same steep learning curve as GA, but it’s worth the effort. The only drawback is the fairly high price for successful sites.
+
+Conclusion
+
+Although Google Analytics is a great product, there are some good alternatives, each of which has its own benefits.
+
+I’ve done my best to summarize the experience with these services, but if you notice a feature with one that you particularly enjoy, or if you want to recommend another one, let us know in the comments.

@@ -1,0 +1,151 @@
+My love for segmentation knows no bounds. Whether you do online, offline or nonline analysis, or just like to randomly play with data, insights arrive faster with segmentation.
+
+In fact, I've gone so far as to say: "All data in aggregate is crap."
+
+That's certainly a bit melodramatic, but beyond the most bare bones "ahh, I see something is happening," you can't get anywhere with aggregate data.
+
+To assist your quest for faster, smarter insights, I've defined the Segmentation Selector Framework (Acquisition, Behavior, Outcomes), shared downloadable versions of my favorite segments, Non-Flirts, Social, Long Tail, and recommended the mating of custom reports with advanced segments (downloads provided there too!).
+
+We are going to continue our quest today. This post covers an important evolution in Google Analytics' segmentation power. Something I've been dying/pushing for a very long time: the ability to segment Visitors, and not just Visits or Hits!
+
+I'm so excited about this because we can finally focus on people, multiple visits by the same person, the multiple media/marketing touch points for the same person and do some pretty cool cohort analysis.
+
+You are going to love analytics and analysis so much more by the time you are done with this post! You might also become a crazy fan of the glory that comes from ditching the lameness of last-click / last-visit obsession that pervades all current web analytics tools.
+
+Prologue: Visitors, (Visits) Sessions, Hits
+
+One of the key things we are going to learn today is to align our metrics and dimensions optimally to ensure we report good, clean, sensible data. Before we jump into that exciting adventure, I want you to checking a recent post that covered the importance of aligning hit-level metrics with hit-level dimensions and session-level metrics with session-level dimensions.
+
+The above graphic is from the post Excellent Analytics Tip #23: Align Hits, Sessions, Metrics, Dimensions!. I highly recommend reading the post to familiarize yourself with this critical concept. Your effort will make this post 100x more valuable.
+
+If you read that post, and ignore this one, you will still be much smarter because you don't know this but half of your current custom reports are likely imprecise. You'll read the post and fix them; automatic promotion to the next level in the organization!
+
+Don't worry, this post will be waiting to further awesomize your life. Go. Read the above post. Come back excited.
+
+Google Analytics: New Segmentation User Experience
+
+Recently, the team at Google released an updated and much improved version of the segmentation UI. Rather than boring stuff we saw in the past, now you see lovely filled out circles on top for each segment (they give you at-a-glance understanding of the size of the segment).
+
+[Update: In the small chance you don't see this segmentation in your own account, Zach Shearer has shared this tip in his comment: Click on the down arrow just below your report title and just to the left of the default "All Visits" segment. Then click "+Create New Segment" and you should have the options that Avinash detailed in this blog post.]
+
+I've applied two segments, Mobile Traffic and Multi-visit Users, to my awesome content efficiency analysis custom report (a must have for any site that has content, click here to download)….
+
+The Multi-visit User part holds a clue to the new amazing power in Google Analytics. You can now segment people and not just their visits. In the past, this segment could have been called Returning Visits, but it was still a collection of visits and not – in a pure sense – visitors who returned.
+
+When you go into various sections of the new advanced segmentation builder, you will discover that you can now focus on users (a capacity not available in so many web analytics tools, or only unlocked for you in a data warehouse version of the solution or substantial hacking of code and daily prayer to the Sun God).
+
+I can ask how many Visits I get from Google, or I can ask how many Visitors I get from Google . The first answer is 14,000; the second is 5,000. Big difference to your analysis/marketing/smartness, right?
+
+There are also new possibilities, such as sequence segments, that allow you to answer questions such as: What is the difference in conversion rates for people who went to the Product X page from a promo on the home page, compared to people whose first page in the visit was the Product X page?
+
+You'll use part three of the picture immediately above to do this type of analysis. It is very useful in site design, improving internal site search, and getting insights from people who abandon checkout when they go through steps a, b, c vs. steps o, l, m.
+
+Another really powerful new capacity is to do cohort analysis. We will discuss this with an example at the end of this post.
+
+But first let's spend some time to understand this new power at our disposal.
+
+[For members of Market Motive, here are quick links to the three awesome new videos on advanced segmentation: Introduction and Segment Types, Techniques, Nuances, & Step by Step Deep Dive, Twelve Incredible Advanced Segments.]
+
+Visitor, Visit, and Hit Level Segmentation: The Unconfusing
+
+Kim visits your website. She visits four times. On some visits she buys. On other visits she researches or watches your enticing how to perfectly cuddle a baby videos.
+
+Thus far in Google Analytics you could analyze Kim's engagement with your website, but only as disconnected pieces. You could analyze the content she consumed, but only in the context of each visit (hence for example you could never realize your baby cuddling videos drove a conversion 2 days later).
+
+Both of these problems go away now with visitor-based segmentation. Google Analytics will string together all behavior by a person, and then you can do some cool stuff.
+
+To best understand how the three core elements work, I created this simple visual aid for the Market Motive segmentation videos.
+
+Four different people exhibiting very different behavior: long or short visits, more or less time on individual pieces of content, buying more or less or nothing.
+
+Using the first party cookies, Google Analytics will now string together all the behavior by Mr. Green. You can analyze all the sessions/visits together, grouped at a Mr. Green (or Ms. Orange or Ms. Purple) level. This is new.
+
+The green boxes represent sessions, and you can still analyze them with the segmentation feature exactly as you were able to in the past. And you can analyze the hits in each session either individually (only visits with page x) or in groups (visits with page x and page y but not page z ).
+
+Let us deeply understand the impact of choosing User, Session or Hit now. It will change the answer you get dramatically.
+
+In the segment below I'm interested in analyzing people across all their visits to my site (currently limited to last 90 days in GA). And I want to capture my high spenders, even if that spending happens across multiple visits.
+
+In the E-commerce section of advanced segmentation, I choose per user, and then type in the amount I want. The average purchase on my site is $50 so I choose $125 as the threshold in my segment (technically "> 125")….
+
+Looking back at our graphic, this segment will give me Mr. Green, but not Ms. Orange or Ms. Blue.
+
+Even though Mr. Green only crossed that limit of 125 across two visits.
+
+This is the power of user segmentation. Something simple, and so insightful. Can you believe that you were not able to do this in Google Analytics until recently? Well, now you can!
+
+The second option we have is called per session.
+
+My question is: I would like to analyze the visits where a person purchased more than $60 of products or services from my website.
+
+I choose per session and then choose > from the drop down and finally type in 60…
+
+Google Analytics will select two visits by Mr. Green and one visit by Ms. Blue for inclusion in this segment.
+
+I can now go and apply this segment to my Traffic Sources report and identify the owned, earned and paid sources that are driving conversions slightly higher than my average order value. Or I can apply the segment to my content reports (including the downloadable custom report included above) and identify the valuable pieces of content I should produce more of and take to the slaughterhouse content not adding value to my business or my customers.
+
+If you are a non-profit entity, you can do these types of segments for your Goal Values / Micro-Conversions.
+
+The last option I have is called per hit. You might only do this on rare occasions in the E-commerce context, but let's stick to that context for the sake of understanding.
+
+I would like to create a segment where the per hit revenue is > 100….
+
+Sticking to our earlier example… this would only give me the $100 hit in the first visit by Mr. Green, and nothing else.
+
+Pretty cool, right?
+
+I've demonstrated user, session, and hit level segmentation using the E-commerce section. In GA, and perhaps your digital analytics tool, you are able to do user or session level segmentation pretty much any where in the advanced segmentation builder and across a whole host of dimensions. Hence it is very important to understand this concept and pay close attention to the level you are choosing.
+
+Making the right choice between user, session, and hit makes a massive difference to the size and type of segment you end up creating. This tiny little choice has the ability to convert your golden segment into high quality garbage.
+
+Google Analytics: Cohort Analysis
+
+As I hinted above, one of the cool new capabilities in GA is the ability to do cohort analysis. The simplest way to understand this analysis is that it is the ability to create a unique group of customers that share a commonality.
+
+Let me demonstrate this using the commonality of source (what action by us brought people to our site) and a specific time period.
+
+I am going to analyze all users who first visited my website between Feb 1 and Feb 28, and that visit was because of a paid search campaign.
+
+This is how you would create that cohort in Google Analytics….
+
+Quick Tip: I love to use the Test button when I'm creating segments. Clicking it returns the size of the segment as defined by the number of users and sessions . This helps me understand if I've created the right segment or made a mistake.
+
+I can now analyze the behavior of this group of people and understand what content they consumed (across visits), what products they might have purchased, how much more social amplification they created (compared to a cohort of users whose first visit to the site was in Feb via organic search!), and other such delightful things.
+
+Cohort analysis really comes into its own when you analyze groups of similar people in some deeper/more relevant, business context.
+
+For example, in my case I've switched agencies at the end of Feb and now I have the capacity to better understand the performance of the paid search traffic driven by the new agency with its highfalutin' promises!
+
+I just create a cohort of my March traffic….
+
+Or perhaps I've significantly changed my paid search strategy during this time period because I went to the amazing Search Engine Strategies conference and learned a lot. I just create a segment like the one above and see if my new-found smartness is actually delivering smarter results.
+
+Or perhaps I've evolved my AdWords/AdCenter account structure, or changed my landing page strategy, or rather than just doing BUY NOW have softer calls to action. . . in all these cases, I can collect one group of users (visitors) and do some cool analysis:
+
+In the above scenario I was attempting to increase loyalty of the paid search traffic. In Feb you can see a sharp drop-off. We got more traffic initially, less as we spent less money, and they all go away at the end of March. Stupid promotion! Just getting temporary loyalty. :)
+
+So we change what we do, for March we got a little bit less traffic, but they were more loyal during the monthly and stayed slightly longer after the month ended. Good outcome. Now off to do more of those things!
+
+You can create a cohort for any random 31 day time period, and since this is user analysis you can apply it over any 90 day time period. (You can see me applying it over a 60 day time period above.)
+
+Google Analytics: Visitor Segmentation: Closing Thoughts
+
+User behavior is getting increasingly complex. It takes multiple visits to purchase, from multiple channels/influences. Hence the addition of user segmentation allows us to focus on people. (For these exact reasons multi-channel funnels analysis and attribution modeling are so important!)
+
+At the moment in web analytics solutions, people are defined by the first party cookie stored on their browser. Less than ideal, but 100x better then what we had previously. Over-time as we all expand to Universal Analytics perhaps we will have more options to track the same person, after explicitly asking for permission, across browsers, channels and devices.
+
+My recommendation is that going forward all your segments should focus on users first and sessions second. Because if you focus on a relationship, rather than a connection, you will get better business results.
+
+You will of course create many session and hit level segments. They are also useful from a tactical perspective.
+
+Go Users! Go Visitors! Go People!!
+
+All the best.
+
+As always, it's your turn now.
+
+Are you as pumped about your ability to analyze people as I am? What other user segments would you create? Are there segments that have already proven to be super valuable for you? Do you have examples of sequence segments for your business you could share with us? How about cohorts? Got any awesome applications for them?
+
+Please share your ideas, awesome segments, challenges, questions, answers via comments.
+
+Thank you.

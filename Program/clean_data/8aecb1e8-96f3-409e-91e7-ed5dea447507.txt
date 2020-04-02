@@ -1,0 +1,279 @@
+There are few things more complicated in analytics (all analytics, big data and huge data!) than multi-channel attribution modeling.
+
+We have fought valiant battles, paid expensive consultants, purchased a crazy amount of software, and achieved an implementation high that is quickly, followed by a " gosh darn it where is my return on investment from all this?" low.
+
+A lot of that is because of all the stuff we don't know. There is lots of missing data. And as if that were not enough, there is lots of unknowable data. Neither of which has stopped Gurus and Masters and Agency High Priests from trumpeting here's the next thing directly from Lord Krishna that will solve all your problems.
+
+So, let's apply Occam's Razor to this complicated challenge. Let's try to make some sense of it all.
+
+By the time you are done with this post you'll have complete knowledge of what's ugly and bad when it comes to attribution modeling. You'll know how to use the good model, even if it is far from perfect. I'll close with a custom attribution model into which you can insert all your biases – sorry, I mean expertise – and get something better than good to make incremental progress from where you are today.
+
+My macro goal is to make you dangerously informed. By the end of this post, if you pay attention, you'll know the often hidden nuances and you'll be dangerous to any analyst/consultant/vendor who walks into your cubicle/office with I've got the God's-gift-to-humanity, easy-to-implement solution with insights riding out to you on a Unicorn.
+
+Here's the outline of our incredible multi-channel attribution modeling adventure:
+
+Excited? Grab a Red Bull. Let's go!
+
+Three Unique Attribution Challenges.
+
+In a recent post, Multi-Channel Attribution: Definitions, Models and a Reality Check, I outlined three distinct attribution challenges.
+
+MCA-O2S covers the challenge of attributing the offline impact (revenue/brand value/butts in seats/phone calls/etc) driven by online marketing and advertising.
+
+MCA-AMS covers the challenge of attributing accurate impact of our marketing and advertising efforts across multiple devices (desktop, laptop, mobile, TV).
+
+MCA-ADC covers the challenge of attributing credit to all digital marketing channels (Social, Display, YouTube, Referral, Email, Search, others) that contributed to a particular conversion (or multiple conversions).
+
+In this post we are going to take a close look at MCA-ADC. Multi-channel attribution across digital channels. Looking at the picture above … we've spent money on Social, Direct, Search, and Referral efforts and received 767 conversions. But how do we distribute credit for the conversions across all those channels?
+
+All three challenges are important. I strongly encourage you to read the post and deeply understand all three and what your marketing and measurement possibilities and limitations are.
+
+Do You Have an Attribution Problem?
+
+Yes.
+
+Sorry, I meant to say it is highly likely that you do.
+
+It is a pretty easy question to answer. I normally ask people to look at the Path Length report in the Multi-Channel Funnels standard report in Google Analytics (or equivalent tool if you are using SiteCatalyst or WebTrends or other web analytics tools).
+
+If a significant percent of your conversions have a greater than one path length, you have an attribution problem. Combine that with the excellent multi-channel conversion visualize (in the Overview section) and you have yourself a view of your marketing that will freak you out.
+
+It is also ok to weep a little at this point as you realize the extent to which every single decision you've made about allocating your marketing budget is awful. Weep a little for that inconsiderate "friend," last-click attribution.
+
+[One of my favorite parts of this Venn -diagram is the implications on organization structure. Some CxOs see it immediately, other times I have to walk the horse to the water and force it to drink. The outcome in either scenario is a restructuring of the organization that is exquisitely geared towards taking advantage of portfolio optimization. Related implications of what you want to do in-house vs. out source to an Agency. Really fun stuff, really long- term strategic implications. From a Venn -diagram. Who would have thunk?]
+
+The Best Next Steps/The First Best Steps.
+
+The simplest way to start is to look at your Assisted Conversions report in Google Analytics. Look at the last column: Assisted/Last Click or Direct Conversions.
+
+• If you see a value less than one, that channel has a higher tendency to drive last click conversions. Hurray, hurray! • If you see a value greater than one, that channel has a propensity to be present earlier in the conversion cycle. These channels are getting zero credit in last click attribution platforms (read that as: all standard reports in all web analytics tools). O. U. C. H.
+
+At this point you should educate your management team on this specificity. "Look we might not be valuing all the performance we get from our marketing channels. Here are the specific channels that we are undervaluing." (Where the ratio is greater than one.)
+
+You can even use that column to adjust some of the budget allocation right now, without any attribution modeling, and measure the outcome. It is imperfect, but it is such a simple first step.
+
+It is likely your CxO will want you to explain which channel comes first ("introduces our brand to the customer"), which channel comes second ("nurtures our potential customer"), which channel comes fourth, fifth … and last.
+
+You can use the Top Conversion Paths report.
+
+It is very important to point out that this is a completely foolish exercise to undertake. For the same reasons that path analysis is a waste of time. There are too many paths, and you can't actually control the path that a potential customer can take. Even if, and this is not possible, I said to you that the path is Direct, Social, PPC, Organic, Referral for 5% of the site traffic … what would you do? It is not possible to force people down that path!
+
+But show the actual report. Let them arrive at the obvious conclusion. Be a hero. :)
+
+The next question will be, what are the best ways for us to allocate credit to all our marketing channels properly?
+
+I'm glad you asked, Ms. Executive.
+
+Multi-Channel Attribution Models.
+
+There is a free tool inside Google Analytics called Model Comparison Tool. It is sweet. It allows you to attribute credit to all your digital marketing channels involved in conversions (macro and micro conversions). You can visualize the impact of applying three models at one time.
+
+For example, what if we used a linear attribution model instead of last click?
+
+OMG! OMG! OMG! So cool!
+
+All I have to do is look at the very last column and look at the green and red arrows and get guidance about how I should shift my budgets?Yes!
+
+OMG! Really?Yes.
+
+And you are telling me that the Cost Per Acquisition for my display campaigns is not $201 but rather a lowly $155?Yes.
+
+Get. Out. Of. Here! That is so cool. Finally my amazing blinking hit the monkey display ads are getting all the credit they deserve!
+
+Time to burst your bubble just a little.
+
+The tool is actually that good. Apply the right model and you will not only distribute conversions across multiple touch points, but you can also look at the impact on the CPA (this really is OMG, I peed in my pants a little cool). You can even get great first-step guidance about how to rebalance your portfolio from that last column.
+
+But the weakest link in the chain is the attribution model you use. The recommendations you get are only as good as the model you use.
+
+With that in mind, let's look at the standard models available inside Google Analytics (and some of the high-end analytics or attribution analysis tools).
+
+Just so we have a visual guide through this learning process, let's use the above image as a reference. Look up, memorize the steps to conversion. Ready?
+
+1. Last Interaction/Last Click Attribution model.
+
+This is the standard attribution model in all web analytics tools. It is applied to all the standard reports you see.
+
+[The only exception to this rule is Google Analytics which, and I deeply passionately hate this, applies the #2 model below in all its standard reports.]
+
+You can see why this model is silly. If 767 people converted as a result of the above experience, saying that all the credit should go to the Direct channel is silly. [Bonus: Learn more about what direct traffic is: Make Love To Your Direct Traffic.]
+
+Social, Organic and Referral were also involved. We should figure out some way to identify their contribution to the conversion process, because they were involved in some form.
+
+Historically, all tools used last click attribution because the one thing they could confidently say is what drove the converting visit. And they did not have the technical horsepower to do Visitor-centric analysis. Both these problems are solved now.
+
+The only use for last click attribution now is to get you fired. Avoid it.
+
+2. Last Non-Direct Click Attribution Model.
+
+Google Analytics is bipolar.
+
+All standard reports in Google Analytics give 100% of conversion credit to the last "campaign" prior to the conversion. Campaign is defined as anything but Direct traffic. So, the campaign could be Social, Organic Search, Email, Display, Affiliate, Referring Site … anything really.
+
+This deliberately understates the Direct visits that lead to a conversion. In our picture below this model would say all credit goes to Referral.
+
+This is imprecise. Why give credit to a campaign if it took me another visit where I remembered your URL and typed it in and came to your site? Why should the visit where, say, I saw a great promo or you recommended something based on my prior visit not get some credit for the conversion?
+
+Why undervalue Direct? Why undervalue a marketer's efforts to create brand recognition and brand value?
+
+I believe this is a mistake. A historical legacy, perhaps. It should be courageously fixed.
+
+Bonus: This model is also the irritating reason why none of your standard Google Analytics reports match your standard Multi-Channel Funnels reports, even if you look at conversions in the standard MCF Overview or Assisted Conversions reports.
+
+3. Last AdWords Click Attribution Model.
+
+My words for this model might get a little bit vitriolic, so I'm going to keep my mouth shut.
+
+And to think you never thought that was possible. : )
+
+This model is profoundly value-deficient. There. I can be nice.
+
+4. First Interaction/First Click Attribution Model.
+
+Reverse of last click. Rather than giving all the credit to the last click, give all the credit to the first click.
+
+In our example above, switch 100% of the credit from Direct to Social.
+
+This is a gigante mistake.
+
+First click attribution is akin to giving my first girlfriend 100% of the credit for me marrying my wife.
+
+Makes no sense, right?
+
+If the first was so awesome, how come I needed #2, #3… to get to the most perfect person – I mean, campaign :) – for me?
+
+With last click attribution there is at least some certainty that something about that campaign, something about that visit to the site, resulted in a conversion. With first click you just have faith. Or a HiPPOs (Highest Paid Person's Opinion) fervent "gut-feel."
+
+Eschew irrationality.
+
+5. Linear Attribution Model.
+
+This is less wrong.
+
+That's it. Just less wrong. Use it if you are shooting for that.
+
+When my son was smaller he would go to competitions (sports or IQ) and everyone would get a participation certificate.
+
+Life, it turns out, is not utopian. When there is a competition, someone gets a gold medal, someone gets a silver, and someone gets a bronze. Everyone else goes home a loser, motivated to work harder the next time and win.
+
+You should not treat your marketing optimization program with the same level of outcome optimization that is applied to five-year-olds. You can, and should, do better.
+
+If someone threatens your life, use this model. Give everyone who contributed a participation certificate. But if you are not in a life-threatening situation, other models might help you actually understand which channels are contributing more value and which are not. And two of those models are just one click away.
+
+6. Time Decay Attribution Model.
+
+Ohh …. much better!
+
+The core premise of the time decay model is this: The media touch point closest to conversion gets most of the credit, and the touch point prior to that will get less credit based on a smart and simple algorithm.
+
+You only have to think about it for five seconds to realize it passes the ultimate test for everything: Common sense.
+
+We could argue about how much credit the last few should get and how much the rest and how much the first. (Or we could not.) But overall it does seem to make sense that the further back a media touch point is (Organic Search and Social in our example) the less credit it should get. After all, if the touch points were magnificent, why did they not convert?
+
+One of the cool things about this model is that you can customize the half-life of decay and insert your own feelings into the attribution process. Notice I said feelings. :)
+
+If you are going to start doing attribution modeling, the time decay model is a great, passes the common sense test, way to dip your toes. Go to the Model Comparison Tool, click on Select Model, choose Time Decay, and let thoughts be provoked!
+
+Bonus: Adjust days prior to conversion on top of the tool based on your Time Lag report in the Multi-Channel Funnels folder.
+
+7. Position Based Attribution Model.
+
+In some ways I really like the position based model because I have opinions – sorry, I meant to say expertise :) – and it is so easy to insert those opinions into this model and do some cool stuff.
+
+That is what makes it a dangerous first model to use. If you don't know what you are doing, it is GIGO very quickly.
+
+By default, the Position Based model attributes 40% of the credit to the first and the last interaction and the remaining 20% is distributed evenly to all the interactions in the middle.
+
+1. See my perspective on first click attribution model above. 2. Understand why I believe that as designed the default position based model is sub-optimal. 3. Promise me you won't ever use the default one. 4. Feel really great you dodged a bullet.
+
+Of the six attribution models available, there is one that you can use with little thought and still get value (Time Decay). One is not great, but won't completely kill you (Position). Three are so weak that you should not acknowledge them if they pass you in the street (and actively warn your friends to avoid them!).
+
+Why are there so many models? The known world is smaller than the unknown world. There are always corner cases, there are always weird scenarios, there is always someone who wants to do something odd. All these reasons are good reasons for all these models to exist. But do go into using any model with open eyes.
+
+There is one more thing you can do after you are done with the first step, playing with and experimenting with the results of the Time Decay model. You can create a customized attribution model.
+
+8. Customized/Personalized Attribution Model.
+
+(I've said this twice already but let me say it again, don't go into this until you play with the Time Decay model and have spent a good few weeks learning the implications and trying to take some action. It is a very good learning experience.)
+
+I love using the customized attribution model, and I'm grateful that the team at Google made it free for everyone rather than having it only for Google Analytics Premium.
+
+With the custom modeling tool you can use the Linear, First, Last, Time Decay and Position Based models as your starting point, and then layer in other factors you consider to be important for your business to create your own attribution model.
+
+I spend a lot of time with the business leaders, marketers, understanding historical performance, current media-mix and spend patterns before I create a customized model for them. Among the questions I ask the leaders are:
+
++ What type of user behavior do you value? + Is there an optimal conversion window you are solving for? + What does the repeat purchase behavior look like historically? + Are there any micro-conversions defined with engagement type goals, tied to the economic value? + Are offline conversions being sent back into GA using Universal Analytics?
+
+So on, and so forth. These provide important context in making the decisions that will go into a custom attribution model.
+
+From my portfolio of custom models, let me share one that has often served as a starting point for many customers.
+
+Setting aside all humility for a nanosecond, I call it the Market Motive Mindblowing Model!
+
+Click on Select Model in the Model Comparison Tool. At the bottom of the drop-down you'll see Create new custom model, click it.
+
+Step 1: Select the baseline model.
+
+I start with the Position Based. Then specify the amount of conversion credit based on the position. Here's what I use…
+
+If you've read this post carefully to this point, this distribution of credit should not come as a surprise to you. From all my experimentation I've found that taking out the last channel (whichever one it is) causes a material impact on the conversion process, so it gets a "good amount of credit." The middle channels have an important role in driving people to the last interaction, they are recognized for that. The first interaction deserves some credit for the conversion, but not as much as the middle or last – for obvious reasons. My distribution above is a good starting point. It is also really easy for you, as I often do myself, to experiment with different distributions, note the impact and optimize.
+
+Step 2: Select the lookback window.
+
+My process for picking the optimal time period to look for campaigns/interactions/media touch points to distribute credit over is to use the Time Lag report in the Multi-channel Funnels folder. It gives you the distribution of typical behavior. My rule for picking the lookback window is to pick "close to the upper limit of the number of days to conversion, excluding the outliers, plus a bit more."
+
+In this case it was a B2B client, long conversion cycle that lasted around 65 days, ignoring the outliers, so I picked 75. Just to be conservative. Look at your own Time Lag report, come up with your own number. I'm a big believer in not going back to every single campaign, no matter how far back, and dragging it in to give it credit. If it was so awesome, it would have kicked off a conversion cycle for us that falls within the upper limits indicated in the Time Lag report. The next two steps are critical. They are both really cool. But more than that, they help us wash away some of the sub-optimal decisions we might have made in the above two steps. Pay attention.
+
+Step 3: Select the engagement based credit option.
+
+We now go in and apply a rather clever rule to adjust credit for our campaign based on the behavior of the user that came to our site. This is particularly important for the touch points prior to last click.
+
+Time on Site is always a tricky computation. In all Web Analytics tools, unless you apply custom code, time on site is not computed for bounce visits or for the last page viewed in a visit. Hence, I prefer to use Page Depth as a proxy for site engagement. In this step we are telling GA to give more credit to campaigns that deliver users that have a higher engagement with the site. So if a user from campaign X see five pages during the visit on my automotive website and campaign Y sends a user that bounces, campaign X will get more credit. Only seems fair. And now you can see how some of your credit distributions in step one will be auto-corrected based on the type of engagement campaigns deliver.
+
+Step 4: Apply custom credit rules.
+
+The last bit of mind-exploding fun. We are going to select some custom rules that apply uniquely to our company (remember the five business questions above?). You can literally apply any custom rule you want. You can go in and say "for all bounced visits from rich media display campaigns give the campaign 2x the credit." You would not do that, but you can. You can do the reverse, "give every campaign with Bounced Visits zero times the credit of other interactions in the conversion path." I take a simpler first step. I want to value my campaigns based on the interaction they deliver. If there is only an impression (people only see the ad), I value that a lot less than ads that get people to click on them. To do that first I choose Interaction Type. Then I choose Click from the Exactly Matching drop down.
+
+Finally, I would like to have ads that get clicks to be extra rewarded and, in this case, get 1.4 times the credit of other campaigns in the conversion paths (in comparison to ads that just get impressions). Why 1.4? After some experimentation, that was determined to be the optimal amount of value for this business (remember the custom model questions above?). There is no way out, you have to experiment. That's our last step. Other ideas for this last step include the ability to give generic or brand keywords more or less credit. Or giving Direct or Social more or less credit. Or giving all Social visits that are the last click prior to conversion only half the credit compared to other interactions in the path (Include Position in Path Exactly Matching Last and Include Source Exactly Matching Social, where Social is your campaign tracking parameter). Totally your call. Just remember to drag your common sense along when you sit down to do this. [sidebar] Once again in step four you see how clever use of custom filters can auto-correct some of your earlier assumptions related to distributions of credit in step one. If campaigns in the middle, or the first one, don't have the optimal interaction they will automatically be penalized. [/sidebar]
+
+Here's a complete view of the Market Motive Mindblowing Attribution Model ….
+
+That is all it takes, four simple steps, a pinch of understanding your business and a sprinkling of common sense.
+
+It should be completely obvious to you that this model is based on a specific client's business environment, my experience, and business priorities. While I believe it will serve as a good starting point for your very own custom attribution model, it might not be optimal for you.
+
+Hence, more than anything else, I would love for you to follow the thought process and the reasons for making choice x or choice y. Then apply that level of critical thinking as you go about creating a model for your digital business.
+
+Multi-Channel Attribution Analysis.
+
+Once you have your models sorted out, I recommend you get rid of the last click attribution model. It only ends up being a heavy useless anchor on your analysis. If you want to do comparative analysis, choose Time Decay for the first one (we know it is better than last click) and choose the Mindblowing Model (or your custom model).
+
+Your view will look something like this.
+
+Focus on that last column, % change in Conversions.
+
+Use the guidance provided (essentially a positive or negative shift away from the reference model, in this case Time Decay) to make recommendations for a different allocation of funds/effort for each marketing channel. Comparing the two models, you can see where your previous model/belief was wrong. Try adjusting your budgets accordingly for better success. As an example, in the above analysis Referrals are performing much better than we would otherwise have credited them for.
+
+For the most optimal outcome for your company follow this 3-step process:
+
+1. Create a hypothesis based on above analysis for how to better allocate budget across marketing channels. 2. Test that hypothesis using a percent of your budget and measure results. 3. Be less wrong over time.
+
+Multi-channel attribution modeling and analysis is not a one-time effort, it is something you'll do all the time. Not every day, but at least do an operational review every two weeks and a strategic review (with recommendation for changes) every month.
+
+In Closing, Five Quick Tips/Reality Checks.
+
+I want to leave with some insights from the front lines of solving the MCA-ADC, MCA-AMS, MCA-O2S challenges. Hopefully these will help you get a jump-start in your own efforts.
+
+#1. For multi-channel attribution modeling to work, all your marketing campaigns (Search, Social, Email, Display, Affiliate, others) must be 100% tagged with campaign tracking parameters . Tag your Bing campaigns. Tag your Email campaigns. Tag your Social campaigns. Tag the campaigns your mom is running on leaflets handed out to neighbors. #2. One of my favorite exercises is to do the above analysis based on Cost Per Acquisition, rather than just conversions. You may be getting a lot of conversions, but the CPA can kill you. Notice above I only have two CPA values. For the rest I need to upload cost data into GA for my Social, Referral, Organic Search (yes, it costs money), and Email campaigns. You do too. #3.You don't have to do attribution analysis for all your conversions in aggregate. On top of the attribution Model Comparison Tool, you'll see a drop down under the word Conversion. Click. Choose any conversion you consider to be important. You can do attribution modeling uniquely and optimize your marketing efforts just for an ecommerce transaction. Or you can do it for email subscription signups, or downloads, or videos played or anything else you consider to be important. #4. Remember all of the above just covers Multi-Channel Analysis-All Digital Channels (MCA-ADC). There are two other, even more complex, attribution analysis scenarios: MCA-O2S and MCA-AMS. You can learn more about them here: Three Types of Multi-Channel Attribution Problems. Don't be disheartened that all this complexity exists. Take things one step at a time. Standard Time Decay model first. Then your own Mindblowing Custom Model. Then Experimentation. Then MCA-O2S. Then MCA-AMS (it is so ironic this is harder than O2S!). With every step, you are making your company smarter. Less wrong every day. #5. If you spend more than $10 million on advertising/marketing, it might be well worth it for you to completely skip all the attribution analysis challenges and jump to media-mix modeling by leveraging controlled experiments. Optimize for your online media-mix at the start, then move to optimizing your online and offline media-mix. Media-mix modeling is harder and more time-consuming (hence the $10 million bar), but the payoff is huge and can be a competitive advantage.
+
+We are done! Attribution modeling mastered! Hurray!!
+
+: )
+
+As always, it's your turn now.
+
+Are you doing any attribution modeling at the moment? What frustrates you about it? What benefits have come from your credit re-allocation efforts? Run into any organizational/ego problems with senior leaders yet? Love First Click or Linear attribution, what am I missing in my thinking? Which model is your BFF? What are two fatally flawed choices in my Mindblowing Model? What would you do differently? Has it been easy to go from analysis, end of this post, to insights to action?
+
+Please share your feedback, critique, brilliant new ideas and radical proposals via comments.
+
+Thank you.

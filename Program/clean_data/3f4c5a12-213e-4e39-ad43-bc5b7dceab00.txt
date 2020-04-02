@@ -1,0 +1,147 @@
+While being a mentor for a JavaScript Web development course, I’ve seen many beginner programmers jump into learning with enthusiasm and then immediately hitting a wall.
+
+Most of the students usually struggle with the same barriers. But once they learn to overcome them, they get instant benefits:
+
+they enjoy the learning experience much more
+
+they make progress faster
+
+they are more perseverant when getting stuck, thus giving up less easily
+
+they are more independent when writing code
+
+So what are these barriers that I’m talking about and how can you overcome them?
+
+1. You don’t do it for the right reasons
+
+Before digging into the barriers, I’d like to state how important your motivation is in the learning process. Don’t learn programming just for the sake of it, or because you’ve heard it’s cool and it pays well.
+
+Do it because you want to solve your own problems. Automate and improve your life. Build an app to help people.
+
+If you simply like programming and want a career out of it, you might experience a strong urge to give up along the way. This usually happens when things get really tough and the learning experience becomes painful. Then you’ll say to yourself that you don’t like programming anymore, that programming is not for you, or that you weren’t born to be a programmer.
+
+That’s why you should consider setting a goal around completing a project. If you have a project in mind, or a higher problem that you want to solve, you can say to yourself: “This might not be an enjoyable experience right now, but I really want to solve this bigger problem, so I’m going to push myself and overcome this obstacle.”
+
+2. You don’t know what technology to start with
+
+Lots of people ask: “What programming language should I learn first?”. This problem exists because they do not know why they want to learn to code.
+
+Once you set your mind to a specific project, it’s easy to figure out what programming language to start with:
+
+If you want to build an iOS app, go with Objective C or Swift.
+
+If you want to build an Android app, go with Java.
+
+If you want to build a web app, go with JavaScript.
+
+Nowadays you can actually use JavaScript to build any type of project, from simple web and mobile apps to advanced hardware projects. People are using it in most industries, like: music, medical, games, fashion. This language gives you the most leverage.
+
+If you’re still unsure about which language to pick, you can even ask a programmer for advice. Once you know what project you want to build, it’s easy for a programmer to recommend a technology for you to use.
+
+Also keep in mind that most of the knowledge you learn with one programming language is transferrable to other languages, so there’s little risk at this step.
+
+3. You can’t apply the theory you learn and blame yourself
+
+Once you choose your technology stack, it’s easy to get started and learn the theory. There are tons of free and paid courses online.
+
+Most of our students actually know the theory and can explain how a certain piece of code works. The theory is just a finite set of concepts. Anyone can memorize it in a few days if she/he really wants to. So what’s the problem then?
+
+The biggest problem students have is actually applying the theory to solve problems and write new code. This means that the gap is actually a skills gap.
+
+A perfect analogy is swimming. You can read about the perfect technique and you can probably explain it to someone with words just like a professional coach would. But applying this theory takes a lot of practice, struggle and mistakes. You will swallow a lot of water :-)
+
+What’s even worse is blaming yourself. Or thinking that you’re not smart enough, or that you don’t have talent. It’s none of that, it’s all about having discipline and a thorough process to follow. So how do you practice your skills?
+
+Choose a complex project to work on. Ideally it should be something that really excites you.
+
+Split it into small, isolated tasks. For example a task like: “implement the login page” is way too big. A task shouldn’t require more than 20 or so lines of code to solve. Here are some tips that will help you to do this successfully:
+
+If you can’t solve the task, then figure out how to split it even further, into smaller tasks.
+
+A task should not require you to use too many theoretical concepts at once.
+
+Focus on one task at a time, rather than solving multiple tasks in parallel. Don’t skip to the next task until you have thoroughly tested the current one and are sure that there are no problems with it.
+
+If you don’t do that and your app misbehaves, then your problem could be in any of the tasks that you’re solving in parallel and it will be much harder to find.
+
+Make sure that you know all the necessary theory before starting to work on a task. Sometimes you may not know what theory you need to learn. That’s normal and what you can do is ask someone for help: a programmer friend, a mentor or a community like StackOverflow.
+
+Finally, you solve the task. When solving a task, there are multiple barriers you may encounter, which you will learn about next:
+
+4. You rush through tasks without being mindful of the consequences of your code
+
+The best case scenario is that you solve the task and it works. Then people usually start working on the next task. If you do that, you waste an opportunity to learn.
+
+I encourage you to challenge yourself with the following questions:
+
+Are there any edge cases when my code could fail? Even if it doesn’t fail right now, is there any application state that could cause it to break?
+
+Is my code clean enough? Is it easy to understand and change for other developers, or even for myself? In the future you might need to fix hidden problems in this code, or change it according to other product specs.
+
+Is my approach the best one? What other alternatives could I have used? What are the pros and cons of each alternative? Is it worth solving the task in a different way?
+
+How does this module interact with other modules? Can it affect any of them in a bad way? Can it easily be used by other modules?
+
+However, often times you get stuck:
+
+5. You don’t know how to approach a task
+
+Do you not know where to start? You may be tempted to try random things, or copy code from other places that you do not understand. But that’s not helpful. Not even if you copy code that works. Because when you will have a similar task in the future you will not be able to solve that one either.
+
+If you want to solve the task properly, you must first identify why you are stuck. Here are some possible causes:
+
+You don’t know the theory well:
+
+language syntax
+
+how a library or an API works, or how a specific method or class works
+
+programming paradigms (for example: asynchronous programming)
+
+how the system works (for example: HTTP requests are a crucial thing to understand in Web development)
+
+In this case, just read the theory again, or find someone to explain it to you if it still doesn’t make sense.
+
+The task is too big and needs to be broken down into smaller tasks.
+
+You don’t understand what the task is asking because you read it too fast and overlooked concepts that seemed familiar but actually were not.
+
+6. You know how to solve a task, but your solution doesn’t work
+
+This is the most common problem in programming. Even for programmers who have many years of experience. The reason why your solution doesn’t work is most likely a bug in your code.
+
+How do you fix it? By debugging your code. This is one of the most important skills you can learn as a programmer. It is not something you do randomly, or by lucky guessing. There are specific steps you can take in order to find bugs in your code. There are entire books devoted to teaching this skill.
+
+Unfortunately, this is where a lot of new programmers lose motivation and give up. Very few courses explain the importance of debugging. If you don’t know how to do it properly, it can seem overwhelming.
+
+Lots of people worry that they spend too much time debugging code. This is normal and you have to be prepared for this in your first years of programming.
+
+Even better, you need to learn how to love debugging. Think of it as an opportunity to fix your misconceptions and improve your programming abilities. Whenever you solve a bug, ask yourself this question: “Why did I make this mistake in the first place? How can I prevent myself from making it in the future?”.
+
+It’s a good idea to keep a programming journal where you write down all the bugs that you find. You will quickly see patterns and learn from them.
+
+7. You don’t know how to receive help
+
+“What do you mean receive help?” While learning to code, or while debugging your code, you will consult a lot of materials: books, courses, tutorials, mentors, developer communities.
+
+The most common problem when you learn from all these resources is that you don’t force yourself to fully understand what’s happening behind the scenes and how a concept fits into the bigger picture.
+
+For example: after you spend 10 hours on a problem and finally someone else presents you with a solution, it’s easy to take that solution, celebrate and hop onto the next task. Don’t do that! Instead, you need to do some meta-cognition:
+
+think about your previous thought process. Ask yourself what you did wrong and what you could have done better to get to that particular solution.
+
+ask the person to tell you their own thought process. How did she / he get to the solution? Learn from that and apply it yourself next time.
+
+This is a big downside of StackOverflow, or reading answers on Google: you cannot find out how people come up with solutions. You can only take the solutions and hopefully understand them. But you will never know the thought process behind those solutions.
+
+8. You can’t apply the theory you learn
+
+“This again?” I just want to point out that this article is also a piece of theory. It will not help you unless you apply this theory, not once but multiple times, until it becomes a routine.
+
+Programming is all about forming good habits to help you get yourself unstuck from any kind of problem.
+
+Read Next: 10 best coding bootcamps for those on a budget
+
+Image credit: Shutterstock
+
+Read next: A close-up look at the Oculus Rift and Touch controller

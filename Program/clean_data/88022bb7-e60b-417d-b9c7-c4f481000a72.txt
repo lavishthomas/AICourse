@@ -1,0 +1,39 @@
+Fake news and the way it spreads on social media is emerging as one of the great threats to modern society. In recent times, fake news has been used to manipulate stock markets, make people choose dangerous health-care options, and manipulate elections, including last year’s presidential election in the U.S.
+
+Clearly, there is an urgent need for a way to limit the diffusion of fake news. And that raises an important question: how does fake news spread in the first place?
+
+Today we get an answer of sorts thanks to the work of Chengcheng Shao and pals at Indiana University in Bloomington. For the first time, these guys have systematically studied how fake news spreads on Twitter and provide a unique window into this murky world. Their work suggests clear strategies for controlling this epidemic.
+
+Diffusion network for the article titled “Spirit cooking: Clinton campaign chairman practices bizarre occult ritual," published by the conspiracy site Infowars.com four days before the 2016 U.S. election.
+
+At issue is the publication of news that is false or misleading. So widespread has this become that a number of independent fact-checking organizations have emerged to establish the veracity of online information. These include snopes.com, politifact.com, and factcheck.org.
+
+These sites list 122 websites that routinely publish fake news. These fake news sites include infowars.com, breitbart.com, politicususa.com, and theonion.com. “We did not exclude satire because many fake-news sources label their content as satirical, making the distinction problematic,” say Shao and co.
+
+Shao and co then monitored some 400,000 claims made by these websites and studied the way they spread through Twitter. They did this by collecting some 14 million Twitter posts that mentioned these claims.
+
+At the same time, the team monitored some 15,000 stories written by fact-checking organizations and over a million Twitter posts that mention them.
+
+Next, Shao and co looked at the Twitter accounts that spread this news, collecting up to 200 of each account’s most recent tweets. In this way, the team could study the tweeting behavior and work out whether the accounts were most likely run by humans or by bots.
+
+Having made a judgment on the ownership of each account, the team finally looked at the way humans and bots spread fake news and fact-checked news.
+
+To do all this, the team developed two online platforms. The first, called Hoaxy, tracks fake news claims, and the second, Bolometer, works out whether a Twitter count is most likely run by a human or a bot.
+
+The results of this work make for interesting reading. “Accounts that actively spread misinformation are significantly more likely to be bots,” say Shao and co. “Social bots play a key role in the spread of fake news.”
+
+Shad and co say bots play a particularly significant role in the spread of fake news soon after it is published. What’s more, these bots are programmed to direct their tweets at influential users. “Automated accounts are particularly active in the early spreading phases of viral claims, and tend to target influential users,” say Shao and co.
+
+That’s a clever strategy. Information is much more likely to become viral when it passes through highly connected nodes on a social network. So targeting these influential users is key. Humans can easily be fooled by automated accounts and can unwittingly seed the spread of fake news (some humans do this wittingly, of course).
+
+“These results suggest that curbing social bots may be an effective strategy for mitigating the spread of online misinformation,” say Shao and co.
+
+That’s an interesting conclusion, but just how it can be done isn’t clear.
+
+One way would be to outlaw certain kinds of social bots. But this is a route fraught with difficulty. There are many social bots that perform important roles in the spread of legitimate information.
+
+And legislation does not overcome international borders. Given the way foreign powers have manipulated the spread of fake news, it’s hard to see how this would work.
+
+Nevertheless, the spread of fake news is a legitimate and important source of public concern. Understanding how it spreads is the first stage in tackling it.
+
+Ref: arxiv.org/abs/1707.07592: The Spread of Fake News by Social Bots

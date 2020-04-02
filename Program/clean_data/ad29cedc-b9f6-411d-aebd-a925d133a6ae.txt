@@ -1,0 +1,47 @@
+If you had to pick the most staid area of legal technology, you might choose legal research. After all, Westlaw and LexisNexis pretty much set the standard for online legal research long ago, and many of the smaller research services that have come along since are essentially less-comprehensive variations on the same theme.
+
+Yet within a few days of each other earlier this month, there were three major developments pertaining to legal research, each of which suggests interesting new directions for legal research. In fact, after I wrote about the three developments on my Lawsites blog, it prompted Ed Walters, the CEO of legal research service Fastcase, to tweet, “Might we be entering a golden age of legal research innovation? Sure feels like it.”
+
+Of course, innovation in legal research has been going on for a while now. Middle-tier services such as Fastcase and Casemaker are frequently refining their platforms and adding new features. Startups such as Casetext and Ravel Law have introduced innovations that even the big players have emulated. Startup ROSS is bringing IBM Watson’s artificial intelligence to legal research.
+
+Still, all three of these recent developments signal possible new directions in legal research. Let me review them briefly.
+
+Product of the Year
+
+No one knows legal research better than a law librarian. So it says something that the American Association of Law Libraries has announced that it will present its New Product of the Year award to Pablo Arredondo, vice president of legal research at Casetext, for his development of CARA.
+
+As I explained at my Lawsites blog last summer, CARA — short for Case Analysis Research Assistant — is a tool that automatically finds cases that are relevant to legal memoranda and briefs. Upload a brief, memorandum or any other document that contains legal text, and CARA analyzes it and generates a list of relevant cases that are not mentioned in the document.
+
+CARA is a big part of the reason Casetext recently secured $12 million in Series B funding – one of the largest investments in a legal technology startup ever. Rebecca Lynn, general partner at the firm that led the investment round, Canvas Ventures, said that she believed the speed and scale of Casetext’s disruption of the legal research industry was profound. “Casetext is the only company providing AI-powered legal research that is widely available today.”
+
+Mapping the Legal Genome
+
+For the last five years, the legal research startup Judicata has been a mystery. Its website teased visitors with the promise of a forthcoming legal research service that would be better than any other, and it had $8 million in financing from some big-name investors, including PayPal cofounder Peter Thiel and Box founders Aaron Levie and Dylan Smith.
+
+Now, Judicata has lifted the veil and is beginning to offer access to its service, which its website now describes as “unprecedented in its precision, relevance, and simplicity.” The focus, its CEO Itai Gurari told me, is on building a search engine that returns the best results the fastest. “At this point, it mops the floor with Westlaw and Lexis,” he contends.
+
+The secret sauce in Judicata is what it describes as mapping the legal genome, or mapping the law with extreme accuracy and granularity. Judicata uses that mapping both to return highly relevant search results and to provide a set of filters that allow search results to be narrowed with a high degree of refinement and specificity.
+
+For now, it includes only California law, but plans are for the platform eventually to cover all jurisdictions. It is an ambitious project, because it requires both sophisticated programming and a high level of human effort to perform the mapping. But it offers the potential to ultimately create a better set of legal research data and therefore better legal research results.
+
+New Canadian Research Platform
+
+From our neighbors to the north comes news of the imminent launch of what could turn out to be Canada’s most comprehensive and cutting-edge legal research suite.
+
+Three major legal publishers are teaming up to launch the new suite. Leading the effort is one of Canada’s oldest legal publishers, Maritime Law Book Ltd., which came under new ownership last November, led by a new CEO, Colin Lachance, the former president and CEO of the Canadian Legal Information Institute (CanLII). Soon after, Maritime launched a new case law research platform, Compass.
+
+Now, Compass is partnering with vLex, a Barcelona and Miami-based legal publisher that claims to have one of the world’s largest collections of legal information, and Justia, the California-based legal information company run by the original founders of FindLaw, CEO Tim Stanley and President Stacy Stern. Justia is among the world’s largest providers and supporters of free access to legal information.
+
+Together, the companies will launch three interrelated legal research services:
+
+vLex Open Canada , a free tier of access to Canadian primary law.
+
+, a free tier of access to Canadian primary law. vLex Canada , a professional grade suite of tools and services for lawyers, together with support for library, law society and firm-wide implementation.
+
+, a professional grade suite of tools and services for lawyers, together with support for library, law society and firm-wide implementation. vLex Global, featuring case law, legislation, regulations, books and journals, and other secondary materials from Canada, the United States and more than 100 countries, enhanced with legal editorial analysis and commentary, and updated daily.
+
+These will effectively be two separate platforms, vLex Canada and vLex Global, with vLex Canada having both free and paid tiers. They are expected to launch sometime in June.
+
+Read more:
+
+Robert Ambrogi is a Massachusetts lawyer and journalist who has been covering legal technology and the web for more than 20 years, primarily through his blog LawSites.com. Former editor-in-chief of several legal newspapers, he is a fellow of the College of Law Practice Management and an inaugural Fastcase 50 honoree. He can be reached by email at ambrogi@gmail.com, and you can follow him on Twitter (@BobAmbrogi).

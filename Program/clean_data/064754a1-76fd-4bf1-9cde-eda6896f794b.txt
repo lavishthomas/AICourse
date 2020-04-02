@@ -1,0 +1,22 @@
+Credit: CC0 Public Domain (Phys.org)—Is entanglement really necessary for describing the physical world, or is it possible to have some post-quantum theory without entanglement?
+
+In a new study, physicists have mathematically proved that any theory that has a classical limit—meaning that it can describe our observations of the classical world by recovering classical theory under certain conditions—must contain entanglement. So despite the fact that entanglement goes against classical intuition, entanglement must be an inevitable feature of not only quantum theory but also any non-classical theory, even those that are yet to be developed.
+
+The physicists, Jonathan G. Richens at Imperial College London and University College London, John H. Selby at Imperial College London and the University of Oxford, and Sabri W. Al-Safi at Nottingham Trent University, have published a paper establishing entanglement as a necessary feature of any non-classical theory in a recent issue of Physical Review Letters.
+
+"Quantum theory has many strange features compared to classical theory," Richens told Phys.org. "Traditionally we study how the classical world emerges from the quantum, but we set out to reverse this reasoning to see how the classical world shapes the quantum. In doing so we show that one of its strangest features, entanglement, is totally unsurprising. This hints that much of the apparent strangeness of quantum theory is an inevitable consequence of going beyond classical theory, or perhaps even a consequence of our inability to leave classical theory behind."
+
+Although the full proof is very detailed, the main idea behind it is simply that any theory that describes reality must behave like classical theory in some limit. This requirement seems pretty obvious, but as the physicists show, it imparts strong constraints on the structure of any non-classical theory.
+
+Quantum theory fulfills this requirement of having a classical limit through the process of decoherence. When a quantum system interacts with the outside environment, the system loses its quantum coherence and everything that makes it quantum. So the system becomes classical and behaves as expected by classical theory.
+
+Here, the physicists show that any non-classical theory that recovers classical theory must contain entangled states. To prove this, they assume the opposite: that such a theory does not have entanglement. Then they show that, without entanglement, any theory that recovers classical theory must be classical theory itself—a contradiction of the original hypothesis that the theory in question is non-classical. This result implies that the assumption that such a theory does not have entanglement is false, which means that any theory of this kind must have entanglement.
+
+This result may be just the beginning of many other related discoveries, since it opens up the possibility that other physical features of quantum theory can be reproduced simply by requiring that the theory has a classical limit. The physicists anticipate that features such as information causality, bit symmetry, and macroscopic locality may all be shown to arise from this single requirement. The results also provide a clearer idea of what any future non-classical, post-quantum theory must look like.
+
+"My future goals would be to see if Bell non-locality can likewise be derived from the existence of a classical limit," Richens said. "It would be interesting if all theories superseding classical theory must violate local realism. I am also working to see if certain extensions of quantum theory (such as higher order interference) can be ruled out by the existence of a classical limit, or if this limit imparts useful constraints on these 'post-quantum theories.'"
+
+Explore further: Envisioning a future quantum internet
+
+More information: Jonathan G. Richens, John H. Selby, and Sabri W. Al-Safi. "Entanglement is Necessary for Emergent Classicality in All Physical Theories." Physical Review Letters. DOI: 10.1103/PhysRevLett.119.080503
+

@@ -1,0 +1,31 @@
+How we picked
+
+The six routers we tested.
+
+Wireless-ac, or IEEE 802.11ac, is the latest mainstream WiFi version, and your new router should have wireless-ac. It's the new standard in many laptops, smartphones, and tablets from 2013 and later, including many of our recommendations at the Wirecutter. New MacBooks and high-end Windows laptops have wireless-ac, and so do almost all flagship smartphones from the past year: the iPhone 6, HTC One, Moto X, Samsung Galaxy S5, and more. Unless you go very cheap, your next gadget with WiFi will probably have wireless-ac.
+
+Our Wi-Fi router pick is dual-band, which means it supports both 2.4GHz and 5GHz signals—giving you a way to escape 2.4GHz wireless interference from your neighbors' WiFi networks and giving you access to the much faster speeds of 5GHz wireless-ac. The vast majority of laptops, phones and tablets support one or two streams, but high-end laptops like the MacBook Pro support three. A three-stream wireless-ac router ensures that you're going to get the fastest connection on any device you own -- or plan to buy in the near future.
+
+Any router you buy should be dual-band: a 2.4GHz band for wireless-n and earlier, and a 5GHz band for wireless-n and -ac (5GHz faster, but it can have worse range than 2.4GHz and not every device supports it).
+
+How we tested
+
+The original four finalists for our best Wi-Fi router article.
+
+We evaluated our finalists' the short- and long-range performance on their 2.4GHz and 5GHz bands. To test, we put each router in the same location and set up four client testing spots in a 2,577-square foot, one-story house. We set up two locations within sight of the router (at 11 feet and 43 feet), and two test stations blocked by walls, rooms, and other objects (at 13 feet and 43 feet).
+
+Our pick
+
+We wish TP-Link included a USB 3.0 port in the Archer C7. Otherwise, its physical connections are pretty standard and easy to access.
+
+The TP-Link Archer C7 (v2) emerged from our tests as the best router for most people. We've tested the Archer C7 against different combinations of routers, at different times, using different setups, for almost an entire year In each testing arrangement, the Archer C7 was the top-performing router across most of our individual tests, often by a lot. The C7 has the performance and range of routers that cost $200 or more, but it usually costs $100 and can often be found for less.
+
+In our most recent tests, we pitted the Archer C7 against two AC1900 routers -- T-Mobile's Personal Cellspot (a modified Asus RT-AC68U, which is normally around $185) and Netgear's $200 R7000 --as well as the $115 Archer C8, TP-Link's more-expensive followup to the C7. The C7 beat them all on our short-range tests for 2.4GHz and 5GHz. It wasn't as fast as any of them on 2.4GHz at long range (surprising to us, since the C7 was usually the fastest router on other versions of this test), but it beat them all again on 5GHz.
+
+Its long-range 2.4GHz signal was still over 22Mbps -- faster than most peoples' home internet connections and seven times faster than a 1080p Netflix stream. And the strength of its long-range 5GHz performance is critical; you're more likely to pick this band and stick with it, since your wireless-ac devices will only get wireless-ac speeds on 5GHz.
+
+In closing
+
+The TP-Link Archer C7 can't be beaten for the price. It's the router we'd recommend to anyone who needs the best performance across the greatest distance. The Archer C7 is also one of the cheapest three-stream routers you can buy -- any device you own, or will buy in the near future, will get the fastest wireless connection it can handle.
+
+This guide may have been updated. To see the current recommendation please go to The Wirecutter.com

@@ -1,0 +1,119 @@
+Google Tag Manager is designed to minimize your dependency on web developers when you want to add marketing and analytics codes (or “tags”) to your website. This video discusses the basics of both Google Tag Manager and Google Analytics event tracking, and how you can integrate the two.
+
+Video Section & Time Markers
+
+(00:22) Event Basics
+
+(01:43) Manually Coding Events in Google Analytics
+
+(02:53) Google Tag Manager Container with Google Analytics Tag
+
+(06:17) Auto Event Tracking
+
+(09:13) Using the Data Layer for Dynamic Parameters and Non-Click Actions
+
+(12:30) Virtual Pageviews in Google Tag Manager
+
+(13:28) Social Tracking in Google Tag Manager
+
+Note: This article focuses on Google Analytics implementation. For installing Kissmetrics through Google Tag Manager check our support documentation.
+
+Video Transcription
+
+[music]
+
+Eric Fetman: Hi! I’m Eric Fetman, Analytics Trainer and Coach at E Norm, with a guest video for KISSmetrics.
+
+Google Tag Manager is designed to minimize our dependency on web developers for adding marketing and analytics code to our websites. This tutorial video is going to focus specifically on implementing Google Analytics Events in Google Tag Manager since this can be a little tricky the first time around.
+
+Let’s start off with some event basics. Why do we need event tracking in Google Analytics? When you install Google Analytics, either with the regular tracking code or as tag within Google Tag Manager, by default data is captured only when a page loads and the URL changes or the URL is refreshed as in this case.
+
+We’ve navigated to another page, the page has loaded, the page has changed, and data has been sent back to the Google Analytics servers. However there are many types of user interaction that don’t force a new URL to appear, that don’t force the page to reload and therefore by default don’t send data back to Google Analytics.
+
+What types of user actions don’t generate trackable page views? Links to other websites, links to PDF documents, mail to links, or tell links on smartphones, flash or e jacks types of interactions, video and even completion of individual form fields. None of these interactions cause a page load on your site and therefore none to them can generate Google Analytics for you.
+
+So these are all good candidates for events or possibly virtual page views, which we will also talk about. Let’s start off by looking at manually coded events so we can get a sense of what we no longer have to do when we track events through Google Tag Manager.
+
+Let’s look at the mail to link as an example. When we click this link, it’s going to open the mail client but it is not going to force additional page views so no Google Analytics data will be recorded. So here my email client has opened up but this action has not been tracked in Google Analytics.
+
+Here’s how a mail to link looks before any event tracking is added. And here’s the link with event tracking added. The code for event tracking itself is very simple but here’s the potential problem.
+
+What if you don’t directly control changes to page content? What if every change that you want to make is subject to an approval or a release cycle that could take weeks or even months. And what if, at some point, you want to change the action parameter of the event from email to mail to and you have to go through the same hassle again.
+
+This is where Google Tag Manager comes in. Our first step in Google Tag Manager will be to create a container.
+
+Once you’ve created your account at googletagmanager.com, you need to create a container. A container is a code that will allow you to place tags on to your website, remove tags and modify tags.
+
+We’re going to go ahead and click new container. We’re going to call out container “mysite.com” for use on web pages and we’re going to click save. On the next screen, you see the actual container code that you need to place after the opening body tag on all pages of your site.
+
+Make sure that you work with your development and IT team when placing the Google Tag Manager code and make sure you confer with your marketing and the rest of your analytics team before you remove any analytics or marketing tags. And make sure to deploy the Google Tag Manager container code in a test environment before including it in a production environment.
+
+Once you have the container included on all pages of your website, you can start to deploy tags through the Google Tag Manager interface. Google Tag Manager provides a variety of templates for adding tags to the container. There are templates for Google services such as Analytics and AdWords.
+
+There are templates for non Google services such as AdRoll Remarketing or Click Tale heatmapping. If there is a tag that you want to add that there is not an existing template for within the Google Tag Manager, there is a free form html field that will allow you to add those types of tags as well.
+
+Let’s start by adding a regular Google Analytics tag to our container. We’re going to go ahead and click “Create a new tag”. Tag name…let’s call this, “Google Analytics page tracker”.
+
+Select tag type, we’re going to choose Google Analytics Universal. Tracking ID… we’re going to go to the tracking code page for our Google Analytics property and we are going to copy the tracking ID from that page. And that is what we’re going to paste into our tag to tell Google Tag Manager that this is the property and website that we’re tracking in Google Analytics.
+
+Add rule to fire tag, we’re going to select all pages, we will go ahead and click save and we’re done. In order to see any of our tags in action, we’re going to preview or publish the container. We’re already operating in a test environment so we’re going to go ahead and publish. Click create version, click publish.
+
+Let’s go back to our mail to page. Two things have changed on this page. One, we have removed that Google Analytics tracking code and two, we have added the Google Analytics container.
+
+And since this container now contains the Google Analytics tag, when we view this page it should show up as a page view within Google Analytics. We’re going to go ahead and refresh this page, check our Google Analytics and there is the page view. And we should see the active page. There we go.
+
+Now we’re tracking the page view of the mail to page but we still do not have an event track for a mail to link. Now we look at auto or automatic event tracking within Google Tag Manager that will allow us to track our event without actually changing the code on the page.
+
+To configure auto event tracking, we’re actually going to create two separate tags. The first tag will just generally listen for link clicks on the page. The second tag will be our actual Google Analytics event tag, which will use the link click as a trigger.
+
+We’re back in our mysite.com container. We’re going to go ahead and click “Create a new tag.” For tag name, let’s just say, “Link click listener”. For select tag type, we’re going to go down to event listener and we’re going to select link click listener.
+
+Keep in mind that event listener in this case does not refer specifically to Google Analytics events. This is just a general click event that can actually be used for anything. Select all pages for our rule fire tag and we’re going to click save.
+
+Now we have our link click listener tag and we’re going to use this tag as trigger for our actual Google Analytics event tag. We’re going to go ahead and click “Create a new tag” again. And we’re going to call this tag, “Google Analytics Event Mail to Click”.
+
+Select tag type, you’re going to select Google Analytics Universal again. You could use the regular Google Analytics tags for these examples as well but we are using universal. And we are going to paste in the same tracking ID that we used for a regular page view tag within Google Tag Manager.
+
+But this time, instead of page view track type, we’re going to use the event track type. For category, let’s say, “Link”. For action, let’s say, “Mail to”. And for label, we’re going to use a built in macro that’s going to dynamically populate the element URL, which in this case will be the destination of our mail to link.
+
+Now, the new rule that we are going to create to fire our Google Analytics event will be a little bit trickier. Let’s call the rule, “Mail to Click”. The rule has two conditions. The first condition is event equals GTM, then click. The link click listener that we defined in a separate tag is actually serving as a trigger for this tag.
+
+But we also need to add another condition. Element URL contains mail to. Go ahead and save. And now we have the two tags that we need to track mail to link clicks as Google Analytics events. So let’s make sure that our event tracking is working correctly. We’ll go ahead and click mail to link. The mail client opens up. Go over to Google Analytics and in our real time events report, we see that our event is tracking correctly. And we see that our event action is mail to. And our event label is the dynamically populated element URL.
+
+What if you want to track a user action other than a click as a Google Analytics event? This is going to require a little bit of manual coding on your web page to tie in to Google Tag Manager. Let’s say on your website, visitors can hover over pictures to display a larger pop up. You may want to track these hover actions as events in Google Analytics.
+
+However, in Google Tag Manger, there is no option for creating a hover event listener the same way we created a link click listener in the previous exercise. So we are going to need to manually code but we need to remember that we no longer have the Google Analytics tracking code on the page directly. We have the Google Tag Manager container.
+
+We can’t use the regular coding either for Google Analytics classic or Google Analytics Universal that we would normally use for event tracking. Instead, we’re going to use the data layer object to communicate with Google Tag manager. All we need to push into the data layer is an event.
+
+Now, again, this event is not the Google Analytics event. This is going to serve as the trigger for the Google Analytics event tag in Google Tag Manager the same way that GTM link click served as the trigger.
+
+But we are also going to push another piece of data into the data layer. We can distinguish between hovers over the different images by dynamically passing the image source to the data layer for use as the label parameter for the Google Analytics event tag.
+
+Back in Google Tag Manager, we’re creating a Google Analytics event tag for our photo hover action. We have set the tag type as universal, we have our tracking ID. Track type, we have set as event. Category and action, we have static values of photo and hover.
+
+Label, we are going to pull the event label value into the data layer by creating a new macro. We’re going to click the little macro icon, new macro, macro name, let’s call it, “Event Label.” Macro type; data layer variable.
+
+Name; Event label. This is the variable name that we use in our codes so this is what we’re going to need to specify here. Data layer version, you want to change this to version one. Version two has to do with dot notation, which we are not using. Go ahead and click Save.
+
+For our rule to fire the tag, create new rule. Rule name; Photo hover. Event equals photo hover. Again, this event is the macro that we’re using to read the event value in the data layer. Click Save. There we have our Google Analytics event tag for photo hover action.
+
+Now, let’s test our events. Mouse over living room, mouse over dining room, mouse over bedroom. Now, let’s check our events on the Google Analytics real time report. There are our three events coming in. That category is photo, let’s scroll down then action is hover and there are our three image sources written to the data layer by code in our web page and read from the data layer by the macro in the Google Analytics event tag within Google Tag Manager.
+
+Earlier on we looked at several types of user interaction that don’t cause the page reload and that we might want to track either events or virtual page views. So now we’re looking at virtual page views through Google Tag Manager. Let’s say we want to track all PDF clicks as virtual page views. When we’re setting up our virtual page view tag, we are going to take advantage of the href value or the element URL as both the rule and as the value we’re passing in for our virtual page view.
+
+Tag for our virtual page view, track type is page view but we’re going to override page URL by specifying a value for a document path in this case element URL. Rule; Event equals GTM link click. And element URL end with “.pdf”
+
+Let’s test this out. Click the E book link. PDF opens real time content report. There is our virtual page view, active page: E book PDF.
+
+Social tracking is a special form of event tracking in both Google Analytics and Google Tag Manager. Let’s look at a “Follow us on Twitter” link. The html from the link would look something like this. So here we’re setting up our tag track type is social.
+
+Social Network, we’re specifying as twitter social action follow. Now we could use a more generic social tag and manually code the parameters through the data layer. But if we start to use the data layer too much, it somewhat defeats the purpose of having the Google Tag Manager in place.
+
+Finally the rule, event GTM link click element URL equals twitter URL. This action will appear in the social plug ins report.
+
+Eric: Thanks for watching this tutorial. Hope you found it useful. If you have any questions or comments, please tweet them to @enorinc or post them below.
+
+[music]
+
+About the Author: Eric Fettman is Analytics Trainer & Coach at E-Nor. He is also the developer of googleanalyticstest.com, a free resource for Google Analytics training and GA Individual Qualification preparation, and he regularly provides GA pointers at gatipoftheday.com.

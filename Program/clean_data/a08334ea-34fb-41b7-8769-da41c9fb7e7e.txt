@@ -1,0 +1,77 @@
+The Galaxy S7 is an awesome phone, but it's not without its problems. Here are some of the most common issues and how to fix them.
+
+Back in March of last year (has it been that long already?!), the Galaxy S7 and Galaxy S7 edge launched to outstanding reviews and plenty of plaudits for both its hardware and software. But given that the phone is approaching its one-year anniversary, it's not surprising that some issues — both hardware and software — have arisen in that time.
+
+Samsung has been generally good about correcting the major ones through software updates, but there are some big issues that users can address on their own.
+
+Battery life problems
+
+The Galaxy S7 suffers from battery issues more so than the larger Galaxy S7 edge — the former has a 3000mAh batter to the edge's 3600mAh cell — but they're both prone to getting beaten by the daily grind.
+
+The first thing you're going to want to do is eliminate any errant battery-sucking apps that you've downloaded from the play store. Facebook and Facebook Messenger continue to be two that are repeatedly brought up by members of the AC community as being the worst battery offenders. Facebook can be accessed from the mobile web, and Facebook Messenger, well — just get WhatsApp and call it a day.
+
+and continue to be two that are repeatedly brought up by members of the AC community as being the worst battery offenders. Facebook can be accessed from the mobile web, and Facebook Messenger, well — just get WhatsApp and call it a day. To check whether an app is using an unreasonable amount of battery, dive into Settings --> Battery --> Battery usage to isolate the misbehaving entity.
+
+--> --> to isolate the misbehaving entity. These potentially problematic apps extend to bloatware installed by your carrier. If you use a Verizon, T-Mobile or AT&T model , in particular, you'll benefit from deleting or disabling some or all of the pre-installed apps on the phone.
+
+, in particular, you'll benefit from deleting or disabling some or all of the pre-installed apps on the phone. You can also disable the always-on display by going to Settings --> Display --> Always-on display and turning everything off. The feature was added to the Galaxy S7 for its convenience, and because the phone uses an efficient SuperAMOLED panel, but just because it's efficient doesn't mean it doesn't help to disable it.
+
+How to fix Galaxy S7 battery life problems
+
+Finally, if you're running Nougat — and you soon should be, if you're not already — you'll notice that battery should improve just by doing the upgrade. Why? Because Samsung has made a change to the default resolution of the Galaxy S7 that uses less energy. It's not magic, but you'll probably benefit from a couple extra hours of uptime as a result. Win!
+
+Slow performance
+
+This is a big category, and pretty hard to pin down, but we'll go through some of the most common solutions. Obviously, slow performance can be indicative of an errant app that may also be sucking up battery life, so dealing with this may help the other. Phones are known to slow down over time as people add more and do more with them.
+
+Free up internal storage
+
+The Galaxy S7 has 32GB of internal storage, and once you fill that up, the phone may begin to chug. The system will alert you when you get really close to the edge, but even before then, deleting some of those larger apps and games may do the trick.
+
+It may also be a good idea to upload your photos to Google Photos so you can delete them locally. Google Photos offers unlimited free high-quality backups, along with at least 15GB of full-quality backups, on any phone, including the Galaxy S7. It's also likely pre-installed on your device — just look for it in the Google folder on your home screen, or in the app drawer.
+
+How to use Google Photos on Android and the web
+
+Change launchers
+
+On the surface, changing launchers may not seem like it will do anything, but it does: Samsung's TouchWIZ launcher is notoriously slow, especially with all the features enabled (like Flipboard Briefing, which you should probably turn off).
+
+To fix that, you may want to change launchers to something a bit more lightweight and performant. May we suggest one of the following?
+
+The best Android launchers
+
+Factory reset your phone
+
+There are myriad reasons your phone may be bogged down, and merely deleting apps, changing launchers or disabling some features may not do enough.
+
+If you're running into a virtual brick wall, back up everything in Google Drive, Google Photos, Dropbox, or wherever else you tend to store your virtual goods, and start over.
+
+How do you do that on your Galaxy S7 or S7 edge?
+
+Open Settings. Scroll down to Backup and reset. Scroll down and top on Factory data reset. Tap on Reset Device.
+
+Once you reset, you'll have to log in again to your various accounts and apps, but your apps should download automatically once you log into your Google account.
+
+Wi-Fi & Bluetooth issues
+
+Among the most common problems on a smartphone today, Wi-Fi and Bluetooth problems can be caused by a number of factors, many of which are outside of your control.
+
+When troubleshooting these wireless connections, it's important to establish whether the issue is indeed your phone or the object(s) you're connecting to, and the fastest way to determine that is to use another phone or tablet to connect. If that other product has no connectivity issues, then it's worth pursuing a fix on the Galaxy S7 or S7 edge itself.
+
+Make sure you turn off Wi-Fi or Bluetooth, wait a few seconds and turn it back on. If that doesn't fix the problem, head to the next step. Restart your phone. Sometimes all that's needed a quick kick to the reset button and you're good to go. If Wi-Fi problems persist, try forgetting the network by holding down on the SSID (name) and tapping Forget network. Then re-enter the password. If Bluetooth problems persist, try unpairing the object from your phone and re-pairing. To do that, tap on the little cog icon next to the product's name and hit Unpair. Put the speaker or whatever you're connecting to in pairing mode and connect again.
+
+How to fix Wi-Fi problems on the Galaxy S7
+
+Random restarts and boot loops
+
+A common occurrence, especially in more recent months, has been Galaxy S7 units randomly freezing while in use, restarting, or what's known as boot looping, which finds the phone stuck in a cycle where it attempts to boot into Android but somehow gets stuck and performs the process all over again.
+
+Like with all the above issues, there are a number of potential issues causing this, from errant apps causing overheating to problems with an Android update to a corroded or damaged mainboard.
+
+To troubleshoot, work from easiest solution to most difficult.
+
+If your phone boots into Android but is randomly restarting, it may be overheating or have a problematic app. Follow the instructions above to isolate the malefactor. If deleting all potentially problematic apps doesn't work, reboot into the recovery and clear the cache partition. If that doesn't work, it may be time to reset the phone completely. If you can't get into the phone, follow the instructions to factory reset the phone from the recovery menu.
+
+Other issues
+
+What are your main issues with the Galaxy S7 or S7 edge? We'll keep this article updated as new information becomes available!

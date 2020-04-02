@@ -1,0 +1,49 @@
+How One University Used Big Data To Boost Graduation Rates
+
+Enlarge this image LA Johnson/NPR LA Johnson/NPR
+
+Whenever you surf the Web, sophisticated algorithms are tracking where you go, comparing you with millions of other people. They're trying to predict what you'll do next: Apply for a credit card? Book a family vacation?
+
+At least 40 percent of universities report that they're trying some version of the same technology on their students, according to several recent surveys. It's known as predictive analytics, and it can be used to either help or hurt students, says a new report from the New America Foundation.
+
+The dangers come from the possibility of discrimination, invasions of privacy and groups of students being stigmatized, the authors, Manuela Ekowo and Iris Palmer, write. There can also be a lack of transparency when decision-making is turned over to an opaque computer program.
+
+But a happy story cited in the report comes from Georgia State University, a large public university in Atlanta with more than 24,000 undergrads. Of those students, 60 percent are nonwhite, and many are from working-class and first-generation families.
+
+As with many public universities, resources for student advising are limited. Large institutions tend to have staggering caseloads; a few years ago, GSU's ratio was 700 students per adviser.
+
+The challenge facing the university was: Can we apply predictive modeling to make better use of those advisers' time and get more students across the finish line?
+
+Working with the help of an outside consulting firm, EAB, GSU analyzed 2.5 million grades earned by students in courses over 10 years to create a list of factors that hurt chances for graduation. EAB then built an early-warning system, which GSU calls GPS, for Graduation and Progression Success. The system is updated daily and includes more than 700 red flags aimed at helping advisers keep students on track to graduation.
+
+For example, an adviser gets an alert when:
+
+A student does not receive a satisfactory grade in a course needed in his or her major. Timothy M. Renick, a GSU vice president who runs the project, gives this example: Among declared political science majors who get an A or B in their first political science class, 75 percent go on to graduate. If you get a C, your chances plummet to 25 percent.
+
+A student does not take a required course within the recommended time.
+
+A student signs up for a class not relevant to his or her major.
+
+This wasn't just a tech fix. At the same time that it implemented GPS, Georgia State hired 42 additional academic advisers, bringing its caseload down to 300 to 1.
+
+The university also centralized operations and information sharing and expanded resources like peer tutoring. In fact, says Renick, more than 90 percent of the cost of the project was in staffing, not in the spiffy new computer system.
+
+A GPS alert doesn't put a student on academic probation or trigger any automatic consequence. Instead, it's the catalyst for a conversation.
+
+The system prompted 51,000 in-person meetings between students and advisers in the past 12 months. That's three or four times more than was happening before, when meetings were largely up to the students.
+
+The real work was in those face-to-face encounters, as students made plans with their advisers to get extra tutoring help, take a summer class or maybe switch majors.
+
+The results have been dramatic.
+
+Graduation rates are up 6 percentage points since 2013.
+
+Graduates are getting that degree an average half a semester sooner than before, saving an estimated $12 million in tuition.
+
+Low-income, first-generation and minority students have closed the graduation rate gap.
+
+And those same students are succeeding at higher rates in tough STEM majors.
+
+Not surprisingly, representatives from more than 200 colleges have visited GSU in the past two years to try to copy the secret sauce. Renick says he tells them not to be distracted by the computer part of the equation.
+
+"Some campuses get fixated on the coolness of analytics," he says. "Unless you have the commitment to staff, organize and deploy the kind of resources that students will need in a timely way, this won't work."

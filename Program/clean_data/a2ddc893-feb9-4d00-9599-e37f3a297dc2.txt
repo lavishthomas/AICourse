@@ -1,0 +1,13 @@
+The legal system generates a huge and ever-increasing amount of data. Each new case brought to court (and there are 350,000 in the US alone each year) increases the body of knowledge that a lawyer has to get to grips with to do their job. Judicial ruling, precedents and interpretations of legislature all create more data and amongst it all – within witness statement, court logs and judge’s summaries - will be hidden facts and insights that could help win legal arguments.
+
+So it is surprising that until recently there has been little innovation in the way that the legal profession uses Big Data. But some believe that is all about to change with the arrival of a new breed of data savvy lawyers and legal professionals.
+
+The first Big Data tools to be made available to lawyers generally focused on billing, time management, marketing and customer relations functions – in line with their incursions into many other industries. Now, lawyers and those developing tools for the profession are starting to think about how this technology could be applied to the fundamental research and case preparation which is the core of their job.
+
+Currently, the world of legal data-driven research is ruled by two entities – LexisNexis and Westlaw. These giants hold databases containing huge amounts of case details and are often the default starting point for legal researchers. However they mainly function as search engines and offer little in the way of advanced analytical tools.
+
+One challenger which is attempting to apply more sophisticated technology to this vast and arcane body of knowledge is Ravel Law. Established in 2012 by two lawyers with backgrounds in analytics, they provide services designed to help legal professionals draw insights and connections using advanced analytical algorithms.
+
+One of their services– Judges Analytics – lets lawyers search through every decision made by particular judges to find those most likely to be sympathetic to their arguments. The data is visualized through Ravel’s dashboard in a way that makes it easier to spot connections and opportunities that otherwise would have been missed.
+
+Co-founder and CEO Daniel Lewis told me “When Nik [Reed, the other co-founder] and I met at Stanford, we had both come from previous work where we’d been exposed to how Big Data was playing a big role in changing other industries. Nik had come from politics and worked on election campaigns with Obama, and I had worked in policy, as well as played baseball through college, and I’d seen how Big Data had really changed the world of sport.

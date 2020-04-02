@@ -1,0 +1,363 @@
+We all need to acquire new customers to make our products and businesses work. Whether there are a few users paying big bucks or thousands visiting your platform for free, how you get and retain customers is what is important.
+
+But ask yourself: are you really ready for more customers? Is your team set up to handle an influx of users? What’s your promotion strategy – inbound marketing or traditional PR? This extensive guide will walk you through what user acquisition is and how to execute a plan.
+
+Is Your Product Ready for User Acquisition?
+
+While Mark Zuckerberg’s famous “move fast and break things” motto might be useful advice in many startup situations, it may not be the best advice when it comes to customer acquisition. The decision to take your product to market and begin onboarding customers should be given the weight it deserves. You have spent months (if not years) developing your product, so the execution of your user acquisition strategy must be thought out very carefully.
+
+First of all, is your product even ready for some/many users? Are there still bugs that will render the customer experience completely flawed? While Zuck’s “done is better than perfect” philosophy is wise, it would be a mistake to launch a broken product.
+
+How much activity can your servers handle? Do you have the customer support required to respond to the questions and concerns of new customers? Does your product even make sense to people outside your company? In other words, have you done customer validation? These are questions that you need to answer before committing to a launch, even a soft launch, and maybe even a private beta.
+
+Why Being Prepared Matters
+
+The customer acquisition process for startups is hardly linear or predictable, but that doesn’t mean that thoughtful planning is not useful or necessary. Even software giants like Microsoft have a few things to teach fledgling startups.
+
+The customer acquisition process is far from an exact science. There are many things that can (and do) go wrong, explains Paul Graham, one of Y Combinator’s founding partners. However, there are some things that you can do to mitigate risk and improve your chances of success.
+
+Have a Plan
+
+Having a thoughtful customer acquisition strategy is essential. Even a very basic plan, like BufferApp’s guest posting strategy, will give you direction and help you measure progress.
+
+Yes, plans change (especially with startups), but having a basic plan of action for onboarding customers is non-negotiable. This includes a detailed accounting of the platforms that you will use, the metrics that will measure success, your timelines, and the manpower required to do all of it effectively.
+
+What goals are you trying to achieve and why? What does the timeline look like? Are you going to outsource or hire from within?
+
+Hire the Right People
+
+Employees of startups are known to wear many hats. Regardless of the size of your team, everyone should understand your user acquisition process and what their roles in onboarding will be (both short and long term).
+
+You need to be able to react quickly to hiccups in the process. For example, if you encounter an unexpected bug in the sign-up process, your development team needs to react swiftly to fix the problem. At the same time, your communications and marketing people need to be able to react to customer complaints on social media and communicate proactively about your efforts to fix the bug. In order to do that, your team needs to have a clear understanding of who to turn to when problems occur.
+
+Estimate the Cost of Customer Acquisition
+
+The pockets of most startups are not very deep, and you should have an estimate of your cost to acquire customers (CAC) before beginning the onboarding process. Your CAC is loosely defined as the cost of all of your sales and marketing expenses over a given period of time, divided by the number of customers acquired in that window. While you won’t have a firm sense of your CAC until you begin acquiring customers, having an estimate will help you be prepared.
+
+Don’t underestimate the consequences of jumping the gun and kick starting your user acquisition before your product is ready. The greatest risk, of course, is alienating your users by producing an inferior product. You might be lucky enough to bring some of them back around, but a poor product can mean losing customers for good. Ask yourself, what is the baseline product I am willing to “show” users? What can break without negative consequences?
+
+You also are risking your relationships and reputation. For example, spending weeks coaxing journalists to line up exclusive coverage of your launch, only to find out that you’re going to be delayed another month, puts your credibility in jeopardy. After a few days, they may no longer be interested, and your users may not be, either. If it ain’t broke, don’t fix it. If it is broke, fix it FAST!
+
+Create Demand
+
+Though corporate customer acquisition isn’t exactly simple, the process is far more complex for startups. Corporations have deeper pockets, greater brand awareness, and an ever growing community of evangelists. You don’t, yet. For starters, you do not have the luxury of working with an established, household brand like Apple or Google where the demand for your product already exists. You need to let your customers know that you exist, explain why they should care, and sometimes hold their hand through the conversion process.
+
+As a startup, you not only have to create the brand but also the demand. Sales and marketing are not two independent silos. Jason Lemkin, founder of EchoSign, explains that your marketing team needs to go beyond simple brand marketing and “really understand how to do lead nurturing, web demand generation programs, and work at the hip of your sales team to generate a steady, growing stream of leads each and every month.”
+
+Case Studies
+
+Unbounce – Creating Value for Customers
+
+“We started marketing the day we started coding” explains Unbounce Co-Founder, Rick Perreault, “we’ve pretty much built the whole business on inbound marketing.” Unbounce’s founding team consisted primarily of “product people” – designers and makers. They knew that they wanted to avoid the trappings of traditional customer acquisition strategies, like long sales cycles or having to hire a VP of sales. Instead, they had one employee working on marketing, who was consistently focused on creating blog content that ranked well for search and that was of significant value to the reader.
+
+Instagram – Simplicity and Agility
+
+In January 2013, Instagram reported having over 90 million active monthly users, with over 40 million posts per day. How did Kevin Systrom and his team achieve these dream numbers? Many believe that their focus on community over monetization in the short run was integral to their early success. Despite their astronomical growth, Instagram had less than a dozen employees. Their small size and no-frills approach to customer acquisition allowed them to focus on creating and perfecting a product that their users loved, turning millions of customers into powerful advocates and word-of-mouth advertisers.
+
+Pinterest – Sign-Up Success
+
+While we can’t underestimate the power of an idea gone viral (or Pinterest’s brilliant UX (user experience)), we can break down the smaller and more concrete elements behind Pinterest’s wild growth. One of these factors is their unique, carefully-crafted sign-up process.
+
+Every step in the process, from requesting an invitation to the social signup, is designed to create a sense of belonging and wonderment, thereby building an emotional connection to the user. Business Insider gives an excellent frame-by-frame look at the Pinterest sign-up process. By creating a strong emotional bond with users, Pinterest added gas to the viral fire by creating a network of active, highly-engaged users and advocates.
+
+Now that you understand the essence of customer acquisition, it’s time to prepare yourself and your startup for getting lots of traffic.
+
+Getting Ready
+
+1. Defining Your Audience
+
+There are two audiences you need to keep in mind here: your current audience and your ideal audience. Your current audience is self-explanatory; it’s the audience you are reaching already. Your ideal audience is the group you would like to reach eventually.
+
+For example, your current audience might be women ages 19-27, but your ideal audience might be women ages 18-35.
+
+Let’s start with your current audience. Think of this as your baseline. It’s where you are now. There are three simple resources that can tell you about your current audience: Alexa, analytics tools, and social media.
+
+Simply enter your website URL on Alexa to find the age, level of education, gender, familial situation, and browsing location of your current audience.
+
+Use analytics tools like Google Analytics or, even better, Kissmetrics to learn more about your current audience. Google Analytics will have general information like what pages they visit and where in the world they are. But Kissmetrics is designed to tell you about the people visiting your website, so refer to it for more in-depth insight.
+
+If you have branded social media pages, you can get a good idea of what your current audience looks like just by browsing your followers. What are they tweeting about? Who else are they following? What times are they engaging?
+
+Your ideal audience is a different story. You’ll want to “fish where the fish are,” so to speak. Decide what your ideal audience looks like, and then do some research. What are they interested in already? What are they talking about on social media? What are they searching for on Google? What do they like on Facebook? Answer these questions, and you’ll have a better idea of what your ideal audience is interested in, where they hang out, and how you can connect with them.
+
+2. Creating Your Landing Page
+
+Your landing page, the location for which you are sending traffic, is one of the most overlooked destinations in many startups’ acquisition process. It is not only your home page, but in fact, every page on your site. They all have some level of SEO power and serve to increase reach and visibility. With your marketing efforts, there most likely is one page you are sending most of your traffic to; a sign-up page, a marketing page, or even a contact us page. Regardless of its function, it needs to make an impact.
+
+Every landing page is unique, but there are a few elements every good landing page should have. Here’s a list of landing page elements you definitely shouldn’t forget:
+
+A compelling image
+
+An attention-grabbing headline
+
+A strong value proposition (the benefits)
+
+Social proof or an endorsement
+
+An amazing call to action
+
+There also are some landing page tips and tricks that you should know about:
+
+Include a demo video to increase conversions by 10-20%.
+
+If you can’t include a video, think about including screenshots or interactive demos (if applicable).
+
+Use directional cues (e.g., arrows) to point visitors in the right direction.
+
+Narrow the options. Avoid outbound links. Make the next step as obvious as possible.
+
+Use numbered lists over plain bullets. Odd numbers perform better than even numbers.
+
+Keep your keywords in mind and use them in your copy to attract organic traffic.
+
+Keep it simple! Don’t use big words, and don’t use a design that’s too “busy,” etc. You want the page to be “scannable”.
+
+Don’t forget about color psychology.
+
+Use visual blocking. Breaking up the page with design and color contrast helps to organize it.
+
+Tip: If you’re struggling, try using Unbounce.
+
+3. Designing Your Call to Action
+
+The call to action is the most important part of any landing page. So much so that it needs its own section! There isn’t a single call to action that will work for everyone, but there are some guidelines you can follow to improve your odds of success. Here they are:
+
+Be descriptive. You will lose visitors if you are not exact about what you need from them, what you will give to them, and what the next step is.
+
+Keep the call to action “above the fold,” meaning visitors don’t need to scroll to see it. If your design doesn’t allow for that, have the page automatically scroll down to the call to action.
+
+Make it as easy as possible. Do you really need their business name? Or their last name? Maybe, but if you don’t absolutely need it, don’t ask for it. The less information you ask for, the better.
+
+Make any and all buttons big! They should stand out and draw attention. Take three steps back from your computer screen and squint your eyes. Do the buttons stand out? If not, you have a problem.
+
+Create a sense of urgency. Whether it’s a limited time promotion or simply a well-worded lead paragraph, create a sense of urgency. Make sure visitors think they have absolutely no time to wait or think it over.
+
+Don’t be generic with the button text. Using “Click Here” or “Submit” is a rookie mistake. Instead, be descriptive. “Get Free Trial” or “Subscribe via Email” will work much better.
+
+If the landing page is long, create a second call to action near the bottom of the page to capture more leads.
+
+4. Perfecting the Viral Loop
+
+There are two ways to perfect the viral loop: social media and refer a friend.
+
+With social media, you simply make it easy for visitors to share their activity. Whether they’re sending a pre-written tweet to their followers explaining that they just purchased your product or simply liking a page of your website, social media is an easy way to create a viral loop. Make sharing as easy as possible! Integrate social sharing with your customer acquisition process wherever you can.
+
+Tip: Create Click to Tweet links, which generate pre-written tweets when clicked.
+
+Dropbox does the refer-a-friend viral loop very well. They offer a certain amount of storage for free, but when you’ve reached the limit, you’ll need to pay. That is, unless you refer some friends for extra storage! So give people a reason to refer their friends to you because, chances are, they won’t do it without motivation.
+
+Once you’ve perfected the viral loop, you have a solid plan to multiply every visitor you send to the landing page (or every customer you acquire). Think of it as autopilot marketing that amplifies all of your efforts!
+
+5. Mastering the Right Platforms
+
+A. Identifying the Right Platforms
+
+To truly ensure you’re selecting the right platforms to work with, you’ll need to read each section below carefully. However, there are some general guidelines:
+
+If you’re targeting a younger audience, try Facebook. Because 88% of U.S. adults between the ages of 18-29 use Facebook (far more than #2, Instagram at 59%). Snapchat may also be a good option, as their largest demo is 18-34 year olds.
+
+If you’re targeting women, try Pinterest. About 38% of adult U.S. women use Pinterest.
+
+If you’re targeting a mobile audience, try iAds and Kiip. Choose platforms that cater specifically to mobile, not platforms that offer it as a side feature.
+
+If you’re targeting a general audience, try Facebook. 68% of U.S. adults use it. In fact, Facebook has more people in each demo than any social network – whether you’re targeting by gender, education, salary, or geographic type (urban, suburban, rural).
+
+B. Social Media
+
+This is data from early 2012 – notice how different it is than the numbers in the image above – which is data from January 2017.
+
+The first step is to determine where your ideal audience spends the most time. Next, remind yourself of your ultimate goal: driving traffic to your website in order to acquire new customers.
+
+Here’s how some of the top social media platforms fair when it comes to driving traffic to your website.
+
+Facebook: Between sharing buttons on third-party sites and rising engagement levels, Facebook is a great way to generate traffic.
+
+Twitter: If you can perfect the frequency of promotional content, Twitter can be a great way to generate traffic.
+
+LinkedIn: LinkedIn is not usually a significant source of traffic. It’s primarily best for raising brand awareness.
+
+Google+: Though not as good as Facebook and Twitter, Google+ can be a noteworthy source of traffic, especially if your page has earned a lot of +1s.
+
+YouTube: YouTube is all about video traffic. If you promote your link well in the video description and have engaging video content, it can be a good source of traffic. Otherwise, you might be out of luck.
+
+Instagram: The potential here is practically non-existent, as you can’t easily link to your landing page and it’s difficult to measure.
+
+Pinterest: Like Twitter and Facebook, Pinterest can be an incredible source of traffic. Add a “Pin It” button to images on your website to encourage engagement on the platform.
+
+C. Content Marketing
+
+Your social media efforts should tie in very closely here. Use social media to promote content marketing, all-the-time! New and exciting content is a non-spammy reason to send social traffic to your website. But first things first – you need to start creating high-quality content.
+
+Here are some of the most popular types of content and the resources you’ll need to create them.
+
+Blog: You’ll want to set up a WordPress* blog and install an SEO plugin like Yoast. Then, you can begin creating your editorial schedule. That is, make a list of the topics you’d like to write on, who you’d like to write each post, and when each post is due. For good measure, consider noting when each post will be published as well.
+
+You’ll need to recruit writers (consider taking on guest bloggers, which are typically free), a designer, and a developer. It’s up to you whether or not you’d like to hire someone to help you promote the blog content via social media and social bookmarking sites (e.g., Reddit and StumbleUpon).
+
+* We recommend WordPress as it has incredible plugins and is easy to manage yourself.
+
+Webinar: You’ll want to create an event using GoToWebinar or something similar. Then, get to work on creating your presentation. You should have a deck prepared ahead of time with speaking notes on each slide. Don’t use too many words. You don’t want attendees to be reading instead of listening.
+
+In the weeks leading up to the webinar, reach out to your friends and followers via email and social media. During the webinar, be sure to manage the chat periodically, noting any questions for the end of the webinar. Afterward, upload the deck to your blog for cross-promotion. You’ll likely just need a little time and effort here; no need to hire or outsource.
+
+eBook: Unless you’re a talented writer, designer, and developer, you’ll need some help on this one. The first step is, of course, to write the eBook content. Then, you’ll want to send it away to the designer. While you wait, you can start working on a promotion plan for the eBook. This should include social media, email, creating banners on the blog, etc. If you want to get more creative, you can even publish your eBook via Amazon! Also, have the developer start working on the eBook download landing page (if applicable). When the designed version of the eBook is ready to go, launch the landing page and the promotion plan! HubSpot does this exceptionally well with their devoted marketing whitepapers and eBooks section.
+
+Video: You might need some help creating video content as well. If you’re creating a demo video, you’ll need to look into a professional team of writers, editors, producers, animators, etc. Consider a company like Switch Video or Digital Brew, for example. In this case, you’ll be involved in the creative process, adding your input where possible. Otherwise, you’ll be fairly hands-off until the video is ready and it’s time for promotion. See the results of video first-hand by adding the demo video to your homepage and watching for conversion rate increases.
+
+While social media is pushing traffic to your new content, your content is designed to convert. Whether you have a call to action on your blog or a call to action on the last slide of your webinar deck, be sure your content marketing efforts are focused on two things: resonating with the audience and acquiring customers.
+
+Tip: Content marketing is 20% content creation and 80% content promotion.
+
+D. Public Relations
+
+Mastering the Right Platforms
+
+PR provides the opportunity to tell your story. And while, occasionally, some may associate PR with the creative ability to spin Jedi mind tricks on the audience, anyone who’s ever tackled startup PR knows it takes a whole lot more than just smoke and mirrors to wow the masses.
+
+Make Friends Now – Not When You Need a Kidney
+
+PR is all about relationships and where you stand in them. Ideally, you want to be viewed not only as an expert in your industry but as influential, too. You can’t change the industry without an army of followers. PR is critical in building your network and acquiring users, even before scaling. It helps tell your story and gets people to become a part of it, including potential investors.
+
+But before you can become influential, you need to pay your dues, build credibility. Always remember to approach PR tactfully and remember the golden rule – pitch sensibly, i.e., know who will care. It’s a big world out there, and by identifying your audience, you’re already ahead of the game. These are the people you need to engage. This also includes journalists. Get to know them now.
+
+He Who Is Unprepared Gets Left Behind
+
+You don’t get ahead by falling behind. Always be prepared and think ten steps ahead. This includes knowing what the media will want and having it on hand long before your first media push. Always know your story. You never know when you may get asked about it.
+
+Build your PR assets (media kit, founder bios, team photos) early on, before things become overwhelming. You can always revamp them along the way, if necessary. Make your assets original and sexy, not traditional and boring. Always ensure your media releases include a unique hook. Focus on why your product is newsworthy and less on the what. Lure potential users in from your landing page with a killer explainer video.
+
+Have the Courage to Say “Stop”
+
+Sometimes it takes a lot of guts to say stop. Especially when you’ve invested time and money into preparing for something big, like a launch. The question you need to ask yourself is: am I really ready for this? Is my product ready for this? Your ability to acknowledge insufficient confidence is a gut instinct you need to listen to.
+
+The biggest mistake we see startups make – we’ve said this before – is that they want press and attention when they aren’t ready for it. Aside from the obvious (your product is ready to be shipped and the bugs have been fixed), ask yourself if your brand is ready to be noticed. Is your website where you want it to be? Does your blog have great, shareable content? Are you active on social media? Most importantly, are you ready to measure the traffic you’re about to receive?
+
+Saying stop isn’t a bad thing nor is it a failure. It’s having the confidence to know you can do better and your potential customers deserve better.
+
+Good Things Don’t Come to Those Who Wait
+
+Very few brands or products have seen widespread press coverage without the help of PR. Great press doesn’t typically appear out of thin air. It takes effort and mindshare. Always be pitching.
+
+Start by identifying what’s newsworthy. It could be a funding announcement, product launch or relaunch, key feature release, or product milestone. This will help you determine a press / media schedule. Next, identify who you want to cover it. You should be engaging with them already. The right journalist, media, and audience are everything.
+
+No news is not an excuse. Always be pitching your brand. Pitch guest submissions to third party sites or blogs. Offer to comment on industry trends as an expert in your industry. Affiliate yourself with startup organizations that have mandates that include helping members get press. Even when you think you’ve run out of ways to promote your brand, take it back to the drawing board and start again.
+
+Don’t Be a Know-It-All
+
+Inbound traffic from press coverage or guest submissions is only as valuable as your ability to measure it. PR is hard work and worthless unless you can learn from it. Use the metrics you’ve set in place to see where your audience comes from. What works? What doesn’t? You may be surprised.
+
+Identifying what’s converting and what isn’t is one of the biggest indicators of a vanity win versus an actual win. PR opens up the possibility of receiving leads from every angle, but you should be focusing on only those who convert. Things aren’t always as they seem, and sometimes even the biggest publications (TechCrunch, Forbes, etc.) won’t get you the leads that a smaller publication geared toward your audience will.
+
+E. Pay Per Click (PPC)
+
+So far, we’ve been talking a lot about inbound customer acquisition platforms. There’s absolutely nothing wrong with outbound marketing. If advertising has proven to be successful in your industry, then here are some options that will help drive traffic to your landing page.
+
+AdWords: AdWords allows you to choose between display ads and search ads. Display ads often are referred to as banner ads. They’re graphical and are among the most popular types of ads. They’ll appear on relevant websites. Search ads are what you see beside your Google search results. You can bid based on search keywords. Both of these are incredibly popular, and can be quite successful if you can maintain a good quality score and have a strategic keyword plan. Use the Google Keyword Planner to help you find quality keywords.
+
+Facebook Ads: Facebook Ads can be used to promote your Facebook page, of course. But they also can be used to promote landing pages outside of Facebook. The one disadvantage when using Facebook Ads is that the restrictions on ad art, copy, and URLs are plentiful. But if you can navigate the Facebook Ads rules, this is a great PPC option. Note that the image you select will have a huge impact on the success of your ad. Try to choose something oddball, something that will make Facebook users stop and think, “What’s that an ad for?”
+
+Tip: Images with smiling women tend to convert best.
+
+Floating Ads: Floating ads are the new popups. Instead of popping up in a new window, the ads simply hover over the current window. They require the user to click away from the ad to close it. It’s less obtrusive and far less spammy than the popup ad. With floating ads, the important thing is to highlight the benefit immediately. While these ads are more tolerable than popups, people don’t like being interrupted because you need a favor. Instead, offer a free eBook or recorded webinar in exchange for your favor. Use floating ads on partner websites (to drive traffic) or on your own website (to capture emails).
+
+Analyze and Optimize
+
+1. Tools and Software
+
+There are two types of analytics tools you’ll want to consider: the what analytics and the who analytics.
+
+Google Analytics, which is a great free tool, will tell you what’s happening on your website. You can set up funnels, track traffic, view sources and referrals, set up event and goal tracking – the usual. You’ll want to have a tool that tracks the what. While there are many alternatives to Google Analytics, it definitely is one of the most widely used (and for good reason).
+
+On the other hand, tools like Kissmetrics will tell you about the who. Who is viewing your website? What did they do before and after they signed up? How is your site being used? Google Analytics can’t give you in-depth data about the people using your website or your customers, which is important data if you want to optimize your calls to action and landing pages.
+
+For best results, invest in both types of analytics tools. They’ll “fill the gaps” and give you a complete picture if used together. You’ll know exactly what’s happening and exactly who’s responsible.
+
+2. Optimizing for Best Results
+
+I can say this with complete confidence: your landing pages and calls to action are not perfect. The slightest tweak could cause a 30% increase in conversions. Changing the sign-up button from blue to pink could change everything. Adding a HelloBar could lead to 1,180 emails in 30 days. The key is to test until you think you’ve absolutely perfected your landing pages and calls to action. Then test some more.
+
+A common question is: should I do multivariate testing or A/B testing? A/B testing obviously is more accurate. By testing one thing at a time, you’ll get a more concrete answer to the question, “What if?” Unfortunately, A/B testing means your testing process will be slow. (Keep in mind you’ll need to wait a week or more each time to get any real results.)
+
+The solution? Compromise. Start with multivariate testing. Test 2-3 things all at once. If you notice a significant change (in the right direction), start A/B testing to isolate the success. If you don’t notice a change, try another multivariate test. Rinse and repeat!
+
+Here are some key elements of a landing page that you should be testing (you’ll recognize these from above):
+
+The main image. This likely will be the first thing your visitors will notice, so choose wisely.
+
+The call to action. This has to demand attention. It’s the ultimate conversion point.
+
+The headline. Tie the headline into the landing page referral source (e.g., ad copy, HelloBar copy) to confirm visitors are in the right place.
+
+The benefits. Always list benefits over features. Use bullet points or numbered lists here to increase readability.
+
+The proof. You’ll want to note any guarantees, security certificates, and social proof. Highlight positive tweets or your 100% satisfaction guarantee.
+
+Of course, the list doesn’t end there. Every landing page is different. There are no hard and fast rules about optimization… Just best practices. And, unfortunately, best practices aren’t always best for you. Always be testing!
+
+3. Measure What Matters
+
+Between analytics for the what and analytics for the who, it’s easy to get lost in data. Knowing that you need to be monitoring analytics and investing in the right tools is only half the battle. You also need to be sure you’re monitoring the right metrics because, rest assured, you can’t monitor them all.
+
+Start by identifying your goals and work backwards. In this case, your goal is to acquire customers. So, you’ll want to build a funnel. Maybe the top of the funnel is an email submission. From there, an email is sent about a free trial offer. Finally, the free trial users will convert to paying customers.
+
+That’s an oversimplified funnel, but it leaves us with three main points: email submission, free trial request, and final sale. You’ll want to identify three core metrics for each stage of the funnel. The percentage who convert to paying customers, the number of people who give their email, etc.
+
+Pick three metrics for each stage of the funnel that give you a full, accurate picture. You want to fully understand each of the three stages so that you can better understand the customer acquisition process as a whole.
+
+Marketers should beware of vanity metrics. You know the ones. The ones that make you feel good about your efforts, but have no real value. Think Twitter followers and Facebook fans. But vanity metrics don’t begin and end with social media, so don’t fool yourself. For each of your selected metrics, be sure you can demonstrate how that number impacts the goal at that stage of the funnel.
+
+Tip: If a metric cannot be directly tied to customer acquisition, ditch it.
+
+4. What if the numbers don’t add up?
+
+What if, despite your best efforts, the numbers just aren’t adding up? You’ve defined your audience, picked the platforms, set up your analytics and… Nothing. The number one problem likely is the platforms you’ve selected. Experiment with other platforms and see what works best.
+
+You’ll never know until you try. While Facebook ads might seem like the more “mainstream” choice, StumbleUpon ads might work 10 times better for you. Take some time to re-evaluate. Be sure you selected the right platforms for your audience. If you’re absolutely sure it’s not the platforms, take a closer look at the details.
+
+Is there something missing from your Twitter strategy? Could you be doing more SEO? Is your media list too narrow? Are your AdWords bids too low? Take a look at the minor details and start testing!
+
+Don’t get discouraged if you don’t get the winning formula the first time around. Customer acquisition is a game of experimentation and constant tweaking.
+
+Best Practices and Secret Weapons
+
+1. Mad Lib Form
+
+Instead of the traditional sign up or email capture form, try a mad lib style form. A traditional form might ask for your name, username, email, and password. A mad lib form would ask for the same information, but in a unique way. For example: “Hi, my name is <first> <last>. I’d like my username to be <username>. If you need to get in touch, my email is <email>. Oh, and I’d like my password to be <password>.”
+
+Mad lib forms have increased conversions by 25-40%. Why? It should be no surprise to the modern marketer that people love narratives (just ask Seth Godin). The fun, narrative forms tend to outperform the basic, traditional forms.
+
+This can be hit or miss, depending on your audience. Younger audiences (think GenY and young GenX) tend to prefer the mad lib style, while older audiences like to “stick to the basics.” Test it for yourself! It’s an underused tactic that typically leads to big results.
+
+2. Free Trial
+
+This is where psychology comes into play. Have you ever heard of the foot-in-the-door technique? There is a very famous study that asked families to put large “Drive Carefully” signs on their front yards. Previously, half of them had been asked to put a small sign in their front window. Almost all of them agreed to the small sign, and 76% of those who put the small sign in their window later agreed to put the large sign on their front yards. Only 17% of those who were not asked to put the small sign up agreed to the large sign.
+
+What does that mean for customer acquisition? It means you want to ask for something small before asking for something big. To put that into context, you might ask for an email address. Later, via email, you would ask for a sale. Those who submit their email are, according to the study above, 7 times more likely to make a purchase than those who do not submit their email.
+
+Free trials are a great way to capitalize on this. Offer a 10, 15, or 30 day trial. The sale may be delayed, but it is exponentially more likely to pan out.
+
+3. Live Help
+
+Live help tools like ZopIM are invaluable. The major drawback of shopping online is the lack of customer support. Keep in mind that only 1% of consumers are always satisfied with their customer experience. Live help tools help solve that problem by allowing you to connect with your customers before and during a purchase.
+
+If you operate in the ecommerce market, you literally can’t afford to not be using a live help tool. It’s been proven to increase sales by up to 300%.
+
+Live help tools are underused and misused. Set up delayed triggers that ping your website visitors after they’ve been on the website for so long. Don’t just wait for them to contact you. Many of them will ignore you or politely decline your help, but some will accept the open invitation to chat. And doesn’t a quick chat sound a lot like a small sign in the window?
+
+Tip: Test the initial live help contact messaging for best results. The smallest change can have a huge effect.
+
+4. Email Marketing
+
+This weapon isn’t so secret. It’s common knowledge that email marketing is a powerful customer acquisition tool. First of all, the foot-in-the-door technique applies. Second, you have permission to push marketing messaging to an entire list of people.
+
+There are two main ways to use email marketing in the customer acquisition process: following up and increasing retention.
+
+Capturing an email is an easy way to reach out to a potential customer down the road. Say, when you have a discount or a special offer to follow up with. As long as you don’t abuse the list (leading to unsubscribers), you literally have a list of people who are somewhat interested in your product and are open to being contacted again.
+
+Email also is a great way to improve your customer retention. The most valuable customer is the one you don’t lose. Keeping customers is just as important as acquiring new customers. Reach out to let them know about any outstanding notifications, recent updates, etc. Reignite their interest in your product via email. Remind them of what’s going on, of what they’re missing out on, etc.
+
+Conclusion
+
+There is more than one way to approach customer acquisition. Many different paths can lead to the same place. Choosing the right path for you depends on your audience and your customer acquisition funnel. But with the insights above, you should have no trouble creating a customer acquisition plan that works for you and your company. It’ll be unique, but it will be strategic and based on years of experience. The truth is there is no ultimate secret to customer acquisition. It’s a series of tactics integrated together to create a custom process just for you.
+
+About the Author: Renée Warren is the Co-Founder of Onboardly, a company focused on helping funded technology startups be more visible and acquire more customers. They do this through Content Marketing, startup PR, and Social Media. Subscribe to their blog here!

@@ -1,0 +1,151 @@
+Editors' note: This story was originally published on Dec. 9, 2014, and has been updated frequently with latest information.
+
+When it comes to home networking, there's a soup of technical terms, LAN, WAN, broadband, Wi-Fi, CAT5e, just to name a few. If you're having a hard time with these basic terms, you're reading the right post. Here I'll (try to) explain them all so that you can have a better understanding of your home network and hopefully a better control of your online life. There's a lot to explain so this long post is just the first of an evolving series.
+
+Advanced and experienced users likely won't need this, but for the rest, I'd recommend reading the whole thing. So take your time, but in case you want to jump to a quick answer, feel free to search for what you want to know and chances are you will find it within this post.
+
+1. Wired networking
+
+A wired local network is basically a group of devices connected to one another using network cables, more often than not with the help of a router, which brings us to the very first thing you should know about your network.
+
+Router: This is the central device of a home network into which you can plug one end of a network cable. The other end of the cable goes into a networking device that has a network port. If you want to add more network devices to a router, you'll need more cables and more ports on the router. These ports, both on the router and on the end devices, are called Local Area Network (LAN) ports. They are also known as RJ45 ports or Ethernet ports. The moment you plug a device into a router, you have yourself a wired network. Networking devices that come with an RJ45 network port are called Ethernet-ready devices. More on this below.
+
+Note: Technically, you can skip the router and connect two computers directly together using one network cable to form a network of two. However, this requires manually configuring the IP addresses, or using a special crossover cable, for the connection to work. You don't really want to do that.
+
+Josh Miller/CNET
+
+LAN ports: A home router usually has four LAN ports, meaning that, straight out of the box, it can host a network of up to four wired networking devices. If you want to have a larger network, you will need to resort to a switch (or a hub), which adds more LAN ports to the router. Generally a home router can connect up to about 250 networking devices, and the majority of homes and even small businesses don't need more than that.
+
+There are currently two main speed standards for LAN ports: Ethernet (also called Fast Ethernet,) which caps at 100 megabits per second (or about 13 megabytes per second), and Gigabit Ethernet, which caps at 1 gigabit per second (or about 150 MBps). In other words, it takes about a minute to transfer a CD's worth of data (around 700 MB or about 250 digital songs) over an Ethernet connection. With Gigabit Ethernet, the same job takes about five seconds. In real life, the average speed of an Ethernet connection is about 8 MBps, and of a Gigabit Ethernet connection is somewhere between 45 and 100 MBps. The actual speed of a network connection depends on many factors, such as the end devices being used, the quality of the cable and the amount of traffic.
+
+Rule of thumb: The speed of a single network connection is determined by the slowest speed of any party involved.
+
+For example, in order to have a wired Gigabit Ethernet connection between two computers, both computers, the router they are connected to and the cables used to link them together all need to support Gigabit Ethernet (or a faster standard). If you plug a Gigabit Ethernet device and an regular Ethernet device into a router, the connection between the two will be capped at the speed of Ethernet, which is 100 Mbps.
+
+In short, LAN ports on a router allow Ethernet-ready devices to connect to one another and share data.
+
+In order for them to also access the internet, the router needs to have a Wide Area Network (WAN) port. On many routers, this port may also be labeled the internet port.
+
+Dong Ngo/CNET
+
+Switch vs. hub: A hub and a switch both add more LAN ports to an existing network. They help increase the number of Ethernet-ready clients that a network can host. The main difference between hubs and switches is a hub uses one shared channel for all of its ports, while a switch has a dedicated channel for each one. This means the more clients you connect to a hub, the slower the data rate gets for each client, whereas with a switch the speed doesn't change according to the number of connected clients. For this reason, hubs are much cheaper than switches with the same number of ports.
+
+However, hubs are largely obsolete now, since the cost of switches has come down significantly. The price of a switch generally varies based on its standard (regular Ethernet or Gigabit Ethernet, with the latter being more expensive), and the number of ports (the more ports, the higher the price).
+
+You can find a switch with just four or up to 48 ports (or even more). Note that the total of extra wired clients you can add to a network is equal to the switch's total number of ports minus one. For example, a four-port switch will add another three clients to the network. This is because you need to use one of the ports to connect the switch itself to the network, which, by the way, also uses another port of the existing network. With this in mind, make sure you buy a switch with significantly more ports than the number of clients you intend to add to the network.
+
+Wide-area network (WAN) port: Also known as the internet port. Generally, a router has just one WAN port. (Some business routers come with dual WAN ports, so one can use two separate internet services at a time.) On any router, the WAN port will be separated from the LAN ports, and is often distinguished by being a different color. A WAN port is used to connect to an internet source, such as a broadband modem. The WAN allows the router to connect to the internet and share that connection with all the Ethernet-ready devices connected to it.
+
+Broadband modem: Often called a DSL modem or cable modem, a broadband modem is a device that bridges the internet connection from a service provider to a computer or to a router, making the internet available to consumers. Generally, a modem has one LAN port (to connect to a router's WAN port, or to an Ethernet-ready device) and one service-related port, such as a telephone port (DSL modems) or a coaxial port (cable modems), that connects to the service line. If you have just a modem, you'll be able to connect just one Ethernet-ready device, such as a computer, to the internet. To hook up more than one device to the internet, you will need a router. Providers tend to offer a combo device that's a combination of a modem and a router or wireless router, all in one.
+
+Network cables: These are the cables used to connect network devices to a router or a switch. They are also known as Category 5 cables, or CAT5 cables. Currently, most CAT5 cables on the market are actually CAT5e, which are capable of delivering Gigabit Ethernet data speeds (1,000 Mbps). The latest network cabling standard currently in use is CAT6, which is designed to be faster and more reliable than CAT5e. The difference between the two is the wiring inside the cable and at both ends of it. CAT5e and CAT6 cables can be used interchangeably, and in my personal experience their performance is essentially the same. For most home usage, what CAT5e has to offer is more than enough. In fact, you probably won't notice any difference if you switch to CAT6, but it doesn't hurt to use CAT6 if you can afford it to be future-proof. Also, network cables are the same, no matter how they shape, round or flat.
+
+Now that we're clear on wired networks, let's move on to a wireless network.
+
+2. Wireless networking
+
+A wireless network is very similar to a wired network with one big difference: Devices don't use cables to connect to the router and one another. Instead, they use radio wireless connections called Wi-Fi (Wireless Fidelity), which is a friendly name for the 802.11 networking standards supported by the Institute of Electrical and Electronics Engineers (IEEE). Wireless networking devices don't need to have ports, just antennas, which are sometimes hidden inside the device itself. In a typical home network, there are generally both wired and wireless devices, and they can all talk to one another. In order to have a Wi-Fi connection, there needs to be an access point and a Wi-Fi client.
+
+Basic terms
+
+Dong Ngo/CNET
+
+Access point: An access point (AP) is a central device that broadcasts a Wi-Fi signal for Wi-Fi clients to connect to. Generally, each wireless network, like those you see popping up on your phone's screen as you walk around a big city, belongs to one access point. You can buy an AP separately and connect it to a router or a switch to add Wi-Fi support to a wired network, but generally, you want to buy a wireless router, which is a regular router (one WAN port, multiple LAN ports and so on) with a built-in access point. Some routers even come with more than one access point (see discussion of dual-band and tri-band routers below).
+
+Wi-Fi client: A Wi-Fi client or WLAN client is a device that can detect the signal broadcast by an access point, connect to it and maintain the connection. All recent laptops, phones and tablets on the market come with built-in Wi-Fi capability. Older devices and desktop computers that don't can be upgraded to that via a USB or PCIe Wi-Fi adapter. Think of a Wi-Fi client as a device that has an invisible network port and an invisible network cable. This metaphorical cable is as long as the range of a Wi-Fi signal broadcast by an access point.
+
+Note: The type of Wi-Fi connection mentioned above is established in the Infrastructure mode, which is the most popular mode in real-life usage. Technically, you can skip an access point and make two Wi-Fi clients connect directly to each other, in the Adhoc mode. However, as with using a crossover network cable, this is rather complicated and inefficient.
+
+Wi-Fi range: This is the radius an access point's Wi-Fi signal can reach. Typically, a good Wi-Fi network is most viable within about 150 feet from the access point. This distance, however, changes based on the power of the devices involved, the environment and (most importantly) the Wi-Fi standard. The Wi-Fi standard also determines how fast a wireless connection can be and is the reason Wi-Fi gets complicated and confusing, especially when considering the fact there are multiple Wi-Fi frequency bands.
+
+Frequency bands: These bands are the radio frequencies used by the Wi-Fi standards: 2.4 GHz and 5 GHz. The 2.4 GHz and 5 Ghz bands are currently the most popular, collectively being used in all existing network devices. Generally, the 5 Ghz band delivers faster data rates but a little less range than the 2.4 Ghz band. Note that a 60 GHz band is also used but only by the 802.11ad standard, which is not yet commercially available.
+
+Depending on the standard, some Wi-Fi devices use either the 2.4 GHz or the 5 GHz band, while others that use both of these are called dual-band devices.
+
+Wi-Fi standards
+
+Wi-Fi standards decide the speed and range of a Wi-Fi network. Generally later standards are backward compatible with earlier ones.
+
+
+
+802.11b: This was the first commercialized wireless standard. It offers a top speed of 11 Mbps and operates only on the 2.4 GHz frequency band. The standard was first available in 1999 and is now totally obsolete; 802.11b clients, however, are still supported by access points of later Wi-Fi standards.
+
+802.11a: Similar to 802.11b in terms of age, 802.11a offers a speed cap of 54 Mbps at the expense of much shorter range, and uses the 5 GHz band. It's also now obsolete, though it's still supported by new access points for backward compatibility.
+
+802.11g: Introduced in 2003, the 802.11g standard marked the first time wireless networking was called Wi-Fi. The standard offers the top speed of 54 Mbps but operates on the 2.4 GHz band, hence permitting better range than the 802.11a standard. It's used by many older mobile devices, such as the iPhone 3G and the iPhone 3Gs. This standard is supported by access points of later standards. 802.11g is also becoming obsolete.
+
+802.11n or Wireless-N: Available since 2009, 802.11n has been the most popular Wi-Fi standard, with lots of improvements over the previous ones, such as making the range of the 5 GHz band more comparable to that of the 2.4 GHz band. The standard operates on both 2.4 GHz and 5 GHz bands and started a new era of dual-band routers, which accommodate two access points, one for each band. There are two types of dual-band routers: selectable dual-band routers (now defunct) that can operate in one band at a time and true dual-band routers that simultaneously transmit Wi-Fi signals on both bands.
+
+On each band, the Wireless-N standard is available in three setups, depending on the number of spatial streams being used: single-stream (1x1), dual-stream (2x2) and three-stream (3x3), offering cap speeds of 150 Mbps, 300 Mbps and 450 Mbps, respectively. This in turns creates three types of true dual-band routers: N600 (each of the two bands offers a 300 Mbps speed cap), N750 (one band has a 300 Mbps speed cap while the other caps at 450 Mbps) and N900 (each of the two bands allows up to 450 Mbps cap speed).
+
+Note: In order to create a Wi-Fi connection, both the access point (router) and the client need to operate on the same frequency band. For example, a 2.4 GHz client, such as an iPhone 4, won't be able to connect to a 5 GHz access point. Also, a Wi-Fi connection takes place on just one band at a time. If you have a dual-band capable client (such as the iPhone 6) with a dual-band router, the two will connect on just one band, likely the 5 Ghz.
+
+802.11ac: Sometimes referred to as 5G Wi-Fi, this latest Wi-Fi standard operates only on the 5 GHz frequency band and currently offers Wi-Fi speeds of up to 2,167 Mbps (or even faster with latest chip) when used in the quad-stream (4x4) setup. The standard also comes with the 3x3, 2x2, 1x1 setups that cap at 1,300 Mbps, 900 Mbps and 450 Mbps, respectively.
+
+Technically, each spatial stream of the 802.11ac standard is about four times faster than that of the 802.11n (or Wireless-N) standard, and therefore is much better for battery life (since it has to work less to deliver the same amount of data). In real-world testing so far, with the same amount of streams, I've found that 802.11ac is about three times the speed of Wireless-N, which is still very good. (Note that the real-world sustained speeds of wireless standards are always much lower than the theoretical speed cap. This is partly because the cap speed is determined in controlled, interference-free environments.) The fastest peak real-world speed of an 802.11ac connection I've seen so far is around 90 MBps (or 720 Mbps), which is close to that of a Gigabit Ethernet wired connection.
+
+On the same 5 GHz band, 802.11ac devices are backward-compatible with Wireless-N and 802.11a devices. While 802.11ac is not available on the 2.4 GHz band, for compatibility purposes, an 802.11ac router can also serve as a Wireless-N access point. That said, all 802.11ac chips on the market support both 802.11ac and 802.11n Wi-Fi standards.
+
+Josh Miller/CNET
+
+802.11ad or WiGig: First introduced in 2009, the 802.11ad wireless networking standard became part of the Wi-Fi ecosystem at CES 2013. Prior to that, it was considered a different type of wireless networking. 2016 marked the year when the first 802.11ad router, the TP-Link Talon AD7200, became available.
+
+Operating in the 60 Ghz frequency band, the 802.11ad Wi-Fi standard has an extremely high speed -- up to 7 Gbps -- but a disappointingly short range (about one-tenth of 802.11ac.) It can't penetrate walls very well, either. For this reason, the new standard is a supplement to the existing 802.11ac standard and is intended for devices that sit within a close proximity of the router.
+
+It's an ideal wireless solution for devices at a close range, with a clear line of sight (no obstacles in between) such as between a laptop and its base-station, or a set-top box and a big screen TV. All 802.11ad routers will also work as 802.11ac routers and support all existing Wi-Fi clients, but only 802.11ad devices can connect to the router at high speed over the 60 Ghz band.
+
+802.11ax: This is the next generation of Wi-Fi, set to supersede 802.11ac. Like 802.11ac, the new 802.11ax is backward compatible with previous Wi-Fi generations. However, it's the first standard that focuses not only on faster speed but also on Wi-Fi efficiency, especially in crowded air space. In other words, 802.11ax aims to maintain network capacity even during less than ideal conditions. Ultimately, this means it allows for higher ratio of real-world speed versus theoretical ceiling speed. It's also said to reduce energy consumption by two thirds compared to 802.11ac, which is great news for mobile users.
+
+On paper, 802.11ax can be four times faster than 802.11ac, up to some 5 Gbps. Also, an 802.11ax router can boost existing pre-802.11ax Wi-Fi devices' real-world speeds thanks to its ability to manage traffic diversity in dense, overlapping networks. 2017 is the year that networking chip makers, such as Qualcomm, introduced their first 802.11ax chips. That said, consumer devices that support 802.11ax are predicted to be available by the end of 2017 or early 2018.
+
+Wi-Fi designations
+
+Wi-Fi designations are the way networking vendors market their Wi-Fi routers in an effort to differentiate between them. Since there are so many Wi-Fi standards and tiers, the designations can be confusing and don't always accurately indicate the speeds of the routers.
+
+
+
+600 Mbps 802.11n: As mentioned above, the top commercial speed of 802.11n is 450 Mbps. However, in June 2013, Broadcom introduced a new 802.11ac chipset with TurboQAM technology that raises the speed of 802.11n to 600 Mbps. And also for this reason, 802.11ac routers are now generally marketed as AC2500 (also known as AC2350 or AC2400,) AC1900, AC1750 or AC1200 and so on. This designation basically means it's an AC-enabled router that offers a combined wireless speed on both bands equal to the number. For example, an AC1900 router is capable of providing up to 1,300 Mbps on the 5 GHz band and up to 600 Mbps on the 24 GHz band. With more and more advanced Wi-Fi chips being developed, 802.11ac has many more designations below.
+
+That said, let me state the rule of thumb one more time: The speed of a single network connection (one pair) is determined by the slowest speed of any of the parties involved. That means if you use an 802.11ac router with an 802.11a client, the connection will cap at 54 Mbps. In order to get the top 802.11ac speed, you will need to use a device that's also 802.11ac-capable. Also right now, the fastest 802.11ac clients on the market have the top speed on paper of 1,300 Mbps, which is equally to the speed of the AC1900 designation. This means getting routers of higher designations are unlikely to bring you benefits in Wi-Fi speeds.
+
+AC3200: In April 2014, Broadcom introduced the 5G XStream Wi-Fi chip that allows for a second built-in 5 Ghz band on the three-stream 802.11ac standard, thus ushering in a new type of tri-band router. This means that, unlike a dual-band AC1900 router that has one 2.4 Ghz band and one 5 Ghz band, a tri-band router -- such as the Netgear R8000 or the Asus RT-AC3200 -- the tri-band router will have one 2.4 Ghz band and two 5 Ghz bands, all of which operate at the same time. In other words, a tri-band router, for now, is basically an AC1900 router with an additional 803.11ac access point built in. With two separate 5 Ghz bands, both high- and low-end clients can operate in their own band at their respective top speeds without affecting each other. On top of that, two 5 Ghz bands also help reduce the stress each places on the band when there are many connected clients fighting for the router's bandwidth.
+
+AC5300: Also known as AC5400, this designation was introduced in 2015. An AC5300 router is a tri-band router (two 5 Ghz bands and one 2.4 GHz band). Each of the 5 Ghz bands have a peak Wi-Fi speed of 2,167 Mbps and the 2.4 GHz band has a cap of 1,000 Mbps.
+
+AC3100: Also known as AC3150, this new designation shares the same Wi-Fi chip as the AC5300 above but in a dual-band setup, the router has one 5 Ghz band (2,167 Mbps cap) and one 2.4 Ghz band (1,000 Mbps cap).
+
+AD7200: This is the latest designation starting with the availability of the 802.11ad routers. This means the router has the top speed on the 60 Ghz band (802.11ad) of 4,600 Mbps, on the 5 Ghz band of 1,733 Mbps and on the 2.4Ghz band of 800 Mbps.
+
+802.11ac Wi-Fi designations Wi-Fi designation Router type Total Wi-Fi bandwidth Top 5Ghz speed Top 2.4 Ghz speed Example product AC5300 / AC5400 Tri-band 5,334 Mbps 2,167 Mbps x 2 bands 1,000 Mbps Netgear X8 R8500 AC3200 Tri-band 3,200 Mbps 1,300 Mbps x 2 bands 600 Mbps Asus RT-AC3200 AC3100 Dual-band 3,167 Mbps 2,167 Mbps 1,000 Mbps Asus RT-AC88U AC2500 / AC2400 / AC2350 Dual-band 2,333 Mbps 1,733 Mbps 600 Mbps Linksys E8350 AC1900 Dual-band 1,900 Mbps 1,300 Mbps 600 Mbps Linksys WRT1900ACS AC1750 Dual-band 1,750 Mbps 1,300 Mbps 450 Mbps Asus RT-AC66U
+
+3. More on wireless networking
+
+In wired networking, a connection is established the moment you plug the ends of a network cable into the two respective devices. In wireless networking, it's more complicated than that.
+
+Since the Wi-Fi signal broadcast by the access point is literally sent through the air, anybody with a Wi-Fi client can connect to it, and that might pose a serious security risk. So only approved clients can connect, the Wi-Fi network should be password-protected (or in more serious terms, encrypted). Currently, there are a few methods used to protect a Wi-Fi network, called "authentication methods": WEP, WPA and WPA2, with WPA2 being the most secure while WEP is becoming obsolete. WPA2 (as well as WPA) offers two ways to encrypt the signal, which are Temporal Key Integrity Protocol (TKIP) and Advanced Encryption Standard (AES). The former is for compatibility, allowing legacy clients to connect; the latter allows for faster connection speeds and is more secure but works only with newer clients. From the side of the access point or router, the owner can set the password (or encryption key) that clients can use to connect to the Wi-Fi network.
+
+If the above paragraph seems complicated, that's because Wi-Fi encryption is very complicated. To help make life easier, the Wi-Fi Alliance offers an easier method called Wi-Fi Protected Setup.
+
+Wi-Fi Protected Setup (WPS): Introduced in 2007, Wi-Fi Protected Setup is a standard that makes it easy to establish a secure Wi-Fi network. The most popular implementation of WPS is via push-button. Here's how it works: On the router's (access point) side, you press the WPS button. Then, within two minutes, you must press the WPS button on your Wi-Fi client and you'll be connected. This way you don't have to remember the password (encryption key) or type it in. Note that this method works only with devices that support WPS. Most networking devices released in the last few years do, however.
+
+Wi-Fi Direct: This is a standard that enables Wi-Fi clients to connect to one another without a physical access point. Basically, this allows one Wi-Fi client, such as a phone, to turn itself into a "soft" access point and broadcast Wi-Fi signals that other Wi-Fi clients can connect to. This standard is very useful when you want to share an internet connection. For example, you can connect your laptop's LAN port to an internet source, such as in a hotel, and turn its Wi-Fi client into a soft AP. Now other Wi-Fi clients can also access that internet connection. Wi-Fi Direct is actually most popularly used in phones and tablets, where the mobile device shares its cellular internet connection with other Wi-Fi devices, in a feature called personal hotspot.
+
+Multi-User Multiple Input Multiple Output
+
+Multi-User Multiple Input Multiple Output (MU-MIMO) is a technology first introduced with the Qualcomm MU/EFX 802.11AC Wi-Fi chip. It's designed to handle Wi-Fi bandwidth efficiently, hence iy is capable of delivering better data rates to multiple connected clients simultaneously.
+
+Specifically, existing 802.11AC routers (or Wi-Fi access points) employ the original MIMO technology (aka single-user MIMO) and that means they treat all Wi-Fi clients the same, regardless of their Wi-Fi power. Since a router typically has more Wi-Fi power than a client in a particular wireless connection, the router is hardly used at full capacity. For example, a three-stream 802.11ac router, such as the Linksys WRT1900AC, has a max Wi-Fi rate of 1,300 Mbps, but the iPhone 6s has a max Wi-Fi rate of just 833 Mbps (dual-stream). When the two are connected, the router still uses the entire 1,300 Mbps transmission to the phone, wasting 433 Mbps. This is similar to going to a coffee shop to get a small cup of coffee and the only option is the extra large.
+
+With MU-MIMO, multiple simultaneous transmissions of different Wi-Fi tiers are sent to multiple devices at the same time, enabling them to connect at the speed each client needs. In other words, having a MU-MIMO Wi-Fi network is like having multiple wireless routers of different Wi-Fi tiers. Each of these "routers" is dedicated to each tier of devices in the network so that multiple devices can connect at the same time without slowing one another down. To continue the earlier analogy, this is like having multiple coffee attendants in the shop, each of whom gives out different cup sizes so that customers can get the exact size they need, and faster.
+
+In order for MU-MIMO to work at its best, the technology needs to be supported by both the router and the connected clients. There are many clients on the market supporting MU-MIMO now, and it's predicted that by the end of 2016, all new clients will support this technology.
+
+4. Power line networking
+
+When it comes to networking, you probably don't want to run network cables all over the place, making Wi-Fi a great alternative. Unfortunately there are some places, such as that corner of the basement, that a Wi-Fi signal won't reach, either because it's too far away or because there are thick concrete walls in between them. In this case, the best solution is a pair of power line adapters.
+
+Power line adapters basically turn the electrical wiring of your home into cables for a computer network. You need at least two power line adapters to form the first power line connection. The first adapter is connected to the router and the second to the Ethernet-ready device elsewhere in the building. More on power line devices can be found here.
+
+Currently a power line connection in top condition can deliver the real-world speed equal to about half that of a Gigabit wired connection.
+
+That's it. Want to learn more about how to best optimize your Wi-Fi network? Check out Part 2 of this series.

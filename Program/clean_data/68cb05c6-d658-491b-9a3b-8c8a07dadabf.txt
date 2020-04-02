@@ -1,0 +1,31 @@
+Twitch today is introducing a suite of tools called Twitch Extensions that will allow its streamers to customize their channel pages with interactive features, including polls, leaderboards, tickers, schedules, overlays and even virtual pets, among other things. Beyond simply personalizing their channel to make it more engaging to fans, the extensions in some cases will help streamers generate additional revenue.
+
+In particular, one extension called “Gear on Amazon” allows Twitch creators to show off their favorite Amazon products. If a viewer clicks through to purchase, the creator will earn a commission through the Amazon Associates program.
+
+This extension will be available to both Twitch Partners and Affiliates, and is the first time that Twitch’s streamers have been invited to join the program, even though Amazon owns Twitch. To create their list of suggested products, streamers will be able to sign up as an Amazon Affiliate, then browse the Amazon catalog and pick their favorite products, right from their Twitch dashboard, the company says.
+
+This follows another recent move from Amazon to help video creators make money by promoting Amazon products, as it turns out. Last week, Amazon opened up its social media “Influencers” program to YouTube stars, allowing video creators to build their own curated shop, with its own short and memorable URL. It only makes sense that Amazon would enable something similar for its Twitch streamers, as well.
+
+“When it comes to helping creators monetize through product recommendations, it’s important
+
+to make these features easy to discover and intuitive to use,” said Piers Heaton-Armstrong, VP
+
+for Affiliate Marketing at Amazon, in a statement. “Gear on Amazon achieves that by simplifying both the process for signing up to be an Amazon Associate and by making it so creators can showcase the actual products they are using and wanting to promote,” he said.
+
+However, the Amazon extension is only one of many that will be available at launch. There are currently over 20 extensions available, including some game-specific ones like OP.gg for
+
+League of Legends by OP.gg, Innkeeper: Interactive Hearth Overlay by Curse, and
+
+MasterOverwatch by Master Network.
+
+Others are designed for more general use, like Streamlabs’ Loyalty, Music, Polls & Games, or Muxy’s Overlay and Leaderboard, for example.
+
+A full list of the new extensions is available on the Twitch blog here. A sample showcase is below.
+
+Smartclicks2 TRN Battlegrounds Live Tracker by Tracker Network WhatsPlaying Layer One_ScheduleExtension1 Streamlabs5 Streamlabs2 Streamlabs3 Streamlabs1 Layer One_ScheduleExtension2 TRN Destiny Live Tracker by Tracker Network TRN Rocket League Live Tracker by Tracker Network Hearthstone_DeckTrack_CopyDeck HearthstoneDeckTrack_ViewCard Isaac Tracker by Pretzel Tech SmartClick schedule Polling View Slideshow Previous Next Exit
+
+Twitch is also opening up the extension platform broadly to third-party developers, via its Developer Portal, dev.twtich.tv. Developers will receive free asset hosting and fanout messaging to make it easier to get started, the company says. Completed extensions are then shown to creators in a new Extension Manager.
+
+At launch, extensions will be free, but Twitch tells us that monetization details are soon to come. More information about this will be announced at Twitch’s developer conference, TwitchCon’s Developer Day next month.
+
+Twitch had planned to make the extensions available to streamers tonight, but that’s been pushed back at the last minute. Instead, the company now says the extensions will be “coming soon.”

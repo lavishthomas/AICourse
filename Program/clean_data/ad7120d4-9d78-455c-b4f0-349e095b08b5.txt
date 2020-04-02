@@ -1,0 +1,119 @@
+This post originally appeared on the Buffer blog.
+
+Whenever I dream up a home improvement project for my place, I end up working smartest and fastest when I have the right tools at my disposal. It’s amazing the difference a good tool can make – and the extra time it takes to get work done without a helpful tool.
+
+Fast-forward to online marketing. How can you work smarter and faster with SEO?
+
+It starts with having the right tools.
+
+I’ve collected a big sampling of the best free SEO tools on the market—tools with a wide variety of uses and covering a number of common needs. These tools are fast, free, and easy-to-use. I hope you find one or two (or 20) you can put to good use, today.
+
+Check the speed and usability of your site on multiple devices
+
+Enter a URL, and this tool will test the loading time and performance for desktop and for mobile, plus identify opportunities to improve (and pat you on the back for what you’re doing well). The mobile results also come with a user experience score, grading areas like tap targets and font sizes.
+
+Alternatives: Pingdom, WebPageTest, and GTmetrix
+
+See how your local business looks online
+
+Moz crunches data from more than 15 different sources—including Google, Foursquare, and Facebook—to score your brick-and-mortar business on how it looks online. Results come complete with actionable fixes for inconsistent or incomplete listings.
+
+700+ keyword ideas based on a single keyword
+
+Enter a keyword, and the Keyword Tool provides a huge handful of long-tail keyword opportunities, organized alphabetically.
+
+Alternative: Übersuggest
+
+Complete Web stats and search insights
+
+In addition to tracking pretty much every bit of traffic you could imagine on your website, Analytics also surfaces many keyword insights as to which terms people use to land on your pages.
+
+Alternative: Piwik
+
+Constant website analysis, alerts, and error reports
+
+These webmaster tools help give you a taste of what the two top search engines think of your site. It’s helpful to see any bugs, alerts, and indexing issues.
+
+Pro tip: Each of these two tools requires a bit of installation on your site. If you’ve got a WordPress website, you can add the webmaster code automatically through a plugin like Jetpack or Yoast.
+
+Comprehensive link analysis
+
+The free version of Open Site Explorer gives you a quick look a full range of link analysis, including a look at the most impactful links coming your way and your most linked-to pages.
+
+Know what people search for
+
+Enter a keyword or group of keywords into the tool, and Google will return all sorts of helpful stats to guide your keyword strategy: monthly search volume, competition, and even suggested terms you might not have considered.
+
+8. Google.com in an Incognito Window
+
+Discover auto-fill opportunities
+
+Searching Google.com in an incognito window will bring up that all-familiar list of autofill options, many of which can help guide your keyword research. The incognito ensures that any customized search data Google stores when you’re signed in gets left out. Incognito may also be helpful to see where you truly rank on a results page for a certain term.
+
+Changes in search volume for key terms
+
+A quick browse or search through Google Trends can show you the hockey-stick rise of potential terms and SEO opportunities for your content.
+
+Full analysis of your website
+
+The QuickSprout tool does a comprehensive look at just about everything: SEO optimization, speed, tags, keywords, social, links, and even competitor comparisons.
+
+Next: 11 more free tools, at your service!
+
+Uber-customize the way your search results appear
+
+Create custom code so that your reviews, events, organizations, and people are displayed the way you want on search pages. Once you’ve created your schema code, copy and paste to your website, or try the free WordPress plugin for an even easier implementation.
+
+Here’s an example of schema in action:
+
+View site stats for any domain
+
+Use this tool to compare traffic between two websites, a helpful tool for competitor research.
+
+See where your site ranks for certain terms
+
+You can run Rank Checker one of two ways: Input your keyword and your website and see where you land, or leave the website field blank to view the top-to-bottom list of results for a keyword.
+
+Build a sitemap
+
+Simply enter your site’s URL and some optional parameters, and XML Sitemaps will create a sitemap that you can upload to Google Webmaster Tools.
+
+See your website the way a search engine sees it
+
+Enter your site, and this tool will strip out everything but the guts, revealing your website the way search spiders see it. This particular view can be helpful to see the hierarchy you’ve given particular elements (maybe without realizing it!).
+
+Audit and score for your website
+
+Site Checkup runs through a fast audit of your site, checking for proper tags and surfacing any errors that might come up.
+
+Performance dashboard for search and social rankings
+
+The free version of the Searchmetrics report shows you a taste of how your website ranks in search and social, along with a preview of top terms.
+
+Discover errors on your site
+
+The link report from Ninja Internet Marketers combs through your whole site and highlights a number of link insights, including the internal and external links that need fixing.
+
+Complete overview of your website, pages, and links
+
+A free (and substantial) sampling of what ahrefs offers, the dashboards for referring pages and inbound links are rich and informative.
+
+Check for duplicate content
+
+Enter a URL for a blogpost or website, and Copyscape can tell you where else that content exists online. You might find results that you’ll need to follow-up with to help get your SEO in order.
+
+I’ve shied away from referencing any toolbars thus far, but the Moz toolbar is just too good to pass up. Once installed, the Moz toolbar can show you SEO insights from within Google search results pages and at any particular website.
+
+Further resources
+
+Putting together a list of free SEO tools can be a daunting task. There are hundreds out there! I aimed to grab the ones that we’ve found valuable here at Buffer and the ones you can use via the web within minutes to get some amazing insights.
+
+If you’re interested in even more tools—like, hundreds!—here are a few places to start:
+
+Which SEO tools are your favorite? Do you prefer web tools like these or browser plugins and spreadsheets?
+
+I’d love to hear any tips you’re willing to share in the comments!
+
+Read next: Best of both worlds: How to create a long-tail SEO strategy for social media micro-content
+
+Read next: Become an EDM master while destroying all productivity with Super-Looper

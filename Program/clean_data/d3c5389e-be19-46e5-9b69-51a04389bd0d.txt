@@ -1,0 +1,29 @@
+Have you ever used one of your favorite programs on your desktop, only to find that in later updates, that program changes in ways you don’t particularly appreciate? It’s a common phenomenon: a single program, like a chat client, might break with your specific computer setup after a recent update. It’s easier (and less disruptive to your workflow) to switch to an older version of the program until the problem is resolved.
+
+You don’t want to use an out-of-date antivirus, of course, but for more mundane utilities, older versions of the program are fine (as long as you eventually update once the problems are fixed). Here’s how to find them, install them, and keep them handy so you don’t have to use the updated versions.
+
+Track Down the Installer
+
+There’s no particular secret to finding an older version of a program—typically doing a Google search will be just fine. But downloading executables from random websites isn’t really advisable. There are a few sources you should check first before resorting to more generalized downloads:
+
+The official download page : often the developer or owner will host a library of older versions of the application, especially if it’s offered for free.
+
+: often the developer or owner will host a library of older versions of the application, especially if it’s offered for free. Download repositories : likewise, well-known program repositories like Download.com, Softpedia, and MajorGeeks will have older versions of the file floating around. This is particularly true for major version updates, like 2.0 to 3.0. There are even repositories dedicated to older versions, like OldApps.com. Just watch out for crapware downloads on these sites—they’re generally fairly reputable, but not perfect.
+
+: likewise, well-known program repositories like Download.com, Softpedia, and MajorGeeks will have older versions of the file floating around. This is particularly true for major version updates, like 2.0 to 3.0. There are even repositories dedicated to older versions, like OldApps.com. Just watch out for crapware downloads on these sites—they’re generally fairly reputable, but not perfect. Open source sites and other collections : a lot of free software is also open source, so it tends to float around enthusiast sites and get modified for specific purposes, like the suite of handy tools at PortableApps.com. Of course, open source software is also susceptible to Trojan horse attacks and other nasty surprises, so exercise caution.
+
+: a lot of free software is also open source, so it tends to float around enthusiast sites and get modified for specific purposes, like the suite of handy tools at PortableApps.com. Of course, open source software is also susceptible to Trojan horse attacks and other nasty surprises, so exercise caution. GPU driver sites: new and updated graphics card drivers have a nasty habit of breaking random games thanks to specific tweaks. Luckily, both NVIDIA and AMD keep a very well-organized repository of older driver releases for exactly this scenario.
+
+With any luck, you’ll find the installer for the exact version you need.
+
+Keep a Copy
+
+Once you’ve found your copy of the app you want, make sure to keep a hold of the installer file. You never know when your original source might go down, or simply update its repository link to a newer version. I like to keep my smaller tools in a special Dropbox folder so they’re accessible from any PC, but anything that’s secure and part of your regular backup regimen should be just fine.
+
+Disable Updates (for Now)
+
+Once you’ve installed your older version of the program, it’s probably going to ask you to update it on a regular basis. Most programs have some method of disabling this update check somewhere in the Settings or Preferences menu.
+
+If the program just won’t take the hint, don’t forget that you can cut off its access to the update server by blocking it in your operating system’s default firewall program, so it’ll never bother you again. Obviously this isn’t a very helpful solution if the program relies on an Internet connection, like a BitTorrent client (looking at you, uTorrent), but for most basic tools it works fine.
+
+Keep in mind that skipping regular updates also means skipping security updates, which is generally a Very Bad Idea™. Small, local-only tools are generally safe, but anything larger or more complex runs a serious security risk, even generally benign programs like office suites. The point is that you shouldn’t run an older version of an important program for any longer than you need to—if the program isn’t every going to improve or there’s a problem you can’t get over, look for an alternative rather than sticking with an outdated release.

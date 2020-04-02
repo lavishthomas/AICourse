@@ -1,0 +1,7 @@
+But researchers at Stanford and the SLAC particle accelerator have found a way to reduce that time down to just a fraction of a second. The research team trained a neural network with half a million simulated lensing images over the course of a day. Afterwards, the networks -- the team tested four different types -- were able to pull out information from the images with precision rivaling that of traditional methods.
+
+"The amazing thing is that neural networks learn by themselves what features to look for," Phil Marshall, a researcher with the project, said in a statement. "This is comparable to the way small children learn to recognize objects. You don't tell them exactly what a dog is; you just show them pictures of dogs." Another researcher, Yashar Hezaveh, added that in this case, "It's as if they not only picked photos of dogs from a pile of photos, but also returned information about the dogs' weight, height and age."
+
+With new telescopes being built that will surely uncover more and more examples of lensing, faster methods like this one will be needed to sift through all of the data. And importantly, the neural network analyses can be done on just a laptop or a cell phone.
+
+The team's research was recently published in Nature and a second paper is currently being considered for publication in The Astrophysical Journal Letters. You can access a version of that article on arXiv.

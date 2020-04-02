@@ -1,0 +1,101 @@
+It's a great phone, buy you won't even know how great until you get it set up properly.
+
+The Galaxy S5 is finally here, debuting new hardware and software from Samsung. Even those who have owned a Galaxy phone before are sure to find a few unexpected treats in this device. Samsung has traditionally engineered one of the more extreme Android skins, but TouchWiz has come a long way since its early days of iPhone cloning.
+
+There are some excellent features you'll want to take advantage of, and some you will want to hide as best you can. Let's get your Galaxy S5 in shape!
+
+Kill Bundled Apps
+
+Unless you've picked up the unlocked international Galaxy S5, there are going to be some carrier apps cluttering things up. Even the unlocked version will have a couple Samsung services you probably won't want or need. Luckily, Android supports disabling included apps that can't be uninstalled. They still take up a little space, but they won't run in the background or accumulate data.
+
+Just take a peek in the app drawer and decide what needs to go. Open the main system settings and find Application Manager. Slide over to the All Apps tab and scroll down until you find the app or apps you want to disable. It'll probably be things like bundled navigation apps, caller ID services, security suites, and other unnecessary junk. Open the desired entry and tap "Turn Off." Other Android devices label the button Disable, but it's the same thing.
+
+You can find all the disabled apps in a tab to the far right in the Application Manager called (predictably) Turned Off. You can go there to turn things back on if you need them.
+
+Set Up Fingerprints
+
+One of the big new features of the Galaxy S5 is the fingerprint scanner built into the home button. Unlike Apple's home button reader, this is a more traditional swipe mechanism. It's more finicky (especially if you don't set it up right), but it can be neat once you get used to it.
+
+Head into the main system settings and find the Finger Scanner option. It's under Personalization, or you can just search for it with the button up top. Samsung allows you to enroll up to three fingers on the Galaxy S5. They are all used to do the same things, so just pick the ones you think you'll be able to use most comfortably -- like both thumbs plus the index finger of your dominant hand.
+
+Here's the trick: the device has you swipe over the sensor eight times so it can learn the pattern. If you just swipe up and down like it shows you in the image, that's the only way it will reliably recognize the print. However, you can tilt your finger to the side and swipe down as well. I've managed to get all my fingers to read at multiple angles pretty consistently like this.
+
+You can use your fingerprints as a device unlock method, but there's also a tie-in with your Samsung account and PayPal. The Galaxy S5 has a Private Mode that can be used to segregate files and photos in a system folder that only you can access. The fingerprint scanner can be used to activate this feature in lieu of a password as well.
+
+Install Great Apps
+
+The exact combination of apps you install on the Galaxy S5 will vary depending on how you use the device, but here are some things everyone ought to consider for this phone.
+
+Dynamic Notifications: Basically a clone of Active Notifications from the Moto X. It works very well and makes tons of sense on an AMOLED screen like the one you have on the GS5.
+
+Milk Music: A US-only Samsung app that offers free unlimited streaming radio with no ads. The interface is neat and it's easy to get stations tuned to your tastes.
+
+Google Keyboard: Try as I might, I can't get used to Samsung's keyboard. It's not as bad as it was a few years ago, but I still prefer the Google Keyboard, which is completely free.
+
+Google Wallet: Yes, the Galaxy S5 is compatible with Google Wallet tap-and-pay, which the Note 3 was not (it has an unusual NFC chip). Just install the app and activate the NFC payment option.
+
+Get Top Games
+
+There aren't really games geared specifically toward the Galaxy S5, so here are some of the newest games that will show off the hardware.
+
+Epoch 2: A cover based shooter with robots. Killer graphics and runs wonderfully on the Galaxy S5.
+
+Smash Hit: An addictive physics shooter where you have to fling balls at glass barriers to stay alive. The colors and effects look very nice on the GS5.
+
+Kami: Your basic puzzler based on color matching paper shapes. This is a fun game with very interesting textures and colors to enjoy on that AMOLED screen.
+
+The Walking Dead - Season 1: It looks good and has some of the best writing in a mobile game. There is really no connection to the Galaxy S5 -- you should just buy this because it's awesome.
+
+Configure the Toolbox
+
+One of my favorite features of the Galaxy S5 is the Toolbox. This is a small floating icon that, when tapped, pops open a dropdown of any five app shortcuts you choose. This is one of the items you can toggle on and off in the notification tray and expanded settings panel. Tap the button to turn it on, and you get a small white circle that can be moved around like a Facebook chat head. Tap on it and it drops opens the shortcuts.
+
+The defaults are, of course, Samsung apps. You can go into the system settings and scroll down to the sound and display section to open the Toolbox settings. From there you can tap the Edit button and add different apps (but only a maximum of five) to the Toolbox.
+
+Create Multi-Window Groups
+
+Multi-Window Mode was implemented a few years ago, but it's one of the features TouchWiz does well. As such, it's reasonably easy to find in the Galaxy S5. There is a toggle for it in the notifications, but you can just leave it on all the time. Long-press the back button to open and close the Multi-window tab, which you'll see on the far left of the screen.
+
+Upon opening it, you get a list of apps on the left. Simply drag one into each half of the screen and they both stay open. These apps can be used normally while in this mode, but you can also slide the divider around to give one or the other more space.
+
+In setting up your Galaxy S5, you should get into this interface and use the Edit button at the bottom of the app list to make sure you have what you want ready to go. Unfortunately, not all apps work with Multi-Window, but you get a fair selection. Of course, all the Samsung apps work, but also apps like Hangouts, Chrome, Falcon Pro, and YouTube are supported.
+
+Next to the Edit button is Create, which you'll want to use to save your pairings as new items in the Multi-Window list. That way you can just tap the button and pop those two apps open in a single step. When you're done with the Multi-window UI, just hit the home button to get back to a single screen experience.
+
+Google or S Voice?
+
+Samsung used to give its S Voice personal assistant preferential treatment on Galaxy devices. However, the new TouchWiz launcher has Google voice search baked right in, and you can launch Now/Search by long-pressing the home button. That's not to say S Voice is gone -- it can still be called up with a double tap of the home button. Do you really need two voice input apps? Probably not.
+
+S Voice has a bit more control over the settings of the device. For example, you can set a timer or toggle radios on and off by voice. Google voice search is markedly better and faster at… well, search. Both have some conversational processes for sending messages, but Google's solution is better at tying-in apps like Gmail (S Voice still can't do emails at all).
+
+Then Google's search app also has the whole card thing going for it. I've always found Google Now cards to be pretty useful. Sometimes the news it surfaces isn't very good, but directions, appointments, and package tracking are all great. S Voice doesn't do that stuff.
+
+If you want to use Google mainly, I would suggest you ditch S Voice. Why? It actually causes a small delay in triggering the home button because the system has to wait and see if you're going to press a second time for S Voice. To get rid of this, go into the S Voice app settings and turn off "Open via home button."
+
+Try Download Booster (Maybe) and Set Usage Limits
+
+One of the cool things Samsung has added in the Galaxy S5 is a feature called Download Booster. It ties the WiFi and LTE radios together to team up on files over 30MB in size. The result is a much faster download in supported apps. Sadly, AT&T, Sprint, and Verizon have opted to remove Download Booster from the OS. So you can only use it on T-Mobile, US Cellular, and on the unlocked/international variants.
+
+Download Booster is in the settings toggles, so it's easy to flip on when you need it. It will wait silently until you download file large enough, then it swings into action. There will be more data usage on your mobile connection, so those with unlimited plans will benefit the most. For everyone else, this is a good opportunity to set up usage limits.
+
+You should probably set up limits even if you don't have Download Booster. Head into the system settings and find Data Usage under the Network Connections heading. This interface is mostly untouched from stock Android. Place the line on the graph where you want to be notified of high data usage. So if you're on a 5GB plan, place the alert at 4.8GB (or something like that). For added protection, activate the hard limit and place that a little bit under your monthly limit. Download Booster can eat up mobile data if you're downloading a lot of large files, so setting a usage limit could save you from overages and throttling.
+
+Configure Blocking Mode
+
+Samsung's Blocking Mode is accessible in the system settings under the Personalization heading. This is a way to set up quiet hours when calls and notifications won't bother you. Enable the feature with the toggle at the top of the screen, then decide which features you want turned off automatically. You can choose from incoming calls, all notifications, and alarms/timers.
+
+You can have Blocking Mode active all the time, which seems odd to me. More likely you'll pick the hours you want it on. Calls will only break through your fortress of Samsung solitude if they come from an allowed contact. That can be just your favorites as listed in the dialer or a custom list you set up in Blocking Mode.
+
+Customize Notification Toggles
+
+Now that we've gone over some of the useful features Samsung built into the Galaxy S5, so you ought to have a pretty good handle on which toggles you want in the notification area and the expanded toggle panel (on stock Android it's called Quick Settings). You get a total of 10 buttons that can be accessed at the top of the main notification shade, plus 10 more in the full toggle area. The edit button at the top of the expanded list can get you to the notification menu in one step.
+
+From there you can long-press and drag the icons around to arrange them to suit the features you want to use. Remember, the group of ten at the top are the ones accessible in the main notification shade.
+
+Customize Samsung Quick Settings
+
+Now that you've poked around the device, you know what kind of stuff you're digging into the system settings in search of. Samsung's "quick settings' are different than the Android "quick settings," the latter of which is referring to the expanded notification toggles. Samsung's term refers to the top section in the main system settings, where you can choose items that you want access to without a bunch of scrolling. This is actually a very smart feature.
+
+To change the default list, tap the menu button at the top of the settings screen and choose "Edit quick settings." This pulls up a list of all the various categories and some deeper menus that you can choose from. There is a maximum limit of 12 items, so you'll have to turn some off to get all your preferred settings added.
+
+Finally, your Samsung Galaxy S5 should be in fighting shape. Everyone is looking for different things in a smartphone, and this one tries to please them all. This is just a basic starter list of tweaks -- there's a ton to explore in Samsung's new flagship.

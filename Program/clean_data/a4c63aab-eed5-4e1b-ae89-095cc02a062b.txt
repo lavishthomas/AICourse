@@ -1,0 +1,61 @@
+A Salute To Solo Programmers
+
+Parkinson’s Law tells us that “work expands so as to fill the time available for its completion”. Applied to software, this means that applications tend to bloatware, obese programs whose complexity makes them nearly impossible to debug and maintain. Today, we look at happier counterexamples, past and current, of ambitious products created by “hermit programmers”.
+
+Once upon a time, we were awestruck by the “solo climber”, the programmer who could single-handedly write a magnum opus on a barebones machine such as the Apple ][ with its 64 kilobytes of memory (yes, kilo — not mega, let alone gigabytes), and 8-bit processor running at 1MHz (again, mega not giga).
+
+Once such giant was Paul Lutus. By his own admission, he fit the stereotype of the hermit programmer:
+
+“In the computer business I’m known as the Oregon Hermit. According to rumor, I write personal computer programs in solitude, shunning food and sleep in endless fugues of work. I hang up on important callers in order to keep the next few programming ideas from evaporating, and I live on the end of a dirt road in the wilderness. I’m here to tell you these vicious rumors are true.”
+
+When I first visited Apple’s Cupertino offices in early 1981, Lutus had already won a place next to Jobs and Wozniak in the Bandley Drive Hall of Fame for his Apple Writer word processor. Admirers told how he would fly his own plane to come and collect his royalty check and then immediately fly back to his woodsy Oregon retreat.
+
+Fresh from the word-processing industry (Exxon Office Systems and its Vydec “professional” workstation), I looked with disdain upon Lutus’ tiny, feature-deprived toy. Then I visited an Apple warehouse where I saw a forklift loading palettes of Apple Writer boxes. Palettes of software! A quick count, a couple of questions, and I experienced an epiphany: Apple Writer easily beat the number of word processor workstations shipped by all the “pros” combined.
+
+I didn’t know it at the time, but I was witnessing a one-man disruption.
+
+(For the true geek, Lutus’ arachnoid.com website is filled with delightful “single climber” anecdotes and attitudes:
+
+• He used GraForth, his graphics and sound extension of the Forth programming language to convince a certain individual to come and visit:
+
+I once used the GraFORTH graphics language I had written to create a “computer letter” in the form of a diskette that displayed images and messages. In one of the sequences a cabin appeared on a hilltop, the door opened, then music played. It was designed to persuade a certain someone to visit me in Oregon, and it worked.
+
+• At NASA, he wrote programs for the HP-25 and HP-67 hand-held calculators to compute space flight trajectories and “planetary ephemerides”:
+
+Instead of dealing with the computer department and a 24-hour delay, one could get reasonably accurate results in seconds, using a device that sat on one’s desk. In the context of the times, this bordered on the miraculous.
+
+Stay for the surprising digression about Wikipedia at the end of the “Programming Handheld Calculators” post.)
+
+Bill Budge is another noted solo programmer. In 1981, Budge wrote a pinball game called Raster Blaster for the Apple ][, a remarkable feat considering that the 1MHz 8-bit processor was “clearly” unable to support the fast graphics, collision detection, and fun sound effects required for such a game.
+
+The next stage in his ascent — and his ultimate claim to fame — was Pinball Construction Set, a set of modules that klutzes like me could combine into a custom pinball layout. At the time, 1983, this was (rightly) viewed as yet another astonishing achievement, a consummate way to use every 6502 cycle to delight users. (This was before marketeers hijacked the word and pimped it as Surprise and Delight™, using the phrase in feeble attempts to mask a product void.)
+
+As an unnamed computer sage once put it, the programmer’s job is to slide under the user’s feet as s/he walks on water — and to make sure those feet never get wet. Pinball Construction Set did just that.
+
+That same year, I happened upon Bill Budge while in line at an Apple event. After conveying my admiration for his superhuman programming skills, I expressed concern that he had disclosed the graphics algorithms inside Pinball Construction Set in a SoftTalk magazine article. Wouldn’t this unveiling undermine his business? The young sage’s unforgettable answer: A cookbook doesn’t a Chef make.
+
+I can’t leave this part of my story without mentioning Bob Frankston and Dan Bricklin, the duo authors of the epoch-making VisiCalc. VisiCalc begat Excel, which is to say VisiCalc’s influence is felt every day in every corner of businesses large and small.
+
+Those were the days… Computers and their operating systems were simple and the P in Personal Computers applied to the programmer. He or she (mostly he at the time) could make a dent in the universe while sitting alone in a cabin in the woods.
+
+Enough nostalgia. Today, such singular achievements appear to be no longer possible.
+
+As I write this, I’m downloading the latest version Xcode, Apple’s programming environment and toolkit, onto my iMac. It needs 7.77 gigabytes of disk space.
+
+The “obsolete” word processor I use to write this (Pages 2009) weighs in at 388 megabytes; the newer and dumber Pages version 5.5.3 takes up 478 Mbytes.
+
+Operating systems have become so sophisticated, so tentacular that a single human being can’t possibly internalize their workings and write application code that keeps us users walking on water. There’s no place for a 2015 Paul Lutus.
+
+But are things really that dire?
+
+As it turns out, the size and complexity of operating systems and development tools do not pose completely insurmountable obstacles; we still find programs of hefty import authored by one person. One such example is Preview, Mac’s all-in-one file viewing and editing program. While the Wikipedia article is out of date and tepid, the two-part Macworld article titled The many superpowers of Apple’s Preview (here and here) does justice to the app’s power and flexibility. Read it and join me in my appreciation for this labor of love from a solo, unnamed programmer who, I’m told, has been at it since the NeXT days.
+
+Preview will even render CAD files that have a .DAE extension, a.k.a. Collada files, an interchange format for CAD programs. This lets you play with the 3D image without the need for the original CAD program. Impressive — and leading us to dark thoughts about the sorry state of iTunes (wags call it Apple’s Windows Vista), Pages, and even Mail, apps that are still buggy and crashing after all these years. Too many cooks?
+
+Newer than Preview but no less ambitious, we have Gus Mueller’s Acorn, an “Image Editor for Humans”, now in version 5 at the Mac App Store. To get an idea of the breadth and depth of the app, scan the documentation on the company’s web site. In addition to “straight” tech doc, there’s an FAQ, pointers to the Acorn communities, and a wealth of video tutorials for beginners, intermediate, and advanced users. (Mueller calls his Everett, WA company a mom and pop shop because his spouse Kristin does the documentation when she isn’t working as a Physical Therapist.)
+
+On my iMac, Acorn 5 is a mere 24.6 Mbytes. Compare this, fairly or not, to apps that weigh in at 1.5 Gbytes or more (Microsoft Word, Excel…), or Pages at 478 Mbytes.
+
+There is bloat, and there is hope.
+
+— JLG@mondaynote.com

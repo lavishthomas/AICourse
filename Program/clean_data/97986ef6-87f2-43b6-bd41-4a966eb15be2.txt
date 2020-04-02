@@ -1,0 +1,55 @@
+The explosion of hype around the term “big data” ushered in a rabid desire in companies big and small to get their hands on employees with a data science skill set. For evidence, you need look no further than Indeed’s graph of the number of big data-related job postings:
+
+If you already have the skill set to enter the world’s sexiest profession, it’s a great time to be alive. For those with enough money and expendable time, there’s always the option to go back to school. But for the rest of us, hope is not lost; thanks the rise of the internet, we can begin exploring data science from the comfort of our own homes, and for a fraction of the cost of academia or retraining. Obviously, we’re not saying the options on this list can replace a formal education- but for those looking to expand (or even just begin working on) their big data skillset, they’re a great place to start.
+
+1. Udacity
+
+Udacity is a MOOC (Massive Open Online Course), so-called because it aims to be “audacious for you, the student”. Dumb name aside, Udacity has dozens of courses tailored to skill levels, from people who are entirely new to tech to proficient computer scientists. They start with Intros to Computer Science, Descriptive Statistics and Inferential Statistics, then progress to more in-depth, tech-specific tutorials focused around R, MongoDB, Machine Learning and more. The courses aren’t free- the “Intro to Computer Science” is $150 a month- but you do get a 14-day free trial to decide if the course is right for you.
+
+2. EMC
+
+Big data “technology has evolved faster than the workforce skills to make sense of it and organizations across sectors must adapt to this new reality or perish”, reads the ominous course blurb for EMC’s Big Science and Big Data Analytics course. Luckily, EMC are here to help you adapt to the rapidly-evolving big data environment, walking you through basic and advanced data analysis methods, as well walking you through the basic tools of the trade and the end-to-end analytics lifecycle. However, EMC isn’t cheap- the starter kit is $600, and the full course will set you back $5,000.
+
+3. Coursera
+
+Coursera is also a MOOC, and it’s completely free. All of the courses are taught in conjunction with a leading University- so you can learn Data Science with the University of Washington’s Bill Howe, Machine Learning with Stanford’s Andrew Ng, or Statistics with Alison Gibbs & Jeffrey Rosenthal of the University of Toronto. Course durations vary wildly between programmes (Data Science is 8 weeks, Statistics is 47), and stipulate recommended working hours per week (typically between 5 and 10). Coursera is a fantastic free resource for those looking to take the first steps into data science exploration.
+
+4. CalTech’s Learning from Data
+
+CalTech offer a free introductory course to machine learning online, with video recordings of lectures by Professor Yaser Abu-Moustafa. The course covers the basic theory and algorithms related to machine learning, as well as a variety of of commercial, financial and medical applications. Complete with 8 homework sets and a final exam, this a great taster of machine learning for the self-motivated.
+
+5. MIT Open Courseware
+
+While not a course in itself, OCW is an initative by the Massachusetts Institute of Technology to publish all of their course materials online, and make the accessible to all. Whilst this has the obvious disadvantage of no hands-on teaching, it is a great opportunity to explore the course materials (including exam papers as well as recommended reading) of one of the best STEM schools in the world. Check out Data Mining and Advanced Data Structures for a taste.
+
+6. Jigsaw Academy
+
+Jigsaw Academy is an online school based out of India, specialising in Analytics. They offer courses for beginner, intermediate and advanced levels, ranging from a broad overview of analytics for total newcomers, to in-depth investigations of analytics in finance and retail. They’re currently offering their Beginner’s course at a discounted price of Rs. 8,000 for students in India, and $149 for international students.
+
+7. Stanford’s OpenClassroom
+
+OpenClassroom‘s tagline is: “Full courses. Short Videos. Free for everyone.” Which pretty much sums up everything you need to know about the initiative. A particular highlight is the machine learning course, devised by Andrew Ng (whose course also appears on Coursera, of which he is the co-founder). The course takes you through everything from Linear Regression to Naive Bayes algorithms, and the course image is a dog in a wizard hat. If that’s not enough to convice you to take a look, I don’t know what is.
+
+8. Big Data University
+
+Big Data University offer courses across the big data and data science ecosystem, including database-specific training, real-time analytics, 11 different courses on Hadoop and even relational management systems for beginners. The courses are self-paced, and mostly free (although you do sometimes have to pay to access the specific technologies, such as IBM SmartCloud Enterprise).
+
+9. Code School
+
+Code School offer many courses on specific programming languages, such as R, Java, and a course on mastering Github. Not all of their courses are free, but some of them (including Try R, helpfully) are. Their courses are also broken up into “Levels”, and Code School is by far the best-looking website on this list, if that swings it for you.
+
+10. Udemy
+
+Udemy is a MOOC based out of Silicon Valley, with the simple mission of allowing anyone to learn anything. With 4 million students, 10 thousand instructors and 10 million course enrollments, they’re well on their way. If you search for “Big Data” in their courses, there are over 160 results, helping you to learn anything from mastering Hadoop to developing a big data strategy for your business. Since Udemy is home to so many different instructors with different levels of qualification and experience, price and quality vary considerably, but it’s still worth having a look at what’s available for pretty modest costs.
+
+Follow @DataconomyMedia
+
+
+
+Eileen McNulty-Holmes – Editor
+
+Eileen has five years’ experience in journalism and editing for a range of online publications. She has a degree in English Literature from the University of Exeter, and is particularly interested in big data’s application in humanities. She is a native of Shropshire, United Kingdom.
+
+Email: eileen@dataconomy.com
+
+(Image credit: Unsplash)

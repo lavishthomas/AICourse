@@ -1,0 +1,29 @@
+There are many patterns of collective behavior in biology that are easy to see because they occur along the familiar dimensions of space and time. Think of the murmuration of starlings. Or army ants that span gaps on the forest floor by linking their own bodies into bridges. Loose groups of shoaling fish that snap into tight schools when a predator shows up.
+
+Then there are less obvious patterns, like those that the evolutionary biologist Jessica Flack tries to understand. In 2006, her graduate work at Emory University showed how just a few formidable-looking fighters could stabilize an entire group of macaques by intervening in scuffles between weaker monkeys, who would submit with teeth-baring grins rather than risk a fight they thought they would lose. But when Flack removed some of the police, the whole group became fractured and chaotic.
+
+Like flocking or schooling, the policing behavior arises from individual interactions to produce a macroscopic effect on the entire ensemble. But it is subtler, perhaps harder to visualize and measure. Or, as Flack says of macaque society and many of the other systems she studies, “their metric space is a social coordinate space. It’s not Euclidean.”
+
+Flack is now a professor at the Santa Fe Institute, where she has spent all of her postgraduate career, except for a stint at the University of Wisconsin, Madison. Her “collective computation” group, C4, which she co-runs with her collaborator, David Krakauer, probes not just macaques but neurons, slime molds and the internet for the rules that underlie each model, as well as the general rules underlying them all.
+
+Flack describes her work as an investigation into three interlocking questions. She wants to understand how phenomenological rules in biology, which seem to work in aggregate, emerge from microscopic ground truths. She wants to understand how groups solve problems and come to decisions. And she wants to know how complex systems stay robust in the face of shocks, like the macaques with their own police force that acts as social glue.
+
+At its root, though, Flack’s focus is on information: specifically, on how groups of different, error-prone actors variously succeed and fail at processing information together. “When I look at biological systems, what I see is that they are collective,” she said. “They are all made up of interacting components with only partly overlapping interests, who are noisy information processors dealing with noisy signals.”
+
+Over the phone, by Skype and via email, Quanta Magazine caught up with Flack to ask about C4’s current projects, her own career path, and the overarching philosophy behind her work. An edited and condensed version of our conversations follows.
+
+How did you get into research on problem solving in nature, and how did you wind up at the Santa Fe Institute?
+
+I’ve always been interested in how nature solves problems and where patterns come from, and why everything seems so organized despite so many potential conflicts of interest. Those sorts of questions have been with me since I was really little.
+
+At Cornell, I was taking evolutionary biology classes, but none of the material really addressed these questions. I would spend a lot of time in Mann Library, which was where all the good biology books were. So I would sit on the floor in the dusty, dimly lit stacks with this pile of books around me. And in that way I discovered that there was a community of people working on these questions in evolutionary biology that I found more interesting.
+
+They weren’t in the mainstream. One of the main places that turned out to be home to a lot of these people was the Santa Fe Institute. This was in the early to mid-’90s. I emailed the Santa Fe Institute and I requested something like 40 working papers. I was being a really annoying undergraduate. And someone mailed them to me! They actually snail-mailed me 40 of these papers, and I was thrilled, and I read them all.
+
+Now that you’ve ended up there, can you break down what your C4 research group means by “collective computation”?
+
+Collective computation is about how adaptive systems solve problems. All systems are about extracting energy and doing work, and physical systems in particular are about that. When you move to adaptive systems, you’ve got the additional influence of information processing, which we think allows a system to extract energy more efficiently even though it has to expend a little extra energy to do the information processing. Components of adaptive systems look out at the world, and they try to discover the regularities. It’s a noisy process.
+
+Unlike in computer science where you have a program you have written, which has to produce a desired output, in adaptive systems this is a process that is being refined over evolutionary or learning time. The system produces an output, and it might be a good output for the environment or it might not. And then over time it hopefully gets better and better.
+
+What we are doing at C4 is taking messy, conceptually challenging problems and turning them into something rigorous. We’re very philosophically oriented, but we’re also very quantitative, particularly in thinking about how nature can overcome subjectivity in information processing through collective computation. We really think the answer to these questions requires combining insights from statistical physics, theoretical computer science, information theory, evolutionary biology and cognitive science.

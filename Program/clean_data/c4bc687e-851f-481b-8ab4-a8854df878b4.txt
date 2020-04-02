@@ -1,0 +1,71 @@
+If you’ve followed SEO strategies for any length of time, you know one thing: SEO changes all the time. When it comes to local SEO, it’s more important than ever that you optimize your on-site and off-site SEO strategies for clients and customers who may be searching for your local business. Local competition is heating up, and if you’re not on top of your rankings, you can bet your competitors will be.
+
+Here are five solid local SEO tactics you can use this year to help your business rank higher for local search terms.
+
+1. Title and meta description tags still matter
+
+Title and meta description tags are HTML elements that you can customize to reflect the content of your web page. The text of your title and description tags is displayed in search results. Think of this text as a “mini-ad” that you need to carefully craft.
+
+Last year, Google increased the width of the main search results area to 600px. In light of this, the generally acceptable length for title tags is approximately 50 to 60 characters, and description tags can be approximately 160 to 200 characters. Take advantage of this space and use it wisely — and make sure you double-check that your titles and descriptions aren’t getting cut off in search results.
+
+If you’re not sure how your title and meta description tags will look or how many characters you can get away with, try using an emulator like the one from SEOmofo or Yoast’s SEO Plugin for WordPress:
+
+Writing titles and descriptions is considered an art in the SEO world. In a sea of competing search results, if this text isn’t unique, compelling and descriptive, then your click-through rate will suffer. Additionally, one extra word or character could cut off your text with the dreaded ellipses (…). This may not be a true tragedy, but it does look unprofessional, especially when it shows up in the middle of a sentence, making your title or description less impactful.
+
+The lesson? This space is precious, and every character counts. Here are some tips:
+
+Never waste space on page names that don’t provide helpful information.
+
+If you want to reach local customers, include the name of the city your business is in and/or the area your business serves (e.g., “Serving the Corridor of Iowa City and Cedar Rapids”).
+
+Focus on using one targeted keyword and carefully place that keyword as close to the beginning of the tag as you can.
+
+Remember, if your business shows up in the search results, you have one shot to get that person to click on your link. Don’t blow it by wasting characters that won’t help convince a searcher you’re worth looking at.
+
+2. Online directories and citations
+
+According to Google, roughly four out of five consumers use search engines to conduct local searches. Yet many small businesses have not claimed even a single a local business listing online, which is a huge missed opportunity.
+
+It’s important that you get your business listed correctly and consistently on top online business directories, like Yelp, Merchant Circle, Citysearch and others. You will also want to seek out respectable local directories to get your business listed on. Check with your local newspaper’s website and your Chamber of Commerce to see if they have a local business directory you can get listed on. You can also do a search for keywords like “[your city] directory” to find other local citation sites or directories.
+
+It’s also important to get your business’s name, address and phone number (NAP) on the major citation data aggregators like Infogroup, Neustar (aka Localeze), Acxiom and Factual. Always make sure that your company’s NAP is consistent on as many of these directories and citation sites as possible. Discrepancies like misspellings, abbreviations, lack of suite number and wrong phone number can create havoc when Google can’t determine which information about your business is correct. If Google’s not sure, they may display incorrect information — or not show your business at all in search results.
+
+3. Google My Business: Claim and optimize
+
+Google My Business (GMB) is considered a directory, but it’s a biggie, so it deserves its own section. It’s very important for local businesses to claim their Google My Business (and Bing Places for Business) page. It’s free and can get you incredible exposure if you’re optimized enough to show up in Google’s local three-pack:
+
+To claim your Google My Business page, visit google.com/business. There’s a verification process you’ll need to go through where Google will send a postcard with a PIN to your business’s physical location. (No P.O. boxes allowed.) Then you’ll simply log in and enter the PIN to verify your business.
+
+This verification process is necessary because Google wants to confirm that your business is legitimate, and that you are actually the business owner. Please note that according to Google’s terms of service, only the business owner can claim a GMB page. If you’re working with a digital marketing agency on your SEO efforts, you can then grant them permission to be a manager of your page — that way, you remain in control of your listing if you terminate your relationship with the agency.
+
+The next step is to optimize your GMB listing with a solid description, categories, business hours, types of payments accepted and so on. You also want to make sure to upload your logo and photos of your business, products or services. (It’s generally recommended that you upload at least three photos.)
+
+Fully populate each and every relevant section so that your listing is complete. If you’re a service business and don’t have a location customers or clients can visit, don’t worry; you can choose to hide your physical address as you’re setting up your Google My Business listing.
+
+As mentioned above, Bing also has a comparable page for local businesses called Bing Places for Business. The process is very similar to GMB, and you should definitely have your business present on Bing’s local directory, too.
+
+4. Online reviews matter
+
+Businesses are finally starting to realize the importance of online reviews from their customers. According to a recent survey, 84 percent of people trust online reviews as much as a personal recommendation, and seven out of 10 customers will leave a review for a business if asked by the business.
+
+There are several reputation marketing software and tool options you can use to track, manage and proactively try to get reviews. Here are some to check out:
+
+Additionally, many social media platforms, like Hootsuite and Tiny Torch, allow you to monitor and get alerts any time your brand is mentioned. Whenever a review is left about your business, positive or negative, be sure to respond to it. That shows other people reading the reviews that you, the business owner, care what your customers think.
+
+Two places where you should focus on getting reviews are your business’s Facebook page and Google My Business page. These are big ones. Many people turn to social media to see what their friends and family think about a business, so having good reviews on your business’s Facebook page can help to draw in prospective customers. Getting positive reviews on your Google My Business page is crucial because these reviews show up on Google when someone searches for your business.
+
+Google also notes that “[h]igh-quality, positive reviews from your customers will improve your business’s visibility,” which implies that reviews might factor into rankings on the local pack.
+
+5. Use local structured data markup
+
+Structured data markup — often referred to as “schema markup” or “schema.org markup” — can be added to your website’s code to provide search engines with more information about your business, like the products you sell, reviews you’ve collected, services you offer and so on.
+
+Only 31.3 percent of websites are using this markup — and most are only using the basics. You can make your local business stand out (and possibly rank higher than your competitors) if you add structured data markup to your site where appropriate.
+
+Google wants you to use structured data markup because it helps their spiders better determine what your site content is about. Google even offers a Structured Data Testing Tool so you can check to see if your markup is properly implemented.
+
+If the thought of coding freaks you out, you can also use Google’s Data Highlighter to mark up content with your mouse. (Note that your website will need to be set up with Google Search Console in order for this to work.)
+
+This is just of the tip of the iceberg when it comes to local SEO. Implementing the five local search tactics above will give you a head start on your competition. Get started today!
+
+Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.

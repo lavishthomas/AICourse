@@ -1,0 +1,37 @@
+Daniel Gilbert
+
+To survive the next decade, businesses will need to be able to utilise Big Data.
+
+Buzzword or not, it’s probably the most important feature of the fourth industrial revolution, a new economic asset that will define the near future of commercial evolution.
+
+Structured data has been used by companies for a long time, but Big Data is distinct from this in three main ways: volume, velocity and variety. In simple terms, there is a lot of it, being produced at an extremely fast rate, and occurring in many different forms.
+
+Read more: Opaque ‘black box’ culture eclipses big data’s benefits
+
+Businesses will need to evolve in their practices of data generation, acquisition, storage and analysis. Their success in these skills will dictate the new hierarchy within almost every industry.
+
+Big Data is already transforming the way businesses operate. It is the key to the success of super-platforms such as Google, Amazon, and Facebook, and, via Internet of Things technology, will soon enable great improvements in transport, energy distribution and healthcare, as well as profound changes to the way we live.
+
+Any future-facing business will need to become adept at collecting, processing and analysing data if they wish to survive the next decade.
+
+Several studies have aimed to measure the impact that data-driven decision-making (DDD) has on the performance of a company. MIT research this year, which included 330 US companies, found that businesses in the top third of their industry for DDD were “on average, five per cent more productive and six per cent more profitable than their competitors”.
+
+In a study of Big Data technologies’ impact on businesses, the economist Prasanna Tambe identified “significant additional productivity growth”. The research found that “one standard deviation higher utilisation of Big Data technologies is associated with one to three per cent higher productivity than the average firm”.
+
+Think of Amazon’s hugely effective automated recommendations as an example, which harness the masses of data they collect about their customers. The US giant Sears has started doing the same, and, with the help of the data storage and processing software Hadoop, was able to reduce the time needed to generate personalised promotions from eight weeks to one.
+
+A major US airline used Big Data technology to improve ETA predictions. Their savings at each airport are reported to be several millions of dollars each year. Visa uses Hadoop to process 73bn transactions in 13 minutes, having previously required a month.
+
+The advertising industry has naturally been one of the forerunners in embracing Big Data. Real time response in digital advertising enables precise measurement of the performance of an ad, and this plethora of information can be complemented by data collected by websites and third party providers.
+
+Digital advertising technology has enhanced the targeting, optimisation and measurement of marketing to an extent that was inconceivable in the previous century.
+
+Advertising is, in some ways, a vision of the future for every industry. The only relevant ad agencies are those that have developed their ability to process and analyse data. The days of the HiPPO (Highest Paid Person’s Opinion) leading decision-making in this sector are long gone, and a far more scientific era has taken its place.
+
+Big Data’s benefits to other sectors will be just as profound. McKinsey and Company researched the potential value of Big Data to five core industries in the US. As an example, they predicted savings of $300bn for US healthcare, if Big Data was used effectively.
+
+In 2009, Google famously used Big Data to help identify people who had been infected during the flu pandemic. Based on users’ search behaviour, Google was able to forecast where the disease might spread to and predict where it had spread from.
+
+There really is no limit to the potential of data to improve how businesses operate. Whatever your industry, you should be doing whatever you can to get better at Big Data.
+
+Read more: The UK wants an early Brexit deal on data

@@ -1,0 +1,103 @@
+Create a social network or risk everything.
+
+That was the original pitch for Google's Facebook rival, Google+, a refrain hammered over and over by the social network's chief architect, Vic Gundotra, in meetings with the company's top brass.
+
+Gundotra, described by colleagues we spoke with as charismatic and politically-savvy, eventually persuaded Larry Page, the Google cofounder who returned as CEO at the beginning of 2011 after a decade behind the scenes, to turn the company upside down for this cause.
+
+"Vic was just this constant bug in Larry's ear: 'Facebook is going to kill us. Facebook is going to kill us,'" says a former Google executive. "I am pretty sure Vic managed to frighten Larry into action. And voila: Google+ was born."
+
+It was 2010 and Google didn't exactly look like a company at risk of being overtaken by anyone or anything. It had long since dominated online search and was quickly becoming a major player in the smartphone era thanks to Android. Google had mapped much of the world, indexed millions of books and was just getting started on building self-driving cars.
+
+For all that success, the Internet giant just couldn't seem to figure out social. A simple Google search reveals the long list of failures and false starts: Orkut, launched days before Facebook in 2004 and quickly overtaken; Reader, a cult favorite RSS feed launched in 2005 and killed in 2013; Wave, its head-scratching communication platform; and, of course, Buzz, that ill-fated social network built on the back of Gmail which imploded fast in early 2010 after a catastrophic privacy issue.
+
+Vic Gundotra, the former head of Google+, welcomes attendees at the Google IO Developers Conference in San Francisco, Tuesday, May 10, 2011. Image: Marcio Jose Sanchez/Associated Press
+
+As Google stumbled and failed and stumbled again, Facebook grew larger and more influential. By 2010, Facebook was privately valued at $14 billion and approaching 500 million users — accounts with real names, birthdays, photos, a network of connections and vibrant news feeds. Google was far larger, with a market capitalization of around $200 billion, but missing much of this data. Worse still: Facebook was poaching more and more Google employees.
+
+"There was a bit of a fallout from Google Buzz — how did we get it so wrong and what do we do now? Facebook is still this existential threat," says Paul Adams, a former member of the Google+ user experience team who helped inspire the idea for Circles and later went to work for Facebook.
+
+The rise and fall of Google+
+
+Google's effort to build a social network to rival Facebook began with a bold, company-wide yell. Now Google appears to be winding down Google+ with barely a whimper.
+
+This week, four years and one month after launching Google+ with the stated mission to "fix" online sharing, Google announced it would eliminate a much-criticized requirement to use a Google+ account when signing on to other Google services like YouTube. The move is the clearest indication yet that Google is ditching its playbook of trying to push everyone in the world use its social network.
+
+Google earlier this year began to spin out the service's most popular features, like Photos and Hangouts. What's left is being re-worked (or pivoted, as Google+ chief Bradley Horowitz said in his latest blog post) to find a salvageable kernel of a social experience that might still be built up to appeal to a large audience. Google+ launched with big aspirations but no well-defined purpose for users; now, very belatedly, Google is trying find some purpose for the social network as those aspirations shrink.
+
+Google+ has become a favorite punchline in the technology industry, but the objective was deadly serious. Interviews with more than a dozen Google insiders and analysts in recent months, many speaking on condition of anonymity for fear of retribution, paint the Google of 2010-2011 as increasingly fearful of Facebook snatching away users, employees and advertisers. Google tried to mobilize itself quickly, but approached the task with all the clumsiness of a giant trying to dance with a younger, nimble startup.
+
+Google CEO Larry Page speaks at a news conference at the Google offices in New York, Monday, May 21, 2012. Image: Seth Wenig/Associated Press
+
+Google launched Plus without a clear plan to differentiate the service from Facebook. It bet on a charismatic leader with a flawed vision, ignored troubling indications about the social network's traction (or lack thereof) with users and continued throwing features at the wall long after many had written Google+ off for dead.
+
+The slow demise of Google+ sheds light on how a large technology company tries and often fails to innovate when it feels threatened. The Google+ project did lead to inventive new services and created a more cohesive user identity that continues to benefit Google, but the social network itself never truly beat back existing rivals. Facebook is now larger than ever, with 1.4 billion users and a market capitalization more than half of Google's. It continues to poach Google employees. Facebook and Twitter are also slowly chipping away at Google's dominance in display ad revenue.
+
+"Google+ built a seamless identity and a social graph that rolled out to all Google products so they could log on using the same identity," says Punit Soni, a former Google product manager who worked on Plus and is now chief product officer at Flipkart. Finally, Soni says, "Google knew who you were."
+
+"What it could not do is give Google another destination to consume stuff," he adds. That's where Facebook continues to win.
+
+Kent Walker, Google's general counsel, was even more candid in his remarks about Google+ during a meeting with business leaders and antitrust regulators in Germany this March. He referred to the social network as part of a "painfully long list of unsuccessful Google products."
+
+Google+ tried to differentiate itself from Facebook with Circles, a feature to better customize who you share content with. Facebook later introduced a similar option. Image: Screenshot, Mashable
+
+The 100-day march
+
+The massive Google+ launch effort had all the hallmarks of a technology corporation: a code name ("Emerald Sea"), an artificial timeline (100 days to launch!), a dedicated secret building (with the CEO relocated there) and a full PR blitz once completed.
+
+“We’re transforming Google itself into a social destination at a level and scale that we’ve never attempted — orders of magnitude more investment, in terms of people, than any previous project,” Gundotra told Wired in a 2011 interview to promote the launch of Google+.
+
+Gundotra did not respond to multiple email requests for comment. Google declined to comment for this story beyond the blog posts put out on Monday.
+
+"It was absolute madness," one former Google+ employee says of the speed and "intensity" of the work during the crucial early months. "The best way to succeed in Vic's ecosystem is to be speedy. He has a bias for action. He may need to do more work on strategy."
+
+Google co-founder Sergey Brin demonstrates Project Glass. Google's misfires have haunted the company and have caused engineers to drive themselves even harder. Image: Kim Kulish/Corbis/Corbis
+
+For those elsewhere in the company, Google's approach to Plus represented a radical departure. Most Google projects started small and grew organically in scale and importance. Buzz, the immediate predecessor to Plus, had barely a dozen people on staff. Plus, by comparison, had upwards of 1,000, sucked up from divisions across the company. One employee on a different team recalled thinking at this time, "Where have our engineers gone?"
+
+Google ripped out its elaborate internal video conferencing system and forced employees to use the Google+ Hangouts video chat feature in Plus, which one employee described as "janky." It tied employee bonuses to the success of Google+. The secrecy and special treatment, largely unheard of before, and the proximity to the CEO — all of it created what another Googler describes as the sense of "something set apart."
+
+The final product, released on June 28, 2011, had several novel features: Circles, for grouping contacts to customize who you share what with; Hangouts, for group video chats; and Photos, which included decent photo-editing tools. Yet, members of the media, users and even some Google employees concluded Plus looked like Facebook, perhaps with a little Twitter sprinkled in for good measure.
+
+"When it launched we were like, 'This looks just like Facebook. What was the big deal? It's just a social network,'" a former Google employee not on the team recalls thinking after seeing the product for the first time. Says another Google exec who did work on the team: "All this fanfare and then we developed something that in the end was quite ordinary."
+
+Google+ lost some cred by looking too much like Facebook.
+
+'This isn't really working'
+
+Hindsight is always 20/20, but many on the Google+ team claim early data showed the new social network's struggles.
+
+Simply by virtue of Google's reach, it could quickly attract millions of users to a new service. "It was clear if you looked at the per user metrics, people weren’t posting, weren't returning and weren’t really engaging with the product," says one former employee. "Six months in, there started to be a feeling that this isn’t really working."
+
+Some lay the blame on the top-down structure of the Google+ department and a leadership team that viewed success as the only option for the social network. Failures and disappointing data were not widely discussed.
+
+"The belief was that we were always just one weird feature away from the thing taking off," says the same employee. Throughout the next couple years, Google improved its video hangout service and added smart, algorithmic photo-editing and search features, the latter of which earned plenty of praise, but did little to improve the overall reputation of Google+.
+
+In retrospect, multiple employees and analysts say, there were plenty of features and approaches that could have helped Google+ stand out, including a strong focus on mobile and messaging, two areas Facebook had not yet figured out. A suite of standalone apps, rather than a single social destination, might have worked as well. Unfortunately this wasn't the original proposal. The plan was essentially to out-Facebook Facebook.
+
+“What people failed to understand was Facebook had network effects," says Adams, the former Google+ user experience employee. "It’s like you have this grungy night club and people are having a good time and you build something next door that’s shiny and new, and technically better in some ways, but who wants to leave? People didn't need another version of Facebook."
+
+Vic Gundotra, Google's former Senior Vice President of Engineering, talks about Google Plus at the Google I/O conference in San Francisco, Wednesday, June 27, 2012. (AP Photo/Paul Sakuma) Image: Paul Sakuma/Associated Press
+
+Chris Wetherell, the founder of Google Reader, one of the company's earlier social efforts, pins the shortfall of Google+ to something more fundamental. "It wasn’t going to be why Google existed unlike the way it was for Twitter or Facebook," he says. "It was the wrong company at the wrong time."
+
+The dismantling (and rebuilding?) of Google+
+
+By early 2014, less than three years after its big launch, the Google+ team had moved out of its coveted building to a spot on campus further from Page. Gundotra announced his departure from the company that April — in a Google+ post, of course — to pursue "a new journey."
+
+Throughout Gundotra's tenure running social at Google, he alternately inspired and polarized his own employees and irritated other departments by encroaching on their fiefdoms with various Google+ efforts, according to multiple sources who worked with him. Gundotra's proximity to Page may have shielded him, but that could only last so long with the Google+ "ghost town" narrative and user backlash from the forced integration with YouTube.
+
+More than a year after leaving Google, Gundotra has yet to announce that next stop on his journey. Two former colleagues say Gundotra is still mostly traveling and relaxing. "He's too young to retire," one associate says. "He'll go on to do something else."
+
+David Besbris, who helped launch the social network with Gundotra, took over as head of Google+ and claimed that Google was committed to "social... for the long haul." Six months after making that statement, he was replaced in the top spot by Bradley Horowitz, a longtime Google executive.
+
+The buried news in the Horowitz announcement: Google had begun referring to its social operations as "Google Photos and Streams." In Horowitz's blog post this week, that name expanded to "Streams, Photos, and Sharing." By rebranding in this way, Google can separate the failure of "Streams" — the feed activity that most associate with a social network — from the more successful features bundled with it.
+
+Google Photos organizes your entire photo collection into a single mobile app. Image: Mashable, Pete Pachal
+
+"I’ve concluded that it’s time for a 'pivot'... or more precisely time to talk more openly about a pivot that’s been underway for some time (and in fact is reflected in the name of the new team)," Horowitz wrote on Monday, announcing the end of requiring a Google+ account to use Google products. "Google+ can now focus on doing what it’s already doing quite well: helping millions of users around the world connect around the interest they love. Aspects of the product that don’t serve this agenda have been, or will be, retired."
+
+Translation: Google+ is shifting from a Facebook clone to more of a Pinterest lookalike to see if it can build momentum. At the same time, Google is investing resources to build more standalone social products like the Photos app, which has generated plenty of positive press.
+
+"I don't think that owning a pure-play social network is important for Google at this point, but having a connection to social is important," says Brian Blau, an analyst who covers Internet companies for Gartner.
+
+If and when the Google+ brand is phased, as many we spoke with expect, Google won't need to say it killed Google+. Several years from now, when nobody is paying attention, a Google employee can just publish a long list of features that have been done away with as part of a routine spring cleaning. Halfway down that list, an astute reader will see the word "Streams."

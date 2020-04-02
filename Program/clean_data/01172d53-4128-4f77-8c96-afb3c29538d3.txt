@@ -1,0 +1,57 @@
+Share
+
+Welcome to all the new Google Reader users migrating to feedly. Here are some tips on how to adapt to the feedly desktop interface.
+
+If you are not running feedly, you can install the latest version free:
+
+Feedly for Firefox
+
+Feedly for Chrome
+
+Feedly for Safari
+
+Related: How to get the most out of your feedly on the desktop (CNET)
+
+Translations: Chinese
+
+Tip #0: Importing your Google Reader account
+
+To import your google reader feeds and categories over to feedly, simply login to your feedly using your google account. Feedly will automatically sync your Google Reader account with feedly.
+
+Tip #1: A more condensed view
+
+A lot of Google Reader users use their reader as a research/curation tool and need to be able to crunch through a lot of articles very fast. When you are in a feed or category page, you can click on the gear icon and select the Titles view to get a denser text only experience. If you want assign the titles view to all your feeds and categories, there is a global knob in the preference page.
+
+Tip #2: Starring Articles
+
+When you hover on an article or inline it, you should see a bookmark icon. We call it the save for later icon. It functions similarly to the Google Reader star mechanism.
+
+Tip #3: A more visual experience
+
+Some of our users are designers using feedly to keep up with trends in their industries. If the content of the sources you follow are very visual, we offer a Cards view which allow you to skim the content through a more visual experience.
+
+
+
+Tip #4 Preference Knobs
+
+At the bottom of the left selector, you will find a link to the feedly preferences. We offer a variety of knobs: auto-mark as read, link colors, default view, etc..
+
+Tip #5 Tagging
+
+Like Google Reader, feedly includes the concept of tagging. You configure your list of tags in the preference or create them one by one as you go.
+
+
+
+Then as you open and read an article, you will see a +Tag option pre-configured with all your tags. We are working very hard to integrate the feedly tagging with both Evernote and Pinterest so that you can quickly organize and share your best finds.
+
+This is a live document. If you just migrated from Google Reader and have questions regarding how to adapt your existing workflow to the feedly interface, please leave a comment and we will be happy to try to help. We will update document as we get tips and questions.
+
+Tip #6 Keyboard Shortcuts
+
+Press ? to get the list of the keyboard shortcuts supported by feedly
+
+Type #7 Pick the white theme
+
+At the bottom of the left selector, there is switch theme option. The white theme will make feedly feel more like the Google Reader environment.
+
+Did you recently switched from Google Reader to feedly? What are your tips?

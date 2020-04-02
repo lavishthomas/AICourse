@@ -1,0 +1,373 @@
+The goal of my recent post on the Yahoo! Web Analytics blog was to pull us up 10,000 feet to do something we do less than 1% of the time in the web analytics world – look at the bigger business picture.
+
+It was called: Secret To Winning With Web Analytics? Starting Right! (Yahoo! Analytics blog is dead, link now points to an alternative source.)
+
+While that was a very strategic post, it got me thinking at a tactical level.
+
+What if I was given the login and password to someone's web analytics data and asked to "find something interesting?" How would I start the process of web data analysis right? Even without any knowledge of the company's goals or help from a stubborn HiPPO or clients who just want data pukes? Can I add any business value?
+
+A real challenge!
+
+It turns out, astonishingly, that even with all those barriers (no objectives or goals or cooperation or business guidance), you can spend a couple hours and do decent enough analysis, sourced from your experience, to deliver some minor data-gasms of insights.
+
+Not quite the real intense ones that you might experience if all the foreplay had been done correctly (see the YWA post above), but still never say no to even minor orgasms right?
+
+Setting The Right Expectations
+
+It is nearly impossible to find earth shattering insights that you can action from your web analytics data in just a couple hours. And yet finding some delightful starting points might be less hard than you might imagine.
+
+Starting points to start valuable analysis from. (What data should I look at first?) Starting points for a customer centric strategy. (What are my customers telling me?) Starting points for gaps in your online marketing efforts. (Where am I wasting money?)
+
+Secret To Winning Web Analytics: 10 Starting Points For A Fabulous Start!
+
+This blog post is a starter guide that outlines the steps I personally undertake most commonly when handed the keys to the data for a website.
+
+I want to share where in your web analytics data you can find valuable starting points, even without any context about the site / business / priorities. Reports to look at, KPIs to evaluate, inferences to make. Here's what we are going to cover:
+
+Step #1: Visit the website. Note objectives, customer experience, suckiness.
+
+Step #2: How good is the acquisition strategy? Traffic Sources Report.
+
+Step #3: How strongly do Visitors orbit the website? Visitor Loyalty & Recency.
+
+Step #4: What can I find that is broken and quickly fixable? Top Landing Pages.
+
+Step #5: What content makes us most money? $Index Value Metric.
+
+Step #6: How Sophisticated Is Their Search Strategy? Keyword Tag Clouds.
+
+Step #7: Are they making money or making noise? Goals & Goal Values.
+
+Step #8: Can the Marketing Budget be optimized? Campaign Conversions/Outcomes.
+
+Step #9: Are we helping the already convinced buyers? Funnel Visualization.
+
+Step #10: What are the unknown unknowns I am blind to? Analytics Intelligence.
+
+Ready to rock the world of Marketing and Analytics? Let's go!
+
+Step #1: Visit the website. Note objectives, customer experience, suckiness.
+
+My biggest beef with web analysts and consultants is how quick they are to jump into Google Analytics or Omniture or WebTrends. It's as if they have never seen a report with Visits & Conversions before. Jeez!
+
+The very first thing I do, and I recommend you do, is visit the website whose data you are analyzing. See how it looks. Go to the product pages. Go to the donation pages. Go to the B2B dancing monkey video (what!). Go to the add to cart page. Go to the RSS / Email sign up page and sign up. Go read some customer reviews (if a ecommerce site) or visitor comments (if a blog). Go download the white papers. Go use site search.
+
+Get a feel for the company's vibe. Get a feel for the information architecture and cross sells and font size and buttons and tab structure and user experience etc. What's hideous? What's awesome?
+
+Bonus points for visiting one competitor's website. Do all of the above.
+
+Take out a note pad and write down your thoughts. What did you like? What did you hate? What frustrated you? What was obviously broken? What's the site trying to do?
+
+At the very minimum your notepad should contain answers to these two questions: What is the macro-conversion? What are two or three micro-conversions? Remember those terms apply to ecommerce and non-ecommerce websites.
+
+The site owner / client did not help you, but you've not got super valuable context. You're ready for data!
+
+.
+
+Step #2: How good is the acquisition strategy? Traffic Sources Report.
+
+This is the very first place I end up because the first thing I want to know is how savvy the company is about online marketing. All other site data comes second because if you stink at online marketing then there is not much of a victory to be had by torturing website data.
+
+No company in the Milky Way has succeeded without having a balanced portfolio of acquisition channels (fancy word for source of traffic). How's yours?
+
+
+
+What to look for:
+
+I am really looking for a balanced portfolio of traffic sources. Search, Referring Sites, Direct, Campaigns. Which one is strong? Which one is missing?
+
+Based on my own humble experience the site on the left is what approximates the kind of "best practice" (note the quotes) you are looking for.
+
+Around 40% to 50% Search is normal. If the number is too big (site on the right) it indicates an overexposure to search rankings and algorithm changes (not good at all). If it is too low you are simply leaving money on the table. And of the search traffic, you want a big portion to be Organic so you are not just "renting" traffic or suck at SEO.
+
+20% or so Direct Traffic. If the web analytics tool is implemented right these are all your existing customers or people from offline campaigns. You want a healthy amount of both. If direct traffic is low, I worry if you are any good at customer service / retention (the latter is so often just an afterthought).
+
+20% to 30% Referring Sites. You can't just rely on search engines or spending money on campaigns. A healthy web strategy includes a robust amount of traffic from other sites that link to your products and services, and praise (or slam!) you, or promote you on Twitter and Facebook and forums and otherwise link to you. Free traffic (usually) and you do want that (for many reasons).
+
+10% Campaigns. Google Analytics (sub optimally) calls this Other. It is email campaigns, display / banner ad campaigns, Facebook display campaigns, social media campaigns etc. You want at least 10% of the traffic to be the ones you invite to your site deliberately, after solid analysis and great targeting. Outside of Paid Search. It's a sign of a healthy business that has a diversified customer acquisition strategy.
+
+Consider the above as broad guidelines, again based on my online marketing experience. YMMV, certainly for esoteric types of businesses.
+
+What to do next:
+
+I'll make note of where the company is overleveraged and make a note to dig deeper with the client / HiPPO. Expose the dangers to them, brainstorm how to diversify.
+
+For each bucket I'll look at least the top ten rows. Additionally, for at least one of the four buckets I'll dig deeper by looking at the standard report for that segment to identify some strengths or weaknesses. Surprising keywords, missing sources of traffic, trends in campaign vs. direct visits etc.
+
+At the end of this you'll understand how sophisticated the client is, where you'll attack acquisition first (if you get the time and money to do more analysis).
+
+Step #3: How strongly do Visitors orbit the website? Visitor Loyalty & Recency.
+
+I have a sense for the site and I have a sense for the client's acquisition savvy. Time to focus on the Visitors!!
+
+Most people create sites just for themselves and with no obvious purpose in mind. Furthermore the content publishing schedules, perceptions of "engagement" are all out of whack.
+
+So what I (and you, dear blog reader) want to do is get a sense for how strongly attached are the Visitors to the site. This is of course crucial for any type of content site, but you'll be surprised at how important it is even for an ecommerce website (retention, support, repeat purchases, yada yada yada).
+
+The report I'll look at is the standard Visitor Loyalty report. It would show how many times in a given time period the same person (persistent cookie actually) visits the website. Or, how tightly the Visitor orbits the site!
+
+All tools have this report, Here is how it looks like in Google Analytics:
+
+What to look for:
+
+For site number one it is clear there are a lot of one night stands (47%). But notice that bottom, an astonishing 40% of the people visit the site more than 9 times a month! You get a sense for content consumption patterns, you get a sense for your next task (segment the 40, learn what's working there, apply to the 47!), you get a sense for whether the site's delivering on its business objectives.
+
+If the data looks more like site two, cry. Ok, most of the time cry. This site simply engages in one night stands, and while I can think of some sites where that can still be the basis of a long term sustainable business model. . . I can't think of a lot of them.
+
+Not a tight orbit. So what? Remember the notes you took in step one? What's the impact of the loyalty pattern on the objectives you noted? With some solid data you are ready to have a discussion with the client / site owner / HiPPO. Take a tissue.
+
+While I love Loyalty the most, I also take a quick peek at Visitor Recency. This is specific to content sites (newspapers, yellow pages, hospital, "I am the next facebook-killer" sites, etc).
+
+Visitor Recency measures the gap between two visits of the same visitor. Or, When was the last time you saw the same person (cookie really). Here's the report:
+
+How amazing is it that 37% of the traffic on the site last visited less than 24 hours ago! Talk about orbit!
+
+Segmenting this data is best (by content, source, campaign, outcomes, etc), but even a cursory review will help you understand how people behave.
+
+What to do next:
+
+I always review two more reports that give me a sense for content consumed. No, no, not the silly reports that show mostly useless metrics like Average Time on Site and Average Pages Per Visitors (averages stink!).
+
+I am talking about Length of Visit and Depth of Visit:
+
+With Loyalty and Recency we measured visitors visiting, but once they are here what are they doing? That's what you are trying to get a sense for with these two reports. [Remember visits with just one page view, bounces, will be in the first bucket 0-10. For why, see: How time on site & time on page are computed]
+
+If you have some time segment out the bigger buckets (beyond 0-10) and analyze the data. If you don't have time just knowing Loyalty, Recency, Length, Depth tells you a lot about how tightly Visitors orbit this site, and understanding customers is precious.
+
+Step #4: What can I find that is broken and quickly fixable? Top Landing Pages.
+
+Understand site? Check! Understand traffic sources? Check! Visitors? Check!
+
+Time to take off the gloves and some clothes and get dirty.
+
+Companies spend lots of money acquiring traffic, often badly, so why not find top places where that money is being wasted and which home pages might possibly be stinky? Visitors refuse to give you a single click? That might be a useful signal. : )
+
+In your web analytics tool this is a standard report. It shows bounce rates, sweetly indexed against site average, for the top entry points to the website:
+
+What to look for:
+
+The red parts! See why I like "indexed against site average" feature? It is easy to know what smells bad.
+
+Three landing pages (entry points to your site) are performing really well. Seven seem to be bouncing at a much higher rate than normal, some spectacularly so. At this point you don't know why.
+
+When you see that a page has a high bounce rate it could mean one of two things:
+
+1. Wrong people are coming to your site (highlighting problems with campaigns, SEO, etc) or
+
+2. The page itself is poorly constructed (missing calls to action etc) or otherwise broken.
+
+At this point you don't know which of the two (or both) is the problem. Since you don't have a lot of time pick two of the biggest losers above. Click on the arrow thingy next to their name in the above report and visit them. Sometimes the problem is obvious. Next click on the link itself in the above report and visit the page level report. There in the drop-down pick Entrance Sources and Entrance Keywords. That segmented view will quickly tell you which sources and / or keywords are contributing huge bounces.
+
+Now, at least for two or three pages of the site you are analyzing you know that they stink and you have decent clues of what the cause(s) might be. Give yourself a pat on the back. Great job!
+
+[An exception: Analyzing bounce rates for a blog, or "bloggish" site? Segment and look at landing pages for New Visitors; for all other sites the method is as above.]
+
+What to do next:
+
+In this case you are in a position to recommend specific fixes. You have looked at the pages and sources of traffic (proxy for customer intent). You can use a heuristic evaluation process to tell the site owner what fixes will help reduce bounce rates.
+
+A clean and handy checklist is here: Qualitative Analytics: Heuristic Evaluations Rock!
+
+I am telling you people are going to love you for being this awesome.
+
+Step #5: What content makes us most money? $Index Value Metric.
+
+Most effort on any given website is spent on content creation, and hence for step five I encourage you to stick with page reports, but flip the funnel from an "input metric," bounce rate, to an "output metric," $Index value.
+
+For an ecommerce (with revenue) or a non-ecommerce website (where goal values have been defined) $ Index value essentially computes "how much revenue" has been earned by a page (more like contributed by a page). It is a great way to gauge the value of a page.
+
+Go to any content report, in this case Content By Title and you'll see the last column:
+
+What to look for:
+
+Quite simply the types of content that add most value to an ultimate outcome for your website. In the above screenshot it is pretty clear that even in the top ten the range of value added is from $8.79 to $0.10.
+
+Would your boss / client not die and go to heaven if you told them exactly what types of content they should be writing / pimping more and what less? How about pages of which product / services generate most value?
+
+Or my favorite report to look at: Content by Drilldown.
+
+That report is particularly apt for sites that are organized in clean directory structures (like /products, /videos, /demos, /blog, /whatever else). Now you are able to discern which groups of content is most valuable to the company. Are videos really valuable? How about really heavy painful Silverlight demos? Wish lists work? The answer awaits!
+
+If you don't have clean directory structure you can still use segmentation to group content and do the above.
+
+What to do next:
+
+This takes very little time. Use the Analytics Weighted Sort feature.
+
+What I am doing above is answering this question: "Forgetting about top $index value pages and the bottom ones, which currently high value $index pages should I focus on to have the highest impact on my bottom-line?"
+
+That is a very hard question to answer unless your web analytics tool has algorithmic intelligence built in. You click that check box and boom! There's the answer that will endear you to your boss / client for a long time. Hugs might even come into play.
+
+Focus not just on what's causing good stuff today, focus on hidden areas where good stuff might happen in future.
+
+Step #6: How Sophisticated Is Their Search Strategy? Keyword Tag Clouds.
+
+Pages, and valuable bits of content, done. Time to refocus on high value acquisition.
+
+Search.
+
+It is really hard to get a "big impact" understanding of search strategy sophistication just from tables of top ten rows in Google Analytics or Omniture or CoreMetrics. Mostly because I don't want to look at the same lame obvious things.
+
+So I like to yank the data out and create a tag cloud of all 40, 50, 100 thousand rows of data. Export as CSV. All Rows. Paste into www.wordle.net Magic:
+
+What to look for:
+
+[All data in examples below was taken from competitive intelligence tools as I don't have access to data for sites used here.]
+
+A tag cloud very quickly shows the story in hundreds of thousands of keywords. In the case above, The Church of Jesus Christ of Latter-day Saints, it becomes quickly apparent that the Mormon Church has done a near magnificent job with search.
+
+The brand dominates (as it should), but what is truly impressive is how many other words are also prominent (the valuable non-brand ones, even the long tail ones). If you know even a little bit about the Church you'll also be impressed that this tag cloud is a validation that the words the LDS church would like to be associated with it are prominent, and ones it does not are not as prominent. An amazing job by them. Pretty easy to see the themes (music, scriptures, family, etc) that you can then take back to your client/boss and validate whether they line up with business goals.
+
+You can easily create these views for Paid Search keywords or Organic and find even more valuable insights.
+
+Tag clouds are great at understanding the big strategic picture and understanding the sophistication, or lack there of, for any brand. Compare the LDS church with. . . something completely different. . . Chase Bank:
+
+For Chase, walk through the analysis I was doing above for the Church. What do you think?
+
+In Wordle even after I remove the big words (representing massive traffic) from the cloud (say the words Chase and Bank) the story does not get much better.
+
+How about this one:
+
+See what I mean? Simple data presentation technique, some pretty big insights.
+
+Tag clouds have limits. You don't know what the problem is. Is it people? Is it a lack of sophistication? Is it using too much cruise control? Is it bad SEO? Is it. . . you'll have to dig. But you have 1. A great understanding of the site's search data and 2. Something of incredible value to present to your boss / client.
+
+What to do next:
+
+I am a big fan of internal site search analysis. Few other sources contain as much direct customer intent as this. Visitors to your site are directly telling you what they are looking for. The challenge, as always, is gathering up all that intent into something understandable.
+
+How about downloading all that and creating a quickie tag cloud?
+
+I can look over my pages viewed and time spent and Google'd keywords and all that. Or I could analyze the story above and at a glance understand what people are seeking.
+
+Then, based on time available, we could analyze where people start searching, how many of them bounce off the internal search results page, what is the conversion rate / goal values for at least the top x of the above searches, etc etc.
+
+I could even mine data above to see what other topics I could write more about (or in your case. . . what new products you could sell / stock / invent!).
+
+Step #7: Are they making money or making noise? Goals & Goal Values.
+
+With a tiny detour into search (always one of the biggest components of most people's acquisition strategies) we will go back to my first love: Outcomes! Ok, ok, ok it's customers, but outcomes are close.
+
+I can tell the sophistication of any business (and the HiPPOs) by what I see in this report, Goal Conversions & Goal Values:
+
+What to look for:
+
+The first thing to check is if you see anything here.
+
+If you don't see anything here, and the company has been around for some time, then you know you are going to struggle, in case this is a consulting gig, to make any decent money off them or, in case this is your first day in your job, you are going to not get a lot of love in this company as an Analyst. I am not saying quit, I am just saying dig in 'cos it is going to be a soul-searing struggle if this report is empty.
+
+On the other hand if macro and micro conversions are present then get down on your knees and say a silent prayer because this is going to be fun.
+
+Check if the actual goals & conversions are what you had noted in Step 1. If they are not then what are the visitors to the site doing of business value? Anything you noted in Step 1 that is not here (new goals to create?). What do the trends over the last 12 to 16 weeks suggest? What Goals are contributing the most amount of value?
+
+At the end of this little exercise you should be able to confidently speak to your client / boss about how the website is meeting business objectives, and possibly where it is failing. If you did Steps 2 through 6 well then you might even have other actionable recommendations to make.
+
+What to do next:
+
+If there were some goals you had identified, or your client/boss was expecting, then take a moment to configure those in the web analytics tool.
+
+If they do not have any behavioral goals created (99% of the people don't), then create those, takes just a moment. Refer to your insights from Step 3 to set the threshold values.
+
+If this was an ecommerce website I would typically create one segment as a little bonus for the client. Orders where the total value was 50% higher than the average order value. Essentially the "whales" – people who order way more than normal. My hope is to get particularly valuable insights about where these people come from (geographies, campaigns, keywords, etc), what they do on the site (content consumed etc), and what they buy (shopping cart / basket analysis etc).
+
+You want a lot more of these people. It is good to understand them really well.
+
+Step #8: Can the Marketing Budget be optimized? Campaign Conversions/Outcomes.
+
+Remember the only three outcomes that are important in web analytics? More Revenue. Reduced Cost. Increased Customer Satisfaction.
+
+In this step I focus on the second item, reducing cost. Perhaps it is surprising as this is our very first foray into the web analytics data, we have received limited love from the client / HiPPO, and we don't have all the company business specific knowledge that might be necessary. Yet we can help reduce cost of marketing / customer acquisition.
+
+My favorite report? Goals / Conversions by Campaign:
+
+What to look for:
+
+Campaigns as in Paid Search and Display and Email and Social Media and really anything of value you'd discovered in Step 2.
+
+Start by looking at the horribly named "Other" report in Google Analytics (or perhaps the appropriately named Campaigns report in your web analytics tool). Initially allow yourself to be guided by that column at the end Per Visit Goal Value. It is a measure of efficiency. Notice above you go from $1.02 to $63, it is not hard to guess one campaign is working better than the other.
+
+Then work backwards and see what conversion numbers look like. Then work further back and see which individual goals might be causing that high value to be created.
+
+At the end of this exercise you should have some preliminary recommendations for at least one or two places money is potentially being wasted, or at least inefficiently spent. Killing opportunities (example: More better email campaign, less crappy Facebook pages!). You should also have some sense for where improvement opportunities might exist (I had a bunch above where PVGV was 40 cents).
+
+What to do next:
+
+Pick one or two major campaign strategies the company is executing and dive deep into ecommerce analysis (if the client is ecommerce). The two screenshots of Paid Search and Yahoo! Display campaigns gives you just a small hint about how much opportunity exists below the surface to dig and understand the deltas between conversion rates and the average order values and the trends for those key metrics.
+
+Far too often in the web analysis world our obsession is with analyzing behavior (visits and time on site, etc.) or with focusing on how to get more visits (spend more money!). If you want serious attention (and love) from your client / boss then you'll focus initially on cost reduction. You've seen that obsession of mine in almost every step here. I have learned this lesson from a lot of painful personal experience. I encourage you to embrace it as well.
+
+Step #9: Are we helping the already convinced buyers? Funnel Visualization.
+
+Ending on cost reduction was a good point. In this step we are going to do one awesomely sweet thing: focus on perhaps the fastest way to increase outcomes for the business!
+
+The poor funnel report is so underappreciated. While unstructured path analysis is the biggest waste of time you could engage in, structured path analysis is literally manna from heaven.
+
+You want people to go through a series of steps (one after another) to meet a goal (for them and you). Credit card applications and ecommerce orders and donations to non-profits and leads to potential email spammers (I kid, I kid, I kid the spammers!).
+
+The funnel report shows where in your three or four stepped process people leave.
+
+What to look for:
+
+The red bars. The bigger red bars.
+
+I wish I could write lots and lots about this, but that is all there is to it (if the funnel was correctly created).
+
+Look for where the highest exits exit in the funnel. Go look at the page with your eyes, get your mom and your BFF to look at it as well, identify improvements (heuristic is ok), submit them to your client / boss for fixes. The utterly lame ones you can just kill, the moderately lame to "don't know if this might be an issue" things go into an A/B testing bucket.
+
+Either way, here is the analogy. Someone walked into your supermarket. They filled their cart full of stuff. They line up at a cashier and take out their wallet. They notice the loooong line. They move the cart aside and leave. You don't want them to leave! It was so hard to get them to come and add to cart and line up! Fix anything that stands in the way of the open wallet and you.
+
+What to do next:
+
+In many cases the above funnel process happens over multiple visits (sessions). In that case your normal Google Analytics (or Adobe Site Catalyst or WebTrends or NetInsight) funnel won't work. Well, it will "work" but show imprecise data.
+
+Switch to something like PadiTrack. It measures pan-session funnel conversion performance. The same Visitor can enter and exit and finally convert across sessions and you'll be able to see that behavior.
+
+Another compelling thing about PadiTrack is that you can view, praise the lord, segmented funnels! Search and Display and Email Visitors convert via different behavior, and finally you'll be able to see this.
+
+PadiTrack is free, works using the free Google Analytics API, and works on historical data! Most web analytics tools, including paid tools, can't do that!
+
+Step #10: What are the unknown unknowns I am blind to? Analytics Intelligence.
+
+Without any help from my boss or marketer or mom I have got through nine steps of web data analysis and found a few concrete and meaningful bits of actionable insights.
+
+But the danger of doing this with no tribal knowledge, or intelligent party at the other end, is that I might miss something I simply don't know because I don't know it.
+
+The unknown unknowns!
+
+So before I close any analysis for a website I go look at the Google Analytics Intelligence reports. There I can count on the fact that the unique intelligent algorithm in GA has done forecasting and applied control limits and statistical significance and much more math to help identify anomalies in the data. I see its soothing embrace:
+
+What to look for:
+
+Initially I set the Alert Sensitivity to Low (multiple standard deviations away from the mean) and see what automatic alerts show up. These are big events, so most important. Then I move the slider slowly towards the right see what other alerts pop up (see the Traffic Source part in the above image).
+
+I am looking for events and activity, on the site or caused by others externally, that I (and usually even the client / boss) would not be aware of. The unknown unknowns.
+
+Your discoveries here are great way for you to check your own work in the above steps (perhaps some of what you thought did not make sense does make sense now). They are also a great way to impress your client / boss that you somehow, let's just say magically, discovered things that even they, the most data driven of data driven companies, might be unaware of in their own data.
+
+What to do next:
+
+The hard part with Intelligence (custom or automatic alerts) is to isolate the root cause. Look at the newly released GA Intelligence Major Contributors section. That has the clues about root cause. Leverage the advanced segmentation feature to isolate the activity causing source / behavior / outcome and dig deeper.
+
+[For more checkout the videos on Google Analytics Intelligence.]
+
+And you are done! Does that not feel awesome? And more importantly, doable?
+
+Summary: The Beginner's Guide / Tips / Best Practices For Web Data Analysis
+
+In case you needed a handy checklist, here's what we've learned today:
+
+Step #1: Visit the website. Note objectives, customer experience, suckiness. Step #2: How good is the acquisition strategy? Traffic Sources Report. Step #3: How strongly do Visitors orbit the website? Visitor Loyalty & Recency. Step #4: What can I find that is broken and quickly fixable? Top Landing Pages. Step #5: What content makes us most money? $Index Value Metric. Step #6: How Sophisticated Is Their Search Strategy? Keyword Tag Clouds. Step #7: Are they making money or making noise? Goals & Goal Values. Step #8: Can the Marketing Budget be optimized? Campaign Conversions/Outcomes. Step #9: Are we helping the already convinced buyers? Funnel Visualization. Step #10: What are the unknown unknowns I am blind to? Analytics Intelligence.
+
+The first time you go through the steps outlined in this guide it might take you more than 120 minutes. But I promise you that with time and experience you'll get better.
+
+I wish just reading this blog post (it probably took you 120 minutes just to read it!) would be enough. It is not. You'll have to go practice it on many many clients. The more you do it the better you'll get as your sense of direction, data, discovery and deduction get better and better and better.
+
+It is optimal to start any web analysis with a clearly defined web analytics measurement model. But if you don't have one then you no longer have an excuse not to provide something small that is incredible and of value from any web analytics tool you have access to, for any website in the world. And know that I am rooting for you!
+
+Ok, your turn now.
+
+When you are thrown into a website's data blind what are the first few things you do? What reports and metrics do you attack first? Over time have your discovered any strategies that work across multiple clients? Do you agree with the order of the steps above? Would you do something differently?
+
+Please share your thoughts / critique / best practices / tips via comments.
+
+Thanks.

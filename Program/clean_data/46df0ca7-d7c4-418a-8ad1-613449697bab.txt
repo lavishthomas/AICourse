@@ -1,0 +1,53 @@
+There’s a quiet revolution underway in theoretical physics. For as long as the discipline has existed, physicists have been reluctant to discuss consciousness, considering it a topic for quacks and charlatans. Indeed, the mere mention of the ‘c’ word could ruin careers.
+
+That’s finally beginning to change thanks to a fundamentally new way of thinking about consciousness that is spreading like wildfire through the theoretical physics community. And while the problem of consciousness is far from being solved, it is finally being formulated mathematically as a set of problems that researchers can understand, explore and discuss.
+
+Today, Max Tegmark, a theoretical physicist at the Massachusetts Institute of Technology in Cambridge, sets out the fundamental problems that this new way of thinking raises. He shows how these problems can be formulated in terms of quantum mechanics and information theory. And he explains how thinking about consciousness in this way leads to precise questions about the nature of reality that the scientific process of experiment might help to tease apart.
+
+Tegmark’s approach is to think of consciousness as a state of matter, like a solid, a liquid or a gas. “I conjecture that consciousness can be understood as yet another state of matter. Just as there are many types of liquids, there are many types of consciousness,” he says.
+
+He goes on to show how the particular properties of consciousness might arise from the physical laws that govern our universe. And he explains how these properties allow physicists to reason about the conditions under which consciousness arises and how we might exploit it to better understand why the world around us appears as it does.
+
+Interestingly, the new approach to consciousness has come from outside the physics community, principally from neuroscientists such as Giulio Tononi at the University of Wisconsin in Madison.
+
+In 2008, Tononi proposed that a system demonstrating consciousness must have two specific traits. First, the system must be able to store and process large amounts of information. In other words consciousness is essentially a phenomenon of information.
+
+And second, this information must be integrated in a unified whole so that it is impossible to divide into independent parts. That reflects the experience that each instance of consciousness is a unified whole that cannot be decomposed into separate components.
+
+Both of these traits can be specified mathematically allowing physicists like Tegmark to reason about them for the first time. He begins by outlining the basic properties that a conscious system must have.
+
+Given that it is a phenomenon of information, a conscious system must be able to store in a memory and retrieve it efficiently.
+
+It must also be able to to process this data, like a computer but one that is much more flexible and powerful than the silicon-based devices we are familiar with.
+
+Tegmark borrows the term computronium to describe matter that can do this and cites other work showing that today’s computers underperform the theoretical limits of computing by some 38 orders of magnitude.
+
+Clearly, there is so much room for improvement that allows for the performance of conscious systems.
+
+Next, Tegmark discusses perceptronium, defined as the most general substance that feels subjectively self-aware. This substance should not only be able to store and process information but in a way that forms a unified, indivisible whole. That also requires a certain amount of independence in which the information dynamics is determined from within rather than externally.
+
+Finally, Tegmark uses this new way of thinking about consciousness as a lens through which to study one of the fundamental problems of quantum mechanics known as the quantum factorisation problem.
+
+This arises because quantum mechanics describes the entire universe using three mathematical entities: an object known as a Hamiltonian that describes the total energy of the system; a density matrix that describes the relationship between all the quantum states in the system; and Schrodinger’s equation which describes how these things change with time.
+
+The problem is that when the entire universe is described in these terms, there are an infinite number of mathematical solutions that include all possible quantum mechanical outcomes and many other even more exotic possibilities.
+
+So the problem is why we perceive the universe as the semi-classical, three dimensional world that is so familiar. When we look at a glass of iced water, we perceive the liquid and the solid ice cubes as independent things even though they are intimately linked as part of the same system. How does this happen? Out of all possible outcomes, why do we perceive this solution?
+
+Tegmark does not have an answer. But what’s fascinating about his approach is that it is formulated using the language of quantum mechanics in a way that allows detailed scientific reasoning. And as a result it throws up all kinds of new problems that physicists will want to dissect in more detail.
+
+Take for example, the idea that the information in a conscious system must be unified. That means the system must contain error-correcting codes that allow any subset of up to half the information to be reconstructed from the rest.
+
+Tegmark points out that any information stored in a special network known as a Hopfield neural net automatically has this error-correcting facility. However, he calculates that a Hopfield net about the size of the human brain with 10^11 neurons, can only store 37 bits of integrated information.
+
+“This leaves us with an integration paradox: why does the information content of our conscious experience appear to be vastly larger than 37 bits?” asks Tegmark.
+
+That’s a question that many scientists might end up pondering in detail. For Tegmark, this paradox suggests that his mathematical formulation of consciousness is missing a vital ingredient. “This strongly implies that the integration principle must be supplemented by at least one additional principle,” he says. Suggestions please in the comments section!
+
+And yet the power of this approach is in the assumption that consciousness does not lie beyond our ken; that there is no “secret sauce” without which it cannot be tamed.
+
+At the beginning of the 20th century, a group of young physicists embarked on a quest to explain a few strange but seemingly small anomalies in our understanding of the universe. In deriving the new theories of relativity and quantum mechanics, they ended up changing the way we comprehend the cosmos. These physcists, at least some of them, are now household names.
+
+Could it be that a similar revolution is currently underway at the beginning of the 21st century?
+
+Ref:arxiv.org/abs/1401.1219: Consciousness as a State of Matter

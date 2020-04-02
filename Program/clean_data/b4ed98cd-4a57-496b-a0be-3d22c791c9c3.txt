@@ -1,0 +1,41 @@
+Nope, that’s not a misspelling in the title. Raspberry Pi has as little to do with raspberry pie as it does with giving someone a raspberry (you know, the kind you used to give people on the playground back in the day).
+
+Raspberry Pi is a credit-card-sized computer – it can literally fit in your pocket, it’s so tiny! Because of this, there’s no storage built-in; but, you can use an SD card (like the one in your camera) for booting up and to store all your data. The best part? It’s only $25! It has been developed with the intention of promoting more computer science classes in schools, and the low price point makes it easier for schools to adopt. We love it.
+
+As new as it is, there is quite a bit of software that’s compatible with Raspberry Pi, and as such, makers and hackers everywhere have had their fair share of tinkering with this little gizmo. We actually have one here in the Brit + Co. office and have had lots of fun with it.
+
+And while Raspberry Pi is definitely on the more advanced side of DIY tech here at Brit + Co, we are totally intrigued by all that you can create with it. You will be, too!
+
+To get your creative juices flowing with all the ways you can use this thing, we’ve found 15 such gadgets you can make with this teeny tiny $25 computer.
+
+1. BeetBox: This instrument lets people play drum beats by touching actual beets, powered by Raspberry Pi. So cool. Click here to see a full video of how it works.
+
+2. Baby Monitor: Want to win major geek points with your fellow nerdy moms and dads? Create a baby monitor using Raspberry Pi and a USB microphone! You might not save tons of cash, but you will wow everyone with your hacking skills.
+
+3. Retro Rotary Phone: Designed to ring when you get a call via Skype, this old school rotary phone is surprisingly new school.
+
+4. Wearable Computer: Who needs Google Glass when you can carry a Raspberry Pi in your pocket connected to a pair of super fancy video glasses?
+
+5. Remote Control Car: This remote control car has Raspberry Pi crammed right into the body of it and can be controlled via Wi-Fi to the Pi. Rather than needing to stand above your remote control car to steer it, you can be anywhere so long as the car is receiving a strong Wi-fi signal. If you really want to freak out house guests, you can configure port forwarding so that you don’t even need to be in the same building or on the same network to control the car.
+
+6. Bartendro: Need a bartender at your next shindig? The Bartendro is the robot for you! Program the Bartendro to create and dispense delicious cocktails with absolute perfect precision. Once it’s up and running, each cocktail can be made in only 10 seconds. This means that the Bartendro can actually make up to 200 cocktails in one evening – now that is a seriously a rad party trick.
+
+7. Laptop: Cleverly dubbed the LapPi, this laptop is built from spare parts, unallocated electronics, scrapped components and cables, and a Raspberry Pi!
+
+8. Gamer Coffee Table: This sleek coffee table is a gamer’s dream. It’s a coffee table with a built-in LCD screen that can actually run games powered by Raspberry Pi.
+
+9. Color My Desk: Need some more creative lighting around your workspace? This worker bee created a custom lighting system around his desk that can be fully controlled from the Pi.
+
+10. Scrolling Marquee Table Card: Forget the scrolling LED belt, this idea for a wedding table card is pretty darn cool. It’s an LED Matrix driven by Raspberry Pi, programmed in Python, and pulling information from ESPN’s API. We love the idea of having it a guest book table with fun facts about the couple scrolling past.
+
+11. Automatic Drip Irrigation System: This little doodad waters your plants! The 3D printed piece has a solar panel on top for power, a servo for controlling water flow through the irrigation system (connected at the nubs), an XBee for communicating with the Pi upstream, four buttons for changing the watering schedule in-garden, and a moisture sensor built from cast plaster. The Raspberry Pi functions as a web server, can communicate with the device, and allows the user to see a graph of the watering history of the plant, as well as perform a one-time automatic watering or set a schedule of future watering.
+
+12. Raspberry Pi EggBot: You thought the EggBot was cool on it’s own? Forget about it! Add Raspberry Pi to the mix and you’ve got a standalone Easter egg decorating robot. Amazing.
+
+13. Nerf Gun Robot: What’s not to love? It’s an automated Nerf Gun robot that records video and is controlled by WiFi. It’s powered by the first generation Romo by Romotive and a Raspberry Pi.
+
+14. LED Matrix: Another marquee type of thing, this 24 inch by 6 inch matrix is more like a piece of 80s-inspired wall art.
+
+15. Home Alarm: Want to take the DIY approach to keeping your home safe and sound? HomeAlarmPlus Pi is an open source home alarm monitoring system using Raspberry Pi, Netduino Plus, ATtiny 85, and a typical home alarm system. What makes it better than a regular home alarm? It reports any sensor and motion detector activities via email, local web server, and notifications.
+
+Have you ever seen a Raspberry Pi in action? What would you use it to create? Talk to us in the comments below.

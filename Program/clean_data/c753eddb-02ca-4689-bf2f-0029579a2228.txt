@@ -1,0 +1,15 @@
+After treatment for a woman suffering from leukemia proved ineffective, a team of Japanese doctors turned to IBM’s Watson for help, which was able to successfully determine that she actually suffered from a different, rare form of leukemia than the doctors had originally believed.
+
+Watson managed to make its diagnosis after doctors from the University of Tokyo’s Institute of Medical Science was fed it the patient’s genetic data, which was then compared to information from 20 million oncological studies.
+
+This analysis found a different diagnosis for the type of leukemia from which the patient suffered, and it suggested a different form of treatment, which proved far more effective than the original methods doctors had been using up to that point.
+
+What’s next, robot doctors?
+
+Watson’s success demonstrates the huge potential of data analysis and artificial intelligence, which extends far beyond predicting networking needs or following stock market trends. With enough genetic data an the right algorithms, tools like Watson could be used for everything from diagnosing rare illnesses to prescribing perfectly correct dosages of medicine based on each patient’s personal genetic makeup.
+
+Of course, creating the massive DNA repository that would be necessary for this kind of analysis comes with a number of problems, especially when it comes to privacy. While the data could offer a number of medical benefits, it would have intimate knowledge of every person in the database, from their physical features to their ethnic background and more.
+
+Another issue is the fact that Watson can only look at existing information on disease, meaning that rarer ailments with few clinical studies would be harder to detect simply because there is not enough data available.
+
+The technology is certainly there for the eventual creation of an AI version of House, but there are still plenty of hurdles that will need to be overcome before that day arrives, both in public perception and in governmental regulation.

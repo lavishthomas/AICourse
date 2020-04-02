@@ -1,0 +1,181 @@
+There’s something new in the world of tracking: the container tag. It’s more commonly known as Tag Management. You may have heard of it over the last year or so.
+
+Very quickly this technology has spawned a number of companies and investment in this area. Some of the more well known tag management tools are (in no specific order):
+
+[NOTE: I’ve been updating this list as more and more tag management tools become available.]
+
+
+
+The rapid growth is validation that the simple act of tagging a site is complicated, and to do good measurement businesses need a faster, quicker and easier way to implement different types of tracking.
+
+What is a Container Tag?
+
+A container tag is simply a tag. It’s a line of JavaScript that you add to the pages of your site. But the special thing about the container is that it can hold other tags. Hence the name ‘container’.
+
+In most cases you populate the content of the container tag using some type of web interface. Then the tag management vendor pushes out the content via their network (or CDN).
+
+The beauty is that you remove the need for coding changes when you want to modify your analytics tags. Less work for the IT department!
+
+The downside is that you can bypass some of the QA process that IT uses to insure the performance and safety of the website (or app).
+
+But that’s the tradeoff.
+
+Every business needs to evaluate the risk and rewards and decided if they should use a tag management solution.
+
+I personally like container tags as long as they’re used carefully.
+
+Rules: Making Tag Management Awesome
+
+In my opinion, the really cool thing about tag managers is their ability to control which tracking code appears on a page. Most tag managers have some type of rules engine that can change the output based on the URL of the page or some other attribute.
+
+For example, you could create a rule that insures your AdWords conversion tag only appears on your receipt page by specifying the container only show the AdWords tracking code when the URL of the page matches the URL of your receipt page.
+
+Or you could customize the Google Analytics tracking code by including a custom variable based on a page attribute.
+
+Dynamically Collecting Data with a Container
+
+But wait, there’s more!
+
+Many container tags can pull data from the HTML of a page and put it into your tracking tag. For example, some tag management tools have templates where you tell the container tag the name of an HTML element, like a DIV or anchor tag, and the container copies the data out of the element and puts it into the analytics tag.
+
+This is especially handy when you’re coding Google Analytics events, custom variables or the ecommerce tracking code.
+
+I know what you’re thinking. “That’s pretty cool. It makes it REALLY easy to configure complex tagging situations.”
+
+I agree, very cool!
+
+But there’s a problem. What happens if the HTML of the page changes? What happens if your site gets redesigned?
+
+You’ll need to tweak your container tag to make sure that it pulls the right data.
+
+I know what you’re thinking again. “What a pain in the butt.” Agreed.
+
+The Data Layer
+
+There is a technique that can help you avoid ever changing your container tag. It’s called a data layer.
+
+Simply put, a data layer is a JavaScript variable or object that holds all the information you want to collect in some other tool, like a web analytics tool. You add the data layer to every page on your site and then have the container pull data from the data layer.
+
+This insulates the data collection tools by separating the data from the page structure. No matter what happens to the structure of the HTML page the data layer will always be the same.
+
+That means your container tag will always have a consistent, unchanging source of data to pull from.
+
+Ideas for Data Layer Content
+
+So what should go into a data layer? There’s a lot you can stuff into one. Here are just a few ideas.
+
+Page Attributes: Data about the pages that people look at.
+
+Page title
+
+Page URL
+
+Page category, sub category, etc.
+
+Page version
+
+Visitor Information: Anonymous data about the visitor. This works best for websites that can maintain state or have a logged in experience. All of this data provides many opportunities for segmentation in your analytics tool.
+
+Visitor type
+
+Visitor state
+
+Visitor value
+
+First conversion date
+
+First conversion traffic source
+
+Historical information about key actions (did they leave a comment, etc.)
+
+Anonymous demographic data
+
+Social information (are they a follower, etc.)
+
+Data for conversion pages: Conversion pages are slightly different. They need to include details about the transaction or the value of the conversion.
+
+Value of the conversion
+
+Product SKUs
+
+Product names
+
+Product categories
+
+Transaction ID
+
+Total purchase value
+
+Taxes
+
+Shipping cost
+
+Shipping method
+
+Currency
+
+Payment type
+
+Month & year of transaction
+
+Discount or promotion used
+
+Your task is to convince your IT department to add a data layer to your pages. It may be a little work up front, but over time it will save them work.
+
+And you don’t need to use all of the data on every page. It depends on what you want to track in your tool. But it’s better to have the data there and choose NOT to use it, rather than have to ask IT to add the data.
+
+In reality you don’t need a container tag to implement a data layer. You can write your own custom JavaScript that translates data from a data layer and puts it into your analytics tag. But the container tag launched the need for the data layer.
+
+Here’s a simple data layer example that might appear on a receipt page.
+
+
+
+var dataLayer = {
+
+"pageTitle" : "Receipt Page",
+
+"pageURL" : "/pages/checkout/receipt",
+
+"pageCat" : "Checkout Pages",
+
+"PageCat2" : "",
+
+"tranID" : "17658726382",
+
+"tranTotal" : "34.95",
+
+"tranTax" : "0.00",
+
+"tranShipping" : "0.00",
+
+"tranShippingMethod" : "USPS",
+
+"tranCurrency" : "USD",
+
+"tranProds" : "249|398",
+
+"tranSKUs" : "249-32|398-12",
+
+"tranProdNames" : "Kids Onsie|Kids Lava Lamp",
+
+"tranCategories" : "Kids|Kids",
+
+"tranPayMethod" : "VISA",
+
+"visitorType" : "RETURN",
+
+"visitorState" : "Logged In",
+
+"visitorFirstPurchDate" : "20111205",
+
+"visitorFirstProds" : "822"
+
+}
+
+
+
+Don’t Forget Mobile!
+
+So now that we’ve got all the basics covered, don’t forget about mobile web and apps. There are a number of vendors that are doing some cool things with container tags and apps. And you can port the data layer to your mobile website or mobile app. It simplifies the data collection no matter what the platform.
+
+As we move forward with an increasingly diverse number of content consumption devices, it will be important for businesses to publish first-party data in a way that’s easy to collect via tag management systems.

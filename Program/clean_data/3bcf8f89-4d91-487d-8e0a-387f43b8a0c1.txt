@@ -1,0 +1,17 @@
+Scientists have developed a GPS tool that doesn't tell you where you're at right now, but it can tell you where your ancestors lived a thousand years ago. The new algorithm accurately pinpoints your geographic origin using just bits of your genetic data -- narrowing it down to the country, and in some cases, even the exact village.
+
+In terms of populations, genetic information has been useful for inferring human migrations in the past: beginning with the out-of-Africa event, followed by when humans ventured into Asia for the first time, and then the origin of modern Europeans. But using DNA to pinpoint where modern individuals originated has been limited. Current biogeographical algorithms have an accuracy of 700 kilometers in Europe, and they’ve been even less accurate elsewhere. (On some continents, that margin of error can include at least a couple countries.)
+
+To develop a more precise test for genetic ancestry, a team led by Eran Elhaik from the University of Sheffield , UK, created the Geographical Population Structure algorithm. (Yes, GPS.) It relies on genetic admixture, which occurs when people from different populations start interbreeding and creating new gene pools that represent a mixture of the founder pools. This happened a lot in history, basically whenever someone moves to a new place and starts hanging out with locals. The resulting blend of traits can be used to gauge the distance from home.
+
+“What we have discovered,” Elhaik says in a news release , “is a way to find not where you were born -- as you have that information on your passport -- but where your DNA was formed up to 1,000 years ago by modelling these admixture processes.”
+
+They developed the admixture algorithm using genetic and geographical information from 54 participants recruited through the Genographic Project . And then they tested their GPS tool with 600 genetic samples composed of 98 global subpopulations. Using DNA sequences, GPS can accurately place individuals in their country of origin 83 percent of time.
+
+When they analyzed data from 10 villages in Sardinia and 20 or so islands in Oceania, the team was able to trace a quarter of the Sardinians to their home village and most of the remaining participants within 50 kilometers of their village. For the subjects from Oceania, they were successful at pinpointing their island of origin 90 percent of the time. That's a significant improvement over alternatives that have placed Oceanians in India, Elhaik says
+
+Knowing where the gene pools that created your DNA were last mixed has huge implications for personalized medicine. An estimated one million people in the U.S. already have their DNA genotyped by companies like 23andme or ancestry.com. The team has developed a website that makes GPS publicly accessible, so if you’ve ever had your DNA genotyped, you can upload your results to find your ancestral home.
+
+The work was published in Nature Communications this week.
+
+Image: University of Sheffield

@@ -1,0 +1,31 @@
+GIF Credit: UW-Madison
+
+Using a powerful supercomputer, meteorologists have simulated the “El Reno” tornado—a category 5 storm that swept through Oklahoma on May 24, 2011.
+
+A research team led by Leigh Orf from the University of Wisconsin-Madison’s Cooperative Institute for Meteorological Satellite Studies (CIMSS) has used a high-efficiency supercomputer to visualize the inner workings of tornados and the powerful supercells that produce them. As part of the project, the researchers recreated a tornado-producing supercell that devastated the Great Plains six years ago. Their new models are providing fresh insights into these monstrous storms and how they form.
+
+During a four-day stretch in late May 2011, several tornadoes touched down over the Oklahoma landscape. One of these storms, dubbed “El Reno,” registered as an EF-5—the strongest category on the Enhanced Fujita scale. This beast of a tornado touched down near Hinton, Oklahoma, where it proceeded to blaze a trail of destruction for nearly two hours. By the time it was over, the storm caused extensive damage along a 63-mile (101 km) long path, killing nine people and injuring 161 others.
+
+Advertisement
+
+To simulate the incredibly complex set of meteorological factors required to produce this particular tornado, Orf’s team was given access to the Blue Waters Supercomputer, located at the National Center for Supercomputing Applications at the University of Illinois at Urbana-Champaign.
+
+Orf’s team used real-world observational data to recreate the conditions at the time of the storm, including a vertical profile of temperature, air pressure, wind speed, and moisture. Together, these ingredients contribute to “tornadogenesis”—the conditions required for a supercell to spawn a tornado.
+
+Advertisement
+
+Unlike a conventional computer program, where code is written to churn out predictable results, the researchers sought to create a “true” representation by feeding archived weather data into software that simulates weather. This provided a degree of variability that’s reflective of how weather works in nature; no two storms are exactly alike. In total, it took the machine more than three days to compile the tornado—a task that would have taken decades for a conventional desktop computer.
+
+GIF Once the main tunnel forms, several “mini” tornadoes form alongside it. They eventually merge, making the tornado even stronger. (Credit: UW-Madison)
+
+Looking at the simulation, the researchers observed numerous “mini tornadoes” that formed at the onset of the main tornado. As the main funnel cloud took shape, the smaller tornadoes began to merge, adding strength to the superstructure and boosting wind speeds.
+
+
+
+The simulation revealed several structures that make up a fully-formed tornado, including the streamwise vorticity current (SVC), thought to be a main driver of the tornadic activity (seen in yellow). (Image: University of UW-Madison)
+
+Eventually, a new structure known as the streamwise vorticity current (SVC) formed within the tornado. “The SVC is made up of rain-cooled air that is sucked into the updraft that drives the whole system,” said Orf in a statement. “It’s believed that this is a crucial part in maintaining the unusually strong storm, but interestingly, the SVC never makes contact with the tornado. Rather, it flows up and around it.”
+
+From here, Orf would like to share his team’s data with scientists and meteorologists across the United States. “We’ve completed the EF-5 simulation, but we don’t plan to stop there,” says Orf. “We are going to keep refining the model and continue to analyze the results to better understand these dangerous and powerful systems.”
+
+[University of Wisconsin-Madison]

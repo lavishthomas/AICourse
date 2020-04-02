@@ -1,0 +1,183 @@
+Web Analytics tools have become pretty feature rich, and the future promises to bring even more goodies (Universal Analytics anyone?). But these features bring with them new problems that we hadn't imagined before. Mostly because the limitations in the tools meant we were unable to make these mistakes.
+
+Today's post is about a new problem I'm starting to notice, which only exists because our tools have become so much cooler and handed us so much power: constant mismatching of hit- and session-level metrics and dimensions.
+
+This particular problem exists primarily because Analytics allows us to create custom reports. In some scenarios you also bump into it when you do advanced segmentation and filtering.
+
+The danger is that most of the time we don't even realize we are making a mistake because after we create our report we see numbers and they look like real numbers and it looks like something is happening. But it is all fake datagasams.
+
+Let's define the problem, let's understand the optimal mental model, and let's look at some examples to firm up our learning.
+
+I promise you, next time you log into SiteCatalyst or dive into Discover or surf with WebTrends or play naughty with Google Analytics, you are going to be a lot more cautious. :)
+
+Hits? Sessions? What are we taking about?
+
+To understand this problem we are going to have to get a little bit technical. It is very important context.
+
+[It will be critical that you are familiar with what a metric is and what a dimension is. In the small chance you need a refresher: What is a dimension? + What is a metric?]
+
+Say you type in a URL and visit a website. The very first page (usually the home page) starts to load, which triggers the web analytics javascript code on the page…
+
+The javascript code sends data into the Cloud to your analytics tool. This data gets recorded as a "hit."
+
+Any individual interaction that you have with the site is called a hit. Most typically a hit is a page view. But it can also be an event or a custom variable (if the scope is set to "hit level").
+
+As you browse through the site, you keep sending hits back to the analytics tool. "The visitor just requested a product page." "The visitor added something to cart." "The visitor started a video." "The visitor started the checkout process." Etc. Etc.
+
+Hits here and hits there and hits everywhere as you engage with the site (mobile, desktop, mobile app).
+
+For each hit, a bunch of data is also being collected (ex: you saw page x for y minutes).
+
+A collection of hits form one visit to the site (entry and exit, or entry and leaving tab/browser open for 29 mins of inactivity), and is called a session.
+
+That's the purple box…
+
+Here's a helpful picture that you can use to remember the difference between hits and sessions. Hits are the collection of small things. The session is collecting those hits into one cohesive experience.
+
+Custom variables has an asterisk next to it because there are three types of custom variable: visitor-, visit- and hit-level. Only the last one, obviously, qualifies as a hit.
+
+Now that we understand hits and sessions, let's dig deeper into the core reason for this post.
+
+Hits are from Venus and Sessions are from Mars.
+
+The visitor, let's call her Kim, comes to the site. Kim leaves (like all parents, after making an expensive purchase for her daughter!).
+
+The analytics tool collects loads of data about her visit related to the hits, the individual interactions. Examples of these hit-level metrics are things like Time on Page, Bounce Rate, Page Value, Page Abandonment Rate, and others.
+
+These metrics only correctly measure, and can only accurately be used to report, what is happening at a hit level – i.e., the small individual interactions.
+
+Then there are metrics that measure what happened at the overall session level: Time on Site, Goal Value, Conversion Rate, and many others.
+
+They are meant to only identify performance of the purple box.
+
+Punch-line: You can only use hit-level metrics to measure hit-level dimensions, and you can only use session-level metrics to measure session-level dimensions.
+
+[Once again, definitions: What is a dimension? + What is a metric?]
+
+For example, it is wrong to have Search Keyword as your dimension and measure Page Value for that. See the problem? Session-level dimension (you are looking at what started the whole session) being measured by a hit-level dimension (what happened with one blue, red, green bar above).
+
+What's the fix? Use Goal Value.
+
+Another example, it is imprecise to look at Pages (a hit) and measure Conversion Rate (a session-level metric) for it. One blue, red, green bar can only be measured for a metric that is at its optimal altitude and not a metric that is for the whole visit (what about the other hits?).
+
+What's the fix? Use Page Value.
+
+When it comes to custom reporting, we mess up this calibration all the time. We measure hit/session dimensions using session/hit metrics! Sadly, this is a silent death because you don't even realize you are messing up.
+
+Of course that is not going to happen any more. You've read this post.
+
+Examples: Calibrating Hit- & Session-Level Metrics Optimally.
+
+Once I started to look at this more carefully I realized that many web analytics tools, even in the standard reports they provide, mess up. So look at your standard reports very carefully when you log into your analytics tools. Otherwise big data is going to bring tiny insights.
+
+Here's a standard report from Google Analytics.
+
+We are looking at a session-level dimension, Source/Medium (where do visitors come from?).
+
+This report is calibrated properly because Visits, Pages/Visit, Avg. Visit Duration, % New Visits are all session level metrics.
+
+If you are not sure of why, scroll back up just a little and ask yourself: Are these metrics measuring the purpose box or the blue, red, green bars? Clearly, they are measuring the purple box. You can't have Pages/Visit for an individual hit, right?
+
+Go look at the Landing Pages report. What do you see? Do you agree that the standard report is showing all hit-level metrics for the hit-level dimension (page)? You'll see that it is not that straight-forward.
+
+What about the Geo Location report or the mobile devices report or your adwords campaign reports?
+
+It stretches your brain to think this through.
+
+Now, let's look at a custom report, which is typically where we all make this mistake.
+
+In this report I'm looking at the Time on Page, Avg. Time on Page (I was not sure which of the two to use) and Page Value.
+
+Lesson one is that Google Analytics continues to include astoundingly value-deficient metrics like Time on Page. This metric, it seems, is the summation of all time spent by everyone from a source. I'm struggling to imagine a single scenario, no matter how remote, where anyone could find this of value. I don't understand why these value-deficient metrics continue to live year after year! Rant over.
+
+Let's consider the other two…
+
+Average Time on Page is, by its definition, a hit-level metric. It measures what happens on one page. Looking at it at a session level is silly. After all, what does that 04:15 for Google actually mean? And what page's average is it?
+
+Ditto for Page Value. That metric (and it is awesome by the way) is supposed to tell you how much economic value was generated by each page on your site. It can only be looked at for a hit-level dimension (Page or URL).
+
+The silent death part is that as you stare at the table above it looks like something is happening. All the numbers are different. You might say t.co (twitter essentially) is fantastic at 10:09. But that is just a garbage number. Or you might look at $2.11 and celebrate Google (and you should, but) that would be unwise because you are looking at the wrong metric.
+
+But unless you are careful and know to match hit-level metrics with hit-level dimensions, you would likely make big mistakes in any recommendations you make on this data.
+
+So what is the optimal way to measure Sources of traffic? Use session level metrics…
+
+Unique Visitors? Yep. Avg. Time on Screen? Only the lord knows what that is because even the Google Analytics Help Center fails to find this metric. But the metric is there when you are trying to pick time-based metrics. I know, I know, I should just let the GA team make our life miserable and move on. Okay, moving on … Average Visit Duration (also known as Avg Time on Site in other tools) is a perfect match here. And my absolute BFF Per Visit Goal Value is a perfect match because it is a session-level metric (it measures what happens over the entire purple box).
+
+[I love PVGV because it measures not only e-commerce value – the macro conversion – but also goal values – the micro conversions! It forces each site owner to solve for 100% of the traffic rather than just the 2% that convert. I know of no better way to win on the web than to solve for 100% of your visitors.]
+
+So you are all set now?
+
+Match hit-level metrics with hit-level dimensions. Match session-level metrics with session-level dimensions. Life will be rosy.
+
+Not yet all set?
+
+Ok, let me share a couple more examples…
+
+Here's a report by one of my Web Analytics Master Certification course students. They'd submitted this early in the course.
+
+They are reporting on a hit-level dimension, Page.
+
+You can see that they did ok with the first two metrics, Entrances and Bounce Rate are both really great hit-level metrics.
+
+But then the rest of the stack contains session-level metrics. Per Visit Goal Value can't be measured for a hit (page) because it is only computed for the entire session. Ditto for Transactions. And you paid a cost (campaign cost) to get Kim to come to your site, but that has nothing to do with the page (it has to do with the visit, or to put it another way, the session). Same thing for Cost Per Acquisition – it's not a hit-level metric.
+
+This was early in the course so we were able to correct the learning, but at this time this wonderful student had analyzed this data, later even applied advanced segments to it and recommended a bunch of actions. Only the actions were based on wrong data.
+
+So be very, very careful.
+
+One last quick example to really, really nail this down.
+
+In this case, we are looking at hit-level dimension again, Page.
+
+With the first metric, Visits, you would not be doing something totally imprecise, but it is super clean to use Unique Pageviews if you want to know uniquely how many visits was a page present in. If you want to go deeper, how many times a page is seen during one visit, use Pageviews. That would show how many times Page X was viewed and how many times it was unique in a visit. Nice!
+
+The second and third metrics above are tricky. You feel like a page should be delivering Goals and Conversion Rates. Nyet!
+
+An individual page does not deliver Goals and Conversions. Each page just moves the person to the next one in the session. It is just one hit amongst many that happen during a session. All the hits banded together to deliver the completion and conversion rate.
+
+And see what I mean by the silent death. It looks like you are looking at some numbers and they are all different so you can read something into it. Nope.
+
+So what's a better replacement here? Page Value . Because in computing that hit-level metric all the credit from goal completions and conversions is taken from each session and "distributed" to the hits present in that session. That helps you understand how each hit did (across multiple converting sessions!).
+
+A little complicated. But not really. Right?
+
+Exceptions to the Rule.
+
+Bounce Rate is a great exception to the rule.
+
+In this post we have used Bounce Rate to measure the performance of a hit, pageview.
+
+But you can also measure Bounce Rate for a dimension, sources of traffic (keywords, referring URLs, campaigns, etc).
+
+That's because in sessions that bounce, there is only one hit, the first pageview. Then nothing happens. Since the session = the hit, bounce rate can be used to measure performance of either session-level dimensions or hit-level dimensions.
+
+It makes total sense. But I wanted to point out that sometimes there are gray areas. Good news, they are rare. :)
+
+Closing Thoughts.
+
+I've created this little picture for you as a quick something you can reference.
+
+On the very far left of the top half are examples of dimensions. Campaigns, geographic locations, sites sending traffic, etc.
+
+Then we see examples of metrics we have access to for measuring the overall experience Kim had on our site and the result of that experience. They all measure her session, they are session-level metrics.
+
+Finally at the bottom we have examples of hit-level dimensions and metrics. Small interactions that happen during the course of a visit to your site/mobile app, and the metrics used to measure their performance.
+
+If you calibrate your hit-level dimensions and only use hit-level metrics, you'll find accurate tactical insights about improving individual pieces of Kim's experience.
+
+If you calibrate your session-level dimensions properly and only use session-level metrics, you'll find accurate strategic insights about improving big things (your overall acquisition strategy, your product mix, your strategy on macro and micro outcomes, etc.).
+
+Remember: Friends don't let session-level dimensions drive with hit-level metrics!
+
+Good luck!
+
+[Bonus: In case you use Google Analytics, you'll find this page to be of value: Dimensions & Metrics Reference Guide]
+
+As always, it is your turn now.
+
+Does the guidance above make sense to you? In your company do you pay careful attention to calibrating metrics at the right hit/session level? Do you know of other standard reports in your analytics tool where this mistake is made? Are there other metrics you feel also fall into the gray area? Got a big "d'oh" moment you are comfortable sharing? Confused about whether a particular metric fits in the hit-level or dimension-level category?
+
+Please share your feedback via comments.
+
+Thank you.

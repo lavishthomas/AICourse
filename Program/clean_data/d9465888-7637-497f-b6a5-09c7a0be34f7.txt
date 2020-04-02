@@ -1,0 +1,65 @@
+“Real quick, whole squad on that real sh*t
+
+0 to 100, n***a, real quick”
+
+—Drake, “0 to 100/The Catch Up”
+
+I am a giant advocate for technical founders running their own companies, but one consistent way that technical founders deeply harm their businesses is by screwing up the budgeting process. Yes, the budgeting process. How ridiculous is that? How does it happen and why is it particularly problematic for engineers?
+
+I’ll begin by describing how I screwed it up in my company. Our sales were growing so fast that the biggest problem that we faced was that we literally could not handle all the customers that wanted to sign up for Loudcloud. To combat this and enable us to grow, I worked diligently with my team to plan all the activities that we needed to accomplish to expand our capacity and capture the market before the competition. Next, I assigned sub-goals and activities to each functional head. In conjunction with my leadership team, I made sure that each goal was measurable and supported by paired metrics as well as lagging and leading indicators. I then told the team to figure out what it would take to accomplish those goals and return with their requirements for headcount and program dollars. Finally, I made adjustments to their requests based on industry benchmarks (mostly reductions) to get to a plan that I thought made sense.
+
+Here’s the basic process:
+
+1. Set goals that will enable us to grow
+
+2. Break the goals down so that there is clear ownership and accountability for each goal by a specific team
+
+3. Refine goals into measurable targets
+
+4. Figure out how many new people are required to hit the targets
+
+5. Estimate the cost of the effort
+
+6. Benchmark against the industry
+
+7. Make global optimizations
+
+8. Execute
+
+Unless you are an experienced manager, you may not even see what’s wrong with this process, but it very nearly led to my company’s demise. In fact, the above process is completely upside-down and should only be followed if you wish to bloat your company to the brink of bankruptcy and create a culture of chaos.
+
+When I asked my managers what they needed, I unknowingly gamified the budgeting process. The game worked as follows: The objective was for each manager to build the largest organization possible and thereby expand the importance of his function. Through the transitive property of status, he could increase his own importance as well. Now you may be thinking, “That wouldn’t happen in my company. Most of my staff would never play that game.” Well, that’s the beauty of the game. It only takes one player to opt in, because once someone starts playing, everybody is going in — and they are going in hard.
+
+Gameplay quickly becomes sophisticated as managers develop clever strategies and tactics to improve their chances for winning. One common game technique is to dramatically expand the scope of the goals: “When you said that you wanted to increase our market presence, I naturally assumed that you meant globally. Surely, you wouldn’t want me to take a U.S.-centric view.” To really motivate the CEO, another great technique involves claiming dire circumstances if the company fails to achieve its metrics: “If we don’t increase sales by 500% and our top competitor does, we will fall behind. If we fall behind, we will no longer be No. 1. If we’re not No. 1, then we won’t be able to hire the best people, command the best prices, or build the best product, and we will spin into a death spiral.” Never mind the fact that there is almost no chance that your competitor will grow 500% this year.
+
+Another subtle problem with this process is that when I asked my team what they needed to achieve their goals, they naturally assumed they would get it. As a result, my team deeply socialized their ideas and newly found money with their teams. This has the added gaming benefit of inextricably tying their demands to company morale. When the VP of marketing asked me for 10 headcount and $5M in program expenses, then shared that plan with his team, it changed the conversation. Now a major cutback to his plan would alarm his team because they had just spent two weeks planning for a much more positive scenario. “Wow, Ben greatly reduced the plan. Should I be looking for a job?” This kind of dynamic put pressure on me to create a more expansive expense plan than was wise. Multiply this by all my managers and I was on my way to burning up all my cash and destroying my culture.
+
+My core problem was that my budgeting process did not have any real constraints. We were private and did not have a specific profit target that we needed to hit and we had plenty of cash in the bank. Drawing the line on expenses seemed rather arbitrary. In the absence of a hard constraint, I had no constraint.
+
+An excellent constraining principle when planning your budget is the preservation of cultural cohesion. The enemy of cultural cohesion is super-fast headcount growth. Companies that grow faster than doubling their headcount annually tend to have serious cultural drift, even if they do a great job of onboarding new employees and training them. Sometimes this kind of growth is necessary and manageable in certain functions like sales, but is usually counterproductive in other areas where internal communication is critical like engineering and marketing. If you quadruple your engineering headcount in a year, you will likely have less absolute throughput than if you doubled headcount. As an added bonus, you will burn way more cash. Even worse, you will lose cultural consistency as new people with little guidance will come in with their own way of doing things that doesn’t match your way of doing things. Note that this does not apply to you if you have very small numbers. It’s fine to grow engineering from one to four people or from two to eight. However, if you try to grow from 50 to 200, you will cause major issues if you are not extremely careful.
+
+Starting with the cultural cohesion principle, a far better way to run the budgeting process is to start with the constraints. Some useful constraints are:
+
+Run rate increase – Note that I say “run rate increase” and not “spend increase”. You should set a limit on the amount by which you are willing to increase what you are spending in the last month of the coming year vs. the previous year.
+
+Earnings/Loss – If you have revenue, another great constraint is your targeted earnings or loss for the year.
+
+Engineering growth rate – Unless you are making an acquisition and running it separately or sub-dividing engineering in some novel way, you should strive not to more than double a monolithic engineering organization in a 12-month period.
+
+Ratio of engineering to other functions – Once you have constrained engineering, then you can set ratios between engineering and other functions to constrain them as well.
+
+After applying the global constraints, the following steps will provide a better process:
+
+1. Take the constrained number that you created and reduce it by 10-25% to give yourself room for expansion, if necessary.
+
+2. Divide the budget created above in the ratios that you believe are appropriate across the team.
+
+3. Communicate the budgets to the team.
+
+4. Run your goal-setting exercise and encourage your managers to demonstrate their skill by achieving great things within their budgets.
+
+5. If you believe that more can legitimately be achieved in a group with more money, then allocate that manager extra budget out of the slush fund you created with the 10-25%.
+
+At this point, some readers may think that I’ve lost my mind. As a technologist, you know that the worst thing that you can do is over-constrain the problem before you start. You’ll kill creativity and prevent yourself from getting a truly great outcome. That’s precisely why I, as an engineer, struggled with this process: the human factors muck up the logic. Specifically, local incentives, if not properly managed, will sharply motivate human behavior and defeat the global goals.
+
+It’s critical to recognize this so that you don’t turn your agile, small company into a slow, big company before its time.

@@ -1,0 +1,202 @@
+One of my obsessions as of late has been page speed. A more technical client early last year made me realize I’d phoned it in for the page speed recommendations that I’d been including in my SEO Site Audits. You know the ones, minifying code, removing inline styles and JavaScript, specifying image dimensions, leveraging compression, etc. So in the last 9 months I’ve taken a dive in to improve my understanding of networking, the critical rendering path, what every single thing in PageSpeed Insights actually means and generally acclimating with the latest in front end development best practices. It’s safe to say I’d spent too much time with my marketer hat on and not enough time staying on top of my original skillset.
+
+In coming across the phenomenal work done on the subject by Ilya Grigorik, I learned about a directive called rel-prerender which has effectively allowed me to speed up this very site by over 68% with one line of code.
+
+That’s right, the title is not clickbait.
+
+
+
+What is Rel-Prerender?
+
+You should already know Google is even more obsessed with page speed than I am, as they’ve continued to rollout things that make the web a faster and better place. At the center of that is Chrome, a browser with components from Webkit, the open source code that Safari, Firefox for iOS and number of other browsers are built from. Chrome’s Chromium project has obviously matured and along the way has developed a whole lot of tricks of its own.
+
+For example, Chrome predicts a lot of things that you do. As soon as you type in “ww” it’s going to pick the URL you visit the most. Funnily enough, we recently had someone present off their personal laptop in an interview, and that prediction led to some memorable results. If you want to see your list of predicted results, you can find them at chrome://predictors. Here are some of mine:
+
+Buried deep in the HTML5 specification is a series of resource hints or directives that Ilya Gregorik calls the “pre-* party” in his Preconnect, Prefetch, Prerender deck. They have a variety of different directives that allow you to inform your browser that you want to load things before they are required.
+
+As a quick overview, those directives are as follows:
+
+Preresolve – This directive performs a DNS lookup before it’s needed. The roundtrip network request to turn a domain name into an IP address can add hundreds of milliseconds to load time. For example, I’ve seen the chartbeat.js file take several seconds to do the DNS Lookup, and using preresolve can shave that time off considerably. You can specify this directive as follows: <link rel=”dns-prefetch” href=”hostname.com”>
+
+
+
+– This directive performs a DNS lookup before it’s needed. The roundtrip network request to turn a domain name into an IP address can add hundreds of milliseconds to load time. For example, I’ve seen the chartbeat.js file take several seconds to do the DNS Lookup, and using preresolve can shave that time off considerably. You can specify this directive as follows: Preconnect – This directive opens a socket connection to a resource before it’s required in order to speed up the downloading process. You can specify this directive as follows: <link rel=”preconnect” href=”http://www.domain.com”>
+
+– This directive opens a socket connection to a resource before it’s required in order to speed up the downloading process. You can specify this directive as follows: Prefetch – This directive downloads a resource before it’s needed so that when it is time to use it, it appears instantly. Each link applies to one specific file, but you can specify many of them if you’d like. However, this is where the pre-party ends for Firefox. You can specify this resource hint as follows: <link rel=”prefetch” href=”filename.ext”>
+
+
+
+– This directive downloads a resource before it’s needed so that when it is time to use it, it appears instantly. Each link applies to one specific file, but you can specify many of them if you’d like. However, this is where the pre-party ends for Firefox. You can specify this resource hint as follows: Prerender – This directive allows you to completely load one page in an invisible tab in the background once the initial page completes its loading. If the user then navigates to that URL, it will appear instantly. If they don’t, the page is then unloaded. This is the one line of code that we’ll be focusing on and the one that yielded the 68.35% speed improvement. Somehow Firefox missed the memo on rel-prerender so some developers have leveraged rel-prefetch in its place. We’ll talk about the syntax in a few paragraphs.
+
+To be clear, in some cases Chrome is smart enough to do these things on its own, but you can use the specific directives to improve the chances that they will execute. Keep in mind that there is an option for users to turn off their prerender in Chrome.
+
+Not to be Confused with Prerender.io
+
+In interviewing SEOs recently for positions here at iPullRank, I’ve recognized that very few people understand how JavaScript MVW frameworks operate or that they need special considerations when being optimized. One of those special considerations is a SaaS PhantomJS wrapper called Prerender.io. The platform, for example can be used to render pages written in AngularJS for caching and serving as processed HTML. This allows search engine crawlers to crawl and index the content as they normally would if AngularJS was not in place. I encourage you to read this post from the BuiltVisible team to learn more about SEO for JavaScript frameworks, especially if you apply for an SEO specific position with us.
+
+This is effective because JavaScript causes content to load after the page loads and there is no visibility for a text-based crawler. As we’ve previously discussed, Googlebot is a browser-based crawler these days and they have continued to improve their ability to crawl JavaScript-driven content. As that continues to improve, we’ve found Prerender.io and its competitors to be good ways to improve the speed at which Google crawls this type of content, but we’ve also seen evidence that it’s not an absolute requirement for it to be crawled and indexed.
+
+For those of you that are aware of this platform, it’s an entirely different thing from rel-prerender.
+
+Google Uses Rel-prerender in the SERPs
+
+Google themselves uses rel-prerender in the SERPs for results that they are reasonably sure of what you’re looking for. For example, this SERP for “cnn” features rel-prerender because moreoften than not a user is going to click on the result that drives them to CNN.com.
+
+I can see the wheels turning for those of you on the darker side of the force. Yes, this does prove that cross-domain rel-prerender is possible. I’m not sayin’, I’m just sayin’. (#brotherhood, I see you).
+
+
+
+How do I use Rel-Prerender?
+
+For the SEO folks reading this, rel-prerender works just like the rel-canonical tag, or most <link> tags for that matter.
+
+<link rel=”prerender” href=”http://www.example.com/page”>
+
+
+
+As I mentioned before, Firefox does not support rel-prerender, so you’re limited to rel-prefetch. In those cases, you’ll still be loading the base HTML file, so to support both use cases in one line of code you can specify:
+
+<link rel=”prerender prefetch” href=”http://www.example.com/page”>
+
+
+
+Also, you can only set one rel-prerender at a time. This page loads in an invisible tab and there is only one to go around all browser processes. So you want to be reasonably sure that the user is going to go to that URL in order to maximize the bandwidth and CPU usage. However you can also inject the rel-prerender to the code at any time to have it preload a page whenever you’re sure. That is to say, if a user hovers over a link for a long period of time, you could potentially insert rel-prerender and have it load that page in efforts to determine where the user is going next.
+
+Scaling Rel-Prerender Definitions with Google Analytics API
+
+In playing around with rel-prerender I quickly realized how unrealistic it is to specify a URL for every page. Even moreso, I realized how problematic it would be to do that and have the specified URL be wrong. So as with anything else I chose to leverage data to find a solution. Enter: the Google Analytics API.
+
+Leveraging the GA API, I’m able to make an educated guess as to what the next page the user is most likely to visit is based on the pages other users visit. Aside from the fact that building Rome in a day is often easier than that authenticating into Google APIs, getting the data we need is actually quite simple. I’ll leave those details to your development team to work out, but in terms of the data we need to make our rel-prerender decision, you want to get the pageviews of the ga:nextPagePath based on setting the ga:previousPagePath to the page that the user is currently on.
+
+You can see what this looks like if you login to the Google API Analytics Query Explorer and set the metrics to ga:pageviews, dimensions to ga:nextPagePath and set the filters to ga:previousPagePath which is set equal to a URL path to a page on your site. Here it is for this site:
+
+The result of that will be a list of URLs in order of their page views for the past 30 days. For e-commerce sites, I prefer to use the ga:pageValue as the metric so we can focus on the literal money pages.
+
+You’ll notice that almost always the homepage is the #1 page, so you’ll want to develop logic to ignore it in your code. You’ll also want to check for the page that you’re already on.
+
+To programmatically set the rel-prerender tag once its returned from the API, you can use the following JavaScript code:
+
+var relPreRender = document. createElement ( "link" ) ;
+
+
+
+relPreRender. setAttribute ( "rel" , "prerender" ) ;
+
+
+
+relPreRender. setAttribute ( "href" , relPreRenderPage ) ;
+
+
+
+document. getElementsByTagName ( "head" ) [ 0 ] . appendChild ( relPreRender ) ;
+
+or the following jQuery code:
+
+$ ( "head" ) . append ( '' ) ;
+
+Keep in mind that this site is small and low traffic, so you’ll want to cache these URLs if you get a lot of traffic because the GA API gives you a limited amount of pings per month.
+
+What Type of Impact Does Rel-Prerender Have?
+
+Upon discovering this, like most things, I wanted to put it to the test. So I set up rel-prerender between my pages and then did a before and after. If the UA was Firefox, the user got the rel-prefetch, otherwise they got rel-prerender and the results are as advertised in Chrome.
+
+Due to the lack of content in last few years (what can I say? I’m focused building a business and getting results for our clients!) this site wasn’t generating much in the way of traffic. In fact, I had hoped to get this placed with one of our bigger media clients to get a case study, but they had concerns about CPU usage and the amount of work required to update how ads are handled in the code, so instead I set up a series of pages on an AWS box that I could blast with pageviews as a test.
+
+I made two sets of the same 3 pages. The pages featured content with rich media. I built one control group with no rel-prerender and another with rel-prerender from page one to page two and page two to page three.
+
+Then I ran thousands of visits at the page across a few days using a headless browser. Here’s what that looked like in Google Analytics real-time.
+
+After that I reviewed the site speed page timings in Google Analytics.
+
+My prerender group of pages generally had a much faster page load time than my control group. The anomaly is that the third page in the control set performed better than the other two pages in the control. This may be a function of the headless browser potentially retaining some of the cached page. My hypothesis is that the video on the page on the third page actually stopped the resource hint from firing. See below for why that might happen.
+
+So What’s the Catch?
+
+There are a number of catches, but the most important to marketers will be the impact that rel-prerender can have on analytics and advertisements.
+
+While Google Analytics automatically accounts for it, most analytics packages will consider all prerendered pageviews as valid. Similarly, a prerendered pageview is most likely counted as an impression to your ad server.
+
+The way to account for this is by using the HTML5 PageVisibility API which allows you to account for the prerender visibility state. Effectively, you can wrap your code in callbacks that only allow certain components to fire once the page is actually visible.
+
+Also, as Ilya discusses in High Performance Networking in Chrome and the outline specifies in the design documents for prerender, the following are other technical caveats that may cause rel-prerender to not execute:
+
+At most one prerender tab is allowed across all processes
+
+
+
+Prerendering is abandoned if the requested resource, or any of its subresources need to make a non-idempotent request (only GET requests allowed)
+
+
+
+All resources are fetched with lowest network priority
+
+
+
+The page is rendered with lowest CPU priority
+
+
+
+The page is abandoned if memory requirements exceed 100MB
+
+
+
+Plugin initialization is deferred, and pre-rendering is abandoned if an HTML5 media element is present
+
+
+
+The top-level page is not an HTTP/HTTPS scheme, either on the initial link or during any server-side or client-side redirects. For example, both ftp are canceled. Content scripts are allowed to run on prerendered pages.
+
+
+
+window.opener would be non-null when the page is navigated to.
+
+
+
+A download is triggered. The download is cancelled before it starts.
+
+
+
+A request is issued which is not a GET, HEAD, POST, OPTIONS, or TRACE.
+
+
+
+An authentication prompt would appear.
+
+
+
+An SSL Client Certificate is requested and requires the user to select a certificate.
+
+
+
+A script tries to open a new window.
+
+
+
+alert() is called.
+
+
+
+window.print() is called.
+
+
+
+Any of the resources on the page are flagged by Safe Browsing as malware or phishing.
+
+
+
+The fragment on the page does not match the navigated-to location.
+
+
+
+Long list, but I haven’t run into any of these aside from potentially the HTML5 media element issue. Finally, although it’s available for some mobile browsers, I wouldn’t use it there. LTE downloads are slow enough.
+
+
+
+Other Ways to Improve It
+
+Naturally, rel-prerender makes a lot of sense in situations when users are going through a series of pages like slideshows or multi-page lead flows. To further improve the accuracy, I’ve tried to find a way to pull URLs from the browser history, but I was unsuccessful. Instead what we’ve begun to do is track usage history of a user and determine if they’ve visited a given URL in the past before we set the tag. That way we ensure that only pages that haven’t been cached previously are not specified as rel-prerender.
+
+Either way, not bad for one line of code.
+
+How about you? Have you used rel-prerender before? How do you see yourself using it to improve your site? I’d love to hear from you in the comments below.
+

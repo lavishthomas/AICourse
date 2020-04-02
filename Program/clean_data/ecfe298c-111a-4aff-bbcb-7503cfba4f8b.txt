@@ -1,0 +1,87 @@
+Introduction to Bookkeeping
+
+The term bookkeeping means different things to different people:
+
+Some people think that bookkeeping is the same as accounting. They assume that keeping a company's books and preparing its financial statements and tax reports are all part of bookkeeping. Accountants do not share their view.
+
+Others see bookkeeping as limited to recording transactions in journals or daybooks and then posting the amounts into accounts in ledgers. After the amounts are posted, the bookkeeping has ended and an accountant with a college degree takes over. The accountant will make adjusting entries and then prepare the financial statements and other reports.
+
+The past distinctions between bookkeeping and accounting have become blurred with the use of computers and accounting software. For example, a person with little bookkeeping training can use the accounting software to record vendor invoices, prepare sales invoices, etc. and the software will update the accounts in the general ledger automatically. Once the format of the financial statements has been established, the software will be able to generate the financial statements with the click of a button.
+
+At mid-size and larger corporations the term bookkeeping might be absent. Often corporations have accounting departments staffed with accounting clerks who process accounts payable, accounts receivable, payroll, etc. The accounting clerks will be supervised by one or more accountants.
+
+Our explanation of bookkeeping attempts to provide you with an understanding of bookkeeping and its relationship with accounting. Our goal is to increase your knowledge and confidence in bookkeeping, accounting and business. In turn, we hope that you will become more valuable in your current and future roles.
+
+Note: We provide a Bookkeeping Cheat Sheet, a Guide to Bookkeeping Concepts, a Bookkeeping Basics Video Seminar, a Bookkeeping Quick Test, Bookkeeping Tests for Prospective Employees, and Bookkeeping Flashcards for members of AccountingCoach PRO.
+
+Note: You can earn our Certificates Achievement for Debits and Credits, Adjusting Entries, and Financial Statements when you upgrade your account to PRO Plus.
+
+Bookkeeping: Past and Present
+
+Bookkeeping in the Old Days
+
+Prior to computers and software, the bookkeeping for small businesses usually began by writing entries into journals. Journals were defined as the books of original entry. In order to reduce the amount of writing in a general journal, special journals or daybooks were introduced. The special or specialized journals consisted of a sales journal, purchases journal, cash receipts journal, and cash payments journal.
+
+The company's transactions were written in the journals in date order. Later, the amounts in the journals would be posted to the designated accounts located in the general ledger. Examples of accounts include Sales, Rent Expense, Wages Expense, Cash, Loans Payable, etc. Each account's balance had to be calculated and the account balances were used in the company's financial statements. In addition to the general ledger, a company may have had subsidiary ledgers for accounts such as Accounts Receivable.
+
+Handwriting the many transactions into journals, rewriting the amounts in the accounts, and manually calculating the account balances would likely result in some incorrect amounts. To determine whether errors had occurred, the bookkeeper prepared a trial balance. A trial balance is an internal report that lists 1) each account name, and 2) each account's balance in the appropriate debit column or credit column. If the total of the debit column did not equal the total of the credit column, there was at least one error occurring somewhere between the journal entry and the trial balance. Finding the one or more errors often meant spending hours retracing the entries and postings.
+
+After locating and correcting the errors the bookkeeping phase was completed and the accounting phase began. It began with an accountant preparing adjusting entries so that the accounts reflected the accrual basis of accounting. Adjusting entries were necessary for the following reasons:
+
+additional revenues and assets may have been earned but were not recorded
+
+additional expenses and liabilities may have been incurred but were not recorded
+
+some of the amounts that had been recorded by the bookkeeper may have been prepayments which are no longer prepaid
+
+depreciation and other non-routine adjustments needed to be computed and recorded
+
+After all of the adjustments were made, the accountant presented the adjusted account balances in the form of financial statements.
+
+After each year's financial statements were completed, closing entries were needed. The purpose of closing entries is to get the balances in all of the income statement accounts (revenues, expenses) to be zero before the start of the new accounting year. The net amount of the income statement account balances would ultimately be transferred to the proprietor's capital account or to the stockholders' retained earnings account.
+
+Bookkeeping Today
+
+The electronic speed of computers and accounting software gives the appearance that many of the bookkeeping and accounting tasks have been eliminated or are occurring simultaneously. For example, the preparation of a sales invoice will automatically update the relevant general ledger accounts (Sales, Accounts Receivable, Inventory, Cost of Goods Sold), update the customer's detailed information, and store the information for the financial statements as well as other reports.
+
+The accounting software has been written so that every transaction must have the debit amounts equal to the credit amounts. The electronic accuracy also eliminates the errors that had occurred when amounts were manually written, rewritten and calculated. As a result, the debits will always equal the credits and the trial balance will always be in balance. No longer will hours be spent looking for errors that occurred in a manual system.
+
+CAUTION: While the accounting software is amazingly fast and accurate in processing the information that is entered, the software is unable to detect whether some transactions have been omitted, have been entered twice, or if incorrect accounts were used. Fraudulent transactions and amounts could also be entered if a company fails to have internal controls.
+
+After the sales invoices, vendor invoices, payroll and other transactions have been processed for each accounting period, some adjusting entries are still required. The adjusting entries will involve:
+
+revenues and assets that were earned, but not yet entered into the software
+
+expenses and liabilities that were incurred, but not yet entered into the software
+
+prepayments that are no longer prepaid
+
+recording depreciation expense, bad debts expense, etc.
+
+The adjusting entries will require a person to determine the amounts and the accounts. Without adjusting entries the accounting software will be producing incomplete, inaccurate, and perhaps misleading financial statements.
+
+After the financial statements for the year are released, the software will transfer the balances from the income statement accounts to the sole proprietor's capital account or to the stockholders' retained earnings account. This allows for the following year's income statement accounts to begin with zero balances. (The balance sheet accounts are not closed as their balances are carried forward to the next accounting year.)
+
+Recording Transactions
+
+Bookkeeping (and accounting) involves the recording of a company's financial transactions. The transactions will have to be identified, approved, sorted and stored in a manner so they can be retrieved and presented in the company's financial statements and other reports.
+
+Here are a few examples of some of a company's financial transactions:
+
+The purchase of supplies with cash.
+
+The purchase of merchandise on credit.
+
+The sale of merchandise on credit.
+
+Rent for the business office.
+
+Salaries and wages earned by employees.
+
+Buying equipment for the office.
+
+Borrowing money from a bank.
+
+The transactions will be sorted into perhaps hundreds of accounts including Cash, Accounts Receivable, Loans Payable, Accounts Payable, Sales, Rent Expense, Salaries Expense, Wages Expense Dept 1, Wages Expense Dept 2, etc. The amounts in each of the accounts will be reported on the company's financial statements in detail or in summary form.
+
+With hundreds of accounts and perhaps thousands of transactions, it is clear that once a person learns the accounting software there will be efficiencies and better information available for managing a business.

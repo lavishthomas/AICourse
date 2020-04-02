@@ -1,0 +1,73 @@
+We're excited to announce the results of Moz's biannual Search Engine Ranking Correlation Study and Expert Survey, a.k.a. Ranking Factors.
+
+Moz's Ranking Factors study helps identify which attributes of pages and sites have the strongest association with ranking highly in Google. The study consists of two parts: a survey of professional SEOs and a large correlation study.
+
+This year, with the help of Moz's data scientist Dr. Matt Peters, new data partners, and over 150 search marketing professionals, we were able to study more data points than in any year past. All together, we measured over 170 correlations and collected over 15,000 data points from our panel of SEO experts.
+
+Ready to dig in?
+
+
+
+2015 Ranking Factors Study
+
+We want to especially thank our data partners. SimilarWeb, Ahrefs, and DomainTools each gave us unparallelled access and their data was essential to helping make this study a success. It's amazing and wonderful when different companies—even competitors—can come together for the advancement of knowledge.
+
+You can see all of our findings within the study now. In the coming days and weeks we'll dive into deeper analysis as to what we can learn from these correlations.
+
+
+
+Search Engine Ranking Correlation Study
+
+Moz's Ranking Correlation Study measures which attributes of pages and websites are associated with higher rankings in Google's search results. This means we look at characteristics such as:
+
+Keyword usage
+
+Page load speed
+
+Anchor text
+
+...and over 170 other attributes
+
+To be clear, the study doesn't tell us if Google actually uses these attributes in its core ranking algorithm. Instead, it shows which features of pages and sites are most associated with higher rankings. It's a fine, but important, distinction.
+
+While correlation studies can't prove or disprove which attributes Google considers in its algorithm, it does provide valuable hints. In fact, many would argue that correlation studies are even more important than causation when working with today's increasingly complex algorithms.
+
+For the study, Dr. Peters examined the top 50 Google results of 16,521 search queries, resulting in over 700,000 unique URLs. You can read about the full methodology here.
+
+
+
+Here's a sample of our findings:
+
+Example: Page-Level Link-Based Features
+
+The features in the chart below describe link metrics to the individual ranking page (such as number of links, PageRank, etc.) and their correlation to higher rankings in Google.
+
+Despite rumors to the contrary, links continue to show one of the strongest associations with higher rankings out of all the features we studied. While this doesn't prove how Google uses links in its algorithm, this information combined with statements from Google and the observations of many professional marketers leads us to strongly believe that links remain hugely important for SEO.
+
+Link-based features were only one of the features categories we examined. The complete correlation study includes 12 different categories of data.
+
+
+
+Ranking Factors Expert Survey
+
+While correlation data can provide valuable insight into the workings of Google's algorithm, we often learn much more by gathering the collective wisdom of search marketing experts working at the top of their game.
+
+For this reason, every two years we conduct the Ranking Factors Expert Survey.
+
+The survey itself is famously grueling–over 100 questions covering every aspect of Google's ranking algorithm. This year, we sent the invitation-only survey to 150 industry professionals.
+
+Stay tuned for a deeper dive into the Expert Survey later this week. We're honored to have the participation of so many knowledgeable professionals.
+
+
+
+In the meantime, you can freely view all the findings and results right now:
+
+
+
+2015 Ranking Factors Study
+
+Ranking Factors wouldn't be possible without the contribution of dozens of very talented people, but we'd especially like to thank Dr. Matt Peters, Kevin Engle, Rand Fishkin, Casey Coates, Trevor Klein, and Kelly Cooper for their efforts, along with our data partners and all the survey participants.
+
+
+
+What ranking factors or correlations stand out to you? Leave your thoughts in the comments below.

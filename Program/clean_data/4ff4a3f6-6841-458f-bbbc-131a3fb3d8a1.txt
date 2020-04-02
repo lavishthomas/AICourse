@@ -1,0 +1,239 @@
+If you don't know what Google Analytics is, haven't installed it on your website, or have installed it but never look at your data, then this post is for you. While it's hard for many to believe, there are still websites that are not using Google Analytics (or any analytics, for that matter) to measure their traffic. In this post, we're going to look at Google Analytics from the absolute beginner's point of view. Why you need it, how to get it, how to use it, and workarounds to common problems.
+
+Why every website owner needs Google Analytics
+
+Do you have a blog? Do you have a static website? If the answer is yes, whether they are for personal or business use, then you need Google Analytics. Here are just a few of the many questions about your website that you can answer using Google Analytics.
+
+How many people visit my website?
+
+Where do my visitors live?
+
+Do I need a mobile-friendly website?
+
+What websites send traffic to my website?
+
+What marketing tactics drive the most traffic to my website?
+
+Which pages on my website are the most popular?
+
+How many visitors have I converted into leads or customers?
+
+Where did my converting visitors come from and go on my website?
+
+How can I improve my website's speed?
+
+What blog content do my visitors like the most?
+
+There are many, many additional questions that Google Analytics can answer, but these are the ones that are most important for most website owners. Now let's look at how you can get Google Analytics on your website.
+
+How to install Google Analytics
+
+First, you need a Google Analytics account. If you have a primary Google account that you use for other services like Gmail, Google Drive, Google Calendar, Google+, or YouTube, then you should set up your Google Analytics using that Google account. Or you will need to create a new one.
+
+This should be a Google account you plan to keep forever and that only you have access to. You can always grant access to your Google Analytics to other people down the road, but you don't want someone else to have full control over it.
+
+Big tip: don't let your anyone (your web designer, web developer, web host, SEO person, etc.) create your website's Google Analytics account under their own Google account so they can "manage" it for you. If you and this person part ways, they will take your Google Analytics data with them, and you will have to start all over.
+
+Set up your account and property
+
+Once you have a Google account, you can go to Google Analytics and click the Sign into Google Analytics button. You will then be greeted with the three steps you must take to set up Google Analytics.
+
+After you click the Sign Up button, you will fill out information for your website.
+
+Google Analytics offers hierarchies to organize your account. You can have up to 100 Google Analytics accounts under one Google account. You can have up to 50 website properties under one Google Analytics account. You can have up to 25 views under one website property.
+
+Here are a few scenarios.
+
+SCENARIO 1: If you have one website, you only need one Google Analytics account with one website property.
+
+SCENARIO 2: If you have two websites, such as one for your business and one for your personal use, you might want to create two accounts, naming one "123Business" and one "Personal". Then you will set up your business website under the 123Business account and your personal website under your Personal account.
+
+SCENARIO 3: If you have several businesses, but less than 50, and each of them has one website, you might want to put them all under a Business account. Then have a Personal account for your personal websites.
+
+SCENARIO 4: If you have several businesses and each of them has dozens of websites, for a total of more than 50 websites, you might want to put each business under its own account, such as 123Business account, 124Business account, and so on.
+
+There are no right or wrong ways to set up your Google Analytics account—it's just a matter of how you want to organize your sites. You can always rename your accounts or properties down the road. Note that you can't move a property (website) from one Google Analytics account to another—you would have to set up a new property under the new account and lose the historical data you collected from the original property.
+
+For the absolute beginner's guide, we're going to assume you have one website and only need one view (the default, all data view. The setup would look something like this.
+
+Beneath this, you will have the option to configure where your Google Analytics data can be shared.
+
+Install your tracking code
+
+Once you are finished, you will click the Get Tracking ID button. You will get a popup of the Google Analytics terms and conditions, which you have to agree to. Then you will get your Google Analytics code.
+
+This must be installed on every page on your website. The installation will depend on what type of website you have. For example, I have a WordPress website on my own domain using the Genesis Framework. This framework has a specific area to add header and footer scripts to my website.
+
+Alternatively, if you have a WordPress on your own domain, you can use the Google Analytics by Yoast plugin to install your code easily no matter what theme or framework you are using.
+
+If you have a website built with HTML files, you will add the tracking code before the </head> tag on each of your pages. You can do this by using a text editor program (such as TextEdit for Mac or Notepad for Windows) and then uploading the file to your web host using an FTP program (such as FileZilla).
+
+If you have a Shopify e-commerce store, you will go to your Online Store settings and paste in your tracking code where specified.
+
+If you have a blog on Tumblr, you will go to your blog, click the Edit Theme button at the top right of your blog, and then enter just the Google Analytics ID in your settings.
+
+As you can see, the installation of Google Analytics varies based on the platform you use (content management system, website builder, e-commerce software, etc.), the theme you use, and the plugins you use. You should be able to find easy instructions to install Google Analytics on any website by doing a web search for your platform + how to install Google Analytics.
+
+Set up goals
+
+After you install your tracking code on your website, you will want to configure a small (but very useful) setting in your website's profile on Google Analytics. This is your Goals setting. You can find it by clicking on the Admin link at the top of your Google Analytics and then clicking on Goals under your website's View column.
+
+Goals will tell Google Analytics when something important has happened on your website. For example, if you have a website where you generate leads through a contact form, you will want to find (or create) a thank you page that visitors end upon once they have submitted their contact information. Or, if you have a website where you sell products, you will want to find (or create) a final thank you or confirmation page for visitors to land upon once they have completed a purchase.
+
+That URL will likely look something like this.
+
+In Google Analytics, you will click on the New Goal button.
+
+You will choose the Custom option (unless one of the other options are more applicable to your website) and click the Next Step button.
+
+You will name your goal something you will remember, select Destination, and then click the Next Step button.
+
+You will enter your thank you or confirmation page's URL after the .com of your website in the Destination field and change the drop-down to "Begins with".
+
+You will then toggle the value and enter a specific dollar value for that conversion (if applicable) and click Create Goal to complete the setup.
+
+If you have other similar goals / conversions you would like to track on your website, you can follow these steps again. You can create up to 20 goals on your website. Be sure that the ones you create are highly important to your business. These goals (for most businesses) include lead form submissions, email list sign ups, and purchase completions. Depending on your website and its purpose, your goals may vary.
+
+Note that this is the simplest of all conversion tracking in Google Analytics. You can review the documentation in Google Analytics support to learn more about setting up goal tracking.
+
+Set up site search
+
+Another thing you can set up really quickly that will give you valuable data down the road is Site Search. This is for any website with a search box on it, like the search box at the top of the Moz Blog.
+
+First, run a search on your website. Then keep the tab open. You will need the URL momentarily.
+
+Go to your Google Analytics Admin menu again, and in the View column, click on View Settings.
+
+Scroll down until you see Site Settings and toggle it to On.
+
+Look back at your URL for your search results. Enter the query parameter (usually s or q) and click Save. On Moz, for example, the query parameter is q.
+
+This will allow Google Analytics to track any searches made on your website so you can learn more about what your visitors are looking for on specific pages.
+
+Add additional accounts and properties
+
+If you want to add a new Google Analytics account, you can do so by going to your Admin menu, clicking on the drop-down under the Account column, and clicking the Create New Account link.
+
+Likewise, if you want to add a new website under your Google Analytics account, you can do so by going to your Admin menu, clicking on the drop-down under the Property column, and clicking the Create New Property link.
+
+Then you will continue through all of the above-mentioned steps.
+
+Once you've installed Google Analytics on your website(s), set up your goals, and set up site search(es), you should wait about 24 hours for it to start getting data. Then you will be able to start viewing your data.
+
+How to view Google Analytics data
+
+Once you start getting in Google Analytics data, you can start learning about your website traffic. Each time you log in to Google Analytics, you will be taken to your Audience Overview report. Alternatively, if you have more than one website, you will be taken to your list of websites to choose from, and then taken to the Audience Overview report for that website. This is the first of over 50 reports that are available to you in Google Analytics. You can also access these reports by clicking on the Reporting link at the top.
+
+Standard report features
+
+Most of the standard reports within Google Analytics will look similar to this. At the top right, you can click on the drop-down arrow next to your website to switch to different websites within all of your Google Analytics accounts. Or you can click the Home link at the top.
+
+In the report at the top right, you can click on the dates to change the date range of the data you are viewing. You can also check the Compare box to compare your data from one date range (such as this month) to a previous date range (such as last month) to view your data.
+
+You can hover over a variety of areas on your Google Analytics reports to get more information. For example, in the Audience Overview, hovering over the line on the graph will give you the number of sessions for a particular day. Hovering over the metrics beneath the graph will tell you what each one means.
+
+Beneath the main metrics, you will see reports that you can switch through to see the top ten languages, countries, cities, browsers, operating systems, services providers, and screen resolutions of your visitors.
+
+You can click the full report link on each to see the full reports. Or you can click on any of the top ten links to see more details. For example, clicking on the United States in Countries will take you to the full Location report, focused in on visitors from states within the US.
+
+In this view, you can hover over each state to see the number of visitors from that state. You can scroll down to the table and hover over each column name to learn more about each metric.
+
+You can also click on the name of each state to see visitors from cities within the state. Effectively, any time you see a clickable link or a ? next to something, you can click on it or hover over it to learn more. The deeper you dive into your analytics, the more interesting information you will find.
+
+Types of Google Analytics reports
+
+Speaking of reports, here is quick summary of what you will find in each of the standard Google Analytics reporting sections, accessible in the left sidebar.
+
+Everything in (parenthesis) is a specific report or set of reports within the following sections that you can refer to.
+
+Audience reports
+
+These reports tell you everything you want to know about your visitors. In them, you will find detailed reports for your visitors' age and gender (Demographics), what their general interests are (Interests), where they come from (Geo > Location) and what language they speak (Geo > Language), how often they visit your website (Behavior), and the technology they use to view your website (Technology and Mobile).
+
+Acquisition reports
+
+These reports will tell you everything you want to know about what drove visitors to your website (All Traffic). You will see your traffic broken down by main categories (All Traffic > Channels) and specific sources (All Traffic > Source/Medium).
+
+You can learn everything about traffic from social networks (Social). You can also connect Google Analytics to AdWords to learn more about PPC campaigns and to Google Webmaster Tools / Search Console to learn more about search traffic (Search Engine Optimization)
+
+Behavior reports
+
+These reports will tell you everything you want to know about your content. Particularly, the top pages on your website (Site Content > All Pages), the top entry pages on your website (Site Content > Landing Pages), and the top exit pages on your website (Site Content > Exit Pages).
+
+If you set up Site Search, you will be able to see what terms are searched for (Site Search > Search Terms) and the pages they are searched upon (Site Search > Pages).
+
+You can also learn how fast your website loads (Site Speed) as well as find specific suggestions from Google on how to make your website faster (Site Speed > Speed Suggestions).
+
+Conversions
+
+If you set up Goals within your Google Analytics, you can see how many conversions your website has received (Goals > Overview) and what URLs they happened upon (Goals > Goal URLs). You can also see the path that visitors took to complete the conversion (Goals > Reverse Goal Path).
+
+Speaking of goals and conversions, most of the tables within Google Analytics standard reports will tie specific data to your conversions. For example, you can see the number of conversions made by visitors from California in the Audience > Geo > Location report. You can see the number of conversions made by visitors from Facebook in the Acquisitions > All Traffic > Source/Medium report. You can see the number of conversions made by visitors who landed on specific pages in the Behavior > Site Content > Landing Pages report.
+
+If you have multiple goals, you can use the dropdown at the top of that section of data to switch to the goal you want to view or all of your goals if you prefer.
+
+Shortcuts and emails
+
+While you won't need every report within Google Analytics, you should explore them all to see what they have to offer. When you find some that you want to visit again and again, use the Shortcut link at the top of the report to add them to the Shortcuts in your left sidebar for faster access.
+
+Or, use the email button to have them emailed to you (or others on your team) on a regular basis.
+
+If you choose to send emails to someone outside of your organization, be sure to regularly check your emails by going to your Admin menu and clicking on the Scheduled Emails box under the View column to ensure only people working with your company are getting your data.
+
+Answers to common questions about Google Analytics
+
+Got a few questions? Here are some of the common ones that come up with Google Analytics.
+
+How do I share my Google Analytics data with someone?
+
+You don't have to give your Google account information over to someone who needs access to your Google Analytics data. You just need to go to your Admin menu and under the Account, Property (website) or View you want someone to see, click the User Management menu.
+
+From there, you can add the email address of anyone you would like to view your Google Analytics data and choose the permissions you would like them to have.
+
+I don't like viewing the reports in Google Analytics. Can someone just summarize the data for me?
+
+Yes! Quill Engage is a service that will take your Google Analytics data and summarize it in an easy-to-read report for you. Best of all, it's free for up to ten profiles (websites).
+
+I have a dozen websites, and I don't want to check each of their Google Analytics on a daily basis. What do I do?
+
+You have two options in this scenario. You start by going to the Home screen of Google Analytics. There, you will find a listing of all your websites and an overview of the top metrics—sessions, average session duration, bounce rate, and conversion rate.
+
+You can also try business dashboard solutions like Cyfe. For $19 a month, you can create unlimited dashboards with unlimited widgets, including a large selection of data from Google Analytics, alongside data from your social media networks, keyword rankings, Moz stats, and more.
+
+This solution significantly cuts down on the time spent looking at analytics across the board for your entire business.
+
+Google Analytics says that 90%+ of my organic keywords are (not provided). Where can I find that information?
+
+(not provided) is Google's way of protecting search engine user's privacy by hiding the keywords they use to discover your website in search results. Tools like Google Webmaster Tools (now Search Console, free), Authority Lab's Now Provided Reports (paid), and Hittail (paid) can all help you uncover some of those keywords.
+
+They won't be linked to your conversions or other Google Analytics data, but at least you will have some clue what keywords searchers are using to find your website.
+
+
+
+How do I use Custom Reports, Dashboards, and Segments?
+
+If you're ready to move to the next level in Google Analytics, Custom Reports, Dashboards, and Segments are the way to go.
+
+Custom Reports (under the Customization menu at the top) allow you to create reports that look similar to the standard Google Analytics reports with the metrics you want to view.
+
+Dashboards allow you to view your Google Analytics data in a dashboard format. You can access them at the top of the left sidebar.
+
+Segments allow you to view all of your Google Analytics data based on a specific dimension, such as all of your Google Analytics data based on visitors from the United States. You can also use them to compare up to four segments of data, such as United States versus United Kingdom traffic, search versus social traffic, mobile versus desktop traffic, and more. You can access Segments in each of your reports.
+
+The nice part about these is that you don't have to create them from scratch. You can start by using pre-defined Custom Reports, Dashboards, and Segments from the Google Solutions Gallery.
+
+
+
+There, you will find lots of Custom Reports, Dashboards, Segments, and other solutions that you can import into your Google Analytics and edit to fit your needs. Edit Custom Reports with the Edit button at the top.
+
+Edit Dashboards using the Add Widget or Customize Dashboard buttons at the top.
+
+Edit Segments by clicking the Action button inside the Segments selector box and choosing Edit.
+
+Or, when you have applied Segments to your reports, use the drop-down arrow at the top right to find the Edit option.
+
+As you get used to editing Custom Reports, Dashboards, and Segments, you will get more familiar with the way each works so you can create new ones on your own.
+
+In conclusion
+
+I hope you've enjoyed this beginner's introduction to Google Analytics for beginners. If you're a beginner and have a burning questions, please ask in the comments. I'll be happy to help!

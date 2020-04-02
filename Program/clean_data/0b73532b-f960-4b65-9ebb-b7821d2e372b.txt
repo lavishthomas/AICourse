@@ -1,0 +1,101 @@
+I graduated in 1994. COBOL was the popular programming language at that time.
+
+Then came DBase
+
+
+
+Then FoxPro
+
+
+
+Then Power Builder
+
+
+
+Then Visual Basic
+
+Every time a new language came in, it brought associated technologies, like ODBC, COM, ATL, and so on.
+
+In 90’s, packaged solutions like Vantive and Peoplesoft started appearing. SAP was another popular packaged solution at that time.
+
+In the last few years, new programming languages started to surface — Swift, Go, Scala, and so on.
+
+Why am I recounting the history?
+
+In software industry, only one principle remains true: if you are not updated, you will be outdated.
+
+I have gone through this cycle of learning new technology over and over again. As I repeated this cycle, I noticed a pattern. I have fine tuned that pattern and developed a systematic approach to learn new language or technology.
+
+Learn
+
+First part of the system is learning. You learn by reading books, blogs and other's code.
+
+Books
+
+Generally I avoid books on programming languages, unless I wrote them 😀. I read books on architecture, design, and process. Recently, I subscribed to Safari Books Online, which has a huge collection of technology books. Here are some of my recommendations (You can look at all the books I have read):
+
+Blogs & Sites
+
+Books are good to learn established ideas. They are not good enough to keep up with a fast changing industry like software. To keep up with the latest thoughts in software, I follow the below websites:
+
+I subscribe to them and read with Feedly.
+
+Newsletters
+
+If you don't have time to visit these sites, you can subscribe to well curated newsletters. I am subscribed to two such newsletters: Node Weekly and Software Lead Weekly. SLW is an awesome curated newsletter for everyone in software industry. For other weekly newsletters, refer Awesome-Weekly repository.
+
+Code Repositories
+
+Before Internet became ubiquitous, it used to be impossible to get hold of well written code to read. Now it is easy. You can browse GitHub and you will find well written code for any type of software — server, compiler, languages, and applications.
+
+These days I focus on nodejs. So here are some nodejs related repositories:
+
+Node.js - a server-side Javascript runtime
+
+Typescript - a superset of JavaScript that compiles to clean JavaScript by Microsoft
+
+Hapijs - a nodejs based web-application framework by Walmart
+
+d3.js - a JavaScript library for visualizing data
+
+Bootstrap - a HTML, CSS, and JavaScript framework for developing responsive, mobile first projects
+
+Hexo - a static blog generator
+
+Punch - another static blog generator
+
+Ghost - a blogging platform
+
+You can also browse many "awesome" repositories, which are curated repositories. Here are some:
+
+Experiment with side projects (for learning)
+
+Learning is only one aspect of learning. If you want to grasp the concepts and internalise them, then you should try them out.
+
+Have a side project to try these concepts. Keep it small enough that you can complete it in few weeks but large enough for you to learn. Purpose of these side projects aren't to create a complete application or to make money. Only to learn.
+
+Here are some of the ideas to get you started with side-projects for learning:
+
+Take a look at 52 technologies in 52 weeks. Shekar tried a new concept every week in 2016 (he did only 43 projects, but still it is commendable streak). You can try the same concepts in a language of your choice.
+
+If you are starting out, then you can try to solve Euler problems in your language of choice. That way, you will learn both algorithms and a programming language.
+
+Justin Jackson went crazy and made 100 things in 2016.
+
+If these are overwhelming, you can create one project per month.
+
+All these are means to an end. Choose whatever formula — 100 projects, solving Euler problems, one project per month, but commit to do it for an extended period of time. Exercise your mental muscles with these experiments.
+
+If you think you don't have enough ideas, browse through Ideas Watch and Idea Space. Both of them are about startups, but you could still pick up enough ideas for a side-project from them.
+
+As I said earlier, your intention for side-projects is learning. So don't worry too much about quality. When you are learning, quantity trumps quality.
+
+Share & Engage
+
+Share. Share what you learn. Share using Github, or using Medium, or using your own blog. It's about paying it forward. But also it helps you engage with others who have done it or doing it. The first kind will let you know if there is a better way of doing than what you have done. The other kind will ask you clarifying questions when they do it. Both will help you strengthen your knowledge.
+
+Keep learning
+
+We all know, software is eating the world. As it expands its reach, we'll have to learn more and more. If you formulate a system, you can learn quickly.
+
+Keep learning.

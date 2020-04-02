@@ -1,0 +1,9 @@
+Photo by Porsche Brosseau.
+
+There’s nothing like a fresh pot of coffee on a long workday. This Amazon Dash button hack will send a message to everyone in your office when a new batch is ready.
+
+
+
+Fresh Pots, from the folks at Nelson Cash, is a simple office hack you can do with any $5 Amazon Dash button. Once you have everything in working order, a single press of the button will inform everyone in your Slack channel that there are fresh pots of coffee available in the break room. The setup process involves copying down some provided scripts and making a simple Slack bot, but it’s fairly straightforward and the guide explains everything along the way. Check out the full walkthrough at the link below.
+
+Fresh Pots | Nelson Cash Labs via Mental Floss

@@ -1,0 +1,105 @@
+A cheap power strip might protect equipment from power surges, but it does nothing to help when the power goes out and your system comes to a halting crash. For that, you’ll want a battery backup, also known as an uninterruptible power supply (or UPS).
+
+Editor’s Note: Don’t want to read everything? You can’t go wrong with this CyberPower1500VA model for $140 or less. It’s the one that we use here at the How-To Geek office, and while you can get something slightly cheaper if you shop around, you do get what you pay for and the cost difference isn’t much.
+
+What Is an Uninterruptible Power Supply?
+
+Sudden loss of power and power surges are two of the principle causes of damage to computers and other sensitive electronics. Even cheap power strips will do a decent enough job protecting against the power surges, but they offer no protection against drops in line voltage, brownouts, blackouts, and other power supply issues.
+
+In order to protect your computer against power supply interruptions, you need a battery backup. UPS units are like power strips that contain a big battery inside, providing a buffer against power supply interruptions. This buffer can range from a few minutes to an hour or more depending on the size of the unit.
+
+A simple way to think about the utility of a UPS unit is to think about working on a laptop. You’re at home, your laptop is plugged into an appropriate surge protection strip, and you’re busily finishing up some reports for work. A summer storm knocks the power out. Although the lights go out, your work on the notebook computer is uninterrupted because the notebook switched over to battery power seamlessly when the flow of electricity from the power cord vanished. You now have plenty of time to save your work and gracefully shut down your machine.
+
+Desktop computers, however, don’t have batteries built-in, like laptops do. If you had been working on a desktop during that power outage, the system would come to an immediate halt. Not only would you lose your work, but the process imposes unnecessary stress on your machine. In all our years of working with computers, the vast majority of hardware failures can be directly attributed to the stress hardware components experience during the shut down and startup process (especially if power surges or blackouts are involved).
+
+A UPS unit would, at minimum even with a very small unit, provide a window of time where your computer could be gracefully shut down or sent into hibernation mode and brought back online once the power outage or other power situation was resolved. If the situation is resolved while the UPS unit still has enough battery life remaining, then you can work right through the storm without interruption. Even if you’re not sitting right in front of the computer, many UPS units come with software that can detect when the unit switches to battery power, and shut down automatically (and properly) in your absence.
+
+If that’s enough to convince you, read on as we guide you through identifying your UPS needs, calculating your UPS power requirements, and understanding the features and design types of various UPS units.
+
+Where Do I Need UPS Units in My House?
+
+The UPS market is a very diverse one. You can find tiny desktop units designed to keep a lightweight desktop computer running for 10 minutes, or walk-in-freezer sized units deployed in data centers to keep an entire bank of servers running through a storm.
+
+As such, it’s possible to spend anywhere from a hundred bucks on a low-end UPS unit to thousands. The most important step in your UPS selection and shopping process is to sit down and chart out your power needs before spending your hard earned cash on gear that is overkill (or worse, underpowered) for your situation.
+
+First, think about all the systems in your home or office that need the extended power protection supplied by a UPS unit, to stay online in the event of power outages, or both. Every reader will have a different setup, for the sake of example, we’re going to use our home as a template to help you think about all the varied power needs found in a typical residential setting.
+
+The most obvious system would be your desktop computer. In our case we have two desktop computers in our home–one in a home office and one in a child’s playroom.
+
+Less obvious, but still important, are any secondary computer systems such as a home media server or network attached storage device used for local backup. In our case, we have a media server/backup server in the basement.
+
+In addition to the primary computers and auxiliary computers, are there other electronic devices that you want to protect from power outages and keep online? In our case we also have a cable modem, router, and Wi-Fi node that we would like to protect from power loss. There isn’t a “graceful shutdown” equivalent for the cable modem, for example, but our particular cable modem is finicky and requires a manual reset after a power outage. Attaching it to a nearby UPS unit would add very little overhead to our UPS needs but would make sure those little micro power outages that occur during high winds and summer storms won’t send you scurrying to the data closet to reset the darn thing.
+
+How Big of a UPS Unit Do I Need?
+
+At the bare minimum, you need enough juice in your UPS unit to give your computer system adequate time to shut down properly. That’s the absolute acceptable minimum. If your UPS unit doesn’t have enough juice to provide for the system from the moment the power cuts out until the moment it has successfully shut down, you’re risking damage to the machine and data loss.
+
+So how can you calculate the power needs of the system? The first step is examining the core system and peripherals you wish to keep on in the event of power loss. In the case of our home server, we don’t need to calculate the peripheral load because there are no peripherals (it’s a headless server with no power needs beyond that of the hardware directly in the tower). On the other hand, our two computers (in the home office and the playroom) do have peripherals like monitors, external hard drives, and so on. In the case of a power outage where you’re working at the computer, it’s worthwhile to have the battery also supply the monitor so you can interact with the machine. Don’t neglect to include the power load of peripherals when calculating your needs.
+
+Let’s start off by determining the power needs of our home server, as it is the most simple of our setups. If you want to be extremely precise with your calculations, you can use a power meter to measure the actual consumption patterns of your devices.
+
+Alternatively, you can look at the power supply rating for your computer as a measure of the maximum power the computer will pull. It’s important to note, however, that a 400w power supply is not pulling a constant load of 400w. Our home server has a 400w power supply, but when measured with a Kill-a-Watt measuring tool, it has a peak startup load of a little over 300w and a consistent operating load of only around 250w.
+
+If you’re looking to be very conservative in your power estimation needs, go with the maximum rating of the PSU and peripherals (this way you’ll end up with extra battery life instead of too little battery life). Alternatively, you can increase the precision of your calculations by using a measuring device and allocate more of your budget toward UPS unit features you want and less toward buying a bigger battery.
+
+Regardless of whether you use the less precise or more precise method, you’ll have a wattage value. For our calculation examples, we’re going to use 400w as our value.
+
+A simple rule-of-thumb calculation you can use to determine how much UPS is as follows:
+
+1.6 * Wattage Load = Minimum Volt-Amperes (VA)
+
+Volt-Amperes are the standard measurement used to describe the capacity of UPS units. Using the equation above, we see that the minimum VA rating we’d want for our 400w needs would be a 640 VA rated system.
+
+So how long will that minimum system run the setup? After all, you’re getting a battery backup system for your computer to keep everything running when the power is out.
+
+Unfortunately, there isn’t a super quick rule-of-thumb calculation for determining the runtime like there is for determining the necessary minimum VA. In fact, it’s such an enormous hassle to dig up the necessary information (especially the efficiency rating), that it’s much more expedient to use manufacturer estimate tables (which we’ve found to be on the conservative side anyways). You can check out the calculation/selection tools of the more popular UPS unit manufacturers here:
+
+Practically speaking, once you’ve established the minimum VA requirement for your setup, then you can go and begin comparing the run times for UPS units that meet that minimum VA requirement with higher rated systems to determine how much more you’re willing to spend to get extra run time.
+
+The Three Main Types of UPS Units
+
+So far we’ve identified where we need UPS units and how to calculate how big of a UPS unit we need. In addition to those two factors, it’s important to understand how the major UPS technologies on the market differ from each other and why two 1000 VA rated units might have a price difference of $100 or more (and what you get for that extra cash).
+
+There are three principle UPS design types available. The least expensive design is known as Offline/Standby UPS. If the UPS unit you’re looking at makes no mention of what type of unit it is, then it’s most likely a Standby UPS.
+
+A Standby UPS unit charges its battery and then waits for the mains power to drop off. When that happens, the Standby UPS mechanically switches to the battery backup. This switch over takes about 20-100 milliseconds, which is generally well within the tolerance threshold of most electronics.
+
+A Line-Interactive UPS unit has a similar design to a Standby UPS unit, but includes a special transformer. This special transformer makes Line-Interactive UPS units better at handling brownouts and power sags. If you live in area that has frequent brownouts or line-voltage issues (e.g. the lights frequently dim but you don’t actually lose power), it’s definitely worth the small increase in cost to purchase a Line-Interactive UPS.
+
+An Online UPS unit is the most expensive type of UPS unit, as it requires significant extra circuitry. The Online UPS unit completely isolates the devices attached to it from the wall power. Instead of jumping into action at the first sign of power out or voltage regulation issues like the Standby and Line-Interactive units, the Online UPS unit continuously filters the wall power through the battery system. Because the attached electronics run completely off the battery bank (which is being perpetually topped off by the external power supply), there is never a single millisecond of power interruption when there is power loss or voltage regulation issues. The Online UPS unit, then, is effectively an electronic firewall between your devices and the outside world, scrubbing and stabilizing all the electricity your devices are ever exposed to. Expect to pay a 200-400 percent premium for an Online UPS unit over a similarly spec’ed Line-Interactive Unit.
+
+Secondary Features You May Want
+
+Even though a UPS unit is effectively just a sophisticated battery, there are tons of little features that can greatly enhance your UPS experience. Now that you know how to size and compare the basic elements of the UPS let’s take a look at additional features you’ll want to consider when picking out a UPS unit.
+
+Supplementary software/OS compatibility: UPS units aren’t just power strips with big old batteries attached. Any UPS unit worth the money will include some method for interfacing with the computer it is attached to. For most units, this is a simple USB cable run between the UPS and the computer, so that when the unit switches over to battery power it can alert the attached computer and initiate the shut down process.
+
+When shopping for your UPS unit, make sure that the unit you’re looking at can 1) communicate with attached devices and 2) communicate specifically with your chosen operating system. If you’re on Windows this won’t be much concern, but if you’re using macOS or Linux you don’t want to find out post-purchase that all the cool software bells and whistles you saw in the ad copy are Windows-only.
+
+For an example of how the UPS software interacts with the operating system, check out our tutorial on setting up APC’s PowerChute software.
+
+Number of outlets: UPS units generally have a mix of on-battery and off-battery (but still surge protected) outlets. Make sure that there are adequate outlets for your needs. Some brands include additional outlet-related features such as peripheral outlets that automatically put peripherals to sleep to save energy.
+
+Cable filters: If you know the unit will be used for your cable modem and router, for example, you’ll want to double check the specs to ensure that the UPS unit includes surge protected/filtered ports for your Ethernet and Coax cables. (Note: Ethernet ports on UPS units are notoriously flaky, so it’s often best to isolate the source of the Ethernet, e.g. the router or network switch, with its own protection instead of worrying about isolating every individual cable before it reaches a computer or device.)
+
+Displays: Not all UPS units have displays (and you may not care if yours does), but they can be quite useful. Older units and newer low-end units do not include displays. As such, you’re limited in receiving feedback from the unit either via communication over the USB/serial cable or (more annoyingly) as beeps from the unit. A compact display screen that can tell you additional information like remaining run time, battery health, and other tidbits is very handy.
+
+Noise/Fans: Small UPS units generally do not have fans. Larger units often do, and it’s worth reading reviews and digging around online to see if the fans are as quiet as the manufacturer claims. While fan noise isn’t an issue if you’re adding a UPS unit to a home server kept in the basement, it’s a real big deal if you’re adding a UPS unit to your home theater setup.
+
+User-replaceable batteries: Does the unit have user-replaceable batteries, and how much do they cost? UPS batteries don’t last forever (3-5 years is a pretty typical lifecycle for a UPS battery). When the battery finally fails, and it will, you’ll either need to buy new batteries (if you can swap them yourself) or buy a whole new unit. Except for very low-end UPS, you should always look for units with user-replaceable batteries. There’s no reason at all to scrap a $100+ unit for inability to swap out the simple 12V batteries inside.
+
+Overwhelmed? Here’s What We Recommend
+
+We’ve covered a lot of ground in this article. We completely understand if you’re feeling a bit out of your depth and at this point you’re looking to just get a solid recommendation from a knowledgable friend.
+
+While we highly recommend you get exactly the UPS unit you need with the features you want (and there’s no way to get that perfect of a fit without doing the math we outlined above along with some careful comparison shopping), that doesn’t mean we don’t have some very strong recommendations based on our experience.
+
+When it comes down to best value per minute-of-runtime along with a wide array of features, it’s very tough to beat CyberPower UPS units. Although APC might be a company with a significant history and presence in the industry (as well as the UPS unit you’ll find in many corporate settings) they come with a premium price tag that doesn’t typically offer a home user much to show. Dollar for dollar, we can’t recommend CyberPower units enough for use in a home or small office environment.
+
+Their AVR Intelligent LCD Mini-Tower line is by far the best value in the industry right now, as you get a large battery (that can be can be easily user-replaced for less than $50), multiple surge protection ports (power, Ethernet, coax), great management software (both stand alone desktop software and free network-wide management software depending on your needs), and an attractive form factor with an easy to read LCD panel.
+
+The models range from 850VA to 1500VA, with the best selling 1350VA model retailing for around $122. We use the slightly beefier 1500VA model ($130) on our home server and our main workstation. The core design and feature set across the entire AVR line is identical, however, and the slightly-smaller-form-factor of the 850VA model still includes the same number of ports and features as the 1500AV model—just with decreased runtime on account of the smaller battery.
+
+Now you might be asking, “I’ve found quite a few smaller UPS units under $80 with a lower power rating and a smaller form factor. Why shouldn’t I get one of them?” The majority of smaller brick-style units are not line interactive. Remember from the section above detailing types of UPS units that line interactive means that the unit is sophisticated enough to handle brownouts and voltage changes on the line without flipping over to the battery. Given that the majority of power interruptions are exactly this type (and not full blown extended blackouts), a line-interactive unit is perfect for correction of brownouts and overvoltage issues without taxing or draining the battery. Further, if you do have a blackout, a unit with a 1000VA+ rating will definitely you ensure you have enough power to finish any work you’re doing, shut the system down gracefully, and in most situations (given that blackouts are typically short lived) will even have enough power to get you through until the lights come back on.
+
+Armed with the above information you’re now ready to shop for a UPS unit perfectly suited for your needs, big or small.

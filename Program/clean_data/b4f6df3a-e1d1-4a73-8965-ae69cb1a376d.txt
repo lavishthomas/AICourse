@@ -1,0 +1,13 @@
+[lasersaber] has a passion: low-power motors. In a bid to challenge himself and inspired by betavoltaic cells, he has 3D printed and built a small nuclear powered motor!
+
+This photovoltaic battery uses fragile glass vials of tritium extracted from keychains and a small section of a solar panel to absorb the light, generating power. After experimenting with numerous designs, [lasersaber] went with a 3D printed pyramid that houses six coils and three magnets, encapsulated in a glass cloche and accompanied by a suitably ominous green glow.
+
+Can you guess how much power and current are coursing through this thing? Guess again. Lower. Lower.
+
+Under 200mV and 20nA!
+
+The motor ended up being so responsive that the act of [lasersaber] holding two different metals would make it run; even a large metal ball acting as an antenna for ambient energy is sufficient to power the motor.
+
+Last year we featured [NurdRage]’s photoltaic cell — the very same [lasersaber] based his build on. Be aware — these are properly radioactive elements so they must be treated with the caution and respect they deserve. Definitely not for building random number generators.
+
+[Thanks for the tip, oxide!]

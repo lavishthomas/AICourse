@@ -1,0 +1,25 @@
+The construction industry is responsible for undertaking some of the biggest and most expensive projects on Earth. Huge amounts of resources and work go into major construction projects and of course this means that huge volumes of data are generated.
+
+Number crunching has always been a big part of construction – a commonly heard phrase is that construction companies are accounting companies which happen to erect buildings. It’s an industry where 35% of costs are accounted for by material waste and remedial work. So counting the cost of every screw could be the difference between delivering on budget and bankrupting an organization (or several organizations) financing a build.
+
+Even though analytics has always played a part in the sector is it lagging behind other industries such as retail and financing. More advanced analytics and Big Data are just now finding their ways into the sector.
+
+What I am seeing is that construction firms are starting to move into arenas such as real-time, cloud-powered analytics of large and unstructured datasets. Such methods have the potential to redefine the traditionally fraught relationships between the interested parties. Architects – who want to unleash their creative energy – engineers – who have to try and make it all fit together and not fall down again – and owners, desperate to keep costs from spiralling out of control.
+
+John Jacobs, CIO for JE DUNN, responsible for some of the largest construction projects in the US, told me that this has been achieved through building partnerships with tech firms in order to develop industry specific tools.
+
+Jacobs told me “Here’s the primary issue – we have a complex process that we go through to build a building. We need access to 2D and 3D data, financial data, corporate data, documents, schedule elements, weather – all this has to be linked and it’s a complex web.
+
+“The world has Dropbox and Gotomeeting to collaborate – we don’t have anything like that specifically for construction. So we had to set out to build our own. And that means we’ve created a tech foundation that we’re really finding to be transformational.”
+
+JE DUNN partnered with Autodesk to build systems allowing real-time, data driven predictive modelling. They tied Autodesk’s large model viewing functionality with their own estimating system to develop custom visualization technology known as LENS.
+
+“Now you have a picture,” says Jacobs. “The owner can see that concept model from our design partner and see the dollars tied to it. You can say ‘Show me what it would be like if we added another floor’ or ‘what if we made this part bigger?’ Every element in the design is tied to our cost estimate. It is completely integrated so the solution changes visually, on the fly.
+
+“This changes everything – the owner can see that we understand what they want, and see that our numbers are right. That level of reliability is really changing the industry and effectiveness of our early pricing”
+
+This massively speeds up the design process and already, even at this early stage, contributes to waste saving. Whereas before, minor changes to the design could mean several weeks or months of backwards and forward communications between architects, engineers and owners, insights into the effects of changes are now visible almost instantaneously.
+
+Hanspal Although it’s too early to have much in the way of concrete results, Jacobs tells me that their new Big Data driven BIM (building information modelling) system is estimated to have reduced costs of one $60 million civic center construction project by $11 million, and cut the projected completion time by 12 weeks by drastically shortening the pre-construction phase.
+
+As with other industries, an obstacle in construction is that much of the data which has been collected until now is effectively siloed – held in isolation by the business department or division which collected it, where it is useful for their own analytics but can’t contribute to the big picture, birds’-eye view needed for real Big Data analytics.

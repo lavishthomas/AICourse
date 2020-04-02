@@ -1,0 +1,87 @@
+For many years I lived in Eugene, Oregon, also known as “track-town USA” for its long tradition in track and field. Each summer high-profile meets like the United States National Championships or Olympic Trials would bring world-class competitors to the University of Oregon’s Hayward Field. It was exciting to bump into great athletes at the local cafe or ice cream shop, or even find myself lifting weights or running on a track next to them. One morning I was shocked to be passed as if standing still by a woman running 400-meter repeats. Her training pace was as fast as I could run a flat out sprint over a much shorter distance.
+
+The simple fact was that she was an extreme outlier, and I wasn’t. Athletic performance follows a normal distribution, like many other quantities in nature. That means that the number of people capable of exceptional performance falls off exponentially as performance levels increase. While an 11-second 100-meter can win a high school student the league or district championship, a good state champion runs sub-11, and among 100 state champions only a few have any hope of running near 10 seconds.
+
+David Madison/Getty Images
+
+Keep going along this curve, and you get to the freaks among freaks—competitors who shatter records and push limits beyond imagination. When Carl Lewis dominated sprinting in the late 1980s, sub-10 second 100m times were rare, and anything in the 10-second flat range guaranteed a high finish, even at the Olympics. Lewis was a graceful 6 feet 2 inches, considered tall for a sprinter. Heights much greater than his were supposed to be a disadvantage for a sprinter, forcing a slower cadence and reduced speeds—at least that was the conventional wisdom.
+
+So no one anticipated the coming of a Usain Bolt. At a muscular 6 feet 5 inches, and finishing almost half a second faster than the best of the previous generation, he seemed to come from another species entirely. His stride length can reach a remarkable 9.3 feet,1 and, in the words of a 2013 study in the European Journal of Physics, demonstrated performance that “is of physical interest since he can achieve, until now, accelerations and speeds that no other runner can.”2
+
+Bolt’s times weren’t just faster than anyone else in the world. They were considerably faster even than those of a world-class runner from the previous generation that was using performance-enhancing drugs. The Jamaican-born Canadian sprinter Ben Johnson achieved a world-record time of 9.79 seconds at the 1988 Olympic Games, beating Lewis and boasting that he’d have been faster if he hadn’t raised his hand in victory just ahead of the finish line. It would later be found out that he’d been using steroids.
+
+The potential improvements achievable by doping effort are relatively modest.
+
+Even the combination of an elite runner and anabolic steroids, though, was not enough to outcompete a genetic outlier. Bolt achieved a time of 9.58 seconds at the 2009 World Athletics Championship, setting a world record and beating his own previous record by a full tenth of a second.
+
+We find a similar story in the NBA with Shaquille O’Neal. O’Neal was the first 7-footer in the league who retained the power and agility of a much smaller man. Neither a beanpole nor a plodding hulk, he would have been an athletic 200-pounder if scaled down to 6 feet in height. When Shaq got the ball near the hoop, no man (or sometimes even two men) could stop him from dunking it. Soon after his entry into the league, basket frames had to be reinforced to prevent being destroyed by his dunks. After the Lakers won three championships in a row, the NBA was forced to change their rules drastically—allowing zone defenses—in order to reduce Shaq’s domination of the game. Here was a genetic outlier whose performance was unequalled by anyone else in a league that has long been criticized for its soft anti-doping policy; for example, it only added blood testing for human growth hormone to its program last year. Whatever doping may have been going on, it wasn’t enough to get anyone to Shaq’s level.
+
+By comparison, the potential improvements achievable by doping effort are relatively modest. In weightlifting, for example, Mike Israetel, a professor of exercise science at Temple University, has estimated that doping increases weightlifting scores by about 5 to 10 percent. Compare that to the progression in world record bench press weights: 361 pounds in 1898, 363 pounds in 1916, 500 pounds in 1953, 600 pounds in 1967, 667 pounds in 1984, and 730 pounds in 2015. Doping is enough to win any given competition, but it does not stand up against the long-term trend of improving performance that is driven, in part, by genetic outliers. As the population base of weightlifting competitors has increased, outliers further and further out on the tail of the distribution have appeared, driving up world records.
+
+Similarly, Lance Armstrong’s drug-fuelled victory of the 1999 Tour de France gave him a margin of victory over second-place finisher Alex Zulle of 7 minutes, 37 seconds, or about 0.1 percent.3 That pales in comparison to the dramatic secular increase in speeds the Tour has seen over the past half century: Eddy Merckx won the 1971 tour, which was about the same distance as the 1999 tour, in a time 5 percent worse than Zulle’s. Certainly, some of this improvement is due to training methods and better equipment. But much of it is simply due to the sport’s ability to find competitors of ever more exceptional natural ability, further and further out along the tail of what’s possible.
+
+
+
+
+
+We’re just scratching the surface of what genetic outliers can do. The normal distribution we see in athletic capabilities is a telltale signature of many small additive effects that are all independent from each other. Ultimately, these additive effects come from gene variants, or alleles, with small positive and negative consequences on traits such as height, muscularity, and coordination. It is now understood, for example, that great height is due to the combination of an unusually large number of positive variants, and possibly some very rare mutations that have a large effect on their own.
+
+The genomics researcher George Church maintains a list of some of these single mutations. They include a variant of LRP5 that leads to extra-strong bones, a variant of MSTN that produces extra lean muscle, and a variant of SCN9A that is associated with pain insensitivity.4
+
+Church has also been involved in one of the greatest scientific breakthroughs of recent decades: the development of a highly efficient gene editing tool called CRISPR, which has been approved for clinical trials for medical applications. If CRISPR-related technologies develop as anticipated, designer humans are at most a few decades away. Editing is most easily done soon after conception, when the embryo consists of only a small number of cells, but it is also possible in adults. Clinical trials of CRISPR, when they start this year, will edit existing cells in adults using an injection of a viral vector. It seems likely that CRISPR, or some improved version of it, will be established to be both safe and effective in the near future.
+
+Also in Genetics Your DNA Is Nothing Special By Chip Rowe Who’s your daddy? It’s a fair question. A meta-study published in 2006 by a University of Oklahoma anthropology professor estimated that 30 percent of men who have low paternity confidence about a child were justified in their suspicions. Even among...READ MORE
+
+Because complex traits are controlled by so many variants, we know that there is a huge pool of untapped potential that no human—not Shaq, Bolt, or anyone else—has come close to exhausting. No living human has anywhere near all of the possible positive versions of the relevant genetic variants. The whole enterprise of competitive athletics has been, in effect, a search algorithm for genetic outliers, but it’s been running for less than a century, and it hasn’t been particularly efficient. Its approach has been to passively wait for random recombinations to produce those variants, and hope that athletic programs find the best individuals.
+
+Now we are entering an era in which it will not be chance that configures DNA, but rather the human intellect via tools of its own creation. As our understanding of complex traits improves, genetic engineers will be able to modify strength, size, explosiveness, endurance, quickness, speed, and even the determination and drive required for extensive athletic training. Estimates of the number of variants controlling height and cognitive ability, two of the most complex traits, yield results in the range of 10,000.5 If, as a simplification, we assume that in each of the 10,000 cases the favorable variant is present in roughly half the population, then the probability of random mating producing a “maximal” outlier is roughly two raised to the power of negative 10,000, or about one part in a googol (10 to the power 100) multiplied by itself 30 times. Of course it may not be possible to simultaneously have all 10,000 favorable variants, due to debilitating higher-order effects like being too large, or too muscular, or having a heart that is too powerful. Nevertheless, it is almost certain that viable individuals will exist with higher ability level than any person has ever had.
+
+Tom Pennington/Getty Images
+
+In other words, it is highly unlikely that we have come anywhere close to maximum performance among all the 100 billion humans who have ever lived. (A completely random search process might require the production of something like a googol different individuals!)
+
+But we should be able to accelerate this search greatly through engineering. After all, the agricultural breeding of animals like chickens and cows, which is a kind of directed selection, has easily produced animals that would have been one in a billion among the wild population. Selective breeding of corn plants for oil content of kernels has moved the population by 30 standard deviations in roughly just 100 generations.6 That feat is comparable to finding a maximal human type for a specific athletic event. But direct editing techniques like CRISPR could get us there even faster, producing Bolts beyond Bolt and Shaqs beyond Shaq.
+
+Freeman Dyson speculated that humans would use genetic technologies to modify themselves for space exploration.
+
+The general adoption of gene editing technology will give this search a tailwind. Individual choices by parents are likely to increase the overall frequency in the general population of variants that boost athletic ability. This will gradually increase the population average, and enhance the extreme tail of ability. An increase in the average by one standard deviation (for example, 3 inches in male height, or 15 points in IQ), makes an individual at the 1 in 1,000 level (a 6-foot-7-inch male in the U.S. population) more than 10 times more likely.
+
+Freeman Dyson speculated that, one day, humans would use genetic technologies to modify themselves for space exploration—making themselves more resistant to radiation, vacuum, and zero gravity, perhaps even able to extract energy directly from sunlight. Insertion of genes from entirely different species, like photosynthetic plant genes, brings a whole new meaning to the term GMO: Speciation seems a definite possibility.
+
+Human athletic ability might follow a similar trajectory. The nature of athletes, and the sports they compete in, are going to change due to new genomic technology. Will ordinary people lose interest? History suggests that they won’t: We love to marvel at exceptional, unimaginable ability. Lebron and Kobe and Shaq and Bolt all stimulated interest in their sports. The most popular spectator sport of 2100 might be cage fights between 8-foot-tall titans capable of balletic spinning head kicks and intricate jiu-jitsu moves. Or, just a really, really fast 100m sprint. No doping required.
+
+
+
+
+
+Stephen Hsu is the vice president for research and a professor of theoretical physics at Michigan State University. He is also a scientific advisor to BGI (formerly, Beijing Genomics Institute) and a founder of its Cognitive Genomics Lab.
+
+Get the Nautilus newsletter The newest and most popular articles delivered right to your inbox!
+
+References
+
+1. Dizikes, P. 3 Questions: Anette Hosoi on Engineering and the Olympics news.mit.edu (2012).
+
+2. Hernández Gómez, J.J., Marquina, V., & Gómez, R.W. On the performance of Usain Bolt in the 100 metre sprint. European Journal of Physics 34, 1227-1233 (2013).
+
+3. Robertson, D. Armstrong’s Tour De France Victories www.sfgate.com (2009).
+
+4. A conversation with George Church on Genomics & Germline Human Genetic Modification www.ipscell.com (2015).
+
+5. Hsu, S.D.H. On the genetic architecture of intelligence and other quantitative traits. arXiv:1408.3421 (2014).
+
+6. Crow, J.F. On epistasis: Why it is unimportant in polygenic directional selection. Philosophical Transactions of the Royal Society B 365, 1241-1244 (2010).
+
+
+
+
+
+Photo collage credits: Ledecky photo by Tom Pennington/Getty Images; O’Neal photo by Lisa Blumenfeld/Getty Images; Bolt Photo by Andy Lyons/Getty Images.
+
+
+
+
+
+
+
+This article was originally published in our “Sport” issue in August, 2016.

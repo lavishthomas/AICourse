@@ -1,0 +1,17 @@
+Uber’s engineering blog has just posted an interesting piece on the company’s web-based tool for exploring and visualizing data from self-driving car research. It’s a smart look at an impressive platform, and definitely has nothing to do with a long piece published last week lauding a similar platform in use by one of Uber’s most serious rivals, Waymo.
+
+Okay, maybe it has a little to do with that. The piece, over at The Atlantic, is quite interesting, but seemed rather to suggest that Waymo is unique in its approach to improving its autonomous cars’ AI. In fact, it’s likely that every company working on this stuff has a pretty similar approach, at least if they’re keeping pace with the state of the art.
+
+The cool secret technique that in fact all the companies in question know about is the possibility of using and learning from data that’s been hoarded over a million miles of test driving. Once you’ve driven that far, you have so much data that you can mix and match it in a virtual environment and let the AI navigate it just as if it were real. The computer doesn’t know the difference! Meanwhile you can tweak the data, watch for unusual events or compare multiple models.
+
+The Uber post just focuses on visualization of this data, and with details on its tools, which are wisely web-based, leading to easy collaboration and quick turnaround on new features. These days web apps can access the GPUs, communicate in real time and so on — no need for a local client any more for many things. It makes for cool GIFs.
+
+What the post doesn’t really get into, but is pretty much a foregone conclusion given the sophistication of the tools they’re showing off, is how to further multiply the data’s value by essentially making up the environment out of whole cloth.
+
+Take for example the problem of dealing with a major event like a parade or protest. Would you let your naive self-driving car run free during a marathon just so it has a chance to learn how the runners act? Of course not.
+
+What you can do is open up your excellent map of Boston, shut down several main thoroughfares, add lots and lots of pedestrians and erratic drivers to the virtual world and then set your AI driver agents to work getting around. You’ll see when it breaks down, how it reacts to situations it’s never seen in real life and so on. It’s like a thought experiment that generates usable data and improves the AI.
+
+So maybe the timing is just a coincidence, but it seems like this post, while cool on its own, is Uber’s way of saying “Hey, we’re doing this too. Look!” Because at this point, if you’re an autonomous car developer and you’re not using simulations with all kinds of variations, you’re going to have a bad time.
+
+Featured Image: Bryce Durbin/TechCrunch

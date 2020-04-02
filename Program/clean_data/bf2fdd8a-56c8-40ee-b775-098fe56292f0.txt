@@ -1,0 +1,44 @@
+In today’s video Bryan goes over how to set up segments in Google Analytics. Google Analytics has many easy to use segmentation properties built in by default. They’re great for displaying traffic comparisons over time and alerting you to anomalies that may be affecting your business. Please watch the video below and leave any questions or suggestions in the comment below.
+
+Additional Resources
+
+Video Transcription
+
+Bryan Harris: Hi, I’m Bryan with KISSmetrics, and I’m here to help you get the most of your Google Analytics account. Today, we’re talking about segmentation.
+
+[music]
+
+Bryan: I’m gonna show you a super simple way to use segmentation to find out everything you ever wanted to know about the traffic coming to your website. You’ll be able to know how old they are, what gender they are, whether they’re new visitors or old visitors, and a ton of other stuff. And I’m gonna show you how to use pretty little colors on your Google Analytics dashboard to see all of that in seconds. So, let’s get going.
+
+So, what are segments? Think about it this way, when someone comes to your website, Google Analytics is able to find out quite a bit of information about that individual. By contrast, when you log into your Google Analytics account, the very first thing you see is a graph of the last month. This shows you everybody that’s been there, and it’s up and down, hopefully more up than down.
+
+But it shows you the total number of visitors, total number of unique visitors. All that does is show you a 50,000 foot view of your website. It doesn’t break that down. What segments allow you to do is to group people with similar characteristics together and see their numbers on that graph.
+
+For instance, you can see every female that’s come to your website, and see how many females have been there. How many males have been there, people from a specific location? You can see of that traffic that’s come to your website in the last month, how much of that is new visitors. How much of that has been returning visitors.? You can see all that information and make it actionable for your website. That’s what segments are.
+
+Simply put, segmentation allows you to easily group visitors to your website as similar characteristics. Now, how do you use them? To access segmentation is simple. Once you’ve selected your profile from the admin page, just click the dropdown arrow next to the default “All Visits View.” This will toggle the advanced segmentation screen.
+
+There are quite a few built in segments that you can setup with just one click. In this example, we’re gonna add “Returning Users” and a “New Visitor” segment. To do this, we’ll simply click those items and then we add it to the dashboard. Now click “Apply” and you’re all done. You can see now at the top, next to “All Visits” the new segments have been added.
+
+Your main traffic graph is now color coded to show each segmentation separated out. You can also scroll down into the “Detail” section to see individual statistics and graphs on each separate segmentation. To remove a segmentation, just click the “x” in the upper right hand corner and it will be removed.
+
+So the big question now is: how do you use segmentation to grow your business? There are literally thousands of ways to do that and it completely depends on your business and the intricacies of it. Let me share with you one example of how I have used segmentation just in the last two weeks to grow my business.
+
+I’ve been using a couple new outreach techniques to grow a new blog that I’ve setup three months ago. And over the course of those three months, a large majority of my traffic has been from new visitors. I’ve averaged over a hundred new visitors per blog post. But just in the last two week, I’ve noticed a dip in that. It’s going to less than 50 new visitors per blog post.
+
+The percentages are even more out of whack. Luckily, I have my default graph when I log into my Google Analytics setup to show all visits as well as new and returning visitors. That showed me this graph intersect where my return visitors pass my new visitors, and that alerted me to there’s something going on. Why do I not have the same number of new visitors, at least the same number if not the same percentage of numbers per total viewers as I have in the past.
+
+And that let me dig into my processes and I realized, “Hey, I’m not doing an intricate part of the process that I have been doing in the past.” What I had left out was sending a follow up email to the people that I targeted in my blog posts.
+
+In every blog post I’ll interview somebody or do a case study on a particular person. And right before that blog post goes out for the first two months I’ve been emailing that person hours before to let them know, “Hey, this blog post is about to go live.” But I’d forgot to that over the last two weeks.
+
+I hadn’t sent out one email and it made a difference of over 50 percent in the new visitors to my website. Because what would happen when I sent that email, that person would tweet it out, would share it, would send a newsletter, and drive traffic from their audience back to me.
+
+So, having this setup, having advanced segmentation setup in my dashboard has saved me from losing tons of new readers. You can get a lot more ideas on how you can use customer segments to improve your business by visiting the Google Analytics Customer Solutions Gallery.
+
+To view it, just click the dropdown arrow like before, then choose “Import from Gallery.” This allows you to use one of the many already configured segments. They all include descriptions to tell you exactly what they do and you can see if it would be a good fit for your site.
+
+Another option is you can also setup Custom Segments. Just navigate back to the segment pop up like before and choose “Create New Segment.” This will allow you to create completely custom tailored segments. I recommend using this only if there is no defaults and if there is nothing in the Google Gallery that fit your specific configurations.
+
+[music]
+

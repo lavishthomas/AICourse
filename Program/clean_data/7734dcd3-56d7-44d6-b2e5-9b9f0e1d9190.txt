@@ -1,0 +1,41 @@
+By Dan Moren
+
+Freelance Accounting Template: The 2017 Edition
+
+A couple years back, I posted a template of the spreadsheet I use in Numbers to track all of my freelance income. I was surprised by the extremely positive reception I got about it.
+
+I still get occasional emails asking questions about the template, and earlier this week reader Billy wrote in to ask about an issue he was having with it. While I was tracking that down, it occurred to me that I’ve made a number of changes since I last posted the spreadsheet, so perhaps I should provide the updated version to everybody out there.
+
+So here it is! The 2017 edition of my Freelance Accounting spreadsheet. It’s a lightly modified version of the very same spreadsheet I use, with some idiosyncrasies related to my particular situation removed. And, if I do say so myself, it’s much improved over the original, in several ways.
+
+Expenses
+
+The biggest thing missing from my original spreadsheet was expense tracking. I only logged income, but that wasn’t sufficient to get a real picture of my financial situation. So I eventually added expense tracking into the mix.
+
+Originally I had two different sheets in the mix: one for tracking my home office and other prorated expenses and another for tracking my other itemized expenses. However, I realized earlier this year that was silly, and really everything should live in the same sheet, just broken down by categories.
+
+So now there’s a single Expenses sheet, which supports prorated deductions. That works from a second table in the expenses sheet which allows you to define a percentage of deduction depending on a subcategory. Those percentages are then taken into account for a deductible amount column, which is summed at the bottom and pulled into the Income Chart (more on which shortly).
+
+While Numbers still doesn’t have a way to link to a file, I set up an automatically-generated receipt ID, which I use as the file name for my receipts stored in Dropbox. (The ID is created when you check the related Receipt box.) It’s formatted as Year-Month-Day-First Five Characters of Expense Name-Amount in the hopes that I’ll never spend the exact same amount at the exact same vendor on the same day.
+
+Assignment Tracking
+
+Another adaptation to my own particular needs: the income sheet now also does double duty by letting me track my assignments, with the addition of a Due Date column and a Status column. I’m not entirely thrilled with this setup—ideally it would be handled by an entirely different spreadsheet linked to this one. It’s kind of an imperfect marriage, but for now it works.
+
+Income sheet totals
+
+I’ve added multiple sums to the income sheet to give a more nuanced picture of what money is where. There’s still an Outstanding sum at the top which totals all unpaid income (including overdue), but I’ve also added a total at the top for items that has yet to be submitted. The sum at the bottom of the amount column now only totals money that’s actually been paid.
+
+Income Chart
+
+Speaking of the Income Chart, while the list of clients is automatically pulled from the Client Codes table, the Expenses chart is not quite as smart; the categories in there are currently just written in by hand, though it will pull all related expenses automatically, so you made need to enter your own categories there if they don’t match mine.
+
+The Income Chart is a little less nuanced than the Income sheet, since it pulls all work related to a client, regardless of its current payment status. (It does, however, pull only the “Deductible Amount” from the Expenses sheet.) This could be altered, but since it’s kind of a back-of-the-envelope style chart, I’m actually not sure what’s most helpful.
+
+Share and Share Alike
+
+While I’m providing this for free with no restrictions for your own use, though acknowledging where you got is appreciated. I’ll note on the flipside that also means no warranty. However, if you run into what seems to be a problem with something I wrote, please do let me know by email or Twitter. No guarantee I’ll be able to fix it, though. I hope some of you find it helpful.
+
+[If you appreciate articles like this one, help us continue doing Six Colors (and get some fun benefits) by becoming a Six Colors subscriber.]
+
+[Dan Moren is a tech writer, novelist, podcaster, and the Official Dan of Six Colors. You can email him at dan@sixcolors.com or find him on Twitter at @dmoren.]

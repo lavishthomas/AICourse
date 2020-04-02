@@ -1,0 +1,365 @@
+In SEO, it’s often the little things that matter.
+
+After you’ve learned the basics, you can’t stop. You need to push yourself and learn more and more.
+
+You might not learn anything that will revolutionize how you look at SEO, but I guarantee that you will learn how to become a better SEO.
+
+One of the best things you can learn to do is to save time without sacrificing quality.
+
+If you do SEO, you know how many long processes are involved. SEO isn’t the only thing that matters, but it’s essential for most marketers.
+
+And you know how awesome it is when you can save time.
+
+I’m a big fan of “hacks” that actually help you cut down on the amount of time you spend doing these tedious processes.
+
+I’m not talking about gimmicky hacks. I’m talking about tricks you can use to get the most out of your work time.
+
+One of my favorites? Using advanced search operators.
+
+Why are these so important? In one word: Google.
+
+Every SEO should know Google like the back of their hand. It’s by far the most important search engine to focus on, and it’s how many of your future customers will find you.
+
+I’ve met a lot of SEOs who could recite Google’s last 10 algorithm updates, but they can’t actually use Google all that well. Imagine that!
+
+By using search operators, you can slash the time you spend on Google and get better results. And the best part: It’s not difficult at all.
+
+Even if you’re not doing a lot of SEO, you owe it to yourself to learn these so you can use them in your day-to-day work.
+
+What are search operators?
+
+Google officially defines search operators as “symbols or words in your search to make your search results more precise.”
+
+Search operators have their basis in coding. They’re basically shortcuts to getting better results.
+
+When you use a search operator, you’re telling Google to narrow down the results in a specific way.
+
+So instead of getting pages and pages of unrelated results, you get only results that are relevant to what you’re searching for.
+
+Of course, you have to use them the right way. And there are tons of them.
+
+The best way to learn is to see how to use them, so that’s exactly what I’m going to do.
+
+1. Get every result
+
+There are some times when you want to get every result possible.
+
+If you do, just search normally:
+
+2. Find exact matches
+
+Let’s say you’re looking up infographics that discuss video marketing.
+
+You might use the search query “video marketing infographic.” If you Google that, notice what pops up:
+
+You can immediately tell that some of these results aren’t what you want.
+
+The result at position 3 doesn’t even have the phrase “video marketing” in it! But it does have the words “video” and “marketing.”
+
+If you’re not specific, Google might not take your search query literally.
+
+To remedy this, you can use quotation marks. If you put quotation marks around a word or phrase, you’ll tell Google to only return results that exactly match the word or phrase.
+
+So I can Google this:
+
+Now, Google will only show me results that have the exact phrase “video marketing.”
+
+3. Exclude words
+
+Google is infamous for including results that you don’t want.
+
+Maybe you’re searching “content marketing” to find some more advanced topics. The problem is, most results talk about strategies for beginners.
+
+In this case, you can use a short dash (-) to exclude words from the results. You could try excluding the word “strategy.”
+
+This will ensure you won’t get results that talk about content marketing strategies.
+
+4. Exclude multiple words
+
+You can use this same technique to exclude more than one word. Just use the exclude search operator as many times as you need. (Make sure there’s a space in between each excluded word.)
+
+5. Exclude exact match phrases
+
+If you’re still not getting the results you want, you can force Google to exclude entire phrases that exactly match the phrase you specify.
+
+This search operator is a combination of the exact match and exclusion search operators.
+
+You use the short dash (-) to signify exclusion, and you use quotation marks around the phrase to tell Google to exclude the whole phrase and not just the first word.
+
+It looks like this:
+
+This tells Google to exclude the phrase you’ve specified in between the quotation marks.
+
+6. Exclude multiple phrases
+
+This is the ultimate exact match exclusion operator.
+
+It lets you exclude multiple phrases, and it’s the same idea as excluding multiple words, just with phrases.
+
+You simply use the short dash (-) and quotation marks for as many phrases as you need.
+
+Here’s an example:
+
+7. Use an OR directive
+
+If your search doesn’t have to be super specific but you still want to control your results, try using the OR command.
+
+This simply tells Google to show results with either X or Y. Type your two keywords, and in between them, type OR in capital letters, like this:
+
+It’s important to note that in this example, the OR directive will use the words immediately before and after it.
+
+You can also use the pipe symbol (|) in place of OR.
+
+8. Customize OR commands
+
+You can use all of the previous search operators we’ve talked about to modify your OR searches.
+
+This is helpful when you want to use an OR search with specific phrases:
+
+This will return results that include either the exact phrase “content marketing” or “email marketing.”
+
+9. Get more results with wildcards
+
+If you want to get more matches, you can use the wildcard operator. This is represented by an asterisk (*).
+
+If you place the wildcard in a phrase, you’ll get all the variations of that phrase.
+
+For example, if you wanted to talk about peanut butter and jelly, you could use and or an ampersand (&).
+
+So this search query would return results with both:
+
+10. Include words
+
+You already know you can exclude words, but you can also include them.
+
+If you’re searching for a niche topic and need to make sure certain words are included, you can use the plus sign.
+
+11. Include phrases
+
+If you combine the quotation marks (for exact match keywords/phrases) and the plus sign, you can include entire phrases:
+
+This is a small detail, but it will help Google give you the most relevant content possible.
+
+12. Find words near each other
+
+This is a neat search operator that almost no one uses.
+
+It’s called the AROUND(X) operator.
+
+With this operator, you can get results where your search terms are close to each other.
+
+The X is how many words at most can separate the two terms.
+
+So for example, if you use this query:
+
+You’ll only get results where “content marketing” and “video” are within 10 words of each other.
+
+This comes in handy when you need results that connect two topics.
+
+13. Find phrases near each other
+
+Of course, you can use the AROUND(X) operator with quotes to find phrases near each other:
+
+14. Find synonyms
+
+Here’s another great way to get a bunch of results that are all related to what you’re looking for.
+
+By placing a tilde (~) before a word, you’ll get results with synonyms for that word.
+
+So “holiday ~decorations” would give synonyms like “decor.”
+
+15. Search specific sites
+
+Ever want results from just one site? You can use Google’s site operator to make that happen.
+
+Type site: and then the name of the site you want to search. That looks like this:
+
+The real power comes when you use it in conjunction with keywords and/or other search operators:
+
+You can type your keywords before or after the search operator, and you can also use any other search operators with it.
+
+This operator basically gives you a look into a site’s index, which can be extremely valuable for SEO.
+
+16. Search related sites
+
+Sometimes you need to find sites that are related to sites you already know. That’s where the related: operator comes in.
+
+Type related: and then the name of a site:
+
+Google will then show you similar sites in the same niche.
+
+17. Get info about sites
+
+Sometimes you need to gather a little intel about a site.
+
+By putting info: before a URL, you’ll get different types of information about any site:
+
+18. See cached versions
+
+If you’re looking for an older version of a site, Google might just have you covered.
+
+Google lets you find cached versions of sites by using the cache: operator.
+
+19. Search specific domain types
+
+Remember the site: operator? You can also use that to search specific types of domains.
+
+So if you’re looking for only .edu sites, you can use:
+
+And you can combine it with keywords and/or other operators:
+
+20. Search multiple specific domain types
+
+If you use the OR command we went over earlier, you can search for more than one type of domain. Use parentheses to contain the OR command and its keywords:
+
+21. Search hashtags
+
+If you’re planning any sort of social campaign, you can leverage Google’s power to display hashtags from social media networks.
+
+Use the pound symbol (#) immediately before the keyword of your choice.
+
+22. Search using a range of numbers
+
+Google also has the ability to display results within a range of numbers that you specify.
+
+You can set a minimum value and a maximum value and put two periods (..) in between the numbers.
+
+Google will show you results that fall in between those two.
+
+This operator comes in handy if you’re doing any product research. You can narrow your search down so that only products within a certain price range show up.
+
+23. Find keywords in page titles
+
+The intitle: operator will return results that have the specified keyword in the page title. Pop a keyword after the operator and let it work its magic:
+
+24. Find phrases in page titles
+
+The allintitle: operator lets you search for entire phrases in titles:
+
+25. Find keywords in page text
+
+Similar to the previous two operators, the intext: operator will show results that have a specific keyword in the text of the page.
+
+If you’re looking for articles, this is an operator you should memorize and use often.
+
+26. Find phrases in page text
+
+I bet you can predict what this operator will look like.
+
+Just like the allintitle: operator, allintext: will let you find entire phrases in the page text.
+
+27. Find keywords in anchor texts
+
+This one’s especially useful for SEO.
+
+You can use the inanchor: operator to display pages that have the specified keyword in the anchor text.
+
+28. Find phrases in anchor texts
+
+The allinanchor: operator acts just like the other “all” operators, showing entire phrases in anchor text:
+
+You’ll probably end up using this operator more than the regular inanchor: operator. It’s a good tool to have at the ready.
+
+29. Find keywords in URLs
+
+Have you ever had a URL on the tip of your tongue? Or do you need to find pages that are specifically about a certain topic?
+
+You can use the inurl: operator in both situations. When you specify a keyword, inurl: will give you results that have that keyword somewhere in the URL.
+
+30. Find phrases in URLs
+
+This one’s even more useful than the last one. The allinurl: operator will show entire phrases in URLs:
+
+31. Find content by certain authors
+
+There’s a lot to be said for content written by influencers. My favorite use of influencer content is to link to it in my articles.
+
+There’s a quick and easy way to find content written by specific people.
+
+If you know who wrote an article you’re looking for, you can use the allinpostauthor: operator.
+
+There’s also the inpostauthor: operator, but it’s practically useless since it will only work with one word instead of a phrase.
+
+32. Narrow your search to a specific location
+
+If you’re doing local SEO, location based search is your new best friend.
+
+Location specific searching is also beneficial if you’re targeting an audience that’s more or less in one geographic place.
+
+Just use the loc: operator along with a certain place you want to target:
+
+33. Exclude subdomains
+
+Want to crawl through a site’s subdomains? You can use the inurl: and the site: operators to narrow your search and exclude specific subdomains:
+
+That search filters out the www subdomain, so anything that starts with www will be excluded from the results.
+
+34. Identify pages that aren’t secure
+
+To see which pages on a site aren’t secure, run a search like this:
+
+I recommend running this search on your own site. If you’re using HTTPS, then ideally, all pages on your site should carry the HTTPS certificate.
+
+35. Get definitions
+
+Using define: will get you the definition of any word:
+
+Unlike other operators, this one works with phrases too:
+
+36. Search within a date range
+
+The daterange: operator will show results within a range of dates that you specify.
+
+There’s one caveat though. The operator uses the lesser-known Julian format instead of the Gregorian calendar that most of the world uses.
+
+You can convert to Julian dates here.
+
+37. Search by filetype
+
+If you’re after a specific filetype, you can use the filetype: operator.
+
+This works well if you’re looking for a certain type of document, like a case study, that’s often in a certain filetype.
+
+This search will return results for PDF files:
+
+This works with all types of files, and you can get really narrow results.
+
+38. Find unnecessary text files
+
+Here’s a nifty idea from Moz.
+
+You know that your robots.txt file is super important. But other text files can make your site bloated.
+
+You might have a ton of text files that are just sitting around taking up space. Thankfully, you can use Google to sniff those out.
+
+To find any extra text files, you can run this search:
+
+39. Find alternate TLDs
+
+Another tip from Moz. This one is some out-of-the-box thinking!
+
+This search will show you sites with the same domain name as yours but with a different TLD:
+
+This can help you find competitors who have registered your domain name under different TLDs.
+
+Conclusion
+
+Congratulations––you’ve made it through my gigantic list!
+
+And you’re now a certified Google search master.
+
+Google has a lot of power. In fact, it’s more than most people realize.
+
+After all, it is a nearly infinite global resource, and you could argue that the Internet runs on Google.
+
+That’s why being able to harness Google’s power is awesome for SEO purposes.
+
+Fine-tuning your Google searches can open up new doors for you. You can spy on your competitors and get super-specific results.
+
+Best of all, this is all 100% free. A huge SEO database literally at your fingertips, for zero dollars.
+
+I don’t know about you, but to me, that sounds like an SEO dream.
+
+Search operators don’t look like they’re a big deal, but they can help take your SEO skills from 0 to 60 in no time.
+
+What search techniques do you use?

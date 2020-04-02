@@ -1,0 +1,87 @@
+Short answer: great product, some marketing and a bit of luck. These things got Pipedrive to pass the 10,000 paying customers milestone earlier in the year. The longer answer is below. This is the post I would have liked to read back in 2010 when I had started working with Pipedrive founders. And I thought I’d get it out of the system as we change gears to target getting to the 100,000 paying customers mark.
+
+Get tailwinds working for you – build a great product (with great support)
+
+Pipedrive could have grown to 10,000 paying customers without any marketing: by describing it as “it’s a piece of sales software” on an uncrawlable site without any design, without onboarding emails, without press mentions, without a single ad and blog post.
+
+The main thing that got Pipedrive to first 100, 1000 and 10000 customers was having a great product. Our “inventory” back in December 2010 was: founders having a very good understanding of the pain in sales software, an MVP-level product used by 20 or so companies, plenty of ambition and no marketing budget. This wasn’t a lot, but because this included the critical component of having a product that solved a problem, it was enough.
+
+There were two additional things that I’m lumping together under “great product” here: design and support. Both have earned positive feedback and social media shout outs from customers over the years. And I know that support is a completely separate topic but hey, this is a post from a marketing guy.
+
+All in all, I’m not a sailor but marketing a great product is a lot like sailing with good tailwinds. You pick the best course, trim and continue adding sails and keep on adding engines that increase the speed (Add engines to a sailboat? Told you I was not a sailor). Whereas a mediocre product gets you a motor boat that requires constant fuelling.
+
+Get your product in the hands of the right people
+
+As Pipedrive CEO Timo Rein has explained, having a great product and happy customers in the Baltics & Nordics wasn’t enough to get the company growing. It was only after Pipedrive founders had networked and hustled in Bay Area for months, graduated from Angelpad and expanded their early adopter reach with an Appsumo promotion that customers started to show up in any meaningful numbers. Call it an influencer strategy, opinion leader marketing or something else, you need to find a way to reach the people who matter in your industry. And more often than not, this means doing things that don’t scale.
+
+Invest more time in copywriting and brand than seems reasonable
+
+Back in the end of 2010 we had a product that people in our immediate network found increasingly useful. We didn’t have a budget and company founders were running out of friends, clients and acquaintances to pitch Pipedrive to. We needed to start “marketing” as we were getting ready for a public beta launch.
+
+Not having a budget forced us to look for ways to get the word out for free. One of the few things we could definitely afford was … words. More specifically, words we were planning to put into various kinds of emails and in-app notifications.
+
+As makers of sales software we didn’t have to look very far. I wrote all emails as if coming from a slightly over-eager sales manager with some sense of humour and a questionable amount of taste.
+
+For example, when you receive and activity reminder from Piperive, here’s what it might say in the footer
+
+You miss 100% of the shots you don’t take. — Wayne Gretsky (Also, someone at the bar said that the other day) #pipedrivequotes @pipedrive — Karyn Serratine (@karyncs) December 15, 2014 or “Whether you think that you can or you can’t, there’s usually some wiseass that makes a motivational quote out of it.”
+
+These quotes get tweeted more often than most automated emails. We also invested more time than is ‘practical’ into onboarding emails which have earned us tweets, email replies, write-ups in blogs and paying customers. So although we’ve invested more time into writing and tweaking these emails than is rational, the ROI on them is enormous. (If you’d like more examples, sign up to a free Pipedrive trial.)
+
+It’s worth pointing out that not everyone likes Pipedrive’s tone of voice. But at least people notice, which is a good sign in communication.
+
+Customer comment about Pipedrive in NPS study reply.
+
+Find platforms (before others do)
+
+During 2011 Pipedrive got roughly 1/3 of new signups from Google’s Chrome Webstore. Not bad for the little amount of work required for the marketplace listing back then. As most competitors were slower to appear there, we enjoyed a period of very low competition there and so Chrome Webstore made a huge difference to the growth of the company at that stage.
+
+Today the importance of Chrome Webstore has significantly decreased both in absolute and relative terms, but almost always there are new emerging platforms you can use to boost growth. In 2012-2013 it was very valuable to be listed on GetApp. While the volume was low it drove highly relevant traffic at high-ROI rates. It’s worth keeping an eye on and testing emerging marketplaces and directories. Which neatly leads me to the next thing that helped Pipedrive grow to first 10,000 paying customers.
+
+Treat your marketing budget as an investment portfolio
+
+Pipedrive has been managing marketing resources the way investment portfolios are managed. When you’re managing an investment portfolio for the long term and when you want to higher than average returns you want to find good balance between safe bets and experimenting with high-leverage bets that may flop or return money 100x.
+
+In startup terms this means directing most of your resources to scaling things that work and following best practices. And depending on the business and stage you are in, setting 20-50% of resources aside for to testing new channels and “throwing spaghetti on the wall”.
+
+Here’s an example of one of Pipedrive’s failed experiments: Sales Calculators has gotten Pipedrive about 2 new paying customers in about 3 years. Sales Pipeline Academy on the other hand has worked reasonably well. And we’re still working on finding that web tool or piece of content that returns money 1000x.
+
+It’s worth pointing out that because time = money this principle works equally well for allocating your budget and the time of your marketers and developers. More here.
+
+Invest in content and SEO (and email)
+
+In the race boat metaphor content marketing and SEO has been one of the larger sails, contributing a double-digit percentage of Pipedrive’s speed. In large part this is because we’ve been doing inbound marketing longer than working with other channels. And this in turn is due to the fact that producing content was one of the few things we could afford when we started out.
+
+SEO is a very broad topic and there are great resources out there for learning the strategies and tricks. So there’s just one thing I’d suggest to everyone – investing in keyword research as early as possible, and re-visiting it regularly. This doesn’t need to be complex – all you need to know is what keywords are popular and/or relevant in your domain and how difficult it is to get on Google’s first page with these. There are some free or cheap keyword research tools and methodologies out there, I’ve found that a combination of Google’s own Keyword Planner and search “autosuggest”, Moz and SEMRush does the trick on startup scale.
+
+The return on keyword research is massive. Not only you’ll learn about the language you need to be using to drive traffic to your target group, you’ll gain valuable insight into whether you have a well-defined target audience at all. You’ll also probably discover some low-hanging fruit for landing pages or blog posts that will get you your first relevant organic search traffic. Google “how to build a sales pipeline” for an example of a long tail phrase that was easy to start ranking for.
+
+And of course, if you’re going the content route start building a mailing list as early as possible. Work acquaintances, paying customers, freeloaders, churned customers, blog visitors, expired trial users – each of them can help you amplify that killer post you will write 3 years down the line. Unless you have a product that is inherently social such as Buffer, email is the best channel to help great content spread.
+
+Find out your Life-Time-Value (LTV) per channel to know what to scale
+
+Pipedrive started experimenting with a 500€ per month Adwords budget as early as there was a spare 500€ available. Despite having to turn off all paid advertising during some turbulent patches, by the time we had secured funding we had enough data to conclude that some keywords groups returned money in 3-4 months. We also learned that others that seemed equally attractive on cost-per-signup basis performed 2-3 times worse due to lower conversion to paid and/or higher churn.
+
+Knowing what the LTV is from different channels and different ad groups taught us to scale some keyword groups and look beyond English language. This encouraged us to first start testing and now scaling our PPC efforts in countries such as Mexico, Russia and Brazil. Going back to the sailing analogy, this has added the Pipedrive race boat an additional little sail to trim.
+
+Decide what you’re NOT going to do
+
+There was a time when I was trying to get company founders more active on social media. And to my great surprise I discovered it’s absolutely fine to ignore channels and techniques that don’t have a good fit for your company or audience. PR is another example of a channel we tried to get working and while there were some wins, the role of PR and social in getting to first 10000 customers was tiny. Same goes for guest posting, integrations, AB testing, onboarding emails, viral videos, tell-a-friend program optimization and many other things.
+
+So the good news is that there’s no need to work on lots and lots of things. In fact it’s much better to decide which marketing channels and tactics to go “all in” with, to borrow a poker term, and which ones to park until you have more team members and/or money.
+
+Localize – and make sure to “light the fuse”
+
+Pipedrive translated the app and website to Spanish, German, Russian, Brazilian Portuguese, French and Estonian pretty early on. While this worked well, it’s worth pointing out that it worked significantly better in some countries. Localization without communicating it locally is like adding gunpowder without lighting the fuse. For example, a prominent Brazilian blog mentioned Pipedrive in a post early on, and this in combination with a localized app and website sparked growth. Where we failed to get local coverage, the impact of localization was more modest.
+
+Also, talk to people smarter than yourself
+
+I tend to read a lot of books and startup / marketing blogs. Reading is useful but over the years I’ve discovered I get more out of 1 hour of talking to a fellow startup marketer than 10 hours of reading (reasonably well filtered) marketing blogs.
+
+On that, it’s worth pointing out that almost everything described here was a team effort, mostly involving people from other teams while yours truly was the only marketer. And that during some point from 0 to 10,000 customers it’s also a good idea to start assembling a proper marketing team. Pipedrive is currently looking for a Digital Marketing Manager and Web Analyst, by the way…
+
+Teaser: How to get to 100,000 customers coming (relatively) soon
+
+Next up: a post about getting to 100,000 paying customers. It is difficult to say what date exactly and what the content will be, but I’m sure that apart from having a great product, very few things described here will still be relevant at the next milestone. What got Pipedrive to 10,000 customers is very different than the things necessary in the next phase. It involves more user insights and data, more processes, different channels and a shit ton of other things (it may even mean making email notifications less funny…). I can’t wait to read it.
+
+Join the discussion on Hacker News

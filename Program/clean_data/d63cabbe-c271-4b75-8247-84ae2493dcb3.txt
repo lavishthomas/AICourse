@@ -1,0 +1,43 @@
+GIF Image: Scott McIntosh
+
+Space weather forecasting—predicting the kind of energetic particles the Sun will throw at us—is years behind weather forecsting here on Earth. As solar physicist Scott McIntosh put it, “Our current model of space weather forecasting is, ‘oh shit a sunspot happened eight minutes ago, now we have to figure out what’s going to happen.” It’s a shame we’re not better at predicting space weather, since it can bust up satellites and even electronics on Earth.
+
+Space Weather Can Alter Electronic Voting Machines When all sources of errors have been ruled out and 4096 phony votes have still been given to a… Read more
+
+New observations led by McIntosh, director of the High Altitude Observatory at the National Center for Atmospheric research (NCAR), might change that. From 2010 to 2013, McIntosh and his team used a trio of satellites to observe the entire solar surface at once for the first time. They watched as bright magnetic spots moved around the Sun, making the first real observation of a behavior lots of scientists have expected to see its surface. The so-called Rossby waves the team observed will hopefully give us a useful new tool to predict solar weather—energetic particles blasting the Earth from magnetic events on the Sun—with several days or more advance notice.
+
+Advertisement
+
+“The Earth has these jet streams at the interfaces of air masses,” McIntosh, whose findings are published today in the journal Nature Astronomy, told Gizmodo. “We think there’s similar behavior going on at the interior of the Sun—and that the sunspot cycle is a manifestation of that.”
+
+Rossby waves are a natural result of spinning planets with variable topography and moving air masses. Weather in the United States is governed by a cold polar air mass and a warm tropical air mass, with the jet stream, a boundary of fast, eastward-blowing wind a few miles above the surface, marking their border. Natural boundaries like mountains cause the jet stream meander northwards or southwards, creating Rossby waves. The Earth spins more quickly at the equator than the poles, causing those north and southward winds to twist into swirls, for the same reason that your body would rotate if you laid perpendicularly on a pair of parallel moving walkways moving different speeds.
+
+McIntosh’s team found a similar behavior on the Sun, but with magnetic activity instead of air masses. They did so by observing the way brighter patches on the Sun traveled. Individual clusters of bright spots, like the air mass swirls caused by Rossby waves on Earth, seemed to slowly meander from east to west, while groups of these clusters moved in the opposite direction. You can think of the groups of clusters like a train traveling in one direction, and the individual clusters as passengers all running through the train in the opposite direction.
+
+Advertisement
+
+Solar scientists have been gossiping about these results for a while, and several experts told Gizmodo the observation was a really big deal. “There were several papers before claiming [to observe] magnetic Rossby waves on the sun, but we had no evidence,” aside from a disputed paper that came out back in 2000, said Teimuraz Zaqarashvili, researcher at the Space Research Institute in Graz, Austria. “After this paper, we have firm evdience that the Rossby waves are on the sun. This is an important finding.”
+
+Others were less convinced. “It is an intersting effect and Rossby waves are a possibility,” Jeff Kuhn, professor at the Institute for Astronomy, University of Hawaii, told Gizmodo. “Part of the problem is that the effect is just sort of barely detectable” in the graphs that McIntosh’s team used. It’s a faint signal that that just barely differentiates itself from random behavior. Kuhn did note that the waves might be a signature of the rotational slowdown he recently discussed with Gizmodo.
+
+What would even produce these magnetic Rossby waves? “Rossby waves are observed in planetary atmospheres partly because the interaction of the fluid that makes up the atmosphere with land,” Mitzi Adams, NASA solar astronomer, told Gizmodo. “On the sun, of course, there is no solid surface” for the outer levels to interact with. The waves, Adams suggested, could result from the outermost layer of the Sun interacting with the layer beneath, but scientists will need to do more modeling work to be certain.
+
+Kuhn and Adams both agreed that we need more data. Unforutnately, that won’t be possible for a long time. The key to making an observation like this was the Earth-orbiting Solar Dynamics Observatory, along with the Sun-orbiting STEREO satellites, which let scientists observe the Sun from all sides at the same time. But NASA lost contact with STERO-B, the satellite on the opposite side of the Sun, in 2014. It regained contact briefly in September 2016, but hasn’t had contact with the spacecraft since then (although it’s still trying).
+
+That hasn’t stopped McIntosh’s team from making and testing predictions about the Sun’s activity using his observations and theory. They think these Rossby waves could be used to foretell coming sunspots and increasing solar activity levels, which could lead to an uptick in space weather here on Earth. One paper accepted for publication in The Astrophysical Journal (pre-print here) demonstrates that McIntosh and his colleagues successfully forecast some of the Sun’s magnetic activity in predictions published several years ago. Their new paper also predicts the behavior of solar cycle 25, the next cycle in a pattern of solar magnetic activity that repeats itself every 11 years, and that’s expected to begin anew in 2019.
+
+And McIntosh’s solar weather predictions involving Rossby wave observations really do seem so be working.
+
+Advertisement
+
+“So far, everything is behaivng exactly the way we expected it to,” McIntosh said, noting that his team has correctly called out flares in solar behavior and predicted that the current solar cycle would have less activity than average. “We said we’d see a solar minimum soon, and that new sunspots would show up in 2019. Everything seems to be tracking perfectly,” he said. “But whether we’re lucky or actually tracking something, that’s up to other people.”
+
+The results have plenty of other implications besides space weather predicting. Rossby waves on the Sun might mean other stars also have temporary clusters of bright points that traverse the surface with regularity. “One might mistake [a star with Rossby waves] to be a planet of some distance,” said Orkan Umurhan, a research scientist at the NASA Ames Research Center. He thought that some of the distant exoplanets scientists have catalogued might actually just be Rossby waves on those stars. “There’s going to be interest from the astronomers as well for this reason.”
+
+The ultimate goal is to use these observations to forecast sunspots and flares in solar behavior with more than a few hours of lead time, allowing NASA to rotate satellites to minimize damage, or helping us prepare for a potential power outage. McIntosh will continue making predictions and hoping they play out as he expects. He’s confident about his observations, but definitely needs more data, which will require more satellites. “I’ve been working on this for 15 years but that doesn’t mean that it’s right,” he said.
+
+Advertisement
+
+Correction: This article has been updated to correct Orkan Umurhan’s affiliation.
+
+[Nature Astronomy]

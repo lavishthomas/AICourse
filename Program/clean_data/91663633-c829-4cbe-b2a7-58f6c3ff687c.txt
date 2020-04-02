@@ -1,0 +1,115 @@
+Posted on by steveblank
+
+Startups that are searching for a business model need to keep score differently than large companies that are executing a known business model.
+
+Yet most entrepreneurs and their VC’s make startups use financial models and spreadsheets that actually hinder their success.
+
+Here’s why.
+
+Managing the Business
+
+When I ran my startups our venture investors scheduled board meetings each month for the first year or two, going to every six weeks a bit later, and then moving to quarterly after we found a profitable business model.
+
+One of the ways our VC’s kept track of our progress was by taking a monthly look at three financial documents: Income Statement, Balance Sheet and Cash Flow Statement.
+
+If I knew what I knew now, I never would have let that happen. These financial documents were worse than useless for helping us understand how well we were (or weren’t) doing. They were an indicator of “I went to business school but don’t really know what to tell you to measure so I’ll have you do these.”
+
+To be clear – Income Statements, Balance Sheets and Cash Flow Statements are really important at two points in your startup. First, when you pitch your idea to VC’s, you need a financial model showing VC’s what your company will look like after you are no longer a startup and you’re executing the profitable model you’ve found. If this sounds like you’re guessing – you’re right – you are. But don’t dismiss the exercise. Putting together a financial model and having the founders understand the interrelationships of the variables that can make or break a business is a worthwhile exercise.
+
+The second time you’ll need to know about Income Statements, Balance Sheets and Cash Flow Statements is after you’ve found your repeatable and profitable business model. You’ll then use these documents to run your business and monitor your company’s financial health as you execute your business model.
+
+The problem is that using Income Statement, Balance Sheets and Cash Flow Statements any other time, particularly in a startup board meeting, has the founding team focused on the wrong numbers. I had been confused for years why I had to update an income statement each board meeting that said zero for 18 months before we had any revenue.
+
+But What Does a Business Model Have to Do With Accounting in My Startup?
+
+A startup is a search for a repeatable and scalable business model. As a founder you are testing a series of hypotheses about all the pieces of the business model: Who are the customers/users? What’s the distribution channel? How do we price and position the product? How do we create end user demand? Who are our partners? Where/how do we build the product? How do we finance the company, etc.
+
+An early indication that you’ve found the right business model is when you believe the cost of getting customers will be less than the revenues the customers will generate. For web startups, this is when the cost of customer acquisition is less than the lifetime value of that customer. For biotech startups, it’s when the cost of the R&D required to find and clinically test a drug is less than the market demand for that drug. These measures are vastly different from those captured in balance sheets and income statements especially in the near term.
+
+What should you be talking about in your board meeting? If you are following Customer Development, the answer is easy. Board meetings are about measuring progress measured against the hypotheses in Customer Discovery and Validation. Do the metrics show that the business model you’re creating will support the company you’re trying to become?
+
+Startup Metrics
+
+Startups need different metrics than large companies. They need metrics to tell how well the search for the business model is going, and whether at the end of that search is the business model you picked worth scaling into a company. Or is it time to pivot and look for a different business model?
+
+Essentially startups need to “instrument” all parts of their business model to measure how well their hypotheses in Customer Discovery and Validation are faring in the real world.
+
+For example, at a minimum, a web based startup needs to understand the Customer Lifecycle, Customer Acquisition Cost, Marketing Cost, Viral Coefficient, Customer Lifetime Value, etc. Dave McClure’s AARRR Model is one illustration of the web sales pipeline.
+
+At a web startup, our board meetings were discussions of the real world results of testing our hypotheses from Customer Discovery. We had made some guesses about the customer pipeline and now we had a live web site. So we put together a spreadsheet that tracked these actual customer numbers every month. Every month we reported to our board progress on registrations, activations, retained users, etc. They looked like this:
+
+User Base
+
+Registrations (Customers who completed the registration process during the month)
+
+Activations (Customers who had activity 3 to 10 days after they registered. Measures only customers that registered during that month)
+
+Activation/Registrations %
+
+Retained 30+ Days
+
+Retained 30+/ Total Actives %
+
+Retained 90+ Days
+
+Retained 90+/Total Actives %
+
+Paying Customers (How many customers made $ purchases that month)
+
+Paying/(Activations + Retained 30+)
+
+Financials
+
+Revenue
+
+Contribution Margin
+
+Cash
+
+Burn Rate
+
+Months of cash left
+
+Customer Acquisition
+
+Cost Per Acquisition Paid
+
+Cost Per Acquisition Net
+
+Advertising Expenses
+
+Viral Acquisition Ratio
+
+Web Metrics
+
+Total Unique Visitors
+
+Total Page Views
+
+Total Visits
+
+PV/visit
+
+A startup selling via a direct sales force will want to understand: average order size, Customer Lifetime Value, average time to first order, average time to follow-on orders, revenue per sales person, time to salesperson becomes effective.
+
+Regardless of your type of business model you should be tracking cash burn rate, months of cash left, time to cash flow breakeven.
+
+Tell Them No
+
+If you have venture investors, work with them to agree what metrics matter. What numbers are life and death for the success of your startup? (These numbers ought to be the hypotheses you’re testing in Customer Discovery and Validation.) Agree that these will be the numbers that you’ll talk about in your board meeting. Agree that there will come times that the numbers show that the business model you picked is not worth scaling into a company. Then you’ll all agree it’s time to pivot and look for a different business model.
+
+You’ll all feel like you’re focused on what’s important.
+
+Lessons Learned
+
+Large companies need financial tools to monitor how well they are executing a known business model.
+
+Income Statements, Balance Sheets and Cash Flow Statements are good large company financial monitoring tools.
+
+Startups need metrics to monitor how well their search for a business model is going.
+
+Startups need metrics to evaluate wither the business model you picked is worth scaling into a company.
+
+Using large company financial tools to measure startup progress is like giving the SAT to a first grader. It may measure something in the future but can only result in frustration and confusion now.
+
+Filed under: Corporate Innovation, Customer Development |

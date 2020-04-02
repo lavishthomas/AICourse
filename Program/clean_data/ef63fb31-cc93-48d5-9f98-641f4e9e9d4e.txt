@@ -1,0 +1,237 @@
+Regular readers of this blog will recognize that I suffer from OOD. Outcomes Obsession Disorder. I am seeing a therapist for it.
+
+The way OOD manifests itself is that in every website and web business I work with I am obnoxiously persistent in helping identify the desired outcomes of the site / business before I ever log into their web analytics data.
+
+The other way OOD manifests itself is that I am in your face, on this blog, constantly asking you to create goals in your web analytics tool (macro and micro conversions) as well as identify goal values for each of those beloved goals.
+
+Without goals and goal values you are not doing web analytics, you are doing web iamwastingyourlifeandminelytics. Sorry, OOD.
+
+After following a structured process to create a Web Analytics Measurement Model most companies find that they are able to identify the goals for their web business.
+
+What they find exceedingly hard to do is identify the economic value added to the business when those goals (micro-conversions) are met.
+
+Framing the Goal Values Challenge, & Opportunity.
+
+Here is an example.
+
+At victoriassecret.com the macro-conversion is making a purchase. I come, place an order for a Colin Stuart Cuffed Suede Over-the-knee Boot and it is not hard to figure out what the value of accomplishing that goal was. $149. [Not net profit, just value. We can compute profit et al later.]
+
+But what is the economic (goal) value of requesting a catalog? Signing up for an Angel Card?
+
+How about the economic (goal) value of me visiting VS All Access and consuming all the valuable content?
+
+There is no doubt that ordering the catalog makes it more likely I'll buy more in the future. Signing up for the Angel Card will make me a loyal customer (after all, how will I ever resist the temptation of getting a surprise birthday gift every year!). Consuming the content at VS All Access improves my perception of the Victoria's Secret brand and perhaps even makes me a Net Promoter (something so precious to the company).
+
+Yet how does an Analyst at VS value those micro-conversions?
+
+And if she does not value any of these micro-conversions is she not doing a disservice to her organization by only having them focus on online conversions (remember just 2% for most sites) and not the holistic site value?
+
+For websites I work with the economic value of micro-conversions is routinely 3 to 4 times the macro-conversion. Let that sink in. Stunning, right?
+
+How about the Analyst for Ohio State University who does a great job of measuring online donations but not the value of campus tours scheduled, prospectuses downloaded, online applications, course registrations, job applications, etc., etc?
+
+On Caterpillar's website there are no obvious macro-conversions, just a whole lot of micro-conversions to track as goals. Equipment lookups, lots of downloads, decision-making tools, quote requests for renting equipment, etc. How does the Analyst compute the value added by the site? Surely not using horrible metrics like Page Views, right?
+
+You will only create a data-driven organization when you are able to compute the complete economic value created by the website. Not through data pukes.
+
+So how does one identify economic (goal) value for the non-ecommerce macro-conversions and all the micro-conversions?
+
+It is easy and it is hard.
+
+You'll often need to step outside your silo of Google Analytics and WebTrends and Site Catalyst and CoreMetrics. You'll need to look in your corporate data warehouses. You'll need to work with your Finance team. You'll need to make leaps of faith.
+
+Try these techniques. . .
+
+#1: Assign campaign codes & track offsite converting goals (micro-conversions).
+
+This is the easiest.
+
+In the right navigation, you can meet one of my micro-conversions by clicking on my book's link. I track that click as a Goal (using Event Tracking). But what is the value of that click?
+
+To answer that question I signed up for an affiliate account with Amazon and added my affiliate id to the outbound link. One great benefit: I get detailed reports from Amazon that tell me clicks and conversion rates! I know how much my book sells for and it's not that hard to compute value of every click on the book's link.
+
+Same thing with the link to Market Motive, my startup that offers quarterly courses and certification in web analytics, paid search, etc. Rather than linking to www.marketmotive.com, the link has utm tracking parameters (utm_source=blogs &utm_medium=occamsrazor &utm_campaign=startuppromo).
+
+Once a month, I go into the Market Motive GA account, segment the Visits from this blog as identified by the campaign tracking parameters, and look at the Per Visit Goal Value (how much economic value Occam's Razor readers added to MM by signing up for certifications, trials, watching videos, downloading stuff, etc). I use that as the Goal Value in this blog's Google Analytics settings.
+
+Simple.
+
+It is not unusual that in addition to delivering conversions (or not), your website links to other places where traffic you refer adds value. Whenever possible, tag those links with campaign parameters / affiliate codes / whatever works, and collect data that helps you identify goal values for your website.
+
+Want a non-blog example?
+
+Take a quick look at Tesco's website. You can see how easily you can use this simple tip to identify goal values for at least 10 not-on-the-corporate-site micro conversions (finally valuing tesco.com at an economic value it deserves!).
+
+#2: Uniquely track online micro-conversions in offline systems.
+
+Someone visits www.cat.com and submits a "Request A Quote" for a Backhoe and Industrial Loader. This goes into the CRM system for Caterpillar. Make sure it is marked uniquely as a "web_quote." Now wait 60 days. Look back and see how many of the web_quote marked requests converted into fully fledged purchases. Now do this:
+
+Total revenue divided by number of web_quotes
+
+You have the average goal value!
+
+Of course you also know how many quotes were originally submitted and of those how many converted. You can use that going forward to get from Google Analytics the number of requests a day and apply the conversion rate and the goal value to compute economic value every day!
+
+Go back and revise the goal value each month using the same method as above. It will help you, over many months, understand seasonality and whether your site is getting better quality quotes (increase in goal value) or worse quality (reduced goal value).
+
+Not very hard. Just takes some time and patience.
+
+Use the same method for people who ordered a Victoria's Secret catalog. Make sure they are identified uniquely in your company database, and then use their purchase behavior (as recorded in the database) to go back and enter a goal value into your web analytics tool.
+
+Same thing for job applications received online (vs. those received from recruiters or via phone or people walking up). Compute conversion for online, identify costs saved due to non-payment of bounty, identify goal value!
+
+Couple more examples. . . Tie applications submitted on the Burger King website to conversions offline, or coupons downloads on the Target website to the number, and value of, redeemed in-store.
+
+Remember don't just take one number and stick with it forever. Periodically (at least once a quarter, though once a month is optimal) go back and validate you have the right number.
+
+#3: Get the current "faith based" number from Finance.
+
+Here's a simple example.
+
+I can go to L'Oreal Paris and spend 10 minutes watching all the TV spots they are airing currently (and conveniently have on their website). Micro-conversions! Goal value?
+
+Not as hard as you might imagine.
+
+I walk over to the Finance department and ask them for the value of one TV ad impression. They have that number. That is what they use to allocate the TV budget (the $$$ spent by the GRPs for the ad, or another faith based number of how many people "possibly" watched the ad, used to computed $ per TV ad impression).
+
+Use that number as your goal value. After all, someone came to the website willingly and watched your TV spot! You know that these people were not in the bathroom when your ad aired on TV. They were there on your site. They hit Play and Pause and Next!
+
+[Use this exact method to place value on your YouTube video views.]
+
+Another example.
+
+How do you value the micro-conversion of me downloading the brochure of the GMC Acadia? The finance team is currently allocating budget to Marketing to spam half of the US with unasked for glossy brochures of the Acadia, in addition to putting millions of them in dealerships. That funding was allocated based on some smart Finance person cooking up some numbers that looked liked this: "When we send 2 million brochures of a car, typically we can get 20,000 people into the showroom, which yields 19,000 Acadias sold, so each brochure gets us a ROI of $45." There you just got the goal value for someone who comes to your site and proactively (with much stronger intent) downloads the brochure.
+
+It is important to note I am not endorsing what the offline folks are doing nor how Finance currently computes the value of offline marketing activities. I am simply asking you to use what they are already using. You can improve upon things later (given that you have a lot more and better data).
+
+Your newspaper ads, your TV blitzes, your billboards, your athletic sponsorships, your logos slapped on NASCAR cars, your conference sponsorships, your. . . other things are all currently being justified via, often faith-based, financial ROI models. Use the exact same numbers. And who will argue with you? You are using what everyone else is!!
+
+People in Finance are your much underappreciated BFFs.
+
+#4: Use "relative goal values."
+
+Sometimes the first three techniques are not an option for you. No worries.
+
+We'll eyeball things! Because we MUST have goal values. Ok not really eyeball, rather we are going to try something clever.
+
+Let's use ti.com as an example. Texas Instruments is a delightful company with amazing products. It is also a B2B company with no real online conversions, which makes our job in this context harder to do, and hence a great example.
+
+I don't know anyone at TI or ti.com, so I'm making some assumptions. With a quick look at their website, we can identify that a good macro-conversion is orders for Samples. I want to get a Low Power Zero-Drift Instrumentation Amp, I go to the the page, I add a free sample to cart, and I checkout. Boom! Macro-conversion.
+
+In order to establish a goal value for this macro-conversion, TI has many options. I would recommend using the one in tip #2 above.
+
+That's done. Now you'll notice the site also has many micro-conversions. Let's just pick a few. Loads and loads of videos. Valuable "Selection Guides" (and other documents). New my.TI accounts. Completed designs. Outbound clicks to Authorized Distributors. There are others as well but let's just ignore those for a second.
+
+Now how does one value these micro-conversions? If the first three techniques fail then my recommendation would be to use "relative goal values." That is, the value of one goal relative to another goal.
+
+Our benchmark will be our macro conversion. Let's say it is $25 (it is probably a lot higher in real life, but stick with me).
+
+So the question we'll ask is this: "How much is the download of a selection guide by a relevant visitor to our site worth relative to getting an order for a Sample?" Or "How much is someone watching an entire video for one of our products?" So on and so forth.
+
+Don't do this yourself (especially if you are a Consultant and not an in-house Analyst). Get the decision makers in the room. Get Finance to join you. Get the Marketers to bring their wisdom. Essentially, people other than you who really know the business and have experience in making these kinds of judgment calls. They'll bring their baggage, but its a small price to pay.
+
+The first output of this exercise will be a relative ranking of conversions. It might look something like this:
+
+1. Sample orders
+
+2. New my.TI new accounts
+
+3. Completed designs
+
+4. Videos watched
+
+5. Selection guides and other downloads
+
+6. Outbound clicks to distributors
+
+Essentially a priority order of what's important to the business. (If you do nothing else with this info, treat this as Gold. It is so helpful in prioritizing your analytical efforts!)
+
+Then you'll say: "So if a sample order is worth $25, then how much is a new my.TI account worth?"
+
+(Before you jump and yell, let me rush to add that there are 10 good ways to answer that question. But remember, in this case we have no idea how to do it.)
+
+The job of the collective intelligence in the room is to give you that number. An "our best estimate" or "closest judgment call" or "if you put a gun to our heads then based on our 10 year experience we would say x dollars."
+
+Then you go to the next one. "If a sample order is worth $25, then what is the worth of a deeper connection with additional marketing potential and prospect address details and their future behavior on our website by creating a my.TI Account?" You get a number.
+
+Then you continue, so on and so forth. Using the sample order as an anchor or relative anchors ("Well, if the video watched was worth $2 then a selection guide has got to be worth $5 [or $1, or whatever]").
+
+You end up with something like this:
+
+1. Sample orders. Goal value: $25
+
+2. New my.TI new accounts. Goal value: $40
+
+3. Completed designs. Goal value: $18
+
+4. Videos watched. Goal value: $2
+
+5. Selection guides and other downloads. Goal value: $5
+
+6. Outbound clicks to distributors. Goal value: $5
+
+Go put that in to your web analytics tool settings and compute economic value!
+
+I know this is completely faith-based. I know that there are better ways of computing everything above. I know that you are doubtful. I hear you that a group of experienced people can't come up with something close to reality. Actually, you would be wrong about that last one.
+
+I have done this many, many times and it is a surprise how often people say "OMG that was so close to what we had estimated before we did this expensive 9 month process with an outrageously expensive external consultant!"
+
+Just try it. I just want you to start with something. Once the numbers start flowing you'll see that, almost as if by magic, you'll know some value of all that search traffic to a no-obvious-conversion B2B website or a non-profit or a Church's website or. You'll know the Per Visit Goal value of your Twitter and Facebook efforts. You'll know which content creates most value and which tools on the site suck. You'll know… so much.
+
+And this is just the start. Once your execs get into the rhythm of this data and see its power and see your value (so IMPORTANT!), they'll give you the time and the resources to go compute the right goal values. That's the real outcome you want. But you don't get it by hounding people and trying to get perfection on day one without earning your chops. You get it by being nimble and getting key stakeholders involved and going with the "best we got" and building from there.
+
+Trust me, it works.
+
+#5: Use $1 as the goal value for all the outcomes.
+
+This is the worst case scenario.
+
+Nobody loves you. Nobody will talk to you. Nobody is interested in telling you anything.
+
+You are the most unique business in the Universe. There is no possible way to get any vague idea of the site's worth. And you just got out of college.
+
+Here's what you do.
+
+First, identify all the macro and micro conversions. This is important. Can't skip this. If they won't help you then go to the site and identify them yourself. You might miss some, but that is okay.
+
+Second, log into Google Analytics / Omniture / whatever and create the goals. Two seconds of work there. In the field that says Goal Value, proudly type in $1.
+
+Hit save.
+
+Start reporting the data with "Revenue," "Per Visit Goal Value" segmented by traffic source, "$index value" of the content, and so many more delightful things. More delightful than lame metrics like Total Visits and Average Page Views/Visit and Total Time on Site etc., etc.
+
+The first time you do this people will be shocked. Then they'll ask "where the heck did you get that number?"
+
+That is exactly what you want!
+
+For them to be impressed that you are not a lame reporter but someone who takes initiative and reports outcomes and value.
+
+For them to get excited, or agitated, and ask you to explain.
+
+You explain. Then you say, sweetly, blinking your eyes in a bewitching manner: "I took the best guess I could. Could you please help me come up with the best goal values?"
+
+Boom!
+
+You are in!
+
+Sometimes they might say: "Take the $1 out, and report Time on Site." Do that. Start looking for another job.
+
+99% of the time I have been asked: "Okay so how can I figure out the exact value." To which I say: "I read this blog called Occam's Razor, it is awesome. The author shared three specific techniques we can use. Let me tell you about them."
+
+Boom!!
+
+You got a promotion. : )
+
+All from going with $1.
+
+In all seriousness, using $1 is the last resort. But it is a great way to avoid waiting for Jesus or Krishna to come from heaven and give you the goal values. Just start the conversation. Start great reporting. Start doing some actual analysis.
+
+Godspeed.
+
+Ok, it's your turn now.
+
+Do you compute goal values of all the micro-conversions (and if it applies, the macro-conversion) on your website? What approach do you take to quantify the economic value? Have you tried any of the above methods? Worked? Did not?
+
+Please share your experience, hard knocks, love critique via comments below.
+
+Thanks.

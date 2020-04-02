@@ -1,0 +1,11 @@
+A team of researchers from four American universities has provided a troubling preview of how self-driving cars could be tricked into making dangerous mistakes. By altering street signs in ways that look innocuous to a human observer, the researchers were able to completely alter how an artificial intelligence interpreted them.
+
+This isn’t just a matter of slapping paint across a sign. The team, whose work was first highlighted by Ars Technica , designed an attack algorithm that carefully tailors the visual "perturbations" to be applied to an existing sign. The alterations, made using standard color printing or stickers, look like either graffiti or general wear to a human. One example will be familiar to many urban drivers – stickers that change a standard Stop sign to instead read "Love Stop Hate."
+
+Get Data Sheet , Fortune’s technology newsletter.
+
+But to the demonstration neural network used by the researchers, these ho-hum alterations became mind-bending hallucinations. In the most dramatic example of the bunch, a Stop sign altered with what looks like natural weathering was consistently seen by the neural network as a 45 mph speed limit sign. In another test, just four carefully-placed rectangular stickers caused a Stop sign to be seen as a speed limit sign only slightly less consistently.
+
+Those misinterpretations could, obviously, be incredibly dangerous. And they held up under a wide variety of conditions, including different distances and viewing angles.
+
+There are two caveats. The research has been publicly shared , but hasn’t yet been published with peer review. And the demonstration didn’t use any existing commercial self-driving or vision system – the researchers trained their own A.I. using a library of sign images. While their work is a strong proof of concept, the researchers write in an accompanying FAQ that "this attack would most likely not work as-is on existing self-driving cars."

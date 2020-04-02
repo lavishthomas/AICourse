@@ -1,0 +1,97 @@
+It was a quiet manifesto — an 11-page document that unofficially serves as The New York Times’ follow-up to the much dissected Innovation Report of May 2014. (Nieman Lab’s story about the Innovation Report is the most popular story in its history.)
+
+Look at the signatures at the bottom of this new Times document and you can see the impact of a year’s changes. CEO Mark Thompson, now moving into his fourth year at the company, has built his own team, and the 10 signatories inked their futures in what we’ll call the 2020 memo. Editor Dean Baquet, chief revenue officer Meredith Levien, and executive vice president for digital products Kinsey Wilson were among those laying out “Our Path Forward,” first in writing, and now in a series of sessions in the Times building with hundreds of staffers.
+
+“We’ve talked to a dozen groups already,” Thompson told me Wednesday. “And we’ve got another dozen to go.”
+
+As media watcher Jay Rosen tweeted:
+
+I just read the new New York Times strategy memo. (No link available yet.) The best thing about it: the tone of institutional confidence. — Jay Rosen (@jayrosen_nyu) October 7, 2015
+
+The Times does show a confidence, though a budding one. After an often harrowing decade of challenge and change, the Times can move forward assertively, if perhaps not with a much business swagger — the future is still too uncertain a place for that.
+
+As we get to the 2020 memo’s most important number, let’s recall a big one that has hung in media minds from midsummer on: 1 million. The Times officially hit the 1 million digital subscriber mark in August. On one hand, it’s a breathtaking number: What odds could you have gotten back in 2011, when the Times announced its new paywall to a skeptical world, that it would find a million people to pay only for digital access within four years? On the other, it’s just a start. But either way, it’s a number that demonstrates the Times’ new leadership in the news industry and gives it standing to figure out its next future.
+
+The 2020 memo first generated one big headline: “Times sets goal of doubling digital revenue — to $800 million — by 2020.” Then one factoid circulated widely: 12 percent of Times readers deliver 90 percent of its digital revenue. Which led to Baquet’s point of clarity: “We need to focus on our loyal readers.”
+
+The clear link between the two is in the report: “To get there [doubling of revenue], we must more than double the number of engaged digital readers who are the foundation of both our consumer and advertising revenue models.”
+
+Thompson connects the two this way: “I think what’s happened over the last 12 months is a growing understanding — from data science and machine learning — that time spent is one important measure, and that frequency is a very important attribute and very significant predictor of subscription and retention.”
+
+Let’s delve beneath those headlines to the numbers. Let’s do the math on the Times’ big new strategy and see how the Times’ modeling took them to this plan.
+
+That $800 million is a big number, but it seems smaller in context. Currently, the Times generates something more than $400 million in digital-specific revenue a year. To achieve a doubling, the Times must achieve a compound annual growth rate (CAGR) of 12.5% from now to 2020. Importantly, that’s what its digital revenue growth rate must be — not its overall revenue growth, which has been stuck in the neighborhood of zero (“The newsonomics of zero”) for quite a while.
+
+How ambitious is 12.5 percent? Somewhat. The strategy would require the Times to maintain its recent growth rates in both digital advertising and digital subscriptions for the next five years. Consider these recent numbers:
+
+Digital ad growth rate : In the second quarter, the Times could announce a digital ad growth rate of 14.2 percent. In the first quarter, it came in at 10.7 percent. If 12.5 percent is a new benchmark, then, the first two quarters fall evenly on both sides of it. (We’ll see the 3Q results soon, on Oct. 29.) Look back at 2014 and we see the momentum. Solid digital ad revenue growth began in early 2014, and by the second half of the year, it could show gains of 17 percent in Q3 gain and 19 percent in Q4.
+
+: In the second quarter, the Times could announce a digital ad growth rate of 14.2 percent. In the first quarter, it came in at 10.7 percent. If 12.5 percent is a new benchmark, then, the first two quarters fall evenly on both sides of it. (We’ll see the 3Q results soon, on Oct. 29.) Look back at 2014 and we see the momentum. Solid digital ad revenue growth began in early 2014, and by the second half of the year, it could show gains of 17 percent in Q3 gain and 19 percent in Q4. Digital subscription growth rate: In the second quarter, its digital-only subscription revenue grew 13.8 percent. The first quarter was even better: 14.4 percent. Its 2014 results show similar growth numbers in the teens.
+
+Given that context, we might say that a 12.5 percent benchmark for doubling seems doable. It’s in the ballpark of what now seems possible.
+
+Before we assess what the Times will need to do to make those numbers, let’s look at that second and ultimately more important fact: 12 percent of Times readers deliver 90 percent of its digital revenue.
+
+Stop and take that in.
+
+I began looking at similar numbers last year, and at first I found them astounding. Ask any publisher how well they’re doing in digital, and two numbers immediately tumble out of their mouths: their monthly unique visitors and then monthly pageviews. It’s a business numerically inclined to mass, despite the fact that in the ultimate infinity of news reading on the web, mass matters less and less to most publishers. (Google and Facebook — the new mass media of our day — can successfully work that model.)
+
+My own broad math for newspaper’s digital audience valuation tells a similar tale:
+
+Reader revenue makes up about about 30 percent of most daily newspapers’ overall revenue. Who contributes that revenue? The huge majority of it comes in from print subscribers. Then there are the all-access (print + digital) subscribers. And then the digital-only subscribers. At most American dailies, that last group makes up only 1 percent or so of their total digital audience; that number is now about 3 percent for The New York Times.
+
+When we count digital revenue, of course, we count digital ad revenue. There, though, the story is parallel. In my talks with publishers, they tell me that between 40 and 66 percent of all pageviews are generated by just 10 percent of the digital audience. Further, some significant percentage of those heaviest readers are — guess what — also print subscribers.
+
+The takeaway: While the overall digital audience — measured by “unique visitors” who may hit (purposely or otherwise) a measly one page per month — often exceeds the print audience by 20× or 40× or more, it’s only a small part of the audience that meaningfully supports the business and its future. At the Times, that number is 12 percent. Given how few digital-only subscribers local dailies can count, for many of them that number is 10 percent or less.
+
+Of course, then, it makes sense for the Times — and probably everyone else — to focus on the most engaged digital readers. The 2020 memo pledges to do that, but what does it mean?
+
+Mark Thompson ticks off a list of things that heightened attention to new engagement means. Smarter, more personalized presentation to the most engaged. Direct marketing that takes into better account current engagement level. Different kinds of related news presentation that reinforce time spent — and make that time spent worthwhile.
+
+I asked him if it meant moving around resources to back the doubling-of-highly-engaged readers goal. He said he didn’t look at it primarily as a resource quesion. If successful, habituation means pulling the newsroom, the Times’ 50 data scientists, and engineers together around the goal of serving the best customers better. Expect habituation — measured by time spent and frequency, among other measures — to become a major internal metric.
+
+Focusing more on the more engaged won’t mean doing less to find new audiences. The Times has moved strongly, but with more nuance than its reborn rival The Washington Post, to test Apple News, Facebook Instant Articles, and the other new mass distributors. It will continue to do so, but will also emphasize internal top-of-mind attention to better serving the best readers.
+
+As we see the connection between more engaged readers and the $800 million goal, what’s on the short list that Times needs to do over the next four years to get there?
+
+What the Times needs to do: Digital advertising
+
+Let’s look at one benchmark for digital ad growth.
+
+According to PWC, overall digital ad growth will run at a CAGR of 12.1 percent through 2019. If the Times needs 12.5 percent to double then, it needs to keep its share of the digital ad market level.
+
+On the optimistic end, Meredith Levien’s major restructuring of the sales organization and strategy is matching that number. One big bet for 2016 and beyond is T Brand Studio (“What are they thinking? Times aims to double its branded content business”). Branded content remains a growth engine and could bring in 15 to 20 percent of overall digital ad revenue as it scales. Branded content, though, is such a new field, with competitors still entering, that its performance is a tough one to bank on.
+
+Then there’s video. Ad rates remain high, and the Times remains ready to take yet another stab at producing high-enough-quality, low-enough-cost video to win big audiences and serve ’em up to advertisers. Expect a big new push in 2016.
+
+The biggest question mark, as it is for almost everyone: mobile.
+
+The advent of ad blockers on iPhones only puts an exclamation point on the mobile ad opportunity question for now. The nature of ad buying and selling will certainly change greatly over the next four years, in ways that no one can yet forecast well.
+
+Given all those factors — many beyond the control of the Times — we can bet that the Times won’t achieve a steady-as-she-goes 12.5 percent annual growth rate. It could well be higher or lower, and could veer more wildly before — someday? — stabilizing.
+
+What the Times needs to do: Digital subscriptions
+
+“Right now, reader revenue seems more predictable [than digital ad revenue],” says Mark Thompson.
+
+Here, the Times feels like it has already climbed a steep learning curve — and it has.
+
+That 1 million subscriber number provides not just confidence, but also oodles of data. The Times has come to understand much more about the who buys what when and at what price points — and about retention, the secret sauce to the digital sub game.
+
+As it moves forward, consider two factors: volume and pricing. Despite some of us (including me) expecting the Times’ digital subscriber total to plateau more quickly than they have, they’ve kept growing nicely. Over time, the company has tested numerous marketing approaches, just recently offering free digital day passes to anyone buying a print newsstand copy, a technique long used in the U.K.
+
+The Times has already picked much of the higher-paying, low-hanging fruit. Loyalists — sold on the Times brand — will pay full price, and can probably be priced up selectively. As the Times passes 1 million, though, its increases in digital-only subscription volume haven’t been matched by increases in digital-only subscription revenue.
+
+In the chart below, we see the Times’ great progress in volume since the introduction of its paywall. We can still see a steady 20 percent increase in year-over-year volume. (Click to enlarge.)
+
+Comparatively, revenue growth comes in at about two-thirds of volume growth, or 13 percent. That tells us that as the Times continues to grow digital reader revenue, it’s having a tougher time maximizing each subscribers’ spend. That’s not unexpected, and it offers opportunities in product, in pricing, and in removing friction from the sign-up process. All are in progress.
+
+Finally, expect the Times to grow into the global shoes it has laid out for itself. One indication of that global reach is its reporting corps; it can now claim the largest number of full-time international correspondents in its history (75), housed in 30 bureaus.
+
+Already, more than 100,000 digital-only subscribers live outside the U.S. — about 12 to 13 percent of the overall total. Some of those pay a lower price. We can expect major moves in serving and attracting non-U.S. audiences, with pricing to match, beginning next year.
+
+All those moves, based on experience, fuel the Times’ optimism about the future of reader revenue.
+
+So how likely is the Times to meet that $800 million 2020 goal? I think we can give it pretty good odds. In fact, Mark Thompson might be being a little conservative with that the number. That would be smart: A goal to double is simple to grasp and meaningful to the marketplace. And as any experienced CEO knows, it’s much better to underpromise and overdeliver than the alternative.
+
+What will 2020 indeed look like? Where will be on print/digital revenue crossover and the relative decline of print? How much of our reading will we do in Times apps or on platforms elsewhere? Those are a few of the many questions we’ll need to ponder as we think about the big question: Will $800 million in digital revenue in 2020 be enough to support the Times in the journalistic style to which we’ve become accustomed?

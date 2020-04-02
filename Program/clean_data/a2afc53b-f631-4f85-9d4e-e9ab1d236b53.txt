@@ -1,0 +1,55 @@
+Whenever you create a new website or blog for your business, the first thing you probably want to happen is have people find it. And, of course, one of the ways you hope they will find it is through search. But typically, you have to wait around for the Googlebot to crawl your website and add it (or your newest content) to the Google index.
+
+So the question is: how do you ensure this happens as quickly as possible? Here are the basics of how website content is crawled and indexed, plus some great ways to get the Googlebot to your website or blog to index your content sooner rather than later.
+
+What is Googlebot, Crawling, and Indexing?
+
+Before we get started on some good tips to attract the Googlebot to your site, let’s start with what the Googlebot is, plus the difference between indexing and crawling.
+
+The Googlebot is simply the search bot software that Google sends out to collect information about documents on the web to add to Google’s searchable index.
+
+Crawling is the process where the Googlebot goes around from website to website, finding new and updated information to report back to Google. The Googlebot finds what to crawl using links.
+
+Indexing is the processing of the information gathered by the Googlebot from its crawling activities. Once documents are processed, they are added to Google’s searchable index if they are determined to be quality content. During indexing, the Googlebot processes the words on a page and where those words are located. Information such as title tags and ALT attributes are also analyzed during indexing.
+
+So how does the Googlebot find new content on the web such as new websites, blogs, pages, etc.? It starts with web pages captured during previous crawl processes and adds in sitemap data provided by webmasters. As it browses web pages previously crawled, it will detect links upon those pages to add to the list of pages to be crawled. If you want more details, you can read about them in Webmaster Tools Help.
+
+Hence, new content on the web is discovered through sitemaps and links. Now we’ll take a look at how to get sitemaps on your website and links to it that will help the Googlebot discover new websites, blogs, and content.
+
+How to Get Your New Website or Blog Discovered
+
+So how can you get your new website discovered by the Googlebot? Here are some great ways. The best part is that some of the following will help you get referral traffic to your new website too!
+
+Create a Sitemap – A sitemap is an XML document on your website’s server that basically lists each page on your website. It tells search engines when new pages have been added and how often to check back for changes on specific pages. For example, you might want a search engine to come back and check your homepage daily for new products, news items, and other new content. If your website is built on WordPress, you can install the Google XML Sitemaps plugin and have it automatically create and update your sitemap for you as well as submit it to search engines. You can also use tools such as the XML Sitemaps Generator.
+
+– A sitemap is an XML document on your website’s server that basically lists each page on your website. It tells search engines when new pages have been added and how often to check back for changes on specific pages. For example, you might want a search engine to come back and check your homepage daily for new products, news items, and other new content. If your website is built on WordPress, you can install the Google XML Sitemaps plugin and have it automatically create and update your sitemap for you as well as submit it to search engines. You can also use tools such as the XML Sitemaps Generator. Submit Sitemap to Google Webmaster Tools – The first place you should take your sitemap for a new website is Google Webmaster Tools. If you don’t already have one, simply create a free Google Account, then sign up for Webmaster Tools. Add your new site to Webmaster Tools, then go to Optimization > Sitemaps and add the link to your website’s sitemap to Webmaster Tools to notify Google about it and the pages you have already published. For extra credit, create an account with Bing and submit your sitemap to them via their Webmaster Tools.
+
+– The first place you should take your sitemap for a new website is Google Webmaster Tools. If you don’t already have one, simply create a free Google Account, then sign up for Webmaster Tools. Add your new site to Webmaster Tools, then go to Optimization > Sitemaps and add the link to your website’s sitemap to Webmaster Tools to notify Google about it and the pages you have already published. For extra credit, create an account with Bing and submit your sitemap to them via their Webmaster Tools. Install Google Analytics – You’ll want to do this for tracking purposes regardless, but it certainly might give Google the heads up that a new website is on the horizon.
+
+– You’ll want to do this for tracking purposes regardless, but it certainly might give Google the heads up that a new website is on the horizon. Submit Website URL to Search Engines – Some people suggest that you don’t do this simply because there are many other ways to get a search engine’s crawler to your website. But it only takes a moment, and it certainly doesn’t hurt things. So submit your website URL to Google by signing into your Google Account and going to the Submit URL option in Webmaster Tools. For extra credit, submit your site to Bing. You can use the anonymous tool to submit URL’s below the Webmaster Tools Sign In – this will also submit it to Yahoo.
+
+– Some people suggest that you don’t do this simply because there are many other ways to get a search engine’s crawler to your website. But it only takes a moment, and it certainly doesn’t hurt things. So submit your website URL to Google by signing into your Google Account and going to the Submit URL option in Webmaster Tools. For extra credit, submit your site to Bing. You can use the anonymous tool to submit URL’s below the Webmaster Tools Sign In – this will also submit it to Yahoo. Create or Update Social Profiles – As mentioned previously, crawlers get to your site via links. One way to get some quick links is by creating social networking profiles for your new website or adding a link to your new website to pre-existing profiles. This includes Twitter profiles, Facebook pages, Google+ profiles or pages, LinkedIn profiles or company pages, Pinterest profiles, and YouTube channels.
+
+– As mentioned previously, crawlers get to your site via links. One way to get some quick links is by creating social networking profiles for your new website or adding a link to your new website to pre-existing profiles. This includes Twitter profiles, Facebook pages, Google+ profiles or pages, LinkedIn profiles or company pages, Pinterest profiles, and YouTube channels. Share Your New Website Link – Once you have added your new website link to a new or pre-existing social profile, share it in a status update on those networks. While these links are nofollow, they will still alert search engines that are tracking social signals. For Pinterest, pin an image from the website and for YouTube, create a video introducing your new website and include a link to it in the video’s description.
+
+– Once you have added your new website link to a new or pre-existing social profile, share it in a status update on those networks. While these links are nofollow, they will still alert search engines that are tracking social signals. For Pinterest, pin an image from the website and for YouTube, create a video introducing your new website and include a link to it in the video’s description. Bookmark It – Use quality social bookmarking sites like Delicious and StumbleUpon.
+
+– Use quality social bookmarking sites like Delicious and StumbleUpon. Create Offsite Content – Again, to help in the link building process, get some more links to your new website by creating offsite content such as submitting guest posts to blogs in your niche, articles to quality article directories, and press releases to services that offer SEO optimization and distribution. Please note this is about quality content from quality sites – you don’t want spammy content from spammy sites because that just tells Google that your website is spammy.
+
+How to Get Your New Blog Discovered
+
+So what if your new website is a blog? Then in additional to all of the above options, you can also do the following to help get it found by Google.
+
+Setup Your RSS with Feedburner – Feedburner is Google’s own RSS management tool. Sign up or in to your Google account and submit your feed with Feedburner by copying your blog’s URL or RSS feed URL into the “Burn a feed” field. In addition to your sitemap, this will also notify Google of your new blog and each time that your blog is updated with a new post.
+
+– Feedburner is Google’s own RSS management tool. Sign up or in to your Google account and submit your feed with Feedburner by copying your blog’s URL or RSS feed URL into the “Burn a feed” field. In addition to your sitemap, this will also notify Google of your new blog and each time that your blog is updated with a new post. Submit to Blog Directories – TopRank has a huge list of sites you can submit your RSS feed and blog to. This will help you build even more incoming links. If you aren’t ready to do them all, at least start with Technorati as it is one of the top blog directories. Once you have a good amount of content, also try Alltop.
+
+The Results
+
+Once your website or blog is indexed, you’ll start to see more traffic from Google search. Plus, getting your new content discovered will happen faster if you have set up sitemaps or have a RSS feed. The best way to ensure that your new content is discovered quickly is simply by sharing it on social media networks through status updates, especially on Google+.
+
+Also remember that blog content is generally crawled and indexed much faster than regular pages on a static website, so consider having a blog that supports your website. For example, if you have a new product page, write a blog post about it and link to the product page in your blog post. This will help the product page get found much faster by the Googlebot!
+
+What other techniques have you used to get a new website or blog indexed quickly? Please share in the comments!
+
+About the Author: Kristi Hines is a freelance writer, professional blogger, and social media enthusiast. Her blog Kikolani focuses on blog marketing for personal, professional, and business bloggers. You can follow her on Google+, Twitter, and Facebook.

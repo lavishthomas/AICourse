@@ -1,0 +1,73 @@
+In the wake of mass shootings, many people wonder how they could have been prevented. Were there warning signs that should have been heeded? Was the person mentally ill? Did he or she hold extremist views?
+
+It’s a question we're bound to ask on an awful day of two unrelated shooting events — the attack on Republican Congressmen and staff practicing baseball in Alexandria, Virginia, and a shooting at a UPS warehouse in San Fransisco.
+
+The sad truth is that the only personal factors that reliably correlate with mass shooters are being young and male. There are a lot of young, angsty men in this country. That makes prediction hard.
+
+But what also makes prediction even harder is just how rare these instances of mass shooting are. Yes, America has a gun violence problem. But the vast, vast majority of people will never commit such a crime. Even if we said one in a million people will become mass murderers, that would be a too high of an estimate. There are 323 million people in the United States.
+
+The fact that there are so few mass shooters and so many more harmless people makes it actually mathematically impossible to predict who might become a mass shooter.
+
+New York magazine’s Jesse Singal made this point after the shooting at Umpqua Community College in 2015. "It would be nice to think we could sidestep the gun-control issues," he wrote, and focus on quantifying the mental health and behavioral warning signs in would-be shooters.
+
+But that would be an exercise in futility. Last year, Sanjay Srivastava, a psychologist at the University of Oregon, walked us a through a thought experiment to consider.
+
+"Even with very good detection procedures, when you're talking about rare events, [prediction models] do not work the way you might think," Srivastava says.
+
+Even a prediction model that’s 99 percent accurate would be of no use.
+
+Let’s see why.
+
+Imagine scientists invent a machine that can predict who will commit an act of terrorism or mass murder
+
+This is science fiction, clearly. But if we could invent such a machine, we’d want it to analyze the intricate regions of a person’s brain and then determine his intent and willingness to commit a mass crime.
+
+In addition to mind reading, we’d want it to track a person’s online behavior, social connections, and purchasing decisions, and use that data to determine who is a would-be mass killer.
+
+For the purpose of this example, let’s assume it works absurdly well.
+
+This machine is 99 percent accurate
+
+This 99 percent accuracy is also science fiction. We're not even that good at predicting the weather, let alone the complexities of human behavior.
+
+But you'd have faith in a system that was 99 percent accurate, wouldn’t you?
+
+It would mean that 99 percent of the people whom it identifies as mass shooters are actually dangerous, and 99 percent of the people it identifies as peaceful citizens.
+
+This sounds pretty good. Let’s see how well it analyzes 100,000 people.
+
+Let’s assume that there’s actually one future mass shooter lurking in this group of 100,000 people.
+
+That means 99,999 people are "harmless." They will not commit a heinously violent crime.
+
+The machine is 99 percent accurate, and so it labels 99 percent of these "harmless" people correctly. Hooray!
+
+And more good news: The machine should also theoretically correctly identify the mass shooter.
+
+So from our initial group of 100,000 people, we’re left with a list of 1,001 potential mass shooters
+
+What? I thought this thing was 99 percent accurate! What junk!
+
+Well, it is 99 percent accurate. But that means it will falsely label one out of every 100 people a mass shooter.
+
+In a group of 100,000 people, we'd be left with 1,001 potential mass shooters, 1,000 false positives, and one correct guess.
+
+It’s likely the machine did correctly guess who the mass shooter will be. But he’s hidden among the false positives.
+
+If we ran this machine on all US citizens, it would identify around 3.2 million people as mass shooters
+
+What does the government do with this information? Monitor all 3.2 million potential killers? Wiretap all their homes?
+
+This isn’t feasible.
+
+In the wake of the horrendous shooting in Norway in 2011, the Swedish Defense Research Agency looked into whether it would be possible to monitor social media to identify would-be mass shooters. Here’s what the agency wrote in a 2014 paper:
+
+To produce fully automatic computer tools for detecting lone wolf terrorists on the Internet is, in our view, not possible, both due to the enormous amounts of data (which is only partly indexed by search engines) and due to the deep knowledge that is needed to really understand what is discussed or expressed in written text or other kinds of data available on the Internet, such as videos or images.
+
+The lesson here is that it’s much easier to look backward and assume the warning signs were there and could have been spotted.
+
+"But that's going the wrong way — it's hindsight, not prediction," Srivastava said.
+
+"Spend some time online and realize just how many young men there are saying angry things on the internet. Which ones are really dangerous, and which ones are just exercising their constitutional right to say angry things? The math just isn't on your side."
+
+Prediction won’t work, so what will? Well, there’s an answer, but it’s not going to make a lot of people happy. Considering the mathematical hurdles of predicting killers, maybe stricter gun control is actually the easier option to reduce gun violence.

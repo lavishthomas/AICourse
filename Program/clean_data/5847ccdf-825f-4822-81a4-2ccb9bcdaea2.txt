@@ -1,0 +1,59 @@
+Newly minted sociologist Sarah Brayne spent two and a half years studying the LAPD as it shifted from traditional methods to what she calls big data surveillance.
+
+This article examines the intersection of two structural developments: the growth of surveillance and the rise of “big data.” Drawing on observations and interviews conducted within the Los Angeles Police Department, I offer an empirical account of how the adoption of big data analytics does—and does not—transform police surveillance practices. I argue that the adoption of big data analytics facilitates amplifications of prior surveillance practices and fundamental transformations in surveillance activities. First, discretionary assessments of risk are supplemented and quantified using risk scores. Second, data are used for predictive, rather than reactive or explanatory, purposes. Third, the proliferation of automatic alert systems makes it possible to systematically surveil an unprecedentedly large number of people. Fourth, the threshold for inclusion in law enforcement databases is lower, now including individuals who have not had direct police contact. Fifth, previously separate data systems are merged, facilitating the spread of surveillance into a wide range of institutions. Based on these findings, I develop a theoretical model of big data surveillance that can be applied to institutional domains beyond the criminal justice system. Finally, I highlight the social consequences of big data surveillance for law and social inequality.
+
+Here’s one bit, not far from what one would see on CSI:
+
+For example, after a series of copper wire thefts in the city, the police found the car involved by drawing a radius in Palantir
+
+around the three places the wire was stolen from, setting up time bounds around the time they knew the thefts occurred at each site, and
+
+querying the system for any license plates captured by ALPRs in all three locations during those time periods.
+
+And another:
+
+I encountered several other examples of
+
+law enforcement using external data originally
+
+collected for non–criminal justice purposes,
+
+including data from repossession and collections
+
+agencies; social media, foreclosure, and
+
+electronic toll pass data; and address and
+
+usage information from utility bills. Respondents
+
+also indicated they were working on
+
+integrating hospital, pay parking lot, and
+
+university camera feeds; rebate data such as
+
+address information from contact lens rebates;
+
+and call data from pizza chains, including
+
+names, addresses, and phone numbers from
+
+Papa Johns and Pizza Hut. In some instances,
+
+it is simply easier for law enforcement to purchase
+
+privately collected data than to rely on
+
+in-house data because there are fewer constitutional
+
+protections, reporting requirements,
+
+and appellate checks on private sector surveillance
+
+and data collection (Pasquale 2014).
+
+Moreover, respondents explained, privately
+
+collected data is sometimes more up-to-date.
+
+Hat tip: Kevin Lewis.

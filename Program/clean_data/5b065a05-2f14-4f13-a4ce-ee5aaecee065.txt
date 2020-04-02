@@ -1,0 +1,89 @@
+This past spring, Google began feeding its natural language algorithm thousands of romance novels in an effort to humanize its “conversational tone.” The move did so much to fire the collective comic imagination that the ensuing hilarity muffled any serious commentary on its symbolic importance. The jokes, as they say, practically wrote themselves. But, after several decades devoted to task-specific “smart” technologies (GPS, search engine optimization, data mining), Google’s decision points to a recovered interest among the titans of technology in a fully anthropic “general” intelligence, the kind dramatized in recent films such as Her (2013) and Ex Machina (2015). Amusing though it may be, the appeal to romance novels suggests that Silicon Valley is daring to dream big once again.
+
+The desire to automate solutions to human problems, from locomotion (the wheel) to mnemonics (the stylus), is as old as society itself. Aristotle, for example, sought to describe the mysteries of human cognition so precisely that it could be codified as a set of syllogisms, or building blocks of knowledge, bound together by algorithms to form the high-level insights and judgments that we ordinarily associate with intelligence.
+
+Two millennia later, the German polymath Gottfried Wilhelm Leibniz dreamed of a machine called the calculus ratiocinator that would be programmed according to these syllogisms in the hope that, thereafter, all of the remaining problems in philosophy could be resolved with a turn of the crank.
+
+But there is more to intelligence than logic. Logic, after all, can only operate on already categorized signs and symbols. Even if we very generously grant that we are, as Descartes claimed in 1637, essentially thinking machines divided into body and mind, and even if we grant that the mind is a tabula rasa, as Locke argued a half-century later, the question remains: How do categories and content—the basic tools and materials of logic—come to mind in the first place? How, in other words, do humans comprehend and act upon the novel and the unknown? Such questions demand a fully contoured account of the brain—how it responds to its environment, how it makes connections, and how it encodes memories.
+
+* * *
+
+The American pioneers of artificial intelligence did not regard AI as an exclusively logical or mathematical problem. It was an interdisciplinary affair from the opening gun. The neuroscientist Karl Lashley, for example, contributed a paper at an early AI symposium that prompted one respondent to thank him for “plac[ing] rigorous limitations upon the free flight of our fancy in designing models of the nervous system, for no model of the nervous system can be true unless it incorporates the properties here described for the real nervous system.” The respondent, as it happens, was a zoologist; the fanciful models to which he was referring were “neural networks” or “neural nets,” an imaginative sally of two midcentury American mathematicians, Warren McCulloch and Walter Pitts. Neural networks were then popularized in 1949, when the Canadian psychologist Donald Hebb used them to produce a theoretical construction of how learning functions in the brain. But if neural nets were the original love child of neuroscience and artificial intelligence, they seemed, for quite some time, destined to be a stillborn. Neuroscience quickly and thoroughly exposed the difficulties of creating a model of an organism that, with its 100 billion neurons, was far more complex than anything McCulloch and Pitts could have imagined. Discouraged, programmers began to wonder if they might get on without one.
+
+Alan Turing’s “imitation game” reveals a romantic strand in the genealogy of midcentury artificial intelligence.
+
+The effort to achieve a fully general intelligence while sidestepping the inconveniences of neurobiology found its first and most enduring expression in a 1950 paper by the British mathematician Alan Turing. Turing laid out the rules for a test that requires a human interrogator to converse, by text message, with two or more interlocutors—some human, some machine. According to the rules, the machine is deemed artificially intelligent only if it is indistinguishable from its human peers. The mainstreaming of this “imitation game” as a standard threshold test, whereby the explicit goal is really humanness rather than intelligence, reveals a romantic strand in the genealogy of midcentury artificial intelligence. Dating at least as far back as the Sanhedrin tractate of the Talmud (2nd century)—in which Adam was conceived from mud as a golem—the ultimate triumph, by the light of this tradition, is to assume Godlike power by animating an object with the uniquely human capacity to feel, to know, and to love. Thus, the popular adoption of the Turing test betrays in the early pioneers of artificial intelligence the shadowy presence of some of the same fancies that moved Victor Frankenstein.
+
+But if there was a latent romanticism in the field of artificial intelligence, it did not survive the 1980s, a period informally termed the “AI winter.” The ’80s brought not only diminished funding, but also a series of crippling attacks on the field’s basic theoretical conceits. In 1980, the philosopher John Searle argued that the ability of computers to perform intelligent behaviors—his example was reading Chinese—is not a proxy for how human intelligence works because the underlying architecture is so different. A stream of water, for example, always finds the most efficient and expeditious path down the side of a mountain. But to call this behavior an example of intelligence is to depart from the basic meaning of the term. Intelligence, at its roots, means to choose (legere) between (inter) a pair or set of options. Water does not choose anything, since choosing requires something more than the lawful interaction of brute physical particles—it requires consciousness. And even when they are navigating us around the far-flung cities of the world, finding us dinner dates, and beating us at AlphaGo, there is no serious suggestion that these “intelligent” machines are conscious.
+
+Instead they aspire, at best, to what Searle termed “weak AI” (in contrast to “strong AI”). The former is marked by the comparative logic of simile—the computer is like a mind; the latter is marked by the constitutive logic of metaphor—the computer is a mind. Turing, with his typically behaviorist aversion to the interior of the skull, had hoped that “strong AI” could be realized without the burden of brain-likeness, that the machine’s behaviors would be sufficient.
+
+But the exigencies of the AI winter industrialized the field, clearing it of even the weakest anthropic goals that had been sustained by academics like Turing. In the void, incremental, task-specific advances, many based on the triumph of what are often called “neat” or algorithmic approaches to artificial intelligence, quickly proliferated. At least in the short term, this has been for the better. Surely we would not want our calculators to “choose between” various alternatives in the same way we do, which is to say slowly and with a high rate of error. But we have, in nearly all technologies, from the calculator to the chess-champion computer, made the trade that Turing was unwilling to make: We have exchanged humanness for intelligence. Little surprise, then, that these technologies are ill-equipped to handle many stubbornly human tasks and activities, like putting a patient at ease, interpreting the final stanza of The Waste Land, or teaching someone to ski. For all of its practical and philosophical flaws, there may be something to be said for Turing’s “imitation game” as an index of progress in artificial intelligence. There are, after all, many existing and conceivable technologies for which humanness is, if not all that matters, certainly what matters most.
+
+* * *
+
+This seems to be the conclusion that Andrew Dai and Oriol Vinyals, the researchers behind Google’s romance novel gambit, have reached. Dai told BuzzFeed News in May that the project was initiated in the hope that the “very factual” responses of the Google app can become “more conversational, or can have a more varied tone, or style, or register.” Then, for example, Google’s automated email reply feature, Smart Reply, could be trusted to carry on a greater share of a user’s correspondence as he plays in the backyard with the kids. Dai and Vinyals are hoping, in other words, that it can become a fully functional Turing machine, writing emails and messages in an increasingly human voice. But if the plan succeeds, it would have to do so on the strength of the very “neural network” approach that Turing hoped he could do without.
+
+In the last quarter-century, computing power increased by a factor of approximately 1 million.
+
+Neural networks have enjoyed an astonishing renaissance in the past several years, in large part due to the resolution of hardware problems—above all, the lack of computing power—that brought the approach to a standstill in the 1960s. In the last quarter-century, computing power increased by a factor of approximately 1 million, a much-needed boost in the face of the sobering fact that the human brain contains well over 100 trillion synaptic connections. Recently, computer scientists have been inching ever closer to the mark. In 2012, Google developed a network of 1.7 billion parameters. Only a year later, Stanford reached 11.2 billion. And in 2015, after Lawrence Livermore reached 15 billion parameters, a private cognitive computing firm, Digital Reasoning, registered a more than tenfold increase to 160 billion parameters. At this rate, 100 trillion is all but in the maw. So if we have the romance novels, and we will soon have the computing power, what is there left to do?
+
+According to the Oxford philosopher Nick Bostrom, not all that much (beyond trembling in anticipation of the apocalypse). The surprising commercial success of his book Superintelligence (2014) registers a shift in discourse about AI. Instead of asking questions about whether human intelligence is replicable, Bostrom is asking whether our intelligence will survive the inevitable (and, for Bostrom, hostile) takeover of machine intelligence. Bostrom’s existential paranoia is rooted in the belief that, at some point in the future, AI will accomplish Turing’s goal of exhibiting behaviors characteristic of “general” intelligence, and that it will do so by rising to the architectural challenge of what Searle calls “strong AI.” Combining machine architectures (expert in calculation) with human architectures (expert in consciousness), artificial intelligence will become a superintelligence that sees human wastefulness as a threat to its survival. Still, for all its doom and gloom, one suspects that the stunning popularity of Bostrom’s book is as much a product of its implicit optimism about artificial intelligence’s projected technical achievements as of its explicit pessimism about AI’s tragic social consequences.
+
+* * *
+
+All the while there is, in the tissue of these enthusiasms, a potentially terminal cancer: the lurking fact that artificial neural networks are not much like biological neural networks at all. No amount of computing power can compensate for the fact that synapses simply don’t function in the way that Digital Reasoning’s “parameters” do. Nor can it surmount the even more damaging fact that little is known about how neurons “code” information. Neural nets, by and large, attempt to replicate the categorizing work of human cognition by various statistical methods—above all, backpropagation—that have no corollary in the human brain. Even when one component of Searle’s architectural challenge is solved—when, in other words, the yawning gulf in computing power between the human brain and the computer is bridged—there remains a second, much more unwieldy problem of discovering how categories of thought emerge from the patterning of neurons in the first place.
+
+But there is some cause for optimism: A hurdle on the field of neuroimaging is on the brink of being cleared. The two most popular methods of measuring functional brain activity—functional magnetic resonance imaging (fMRI) and electroencephalography (EEG)—have complementary shortcomings. fMRI imaging offers excellent spatial but poor temporal resolution. It depicts the where but not the when of synaptic transmission. EEG does just the opposite. And the two methods cannot be combined in real time (without a grisly scene) because EEG places metal electrodes on the skull, while fMRI places the skull into a giant magnet. The cause for optimism rests in another method altogether: the burgeoning field of optogenetics, in which neurons are modified to produce light-sensitive ion channels, so that living tissue can be measured using chemical sensors. Named by the journal Science as one of the “Breakthroughs of the Decade” in 2010, optogenetics is still too invasive for use in humans. But on arrival it promises to deliver the spatiotemporal resolution necessary to discover how neurons form the seemingly inscrutable patterns that convert brute environmental stimuli into the sublime informatics of thought.
+
+Thus the paradigm shift promising to thrust artificial intelligence into overdrive may still be down the road a piece. It is certainly further toward the horizon than one might suppose from the remarks made by Bill Gates, Jeff Bezos, and other industry mavens at Code Conference 2016. In fact, given that the final frontier in artificial intelligence calls for some form of consciousness, when it comes, it will almost certainly issue not from the source code of a programmer, but from the lab of a neuroscientist. Then, if romance novels play a role, it will be to ensure, as a true test of intelligence, that they are read not with indifference, but with delight or disdain.
+
+JSTOR Citations
+
+By: Philip E. B. Jourdain
+
+The Monist, Vol. 26, No. 4 (1916), pp. 504-523
+
+Oxford University Press
+
+By: Warren S. McCulloch and Walter Pitts
+
+Biometrics, Vol. 4, No. 2 (1948), pp. 91-99
+
+International Biometric Society
+
+By: Hilary Putnam
+
+Daedalus, Vol. 117, No. 1, Artificial Intelligence (1988), pp. 269-281
+
+The MIT Press on behalf of American Academy of Arts & Sciences
+
+By: Hilary Putnam
+
+The Journal of Philosophy, Vol. 61, No. 21, American Philosophical Association Eastern Division Sixty-First Annual Meeting (Nov. 12, 1964), pp. 668-691
+
+Journal of Philosophy, Inc.
+
+By: John R. Searle
+
+Proceedings and Addresses of the American Philosophical Association, Vol. 64, No. 3 (990), pp. 21-37
+
+American Philosophical Association
+
+By: A. M. Turing
+
+Mind, Vol. 59, No. 236 (1950), pp. 433-460
+
+Oxford University Press on behalf of the Mind Association
+
+By: John Watson
+
+The Philosophical Review, Vol. 13, No. 1 (1904), pp. 1-15
+
+Duke University Press on behalf of Philosophical Review
+
+By: Sarah C. P. Williams and Karl Deisseroth
+
+Proceedings of the National Academy of Sciences of the United States of America, Vol. 110, No. 41 (2013), p. 16287
+
+National Academy of Sciences

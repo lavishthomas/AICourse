@@ -1,0 +1,99 @@
+Who wants to spend less money on gas? Everyone? Yeah!
+
+Every few weeks, you’ll see yet another simplistic article in a bland mass-market publication like USA today or CNN news that says the same things about saving fuel: pump up your tires to manufacturer recommendations, accelerate smoothly, combine errands, and so on. You already follow the tips, and you’re wondering if Mr. Money Mustache can offer you more. The answer is of course yes.
+
+I’ve always been pretty interested in maximizing my own car’s fuel efficiency. It’s a neat little numbers game, seeing how far you can get with each tank of gas, and as a result I have calculated the average MPG of pretty much every tank of gas I’ve ever bought since my first foray into motor vehicle ownership in 1990 (a 1984 Yamaha DT-125 dirt bike, approx. 45MPG US in mixed terrain of steep mud stunt ramps and cow patties).
+
+But the hobby has really ramped up in recent years along with the increase in gas prices and my discovery of “hypermiling” as an entirely new sub-field in the Online Nerd community. I started reading articles on websites like CleanMPG.com and learned that I was not alone. After a year or two of careful consideration, I decided to up my game by ordering myself an UltraGauge engine monitor for $80*. This is a simple device that reads key data from your car’s engine computer and displays it on-screen. I use it to watch instantaneous and average MPG, gallons-per-hour stats, engine temperature, etc, all while experimenting with driving style.
+
+Here’s the neat thing about fuel efficiency: it has a big impact on your bottom line, since the average US driver spends two thousand dollars on fuel per year. But contrary to popular wisdom, it has two components: the car itself and THE DRIVER.
+
+The Environmental Protection Agency tests and rates each new car model to figure out its fuel consumption in typical use. The funny part about their rating system is that they have to keep changing it because the average US person drives so inefficiently that they end up using even more fuel than the EPA estimates.
+
+The typical sentiment among drivers is, “Oh, EPA estimates are so optimistic, you’ll never get that mileage in real life”. Among hypermilers, however, the opposite is true: “Thank goodness I don’t get those shitty mileage figures estimated by the EPA, or my gas bill would be ridiculous!”.
+
+Case in Point: if I look up EPA estimates for my 2005 Scion xA here: http://www.fueleconomy.gov/feg/findacar.htm, it tells me I will get 27MPG city, 34MPG highway, averaged to 30. In reality, my average is about 44 city, 40 highway, and I’ve never ever seen anything below 33MPG – a tank used up with a lot of short cold-start trips during a brutally cold winter with snow on the road. Under ideal driving conditions (mild weather, no stop lights and choosing my own speed), the car gets about 52MPG.
+
+Similarly, my 1999 Honda Odyssey construction van is rated at 16 city, 23 highway, averaged to 19, while I have averaged 27MPG in mixed driving, with high of 31MPG across over a thousand miles of 68MPH freeway driving and a low of 22.3 this summer with constant air-conditioning, city traffic, and plenty of hauling of 1500-lb loads of construction materials up the steep dirt road to the cottage.
+
+My own averages correspond to about a 25% savings on fuel – even without any major changes to the vehicles. How do I get these amazing results that make the EPA estimates look utterly pessimistic? While I just consider it “normal non-ridiculous driving”, you could also get nerdy and call it “hypermiling”, and this is how we do it:
+
+1: City driving style.
+
+Most people assume that their car is getting “25MPG or whatever” for the duration of their driving. But the truth is much more exciting than that. When you’re accelerating away from a light, you’re getting about 9MPG and burning fuel at $15 per hour. When you’re coasting, you are getting 60-100 MPG. If you are accelerating half the time, and manage to coast the other half, you’ll still average under 18MPG in this situation. So you need to coast more than half the time.. the opposite of one of my friends who is always either using gas or brake.
+
+When you are idling at a light, you are burning from 60 cents of fuel per hour in a tiny car, to $1.80 per hour in a large one. So while idling is always unpleasant, a much bigger factor in your fuel use is how and when you do your acceleration.
+
+A good guideline to make you think carefully about acceleration is this rhyme I’ve made for you:
+
+“If you have to brake, you’ve made a mistake”.
+
+Obviously this is an exaggeration – other drivers, safety concerns and obeying traffic laws will provide plenty of reasons to hit the brakes.. but still if you think braking is bad, you will start planning your acceleration much more carefully. And you’ll avoid driving in high-traffic areas in the first place, because you should be biking or doing the car errand later that night when traffic clears.
+
+Overall, you should still use your brakes, but pretend they are hooked up to a speaker on your dashboard which blares out my voice saying “MEEEEEEEHHHHHHHHHH!!!” at you for the duration of your brake application – each and every time you touch that pedal. Pleasant, isn’t it?
+
+And when you are damned with the chore of driving in traffic, you can still improve things by watching the traffic ahead of you – not just the guy in front, but the next ten cars, and the bikes and pedestrians, and the traffic lights and side streets. “That lady two cars up there keeps looking to her left – she is trying to find an address, leave her extra space. That guy just hopped on his bike and is looking the wrong way.. he will end up crossing in front of me”. The benefit of all this hyper-focus is that it also makes you much safer on the road. I never talk on the phone or comb my mustache in the rearview mirror in city traffic – there is much more important work to be done.
+
+2: Highway driving style.
+
+Your car gets its best fuel economy somewhere between 25 and 65 MPH. It varies widely based on engine size and transmission type, but it is safe to say that you are always wasting plenty of gas (at least 15% over peak fuel efficiency) if you get all the way up to 75MPH. Of course, if you are seriously in a rush it may make sense to burn the extra gas (on cross-country roadtrips with multiple people I always go at least this fast, because the extra cost is small compared to the collective benefit of everyone getting there faster). But when you are going 75, you should always have this song playing in your head:
+
+“I am Mister Fancy, I am in a hurry, my time is so valuable that I am wasting gas. Wasting gas, wasting gas, look out world I’m wasting gas. Tomorrow I will save some gas, but today I’m wasting gas”. If you do not like my song, you can substitute “Mrs”. for “Mister” above, or even write your own and send it in.
+
+At least 50% of your highway fuel is being used to push air out of the way. You can cut your wind load significantly by simply drafting behind a transport truck. I find that if I hang back at a very safe distance – two seconds of road space, so that the truck trailer looks about 1.5x bigger than my thumb held at arm’s length, my fuel efficiency instantly jumps by 20%. While crossing the country in my van, this trick saves me about $20 of fuel per driving day. You can get bigger savings by drafting closer, but only if you enjoy danger – logically it is not worth risking a crash for an extra $1-$2 per hour of fuel savings. At the safe distance, however, the ride is nice. Truckers are expert drivers and they move consistently and anticipate road conditions well in advance.
+
+3: Engines waste gas when they are cold
+
+When a car first starts, the engine is cold. I found that for the first several minutes, the fuel consumption for light driving is actually double what it would be with a warm engine. The idle fuel consumption in my Scion is 0.39 gallons per hour when cold, but only 0.15 GPH when warm. A similar effect occurs during acceleration. So people who use cars incorrectly for bike-compatible errands are effectively paying $8 per gallon for their gas. To avoid this, you simply use your car only for major trips, or at least consolidate errands so the engine stays warm between them. Avoiding constant hot/cold cycles is also part of my secret to keeping cars healthy for 20+ year lifespans.
+
+4: Engines are most efficient under fairly high throttle at low RPMs
+
+Have you ever heard of “Pulse and Glide”? It’s a counterintuitive trick used by hypermilers when breaking world efficiency records. They put the car in its highest gear, and accelerate up to highway speed. Then they put the car in neutral (or even turn it off) to coast down to a moderately low speed. Repeating this up/down cycle actually uses less gas than rolling along at an intermediate speed, because the engine is more efficient when working harder for short intervals, than it is working lightly forever.
+
+This is also why cars with less powerful engines tend to have higher fuel efficiency even if all other factors are equal – because the small engine is working in a more efficient part of its power range during typical driving. In real life, you can take advantage of this fact by keeping your car in the highest gear possible for the situation. And always ordering the smallest engine possible – never the V8 or V6 option, since even the smallest and least powerful car in the US is still ridiculously fast.
+
+5: Coasting in neutral saves only a little bit of gas, and only on certain hills.
+
+If you go down a hill and put the car in neutral, you are using only the power needed to idle the engine. Pretty good, since at 60MPH a midsized car will get about 200MPG in this situation.
+
+If you leave your car in gear, and take your foot off the gas at high speed, you are actually using ZERO fuel. This is because the car detects that no fuel is needed to keep the engine running (the wheels are turning it via the transmission) so it cuts off the injectors completely. This saves between 0.15 and 0.5 gallons per hour depending on engine size, which is significant if you do a lot of coasting as I do.
+
+Now, the neutral coaster will end up coasting further and faster than the in-gear coaster, because coasting in gear sucks up lots of energy (which is also known as “engine braking”). So on a long, gentle hill where you need to be in neutral to maintain speed, you save fuel by being in neutral. On a steeper hill like a mountain road where the engine braking is actually useful, you will use less gas being in gear. But overall, we are talking fairly small amounts of fuel of less than $1 per hour of coasting – not worth fretting or risking safety over. I still coast in neutral on remote country roads because it is fun, even in the automatic transmission van, but not in the city or the mountains. In the manual-transmission car, I use neutral much more often in city driving, since going to neutral is instantaneous in a manual. In this case, there are many times you want maximum coasting distance with zero engine braking.
+
+6: When should I turn off my engine?
+
+Always. As noted above, you are wasting $0.60 to $1.80 in fuel per hour of idling, and you save fuel by shutting off the engine for any event longer than ten seconds. So, no idling in the parking lot while someone runs into the store, no idling in the drive through (actually, no drive throughs at all, as they are a stupid invention), and if you get stopped for a train or a ridiculously long traffic light, you can even shut off the engine for that. Of course, it’s only 3-9 cents of fuel to idle for a three-minute light, and it is surely a bad idea to pull this stunt in front of a police car, but sometimes the joy of just sitting in a silent car wasting zero gas at the longest light in history is worth the effort. Someday, I’ll have an electric car or hybrid so this happens automatically.
+
+7: How much does air conditioning really cost to use? What about headlights and other accessories? Thanks to the Ultra Gauge, I was able to test all these things directly while idling for a minute when the engine happened to be at full operating temperature.
+
+In my van, which has a princely dual-zone system designed to cool seven passengers, the A/C boosts the fuel consumption at idle from 0.49 GPH to 0.74 GPH. So it is burning 0.25 GPH, which is $1 per hour at $4 per gallon. When driving 65MPH, this same van normally uses $8 per hour of fuel, so the air conditioning is sapping a surprising 12% of the fuel efficiency – about 3.5 MPG. But it’s best to just think of the hourly figure, so you can decide “Is it dollar-an-hour hot in here today, or not?”
+
+In my small car, the figure is only half as much – 0.12 GPH or 50 cents per hour. In moderate weather, the tradeoff speed between opening windows and running the air conditioning is about 50 MPH – use the A/C if traveling faster than that, unless one of your passengers needs access to the roaring air to do cool hand stunts.
+
+Headlights are a much smaller drain – adding only 0.02 GPH (8 cents per hour) to the toll. The radio was even lower, not even registering on the 0.01 GPH-increment scale unless you are rattling the license plate with competition-grade subwoofers and amps at high volume.
+
+8: Vehicle Modifications, small and large
+
+You can reduce your car’s rolling resistance, make it lighter, make it more aerodynamic, and make the engine more efficient, in that order of difficulty.
+
+Rolling resistance is caused by the tires. The harder the tires, the lower the rolling resistance. Automakers specify a fairly low pressure, like 30 PSI, to balance fuel economy with the mushy ride most US drivers expect, but I find that you get a firmer ride with sharper handling and higher efficiency by using the maximum pressure specified on the sidewall of the tires itself – I use 40 PSI, close to the 44PSI rating of my current tires. This change yields about a 2% increase in fuel efficiency. Next time you replace your tires, you can also select “low rolling resistance” models that add 2% or more to a regular tire’s performance as well.
+
+In a 3,000 pound car, each 30 pounds you slice from the weight cuts your weight by 1% and increases your fuel efficiency by about the same amount. It also improves acceleration and handling. I always start by removing the spare tire, jack, and related metal accessories from the trunk. There’s 50 pounds, and a bunch more trunk space. I do add in a can of fix-a-flat tire repair spray. Spare tires are good if you’re traveling alone through Death Valley or South America, but for local errands, in a world with cell phones and internet access, I haven’t worried one bit about my own habit of never carrying spares for the past 20 years (I have had a few flat tires over the years, but always just slow leaks that I discovered in my driveway – an embedded nail or similar).
+
+Taking out unneeded seats in a van, trailer hitches or other cargo is also useful for a small boost. A full tank of gas at 8 pounds per gallon usually weighs over a hundred pounds too. Because of this, and because a full tank of gas lasts several months in my van (raising concerns about spoilage), I usually buy only a quarter or half a tank unless I’m heading out on a road trip.
+
+Aerodynamics are hard to change for the casual fuel-saver. You should definitely keep all roof racks off of your car except when actually using them on a trip – a typical rack wastes over $100 per year of fuel, but other than that there are not many easy ones to do.
+
+Enthusiasts, however, buy sheets of Coroplast plastic and attach them firmly to the underbelly of the car and over the rear wheel wells. These two things can significantly improve highway efficiency, although I have not had the motivation to go this far myself. Hypermilers also block at least part of the intake grille on the front of the car, which I have done. This improves aerodynamics and lets the engine run warmer – which sounds bad but is actually good in most cases if you read up on it. As a final trick, I sometimes flip in one or both of my external rearview mirrors when driving extremely long distances in extremely remote areas (for example crossing Wyoming at night). I can still see outside just fine with the internal rearview and my usual shoulder checks for lane changing. At high speeds, this saves a surprising amount of fuel – 2%.
+
+The Final Factors: Minimal Driving and Vehicle choice:
+
+The tips above will help an EPA-level driver slice their fuel costs by 25% without replacing their car or changing their driving habits. But of course we will go much further than that, since my own goal for you is to have transportation costs at least 75% below normal. To get to that level, you need to use a reasonable car and drive less, being sure to live within 10 miles of work, and bike or walk there most of the time. These are the most important factors, but they are rarely mentioned in newspaper and magazine guides, because the publishers don’t want to offend anyone (or may not even realize themselves that lifestyle change is possible).
+
+
+
+For anything other than massive family roadtrips or heavy load hauling, you should be driving a lightweight 4-cylinder vehicle with manual transmission. EPA rating of 25 or better in the city, 32 or better on the highway. If not, you’ve used excusitis to incorrectly justify getting yourself the wrong car. This may sound tough to you now, but as your frugality muscles become stronger it will become an easy choice.
+
+There are several hypermilers among the readers who are much more badass than me at the sport. We will probably hear from them in the comments. Hopefully their tricks and mine above will save all of you many gallons in the years to come, until we all finally switch to electric cars!
+
+* Shame on the Ultragauge company: Don’t be fooled by the misleading $59.95 price sticker. This device costs $80. (it is $69.95 plus about $10 of shipping, and there is a super-inconvenient mail-in rebate that actually requires you to do a test to get the refund. Even I didn’t bother to mail it in, as the time required worked out to a very low hourly return on the effort.) This is misleading, and the company deserves to suffer for it. But even thought the Ultragauge has a very crude and unpolished interface, and is expensive for something simpler than a wristwatch, it is still better and less costly than the ultra-pricey ScanGauge.

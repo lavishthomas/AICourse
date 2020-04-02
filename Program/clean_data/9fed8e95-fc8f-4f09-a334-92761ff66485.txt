@@ -1,0 +1,103 @@
+If you’ve been working with one client or one site for a long time, you know it can be challenging to keep things fresh, both from an idea perspective and also an interest perspective. After all, it’s no secret that one of the common reasons people love this industry is the constant change.
+
+That being said, while change keeps us on our toes, there’s also an element of consistency I love. Yes, the search results change and strategies evolve, but at the end of the day, search really comes down to creating something that’s accessible, useful and important to your customers.
+
+Enter keywords.
+
+I’ve talked about keywords plenty of times, and guess what? I’ll probably talk about them after today as well. Why? Because keywords are the foundation of any SEO program. They help us understand how our customers are searching and help us ensure we give those customers the information they want.
+
+Yeah, yeah, Casie. We get it. We know why keywords are important. Why are we talking about this?
+
+A client of mine who I’ve worked with for several years is launching a new site. A new site with a new design, new content, new URLs and more. While there’s always quite a bit of prep work that goes into a site transition (namely, not messing it up), it also presents a great opportunity to look at what’s currently there, what’s working and what opportunities exist.
+
+Which takes me to the concept of a keyword-focused SWOT analysis.
+
+Back in college, we had to perform a SWOT analysis for a business class — and to be frank, that’s really the last time I thought of it. Until I started really breaking down the client’s site and realized exactly what it was I was doing — I was analyzing their keyword S trengths, W eaknesses, O pportunities, and looking at potential T hreats that could result from the site updates.
+
+It really helped show me where the site was performing well, where we needed to adjust and where we needed to focus in the coming months. So, let’s break it down.
+
+1. Keyword performance data
+
+For each client, we have a set of keyword themes (or entities… whatever you want to call it). Within those themes, we have a set of keyword phrases that are most closely aligned with our audience.
+
+To start, I threw my core keywords into SEMrush, giving me positions and pages currently ranking.
+
+By understanding existing positions (or lack thereof) and the type of content ranking in the corresponding results, we can get an idea of our top-performing pages, the types of content driving traffic and where we have content gaps, and we can begin to identify where our strengths and weaknesses lie.
+
+2. Landing page performance
+
+Using the keyword data, I broke each page down by its respective terms and the positions associated to each term. With this view, I was able to see which pages currently do the best job targeting our core terms while also matching search intent.
+
+Of course, we have to go beyond simple rankings and look at actual page analytics data:
+
+What does the organic traffic look like to each page?
+
+Are the pages driving conversions?
+
+Are they driving people elsewhere on the site?
+
+What’s the bounce rate?
+
+If a page is ranking for a number of key terms but isn’t driving conversions or isn’t driving your audience down the funnel, it’s time to rethink the targeting and approach. We’ll come back to that.
+
+3. Search result landscape
+
+One of my favorite things to do (nerd alert) is to take a look through search results to really understand the type of content Google is associating to specific terms. By understanding not only the result (Maps, Shopping, Images, Answer boxes and so on) but the content contained within the result (product pages, blog posts, research and more), we get a much better picture of search intent and the type of content we need.
+
+As part of this analysis, I spent time evaluating the search results for each of the core terms. Factors included:
+
+type of results (ex: knowledge graph, answer box, local, images)
+
+types of sites (ex: news, business, blogs)
+
+strength of sites (ex: brand equity, domain strength, backlink profile)
+
+types of content (ex: product pages, blog posts, news articles)
+
+If we know the type of content associated to specific keywords/keyword themes, we can evaluate if we actually have that type of content, if our content is the right content, if we need new content or if we can enhance the content we have to better compete in the results.
+
+For example, if the result for a target keyword shows only question-based blog content, it probably doesn’t make sense to try and optimize a product page around that term. However, perhaps we have a blog post already addressing the query that can be enhanced. Now we’re thinking…
+
+4. SWOT time
+
+As with any analysis, making sense of the data is key to putting together a successful strategy and actually driving results.
+
+Using all of the data and information gathered above, I started to answer some of the most common questions associated to a SWOT:
+
+What do you do better than anyone else?
+
+In this case, what targets do we perform really well for? Which pages perform really well? Where do our strengths lie?
+
+What could you improve?
+
+There were a number of terms the site had no presence for at all. That’s easy. In other cases, pages were ranking but they really weren’t the right ones. Yes, they showed up in search results, but once the customer got to the page, they left.
+
+What good opportunities can you spot?
+
+Whenever I see an old blog post ranking for an important term, I immediately think about all the ways I can make that post fresh again. Does it contain any outdated information? Is it structured properly? Are there CTAs (calls to action)? Sometimes you find quick wins.
+
+Are there any trends we can identify?
+
+In doing this analysis, I found a glaring trend around answer boxes. Broad terms that had previously been more middle-of-the-funnel were now almost exclusively showing answer boxes, telling me that we needed more top-of-the-funnel content to compete.
+
+What threats can we foresee?
+
+In a site transition, this is really important. For top-performing pages, we need to ensure redirects are in place and content is kept in line with what currently exists, and, of course, we have to be prepared for the search engines to simply change their results.
+
+5. Put it all together
+
+Great news! We have all this data, we’ve laid out our SWOT, and now it’s time to do something.
+
+In this case, I started by answering the question, which opportunities are going to drive the biggest results?
+
+One thing we are constantly talking about at KoMarketing is time and resources. How do we make the most of the time we have? Which initiatives are going to have the biggest impact on performance?
+
+Based on the data, I broke down which assets we needed, which assets could be enhanced, which assets could be repurposed and where we needed to refocus. Once I had that list of items, I was able to prioritize the items and make a real plan that would work for the client and our team.
+
+Final thoughts
+
+Whether you’ve worked on a site for a day, a month, a year, or five years, there’s always something new you can learn when you really dig in. More importantly, there’s always something to pique your interest and get the idea engine running.
+
+Take the time to really evaluate your site on a keyword and page level. You never know what opportunities you may find — or when your college classes will come in handy.
+
+Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.

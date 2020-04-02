@@ -1,0 +1,163 @@
+What You'll Be Creating
+
+As a beginner, creating digital artwork intended for web use can sometimes get a bit frustrating, especially when you put a lot of time into a piece (be it an illustration, or maybe an icon), and then you suddenly realize that for some reason the final result didn’t come out all that crisp.
+
+This is something that all of us dealt with when we first started out using Adobe Illustrator, so this is why I decided to create this short article to help you out if you're looking for solutions to this problem.
+
+
+
+1. Vector vs. Bitmap
+
+Before we start, I would like to shed some light on the different standards that you, I and everybody else working as a designer needs to be aware of when we assume this line of work.
+
+There are two main types of images one will encounter while working as a creative tinkerer. One is Vector and the other one is Bitmap.
+
+A Vector image is composed of one or multiple objects made up of a varying number of anchors and paths that are virtually scalable to any degree the user wants or needs them to be, a process which occurs without any loss in quality.
+
+A Bitmap image, on the other hand, is composed of a series of fixed individual pixels aligned to a grid, which means that once an image is taken or created at a certain resolution, it will lose quality if its size is modified in any way (either upscaled or downscaled). This happens as the amount of pixel information (the actual number of pixels) is either reduced or forcefully enlarged, as some projects will require different sizes for different uses.
+
+Although shrinking an image won’t have such a powerful effect on its quality, enlarging it will most of the times result in a blurry, pixelated file. There are some programs like Perfect Resize that use special algorithms for optimizing the clarity and detail level of images that need to be enlarged, but for me this further emphasizes the lack of an important property that Bitmap has in comparison to Vector: quality-agnostic scalability.
+
+Both Vector and Bitmap are dependent on the medium in which they are used. As you probably know, a file can be displayed either digitally or printed out, the key difference being the way the image is reproduced. While printers are pixel agnostic, digital screens (PC monitors, phone and tablet screens, etc.) rely on resolution in order to compose and output any kind of images, whether it’s a Bitmap file or a Vector one.
+
+This poses a delicate problem in the way Vector images relate to the pixel grid onto which they are laid out, hence the divide between pixel perfect artwork and choppy-like ones.
+
+Luckily there are solutions that in my opinion should become standard rules to go by once you start working on any project, whether it is intended to be put on the web or printed out.
+
+2. Understanding How Adobe Illustrator Works
+
+Before you begin fixing something, you must first understand how that “something” works. Illustrator is a piece of vector-based software that uses mathematical algorithms to create and display the paths (whether they are closed or open) that we see, by using anchor points. These anchor points are simple points that you can manipulate in order to modify the size and shape of an object.
+
+The anchors themselves are not all that important, but the way you position them and the object they form on your Artboard (snapped or unsnapped) is, and that is why in the following steps I will talk about all the little things that help us create pixel-crisp looking artwork.
+
+3. Tweaking Illustrator’s Settings
+
+By default, Illustrator comes with a bunch of options and settings, most of which are predefined, so that you can start working as soon as you have it installed on your machine. For most people out there these work just fine, but once your workflow becomes more detail-oriented you will find that you need to tweak some of them to get your designs where you want them to be. In the following steps, I will take you through some of the basic things that I like to adjust each time I have a fresh install of Illustrator.
+
+Before we begin I would like to point out that these are personal preferences developed through a process of trial and error, and I will by no means label them as being “perfect” or “correct”—more like “suitable” to a pixel-perfect intended project. No one situation will fit the same pattern, but most times this will give you reliable solutions to adjust and adapt your workflow.
+
+Step 1
+
+Before we start adjusting our units, I want to take a second and compare the default value that Illustrator comes with (points) to the tweaked value we will be choosing (pixels) in order to see what sets them apart.
+
+Point
+
+From a typographic perspective a point (pt) is the smallest unit used for measuring font size, leading, indent, and the spacing before a paragraph.
+
+Pixel
+
+According to Wikipedia, from a digital imaging perspective, a pixel (px) is the “smallest addressable element” of a picture represented on a digital screen. As monitors and other device screens are meant to display images, we can also define a pixel as being the basic measurement unit by which we define the resolution of the device, and the size of the elements that are displayed onto it.
+
+So, we have two units but how are they different? Many articles describe the two as being equal (1 pt = 1 px) but only on a 72 ppi display as 1 pt = 1/72 inch which means that once you have a higher ppi device, the ratio between the two starts shifting. If you look at the two from a CSS perspective, the W3 Org states that 0.75 pt = 1 px.
+
+Apple wrote an entire entry on this in its iOS Developer Library page, trying to explain why using points as opposed to pixels helps when displaying images that will be rendered on lower and higher resolution devices.
+
+“For example, on a device with a high-resolution screen, a line that is one point wide may actually result in a line that is two physical pixels wide. The result is that if you draw the same content on two similar devices, with only one of them having a high-resolution screen, the content appears to be about the same size on both devices.”
+
+What they forgot to mention is that today, we have a significant number of manufacturers that have screens with different densities, which kind of makes the entire example a little fuzzy.
+
+Now you might be wondering, which one should you choose? I tend to lean towards pixels. Why? Let’s just say it’s a personal preference, and since I’ve been mainly creating illustrative artwork, I’ve never heard people complain that an illustration ended up having a thicker outline on their iPhone than on their PC.
+
+Also, pixels aren’t ppi dependent, and you can serve appropriate files to higher resolution devices by adjusting the ppi level when creating a New Document. Plus due to the large range of resolutions across different devices, I tend to believe that since 1 pt might be equal to 2 px on one of Apple’s devices, it might have a different value on a device from a different manufacturer that uses higher density displays.
+
+The decision is up to you. If you find that pixels work for you, than head on to the Units section of the Preference menu (Edit > Preferences > Units) and set both the General and Stroke values to Pixels. Since type is point-based, I recommend leaving it on its default value, as setting it to pixels won’t improve the clarity or the sharpness of the text.
+
+Step 2
+
+Once you’ve adjusted your units it’s time to tweak the Grid’s settings. I won’t talk too much about what a grid is as I have another article that explains everything you need to know about them. What I will say is that if you want to create sharp artwork then you should focus on setting up a super precise grid and working on it in collaboration with the Pixel Preview mode (which I will discuss more in a couple of minutes).
+
+To change the default setup, go to Edit > Preferences > Guides & Grid where you will find two settings that you need to take in consideration: the Gridline every option and the Subdivisions one. I’ve been using 1 for both values for some time now and I found that it was the best fit for my process no matter which project I was working on. Yes, you will have to be more attentive but heck, if you’re like me you will try and become as detail-oriented as possible.
+
+Step 3
+
+For all of us arrow key pushers out there, Illustrator has a neat feature that allows us to move objects around with a higher precision by using the keyboard’s directional arrow keys. Since we want everything to be as pixel precise as possible, we need to adjust the value so that at each one key press the object will jump exactly one pixel in the direction we told it to.
+
+The setting can be found under Edit > Preferences > General > Keyboard Increment.
+
+This is super helpful when we want to move objects around quickly and precisely over short distances.
+
+4. The Process
+
+Until now, I’ve talked about some of the tweaks that you can use to make Illustrator more precise, but as examples usually teach more than simple function descriptions, I will show you the process that I usually go through once I start creating something intended to be used for the web.
+
+Step 1
+
+Everything starts with our Document. If we pay attention to some of its basic settings we can make sure our artwork has a strong pixel-perfect foundation on which we can start building.
+
+Press Control-N (or go to File > New) and let’s take a look at some of the settings, starting with the Profile.
+
+Since we usually focus on creating pixel perfect stuff for the web, the Profile should be set to Web. By doing so, Illustrator will automatically adjust the Units to Pixels and the Color Mode to RGB (Red Green Blue).
+
+If you take a close look at the Size of our document you will notice that both its Width and Height have round values (960 x 560 px) and not decimal ones (960.5 x 560.38). But why? Well if you create an Artboard that has a Width of 960.5 px there will be a section on the right that doesn’t occupy entire pixels off the grid, and will instead cover about half of their surface.
+
+This is a no-no since we want Illustrator to Align New Objects to Pixel Grid. This function is really important as it instructs each newly created object to position itself correctly onto the Pixel Grid, making everything look sharp.
+
+So if, for example, we have a 960 x 560 px rectangle and we want to align it to the center of our decimal sized Artboard, it won’t be able to do so since the right and bottom sides won’t cover the entire surface of their underneath pixels.
+
+Some of you might think that this option should only be used with web intended content, but I think using it for print can add value as you will be working and positioning your anchors by a precise system, instead of flapping anchors all over the place.
+
+Quick tip: In case you accidentally start a project that is based on a decimal value width or height, you can fix the situation by using the Artboard Tool (Shift-O) to change the values to round ones but you should try and get the sizing right from the start, so that it won’t give you a headache later on.
+
+Step 2
+
+Once I’ve made sure that my document is set up correctly, I usually start working on my elements, making sure that each and every one of them uses round values for the width and height.
+
+As I demonstrated in the previous step, the same cover-the-entire-surface-of-the-pixel rule applies here too. If I want to create a sharp-looking shape, for example a square, I need it to have fixed values (for example 200 x 200 px), so that each side ends up covering exactly the same pixel number off the Artboard. By doing so I can create a shape that can be zoomed in at any percentage and still look crystal clear.
+
+If my square had been 200.4 x 199.9 px, Illustrator would have started applying an antialiasing effect onto the right and bottom sides since these wouldn’t cover an entire pixel, and by doing so, my element would have ended up looking fuzzy.
+
+Luckily for us, the good people over at Adobe offer a way of fixing these sorts of issues, by implementing the Align to Pixel Grid function found on the bottom side of the Transform panel. If you select the badly sized object and enable the Align to option, it will automatically change the square’s Width and Height to 200 px as this is the closest round value identified by the software.
+
+Quick tip: If the option isn’t visible, that’s because you need to activate it by clicking on the right down-facing arrow of the Transform panel and selecting Show Options.
+
+Step 3
+
+These are by far the most important features that Illustrator has to offer when it comes to creating pixel-perfect designs. Even though they both provide a similar function, there are a couple of key differences that set the two apart.
+
+Snap to Grid
+
+As the name implies, this option is directly related to the Grid that you have set up. The function can be activated by going to View > Snap to Grid (Shift-Control-”) and it basically instructs every single object from your Artboard to snap its edges to the nearest gridline intersections.
+
+Snap to Pixel
+
+The Snap to Pixel option behaves a little bit differently, as it does the snapping of the objects to the Pixel Grid which can’t be modified. The function is hidden until you switch to Pixel Preview (Alt-Control-Y) when it changes from Snap to Grid to Snap to Pixel.
+
+Though different, you can make the Snap to Grid act identically to the Snap to Pixel if you Gridline every 1 px, at a Subdivision of 1, which basically means creating the smallest grid possible, which is in fact the same size as the Pixel Grid.
+
+Step 4
+
+Used in collaboration with the Snap to Pixel option, this preview mode will be your biggest helper in the process of creating pixel-crisp artwork. It allows you to zoom in at the pixel level, and see exactly which parts of your design need touching up. I use it all the time, and it has helped me a lot. As I’ve already mentioned, the tool can be activated by going under View > Pixel Preview or by using the Alt-Control-Y shortcut.
+
+Step 5
+
+Once you're finished with the creative process, take a little bit of time and make sure that all the anchors are correctly snapped to the Pixel Grid. When you do find anchors that have jumped off, simply grab the Direct Selection Tool (A), select the appropriate anchor point, and then position it back to its nearest gridline intersection.
+
+You might think that using the Align to Pixel Grid option takes care of these sorts of problems, but from my experience, sometimes it tends to fail, and when it does I always rely on my trusty Direct Selection Tool (A) to fix them manually.
+
+Step 6
+
+The Bezier Handles are an important part of any vector software out there as they allow the user to modify the shape and orientation of any path (be it closed or open). The problem that most of beginners out there face when dealing with handles is that they usually tend to drag them all over the place, and by doing so almost always create shapes that look choppier.
+
+The secret is to make sure that the handles are dragged (while holding down Shift) either vertically, horizontally or at a 45° perfect diagonal, in such a way that their endings are aligned to one of the gridline’s intersections.
+
+Also, if the path you are tracing has a flat side, try to drag the handle so that it falls exactly onto the top section of that side without going over it.
+
+5. Dealing With Resizing
+
+When dealing with Pixel Perfect Artwork, resizing can be a real pain. If you try to select the object and drag one of the Bounding Box’s sides, it will enlarge or shrink it, but in the process of doing so it will also break things apart.
+
+A solution would be to use the Scale option (right click > Transform > Scale > Uniform), and use 50% increments, so values like 150%, 200%, 250% for enlarging and -50% for downscaling to half of its original size.
+
+This is why you should always plan ahead, so that you know the exact sizes that you need to design for.
+
+Quick tip: Even with this method you will see problems, especially when you have a large group of elements with round corners and curved paths. When that happens, you will have to ungroup and then adjust different elements at a time.
+
+6. Dealing With Rotation
+
+When you have rectangles, rotating them is fairly simple, as you can snap their anchor points back to the nearest pixel gridline. But what about rounded corner shapes, or curved paths?
+
+This is probably the most annoying part when aiming for pixel perfect objects, since in most cases it’s almost impossible to snap the anchors back to the Pixel Grid as it will surely affect the overall shape of the object. Usually when I have a rounded rectangle that needs rotating I apply the rotation and then leave the object as it is.
+
+That's It!
+
+If you follow these quick tips, you should be having no problems in creating beautiful crisp artwork ready for any device.

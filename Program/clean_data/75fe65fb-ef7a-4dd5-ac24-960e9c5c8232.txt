@@ -1,0 +1,41 @@
+The Single Number that Best Predicts Professor Tenure: A Case Study in Quantitative Career Planning
+
+February 17th, 2013 · 52 comments
+
+An Interesting Experiment
+
+How do people succeed in academia?
+
+I have notebooks filled with theories about this question, but I’ve increasingly come to realize that insights of this type — built on gut instinct, not data — are close to worthless. Most knowledge work fields are complex. Breaking into their upper levels requires a deliberate effort and precision that is poorly matched to the blunt, feel-good plans we devise in bouts of blog-inspired reflection.
+
+This was on my mind when, earlier this week, I went seeking empirical insight into the above prompt, and ended up designing a simple experiment:
+
+I started by identifying well-known professors in my particular niche of theoretical computer science. For each such professor, I studied their former graduate students. I was looking for pairs of students who earned their PhD around the same time and went on to research positions, but then experienced markedly different levels of success in the field. Once I had identified such a pair, I studied the first four years of their CVs — the crucial pre-tenure period — measuring the following variables: quantity of publications, venue of publications, and citation of published work in the period.
+
+Each such pair provided an example of a successful and non-successful early academic career. Because both students in a pair had the same adviser and graduated around the same time, I could control for variables that are largely outside the control of a graduate student, but that can have a huge impact on their eventual success, including: school connections, quality of research group, and the value of the adviser’s research focus.
+
+The difference in each pair’s performance, therefore, should be due to differences in their own strategy once they graduated. It was these strategy nuances I wanted to understand better.
+
+Here’s what I found…
+
+The successful young professors published a lot. On average, they published 25 conference papers during their first four years. The non-successful professors published only 10. (Recall, in computer science, it’s competitive conference publications, not journal publications, that matter.) There was, however, high variance in these numbers. I was struck more by the floor function: the successful professors all published at least 4 conference papers a year (with some, but not all, publishing quite a bit more).
+
+On average, they published 25 conference papers during their first four years. The non-successful professors published only 10. (Recall, in computer science, it’s competitive conference publications, not journal publications, that matter.) There was, however, high variance in these numbers. I was struck more by the floor function: the successful professors all published at least 4 conference papers a year (with some, but not all, publishing quite a bit more). Neither the successful nor non-successful professors strayed far from the key conferences in their niche. In theoretical computer science, each niche has its own publication venues, arranged in tiers of quality. There are also a small number of more general venues, which cover all of theoretical computer science, and which are quite competitive and prestigious. Neither of the groups I studied published much in the elite general venues. Both groups published mainly in the quality venues within their niche.
+
+In theoretical computer science, each niche has its own publication venues, arranged in tiers of quality. There are also a small number of more general venues, which cover all of theoretical computer science, and which are quite competitive and prestigious. Neither of the groups I studied published much in the elite general venues. Both groups published mainly in the quality venues within their niche. The biggest differentiating factor between the two groups was citations. For each professor, I counted the citations for their five most cited papers published during their first four years (according to Google Scholar). The difference was staggering. The successful professors’ most cited papers from this period received, on average, over 1000 references. For the non-successful professors, the number was closer to 60.
+
+As mentioned, I have notebooks filled with different strategies for succeeding in my research, with each such strategy focusing on a different element that struck me as important at the time.
+
+My above experiment sweeps these compelling sounding ideas off the proverbial table, and replaces them with an approach backed by data. What matters, it tells me, is something we can call: quality cited papers. In more detail, how many papers per year are you publishing that: (a) are in quality venues; and (b) attracting citations?
+
+This metric can tell me if I’m improving or not from year to year. Similarly, it provides clear feedback on which of my research directions should be dropped and which emphasized. When deciding whether to join a project, for example, I should start by estimating the expected impact on my quality cited papers value for the year. When deciding whether to apply for a particular grant, the same question should guide the decision.
+
+This metric, in other words, plays the role for a young professor that batting average plays for a young baseball player. You might not like what it has to say, but it’s saying what you need to hear.
+
+Quantitative Career Planning
+
+The above experiment is a case study of a bigger idea that intrigues me. In knowledge work, we spend shockingly little time trying to understand the reality of how people in our positions succeed. Perhaps, as I’ve argued recently, we prefer our own answers to the truth, as our answers tend to sidestep any efforts that are too hard.
+
+But it’s also possible that we simply need a better method for seeking these insights. The process above, which we can call quantitative career planning (a reference to the quantified self movement that encapsulates it), is an example of what these better methods might look like.
+
+(Photo by bytemarks)

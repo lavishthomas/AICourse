@@ -1,0 +1,29 @@
+Sundar Pichai at the company’s annual developer conference in Mountain View, California.
+
+Machine-learning experts are in short supply as companies in many industries rush to take advantage of recent strides in the power of artificial intelligence. Google’s CEO says one solution to the skills shortage is to have machine-learning software take over some of the work of creating machine-learning software.
+
+At Google’s annual developer conference today, Pichai introduced a project called AutoML coming out of the company’s Google Brain artificial intelligence research group. Researchers there have shown that their learning algorithms can automate one of the trickiest parts of the job of designing machine-learning software to take on a particular task. In some cases, their automated system came up with designs that rivals or beats the best work of human machine-learning experts.
+
+"This is a very exciting development,” Pichai tells MIT Technology Review, in an e-mail. “It could accelerate the whole field and help us tackle some of the most challenging problems we face today.”
+
+Pichai hopes the AutoML project can expand the number of developers able to make use of machine learning by reducing the expertise needed. This would fit in with Google’s strategy of positioning its cloud computing services as the best place to build and host with machine learning. The company is trying to lure new customers in the corporate cloud computing market, where it lags leader Amazon and second-place Microsoft (see “Google Reveals Powerful New AI Chip and Supercomputer”).
+
+Related Story Amazon Has Developed an AI Fashion Designer The retail giant is taking a characteristically algorithmic approach to fashion.
+
+AutoML is targeted at making it easier to use a technique called deep learning, which Google and others use to power speech and image recognition, translation, and robotics (see “10 Breakthrough Technologies 2013: Deep Learning”).
+
+Deep learning teaches software to be smart by passing data through layers of math loosely inspired by biology and known as artificial neural networks. Choosing the right architecture for a neural network’s web of math is a crucial part of making something that works. But it’s not easy to figure out. “We do it by intuition,” says Quoc Le, a machine-learning researcher at Google working on the AutoML project.
+
+Last month, Le and fellow researcher Barret Zoph presented results from experiments in which they tasked a machine-learning system with figuring out the best architecture to use to have software learn to solve language and image-recognition tasks.
+
+On the image task, their system rivaled the best architectures designed by human experts. On the language task, it beat them.
+
+Perhaps more significantly, it came up with architectures of a kind that researchers didn’t previously consider suited to those tasks. “In a sense it found something we didn’t know about,” says Le. “It’s striking.”
+
+Subscribe to Weekend Reads Our guide to stories in the archives that put technology in perspective. Sign Up Thank you — please check your email to confirm your subscription. Incorrect email format Manage your newsletter preferences
+
+The notion of software that learns to get better at learning has been around for some time. But like many ideas in the field of artificial intelligence, the power of deep learning is allowing new progress. Researchers at Google’s other AI research division, DeepMind, in academia, and the Elon Musk-backed nonprofit OpenAI are exploring related concepts (see “AI Software Learns to Make AI Software”).
+
+When asked if they are on track to put themselves out of a job, Le and Zoph laugh, though. Right now the technique is too expensive to be widely used. The pair’s experiments tied up 800 powerful graphics processors for multiple weeks—racking up the kind of power bill few companies could afford for speculative research.
+
+Still, Google now has a larger team working on AutoML, including on how to make it less resource-intensive. Le reckons it could help make video or speech recognition more accurate, or even lead to progress on the thornier problem of getting software to learn without explicit direction from humans (see “The Missing Link of Artificial Intelligence”).

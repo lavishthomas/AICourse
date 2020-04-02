@@ -1,0 +1,147 @@
+One of the more popular topics here on the GDNet forums goes something like this:
+
+
+
+"Hi, I just [bought a computer | wrote a simple game | discovered a game engine] and I want to know where to go from here. I'd like to [accomplish some particular goal] eventually. What do I need to learn to get there?"
+
+
+
+First of all, understand that Peter Norvig nailed this on the head a long time ago: it takes ten years to learn to be a programmer. There's a glut of "learn X in some small number of days" type books out there; there are hordes of blog posts about "how to improve your programming-fu in a few easy ways"; and in general a lot of people come around looking for advice on how to become a whiz with minimal effort.
+
+
+
+I'm going to change up the pitch a bit. Instead of Five Easy Ways to Make Your Code Amazing in 21 Days, I'm going to tell it like it is. Welcome to How to become a good programmer in six Really Hard steps.
+
+
+
+
+
+
+
+Step One: Suck It Up. Get in it for the long haul, or take up bird watching.
+
+Sure, you can fiddle around and make nifty shell scripts and maybe a small game or four; if you're content with a limited skill set, by all means, go for the fast-and-easy route. I'm not trying to diminish the legitimacy of that option at all - some people don't have the time (or even the desire) to become a master programmer. If you don't relish the idea of practising this craft for ten years before you get good at it, then don't bother - but don't be fooled, you'll always be limited in what you can do and do well. If that is a reasonable trade-off for you, cool! You don't need to finish this article.
+
+
+
+For the rest of us, though, there's something alluring about getting Really Good at programming. We want to be experts, ninjas, gurus - whatever noun of superlative mastery strikes your fancy. For us, ten years seems like a reasonable investment. Maybe a bit hefty, but hey, if it's worth doing, it's worth doing right... right?
+
+
+
+So the first step to being a really good programmer is to bite the bullet. Accept that this is not just a ten-year process, but a lifetime process. And as Norvig so rightly notes, do it because you want to. Nobody becomes exceptionally good at doing something they'd rather not be doing; the world record holders don't make it into the history books because they kind of accidentally ate the most hotdogs ever in one sitting, but didn't actually feel hungry that day.
+
+
+
+
+
+Step Two: Write Lots of Code
+
+It doesn't have to be good code. It won't be good code, for a long time. Just crank stuff out. Any time you encounter a small annoyance in your daily computer life, think about how you could write a program to help solve that problem. Any time you find something interesting that you want to experiment with, do it. Play with new concepts and tools and languages, as much as possible.
+
+
+
+The learning process is never going to stop, so if you approach this with the attitude that you get the most mileage out of cramming as much learning as you can into a given day, you will go far. Get into the mentality that a day/week/month in which you have not learned something interesting is a failure. There's enough stuff out there that you surely can learn something cool every day; this gets harder after the fifteen-year mark or so, but it's still totally possible. No one mortal can assimilate all of the knowledge there is in the world about programming, so if you ever feel like you've run out of stuff to learn, find a new project and write more code.
+
+
+
+While you're doing this, pay attention. Look for patterns - things you do often that might be useful to automate, or things you write a lot in your code that you might be able to separate into shared libraries or other centralized locations. Look for languages that make certain tasks easy. Look for other languages that aren't so good at those same tasks, and figure out why one is more productive than the other.
+
+
+
+But most of all: write code. Every day, even if it's just a regular expression to search through your email history or something. Do something programming-ish as often as you can. And remember, if this stops being fun, go do something else; there's no point in this if you aren't enjoying yourself.
+
+
+
+
+
+Step Three: Read Even More Code
+
+Once you have a small body of projects accumulated, start reading other people's code. At first, it will be difficult; they will do things you haven't seen before, or use styles you aren't used to, or even languages you haven't learned. If you find something cool, read its code if at all possible. Don't worry about deeply analyzing any given project, at least not at first; it can be a full-time job just to understand existing code bases like those of many large projects. Pick one or two things that you wish you could learn how to do, and find out how they were done.
+
+
+
+Reading new code exposes you to ways of thinking that are new, and this helps stretch your brain. Stretching is vital to keeping up progress, and it will help ensure that as you go along you keep discovering new stuff to learn.
+
+
+
+Be sure to talk to other programmers, too. Ask how and why they did certain things. Ask if they would do things differently in retrospect. Ask if they have any suggestions for your code. (But be polite; a lot of high-profile programmers are extremely busy and don't necessarily have the time or inclination to dredge through other people's work for free. Respect will carry you a long way; this is a tight-knit industry and reputation means a lot.)
+
+
+
+
+
+Step Four: Learn Many Languages. Master a Couple.
+
+You will not have a practical surplus of time, at least not enough to master many languages simultaneously, unless you are exceedingly lucky. Therefore, learn as many languages as you can at a shallow level - enough to learn what makes them tick, what makes them good at their specific jobs, and what their weaknesses are. Stretching is important here; don't just stick to imperative languages like C, or "object oriented" languages like Java, or whatnot; expand into functional languages and declarative languages as well.
+
+
+
+Learn a Lisp dialect. This is why. It won't do anything for your day-to-day programming because you aren't going to use it; but it will make you a better thinker, and it will give you a deep understanding of the beauty of simple recursive systems. Stick with it until the "aha!" moment occurs; until then, it will seem like a soup of weird syntax and bizarre conventions. After that, it will remain with you for the duration of your career as one of the most astoundingly elegant concepts ever devised by mankind.
+
+
+
+Then, learn a purely functional language. I recommend Haskell for this, because it forces you to be pure in ways that other functional languages (including most Lisp dialects) do not. You will have to bend your mind a bit, but once the inevitable "aha!" moment occurs (sometime around the point where you understand the purpose of monads, in my experience) you will again move forward a level in your thinking and ability to design elegant systems.
+
+
+
+Finally, learn a declarative language. SQL counts, although it's a bit weak-sauce to just learn SQL. Prolog is often recommended but isn't necessarily hugely accessible. In the realm of the practical, XAML, XSLT, and XQuery are good tools to know and will introduce you to the concepts behind declarative programming. (In a nutshell, you tell the computer what you want it to do, and it figures it out; this is in direct contrast to imperative programming, where you tell the computer how to do things and hope it does the right "what", and functional programming, in which you describe transformations of data and types.)
+
+
+
+As a bonus, learning XML-based tools after you learn a Lisp dialect will make it painfully obvious how desperately hard XML is trying to reinvent s-expressions, and just how poor a job it does.
+
+
+
+
+
+Step Five: Create a Language.
+
+It doesn't have to be complex, or rich, or sophisticated, or even particularly elegant. It doesn't even have to be original; I often suggest writing a Lisp interpreter (bonus points for doing this in a Lisp dialect!) as a good way to learn the basics. In essence, you want to get a feel for the fundamentals of computer programming design: lexing, parsing, compilation, interpretation, virtual machines, and the myriad ways in which basic design decisions in a language affect how useful it is for various tasks.
+
+
+
+This will accomplish three things for you:
+
+You will gain a deeper understanding of how your tools of choice work, which will give you the ability to be more effective with them. You will start to see reasons behind the design decisions of major languages and tools, which will both fascinate and irritate you (if you do it right). This insight will help you choose your tools more effectively when starting new projects. You will glimpse the untapped possibilities that still exist in the creation of tools and languages, and hopefully, open your horizons to a host of new opportunities for cool things to learn about and experiment with.
+
+
+
+Step Six: Learn Something That Nobody Else Has Learned Yet
+
+This is the hardest and final step. Up until now, you have primarily been learning things that are already known; things that you can find out by reading other people's code, or books, or academic papers; things that are good to know, but not novel.
+
+
+
+Now it is time to break free of the boundaries and truly ascend to mastery. Now it is time to blaze a trail into territory that nobody else has ventured into yet.
+
+
+
+Make no mistake; this is something you won't want to tackle until well after your "tenth year" of experience, mainly because until then you are far more likely to just be reinventing a wheel than actually doing original, novel research. But once you have a good grasp on the field, it isn't exactly difficult to find the sweeping frontiers of untapped knowledge that await computer science.
+
+
+
+Chances are, this will take you another ten years, if not forever. Don't give up; remember, this should still be fun. If at any point in time you stop enjoying it, go do something else. Life is far too short to waste time trying to do something you don't want to do anymore.
+
+
+
+Not everyone will succeed here, but everyone who makes an attempt will benefit from the effort. Don't let the odds get you down. Even if you never win the Turing Award, your continued growth as a programmer and your journey towards ultimate mastery depends on you constantly stretching - and, to that end, tackling hard, unsolved problems is the best way to stretch.
+
+
+
+
+
+Congratulations! You are now a good programmer!
+
+Oh wait... actually, you just died of old age. Sorry. Better luck next life!
+
+
+
+In all seriousness, though, don't expect to ever finish. The instant you stop making forward progress in your journey, you start to die, and become irrelevant. Some of the saddest failures I've seen in the world of programming stem from people who got a certain way down the path and decided they were done learning; to a man, they are now completely unimportant in the software world, and will likely never move beyond their current situation - unless, of course, they decide to start learning again.
+
+
+
+Now, go forth, and code! Maybe someday when you're a great programmer, you can tell me how you did it.
+
+
+
+I'd love to learn.

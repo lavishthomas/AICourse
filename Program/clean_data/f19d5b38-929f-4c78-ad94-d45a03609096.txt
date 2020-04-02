@@ -1,0 +1,11 @@
+At LinkedIn, we have an internal tool for visualizing operational metrics that we call inGraphs. Since I started working for LinkedIn almost four years ago, I’ve been snapshotting inGraphs that I thought were interesting—the ones that had helped to solve a problem, demonstrated a particular pattern, told an interesting story, or just plain looked cool. In January 2016, my “stash” reached critical mass, and I decided to start publishing these inGraphs to an internal blog called “inGraph of the Week” (igotw). As the name suggests, once a week I post one or more inGraphs that I find noteworthy for any (or all) of the reasons noted above.
+
+Given the widespread familiarity with inGraphs across LinkedIn Engineering, this internal blog has become incredibly popular at LinkedIn. One of the best parts of running igotw is that not only do our posts show off cool things that have been observed using our network monitoring systems, but the posts also encourage familiarity with the tool and knowledge sharing within LinkedIn.
+
+From first post, the response I’ve received has been overwhelmingly positive. Often comments take the form of “Hey, this is awesome, you should post these publicly.” My response is generally “Yeah, I should! Maybe tomorrow…” Well, today is Tomorrow! Below are a handful of examples of the kinds of things I typically post. They have some sensitive information stripped out, but should still be demonstrative of some of the interesting aspects of inGraphs.
+
+Solving problems using patterns
+
+The primary function of inGraphs is to provide operational insight into LinkedIn services. Alongside logs, it is the go-to tool for resolving incidents "in the moment" as well as understanding what happened after the fact. One way of going about this is to look for deviations from a historical norm, and, frequently—in fact, so commonly that it's a recurring theme of igotw posts—there are specific patterns to look out for. One such pattern is The Plateau.
+
+The Plateau is typically a negative pattern—one that you do not want to see. Let's explore an example of when you don't want to see it by taking a look at a couple of inGraphs:

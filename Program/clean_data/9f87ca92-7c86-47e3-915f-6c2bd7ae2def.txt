@@ -1,0 +1,13 @@
+Earlier this month, Apple made a splash when it told the artificial intelligence research community that the secretive company would start publishing AI papers of its own. Not even a month later, it's already starting to make good on that promise.
+
+Apple has published its very first AI paper on December 22. (The paper was submitted for publication on November 15.). The paper describes a technique for how to improve image recognition training using computer-generated images rather than real-world images.
+
+In machine learning research, using synthetic images (like those from a video game) to train neural networks can be more efficient than using real-world images. That's because synthetic image data is already labeled and annotated, while real-world image data requires somebody to exhaustively label everything the computer is seeing -- that's a tree, a dog, a bike. But the synthetic image approach can be problematic as what the algorithm learns doesn't always carry over neatly to real world scenes. The synthetic image data "is often not realistic enough, leading the network to learn details only present in synthetic images and fail to generalize well on real images," the paper from Apple says.
+
+To improve training with synthetic image data, the paper suggests what the Apple researchers call Simulated+Unsupervised learning, where the realism of a simulated image is boosted. The Apple researchers use a modified version of a new machine learning technique called Generative Adversarial Networks, which pits two neural networks against each other and has been used to generate photorealistic images.
+
+The paper's lead author is Apple researcher Ashish Shrivastava, who holds a PhD in computer vision from University of Maryland, College Park, according to his LinkedIn. The other Apple employees listed as co-authors on the paper include Tomas Pfister, Oncel Tuzel, Wenda Wang, Russ Webb and Josh Susskind, who co-founded an AI startup that assessed a person's emotions by looking at facial expressions called Emotient, which Apple acquired earlier this year.
+
+Apple's first AI paper marks a major step for the company. For years, the AI research community has been critical of Apple's secretiveness. Its secrecy has even hurt the company's recruiting efforts for AI talent. The move towards more openness with the community is important for Apple as the push for more advanced AI software spreads across the tech industry. AI software is becoming essential for everything from the camera capabilities in Apple's latest iPhones to the internet services running in the data center.
+
+I've reached out to Apple for comment.

@@ -1,0 +1,45 @@
+Website:
+
+BulldozAIR Category:
+
+Enterprise Software Founders:
+
+Ali El Hariri
+
+Maxence Lerigner
+
+YC : How did the idea for BulldozAIR come about?
+
+Ali : While managing construction sites in Europe I realized we were missing a tool for managing onsite tasks. In order to track tasks, we would use a combination of Excel, Post-Its, and a whiteboard. I’d spend three hours each day commuting between sites to check on progress and catalog all the unexpected tasks that came up that day. That’s when I decided we needed to bring this aspect of construction management online.
+
+YC : Can you walk me through how BulldozAIR works?
+
+Maxence : If you’re managing construction & maintenance for your company you go through your sites to make sure works are going as planned. If you find an issue, you simply take a photo with your smartphone, add technical details to it (measures, sketches, indoor or outdoor geolocation…), and then create an outstanding issue in our app. From there the task is assigned to the right contractor with a specific deadline. It’s like Asana but visual and made for handling millions of tasks.
+
+Ali : Even though construction tasks are planned, each project is a prototype that pops up several thousand unexpected tasks. On a typical two year project an average of 50 companies or subcontractors are involved. This creates latency that compounds over time, which is why 98% of all construction projects go over budget or are delayed.
+
+YC : Wow, that’s a pretty big problem. Do all the 50 other companies have to integrate with BulldozAIR?
+
+Maxence : BulldozAIR is used by individuals to generate activity reports that are sent by email. It’s used in small teams to collaborate over their tasks internally. External contractors can also be added and get notified of their work. However, there are tasks that need to be shared externally so we generate automated reports that get sent to these companies. All of these reports are archived, which becomes useful from a legal standpoint. Previously, this constituted a grey area because of liability issues but now there’s a clear record that the issues was identified and addressed from the construction company.
+
+You can deploy it very easily even as an individual without having to change everyone’s habits. In this case, BulldozAIR generates customized and visual tasks reports that are sent by email to your contractors.
+
+Ali : BulldozAIR is also used by teams in a collaborative way to accelerate tasks resolution cycles and increase transparency. All of the information that is archived becomes useful from a legal and contractual standpoint. Previously, this constituted a grey area because of liability issues but now there’s a clear record that the issues were identified and addressed from the construction company.
+
+YC : It sounds like reporting these issues is a big deal.
+
+Ali : Absolutely. I would spend two days per week assembling all this construction data to form these reports. I’d have to dig through emails, contracts, and internal reports in order to draft something up for all external parties. It was really painful because all theses tasks ended up in 50 page reports that nobody read, which is why we’ve made our reports more visual.
+
+Maxence : I also want to mention that we work with construction teams across several sectors--like energy, oil and gas, and retail. These are all large companies with very different workflows. A railway company uses our software to manage works in their 3000 train stations while an oil company uses us for quality control in their refineries internationally. The companies we work with have very different workflows but our software is able to handle both the number of users and the variety of tasks without any code modification.
+
+YC : It’s pretty common to face long sales cycles when you’re working with large companies. Is this something you also face?
+
+Ali : Yeah, that’s pretty common but we’ve found a way to shortcut this. The teams that we initially start with are somewhat large. From day 1, we work with 100 people in construction teams which is large enough to cover all their different types of workflows and show the company that BulldozAIR is already scalable.
+
+Maxence : It’s a really helpful way to spread our software. The teams using our software will vouch for how we make their lives more efficient and start to incorporate the rest of the company. And since they work with tons of contractors our software eventually spreads to them too. This method was a really good way for us to target both big name companies as well as SMEs.
+
+YC : That’s awesome. How do you see BulldozAIR evolving?
+
+Ali : The most valuable asset for companies working on the field is skillful people they can rely on. Those rare people have generally decades of experiences and saw a lot of mistakes over time. They practiced how to predict and solve issues to literally save millions of dollars for their companies. Our long term mission is to collect and analyze millions of field issues, then predictively share this knowledge in actionable tasks. Doing that, any type of field work could become as efficient as if it was handled by a dream team of super experienced workers.
+
+Sign up for weekly recaps of The Macro.

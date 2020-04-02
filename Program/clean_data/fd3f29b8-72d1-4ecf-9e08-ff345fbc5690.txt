@@ -1,0 +1,53 @@
+Google is a more powerful tool than most people realize. You can get much more refined searches with Google’s built-in tools, advanced operators, and third-party extensions. You can also use it for some pretty cool stuff if you know the right tricks. Here are 10 of our favorite lesser known tricks and features.
+
+10. Use Google to Search Certain Sites
+
+If you really like a web site but its search tool isn’t very good, fret not—Google almost always does a better job, and you can use it to search that site with a simple operator. For example, if you want to find an old Lifehacker article, just type site:lifehacker.com before your search terms (e.g. site:lifehacker.com hackintosh ). The same goes for your favorite forums, blogs, and even web services. In fact, it’s actually really good for finding free audiobooks, searching for free stuff without the spam, and more.
+
+9. Find Product Names, Recipes, and More with Reverse Image Search
+
+Google’s reverse image search is great if you’re looking for the source of a photo, wallpaper, or more images like that. However, reverse image search is also great for searching out information—like finding out who makes the chair in this picture, or how do I make the meal in this photo. Just punch in an image like you normally would, but look at Google’s regular results instead of the image results—you’ll probably find a lot.
+
+Clever Uses for Reverse Image Search Reverse image search is one of those handy innovations that's often hard to come up with… Read more
+
+8. Get “Wildcard” Suggestions Through Autocomplete
+
+A lot of advanced search engines let you put a * in the middle of your terms to denote “anything.” Google does too, but it doesn’t always work the way you want. However, you can still get wildcard suggestions, of a sort, by typing in a full phrase in Google and then deleting the word you want to replace. For example, you can search for how to jailbreak an iphone and remove one word to see all the suggestions for how to ____ an iphone .
+
+7. Find Free Downloads of Any Type
+
+Ever needed an old Android app but couldn’t find the APK for what you were looking for? Or wanted an MP3 but couldn’t find the right version? Google has a few search tools that, when used together, can unlock a plethora of downloads: inurl , intitle , and filetype . For example, to find free Android APKs, you’d search for -inurl:htm -inurl:html intitle:”index of” apk to see site indexes of stored APK files. You can use this to find Android apps, music files, free ebooks, comic books, and more. Check out the linked posts for more information.
+
+How to find ebooks using Google Web site Hotniss.com Tech Recipes posts a sample query using some clever Google-fu to find e-books… Read more
+
+6. Discover Alternatives to Popular Sites, Apps, and Products
+
+You’ve probably searched for comparisons on Google before, like roku vs apple tv . But what if you don’t know what you want to compare a product too, or you want to see what other competitors are out there? Just type in roku vs and see what Google’s autocomplete adds. It’ll most likely list the most popular competitors to the roku so you know what else to check out. You can also search for better than roku to see alternatives, too.
+
+5. Access Google Cache Directly from the Search Bar
+
+We all know Google Cache can be a great tool, but there’s no need to search for the page and then hunt for that “Cached” link: just type cache: before that site’s URL (e.g. cache:http://lifehacker.com ). If Google has the site in its cache, it’ll pull it right up for you. If you want to simplify the process even more, this bookmarklet is handy to have around. It’s great for seeing an old version of a page, accessing a site when it’s down, or getting past something like the SOPA blackout.
+
+4. Bypass Paywalls, Blocked Sites, and More with a Google Proxy
+
+You may already know that you can sometimes bypass paywalls, get around blocked sites, and download files by funneling a site through Google Translate or Google Mobilizer. That’s a clever search trick in and of itself, but just like Google Cache, you can make the process a lot faster by keeping a few URLs on hand. Just add the URL you want to visit to the end of the Google URL (e.g. http://translate.google.com/translate?sl=ja&tl=en&u=http://example.com/ and you’re good to go. Check out the full list of proxies, along with bookmarklets to make them even easier, here.
+
+3. Search for People on Google Images
+
+Some people’s names are also real-world objects—like “Rose” or “Paris.” If you’re looking for a person and not a flower, just search for rose and add to &imgtype=face the end of your search URL, as shown above. Google will redo the search but return results that it recognizes as faces!
+
+Advertisement
+
+Update: Reader unclghost kindly pointed out that we’re working with outdated information here—this trick is now built into Google’s UI! Just head to Search Tools > Type and you can choose from faces, photos, clip art, line drawings, and even animations. Thanks for the tip!
+
+2. Get More Precise Time-Based Search Results
+
+You’ve probably seen the option in Google that lets you filter results by time, such as the past hour, day, or week. But if you want something more specific—like in the past 10 minutes—you can do so with a URL hack. Just add &tbs=qdr: to the end of the URL, along with the time you want to search (which can include h5 for 5 hours, n5 for 5 minutes, or s5 for 5 seconds (substituting any number you want). So, to search within th past 10 minutes, you’d add &tbs=qdr:n10 to your URL. It’s handy for getting the most up-to-the-minute news.
+
+1. Refine Your Search Terms with Advanced Operators
+
+Okay, so this isn’t so much a “clever use” than it is a tool everyone should have in their pocket. For everything Google can do, so few of us actually use the tools at our disposal. You probably already know you can search multiple terms with AND or OR, but have you ever used AROUND? AROUND is a halfway point between regular search terms (like white teeth ) and using quotes (like “white teeth” ). AROUND(2), for example, ensures that the two words are close to each other, but not necessarily in a specific order. You can tweak the range with a higher or lower number in the parentheses.
+
+Advertisement
+
+Similarly, if you want to exclude a word entirely, you can add a dash before it—like justin bieber -sucks if you want sites that only speak of Justin Bieber in a positive light. You can also use this to exclude other parameters—like excluding a site you don’t like ( troubleshooting mac -site:experts-exchange.com ). Check out our guide to tweaking your Google searches for more of these tips, and you can also find a pretty solid list over at weblog Marc and Angel Hack Life. Search on!

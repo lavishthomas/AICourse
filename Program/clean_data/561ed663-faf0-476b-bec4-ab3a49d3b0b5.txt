@@ -1,0 +1,57 @@
+Four years ago, when the first unicorn count took place, there were 39 startups on the list, only one of them a hardware company. Today the world has some 213 unicorns, and 18 of those are hardware startups. Considering hardware accounts for only a small percentage of the world’s tech startups, that’s an impressive number.
+
+Further, while historically few investors have tended to fund hardware startups, we are now seeing hardware investments increase, so we can expect to see unicorns emerging more rapidly from this sector over the coming few years.
+
+Here’s a look at the current set of 18:
+
+Clearly, consumer hardware unicorns dominate — at least for now. The most original of these are Peloton, which sells spinning bikes combined with video classes, and Proteus Health, which provides “ingestible” sensors for health monitoring. Magic Leap has raised enormous amounts (over $1 billion) but has yet to ship its revolutionary mixed-reality product, seemingly bogged down by costs and technical limitations.
+
+In the B2B space, View has developed dynamic windows for buildings, and SigFox is attempting to dominate the IoT networks space, collaborating and competing with telcos and other equipment providers.
+
+The U.S. trails China
+
+As you can see from the above graphic, China leads in this segment and is home to 11 of the 18 hardware unicorns. DJI rules consumer drones, while smartphone giant Xiaomi has supported the rise of five of its portfolio companies to unicorn status, including personal mobility company Ninebot, who now owns Segway.
+
+The rise of bike-sharing startups Mobike and Ofo to unicorn status is also nothing short of spectacular: They are a mere three years old! In addition to highlighting the rapid change in China’s consumer behavior with both transportation and payment, they also herald a new era of Chinese giants with global ambitions, as both companies are already expanding overseas.
+
+China benefits immensely from its strong domestic market, unparalleled manufacturing ecosystem, widespread tech talent, and booming investment scene (Chinese venture capital represented over 35 percent of the world’s total in Q1 2017, according to Dow Jones data).
+
+Most exciting is what’s coming next
+
+While the current number of hardware unicorns is nothing to scoff at, more are on their way. Since 2014, the number of hardware startups that have raised over $100 million has more than quadrupled from 8 to 36. Here, too, Chinese startups are remarkably present, representing almost a quarter of the total.
+
+Startups have also diversified: Fitbit, GoPro, Nest, Beats, and the now-bankrupt Jawbone were cool five years ago; the new wave includes:
+
+A.I. companies using hardware like Anki and Mobvoi
+
+3D printers with high resolution and advanced materials like Carbon and Desktop Metal (Makerbots are fun but limited to low-res plastic)
+
+Advanced robotics startups like Rethink Robotics, UBTech, and Roobo
+
+And even two vertical farming companies: Plenty and AeroFarms.
+
+Many of these could achieve unicorn status within a year or two. And there are many more that have already raised dozens of millions and will be part of the following wave.
+
+Public markets love hardware
+
+A few hardware startups might fly under the radar of unicorn hunters as they head straight to public markets. Why? Because the growth of successful hardware companies is often more steady than explosive, which attracts fewer private investors, save a few specialists.
+
+But hardware often means revenue. And while revenue sometimes sounds like blasphemy in the software world, it is attractive to public investors. Some hardware companies are thus tapping early into public markets.
+
+Several robotics companies have followed the path of iRobot, maker of Roomba, whose market cap has more than doubled over the past year to $2.8 billion. Among them: Balyo, which makes autonomous forklifts, Aquabotix, which makes underwater drones, and Fastbrick Robotics, which makes brick-laying robots for construction.
+
+Bionics companies Ekso, ReWalk, and Cyberdyne all went public. Cyberdyne is listed in Japan with a staggering market cap of $1.8 billion.
+
+The Regulation A+ of the JOBS Act also allowed “mini-IPOs” up to $50 million, and Myomo, a robot prosthetics company, Knightscope, a security robot company, and Kindara, which makes female fertility tracking apps and devices, have gone public this way. [Full disclosure: Kindara is a HAX portfolio company.]
+
+Last, Lampix this month was the first hardware startup to complete an ICO. The company makes a projection lamp that claims to turn any surface into a smart surface. It sold over $15 million worth of its PIX tokens, used to reward “image miners” who contribute and tag data.
+
+It’s steam engine time!
+
+Fitbit (2007) was part of the first wave of well-backed hardware startups 10 years ago, and Anki (2010) and Plenty (2014) were part of the second wave. The third wave is building now and is at most three years old. Based on investments made since 2014, we should expect to see lots of health tech devices and enterprise solutions among the next batch of unicorns. The former will not just track metrics but will use big data, machine learning, sensors, and more to prevent and heal — real digital therapies, competing with big pharma. The latter will save time and money through predictive maintenance and damage prevention (such as fire, flooding, or break-in prevention at commercial buildings), optimizing resources, and automating tasks with A.I. and dedicated robots.
+
+What I see coming is an amazing variety, truly forming a new industrial revolution. In a 2012 interview, sci-fi writer William Gibson, who coined the word “cyberspace”, said he caught the Internet wave with his writing because it was “Steam Engine Time.” It’s that time again, with hardware.
+
+For more details on the overall hardware market, you can access the annual HAX Hardware Trends 2017 report my team wrote up recently here.
+
+Benjamin Joffe is a partner at hardware investor HAX, part of SOSV.

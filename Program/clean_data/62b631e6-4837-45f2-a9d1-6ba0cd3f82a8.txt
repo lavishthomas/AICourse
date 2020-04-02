@@ -1,0 +1,181 @@
+Everything a product manager needs to know about analytics
+
+BY SIMON CAST ON FEBRUARY 20, 2013
+
+Everyone knows analytics are important for product managers. But, like lots of things everyone knows, not everyone knows why they are important and in the case of analytics even necessarily what they are. This post is going to look at:
+
+What exactly are analytics? Concepts of analytics Implementing analytics Measuring analytics Reporting analytics Analytics and experimentation
+
+What exactly are analytics?
+
+Put simply, analytics measure the state of the product, what users are doing, what they are clicking on, etc. These measurements tell us what is going on with the product, although not necessarily why this is going on. A measurement by itself tells you very little and is not analytics. It is only when a series of measurements are collected together that they become analytics.
+
+To illustrate the difference, consider this example. The temperature of an object is a measurement, but only becomes analytics once you include things like the position, velocity, composition, temperature of the environment, etc. Combined with these other measurements the temperature of the object can now tell you what is happening to the object. Let’s say the velocity is 0, the position is 1 metre off the ground and the temperature of the surroundings is the same. We can now say that the object is stationary, 1 metre off the ground at the same temperature as the surroundings.
+
+The more independent measurements you have the better you can characterise the state of the system or how people are using your product.
+
+Why are analytics important?
+
+Analytics are important for one major reason: What you don’t measure, you can’t improve.
+
+Without knowing what the state of the system is, it is very hard, if not impossible, to do much to change or affect the system. You can, of course, make changes blind, but without analytics you will never know whether the system was changed or whether nothing happened. It allows you to see what is currently happening, make a change and see what effect the change has.
+
+Analytics only tells you what is going on and not why it is going on. Without analytics it is down to random chance whether your product will succeed or fail.
+
+Analytics Concepts
+
+Within analytics there are a key set of concepts that need to be understood in order to derive the best value from both analytics and metrics. These concepts are focused on interpretation of the data so that you can gain insight.
+
+The four concepts are:
+
+Data points
+
+Segmentation
+
+Funnels
+
+Cohorts
+
+Data points
+
+Data points are the individual points of collected data that are measurements of particular items within the platform. Analytics rests on collecting the right data points. Along with the individual measurement a data point also includes the date and time the measurement was made. This allows you to plot trends and separate individual measurements from one another.
+
+Segmentation
+
+Segmentation is about grouping together people by a common characteristic and seeing what the usage patterns of the product are as a group. The characteristic can theoretically be anything (eating pomegranates on Sunday afternoon at 3pm for example is a valid if unlikely segment), but there are a set of common ones that are primarily used. These common ones include, but are not limited to:
+
+Technical (e.g. broswer, OS, device)
+
+Behavioural (e.g. new or returning)
+
+Demographics (e.g. language, country etc)
+
+If you are going to use custom segmentation remember the characteristic has to be measurable. If you can’t measure it then there is no point in trying to create a segment. Gender is a good example. It can be very hard to measure unless you specifically ask for it in a profile.
+
+Segmentation slices the analytics, allowing underlying patterns in behaviour and usage to be oberved, rather than be hidden by noise and averaging. For example, while the average page views for visitors is 2, add the segmentation of new vs returning and a pattern of new visitors having an average page views per visitor of 1.2 emerges, with returning visitors having an average 3.4 page views per visitor. A real world example is the difference I found between high influencers and low influencers when using PeerIndex. Low influencers where much more willing to send tweets and invites while the high influencers didn’t. The patterns were different enough to warrant changes to tailor the features to different levels of influence.
+
+Segmentation allows for focusing your analysis on the groups of users that are of most importance to the system. For example, if the users most important to your product are in the US and UK, a segment allows you to see what they are doing and optimise the product to suit their needs, rather than the global population. When doing experiments with segmentation on conversion rate, I found that the conversion rate for the US and UK was lower than the average. As the initial experiments were global the lower target market conversion rate was hidden by the average.
+
+Funnels
+
+Users don’t just do something in isolation. Instead, they perform a series of actions to accomplish a task or goal, be it registering or checking out a cart. These flows or user journeys can be measured using funnels. A funnel is made up of the measurement of the key event at each step of the flow or user journey. By putting these measurements together you can see where the leakage is in the funnel. The leakage is where people stop completing the task they set out to do.
+
+By seeing and measuring this leakage via funnels, you, as a product manager, have valuable insight into what you can do to improve those user journeys to see more users complete the tasks they set out to do.
+
+
+
+The funnel above shows the leakage (e.g. people not completing a step) that is occurring in the registration process. With this visual representation we can now investigate what is happening at step 1 and step 4 to cause people to drop out of the funnel.
+
+Cohorts
+
+While similar to segmentation, cohort analysis is different because the grouping is done using a point in time and a characteristic of the users, such as traffic source. The primary purpose of cohort analysis is for comparative analysis to answer the question of how users’ behaviour changes over time. Cohort analysis is also important for measuring the long term value of the user. For example: how does the behaviour of users who registered a week ago differ from that of users who registered a month ago?
+
+Cohort analysis can be done relatively (say today against one week ago or one month ago) or absolutely (say on a specific date in the past). While you can look at the individual cohort usage over time, the real power of cohort analysis arises through the comparison of one cohort to another.
+
+Let’s consider an example of relative comparison. The two cohorts are defined as one that registered one week ago and another one month ago. Does the older cohort exhibit different behaviour to the one-week-old cohort? This type of cohort analysis surfaces problems such as churn that might be otherwise hidden by new visitors. Without the cohort analysis this would be difficult, if not impossible, to find due to noise from all the other users on the site.
+
+In the absolute case, cohorts often represent the result of a specific marketing or feature update. The comparison with other cohorts measures the impact that the marketing push or feature update has on the system over time.
+
+A classic example of this is the comparison of sign-ups driven by Techcrunch posts compared to a normal day of sign-ups. While the number of sign-ups increased, cohort analysis will show whether the behaviour of that cohort is of value compared to a standard day’s cohort. Did the TechCrunch readers stick around or simply sign up never to return?
+
+
+
+The figure above is a retention graph based on when cohorts registered. There was a spike in improved retention for the cohort defined as October 8th in comparison to others. In seeing this you can explore what made that cohort different to change their retention.
+
+Implementing Analytics
+
+The default behaviour when implementing analytics seems to be to throw in an analytics packages and hope you’ve got the bases covered.
+
+Don’t!
+
+Using this ‘fire-and-forget’ approach results in you never really using the analytics properly since you’ve never thought through what analytics will help you improve the product the fastest and what you should actually be paying attention to. Instead you have a great set of data that quickly becomes overwhelming and as a drowning product manager you end up latching onto the vanity metrics. You’ll end up in the shit this way.
+
+Start with a plan that will tie the data points you measure to the product vision and the product’s key performance indicators (KPIs).
+
+Planning your analytics implementation
+
+The process of planning consists of these steps:
+
+Define the product vision Define the KPIs that meet the product vision Define the metrics that allow you to hit your KPIs Define the funnels (via user journeys) that affect your metrics
+
+With that you can work out what data points you need to collect to allow you to calculate the metrics and produce the funnels. The plan is not static and you’ll need to revisit the plan regularly to update it based on changes to KPIs, product maturity and changing vision.
+
+Let’s consider each step in more detail.
+
+The vision
+
+The vision is what the product is supposed to do and who is it doing it for. Or put as the famous question: “What is the problem the product is solving for the user?” If you don’t have a product vision you don’t know who your users are or what value they can get from your product. Not only are you flying blind, but you’re flying blind without any destination.
+
+By starting with the vision, you ensure that what you measure will help you achieve the product vision. It helps avoid the trap of vanity metrics by tying everything that is measured to what you are trying to achieve. It is the filter that allows you to ignore the potential mass of data you can collect.
+
+Key performance indicators (KPIs)
+
+KPIs are derived from the product vision and tell you how well your product is meeting the vision. These KPIs are product focused and only indicate the performance of the product. Examples of KPIs are number of registered users and dollar value of checkouts.
+
+KPIs are used to set targets for the performance of the product. For example, increasing the number of registered users by 20% or increasing the dollar value of checkouts by 30%.
+
+The KPIs need to reflect the current stage your product is at. If you are only starting out then registration will be the prime KPI as opposed to long-term engagement.
+
+Metrics
+
+Metrics are what you can manipulate to hit the targets set by KPIs. They are calculated from two or more data points and usually take the form of some sort or ratio or descriptive statistics such as conversion rate (% new visitors who register) or average value of checkout (total checkout value/number of checkouts).
+
+The key for metrics in this process is that they must be quantitative (a number of some description) and comparative (they can be compared to other metrics and to themselves over time). By being comparative you can see trends in the metrics and make adjustments to hit the targets.
+
+If you aren’t going to do anything with a metric that is not tied to a KPI, then don’t calculate that metric. It is a waste of time and effort. You loose focus on the metrics that matter and it is at this point that vanity metrics start creeping in again.
+
+Funnels
+
+The funnels that are of importance are the ones that change the metrics in some manner. For example the funnel related to registration in the case of conversion metric. Once you’ve identified the flows/user journeys, turn these into funnels and identify the key action at each step of the funnel.
+
+Getting the data points
+
+Having gone through the process, you can now work out what data points are needed to calculate the metrics and what data points are needed to measure the key actions for each step in the funnels. That is it. The data points that need to be measured have been identified along with mapping out how those data points will then be used to improve your product.
+
+There is one wrinkle. The data points must be achievable. This is defined as measurability (can you actually measure the data point) and complexity (how much resource is required to measure the data point). If you can’t measure the data point then it is not valid. If it takes a lot of resources to be measured and those resources are better used elsewhere then the data point is not valid. In this circumstance you need to go back through the KPIs, metrics and funnels and find proxies for the data point in question and/or iterate the KPIs, metrics and funnels until you arrive at something that can be achieved.
+
+However, at all times everything must be tied back to the product vision.
+
+Throughout the planning process, keep in mind the segments that you will want to observe. Again this comes from the product vision particularly the part about which user you are solving a problem for.
+
+From plan to measurement
+
+Now that a plan detailing what needs to be measured and collected exists, the next task is determining how to measure and collect the data. There are two primary ways to do this, either in-house or externally.
+
+In-house is building a measurement system into the system. In-house systems can be tailored to the specific measurement needs and analysis desired. The drawback is the need to maintain both the collection and analysis side of it. In effect in-house becomes another system that has to be built and maintained, consuming valuable resources.
+
+External are third-party-provided systems that measure the system and provide access to the measured data. Examples are Google Analytics (GA), Mixpanel and KISSmetrics. External measurement platforms remove the need to build and maintain a new product and tend to be very quick to implement (often the inclusion of a JS file and some tagging). However, they aren’t always able to measure what you might need and can be difficult to tailor to meet customised analysis needs.
+
+In general, I’ve taken the approach of using a mixture of both. I use an external package to provide the standard measurements and analysis. I then create an in-house measurement system for data points that are unique to my app, can’t easily be measured by external systems or where customised analysis is wanted. For example, with ProdPad I’ve implemented a daily heartbeat that captures key data and we use GA and mixpanel for the more granular analysis.
+
+Given I’ve never seen any two analytics packages agree on the same number, I’ve always gone with as many as possible to triangulate. However, this can go overboard so I now limit myself to two external packages. Bear in mind that these packages often use JS files, so the more you have the greater the impact on page load and product performance.
+
+Reporting analytics
+
+If you don’t report on the analytics, even to yourself, then it is a waste of time implementing them. Use them or loose them. The trick with reporting is to do it in a manner that is easily grasped by everyone in the company. What you want to achieve from the report is less ‘x happened’ than prompting everyone to ask: “Why did x happen? Why did it change?” By answering or attempting to answer these questions the system can be tuned to improve it.
+
+The two common methods for reporting are comparison and trends. The comparison shows how a metric has changed between two points in time. Say for example this week and last next. The trend is shown by the change in a metric over a period of time. For example, a chart showing a metric for each day over the past month.
+
+Comparisons provide a headline and allow everyone to see whether there have been large swings between two points. The trends show the direction of the metric and consequently the performance of the system. Is it going up, down or staying flat?
+
+Analytics and experimentation
+
+Analytics and experimentation are intertwined. Analytics answers “what is going on with x?” and experimentation tests “how do we improve x?”. The analytics measures the KPIs and resulting changes from experiments that then proves or dispproves the hypothesis the experiment was setup to test.
+
+You can’t do experimentation without analytics (otherwise it is just guess work). Experimentation is its own subject and you can read more about how analytics is used and the process of experimentation in this blog post.
+
+Summary
+
+Analytics are critical as they tell you what is going on in your product. Before launching and implementing a platform to measure data, plan what needs to be measured. This forms the criteria for choosing how to measure the data, whether to use an in-house system, external service or a combination of both. Finally, use reporting to help stimulate your team to ask “why is it that happening?”
+
+Over time, as the system changes and improves, the KPIs (and consequently the metrics) will change, which in turn leads changes in what needs to be measured. It is likely that new flows and metrics will be discovered that prove crucial to the system so whatever the analytics used, they will need to be continuously adapted to meet this change and keep you on top of what’s happening in your product.
+
+Other reading:
+
+AAAR Pirate Analytics
+
+Vanity Metrics
+
+Experiments 101
+
+Share Share +1 Email Shares 526

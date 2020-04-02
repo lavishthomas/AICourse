@@ -1,0 +1,363 @@
+UPDATE: Due to the general confusion over channel groupings, I wrote a comprehensive companion guide on what they are, why they’re important, how to modify them, and how to make sure your campaigns aren’t under-reporting. You’ll see how even large publishers like BuzzFeed, Gawker, and Jezebel are shooting themselves in the foot with bad tagging (and hence bad channels).
+
+I can say without hyperbole that no functionality in Google Analytics is misunderstood as much as campaign tagging. I’m a huge proponent of it because it enables marketers to track the effectiveness of all of their marketing efforts.
+
+I’m writing this guide because if marketers understood the power of campaign tagging — and the level of granularity they could achieve when done well — there would be fewer spaghetti stains on their walls. In my experience, most companies either under-utilize, mangle, or overlook campaign tagging altogether.
+
+And I can honestly say that in my years of consulting and performing analytics audits I have not seen one client even come close to using campaign tagging effectively. And some have even trashed their analytics data with it.
+
+So my goal with this guide is to hopefully set that aright.
+
+Table of Contents
+
+How Campaign Tagging Works
+
+Why Tag
+
+Cast Of Characters
+
+Video Explanation Of Campaign Tagging
+
+Reports Impacted By Campaign Tags
+
+Google’s Classification Rules
+
+Fixing Default Channel Grouping
+
+Developing A Tagging Strategy
+
+Golden Rule Of Campaign Tagging
+
+Social Tools Culprits
+
+Excel Fix
+
+Worst Tagging Mistakes I See
+
+Tagging Resources
+
+UPDATE: I added a great tip in the Cast Of Characters section submitted by a commenter.
+
+
+
+How Campaign Tagging Works
+
+When a visitor comes to a site that has the Google Analytics tracking code installed, Google Analytics captures a lot of data via cookies: the medium (organic, referral, direct, etc.), source (site the visitor came from), browser, screen resolution, country, metro, etc. etc. With campaign tagging you can overwrite the cookie data with your own custom tags.
+
+Dramatic aside: Did you catch the enormity of that? Think of campaign tagging like fireworks: Powerful, beautiful, awe inspiring. Yet, if not treated with caution, you can blow your hand up.
+
+Okay, enough pyrotechnics. Let’s talk how to set them up.
+
+You set up campaigns using query parameters that you add to links you include in marketing campaigns. You don’t have to set up anything in Google Analytics. When traffic comes to your site via these links, the data will automatically be added to the right reports.
+
+These campaign parameters all start with utm_ and create key/value pairs in a URL**. For example, the URL http://www.annielytics.com/blog/excel-tips/ might look like http://www.annielytics.com/blog/excel-tips/?utm_medium=social&utm_source=facebook.com&utm_campaign=functionfriday.
+
+** If you already have query parameters you’re using for campaigns, you can switch out Google Analytics utm_ parameters with yours. Learn more from this resource on the Google site.
+
+Back to Top
+
+Why Tag
+
+There are a number of reasons you want to tag your links, as well as a number of reports that are impacted by campaign tagging. (Learn more in the Reports Impacted By Campaign Tags section of the guide.) But here are a few top reasons:
+
+Campaign tagging consolidates all campaign data in a set of campaign reports (found under Acquisition > Campaigns). If you’re running paid search campaigns outside of AdWords (or AdWords campaigns with auto tagging disabled), those visits will show up as organic. (I’ve seen this happen. It’s ugly.) If you’re running campaigns on other non-search or social sites (like banner ads on affiliate sites) and you don’t tag those links, they’ll get lumped in with your referral traffic. If you’re running email campaigns, campaign tagging rises from really good idea to critical. This is because traffic from email will be grossly under-reported if you don’t tag all links pointing back to your site. There are three primary causes for this:
+
+Visits from desktop apps, such as Outlook and Mac Mail, show up in analytics as direct — or medium = (none) — because no referer data gets passed.
+
+Visits from webmail providers that default to a secure server (such as Gmail and Hotmail) don’t pass referer data.
+
+Visits from mobile often show up as direct because of issues with referer data getting passed.
+
+The bottom line is when you’re brokering traffic in some way, you want to make sure you can track the success of those campaigns.
+
+Back to Top
+
+Cast Of Characters
+
+MVP Parameters
+
+The tags you’ll be working with most are utm_medium, utm_source, and utm_campaign. Let’s give them a proper introduction, shall we?
+
+Medium
+
+Think of the medium parameter as a bucket. You want mediums to be nice, big buckets. The mediums that Google Analytics automatically identifies are organic, (none), referral, and cpc (if you’re using AdWords and are auto tagging links). When tagging your links, you should follow the same form for your custom mediums.
+
+The reason you want these buckets to be big is it allows you to slice and dice your data by source and campaign name when all that luscious data comes in. If these buckets are too small, that segmentation becomes arduous at best, impossible at worst. It’s first-degree data abuse.
+
+Although this list isn’t exhaustive and your campaigns may warrant mediums that aren’t included, here are some good mediums I’ve used over the years:
+
+social
+
+email
+
+feed
+
+banner
+
+cpc
+
+display
+
+affiliate
+
+ebook
+
+tv
+
+print
+
+billboard
+
+partner
+
+radio
+
+qr code
+
+widget
+
+The most common mistake I see with campaign tagging is confusing medium with source and less frequently campaign name. Of the three players, this one is the most important to get right, in my opinion. But if you get social and email wrong, other reports will suffer from this mistake. We’ll get to that more in the Reports Impacted By Campaign Tags of the guide.
+
+Source
+
+The source is simply where the link lives. For the best guide, let’s look at how Google Analytics lists sources.
+
+Note: t.co is Twitter’s link wrapper. When you share a link on Twitter that’s greater than 19 characters — even if you use a tool like TweetDeck or Hootsuite — it shows up in Google Analytics as coming from t.co. You can learn more from the Twitter site.
+
+Before Twitter started using t.co, links from desktop and mobile apps were showing up in analytics as direct traffic if they weren’t tagged, so it’s definitely a welcome change.
+
+Did you publish a link on Twitter? If so, set utm_source to twitter.com. Did you publish it on Facebook? Then set it to facebook.com. Did you broker a banner on my site (suspending reality for a moment)? Then set it to annielytics.com. Pretty straightforward.
+
+One exception email. Since emails don’t actually live on a site, you have to get a little resourceful. If you’re using an email service, like Marketo, you could set utm_source to marketo. I’ve also seen sites set source to internal. What you don’t want to do is set it to your domain. I’ve seen clients do this. The problem is these visits will look like self-referrals (or visits sent from your own site), and these should be avoided.
+
+Campaign Name
+
+Campaign Name is simply the name of your campaign. Seems easy enough. And yet this is a tag that sites botch pretty consistently. Strategic, well-organized marketing campaigns should have campaign names that span multiple mediums and sources. Competition is healthy, as is testing, which you will be hard pressed to do if you don’t test your campaigns in different mediums.
+
+Okay, it’s story time. Once upon a time, I worked in-house with a publishing company, and we had two campaigns that we were pushing pretty hard. One was a membership campaign we’ll call 25cents (the idea being the cost of membership broken down by day). We also had a half off sale for students that we’ll call half+off. (A plus sign translates to spaces in Google Analytics reports.)
+
+We ran these campaigns on Twitter, Facebook, email, four different sites owned by the company, and several partner sites. So these campaigns were divided into four mediums: social, email, partner, and banner. (We could have used display in lieu of banner, but we wanted to differentiate them from AdWords display ads. It’s a judgment call. And if these partners had been affiliates, we would have used affiliate. But they weren’t.)
+
+When the data started coming in, we were able to compare the performance of these two campaigns across different mediums and sources. We also compared landing page performance on the different networks. Throw all that data in a pivot table (you can learn how with this video tutorial), and you can analyze it from many different angles to find opportunities and problem children.
+
+As straightforward as naming campaigns may appear to be, here are the biggest mistakes I see with this parameter:
+
+They’re too narrow. I tend to see this with companies that send out daily emails. What they tend to do is give each day a unique campaign name. And sometimes these emails follow different formats, depending on who creates the tags. This can make it very difficult (at least without some pretty sophisticated regex) to group all these visits, if you want to analyze the performance of your daily email. For daily emails, it would be better, in my opinion/experience, to use one campaign name (e.g., daily+deals+email). If you want more detail, you have two more campaign parameters we’ll get to in a minute. Now if you send out a monthly newsletter, I recommend incorporating the month and year in the campaign name because it’s part of the identification of the newsletter. For example, you could use 2014-03+member+newsletter.
+
+They’re too cryptic. Sometimes developers use automatically generated campaign names, or paranoid marketers obfuscate them so their competitors won’t be able to figure out what campaigns they’re running. The problem is that oftentimes this scorched-earth approach to campaign naming results in marketers having no idea what these campaign names refer to. You can’t improve what you can’t measure. If it’s not feasible to rename these cryptic campaigns, set up a lookup table in Excel or your database to use for in reporting.
+
+They’re too fragmented. As I’ve already mentioned, calling a campaign a unique name for each medium and source you publish to prohibits segmenting these campaigns later. The more you can compare campaign performance across different channels, the more refined your campaign strategy will become over time.
+
+They follow naming conventions that should be reserved for medium and/or source. For example, if you have a new campaign you’re launching on Pinterest, there’s no need to include Pinterest in the campaign name. You’ll have it in the source.
+
+B Team Parameters
+
+Although Medium, Source, and Campaign are the parameters you’ll use most as a marketer (PPC campaigns excepted), there are a couple other optional parameters that are on call in the event you require their services.
+
+Content
+
+The Content parameter allows you to provide additional details about your campaign. For paid search campaigns, you use it to differentiate ads. But you can also use it for marketing campaigns. Here are a few examples of how you might use it in non-PPC campaigns:
+
+To differentiate different types of links in emails, e.g., text vs image.
+
+To differentiate links from different sections of your emails, e.g., header vs editorial vs sidebar vs footer, etc.
+
+To record the date of daily emails.
+
+To run A/B and multivariate tests. For example, you could put several links in an email to the same page but in different sections and/or formats. Similarly, if you have banner ads on different sites, you could use the content parameter to capture the banner size (e.g., utm_content=728×90) or position on the page (e.g., utm_content=right+sidebar).
+
+Term
+
+The Term parameter is used in paid search campaigns to note the keywords you’re bidding on (e.g., utm_term=high+top+sneakers). Again, with AdWords, if you have auto tagging enabled (which I strongly recommend), you don’t have to set this value. But if you’re running ads on Bing or any other paid search network, you need to tag these manually. Failure to do so will artificially inflate your organic search data.
+
+UPDATE: My friend, Yehoshua Coren, who is brimming with awesome, added this great tip in a comment:
+
+Here’s my preferred tag for Bing Ads –> turns GA into a matched search query performance marketing report.
+
+?utm_source=bing&utm_medium=cpc&utm_campaign=[“manually”-added-campaign-name]&utm_term={keyword}&utm_content={QueryString}
+
+It pays to have smart friends! Thanks, Yehoshua!
+
+You could repurpose this parameter for other marketing campaigns, but I don’t recommend it.
+
+Back to Top
+
+Video Explanation Of Campaign Tagging
+
+Still confused? I created a video that attempts to explain campaign tagging visually. You know, just doing my part to accommodate different learning types. Seriously, I just really want marketers to really absorb this. It’s that important, in my opinion.
+
+Back to Top
+
+Reports Impacted By Campaign Tags
+
+Up until recently, if you messed campaign tagging up, it only polluted your campaign reports. Not so anymore. There are now a number of reports that are impacted by these tags, especially the medium parameter.
+
+Campaign Reports
+
+First and foremost, the Campaign reports in Google Analytics rise and fall on the integrity of a site’s campaign tagging efforts. To analyze campaign traffic, you’ll want to navigate to Acquisition > Campaigns. The default primary dimension is Campaign, but you can also choose Source, Medium, Landing Page, or any of the options in the drop-down menu.
+
+Click for larger image
+
+I will frequently first click on the Medium primary dimension to make sure there’s no funny business going on in the data. For example, I recently audited a site that had more than 2,000 unique mediums. Most sites aren’t going to have more than 10 [legitimate] mediums, total.
+
+You can also take advantage of the secondary dimension to analyze your mediums more closely. What I’ll typically do is isolate a single medium and then choose source or campaign as my secondary dimension to view all of the sources or campaigns in each medium, like so:
+
+Through the interface you can export a flat report that can be brought into a pivot table (learn how in this post). But you only get two dimensions**. If you’re planning to do your analysis online, you can create a custom report that includes Medium, Source, and Campaign with whatever metrics you want to analyze (e.g., visits, bounce rate, revenue, etc.). Then you get up to five dimensions.
+
+If you’re unfamiliar with custom reports, you can learn how to create them in this video tutorial I did. Or you could use this custom report as a starter. Just click the Edit button in the top-left corner of the report to customize it to your needs. (If you get a 404 error, it’s because you need to log in to your Google Analytics account.)
+
+If you want a flat report that requires more than two dimensions**, such as one that includes medium, source, and campaign (my fave cocktail), you’ll need to use the API. I wrote this post on the Search Engine Land site that describes how to use a free analytics tool to do this. Here’s a screenshot demonstrating how you might want to set that up.
+
+**UPDATE: Google Analytics now gives you up to five dimensions in custom reports! (Post updated March 10, 2015)
+
+Social Reports
+
+If your social links are mis-tagged your reports under Acquisition > Social will be off. The issues vary slightly depending on the social report you’re working with. But the closer you tag your links to the formatting you see in Google Analytics’ referral reports, the more trustworthy your data will be.
+
+What’s really sad is I’ve seen cases where it would have actually been better for clients to not tag at all than to tag incorrectly. I don’t promote eschewing campaign tagging, but mis-tagging social links is worse than not tagging them at all because, if left untagged, Google would have at least recognized the visits as having come from one of its 400 or so social networks. I had some larger clients who were significantly hurt by social tools like Buffer and SocialFlow mis-tagging social links as utm_medium=twitter or utm_medium=facebook. (You’ll learn more about this in the Social Tools Culprits of the guide.)
+
+Multi-Channel Fnnnels Reports
+
+Google Analytics’ new(ish) MCF reports are the best upgrade to Google Analytics in years. I explained why in my Taking Credit Where Credit’s Due presentation last year (starting in slide 78). They are amazing, and every site that reports any kind of revenue (whether ecommerce or goal values) should use them. If you don’t, I can tell you right now that you are not taking enough credit for your marketing efforts.
+
+Seriously, check out slides 90 to 96 to see the uptick in reported revenue when assists were added in. I found for one client that for every $3 their PPC vendor was reporting in conversions, PPC accounted for $8 in assisted conversions. By adding MCF reporting to their monthly reports, I made their PPC vendor look like heroes, unbeknownst to them. And this was before Google upgraded the lookback window to 90 days instead of the initial 30 days we had.
+
+Important Note: At the time of writing (3/31/14), the lookback window for the Multi-Channel Funnels API still only gives us 30 days. It hasn’t been upgraded to 90 days yet. This is important because if you set the lookback window to 90 days in the interface, your data will not align with the data you get from the API.
+
+These reports can’t be fixed by fixing the Default Channel Grouping inside of Google Analytics, unfortunately. This includes the Attribution models under Conversions > Attribution. You have to use custom channel groupings to apply customized channels to these reports. But at the time of writing custom channel groupings aren’t available in the API. Unless you’re using an API tool like Tableau or Analytics Canvas that allows you to clean up your data, your only option is to fix your reports by fixing your tags or inside Excel, as I demonstrate in the Excel Fix section of the guide.
+
+To learn more about MCF reports, check out Google’s resource on it. My friend, Yehoshua Coren, also wrote a great post on Multi-Channel Funnels.
+
+Back to Top
+
+Google’s Classification Rules
+
+If you want to see the rules Google uses to classify visits, there’s a backdoor in. Follow these steps:
+
+Go to Conversions > Multi-Channel Funnels > Assisted Conversions. Under Primary Dimension, click Channel Groupings, and choose Copy MCF Channel Grouping Template from the drop-down. (We’re not actually going to copy them. In the Channel Grouping Settings dialog, click on any of the pencil icons to edit a definition. To check out Google’s definition of Social Network, click the pencil icon. Here’s what you’ll see:
+
+Here’s the regex Google uses to help classify social traffic:
+
+^(social|social-network|social-media|sm|social network|social media)$
+
+So this dialog says, in plain English, if the visit comes from one of the 400 sites Google has classified as a social network OR medium is set to social, social-network, social-media, sm, social+network, or social+media.
+
+If you do paid search, you should definitely check out the channel definitions for Paid Search, Display, and Other Advertising. For example, I was surprised to find out that text-based display ads don’t fall under the category of Display; they fall under Other Advertising.
+
+Google has also published these definitions here.
+
+Back to Top
+
+Fixing Your Default Channel Grouping
+
+UPDATE: Make sure you read my comprehensive companion guide channel groupings before you touch these settings.
+
+To modify your Default Channel Grouping, navigate to Admin > View > Channel Grouping. Under Default Channel Grouping, click Actions and then Edit from the drop-down menu.
+
+Then click OR and set Medium to regex match twitter|facebook (or whatever other definitions you need to include). Just put a pipe character in between each definition. It means “or” in regex. (Learn how to master regex in Google Analytics in this post I wrote for non-developers.)
+
+Back to Top
+
+Walking Through A Tagging Strategy
+
+As I mentioned earlier, you want to create your strategy so that you have campaigns that span different mediums and sources. No better way to explain how to craft a tagging strategy than to walk through one. So let’s create two faux campaigns and plan out their strategy.
+
+Business: Software provider of a beta social media analytics tool
+
+Objective: Introduce the tool to the market. Incentivize people to try it with a 30-day free trial. Reach out to leaders in the social media space and marketing professors to offer a one-year free trial.
+
+Campaign 1
+
+Campaign Name: Free Trial
+
+Target Channels: Twitter, Facebook ads, sponsored tweets, brochures**, and banner ads on SocialMediaExaminer.com and SocialMediaToday.com
+
+Landing Page: http://www.cooltool.com/free-trial/
+
+** Tracking links in print material or billboards is best done with a vanity URL. The strategy is to buy a domain with a catchy name, like coolesttoolever.com and create a permanent (301) redirect to your tagged landing page. So if we’re putting the vanity URL in a brochure that’s distribute at a conference like South by Southwest (SXSW), we might redirect it to a page like this: http://www.cooltool.com/free-trial/?utm_medium=print&utm_source=conference+brochure&utm_campaign=free+
+
+trial&utm_content=sxsw.
+
+Campaign 2
+
+Campaign Name: Leader Outreach
+
+Target Channels: email, outreach via leaders’ site contact pages, brochures to colleges, LinkedIn ads, and a post on the Marketing, Advertising, and Communications Professors LinkedIn group.
+
+Landing Page: http://www.cooltool.com/leaders/
+
+Strategy Doc
+
+Embedded below is a Google Spreadsheet with a potential tagging strategy for the campaigns above.
+
+You can view this spreadsheet in its entirety here. If you’re logged in to Google, you can also save a copy for yourself by choosing File > Make a copy.
+
+Back to Top
+
+Golden Rule Of Campaign Tagging
+
+Let me ask you this: Would you paint your neighbor’s house? Probably not. Or would you reach over to a stranger’s table at a restaurant and just take a handful of his french fries? If so, I want to go out for burgers with you at the next conference I’ll be attending. But for most of us, the answer to that silly question is [hopefully] no.
+
+But tagging links to someone else’s site isn’t much different. Why? Because they’re not looking for traffic from your site in their Campaigns reports; they’re looking for it in their All Referrals report (under Acquisition). Also, when you tag links to someone else’s site they don’t get as much info about your site, such as what page the traffic came from. (You need to use a custom report that uses the Full Referrer dimension to get this. It’s not in any of the standard reports. You can use this custom report as a template.)
+
+Finding others’ campaigns in your campaign reports should be easy enough, if you use a strategy doc like the I shared in the previous section to keep track of all of your tagged links. Simply look for campaigns you don’t recognize. If you find some, you’ll need to either filter those out of your campaign reports or redefine them in your Default Channel Grouping (which was covered in the Fixing Default Channel Grouping section of the guide).
+
+Back to Top
+
+Social Tools Culprits
+
+Some social tools, such as Buffer and SocialFlow, automatically tag links. I’m not talking about offering you link-tagging functionality like HootSuite and MailChimp that you can use to tag your links. We’re talking about tagging every link that’s shared using their tool on social media. This is suboptimal as it’s not traffic that was brokered by site owners. But the really bad news is that when they started automatically tagging all link shared with their tools they mis-tagged medium as the source instead of social.
+
+For large publishers this mistake has caused considerable under-reporting in all of the reports listed in the Reports Impacted By Campaign Tags section of the guide.
+
+I reached out to both tool providers and let them know about this error. To the Buffer team’s credit, they changed their tags to set utm_medium to social Jan 7 of this year. All of my tweets to the SocialFlow team went unanswered, and their tags are still set to utm_medium=socialflow, last I checked.
+
+Here’s another example of what these genetically altered links look like:
+
+http://jezebel.com/jailed-craigslist-killer-claims-responsibility-for-at-l-1523890277?utm_campaign=socialflow_jezebel_facebook&utm_source=jezebel_facebook&
+
+utm_medium=socialflow
+
+Let me know if you find examples of other tools mis-tagging social links in the comments below.
+
+Back to Top
+
+Excel Fix
+
+If you have mis-tagged campaigns, you can use a fairly simple nested IF statement to rename your tags in Excel. The IF formula might look something like this:
+
+I created the report using this custom report that pulls in just the medium and source dimensions. You can also download the Excel file here.
+
+Back to Top
+
+Worst Tagging Mistakes I See
+
+Although most of these mistakes have been covered elsewhere, I’m going to compile them into one place.
+
+The worst campaign tagging mistake a site can make, hands down, is tagging internal links. Imagine a scenario like this (which is based on a true story): You put campaign tags on all of your navigation links, as well as your sidebar links. You set them to values like utm_medium=navigation and utm_source=topnav. Then let’s say someone comes to your site from an AdWords ad and clicked on a link to one of your category pages from the top navigation bar. That visitor is no longer from medium/source = cpc/google; s/he is from medium/source = navigation/topnav. Imagine that happening to more than a million visits in a month. This is exactly what happened to one client, and they had to declare data bankruptcy on their Google Analytics account and start over. You can read more about it in this post. You want to use events for internal links and campaign tagging for external links. You can learn more about event tracking from this resource from Google. Not making the medium “bucket” big enough — or tagging medium as sources like twitter or facebook. Mixing cases in campaign tags. The Google Spreadsheet I share to help people with campaign tagging forces all tags to lowercase to prevent this from happening. If you are using proper case and want to continue to do so, you just need to be careful to make sure you’re consistent. Missing links in boilerplate sections of your emails, such as the header and footer. Creating unique campaign names for each medium and source. You want your campaign names to span multiple mediums if you’re using more than one marketing channels for your campaigns. Making campaign names too cryptic. Sometimes developers device ways to create automated campaign names. This is not ideal. If no one knows what the campaign was for, it’s impossible to measure its effectiveness. Tagging editorial links. So let’s say you use guest blogging as a marketing strategy. I’ve seen sites add campaign tags in their link(s) that point back to their site. In my opinion, I think this is a mistake. These links should show up in your referral reports, not your campaign reports. As I mentioned earlier in the guide, you get more data from referrals than you do campaigns. Cramming too much into the campaign name. There’s no reason to include source or medium in the campaign name, e.g., facebook+ad+concert+mar+2014. In this example, facebook should go in the utm_source parameter, and ad should be taken out and utm_medium tagged as cpc or ppc. Making parameter values difficult to read in campaign reports. I see campaign names like marchmembernewsletter all the time. Remember that you can use the plus sign to generate spaces in campaign reports. Mis-tagging Google+ links. If you’re ever in doubt how you should tag a source, just pull up the All Referrals report to see how they show up there. For Google+ most visits show up as plus.url.google.com, though some show up as coming from plus.google.com. Tagging links to someone else’s site. Remember: just tag links to your site. Not following a consistent naming convention for campaigns. For example, if you have a monthly newsletter and you want to capture the month and year in the campaign name, use the same format each time. I like to follow the format of yyyy-mm before the campaign name (e.g., 201403). This aids sorting in Google Analytics and Excel. Also, following a consistent format makes it easier to group campaigns for analysis.
+
+Back to Top
+
+Tagging Resources
+
+My Auto-Tagging Google Doc
+
+To aid you with your tagging efforts, you can use Google’s tagging tool or the Google Spreadsheet I’ve created.
+
+Google’s Resource
+
+And here is the link to Google’s resource on campaign tagging.
+
+Wistia’s Cool Fresh URL Tool
+
+Let’s face it. Tagged URLs are ugly. It’s the one thing I really don’t like about them. They also get shared by people like me cross-channel because it’s too much work to remove the parameters to share a clean URL. That’s why Wistia released a free script that cleans URLs after the browser has had a chance to grab the campaign data. I haven’t actually tested it, but you can learn more here.
+
+Back to Top
+
+Questions?
+
+If you have any questions, I want to know them. I may even use them to update this guide. You can leave your question in the comments or reach out to me on Twitter. Also, please report any tools you see mis-tagging links. If there are enough, it may warrant an open letter to those providers.
+
+Learn more
+
+You can learn more about campaign tagging in my Analtyics Audit Template, a self-guided, 147-page audit template that is regularly updated and will teach you how to do detailed analytics audits like a pro for $295.

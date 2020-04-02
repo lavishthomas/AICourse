@@ -1,0 +1,55 @@
+“I don’t want to code this.”
+
+“I don’t care anymore.”
+
+“Why am I still working here?”
+
+That feeling when coding a simple “for” loop seems unbearable. You know you love programming, but it has become boring, frustrating and even painful. You see your coworkers busily at work around you, and you don’t understand how they can stand it anymore.
+
+So what happened? How do you move on? How do you keep motivated?
+
+Understanding Your Intrinsic Motivations
+
+You might not loathe programming yet. But if you’re having doubts about your job, and you’re not doing anything about it, it can only go downwards.
+
+Why do you go to work? Like (almost) everyone, your first motivation is probably money. You need money to make a living. However I bet that more money won’t make you work faster.
+
+In a great Ted Talk in 2009, Dan Pink uncovered 3 intrinsic motivations that drive everyone at work.
+
+This applies very well to the software development domain.
+
+Autonomy: Nobody knows better than yourself how to organize yourself to be efficient at what you do. Be it coding, solving bugs or handling a project. You need space and trust. Mastery: Enabling programmers to learn new languages and improve their skills –technical or not– gives them a sense of fulfilment. After many years working on the same thing, you probably want to change and discover new stuff. Purpose: The objective of any software developer is not only to produce code. The ultimate goal should be to build awesome products in which you believe.
+
+Businesses –some businesses– have understood these intrinsic motivations. They have realized that all parties could benefit from a change. Even if Agile Has Failed, it has helped to bring these motivations to the center of software development teams. The implementation of this change in big companies hasn’t always delivered its promises, but there has been progress.
+
+On the other hand, focusing on intrinsic motivations should not be an excuse to playing it solo. It won’t solve your problems anyway.
+
+Now, you probably dream of working in a start-up. The place where you build awesome products and change the world. I can’t blame you, I’ve been there. I’m lucky now to work at CodinGame; and yes, we are building an awesome platform and changing the world! My point is the following: I believe that there might exist a false idea of the ideal job of software developer. Not a single company can afford to let developers work on what they want to all the time. Even (more?) in start-ups, you have to answer to the needs of your clients.
+
+You can dream of a better job–and do what it takes to get it–but you should not expect a utopian job. Which brings me to my next point. As a software developer, as aware as you can be of intrinsic motivations, what can you concretely do to stay motivated?
+
+Joining the Community
+
+You must realize you’re not alone. We, software developers, are millions! We all have once been beginners. For sure, we have all had technical problems once before. And I bet that a lot of us have once suffered from a lack of motivation. We software developers have a strong sense of community. You can easily find groups, forums and communities online.
+
+Communities will help you in several ways. You will learn new coding tricks. You will discover new technologies and languages. This is an opportunity to reach and meet great people who love what you love. Programming.
+
+Joining the programming community might even push you to contribute to open-source projects. You’ll perhaps retrieve a sense of usefulness you have forgotten at work. You could also decide to kick-start your own project!
+
+Communities of software developers don’t only live online. You can surely reach out to other developers at your workplace or at local meet-ups. Sharing a passion with others might be the best way to enjoy it.
+
+I’ll use an example to illustrate this point. At CodinGame, we’ve just launched a new kind of meeting. We call it “Lunch Random Meeting.” The objective is to discuss a subject –which doesn’t even have to be technical. Our first random meeting took place last Wednesday with Arnaud, our Director of Learning, who took the opportunity to present Reactive Programming to the team. It doesn’t seem like a huge deal, but we gathered around him and enjoyed sharing this moment with the team.
+
+Leaping into the Unknown
+
+Communities can help you enjoy programming again. I believe you also have to work on yourself. Stagnation at work is the opportunity to learn something new. You should not wait for your manager to ask if you want to work on another new project. It should come from you. It won’t be easy, and you’ll more likely become a beginner again — oh we don’t like that, do we? But staying motivated as a software developer also means embracing difficulties.
+
+The next level would be to stop looking for your own motivations but for some kind of discipline. I’ve come across a great article talking about this: “Screw Motivation, What you Need is Discipline.” It says in a nutshell that waiting to get motivated is taking the problem in the wrong way.
+
+“You don’t wait until you’re in olympic form to start training. You train to get into olympic form.”
+
+There will be tasks that, no matter what, will be boring. What you need to do is to discipline your inner self to tackle these piece by piece. You will feel so good afterwards. Working on discipline will take you so much further than working on motivation. You’ll slowly build habits and become efficient at tackling boring tasks. As for motivation, you have to refresh it every day.
+
+Easier written than done, right? There is no magical trick that can make you instantly feel better with programming. Hopefully reading this will have you ready and eager to tackle your problems.
+
+Don’t give up on programming! It’s fun!

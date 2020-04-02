@@ -1,0 +1,137 @@
+By Randy Deutsch AIA LEED AP
+
+Tom Preston-Werner, co-founder of Github, believes there will only be two types of jobs in the future: people who code computers, and people who get bossed around by computers.
+
+“In the future there’s potentially two types of jobs: where you tell a machine what to do, programming a computer, or a machine is going to tell you what to do,” says Preston-Werner.
+
+“You’re either the one that creates the automation or you’re getting automated.”
+
+Remember the “Google[x] to revolutionize the construction industry” headlines from this time last year?
+
+Google technology could halve construction costs
+
+Google’s secret development unit has developed a technology that could earn the company $120 billion a year, and,
+
+Is Google planning a BIM-busting app for construction?
+
+Google’s secret is secret no more
+
+Flux, a 25 person, 2 year old company, the first — and so far only — startup to spin off of the semi-secret Google[x] research moonshot lab and incubator at Google dedicated to projects such as the driverless car and Google glass, has set out to automate the AEC industry.
+
+It’s about time we take notice – and sides.
+
+Google[x] is the company’s main initiative to diversify its sources of income.
+
+With the global construction market estimated at $5 trillion a year, why not enter our turf?
+
+First, a little background.
+
+The Google X engineers initially called the development of the invention Genie (after the genie in Aladdin in “1001 Nights”). Genie, the development team told Google’s management, was a platform with online-based planning applications to help architects and engineers in the design process, especially for skyscrapers and large buildings. The platform includes planning tools of expert architects and engineers and advance analytics and simulation tools. Genie standardizes and automates the design and construction processes with unlimited design options, enabling an architect to preserve the building’s uniqueness in the urban environment.
+
+In the report, the Google X team estimated that Genie could save 30-50% in prevailing construction costs and shorten the time from the start of planning to market by 30-60%. The Genie team estimated that the platform had the potential of generating $120 billion a year for Google, and so Flux was born.
+
+Former Gehry Partners architect, Michelle Kaufmann, co-founded Flux with ex-Google software engineers Nick Chim (who is also CEO), Augusto Roman and Jen Carlile.
+
+Flux says they are in business to address urban population growth.
+
+In short: we’re going to increase our urban population in the next 35 years by 3.3B people – which nearly doubles our urban population from right now – and, depending on the size of the building, will require between 6.6 million and 33 million new apartment buildings by 2050 to house them all.
+
+And so the need to see buildings not as one-offs, built from scratch, but from seeds.
+
+Buildings as Mother Nature would want them to be
+
+From a talk Jen Carlile, Co-Founder of Flux, gave in October 2014 at KeenCon,
+
+Using Data to Improve the Built Environment:
+
+Today we build individual buildings as though Mother Nature built each one from scratch, rather from seeds.
+
+Flux asks: What if we were to build buildings from seeds? Seeds that took on different forms and characteristics depending upon where they were planted?
+
+The thinking goes, if we designed this way, we could leverage data and design and build buildings by the thousands in the time it currently takes to design one.
+
+Tool #1: Coded within the building app are all the rules that the building needs to grow or auto-generate: the structural system, HVAC, façade, etc. It knows, for example, that it needs external sunscreens on the west elevation to reduce late afternoon heat gain. These rules are all encoded into the building seed. (See the video within the video that starts at 8:30.)
+
+They use the analogy of the Monterey Cypress tree, which takes on a different shape based on where it is planted, the prevailing winds and conditions of its location and site.
+
+In the same way that if you plant three separate Monterey Cypress seeds in three separate locations you’ll get three separate trees; if you place three separate building “seeds” in three separate locations you’ll get three separate buildings.
+
+In other words, the building takes on different forms based on the different sites it is placed on.
+
+The software “designs” all of the bathrooms, fire stairs, ducts. Because all of the rules are encoded within the building seed, you can make changes to the building. When you do that, the building regrows.
+
+The seeds of change
+
+To address the urban population crisis, says Jen Carlile, we need to stop designing individual buildings and start designing building seeds.
+
+The time it takes to design and build needs to dramatically decrease.
+
+Tool #2: Another tool Flux built helps with organizing data, making it more actionable and more universally accessible. Think of it as a feasibility study algorithm that, once you identify a site or sites, instantaneously assesses entitlements, massing, building program, building performance, leasable area and overall project budget.
+
+Simon Rees, Associate Principal / Structural Group Leader at Arup in Los Angeles, in a talk he gave in late October 2014 about a data-driven, integrated project named P12 that involved input from ARUP, Flux, Gensler, Cupertino Electric, Turner Construction, among others, calls this Wrangling Geometry from the data.
+
+Embracing the full complexity of the design and construction process, grounded in real estate data, P12’s goal was to reduce the design and construction of a large-scaled building to a 12 month cycle: 3 months for design, one for permitting, and 8 for construction.
+
+They use the example of zoning codes that dictate what can be built on a site.
+
+The tool pulls in data from neighboring lots, buildings, vegetation. It looks at overlay zones, view corridors. Then it looks at the building code, generating the buildable envelope for a site.
+
+Using downtown Austin, TX as an example, Flux’s software Metro purports to provide a better way to visualize Austin’s development code by
+
+aggregating multiple data sources in one place: data from cities, tax assessors, and third-party sources, so you quickly understand the parameters for a land parcel;
+
+helping developers and land owners to visualize their parcels by situating proposed projects into the surrounding landscape;
+
+showing only the development codes that are applicable, including conditional overlays and uses; providing a quick assessment of project potential. “If and when you are ready to go deeper,” says the website, they’ll “provide helpful reference links to deeds, entitlement history, and permitting history.”
+
+taking a snapshot of the project and share with anyone, getting stakeholders aligned around a common vision
+
+rendering zoning incentive and building usage impacts on the parcel and massing.
+
+They make the process transparent so you can see where all of the data is coming from. So up on you monitor, as part of the tool, side by side with the building massing is the building or zoning code and all of the rules that can be derived from it.
+
+As Simon Rees put it, browser-based exploration democratizes access to otherwise industry-specific information such as zoning codes and building models.
+
+Calling BF Skinner
+
+After using the tool for a while, says Carlile, you can develop an intuition as to why the buildings are shaped the way they are. “What we often think of as artistic license is really just the manifestation of a rule set.” This represents one of the exciting ways that the data feedback loop can inform – and over time, improve – one’s intuition.
+
+In the spirit of openly sharing technology in the software industry, making the design and construction process not only more transparent but more efficient, and reduce the time it takes to design and build buildings, Flux asks: What if there was a standard library where people could build upon the work of others, as opposed to solving the same problems over and over again?
+
+We already have that technology: it’s called the human mind and memory.
+
+I think the population growth storyline and Mother Nature metaphor don’t mask the underlying opportunity to best greedy developers at their own game by charging for this software as a service (SaaS.)
+
+i.e. Free test-drive on 10 parcels $100 per additional parcel (introductory price.)
+
+33 million buildings will be needed by 2050. That’s 33 million rules-based, design-by-constraints, deterministic, GMO seeds.
+
+Constructors will be needed who know how to componentize, commoditize, and put the buildings together quickly.
+
+The technology raises questions such as: Should humans be performing modeling tasks that a computer can perform?
+
+I did feasibility studies for building developers most of my career and on most days I felt like I had the best, most creative job in the world.
+
+Perhaps the biggest misunderstanding is that code searches aren’t drudgery that needs to be performed by computers. While the most cursory first looks can be made by computers, any building designer knows that interpreting the code – whether zoning or building – can be every bit as creative a task as designing the building itself. I have myself doubled the size of the allowable square footage of a project without seeking a variance based on nothing more than creative interpretation of the code. A computer can read a code, but it can’t read between the lines of a code book: only humans can.
+
+The tools appear to be quite sophisticated. But a structural- nor software-engineer shouldn’t be touting the upside of these services or technologies. In the two presentations I have seen on the software, each look at a comprehensive, integrated system from their own narrow perspectives.
+
+Flux needs someone as a spokesperson who sees the big picture. Someone who orchestrates large teams and knows the complete assemblage of building design and construction – not just from their silo, domain or point of view.
+
+Something Jen said in the Q & A after her talk in particular hits home:
+
+I think of it like APIs. You can have an API for a structural system. If you can connect your structural API to your fabrication machine, you no longer have to have humans involved.
+
+For the foreseeable future, Flux’s Metro and other tools require the input of designers and other experts – in other words, human input. I wonder how team members such as Arup and Turner Construction would feel hearing that what they are contributing to may soon put them out of business?
+
+More on where Flux is headed with all of this here.
+
+Not building in Austin’s Central Business District? Subscribe to Flux’s mailing list to find out when they launch in your city. https://flux.io/metro/
+
+Watch Jen Carlile, Co-Founder of Flux.
+
+Read: Google X spin-out Flux is harnessing data to make designing buildings better.
+
+Images: Flux
+
+Advertisements

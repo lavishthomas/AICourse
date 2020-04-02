@@ -1,0 +1,75 @@
+How could two coding bootcamps close while employer demand for bootcamp grads grows? The answer, in the five years since their founding, is that some schools are still at Version 1 while others continue to innovate. Here’s where the market is going:
+
+Why bootcamps exist
+
+Code schools will graduate 22,000 students in 2017, about half as many as all accredited colleges and universities combined (despite a 200 year head start). The growth comes from millions of adults who picked majors that didn’t deliver a good career, a recognition that they weren’t qualified for the job they wanted, and that employers won’t fund switching careers.
+
+Coming innovation
+
+More risk sharing. Private loans from Skills Fund and others demand schools put in escrow around 15% of tuition until students succeed. The next wave of this kind of “risk-sharing” will be with Income Share Agreements, where students pay no tuition but a fixed percent of their next job’s salary. It’s an old idea but coding bootcamps are going wild for it because students trust schools with skin in the game, and it helps create access for those with no credit (and all without government funding; more on that later). If there’s investor appetite ISAs will become a standard offering.
+
+Staffing firms are starting to bet on education as well, with companies like Revature training people they then hire for consulting gigs at companies. Just last week Purdue partnered with staffing firm Infosys to provide training, and last year Chan Zuckerberg Initiative backed Andela to create a similar model for training and placing engineers in Africa.
+
+These companies may not look like bootcamps but they’re very similar: They’re a bet that they can provide an education that increases adult’s earning power. The main difference is that Andela and Revature do it by contracting out the newly valuable labor in exchange for providing a “free” education while bootcamps collect a simple tuition.
+
+HR departments, in addition to shortage of qualified applicants, are seeking new, creative ways to find more diverse talent. Forward-looking companies are open to new solutions, and programs like TechHire or the all-female Hackbright Academy will keep growing.
+
+Schools will start graduating students with more diverse skills so they’re not all competing for the same jobs. Helping students specialize in the exact libraries, tools, and topics employers need lowers employers’ cost of hiring and onboarding. Students who can show why previous work experience is valuable in a new job will continue to be handsomely rewarded – it sets them apart. Similarly, they should be wary of schools graduating dozens of people every few weeks all seeking the same job in the same city.
+
+News flash: web development will not be the only topic adults learn when changing careers. I’m not sure why some schools put “code” in their name, but it’ll prove shortsighted. UX, design, and Data Science are the most common next courses in schools’ catalogs, and cyber security is coming next.
+
+Universities are cashing in by white-labeling products claiming a “bootcamp education.” My British fiancé believes there’s a chip implanted in first-year students during orientation at US colleges to build lifelong affinity. He may be right: Trilogy Education recently raised $30m to sell an unproven (no outcomes, no reviews…) bootcamp education to Universities (who need the cash) who allow it to be resold under the university brand.
+
+The table stakes
+
+
+
+Outcomes. 2017 will see two independent, competing standards for reporting outcomes. The arguments around which is better are useful but largely inside baseball. CIRR members already publish stats, while EducationQA promises to eventually include more types of schools and programs. But the basic point is that reporting outcomes is a requirement for students, and soon, reporting within one of the main standards will be as well. Neither of the schools that just closed, Dev Bootcamp and The Iron Yard, reported outcomes.
+
+Incredible career services. Students commonly spend as much time in career services as they do learning in the program. As a result, the best schools 1) weave career services into the curricula months early (this is one of the hidden innovations versus a traditional college education that puts career services into separate buildings altogether), and 2) budget for the cost of hiring phenomenal career coaches, advisors, and mock interviewers. Covering up to six months of career coaching is crucial for student success.
+
+The pitfalls
+
+Sebastian Thrun once lamented, “In education people just have these irrational beliefs in these 200 year old brands. That’s the slowest thing holding back innovation.” For schools that are only 5 years old, the collective reputation is as important as any individual schools’ message. If there’s fraud, if there’s betrayal of students, if there’s profiteering, a single school may suffer in the short term but eventually it’ll hurt everyone. Splitting apart the best programs from the at-risk ones is one of the reasons CIRR brought so many competitors together.
+
+EQUIP, the Obama-era initiative, is an experiment allowing students to take out government loans to pay for bootcamp education. If scaled (and so far it’s barely starting up) the program will undermine the basic premise of bootcamps: That education should be clearly ROI-positive for students with schools directly held accountable when it’s not. Government-backed student loans, however, shift focus from outcomes to government certification. This is the road for-profit colleges went down generation ago, turning cheap loans into thousands in personal debt and unmeasurable degrees. EQUIP may be a test but its outcome would be to distort incentives and end other innovation.
+
+The critics
+
+
+
+Tressie McMillan Cottom, author of the fantastic LowerEd, recently had a Twitter debate with one mission-driven bootcamp founder. Dr. Cottom is an important voice, and schools should listen up. From her recent lecture at Harvard:
+
+It’s not that I’m critiquing bootcamps, it’s that we’ve done this before. We know how this model goes. … If people want to pay for their own employment labor market training, and I do think we should maybe start to not think of that as normal, but OK. If people have the money and discretionary income and they want to do it that’s fine.
+
+But that’s not what happens. What happens is that social policy starts chasing those programs. So we see something like EQUIP – part of this is traditional higher ed is reticent to change; doesn’t want to innovate. so Obama tested using federal student aid programs to pay for bootcamps. So you’ve got some test cases happening under EQUIP. That’s where I’ve become concerned because we’ve already done that. That’s exactly how for-profit colleges started to legitimize access to fed student aid programs in the 90s and again, we see what the logical ends of that are.
+
+Cottom also argues on her blog that students’ paying for their own education is a “tax paid for job entry.”
+
+So, ruling out government loans (like EQUIP) and students paying themselves, Cottom dismisses Bootcamps because “until the social problem is solved or the political conditions that make the market the only solution to that problem change, we will keep writing this story.”
+
+Rather than Cottom dismissing bootcamps (and founders ignoring her) both parties should listen more. In fact, Dr. Cottom’s own framework for success is exactly what Bootcamps are after:
+
+Without a guaranteed job or salary while training, [bootcamps] constitute a pre-tax paid for job entry. Of course, this only works, as I go on to say on Twitter, if 1) you don’t need the boot camp certificate as a signal 2) wages are sufficiently high to offset individual costs and 3) the boot camp credential functions for both labor market entry AND promotion.
+
+Exactly! Good adult education must be a clearly ROI-positive investment. The best schools have job guarantees and are “good” because they have clearly stated placement rates, not brands like Harvard, behind them. And lowering tuition would be fantastic both socially and in the marketplace. Coding schools’ achilles heel is that despite 22,000 graduates there’s still only 5 years of data. We’ll get there.
+
+As the industry grows we need to listen to the critics and learn from history. After all, the status quo in higher education kind of sucks. This year Columbia University introduced a one-year journalism degree (journalism!) that costs $147k. Innovation is required.
+
+The neighbors (for now)
+
+Within two years bootcamp-providers will also expand into new areas beyond courses funded by early- to mid-career adults seeking career growth.
+
+Companies will spend more money to advance their teams. General Assembly has already shifted focus to this corporate market, letting their “immersive” courses coast. In the next couple years this will be repeated by others schools going after the tens of billions spent on offline corporate training. Udacity is on to a similar trend, and has excelled as the go to provider for training in Google technologies, like Android.
+
+Several startups are looking to be a more explicit college replacement. Helping 18-year olds start adulthood is a wholly different educational challenge than getting an adult a new career as bootcamp programs promise. Nevertheless, there’s a lot of people who feel ready to jump into their first job at 18 years old (especially kids in Silicon Valley for whom access to career growth let alone the the “middle class” isn’t in doubt). For even more people the costs and debt of higher education are irrational, and finding a way into that market is an exciting long-term proposition.
+
+
+
+A few names – FreeCodeCamp, Code Newbies, and Codecademy – will continue to be the “go to” places to spark curiosity in coding. There’s yet to be a breakout winner and free tools make revenue opportunities harder. But for bootcamps the free tools are an existential threat: If someone succeeds in creating a free, self-learning platform as good as bootcamp programs the cost of this education will drop from several thousand dollars to $0. When talking with students, however, the personal guidance (which accelerates learning) and career services (which connect students to actual employers) is what students are paying for.
+
+Finally, economic forces in China eclipse nearly everything happening in this largely US market (yes, there are code schools in Europe, but they’re smaller). In China there’s millions of wealthy parents and grandparents (most with only one child) who, generally speaking, idolize American Education and the tech industry. While today’s edtech entrepreneurs are weirdly US-centric, expect before the decade is out to see more people turn attention to massive and unique demand in China.
+
+It’s not rocket science
+
+Growing beyond Version 1 is not for everyone, and not everyone will survive. It’s just careful, hard work, by passionate professionals. After five years as an education entrepreneur I’ve learned, perhaps to the chagrin of my gold-seeking peers, that success will come only from those who remain harder working than the competition, more optimistic than the critics, and more dedicated than those who thought it’d be easy.

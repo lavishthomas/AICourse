@@ -1,0 +1,167 @@
+You've heard the (perhaps apocryphal) quote from Bill Parcells before. "You are what your record says you are," has some element of truth behind it, yet the phrase fails to tell the entire story. If records were the best measure of future performance, we wouldn't see upsets like the 7-9 Seahawks stunning the 11-5 Saints during the 2010 playoffs.
+
+In many cases, the simplest or most traditional statistic tells either an imperfect story or a fraction of the bigger picture. In trying to break down football games and understand which elements of performance correlate best with winning, I've come to rely on a toolbox of statistics and concepts that give me a better sense of what's actually happening on the field. Let's go through them and understand why they work (and where they come up short), starting with broader team metrics.
+
+Team statistics
+
+DVOA (Defense-adjusted Value Over Average)
+
+DVOA was created by Aaron Schatz of Football Outsiders and serves as his site's core metric. The stat measures a team's success on a given play (through points and yards gained or lost) versus what would have been expected after accounting for the down, distance, game situation and quality of the opponent. The result is expressed in percentages, so a team with a DVOA of 10 percent is that much better than the league average on a play-by-play basis.
+
+Editor's Picks The NFL's 25 most outsized contracts Eric Berry's offseason contract far surpasses anything the NFL has ever seen for a safety. Bill Barnwell analyzed every contract since 2011 -- and adjusted for position -- to find the 25 deals that most exceed market value.
+
+Time to trade Kirk Cousins? Washington blew it, faces hard truths The team's offer to its quarterback is barely credible given Cousins' leverage, and now Washington is running out of options. It could lose him for a compensatory pick next spring, or it could be proactive and seek assets now. 1 Related
+
+The most helpful element of DVOA is that you can split it all kinds of different ways to figure out, say, a team's performance on offense in the red zone or their defense on third down. (The scale flips for defensive DVOA since you're trying to prevent the other team from scoring, so a DVOA of minus-10 percent is better than a DVOA of 10 percent on that side of the ball.) DVOA also does a better job of correlating with winning in the future than a team's win-loss record itself.
+
+You can read more about DVOA here. It can also be applied to players, but it's a far less effective metric for individual team members given the difficulty in comparing players across different schemes and styles. Individual DVOA has some limited uses, such as comparing running backs on the same team who play behind the same offensive line.
+
+2017 impact: The Texans made the playoffs at 9-7 but finished a staggeringly low 29th in DVOA, sandwiched between the abysmal 49ers and Rams. On the other hand, the Eagles finished fourth in DVOA -- between the Falcons and Steelers -- but won only seven games, thanks in part to a tough schedule. DVOA would expect Houston's record to decline and Philadelphia's to improve next season.
+
+The Texans made the playoffs in 2016 but ranked just 29th in Football Outsiders' DVOA statistic. Photo by Ronald Martinez/Getty Images
+
+Point differential
+
+A team's point differential is also a better measure of future wins than its actual win total, a reality that holds true in many other major professional leagues. As an example, consider the 99 teams who finished 8-8 between 1989 and 2015. The 51 teams with a point differential greater than or equal to zero won an average of 8.6 games the following year. The 48 teams who posted a negative point differential won an average of 7.3 contests the next season.
+
+We can figure out how many games a team "should" have won in a given season based off their point differential by calculating their Pythagorean expectation, a metric invented by Bill James for baseball and applied to football by Daryl Morey. The latter figured it out for Stats Inc. before going on to run the Houston Rockets. The formula spits out a winning percentage, which fans can multiply by 16 to get an expected win total. More often than not, teams whose win total outstrips their Pythagorean expectation will decline the following year, as was the case with the 2016 Panthers and Broncos. The opposite is true for teams who underperform their Pythagorean expectation, which helped push the Cowboys, Giants and Titans toward winning records last season.
+
+2017 impact: The Raiders won 12 games but outscored their opponents by only 31 points, producing a Pythagorean expectation of 8.7 wins. That gap -- 3.3 wins -- is the fourth-largest since 1989. They're likely to decline. The Jaguars, meanwhile, went 3-13 with the Pythagorean expectation of a 5.9-win team. Jacksonville might not be great, but that 2.9-win gap suggests the Jags should be looking up in 2017.
+
+Derek Carr and the Raiders were lucky to win 12 games last season, according to the Pythagorean expectation metric. Christopher Hanewinckel/USA TODAY Sports
+
+Record in close games
+
+Closely related to the gap between a team's point differential and their actual record is how they perform in close contests. Historically, with precious few exceptions, teams will win games that are decided by seven points or less about 50 percent of the time. (I'm using seven points as opposed to eight to make it easier to compare teams across eras when the two-point conversion was not part of the NFL game.)
+
+Evidence suggests that teams like the 2001 Bears, a squad that went 8-0 in games decided by seven points or fewer, are extremely unlikely to keep that up year after year. The following year, those same Bears went 4-6 in one-score games, with their overall record falling from 13-3 to 4-12.
+
+To be clear, teams aren't "due" to decline and have a subpar record the following year; that's the gambler's fallacy. Teams with particularly good or bad marks during a year of one-score games are equally likely to be great or terrible in those games the following year. Our expectation is that they'll be average, which is what we call regression toward the mean.
+
+2017 impact: The Dolphins went 8-2 in one-score games last season, with seven of their final eight wins coming by seven points or fewer. It's unlikely they'll be as effective in close games again. Meanwhile, the Chargers were 1-8 in one-score contests. They're likely to improve, but so were the 2016 Chargers after the 2015 version of the team went 3-8 in those same games. Even if teams with terrible records in one-score games might improve 90 percent of the time the following year, nothing is guaranteed in the NFL.
+
+The Chargers went 1-8 in close games last season and finished the year 5-11. AP Photo/Ed Zurga
+
+Quarterback statistics
+
+Yards per attempt and adjusted net yards per attempt
+
+The simplest individual metric with which to judge quarterbacks is yards per attempt (YPA), which shouldn't require much explanation. YPA correlates well with winning, but the complicated passer rating statistic is better.
+
+Passer rating is built on an antiquated framework and doesn't fit the modern game, so if we're going to use raw data to create a complex quarterback stat, we might as well use one built more recently that boasts a stronger quantitative underpinning. Adjusted net yards per attempt (or ANY/A) uses more modern research by Chase Stuart to estimate the value of touchdowns and interceptions while also incorporating sacks, which evidence suggests has plenty to do with quarterbacks despite being commonly blamed on the offensive line. You can find out more about ANY/A here.
+
+2017 impact: Despite receiving praise for his hot start, Carson Wentz had a dismal rookie season by ANY/A, ranking between Blake Bortles and Case Keenum at 27th among qualifying passers. NFC East rival Kirk Cousins, meanwhile, finished fourth overall, ahead of Drew Brees and Aaron Rodgers.
+
+Kirk Cousins had his most efficient season as a pro in 2016. Patrick Smith/Getty Images
+
+The Pro-football-reference.com index statistics
+
+One of the problems with comparing quarterbacks is accounting for the era in which they play. Right now, for example, we're in an era when both passing stats and scoring are at all-time highs. What passes for average in the modern game would've been deemed superstar numbers as recently as 25 years ago.
+
+The indispensable Pro-football-reference.com (PFR) adjusts for era in several key metrics with their index statistics, such as Sack Rate+ (Sack Rate Index) or ANY/A+. PFR measures the number of standard deviations above or below the mean that a player accounts for in a particular category, and multiplies it by 15 to create the index stat. It's not a perfect methodology, but this does an excellent job of putting things in context in terms of key quarterback rate stats.
+
+2017 impact: Jared Goff was staggeringly bad as a rookie, posting the worst ANY/A+ since the AFL-NFL merger in 1970 among quarterbacks with 200 passes or more. He narrowly beat out a group of terrifyingly awful rookie passers, including Ryan Leaf on the negative side and, more promisingly, Terry Bradshaw on the positive path. Nobody wants to start with a terrible campaign, but with a much-improved offensive line, Goff could still get better.
+
+Jared Goff was the first pick of the 2016 NFL draft but struggled as a rookie on the Rams. Richard Mackson/USA TODAY Sports
+
+Total QBR
+
+QBR, a metric developed by ESPN Stats & Information, incorporates several elements of quarterback play that aren't often accounted for in other quarterback metrics, including penalties and fumbles. It adjusts for context, giving far more credit for a 7-yard gain on third-and-6 than it does for the same yardage on third-and-13, because it's built on an expected points framework. It also uses evidence to divide credit for a play between a quarterback and his receiver, which makes sense on a fundamental level. When Dak Prescott tosses a screen pass 1 yard downfield to Ezekiel Elliott and the latter jukes four defenders out before taking it to the house, it's debatable whether Prescott deserves 10 percent or 15 percent of the credit for the play. It's far less plausible to suggest he deserves 100 percent of the yardage.
+
+I wouldn't suggest QBR is perfect, although its biggest problem previously -- the fact that it wasn't adjusted for the quality of the opposing defense -- has been fixed. If one passer has a QBR of 60 and another is at 55, I wouldn't use QBR to suggest one is definitively better than the other.
+
+At the extremes, though, QBR is useful. If a quarterback is sixth in the league in QBR when he's not pressured but 29th in QBR when the defense is on him, I'm confident the game tape will back up the idea that he struggles more under pressure than most passers. If a quarterback is 10th in passer rating and 28th in QBR, I'm going to see whether there are mitigating factors that could be inflating his traditional stats. No measure is perfect, but QBR is the most effective one-number metric for quarterbacks dating back through 2007.
+
+2017 impact: Tyrod Taylor was far more effective as a quarterback by QBR than he was by popular perception last year, finishing ninth in the league with an opponent-adjusted Total QBR of 68.2. The Bills can move on from Taylor after this season, so the QB may very well hit the market next year underrated by traditional metrics.
+
+Total QBR ranked Tyrod Taylor as a top-10 QB last season. Kevin Hoffman/USA TODAY Sports
+
+Running back statistics
+
+Success rate
+
+A Football Outsiders statistic that serves as a check on the efficiency implied by yards per carry, success rate measures the rate at which a rusher keeps his offense "on schedule." In most situations, a successful run picks up 40 percent of the needed yardage for a conversion on first down, 60 percent on second down, or 100 percent on third/fourth down, with adjustments for game situation in the fourth quarter.
+
+The strength of this stat is also its weakness: It penalizes players who rack up most of their yardage with a few big runs if they aren't also efficient. That sounds like it would hate a boom-or-bust back like Barry Sanders, but the stats suggest Sanders was more efficient than you remember, especially earlier in his career. Big plays are always nice, but unless you're Barry Sanders, it's far tougher to sustain those bigger plays from year to year.
+
+2017 impact: Jay Ajayi turned into a franchise back once the Dolphins gave him the starting job, as the second-year man averaged 4.9 yards per carry, which was good for eighth in the league. Those numbers are buoyed by several big plays: Ajayi was the only back in football with four carries of 40 yards or more. Ajayi's success rate on runs was just 43 percent, which was 32nd among 42 qualifying backs.
+
+Jay Ajayi made his first Pro Bowl last season after rushing for 1,272 on 261 carries. Chris Trotman/Getty Images
+
+Wide receiver/tight end statistics
+
+Catch rate
+
+One of the more basic statistics on this list, catch rate is simply the number of passes a receiver catches divided by the number of targets in his direction. Targets can be murky -- there are some passes that get arbitrarily assigned to a receiver even though they're not remotely catchable or get batted away before the receiver ever has a shot at catching the ball -- but overall, a receiver's catch rate is a worthwhile measure of efficiency. If two players each catch nine passes for 80 yards, the receiver who caught those nine passes on 10 targets is far more effective than the one who needed 17 targets.
+
+2017 Impact: Brandon Marshall saw his catch rate fall from 63.4 percent in 2015 to 47.2 percent last year, the worst figure in football for receivers with 100 targets or more. Playing with Ryan Fitzpatrick didn't help matters, but then again, Fitz was playing quarterback in 2015, too. He'll have to hope the presence of Eli Manning under center -- arguably the best quarterback Marshall has caught passes from during his decade-long career -- helps him turn that catch rate around.
+
+Air yards per target
+
+The other element of receiving -- one that influences catch rate greatly -- is the degree of difficulty on a player's reception attempts. A deep threat like DeSean Jackson can be wildly effective if he posts a catch rate of 55 percent, while an underneath wideout like Danny Amendola needs to be closer to 70 percent to justify his spot in the receiving rotation. The range of air yards per target for wide receivers varies from more than 16 yards per target (Jackson, J.J. Nelson) down to fewer than 6 yards per target (Anquan Boldin, Adam Humphries).
+
+The classic example is Colts tight end Jack Doyle. Over the past three seasons, Doyle has caught 80.2 percent of the passes thrown to him, the best figure in the league for a wide receiver or tight end. Not coincidentally, the average pass to Doyle has traveled fewer than 5 yards in the air, which was also the lowest figure in the league for any wide receiver or tight end by more than half a yard.
+
+2017 impact: The Raiders signed Cordarrelle Patterson, presumably to pitch in as a returner and help stretch the field on offense. By the time he finished his tenure with the Vikings, though, Patterson was almost exclusively a target on screen passes. The average pass to the speedy Patterson traveled just 4.7 yards in the air last season, the lowest among wideouts by a comfortable margin. The second-lowest average among wideouts was the 5.7-yard mark recorded by Humphries.
+
+Cordarrelle Patterson averaged just 8.7 yards per catch last season. Robin Alam/Icon Sportswire
+
+Receptions per route run
+
+A measure of how integral a player is to a passing game, receptions per route run analyzes the frequency with which a receiver demands the football on the field. Receptions aren't created equal -- some players come onto the field for only designed passes in their direction, while others are catching checkdowns when the offense breaks down.
+
+The leading reception rate among wideouts last year was the 23.5 percent mark posted by Kansas City's Tyreek Hill. Theo Riddick trailed him, but led the way at running back with 21.2 percent. The leading star wideout in this category is A.J. Green, who caught the ball on 19.6 percent of his routes. Perennial rival Julio Jones was below him at 18.4 percent. The top tight end? C.J. Fiedorowicz at 19.2 percent. I didn't see that one coming, either.
+
+2017 impact: Hill has gone from being a third wideout and part-time offensive weapon for the Chiefs to the team's presumed top wide receiver this season. Can he continue to rack up receptions at a league-best rate as an every-down wide receiver this year?
+
+Pass rusher statistics
+
+Quarterback knockdowns
+
+Sacks are the most meaningful statistic used to judge pass-rushers, but they're too few and far between to be our only gauge. The difference between a great season (12 sacks) and a solid, unremarkable campaign (eight sacks) is one sack per month. Judging players that way tends to be dangerous, which is why we generally discount stats like rushing and receiving touchdowns because of their year-to-year volatility.
+
+Another way to judge a pass-rusher's effectiveness is the number of quarterback knockdowns (also called quarterback hits) he racks up in a given season. This number includes sacks (where the quarterback hits the turf), but doesn't include strip sacks (where the edge rusher bats the ball out of a quarterback's hands).
+
+While the best pass-rusher in the league might make it to only 15 sacks, the league leader in quarterback knockdowns will often approach 35 hits. The knockdowns put J.J. Watt's dominance in perspective. When healthy, he puts even other great edge rushers to shame:
+
+Year J.J. Watt Hits Rank Second Place Hits 2012 43 1 Cameron Wake 33 2013 46 1 Robert Quinn 34 2014 51 1 Carlos Dunlap 28 2015 50 1 Aaron Donald 37
+
+Vic Beasley Jr. led the league in sacks last season with 15.5, but Aaron Donald topped the hit charts with 31. More on Beasley and his 2017 prospects in a second.
+
+Sacks per knockdown
+
+While any pass-rusher getting to the quarterback is doing the right thing, the difference between a sack and a knockdown can come down to a fraction of a second or a lone step. Over the past five years, regular pass-rushers (guys with 10 or more hits in a given season) have turned about 43 percent of their knockdowns into sacks.
+
+Players who have a disproportionately high or low percentage of sacks per knockdown are likely to see their sack total rise or fall accordingly the following year. On the low side, the obvious candidate to improve after 2015 was Jets defensive end Leonard Williams, who turned his 21 hits into just three sacks (14.3 percent). Last year, he jumped from three sacks to seven and made his first Pro Bowl. The opposite example was Washington linebacker Preston Smith, who had eight sacks on 10 hits during his rookie year. Despite moving into a starting role last season, his sack total fell to five.
+
+2017 impact: Beasley is a prime candidate for regression this year. He racked up 15.5 sacks on just 16 knockdowns, and while he had several strip sacks that wouldn't count as knockdowns, it's extremely likely that his sack total will fall back to earth in his third season. His 96.9 percent sack-per-knockdown rate is the second-highest over the past five seasons. For comparison, Nick Perry had the second-highest rate in 2016 all the way down at 68.8 percent.
+
+It's impossible to produce a worse rate than Jihad Ward, who did not record a sack during his rookie season despite producing 10 knockdowns. He'll get his first sack in 2017. Datone Jones (8.3 percent) and the wildly underrated Tom Johnson (8.7 percent) also qualify. One more notable candidate is Lions star Ezekiel Ansah, who recorded just two sacks on 15 hits during an injury-plagued campaign.
+
+Vic Beasley Jr. will almost surely see his sacks total fall from 15.5 after having just 16 total knockdowns. Brett Davis/USA TODAY Sports
+
+Kicker statistics
+
+Adjusted kicker stats
+
+Football Outsiders tracks the efficiency of kickers, expressing them versus league-average in a given range after adjusting for the weather and altitude of the kick. The latter variable is critical, given how much easier it is to hit from distance in Colorado. The result is expressed in points above or below league-average. FO also tracks the same stats for punters, kickers and return men, though those are also far more subject to the abilities of the blocking units than the field goal kickers themselves.
+
+2017 impact: The worst kicker in football last year was Tampa Bay's Roberto Aguayo, who the team traded up for in the 2016 draft and was worth a league-low minus-15.2 points last season, missing nine field goals and two extra points. The Bucs signed Nick Folk this offseason and gave him a $750,000 signing bonus, suggesting Aguayo's time in Tampa might not last.
+
+Roberto Aguayo struggled last season for Tampa Bay, missing nine field goals and two extra points. Jeremy Brevard/USA TODAY Sports
+
+Hidden special teams statistics
+
+Hidden football stats sounds like the secret menu at a restaurant, but it's an amalgamation of numbers tracked by FO. Their "hidden" special teams statistic consists of elements of special teams that matter but are out of the opposing team's control. The stat takes the opposing team's kickoff placement and punt distance into account, but most crucially, it accounts for the opposition's performance on field goal attempts.
+
+FO expresses this metric in terms of points of field position, and the range is quite enormous. The luckiest team in the league last year was the Dolphins, who received 20.1 points of "hidden" help. Meanwhile, the unluckiest team was Chicago, who lost 13.3 points of field position from the opposition. That's a 33.4-point swing. Indeed, despite Chicago's volatile weather conditions, opposing kickers connected on a league-best 94.3 percent of their field goals against the Bears, while teams hit only 74.3 percent of their field goals and 89.5 percent of their extra points against Miami.
+
+2017 impact: You would expect the Dolphins to regress toward the mean, as teams haven't displayed much ability to hold on to these hidden benefits, but Miami doesn't appear to be budging. They've ranked in the top three of special-teams luck since 2013 and haven't ranked outside of the top seven since 2010. Indeed, since that 2013 season, opposing kickers have successfully converted a league-low 77.5 percent of their field goal tries against the Dolphins. The Patriots (77.9 percent) are the only other team in the league below 80 percent.
+
+There's no evidence that teams can pull this off deliberately from year to year, so it's interesting to see what's happening with Miami. They've turned over most of their special teams personnel during that four-year stretch, but one exception has been special-teams coordinator Darren Rizzi, who has been on the books since 2010. Miami hasn't been especially impressive on special teams over that time frame, with an average rank in FO's metrics of 19th.
+
+It's bizarre that the Dolphins would be middling at special teams on the whole, but great at this single, seemingly uncontrollable element of the game. Bruce Arians criticized Rizzi and the Dolphins for barking out snap counts before an extra point last season, though Arians has a history of complaining about special-teams plays. The snap count maneuver would be illegal, but it's hard to imagine the Dolphins executing such a tactic for the better part of a decade without being scolded by the league at some point.
+
+It's tempting to credit Miami's fans for inducing misses, but opposing kickers have hit 77.6 percent of their kicks against the Dolphins at home and a nearly identical 77.5 percent of their tries at Miami over that time frame. The same fans were also around in the previous decade, however, and opposing kickers hit on a far more standard 83.2 percent of their tries back then.
+
+That's one of the fun things about pairing advanced statistics with football: Sometimes you stumble onto something important and seemingly meaningful -- and have absolutely no explanation for it.

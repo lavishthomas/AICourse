@@ -1,0 +1,197 @@
+The art of analysis often fails to deliver ginarmous success simply because of how limited our worldview is when we go about identifying bottom-line impacting insights.
+
+Hence, this is a post on a simple concept that will drag you out of your current "what is happening on my website?" comfort zone, and out of your Google Analytics, Site Catalyst, WebTrends worldview silo.
+
+Sounds like fun?
+
+It is. And you end up becoming rich and famous. Not too shabby, right?
+
+Macro Business Context: The Big Deal
+
+Digital is an obsession for almost everyone who reads this blog. Part of the reason is that even if you work for a multi-channel company you are likely in the "web," "interactive," "internet," or "digital" division. That narrows your responsibilities, and in turn your worldview. Part of the reason is that the data you to which you have access narrows your worldview – "Hey, all I have is Google Analytics, so all I'll look at is Google Analytics data!"
+
+Somewhere inside us we know that there is more to our business than digital; we are not stupid. But the two reasons above combine to narrow our focus. This does not mean you'll cause a huge disaster for your company. No. But it is very likely that you are not going to have the hugest possible impact. Your company will be, at best, just as good as others (since people at other companies also have conveniently narrow world views).
+
+I don't like that.
+
+We should shoot for the stars! We should shoot for magnificent glory!
+
+Let's try to do that today with a very simple story, one that I hope will have much broader implications on your digital success measurement.
+
+Macro Business Context: The Challenge
+
+I was working with a company that runs a private college type system. Let's call them ZQI University.
+
+At ZQI U, a vast number of students enroll into online-only courses (just like our analytics, PPC, mobile, and SEO Master Certification students at my awesome Market Motive). But ZQI U also has many real world campuses, so students can enroll online and attend in the real world.
+
+Digital advertising and marketing is a key part of ZQI's multi-channel acquisition portfolio. They do everything.
+
+The cloud above is a rough to-scale approximation of their current traffic sources. As is common in these types of educational companies, aggregators rule the roost. They are simply much better and way more aggressive than the educational companies themselves. They are also a lot less weighed down by legacy mental models than the educational companies, which enables them to think smarter and move faster.
+
+So if you are ZQI, how should you measure success? How should you decide which one of these acquisition sources you should invest in more? How do you decide which one delivers higher value to the business?
+
+Business As Usual
+
+The answer to those questions might seem obvious.
+
+Tell me how many people came to my website. Tell me how many of those converted into leads.
+
+Well, that is quite easy. Just crack open your funnel in WebTrends, or the analytics tool you temporarily call your BFF.
+
+Now that you have the macro view (don't expect your lead generation/conversion rate to look that good!), how can you figure out which acquisition channel is more important?
+
+Again, easey peasey.
+
+Apply advanced acquisition segments to your data, press a button here and press a button there and … boom!
+
+The above image only illustrates three segments and their conversions – search, referrals, and aggregators – purely for the sake for simplicity.
+
+Back to the question, where should we invest more / which source is the best one for our business? Which fire should we add more fuel to?
+
+The answer is simple: Aggregators.
+
+They are the best drivers of traffic, they are the best generators of leads. Let's go find more aggregators / increase the bounty / be more aggressive in another way to get them to promote ZQI University.
+
+And that is where we normally stop. I'd be lying if I did not also say that at this point we also expect a pat on the back / bonus / promotion.
+
+The Fly in the Ointment
+
+The challenge, of course, is that getting leads adds zero value to the business. As digital practitioners, we forget that blunt truth. In this case some value comes only if the student completes an application.
+
+So Site Catalyst is essentially showing you a limited funnel if all you look at is the above picture.
+
+Even if you are the digital analyst you need to at the very minimum look at this funnel …
+
+At the moment you don't look at the third step for a very simple reason. That data is not in Google Analytics. It is in some ERP/CRM/Backend system inside your company. And you don't have access to it.
+
+Go hit someone up. With a chat if that works. With a Facebook poke if that works. With a lovely smile if that works. With a threatening glare if you are good at that sort of a thing.
+
+Because you need to know if you your earlier answer, that you should be pumping your precious marketing dollars to Aggregators, is the right answer.
+
+Resist the instinct to go to the CFO with a massively parallel processed big data warehouse monkey dance business lack of intelligence tool to comprehensively measure everything and God.
+
+It will take too long. It will cost too much. It will never have ROA (return on analytics).
+
+You CFO might also laugh at you and shoo you out of her office.
+
+Just get a quick dump of the completed applications into Excel. Join that data with your Site Catalyst / WebTrends data with the lead_id as your primary key.
+
+Now apply your original segments to the funnel, and boom!
+
+OMG! OMG! OMG!
+
+What happened to all those "valuable" leads from Aggregators? And your "analyst expert" recommendation was to invest more in Aggregators. Ouch. : )
+
+That tiny sliver of traffic from Referrals is not looking so bad now, is it?
+
+And just look at all that Search traffic from Bing!
+
+Now, what's your recommendation to the business?
+
+Different, right?
+
+That is what I mean by measuring real end-to-end success, about obsessing about real business profitability.
+
+Forget Digital Conversions, Obsess About Real Business Profitability
+
+Wait, wait, wait. Simmer down. I know. I know what you are going to say, you smart, awesome person that you are.
+
+I do know that real business profitability for ZQI U does not come from the number of successful applications submitted.
+
+Here's the rest of the funnel that takes us down to the actual point of real business profitability:
+
+We only make the maximum amount of money as a business, after the student completes the course.
+
+If they submit the application and are accepted, but don't enroll in the course, we don't make money.
+
+If they enroll in the course but don't start the course, we don't make much money (maybe some cancellation fees, but come on, that is a pathetic revenue source).
+
+If they start the course but don't complete it, we've not made the *complete* amount of money,
+
+So when you head out to measure the success of your digital advertising and marketing, you need to know the conversion rate at step six, not just step two. Yes, in Google Analytics you can only see step two. Yes, you will have to wait for step six to be completed and it does take time – how do you feed the "real time optimization" monster (just remember, in real time if you optimize garbage, you still have garbage)?
+
+For tactical optimization, maybe you can use step five as your success point (# of students that Started the course / # of Visits to the site). But when it comes to strategic media (ad/marketing) budget optimization, you need to look at step six (Completions).
+
+And how do you know where to invest your ad dollars? Here you go…
+
+Aggregators send 40% of the traffic to your site. A lot of that traffic also submits leads that go to your normal sales process. But when it comes to the quality of students that aggregators send to ZQI U, the students that successfully complete the course (hurray for them!) and deliver real business profitability to us, aggregators fall short. Way short.
+
+ZQI should be obsessing incessantly about Referral traffic. Even if it looks like a small referrer, we can see it delivers a good chunk of ultimate profitability. ZQI should obsess about Search because it delivers 40% of the ultimate business profitability, from just 20% of the site traffic.
+
+This is how business practitioners become worthy of a ticker tape parade in downtown:
+
+By not focusing on just the digital data. By not focusing on just the digital conversions. By not even focusing on false prophets masquerading as real offline conversions. But by focusing on the ultimate business point of profitability.
+
+Here's a simple picture to illustrate the key concepts. On the left the area where the engagement happens, on the right the amount of profitability accrued to your business.
+
+Explains so much about why so often digital analysts are not taken seriously, right? If you stop at the point where the company has made no money, why should you be taken seriously?
+
+Let me repeat, you can do this using a massively parallel processed big data warehouse monkey dance business lack of intelligence tool to comprehensively measure everything and God. That would be almost a perfect boondoggle for digital analytics consulting companies, or your internal IT teams.
+
+But you don't have to.
+
+It is manual, hard and not long-term sustainable, but you can get by with Excel (and my pretty conversion of the Excel data into the above PowerPoint picture!) for a while. You can earn trust, credibility and impact the business. Then you can go on your boondoggle. That would be ok, and perhaps even necessary as you scale.
+
+And what metric should you focus on in this proper end-to-end view?
+
+You can take any number of complicated paths. I try to keep things as simple as possible (Occam's Razor!).
+
+Start simply by measuring the abandonment rate of each step in the process. Where's the leakage? Prioritize fixes.
+
+Even with this simple view you can quickly identify where there are overall issues, or just for particular segments. It helps bring focus, it helps identify actions that add business value.
+
+The mental model is simple. It might be a little difficult to get abandonment rates at each steps, you might have to deal with people, process, politics. But, as advised earlier in the post, you start with aggregate data for just these segments, you might find smoother sailing. You can complicate things later.
+
+Remember, the quest is simple. We are not going to accept stopping at where our job responsibility stops (digital). We are not going to accept stopping where our web analytics data stops. We are going all the way to the real point of business profitability!
+
+Identify the Real Business Profitability Point: E-commerce
+
+We've used a university to illustrate the incredible value of going all the way down to the real business point of profitability. But you can go through this process for any type of digital entity (for profit, non-profit).
+
+Let's take an e-commerce company. It could be a pure-play (Amazon, Shopbop), or multi-channel (Macy's, Wal-Mart).
+
+Typically, we measure success by analyzing where people come from, and how many of those place an order online. That is not bad. But we can make a very simple extension to our analytical/success view and look at returns as well.
+
+This makes us smarter in how we judge success. For example, Google could send you a ton of traffic via your pay-per-click campaigns. A bunch of them could also convert. But if the return rate for the orders is 10%, you may wipe out your entire profitability.
+
+Now compare returns rate for Facebook and AOL and Email and … on and on.
+
+You just have to stretch the time horizon you are looking at a bit more (look at the data 30 days after the order was fulfilled, typically the window for returns). And you have to stretch your data sources and not be limited by Adobe Analytics or whatever else you have.
+
+If you want to be slightly more awesome (admit it, that sounds so tempting!), focus not on what happens 30 days after but rather what happens over a longer time horizon. Say three to six months after the original customer was acquired.
+
+Your "funnel" would look like this …
+
+Awesome, right? Now you are getting into the yummy customer lifetime value territory. You are getting in the delicious quality of customer territory.
+
+From here you can go into online purchases and offline purchases (if you are omni-channel) and so much more.
+
+And it all starts with a desire not to be limited by what your digital analytics solution can offer, and not to wait for God's perfect single source of all company data to come into existence five years from now, fifteen million dollars over budget.
+
+Identify the Real Business Profitability Point: B2B.
+
+What if you don't sell anything online? What if you don't sell anything to customers? What if almost all of influencing and conversions happen offline via a complicated process of meetings, dinners, RFPs and complex negotiations with multiple organizations?
+
+You can still use the same mental model to identify the real point of business profitability and measure the success of your digital activity.
+
+Let's say you are a company that belongs to one of my absolute favorite B2B entities, Danaher Corporation.
+
+For each company in the Danaher portfolio, we could use the process outlined above to identify the real point of business profitability and identify the success of the company's investment in Google or Yahoo! or other digital channels …
+
+The specific description of each step will be a little different for each Danaher portfolio company. But going through this process will ensure that the next time Mr. Larry Culp asks a company what is digital doing for their business, the question will be infinitely easier to answer.
+
+This is not easy work, especially in B2B companies. The muscle you need to pull this off has not been exercised for a while, if ever. But we simply don't have a choice. If we don't do this, digital will remain an afterthought, companies will not take full advantage of all the incredible possibilities the digital revolution offers, and they might even suffer in the medium to long term.
+
+But when we do it, the aforementioned awesomeness follows.
+
+So if you are a B2C, B2B, A2Z, company, if you sell everything digitally or non-digitally, if you sell underwear or tires or services or software or just people, obsess about identifying the real point of business profitability. Quantify how your digital efforts are delivering against that point.
+
+Go, knock 'em dead!
+
+Ok, as always, it is your turn now.
+
+How far does your company go in tying effectiveness of online advertising to business profitability? What is your biggest challenge in trying to go beyond the limits of data in your web analytics platforms? Do you have success stories to share about following this process and winning? Speaking of the process, what's missing from the above picture? What can I do to improve it?
+
+I would love to have your ideas, war stories, guidance, and suggestions for improvements.
+
+Thank you.

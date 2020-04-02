@@ -1,0 +1,23 @@
+Want to make sure a photograph survives your lifetime? Print it out. That’s the warning Internet pioneer Vint Cerf gave at a talk recently, saying that vast amounts of digital information may soon be lost in a new digital “dark age.”
+
+
+
+In historiography, the “dark ages” refer to a period of time in Europe in which relatively few historical records survived, causing that section of history to be hidden from the view of modern historians.
+
+At a recent American Association for the Advancement of Science conference in San Jose, Cerf — one of the “fathers of the Internet” — warned that a second dark age may be looming in the horizon due to the fact that so much of our data these days is kept in digital formats.
+
+“If we don’t find a solution our 21st Century will be an information black hole,” Cerf warned the audience. “We think about digitizing things because we think we will preserve them, but what we don’t understand is that unless we take other steps, those digital versions may not be any better, and may even be worse, than the artifacts that we digitized.”
+
+He warned specifically about the loss of precious personal photos that may not be readable in the future:
+
+We have various formats for digital photographs and movies and those formats need software to correctly render those objects. Sometimes the standards we use to produce those objects fade away and are replaced by other alternatives and then software that is supposed to render images can’t render older formats, so the images are no longer visible. This is starting to happen to people who are saving a lot of their digital photographs because they are just files of bits. The file system doesn’t know how to interpret them, you need software to do that. Now you’ve lost the photograph in effect. If there are pictures that you really really care about then creating a physical instance is probably a good idea. Print them out, literally.
+
+Backing up photos on multiple drives and discs may be a good option for the short term, but these digital storage methods all suffer from the same flaw in the long run: the gradual decay of data over many years — something known as data rot.
+
+A longer term option may be to store your data in the cloud with giant Internet corporations (e.g. Google, Amazon, Microsoft), but this can be a pricey option, and there’s no absolute guarantee these companies will still be around in the coming decades.
+
+As Cerf says, one of the best options you may have right now for ensuring the long term survival of important photos is to print them out physically (with materials designed for longevity) and to keep the prints in a safe place.
+
+(via The Telegraph and DigitalRev)
+
+Image credits: Header photograph by Elon University, and prints photo by Leo Hidalgo

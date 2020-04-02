@@ -1,0 +1,83 @@
+M. Imakaev/G. Fudenberg/N. Naumova/J. Dekker/L. Mirny
+
+Leonid Mirny swivels in his office chair and grabs the power cord for his laptop. He practically bounces in his seat as he threads the cable through his fingers, creating a doughnut-sized loop. “It's a dynamic process of motors constantly extruding loops!” says Mirny, a biophysicist here at the Massachusetts Institute of Technology in Cambridge.
+
+Mirny's excitement isn't about keeping computer accessories orderly. Rather, he's talking about a central organizing principle of the genome — how roughly 2 metres of DNA can be squeezed into nearly every cell of the human body without getting tangled up like last year's Christmas lights.
+
+He argues that DNA is constantly being slipped through ring-like motor proteins to make loops. This process, called loop extrusion, helps to keep local regions of DNA together, disentangling them from other parts of the genome and even giving shape and structure to the chromosomes.
+
+Scientists have bandied about similar hypotheses for decades, but Mirny's model, and a similar one championed by Erez Lieberman Aiden, a geneticist at Baylor College of Medicine in Houston, Texas, add a new level of molecular detail at a time of explosive growth for research into the 3D structure of the genome. The models neatly explain the data flowing from high-profile projects on how different parts of the genome interact physically — which is why they've garnered so much attention.
+
+But these simple explanations are not without controversy. Although it has become increasingly clear that genome looping regulates gene expression, possibly contributing to cell development and diseases such as cancer, the predictions of the models go beyond what anyone has ever seen experimentally.
+
+For one thing, the identity of the molecular machine that forms the loops remains a mystery. If the leading protein candidate acted like a motor, as Mirny proposes, it would guzzle energy faster than it has ever been seen to do. “As a physicist friend of mine tells me, 'This is kind of the Higgs boson of your field',” says Mirny; it explains one of the deepest mysteries of genome biology, but could take years to prove.
+
+And although Mirny's model is extremely similar to Lieberman Aiden's — and the differences esoteric — sorting out which is right is more than a matter of tying up loose ends. If Mirny is correct, “it's a complete revolution in DNA enzymology”, says Kim Nasmyth, a leading chromosome researcher at the University of Oxford, UK. What's actually powering the loop formation, he adds, “has got to be the biggest problem in genome biology right now”.
+
+Loop back
+
+Geneticists have known for more than three decades that the genome forms loops, bringing regulatory elements into close proximity with genes that they control. But it was unclear how these loops formed.
+
+Several researchers have independently put forward versions of loop extrusion over the years. The first was Arthur Riggs, a geneticist at the Beckman Research Institute of City of Hope in Duarte, California, who first proposed what he called “DNA reeling” in an overlooked 1990 report1. Yet it's Nasmyth who is most commonly credited with originating the concept.
+
+As he tells it, the idea came to him in 2000, after a day spent mountain climbing in the Italian Alps. He and his colleagues had recently discovered the ring-like shape of cohesin2, a protein complex best known for helping to separate copies of chromosomes during cell division. As Nasmyth fiddled with his climbing gear, it dawned on him that chromosomes might be actively threaded through cohesin, or the related complex condensin, in much the same way as the ropes looped through his carabiners. “It appeared to explain everything,” he says.
+
+Nasmyth described the idea in a few paragraphs in a massive, 73-page review article3. “Nobody took notice whatsoever,” he says — not even John Marko, a biophysicist at Northwestern University in Evanston, Illinois, who more than a decade later developed a mathematical model that complemented Nasmyth's verbal argument4.
+
+Mirny joined this loop-modelling club around five years ago. He wanted to explain data sets compiled by biologist Job Dekker, a frequent collaborator at the University of Massachusetts Medical School in Worcester. Dekker had been looking at physical interactions between different spots on chromosomes using a technique called Hi-C, in which scientists sequence bits of DNA that are close to one another and produce a map of each chromosome, usually depicted as a fractal-like chessboard. The darkest squares along the main diagonal represent spots of closest interaction.
+
+The Hi-C snapshots that Dekker and his collaborators had taken revealed distinct compartmentalized loops, with interactions happening in discrete blocks of DNA between 200,000 and 1 million letters long5.
+
+These 'topologically associating domains', or TADs, are a bit like the carriages on a crowded train. People can move about and bump into each other in the same carriage, but they can't interact with passengers in adjacent carriages unless they slip between the end doors. The human genome may be 3 billion nucleotides long, but most interactions happen locally, within TADs.
+
+Mirny and his team had been labouring for more than a year to explain TAD formation using computer simulations. Then, as luck would have it, Mirny happened to attend a conference at which Marko spoke about his then-unpublished model of loop extrusion. (Marko coined the term, which remains in use today.) It was the missing piece of Mirny's puzzle. The researchers gave loop extrusion a try, and it worked. The physical act of forming the loops kept the local domains well organized. The model reproduced many of the finer-scale features of the Hi-C maps.
+
+When Mirny and his colleagues posted their finished manuscript on the bioRxiv preprint server in August 2015, they were careful to describe the model in terms of a generic “loop-extruding factor”. But the paper didn't shy away from speculating as to its identity: cohesin was the driving force behind the looping process for cells not in the middle of dividing, when chromosomes are loosely packed6. Condensin, they argued in a later paper, served this role during cell division, when the chromosomes are tightly wound7.
+
+A key clue was the protein CTCF, which was known to interact with cohesin at the base of each loop of uncondensed chromosomes. For a long time, researchers had assumed that loops form on DNA when these CTCF proteins bump into one another at random and lock together. But if any two CTCF proteins could pair, why did loops form only locally, and not between distant sites?
+
+Mirny's model assumes that CTCFs act as stop signs for cohesin. If cohesin stops extruding DNA only when it hits CTCFs on each side of a growing loop, it will naturally bring the proteins together.
+
+But singling out cohesin was “a big leap of faith”, says biophysicist Geoff Fudenberg, who did his PhD in Mirny's lab and is now at the University of California, San Francisco. “No one has seen these motors doing these things in living cells or even in vitro,” he says. “But we see all of these different features of the data that line up and can be unified under this principle.”
+
+Experiments had shown, for example, that reducing the amount of cohesin in a cell results in the formation of fewer loops8. Overactive cohesin creates so many loops that chromosomes smush up into structures that resemble tiny worms9.
+
+The authors of these studies had trouble making sense of their results. Then came Mirny's paper on bioRxiv. It was “the first time that a preprint has really changed the way people were thinking about stuff in this field”, says Matthias Merkenschlager, a cell biologist at the MRC London Institute of Medical Sciences. (Mirny's team eventually published the work in May 2016, in Cell Reports6.)
+
+Multiple discovery?
+
+Lieberman Aiden says that the idea of loop extrusion first dawned on him during a conference call in March 2015. He and his former mentor, geneticist Eric Lander of the Broad Institute in Cambridge, Massachusetts, had published some of the most detailed, high-resolution Hi-C maps of the human genome available at the time10.
+
+During his conference call, Lieberman Aiden was trying to explain a curious phenomenon in his data. Almost all the CTCF landing sites that anchored loops had the same orientation. What he realized was that CTCF, as a stop sign for extrusion, had inherent directionality. And just as motorists race through intersections with stop signs facing away from them, so a loop-extruding factor goes through CTCF sites unless the stop sign is facing the right way.
+
+His lab tested the model by systematically deleting and flipping CTCF-binding sites, and remapping the chromosomes with Hi-C. Time and again, the data fitted the model. The team sent its paper for review in July 2015 and published the findings three months later11.
+
+Mirny's August 2015 bioRxiv paper didn't have the same level of experimental validation, but it did include computer simulations to explain the directional bias of CTCF. In fact, both models make essentially the same predictions, leading some onlookers to speculate on whether Mirny seeded the idea. Lieberman Aiden insists that he came up with his model independently. “We submitted our paper before I ever saw their manuscript,” he says.
+
+There are some tiny differences. The cartoons Mirny uses to describe his model seem to suggest that one cohesin ring does the extruding, whereas Lieberman Aiden's contains two rings, connected like a pair of handcuffs (see 'The taming of the tangles'). Suzana Hadjur, a cell biologist at University College London, calls this mechanistic nuance “absolutely fundamental” to determining cohesin's role in the extrusion process.
+
+Nik Spencer/Nature
+
+Neither Lieberman Aiden nor Mirny say they have a strong opinion on whether the system uses one ring or two, but they do differ on cohesin's central contribution to loop formation. Mirny maintains that the protein is the power source for looping, whereas Lieberman Aiden summarily dismisses this idea. Cohesin “is a big doughnut”, he says. It doesn't do that much. “It can open and close, but we are very, very confident that cohesin itself is not a motor.”
+
+Instead, he suspects that some other factor is pushing cohesin around, and many in the field agree. Claire Wyman, a molecular biophysicist at Erasmus University Medical Centre in Rotterdam, the Netherlands, points out that cohesin is only known to consume small amounts of energy for clasping and releasing DNA, so it's a stretch to think of it motoring along the chromosome at the speeds required for Mirny's model to work. “I'm willing to concede that it's possible,” she says. “But the Magic 8-Ball would say that, 'All signs point to no'.”
+
+One group of proteins that might be doing the pushing is the RNA polymerases, the enzymes that create RNA from a DNA template. In a study online in Nature this week12, Jan-Michael Peters, a chromosome biologist at the Research Institute of Molecular Pathology in Vienna, and his colleagues show that RNA polymerases can move cohesin over long distances on the genome as they transcribe genes into RNA. “RNA polymerases are one type of motor that could contribute to loop extrusion,” Peters says. But, he adds, the data indicate that it cannot be the only force at play.
+
+Frank Uhlmann, a biochemist at the Francis Crick Institute in London, offers an alternative that doesn't require a motor protein at all. In his view, a cohesin complex might slide along DNA randomly until it hits a CTCF site and creates a loop. This model requires only nearby strands of DNA to interact randomly — which is much more probable, Uhlmann says. “We do not need to make any assumptions about activities that we don't have experimental evidence for.”
+
+Researchers are trying to gather experimental evidence for one model or another. At the Lawrence Livermore National Laboratory in California, for example, biophysicist Aleksandr Noy is attempting to watch loop extrusion in action in a test tube. He throws in just three ingredients: DNA, some ATP to provide energy, and the bacterial equivalent of cohesin and condensin, a protein complex known as SMC.
+
+“We see evidence of DNA being compacted into these kinds of flowers with loops,” says Noy, who is collaborating with Mirny on the project. That suggests that SMC — and by extension cohesin — might have a motor function. But then again, it might not. “The truth is that we just don't know at this point,” Noy says.
+
+Bacterial battery
+
+The experiment that perhaps comes the closest to showing cohesin acting as a motor was published in February13. David Rudner, a bacterial cell biologist at Harvard Medical School in Boston, Massachusetts, and his colleagues made time-lapse Hi-C maps of the bacterium Bacillus subtilis that reveal SMC zipping along the chromosome and creating a loop at a rate of more than 50,000 DNA letters per minute. This tempo is on par with what researchers estimate would be necessary for Mirny's model to work in human cells as well.
+
+Rudner hasn't yet proved that SMC uses ATP to make that happen. But, he says, he's close — and he would be “shocked” if cohesin worked differently in human cells.
+
+For now, the debate rages about what cohesin is, or is not, doing inside the cell — and many researchers, including Doug Koshland, a cell biologist at the University of California, Berkeley, insist that a healthy dose of scepticism is still warranted when it comes to Mirny's idea. “I am worried that the simplicity and elegance of the loop-extrusion model is already filling textbooks, coronated long before its time,” he says.
+
+And although it may seem an academic dispute among specialists, Mirny notes that if it his model is correct, it will have real-world implications. In cancer, for instance, cohesin is frequently mutated and CTCF sites altered. Defective versions of cohesin have also been implicated in several rare human developmental disorders. If the loop-extruding process is to blame, says Mirny, then perhaps a better understanding of the motor could help fix the problem.
+
+But his main interest remains more fundamental. He just wants to understand why DNA is configured in the way it is. And although his model assumes a lot of things about cohesin, Mirny says, “The problem is that I don't know any other way to explain the formation of these loops.”

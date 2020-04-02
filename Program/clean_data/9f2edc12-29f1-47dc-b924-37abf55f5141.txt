@@ -1,0 +1,153 @@
+There are thousands of big data tools out there for data analysis today. Data analysis is the process of inspecting, cleaning, transforming, and modeling data with the goal of discovering useful information, suggesting conclusions, and supporting decision making. To save your time, in this post, I will list out 30 top big data tools for data analysis in the areas of open source data tools, data visualization tools, sentiment tools, data extraction tools and databases.
+
+Open Source Data Tools
+
+1. Knime
+
+KNIME Analytics Platform is the leading open solution for data-driven innovation, helping you discover the potential hidden in your data, mine for fresh insights, or predict new futures.
+
+With more than 1000 modules, hundreds of ready-to-run examples, a comprehensive range of integrated tools, and the widest choice of advanced algorithms available, KNIME Analytics Platform is the perfect toolbox for any data scientist.
+
+2. OpenRefine
+
+OpenRefine (formerly Google Refine) is a powerful tool for working with messy data: cleaning it, transforming it from one format into another, and extending it with web services and external data. OpenRefine can help you explore large data sets with ease.
+
+3. R-Programming
+
+What if I tell you that Project R, a GNU project, is written in R itself? It’s primarily written in C and Fortran. And a lot of its modules are written in R itself. It’s a free software programming language and software environment for statistical computing and graphics. The R language is widely used among data miners for developing statistical software and data analysis. Ease of use and extensibility has raised R’s popularity substantially in recent years.
+
+Besides data mining it provides statistical and graphical techniques, including linear and nonlinear modeling, classical statistical tests, time-series analysis, classification, clustering, and others.
+
+4. Orange
+
+Orange is open source data visualization and data analysis for novice and expert, and provides interactive workflows with a large toolbox to create interactive workflows to analyse and visualize data. Orange is packed with different visualizations, from scatter plots, bar charts, trees, to dendrograms, networks and heat maps.
+
+5. RapidMiner
+
+Much like KNIME, RapidMiner operates through visual programming and is capable of manipulating, analyzing and modeling data. RapidMiner makes data science teams more productive through an open source platform for data prep, machine learning, and model deployment. Its unified data science platform accelerates the building of complete analytical workflows – from data prep to machine learning to model validation to deployment – in a single environment, dramatically improving efficiency and shortening the time to value for data science projects.
+
+6. Pentaho
+
+Pentaho addresses the barriers that block your organization's ability to get value from all your data. The platform simplifies preparing and blending any data and includes a spectrum of tools to easily analyze, visualize, explore, report and predict. Open, embeddable and extensible, Pentaho is architected to ensure that each member of your team — from developers to business users — can easily translate data into value.
+
+7. Talend
+
+Talend is the leading open source integration software provider to data-driven enterprises. Our customers connect anywhere, at any speed. From ground to cloud and batch to streaming, data or application integration, Talend connects at big data scale, 5x faster and at 1/5th the cost.
+
+8. Weka
+
+Weka, an open source software, is a collection of machine learning algorithms for data mining tasks. The algorithms can either be applied directly to a data set or called from your own JAVA code. It is also well suited for developing new machine learning schemes, since it was fully implemented in the JAVA programming language, plus supporting several standard data mining tasks.
+
+For someone who hasn’t coded for a while, Weka with its GUI provides easiest transition into the world of Data Science. Being written in Java, those with Java experience can call the library into their code as well.
+
+9. NodeXL
+
+NodeXL is a data visualization and analysis software of relationships and networks. NodeXL provides exact calculations. It is a free (not the pro one) and open-source network analysis and visualization software. It is one of the best statistical tools for data analysis which includes advanced network metrics, access to social media network data importers, and automation.
+
+10. Gephi
+
+Gephi is also an open-source network analysis and visualization software package written in Java on the NetBeans platform. Think of the giant friendship maps you see that represent linkedin or Facebook connections. Gelphi takes that a step further by providing exact calculations.
+
+Data Visualization Tools
+
+11. Datawrapper
+
+Datawrapper is an online data-visualization tool for making interactive charts. Once you upload the data from CSV/PDF/Excel file or paste it directly into the field, Datawrapper will generate a bar, line, map or any other related visualization. Datawrapper graphs can be embedded into any website or CMS with ready-to-use embed codes. So many reporters and news organizations use Datawrapper to embed live charts into their articles. It is very easy to use and produces effective graphics.
+
+12. Solver
+
+Solver specializes in providing world-class financial reporting, budgeting and analysis with push-button access to all data sources that drive company-wide profitability. Solver provides BI360, which is available for cloud and on-premise deployment, focusing on four key analytics areas.
+
+13. Qlik
+
+Qlik lets you create visualizations, dashboards, and apps that answer your company’s most important questions. Now you can see the whole story that lives within your data.
+
+14. Tableau Public
+
+Tableau democratizes visualization in an elegantly simple and intuitive tool. It is exceptionally powerful in business because it communicates insights through data visualization. In the analytics process, Tableau's visuals allow you to quickly investigate a hypothesis, sanity check your gut, and just go explore the data before embarking on a treacherous statistical journey.
+
+15. Google Fusion Tables
+
+Fusion TablesMeet Google Spreadsheets cooler, larger, and much nerdier cousin. Google Fusion tables is an incredible tool for data analysis, large data-set visualization, and mapping. Not surprisingly, Google's incredible mapping software plays a big role in pushing this tool onto the list. Take for instance this map, which I made to look at oil production platforms in the Gulf of Mexico.
+
+16. Infogram
+
+Infogram offers over 35 interactive charts and more than 500 maps to help you visualize your data beautifully. Create a variety of charts including column, bar, pie, or word cloud. You can even add a map to your infographic or report to really impress your audience.
+
+Sentiment Tools
+
+17. Opentext
+
+The OpenText Sentiment Analysis module is a specialized classification engine used to identify and evaluate subjective patterns and expressions of sentiment within textual content. The analysis is performed at the topic, sentence, and document level and is configured to recognize whether portions of text are factual or subjective and, in the latter case, if the opinion expressed within these pieces of content are positive, negative, mixed, or neutral.
+
+18. Semantria
+
+Semantria is a tool that offers a unique service approach by gathering texts, tweets, and other comments from clients and analyzing them meticulously to derive actionable and highly valuable insights. Semantria offers text analysis via API and Excel plugin. It differs from Lexalytics in that it is offered via API and Excel plugin, and in that it incorporates a bigger knowledge base and uses deep learning.
+
+19.Trackur
+
+Trackur’s automated sentiment analysis looks at the specific keyword you are monitoring and then determines if the sentiment towards that keyword is positive, negative or neutral with the document. That’s weighted the most in Trackur algorithm. It could use to monitor all social media and mainstream news, to gain executive insights through trends, keyword discovery, automated sentiment analysis and influence scoring.
+
+20. SAS Sentiment Analysis
+
+SAS sentiment analysis automatically extracts sentiments in real time or over a period of time with a unique combination of statistical modeling and rule-based natural language processing techniques. Built-in reports show patterns and detailed reactions. So you can hone in on the sentiments that are expressed.
+
+With ongoing evaluations, you can refine models and adjust classifications to reflect emerging topics and new terms relevant to your customers, organization or industry.
+
+21. Opinion Crawl
+
+Opinion Crawl is an online sentiment analysis for current events, companies, products, and people. Opinion Crawl allows visitors to assess Web sentiment on a topic - a person, an event, a company or a product. You can enter a topic and get an ad-hoc sentiment assessment of it. For each topic you get a pie chart showing current real-time sentiment, a list of the latest news headlines, a few thumbnail images, and a tag cloud of key semantic concepts that the public associates with the subject. The concepts allow you to see what issues or events drive the sentiment in a positive or negative way. For more in-depth assessment, the web crawlers would find the latest published content on many popular subjects and current public issues, and calculate sentiment for them on ongoing basis. Then the blog posts would show the trend of sentiment over time, as well as the Positive-to-Negative ratio.
+
+Data Extraction Tools
+
+22. Octoparse
+
+Octoparse is a free and powerful website crawler used for extracting almost all kind of data you need from the website. You can use Octoparse to rip a website with its extensive functionalities and capabilities. Its point-and-click UI helps non-programmers to quickly get used to Octoparse. It allows you to grab all the text from the website with AJAX, Javaxript and thus you can download almost all the website content and save it as a structured format like EXCEL, TXT, HTML or your databases.
+
+More advanced, it has provided Scheduled Cloud Extraction which enables you to refresh the website and get the latest information from the website.
+
+23. Content Grabber
+
+Content Graber is a web crawling software targeted at enterprises. It can extract content from almost any website and save it as structured data in a format of your choice, including Excel reports, XML, CSV and most databases.
+
+It is more suitable for people with advanced programming skills, since it offers many powerful scripting editing, debugging interfaces for people in need. Users are allowed to use C# or VB.NET to debug or write script to control the crawling process programming.
+
+24. Import.io
+
+Import.io is a paid web-based data extraction tool to pull information off of websites used to be something reserved for the nerds. Simply highlight what you want and Import.io walks you through and "learns" what you are looking for. From there, Import.io will dig, scrape, and pull data for you to analyze or export.
+
+25. Parsehub
+
+Parsehub is a great web crawler that supports collecting data from websites that use AJAX technologies, JavaScript, cookies and etc. Its machine learning technology can read, analyze and then transform web documents into relevant data. As a freeware, you can set up no more than five publice projects in Parsehub. The paid subscription plans allows you to create at least 20 private projects for scraping websites.
+
+26. Mozenda
+
+Mozenda is a cloud based web scraping service. It provides many useful utility features for data extraction. Users will be allowed to upload extracted data to cloud storage.
+
+Databases
+
+27. Data.gov
+
+The US Government pledged last year to make all government data available freely online. This site is the first stage and acts as a portal to all sorts of amazing information on everything from climate to crime.
+
+28. US Census Bureau
+
+US Census Bureau is a wealth of information on the lives of US citizens covering population data, geographic data and education.
+
+29. The CIA World Factbook
+
+The World Factbook provides information on the history, people, government, economy, geography, communications, transportation, military, and transnational issues for 267 world entities.
+
+30. PubMed
+
+PubMed, developed by the National Library of Medicine (NLM), provides free access to MEDLINE, a database of more than 11 million bibliographic citations and abstracts from nearly 4,500 journals in the fields of medicine, nursing, dentistry, veterinary medicine, pharmacy, allied health, health care systems, and pre-clinical sciences. PubMed also contains links to the full-text versions of articles at participating publishers' Web sites. In addition, PubMed provides access and links to the integrated molecular biology databases maintained by the National Center for Biotechnology Information (NCBI). These databases contain DNA and protein sequences, 3-D protein structure data, population study data sets, and assemblies of complete genomes in an integrated system. Additional NLM bibliographic databases, such as AIDSLINE, are being added to PubMed. PubMed includes "Old Medline." Old Medline covers 1950-1965. (Updated daily)
+
+More related resources:
+
+Top 30 Free Web Scraping Software
+
+9 FREE Web Scrapers That You Cannot Miss
+
+
+
+Top 9 data visualization tools for non-developers

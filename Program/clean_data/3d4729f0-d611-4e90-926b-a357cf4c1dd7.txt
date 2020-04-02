@@ -1,0 +1,120 @@
+Between the Blu-Ray player, cable box, laptop, and everything else hooked up to your TV, your home theater situation is a mess. Here’s how I rolled all those devices into one awesome media center—the media center of my dreams—for under $500.
+
+Update: A lot of you have been asking for an update to this build, so we did a bit of research and found some currently in-production parts that should be very similar to the original build in this guide! We haven’t tested this exact build ourselves, but it should work much the same as the original, and we’ve updated the rest of the guide with a few new suggestions.
+
+What This Media Center Can Do
+
+You can put together a home theater PC using just about anything: an old computer, a cheap nettop, an Apple TV, or even a $35 Raspberry Pi. However, if you really want to get the most out of your HTPC, building it yourself is the way to go.
+
+We’ve tried a lot of different builds over the years, but not every build can handle everything you throw at it. This build will allow us to play virtually anything, including:
+
+All of your ripped or downloaded movies, TV shows, and music
+
+All of your DVD and Blu-Ray discs
+
+Hulu, Netflix, and Amazon Prime streaming , plus nearly any other streaming channel you can imagine like CBS, NBC, Bravo, MTV, Comedy Central, SyFy, USA, Revision3, TWiT, and many more (Unfortunately Hulu, Netflix, and Amazon Prime are much more difficult than they used to be. See this article for more information.)
+
+, plus nearly any other streaming channel you can imagine like CBS, NBC, Bravo, MTV, Comedy Central, SyFy, USA, Revision3, TWiT, and many more (Unfortunately Hulu, Netflix, and Amazon Prime are much more difficult than they used to be. See this article for more information.) Video games from nearly any classic system, as well as some PC games
+
+Part One: Choose Your Hardware
+
+In order for my media center to accomplish everything I wanted, I’ve found that I needed a very specific set of hardware, since a lot of HTPC builds are too low-powered to handle things like video games or even Netflix. This build is powerful enough to handle nearly anything you throw at it, and at a very reasonable price. It won’t necessarily play the latest games on ultra high settings, but you should be able to play them on lower settings pretty easily, and all your streaming video should run like a dream.
+
+Advertisement
+
+If you’re already set on your hardware but still want to know how I set everything up, feel free to skip down to part two below. Otherwise, you’re free to tweak certain aspects of the build to fit your needs, but here is what I recommend.
+
+The CPU : AMD A4-5300 3.4Ghz, $60: This processor is not only inexpensive, but it’s more than powerful enough to handle any tasks your home theater PC will throw at it. Plus, it has an AMD Radeon HD 7480D built in, which means it can even handle some games (like the emulators we’re going to add in later). If you want to be able to play more modern PC games, you might need a separate video card, though—which will make the build louder and more expensive.
+
+: AMD A4-5300 3.4Ghz, $60: This processor is not only inexpensive, but it’s more than powerful enough to handle any tasks your home theater PC will throw at it. Plus, it has an AMD Radeon HD 7480D built in, which means it can even handle some games (like the emulators we’re going to add in later). If you want to be able to play more modern PC games, you might need a separate video card, though—which will make the build louder and more expensive. The Motherboard: ASRock FM2A88X-ITX+, $100: This tiny motherboard has support for 7.1 HD surround sound, HDMI out, and some nice features for managing the speed (and noise level) of your fans, which is great for keeping your home theater quiet.
+
+The RAM : Corsair XMS 4GB DDR3-1600 Memory, $50: RAM prices have nearly doubled since our original incarnation of this guide, but we’re still going with 4GB of Corsair RAM. It’s high quality, and gives us enough memory to do the aforementioned gaming, since the built-in graphics chip uses your regular memory for video.
+
+: Corsair XMS 4GB DDR3-1600 Memory, $50: RAM prices have nearly doubled since our original incarnation of this guide, but we’re still going with 4GB of Corsair RAM. It’s high quality, and gives us enough memory to do the aforementioned gaming, since the built-in graphics chip uses your regular memory for video. The Hard Drive : Western Digital WD Red 2TB, $89: We like Western Digital’s Green drives Western Digital’s Red drives because they’re designed for speedy operation and ideal for network-attached storage or other multi-drive setups where reliability is king. 2TB should be enough to hold a ton of movies on your HTPC, but if you’re storing them somewhere else—like your own home server or NAS—you can just get the cheaper 1TB model for your HTPC, or even a cheap SSD and stream them from that external storage.
+
+: Western Digital WD Red 2TB, $89: We like Western Digital’s Red drives because they’re designed for speedy operation and ideal for network-attached storage or other multi-drive setups where reliability is king. 2TB should be enough to hold a ton of movies on your HTPC, but if you’re storing them somewhere else—like your own home server or NAS—you can just get the cheaper 1TB model for your HTPC, or even a cheap SSD and stream them from that external storage. The Case: APEX MI-008 Mini-ITX, $54: It’s small, attractive, and has a few USB ports in the front for your gaming controllers. It doesn’t come with any fans, which is great for silence, but if you feel like you want a bit more cooling, the side vent holes are perfectly sized to fit a couple of 80mm fans that you can buy separately (see below). It also comes with a power supply. It’s a very tight fit, so make sure you use the hard drive mount on the side, as described in the case’s instructions.
+
+Of course, case choice is completely up to you. If you’re uncomfortable with the small size, we also like the more expensive Silverstone Sugo Series (the same case we used in our original Hackintosh Mini build). If you want something that looks more at home in your media cabinet you might want these cases designed for home theater PCs. Just look at the reviews and make sure they’ll fit a full size CPU cooler, and most Mini-ITX cases should work well. Make sure you include the cost of a power supply too, however, if your case doesn’t come with one.
+
+The Blu-Ray Drive : LG Blu-Ray and DVD Drive, $50: If you want to watch DVDs or Blu-Rays on your device (not just ripped and downloaded media), you’ll want one of these. Of course, you could also get a regular DVD drive for $20, too.
+
+: LG Blu-Ray and DVD Drive, $50: If you want to watch DVDs or Blu-Rays on your device (not just ripped and downloaded media), you’ll want one of these. Of course, you could also get a regular DVD drive for $20, too. The OS: Windows 8.1 64-bit, $100: Despite the popularity of Linux as a HTPC solution, Windows is the only OS that will give you true play-everything capabilities. Netflix, Blu-Ray, and video games are all significantly easier to get working on Windows compared to Linux. Windows 8 will set you back $100 off-the-shelf, but chances are you can find it for significantly cheaper elsewhere. And of course, if you prefer Windows 7, you can use it instead.
+
+Total Cost: $493
+
+Buy this build on PCPartPicker
+
+Optional Hardware:
+
+GELID 80mm Case Fan , $9: If you want a bit of extra cooling, an 80mm case fan will fit perfectly in the holes on the above APEX case. This one’s cheap, quiet, and comes with a 4-pin connector that goes into your motherboard, so you can control its speed (and noise level).
+
+, $9: If you want a bit of extra cooling, an 80mm case fan will fit perfectly in the holes on the above APEX case. This one’s cheap, quiet, and comes with a 4-pin connector that goes into your motherboard, so you can control its speed (and noise level). A Remote Control (and an IR receiver) for couch-friendly TV watching. We’ve gone through all your different remote options before, so I won’t get into it here. Check out our guide to HTPC remotes to find out which is best for you.
+
+Some Xbox 360 Controllers for your video game needs. These are perfect because they have enough buttons to emulate nearly any video game controller, and they work out of the box in Windows. If you want to do a bit more work, you could convert an old NES gamepad for a nostalgic feel, or buy a cheap USB adapter for controllers you already have lying around, but those could involve other drivers and more hassle. If you want something wireless, you can also grab a few wireless 360 controllers for only $20 more.
+
+for your video game needs. These are perfect because they have enough buttons to emulate nearly any video game controller, and they work out of the box in Windows. If you want to do a bit more work, you could convert an old NES gamepad for a nostalgic feel, or buy a cheap USB adapter for controllers you already have lying around, but those could involve other drivers and more hassle. If you want something wireless, you can also grab a few wireless 360 controllers for only $20 more. A TV Tuner if you plan on recording cable or over-the-air TV. We won’t address it much in this guide, but you can do it in XBMC, so if you want to, this will be a bit of added cost to your media center.
+
+Once you’ve got all your hardware rounded up, it’s time to put everything together. Check out our complete guide to building a computer from scratch if you’re unfamiliar with the process, and check out this incredibly detailed build log from reader Jacob, who built a variation of this media center.
+
+Part Two: Set Up Your Operating System
+
+Again, we’re going to be using Windows for this build, not Linux. It may cost a bit more, but Linux is more difficult when it comes to Netflix, Blu-Ray, and video games, so Windows is the best OS for that “play-anything” experience.
+
+Advertisement
+
+If your copy of Windows is a digital one, you’ll want to burn it to a DVD or flash drive. Then, grab a spare keyboard and plug it into your media center. Turn it on, and press the Delete key as it starts up—this will bring you to the BIOS screen. Go to the “Boot” tab and make sure your CD drive or USB drive—whatever you’re using to install Windows—is first in the boot order. Lastly, insert your Windows CD or thumb drive and go to “Exit”, saving your changes. This will reboot you into the Windows installer, which should guide you through the process of installing your OS. When you’re finished, reboot into the BIOS and set your hard drive as the first boot item.
+
+When you’re finished installing Windows, you’ll need to install a few drivers. If your internet isn’t working out of the box, install the LAN drivers from the CD that came with your motherboard first (if your internet works, just skip this step). Then, open up Internet Explorer and head to your motherboard’s support page and head to the Driver section. Choose your OS (which should be Windows 8 64-bit, if you followed our build guide above) and download the following drivers:
+
+AMD All-in-1 Driver
+
+Realtek High Definition Audio Driver
+
+VGA Driver
+
+Unless you have a specific reason to install one of the other drivers, don’t download them, because we won’t need them. Once you’ve installed all these drivers and restarted, you’ll need to tweak your graphics settings.
+
+Right-click on the desktop and head to AMD VISION Engine Control Center. I found that on my TV, my desktop didn’t fill up the whole screen, so I had to go to Desktops and Displays > Scaling Options and turn my Overscan setting up. You may also want to browse around the Control Center and see what other tweaks look best to you on your display. I found that I had to go through and turn off just about every setting I could.
+
+Next, you’ll want to adjust our fan speeds. Restart your computer and head back into the BIOS. Under the Fan Control tab, you’ll see the speed of your CPU fan and, if you have one, your case fan. Here, you can adjust your target temperature for your CPU and Motherboard, as well as the target speeds of your fans. You may need to play around with this over time to find out what nets you the best balance between good temperatures and good noise levels, as everyone’s home is different. I just turned my case fan all the way down so it keeps up good airflow, but doesn’t make very much noise.
+
+Advertisement
+
+Lastly, bring up the Start menu and type in “Power Options”. Click on the first result and click “Choose what the power buttons do” in the left sidebar. Change “When I press the power button” to “Sleep” in the dropdown menu. This means your computer will sleep instead of turn off completely, which makes it much quicker to start back up. It also means hitting the power button on your remote, if it supports the power function, will put it to sleep instead of shut it down.
+
+Part Three: Set Up XBMC
+
+Lastly, it’s time to set up the central piece of this box: the media center software. We’ve shown you how to create a kickass, seamless media center with XBMC, so I won’t go into a ton of detail here. Check out that guide to get your fully customized XBMC box up and running like a champ. Here are the things you’ll want to know specific to this build, though.
+
+First, download and install XBMC. Then, head to its installation folder—by default, that’s C:\Program Files (x86)\XBMC , and right-click on the XBMC.exe program. Choose “Create Shortcut”, then drag that shortcut into your %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup folder. This ensures that XBMC will start up automatically with your computer. You may also want to go to %APPDATA%\XBMC/Userdata and add the following line to AdvancedSettings.xml , under the first line:
+
+<fullscreen>true</fullscreen>
+
+This ensures XBMC will always start in full screen.
+
+Next, open up XBMC and head to Settings > System > Video Output. Set your Display Mode to Full Screen if it isn’t already, and check the “Use a fullscreen window rather than true fullscreen” box. This will solve some video problems XBMC has in full screen mode.
+
+Set Up Streaming and Video Game Add-Ons
+
+Now, it’s time to install all your add-ons. Our original XBMC guide should have everything you need to know about installing add-ons, but note that which add-ons you install will change over time. Most add-ons are not official, so things like Amazon or Hulu may break over time and require updates or an entirely new add-on to work. The best way to keep up is to search around the XBMC forums.
+
+Advertisement
+
+At the time of this writing, we recommend NetfliXBMC for Netflix, Bluecop’s Hulu add-on for Hulu, and this add-on for Amazon Prime streaming . See this article for our streaming recommendations. If you want to set up video games, check out our feature on turning your XBMC media center into a video game console with Advanced Launcher. It has everything you need to know. Lastly, if you have a TV tuner and want to record live TV, check out our guide to setting up PVR support in XBMC.
+
+Set Up Blu-Ray Playback
+
+Lastly, if you want Blu-Ray playback, you have a few options. Our old Blu-Ray playing method doesn’t work in the latest version of XBMC, so we’re going to use a Blu-Ray playback suite to get the job done. Your Blu-Ray drive probably came with a program like PowerDVD or WinDVD, and you can use those to play Blu-Rays right from XBMC. All you need to do is head to %APPDATA%\XBMC\Userdata\ and create a new file named playercorefactory.xml with the following code inside:
+
+<playercorefactory> <players> <player name="Disc_Player" type="ExternalPlayer" audio="false" video="true"> <filename>C:\Program Files (x86)\CyberLink\PowerDVD9\PDVDLaunchPolicy.exe</filename> <args>"{E:}"</args> <hidexbmc>true</hidexbmc> <hideconsole>true</hideconsole> <warpcursor>none</warpcursor> </player> </players> <rules action="prepend"> <rule name="Blu-Ray" filename="D:\\.*" filetypes="bdmv" player="Disc_Player"/> </rules> </playercorefactory>
+
+Change the filename=”D:\\.*” and “{E:}” lines to correspond to the letter of your Blu-Ray drive, and change the C:\Program Files (x86)\CyberLink\PowerDVD9\PDVDLaunchPolicy.exe to correspond to your Blu-Ray program of choice. For more info, see the XBMC Wiki entry for External Players—your config may differ depending on your hardware, Blu-Ray program, and other factors.
+
+Advertisement
+
+If you don’t have a Blu-Ray capable program, or the one that came with your drive isn’t working correctly, you have a few choices. We’ve rounded up some of our favorite Blu-Ray playback suites, but pretty much all of them will cost you money. AnyDVD HD, while the most expensive, is by far the easiest setup. You won’t need to go through any of the above hassle. Just install it, run it at startup, and XBMC will automatically detect Blu-Ray discs and play them when you select “Play Disc” from your main menu.
+
+Five Best Blu-Ray Playback Suites Playing Blu-ray movies on the go on a laptop or in the living room on an HTPC with a Blu-ray drive… Read more
+
+There you have it. With the right build and the right software, you can unleash the full power of XBMC and put together a media center that plays anything your heart can desire, from streaming TV to modern video games and everything in between. Again, be sure to check out our complete guide to creating a media center with XBMC, as well as our guide to building a computer if you’re unfamiliar with the process. When you’re done, you’ll never have to use those old DVD players, cable boxes, and other junk again.
+

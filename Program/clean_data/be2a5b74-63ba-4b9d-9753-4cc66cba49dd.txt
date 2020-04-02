@@ -1,0 +1,89 @@
+In this tutorial, I will show you the steps I took to Design this Watercolour Vintage Artwork with Old Newspaper in Photoshop.
+
+The PSD file of this tutorial is available to buy on PSD Vault Shop, or via the PSD Vault VIP members area.
+
+Along the way, I will show you how to mix custom watercolour brushes and old newspaper to create vintage feel in Photoshop. This is an intermediate level Photoshop tutorial so some steps can be tricky – if you think you’re up to the challenge, please go ahead :)
+
+The inspiration of this tutorial comes from one the artwork displayed in this post on Abduzeedo.
+
+Note: The Photoshop tutorial is done in CS6 – therefore some screenshot may have slighting different layout as in the earlier version.
+
+Here is a preview of the final effect I have for this tutorial: (click to enlarge)
+
+PSD Vault VIP Membership
+
+You can download the PSD File for this tutorial via the VIP Members Area for only $6.95/Month (or less)! You will not only get this PSD File, but also 200+ other PSD Files + Extra Goodies + Exclusive Photoshop tutorials there. Signup now and get exclusive!
+
+OK Let’s get started!
+
+To complete this tutorial, you will need the following stocks:
+
+Watercolour Brushes (choose one from the list)
+
+Paper Texture
+
+Model
+
+Newspaper
+
+Step 1
+
+Create a new document sized 700px * 1020px with white background, use the watercolour brush you download, paint some texture over the background:
+
+Hint: set brush flow and opacity to around 40% for a subtle effect.
+
+Load the paper texture into Photoshop, select a portion as shown below:
+
+Copy and paste the selection over our document, set blending mode to “overlay” for this new layer:
+
+Add the following 2 adjustment layers on top:
+
+Levels
+
+Curves
+
+and you will have the following effect so far:
+
+Step 2
+
+Load the model image into Photoshop, cut out the model and place it to the position shown below:
+
+Apply the following Watercolour Filter to this new layer:
+
+Add a layer mask to this model layer, and use the watercolour brush as eraser to remove some parts of the model, as shown below:
+
+Apply the following “Reduce Noise” filter to this model layer (Filter > Noise > Reduce Noise):
+
+and you will have the following effect so far:
+
+Step 3
+
+Add the following adjustment layers as clipping mask to this model layer:
+
+Black and White
+
+Layer mask on black and white adjustment layer:
+
+Levels
+
+Layer mask on levels adjustment layer:
+
+Curves
+
+and you will have the following effect so far:
+
+Step 4
+
+Load the Newspaper image into Photoshop, use Lasso Tool with a 10px feather to select a portion of it:
+
+Copy and paste the selection below the model layer, duplicate this layer a few times, rotate and resize them, then place them around the model as shown below:
+
+Also place a copy above the model layer to the position shown below:
+
+Use a soft eraser to remove the edge of the newspaper texture to fade it into the background:
+
+Paint some more watercolour texture on the model as shown below:
+
+I further adjusted the colour balance a bit to give it a bit of old paper feel, and here is my final effect:
+
+That’s it for this tutorial! Hope you enjoy it and find it useful! Till next time, have a great day!

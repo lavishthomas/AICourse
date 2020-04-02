@@ -1,0 +1,45 @@
+520 Design
+
+This story is part of our special coverage, The News in Crisis .
+
+When Edward Snowden leaked the biggest collection of classified National Security Agency documents in history, he wasn’t just revealing the inner workings of a global surveil­lance machine. He was also scrambling to evade it. To com­municate with the journalists who would publish his secrets, he had to route all his messages over the anonymity soft­ware Tor, teach reporters to use the encryption tool PGP by creating a YouTube tutorial that disguised his voice , and eventually ditch his comfortable life (and smartphone) in Hawaii to set up a cloak-and-dagger data handoff halfway around the world.
+
+Now, nearly four years later, Snowden has focused the next phase of his career on solving that very specific instance of the panopticon problem: how to protect reporters and the people who feed them informa­tion in an era of eroding privacy—without requiring them to have an NSA analyst’s expertise in encryption or to exile them­selves to Moscow. “Watch the journalists and you’ll find their sources,” Snowden says. “So how do we preserve that con­fidentiality in this new world, when it’s more important than ever?”
+
+Since early last year, Snowden has quietly served as president of a small San Francisco–based nonprofit called the Freedom of the Press Foundation . Its mission: to equip the media to do its job at a time when state-­sponsored hackers and government surveillance threaten investigative reporting in ways Woodward and Bernstein never imagined. “Newsrooms don’t have the bud­get, the sophistication, or the skills to defend them­selves in the current environment,” says Snowden, who spoke to WIRED via encrypted video-chat from his home in Moscow. “We’re trying to provide a few niche tools to make the game a little more fair.”
+
+The group’s 10 staffers and a handful of contract coders, with Snowden’s remote guidance, are working to develop an armory of security upgrades for reporters. Snowden and renowned hacker Bunnie Huang have partnered to develop a hardware modification for the iPhone , designed to detect if malware on the device is secretly transmitting a reporter’s data, including location. They’re developing a piece of software called Sunder that uses code written by Frederic Jacobs, one of the programmers for the popular encryption app Signal 1 ; Sunder would allow journalists to encrypt a trove of secrets and then retrieve them only if several newsroom colleagues combine their passwords to access the data. And the foundation’s coders are building a plug-and-play version of Jitsi, the encrypted video-chat software Snowden himself uses for daily communication. They want newsrooms to be able to install it on their own servers with a few clicks. “The idea is to make this all paint-by-numbers instead of teaching yourself to be Picasso,” Snowden says.
+
+How to Leak (and Not Get Caught) ——————————–
+
+A brief guide to becoming an anonymous source.
+
+Web
+
+The anonymity network Tor obscures your identity by routing your online traffic through computers worldwide. Access it via the web-based Tor Browser to visit any site related to your planned contact with the press. Find a directory of the 35 or so news organizations that maintain SecureDrop portals—Tor-enabled inboxes for anonymous tips. Then choose an outlet and leak away.
+
+Phone
+
+Buy a burner —a cheap, prepaid Android phone—with cash from a nonchain store in an area you’ve never been to before. Don’t carry your regular phone and the burner at the same time, and never turn on the burner at home or work. Create a Gmail and ­Google Play account from the burner, then install the encrypted calling and text­ing app Signal. When you’re done, destroy the burner and ditch its corpse far from home.
+
+Snail mail
+
+Pick a distant mailbox, don’t carry your phone on the trip, and—duh—don’t include a real return address.
+
+But the foundation’s biggest coup has been SecureDrop, a Tor-based system for WikiLeaks-style uploads of leaked ­materials and news tips. The system has now been adopted by dozens of outlets , including The Guardian , The New York Times , and *The Washington Post. *“It works. I know,” hinted a tweet from Washington Post reporter David Fahrenthold the day after he published a leaked video of Donald Trump bragging about sexual assault.
+
+In early 2014, the Freedom of the Press Foundation’s founders—who include the first recipients of Snowden’s leaks, journalists Glenn Greenwald and Laura Poitras—asked their 30-year-old source to join the group’s board as a largely symbolic gesture. But Snowden surprised the board members by showing up to his first meeting with a list of detailed changes to its 40-plus pages of bylaws. The next year he was unanimously elected its president. “No one has more practical expertise when it comes to whistleblower and journalist communications,” says Trevor Timm, the group’s executive director. “It was the perfect fit.” Snowden has refused a salary, instead giving the group more than $60,000 of his fees from speaking engagements over the past year.
+
+Snowden’s own leaks have shown the dire need for the foundation’s work: In early 2015 he revealed that British spies had collected emails from practically every major newspaper and wire service . Other signs of encroaching state surveillance have also put journalists on guard. Late last year it emerged that Montreal police had tracked the phone calls and texts of a reporter in order to identify sources critical of the department. And in early January, before he had even taken office, Donald Trump called on Congress to investigate a leak to NBC news —one that gave the network a sneak peek at an intelligence report on Russia’s role in influencing the US election. In the months since Trump’s victory, the Freedom of the Press Foun­dation’s phones “have been ringing off the hook” with requests from newsrooms for training sessions, says Timm.
+
+Snowden is quick to note it was the administration of President Obama, not Trump, that indicted him and at least seven others under the Espionage Act for leaking infor­mation to journalists. That’s more such indictments than all other presidents in history combined have issued. But Snowden and Timm worry that Trump, with his deep-seated disdain for the media and the full powers of the US Justice Department at his fingertips, will be only too happy to carry forward and expand that precedent. (As for recent rumors that Putin may send Snowden back to the US as a “gift” to Trump, the former NSA contractor remains sanguine: "If personal safety was the only thing I was worried about, I would never have left Hawaii.")
+
+All of that makes the media’s technical protections from spying more important than ever. “We can’t fix the surveil­lance problem overnight,” Snowden says. “But maybe we can build a shield that will protect anyone who’s standing behind it.” If the group succeeds, perhaps the next Snowden will be able to take refuge not in Moscow but in the encrypted corners of the internet.
+
+Andy Greenberg ( @a_greenberg ) wrote about Google subsidiary Jigsaw in issue 24.10.
+
+This article appears in the March issue. Subscribe now .
+
+Updated 02/14/17, 12:45 pm EST, to include Snowden's response to reports that Russia may extradite him to the U.S.
+
+1 Correction appended, 2/14/17, 2:45 pm EST: This story has been corrected to clarify Frederic Jacobs' involvement in Sunder.

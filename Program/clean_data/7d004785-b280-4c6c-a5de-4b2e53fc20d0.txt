@@ -1,0 +1,113 @@
+Whenever someone starts a new website, one of the very first things they’re sure to do is install Google Analytics. It doesn’t seem to matter what the content will be, what level of expertise the website owner has, or even whether they have any intention of ever looking at the resulting stats — yes, we’ve known bloggers who, after installing the analytics plugin, never went back.
+
+It’s become the non-negotiable, must-have tool for all; but when you dig a little deeper into what it can do for you, it starts to read like something out of a whodunit novel. Was it Mrs Peacock, in the library with the lead piping? Or maybe it was Colonel Mustard in the kitchen with the dagger?
+
+Before you start to mistake this post for an online game of Cluedo, here are 5 things Google analytics won’t tell you, and what you can do about it:
+
+1. Who did it?
+
+Also known as user identification, who did it? is the question every member of your sales team would love to be able answer. When you can identify who your users are, the potential for businesses is massive but Google Analytics was never designed to report on an individual level.
+
+Google can’t tell you who did it for two reasons: a legal one and a technical one.
+
+First, the legal piece: Google Analytics’s policy on PII (personal identifiable information) does not allow it to collect data like email addresses, names and security numbers. Given the increasingly frequent number of reported incidents of people’s data being stolen online, this is probably a good thing.
+
+Sampling is great for statistical data, it makes no sense for individual data.
+
+However, as the website owner, there are times when you’d love to know who did it and, thankfully, you can sidestep the policy by collecting unique ids that are only relevant in the context of your app/website.
+
+Legal problems aside, there is still the technical problem to deal with. As traffic to your website increases, Google Analytics will start to sample it. What this means is that if you try to segment the behavior of a specific individual via unique IDs, Google Analytics, with large quantities of data to look through, will try to speed things up, looking for clues and guessing the answers.
+
+This is far from ideal. While calculated guesses might be useful when you’re trying to decide which flavour of icing to choose for an office birthday cake, when it comes to making business decisions, you need facts. Sampling is great for statistical data, it makes no sense for individual data.
+
+What you can do
+
+One way to work around the problem of sampling is to create an account dedicated to tracking individual data with all anonymous traffic data excluded. That usually means that your data won’t go above the limits at which Google Analytics starts sampling.
+
+Here is how to do it using Google Tag Manager:
+
+Step 1: Create a Macro in Google Tag Manager which will make use of the IDs from your website users. The following line of code will be needed on your website, only for logged in users above the Google Tag Manager code snippet:
+
+dataLayer.push({‘userId’:’XXXXXXX’})
+
+where XXXXX will be replaced by the actual user id.
+
+Step 2: Create a custom dimension in the admin area of your Google Analytics website property that will be used to log user IDs. (This only works in Universal Analytics which, if you don’t have it already, you should upgrade to.)
+
+Step 3: Make sure that Google Tag Manager sends the user ID data to your Google Analytics account.
+
+Step 4: If you start seeing sampling in your reports, create a new view under your current Google Analytics property and apply the following filter to it.
+
+Before you do this, consider whether you need to track at an individual level, whether your users will object, and finally get some legal advice to ensure your privacy policy and terms and conditions allow you to do it.
+
+2. How she did it
+
+Having identified who did it, the next thing any self-respecting business owner wants to know is, what did this individual do?
+
+Reporting on individuals is usually a problem to be solved by CRMs, but CRMs are not designed to report on the behavior data of individuals. Most of them rely on manual input rather than automated tracking codes.
+
+In this instance you need a hybrid between CRM and Web Analytics Tools to get the data you want and need.
+
+Analytics tools like Kissmetrics or Mixpanel try to fix this shortcoming by eliminating the sampling out of data. They are still tools designed for statistical data about your audience but they do a good job of identifying individuals and reporting individual behavior.
+
+CRM tools like Eloqua or Marketo do a great job of collecting analytics data for individual users but their price range makes them affordable to only a small segment of businesses.
+
+What you can do
+
+Instead of simply sending data to Google Analytics, this data can be set to create a log for every important action that a user performs. This is possible when using an API because it allows you to extract the data from it. Here’s how we do it, directly from Google Tag Manager, using an experimental in-house tool:
+
+Step 1: Create a rule in your Google Tag Manager container for the action you want to monitor. Here is an example for a sale.
+
+Step 2: Send data which, at a later time, can be accessed in raw form and used to analyze each specific user or group of users.
+
+3. Why she did it
+
+The answer to why is probably the most valuable piece of information from a business perspective. It gives you clear hints on what people expect and how you are meeting those expectations.
+
+The problem with why is that it is very difficult, if not impossible, to figure out the answer using web analytics data alone. The easiest way to do it is to survey people and ask them directly.
+
+The problem with such interactions is that they can annoy users if not done well. There is nothing better than somebody jumping to interact with you when you need it; and nothing worse than somebody doing it when that’s the last thing that you need!
+
+In an ideal world, having access to a system that uses statistical data to help you choose the best time to interact with a user would be amazing. The world is not yet ideal but its not far from it either. The simplest thing that you can do now is to use a triggered messaging system.
+
+What you can do
+
+A known user (someone whose email address you have) visits your website and, based on the actions they perform on your website and their history with your website, a tool like Triggered Messaging or Infusionsoft will be able to send personalized emails to that user. Here is an example of a scenario from an Infusionsoft setup:
+
+The trick is not to send an email with a promotion but rather instead, one that starts a dialogue with the user. Encourage them to hit reply and log the answers you get. That is like business gold dust.
+
+4. What went wrong
+
+I love errors! Well, I hate getting errors but when I do get them, I love that I can make the most of them. They are the most actionable metric out there because the action is very clear: fix them.
+
+All errors are created equal, but some are more equal than others.
+
+All errors are created equal, but some are more equal than others. They all look the same but some can be ignored while others have the ability to destroy a business. Each error carries its own weight so the worst thing to do is to ignore them.
+
+Google Analytics might help you report how many people end up on a 404 page, and even some interface errors like forms that do not submit due to an error; but when it comes to backstage errors, tracking gets pretty complicated.
+
+The workaround for this for many developers is to simply send themselves the error each time it happens. While this can work when you are small, the more you grow the more errors get added and the more they will be ignored. (Remember what we said about ignoring them??)
+
+What you can do
+
+Install in-house logbooks that track all errors and even important actions that users do in the app or on the website. These error emails then get turned into logs that are easy to analyse.
+
+5. What happened after
+
+Offline behavior is the most difficult type of behavior to track online. In practice, it requires you to log that information in an electronic system, every time the business interacts with a user in some offline way.
+
+Things like phone discussions, in-store visits, booth interactions and so on are very important from a business perspective. However, when it comes to making business decisions on how to improve them, we oftentimes rely on the overall “feeling” we get.
+
+What you can do
+
+There is not much that you can do about it now other than to work on a business culture where people log as much information as possible in a format that is as standard as possible.
+
+One day, there might be a tool out there that can take those logs and process them in ways that help business owners spot insights and action directions.
+
+Final thoughts
+
+Google Analytics is a powerful tool and it isn’t going away anytime soon; but it was never designed to do everything. However with just a few tweaks and adjustments, it’s possible to transform it into a tool that helps you and your team make clear business decisions. Who knows, you might even find yourself logging in and actually using it a whole lot more.
+
+The trick is to take just one strategy and start with that.
+
+Featured image, analytics image via Shutterstock.

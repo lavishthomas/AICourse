@@ -1,0 +1,183 @@
+You’re a busy marketer; it’s likely that you’re keeping tabs on more than one Google Analytics account, and that’s just a small part of your job. Manually tracking important fluctuations in your data, like a big boost in traffic or a huge drop in conversions, would mean your eyes are glued to your account 24/7. We know you’ve got better things to do!
+
+But staying on top of these variations is critical––they can mean anything from a broken conversion form to a huge press mention. They can also alert you to a ruptured connection between your website and Google Analytics or tip you off to a problematic landing page.
+
+Luckily, Google Analytics provides a way to automatically track variations in key metrics for your website: Intelligence Events. It’s like having a virtual assistant for Google Analytics who has access to key data about your business and makes sure you see the important stuff right away (that is, if you know how to put it to work).
+
+In this post I’ll go over seven Intelligence Events Custom Alerts every Google Analytics user should set up for their account. First, let’s start with a quick overview of how this feature works.
+
+Getting Started With Intelligence Events
+
+Intelligence Events can be found towards the top of Google Analytics’ left-hand sidebar. There are two kinds of Intelligence Events (often called Analytics Alerts): Automatic Alerts and Custom Alerts.
+
+Automatic Alerts are preconfigured for you by Google in order to track significant changes in the traffic patterns on your site, such as bounce rate for all traffic and total sessions. These are great for catching day-to-day anomalies in your data and then honing in to see what caused them, but you have to actually log in to Google Analytics and navigate to the Intelligence Events section in order to keep tabs on them. This is where Custom Alerts become so valuable.
+
+The Custom Alerts tab allows you to create your own alerts so that you can track changes in the metrics that are most meaningful to your business. The truly awesome part: you can opt in to have Google send you an email or text message if a change triggers one of your custom alerts. This way, you don’t have to keep your eyes glued to your dashboard in order to catch important variations.
+
+To create a custom alert simply click the “Manage Custom Alerts” button at the top of your Custom Alerts chart. You’ll be taken to a list of all the Custom Alerts you’ve created for your current website view. Click the “New Alert” button to create your personalized alert and a configuration box will pop up.
+
+Once you’ve created your personalized alert you’ll be able to see information about the automatic and custom alerts that have been triggered for your account organized in a daily, weekly and monthly view (these views are accessible below the Intelligence Events button in the sidebar).
+
+Another cool feature available for both types of alerts is the ability to create annotations about what caused an alert to be triggered. Let’s say you had an enormous spike in goal conversions via social media on a particular day––a result of a promotion that performed exceptionally well; you can jot this down in an annotation so that you and your team members can easily recall why traffic and conversions spiked that day.
+
+How to Be Selective About Your Alerts
+
+There are hundreds of potential combinations for custom alerts, and the types of alerts that you set up will depend on your marketing goals, whether or not you sell products on your site and whether or not you run PPC campaigns, among other factors. I’ve listed the alerts I think nearly all businesses can benefit from, regardless of their industry or business model.
+
+Keep in mind that just because you can create 50 alerts to cover every possible anomaly in your traffic doesn’t’ mean you should.
+
+As Avinash Kaushik points out in a great post on custom alerts, you should focus on tracking information directly related to your business’ top priorities as well those that signal events on which decision-makers are likely to take action. I also like to identify alerts that explicitly help me work more efficiently.
+
+When creating a custom alert make sure you can answer “yes” to at least one of the following:
+
+Does this help me measure how I’m doing in terms of my business objectives and goals? Does this help gauge whether I’m meeting or exceeding my target KPIs? Will this alert make me more productive?
+
+7 Must-Have Custom Alerts
+
+1. Spike in Traffic
+
+You want to know right away if you get an important press mention, or if a big-time influencer links to one of your blog posts via Twitter, right? Programming an alert that detects spikes in traffic (and opting in to an email or text message from Google when this alert is triggered) is a great way to stay on top of important online events that affect your web traffic.
+
+If one of your main business objectives is to generate buzz about your company or product, then a large spike in traffic is definitely something a decision-maker should know about and take action on.
+
+Here’s what the configuration looks like:
+
+Period: Day
+
+This applies to: All Traffic
+
+Alert me when: Sessions
+
+Condition: % increases by more than
+
+Value: 20% – 50% (the % that’s right for you depends on the consistency of your site traffic)
+
+Compared to: Same day in the previous week
+
+So what do you do once this alert is triggered? This post on the Crazy Egg blog explains how to drill down into the data behind an alert like this in order to see exactly where your extra traffic is coming from.
+
+2. Spike in Goal Completions
+
+You can also configure an alert for a sharp increase in goal completions, which could mean a piece of content or an email is performing exceptionally well, or perhaps you received an important, highly-targeted mention from the press.
+
+Here’s what the configuration looks like:
+
+Period: Day
+
+This applies to: All Traffic
+
+Alert me when: [Select goal––I suggest creating an alert for each of your top 3 most important goals]
+
+Condition: % increases by more than
+
+Value: 15% (or whatever number makes sense for you based on how much your numbers fluctuate)
+
+Compared to: Same day in the previous week
+
+Here’s another alert you can create that is inspired by the one above: drill down on traffic from a specific website for which you write guest blog posts on a regular basis and then swap out Goal Conversion Rate for Goal Value. Make the condition “Is greater than” and set a value that represents the very top end of what you expect to get. This will show you if guest blogging is translating into tangible results for your business!
+
+3. Drop in Goal Completions
+
+A sudden drop in goal completions can mean that something in your conversion funnel is broken, such as a landing page or a form. To create this alert you’ll use the same configuration as the one we used to track spikes in goal completions but select the “% decreases” option under “Condition”.
+
+4. No Traffic
+
+This alert will let you know if there’s an important problem with your site that needs your attention; for example, maybe there’s a glitch in the connection between your site and Google Analytics.
+
+Here’s what the configuration looks like:
+
+Period: Day
+
+This applies to: All Traffic
+
+Alert me when: Sessions
+
+Condition: Is less than
+
+Value: 1
+
+5. Spike in Referral Traffic / Conversions from Syndicated Content
+
+Let’s say you run a popular blog and are syndicating your best content with Entrepreneur.com. You can set an alert to trigger when you receive a high volume of traffic, goal conversions or even an increase in goal value via a syndicated post, which would indicate that your syndication deal is worthwhile.
+
+I was talking about this one with my friend Earle Richards (who is an analytics whiz), and he pointed out that the most precise way to configure this alert is to use campaign tags in the links within your syndicated posts that are driving readers back to your blog’s landing page––this way you can be confident that the bump in traffic, conversions or value (depending on what you want to measure) is from your content. Set up your alert to use the source or campaign name you picked out when creating your campaign tags.
+
+Here’s what the configuration looks like:
+
+This Applies To: Source/Campaign
+
+Conditions: Contains/Matches Exactly
+
+Value: [term of source/campaign name]
+
+Alert Me When: Pageviews/Conversions
+
+Condition: Is Greater Than
+
+Value: 10
+
+It’s not always possible to ensure that your campaign tags are used by your syndication partners. If this is the case, you can also configure this alert as follows:
+
+This Applies To: Referral path
+
+Conditions: Contains
+
+Value: entrepreneur.com
+
+Alert Me When: Session/Conversions/Goal Value
+
+Condition: Is Greater Than
+
+Value: Value TBD
+
+I suggest programming a similar alert for your top three primary sources of referral traffic, such as a specific social media channel, a specific website that wrote about you, etc.
+
+6. Spike in Goal Conversions / Goal Value via Your Email Campaigns
+
+I swiped this brilliant alert from the Avinash Kaushik article I linked to earlier on (he calls it “Campaign by “Things of Real Value”). Avinash suggests setting an alert to be triggered when an email campaign results in a high number of orders. Companies that don’t sell products on their site can track Goal Value or Goal Conversion Rate via email campaigns––the point is to find out when a campaign is unusually successful and exceeds your target KPIs.
+
+Avinash wouldn’t consider Goal Conversions “Things of Real Value”, but if you’re selling a SaaS application and the first step in your funnel is to sign up for a free trial, measuring free trial signups as a Goal Conversion via your email campaigns can be highly valuable. If you’re making a case for your email marketing strategy to your boss, being able to show the value of your email campaigns alongside conversion numbers will strengthen your pitch.
+
+Here’s what the configuration looks like:
+
+Period: Day
+
+This applies to: Source/Campaign
+
+Contains: [term of source/campaign name––probably something like “email”]
+
+Alert me when: Average QTY
+
+Condition: Is greater than
+
+Value: 3 (or any number that makes sense for your business)
+
+7. Spike in Goal Conversions via Your Blog
+
+If blogging is a key part of your marketing strategy, you’ll want to know when your blog causes a surge in Goal Conversions so that you can understand what types of content work best. Maybe you’ll track free trial signups via the blog, maybe it’s new email subscribers or maybe it’s even ebook purchases.
+
+Here’s what the configuration looks like:
+
+Period: Day
+
+This applies to: Referral Path
+
+Condition: Contains
+
+Value: [yourblogurl]
+
+Alert me when: Goal Conversions
+
+Increases by %: 15
+
+Again, you can also swap out Goal Conversions for Goal Value if that’s more interesting to your team.
+
+Conclusion
+
+Being picky about the custom alerts you create will help you focus on the fluctuations in your traffic and website activity that deserve the most attention. It will also help you keep your inbox clean (who wants to get a bunch of emails about alerts they won’t actually act on?).
+
+So remember: When creating your custom alerts think about which fluctuations are most relevant to your business goals and KPIs as well as which alerts will help you work smarter, not harder.
+
+Now we’d like to hear from you: Which Intelligence Alerts are essential to your analytics strategy? Has an alert ever tipped you off to something big for your business? Let us know in the comments below.
+
+About the Author: Chloe Mason Gray specializes in digital marketing and growth strategy for small businesses and solopreneurs. Be sure to say hi to her on Twitter. You can also follow her on Google+.

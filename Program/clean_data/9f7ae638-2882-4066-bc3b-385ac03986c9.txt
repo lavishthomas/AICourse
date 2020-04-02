@@ -1,0 +1,175 @@
+One hundred years ago, Albert Einstein had only just published his revolutionary new theory of gravity, atomic nuclei were entirely mysterious, and quantum “theory” was a tissue of guesswork. Superconductivity, the nature of the chemical bond, and the energy source of stars were riddles that baffled physics.
+
+And then there were the unknown unknowns: Big Bang cosmology, black holes, quarks, gluons, the triumph of symmetry and its breaking, radio, television, masers, lasers, transistors, nuclear magnetic resonance, the eruption of microelectronics and telecommunications…and, of course, nuclear bombs. We’ve come a long way. It is safe to say that 100 years ago no one could remotely have anticipated modern physics, and certainly no one did.
+
+A century ago, the Higgs field, seen here in an artist's conception, hadn't even been theorized.
+
+Today we have much deeper understanding of the physical world, providing (I think) a much more stable platform from which to launch futuristic speculations. Indeed, a physicist transported from 50 years ago to today would not be nearly so clueless, and one transported from 25 years ago could get up to speed in short order. So today, thinking 100 years ahead may not be entirely silly.
+
+It is safe to say that 100 years ago no one could have anticipated modern physics.
+
+In any case, for me, the point of thinking about the long-term future of physics is not to generate accurate predictions, as in a business plan. That’s not a realistic goal. Rather, its value is as an exercise in disciplined imagination. It leads us to questions that could be fruitful: What are the weak points in our current understanding and practices? What are the growth areas in technique and capability? And where are the sweet spots where those two meet?
+
+These explorations will take us in two main directions. One, wherein we seek to perfect our understanding of fundamentals, is the direction of depth We will find hidden connections among aspects of the world that at present seem separate: superficially different forces—force and substance, material and spacetime, history and law, information and action, mind and matter. The other, wherein we apply our knowledge, is the direction of growth. We will vastly expand the human sensorium. We will develop self-repairing, self-assembling, and self-reproducing machines will be developed, enabling the emergence of titanic computers and engineering projects. Advanced numerical and quantum simulations, augmenting more sophisticated understanding of matter, will revolutionize chemistry, medicine, and materials science—and usher in the age of quantum intelligence. Artists and scientists will collaborate to create beauty in rich new forms.
+
+Part 1: Unifications
+
+In the past, many of the greatest advances have been unifications of apparently disparate subjects. Among them: Descartes linked algebra and geometry, Galileo and Newton inextricably tied celestial physics with its terrestrial counterpart, Maxwell unified electromagnetism and optics, Einstein and Hermann Minkowski unified space and time.
+
+Less celebrated and more subtle, but especially resonant today, is William Rowan Hamilton’s mathematical unification of mechanics with optics. At its inception, in the 1830s, this was an esthetically pleasing exercise, but one that contained no new physics. Yet 50 years later, Hamilton’s ideas supplied the foundation of statistical mechanics, and 100 years later they became central to quantum theory.
+
+In each of those historic unifications, and several others, the whole proved to be more than the sum of its parts. Unification has been a fruitful, as well as a successful, enterprise. In that spirit, I will now describe seven different sorts of unification that I expect to enrich physics over the next century.
+
+Unification I: Forces
+
+Imagine finding a piece of paper that’s been cut just so. Look below—it has 12 regular pentagons, suggestively connected. Obviously, you’ve stumbled across an object that is meant to be folded up into a dodecahedron.
+
+An object that’s begging to be folded into a dodecahedron.
+
+But suppose some evil spirit erased part of the unfolded dodecahedron to make the following mystery object.
+
+When the preceding object is partially obscured, its meaning is less obvious.
+
+Now it gets harder to recognize what it should be. Most people, perhaps not having thought about dodecahedra recently, wouldn’t know what to make of that peculiar thing. But if you remembered about regular solids and dodecahedra, you might say, “Well, it is very special that we have pentagons, and that they are connected in this particular way, so I guess this is meant to be a dodecahedron, but somebody has erased part of it.” Brilliant deduction! Keep that in mind.
+
+Our Core Theory—what many call the Standard Model—contains the strong, weak, and electromagnetic forces and describes an enormous wealth of facts—hard, quantitative realities about the physical world—in a compact set of equations. It would be difficult to exaggerate the precision, the power, or—when you spell it out properly—the beauty of that account. But physicists are not satisfied. Precisely because we’re getting close to nature’s last word, we should judge what we see by high standards.
+
+Scrutinized in that spirit, the Core challenges us to do better. It contains three mathematically similar but independent forces: the strong force (which holds nuclei together), the weak force (which generally governs radioactive decay), and the electromagnetic force. Gravity is a fourth force, which is different in character from the others; we will come back to it shortly. In a coherent description of nature, we would like to have just one rule, one fundamental animating principle. Three (or four) is more than one, so we’re not there yet.
+
+And after we organize the fundamental quarks and leptons into groups—linking those that are connected by the different forces—we get six separate groups, which is way more than we’d like. It’s as if we have been presented with that partial realization of a dodecahedron, with something erased. We would like to make it whole.
+
+The mathematics of the possible symmetry of objects in space gives us just five distinct Platonic solids: the tetrahedron, cube, the octahedron, the icosahedron, and of course the dodecahedron. It prompts us to infer an underlying dodecahedron from partial, distorted evidence. Can we do something similar, to fulfill hidden symmetry latent in the equations of fundamental physics?
+
+We can indeed. There are only a few possibilities for symmetries that perfect the Core, just as there are only a few Platonic solids. We can try them out and see whether any of them fit the bill. As it happens, one candidate does stand out, unifying the known particles and forces most beautifully.¹ If we expand the equations in this way, then there is so much symmetry that all the known forces can be transformed into one other, as can all the known particles. So we really have just one force and just one substance. Awesome!
+
+These bold ideas have already scored a successful prediction. They suggested the existence of tiny but non-zero masses for neutrinos before such masses were observed experimentally. And, as we’ll discuss momentarily, they may provide a quantitative explanation for the relative strengths of the different fundamental forces.
+
+That trinity of success—the “derivation” of the patchwork pattern of substance particles, the prediction of small but non-zero neutrino masses, and, contingently, the quantitative explanation of the relative strengths of the different forces (strong, weak, and electromagnetic)—is, I think, extremely impressive. It is difficult to believe that it is accidental.
+
+The proposed unification of forces, however, raises important challenges. Our unification theories predict events and particles that have not yet been observed.
+
+That’s a good thing! It means that the theories are suggesting ways we might enrich our perception of nature. It also means that they have genuine content—they are “falsifiable”. We can look for those undiscovered particles and events. If they are observed, we will have learned something new about nature. (If not, we will have learned something about ourselves—namely, that we entertained some wrong ideas.) For many of us, this is familiar territory. Within recent memory, neutrinos, gluon jets, charmed quarks, and Higgs particles were unfulfilled promises of the Core itself. Their discovery crowned its triumph.
+
+The missing events are decays of protons. As yet experimenters have not witnessed any, despite heroic efforts. They must, and will, try harder. Unification theory suggests that in 100 years physicists will be awash in proton decay data and theorizing over its finer points.
+
+Unification II: Force and Substance
+
+The unification of forces, even if it were perfected, would leave us with two great particle kingdoms. Technically, these are the fermion and boson kingdoms. More poetically, we may call them the kingdoms of substance (fermions) and of force (bosons).
+
+By postulating that the fundamental equations enjoy the property of supersymmetry, we transcend that division. Supersymmetry postulates profound symmetry between the two kingdoms.
+
+The mathematical transformations of supersymmetry are most vividly described as motion into strange new dimensions: the quantum dimensions of superspace. When a force particle jumps into superspace, it becomes a substance particle. Conversely, when a substance particle jumps into superspace, it becomes a force particle. While many properties, such as electric and color charges, are unaltered by the jump, its mass changes. So we will have, for example, a force (boson) version of electrons called selectrons, Similarly, there are squarks, photinos, gluinos, and so forth.
+
+Can we peer into this superspace, and see those superpartners? Experimenters are now trying to do just that, at the LHC. So far none of those hypothetical superpartners has been observed directly, but promising efforts continue. Meanwhile, there is tantalizing indirect evidence, linked to the unification of forces. We can summarize it in a pair of iconic images:
+
+Without supersymmetry, forces don't unify.
+
+But with supersymmetry (also known as SUSY), forces unify at high energy
+
+Unification of forces requires that the basic strength of those forces should be equal. As we currently observe them, they are not. But it is possible that the inequality is due to the relatively low resolution of our probes. The underlying, most basic forces are blurred by quantum fluctuations—specifically, by fluctuations in the quantum fluids that create and destroy particles. We can calculate the effects of such fluctuations. That is the sort of thing I got the Nobel Prize for. If we take into account the known particles, we find that they don’t lead to accurate force unification. But if we add in blurring due to their (hypothetical) superpartners, the forces unify beautifully.
+
+Gravity, too, comes into focus. As it acts between elementary particles at ordinary energies, gravity is absurdly smaller than the other forces. But gravity responds directly to energy, and we find that when we extrapolate its behavior to the extreme energies where unification of the other three forces occurs, gravity has comparable strength.
+
+This stunning success, which brings fulfillment to both of our first two unifications, cannot be coincidental. Accordingly I think that supersymmetric partners will be observed, well within 100 years. Their study will open up a new golden age for particle physics.
+
+Unification III: Spacetime and Matter
+
+The near-equality of gravity’s strength with the strength of the other forces powerfully suggests that there should be a unified theory including all four forces.
+
+String theory may offer a framework in which such four-force unification can be achieved. A vast amount of work has been done in that direction, so far with inconclusive results. It would be disappointing if string theory does not, in future years, make more direct contact with the reality we observe in our experiments. There are many possibilities, including some hint of additional spatial dimensions, the discovery of fundamental strings themselves (either left over from the Big Bang or produced at accelerators), or the deduction of some known but otherwise mysterious quantity within the Core.²
+
+With more confidence, we can anticipate an “operational” intermingling of matter and spacetime. The age of gravitational wave astronomy is just around the corner.
+
+Because it is difficult for matter to bend space-time significantly, gravitational waves, in general, open a clear window into the most extreme and violent events in the universe. The LIGO II detector, soon to come on line, should have enough sensitivity to pick up signals from neutron star and black hole mergers. Known technology will support future generations of improved gravitational wave detectors.
+
+I expect that gravity waves will evolve into a powerful, versatile tool for astrophysical and cosmological exploration. Many sources will be identified, and our knowledge of neutron stars and black holes will reach new levels of detail.
+
+Unification IV: Evolution and Origin
+
+At present our fundamental laws are dynamical laws. They describe how a given state of the world evolves, with the passage of time, into another. They can also, in principle, be used to extrapolate backward in time.
+
+Those procedures of prediction and reconstruction may become impractical, or impossible, for several reasons. For one, we cannot observe everything in existence. Some parts of the universe are so far away that none of their light has had time to reach us, limiting our view beyond the “horizon.” Another reason, and one that’s closer to home, is that quantum mechanics is a powerful constraint: its primary description of nature, the wave function, cannot be probed without disturbing it. Lastly, small uncertainties in the initial conditions grow in time, aggravating these difficulties. This is what makes it hard to predict weather, for example.
+
+Tension between the “God’s-eye” view of reality and the “ant’s eye” view of human consciousness is a recurrent theme in natural philosophy.
+
+A major part of the art of physics (notably including thermodynamics and statistical mechanics, not to mention the physical branches of engineering) consists in finding ways to work around those limitations. One identifies, amidst the inaccessible and unwieldy complexity of full state description, emergent concepts and objects that evolve in robust, comprehensible ways. With the help of computers, this art will no doubt advance dramatically over the next 100 years, as I’ll discuss further below. But horizons, quantum uncertainty, and sensitivity to small differences in initial conditions can only be finessed, not eliminated.
+
+Practicalities aside, tension between the “God’s-eye” view of reality comprehended as a whole and the “ant’s eye” view of human consciousness, which senses a succession of events in time, is a recurrent theme in natural philosophy.
+
+Since Newton’s time, the ant’s eye view has dominated fundamental physics. We divide the description of the world into dynamical laws that, paradoxically, live outside of time, and initial conditions upon which those laws act. The dynamical laws do not determine which initial conditions describe reality.
+
+That division has been enormously useful and successful pragmatically. But on the other hand, it leaves us far short of a full scientific account of the world as we know it. For the answer, “Things are what they are because they were what they were,” begs the question, “Why were things that way and not any other?”
+
+In the light of relativity theory, the God’s eye view seems, much more natural. There, we learn to consider space-time as an organic whole, whose different aspects are related by symmetries that are awkward to express when experience is carved into time-slices. Hermann Weyl expressed this memorably:
+
+The objective world simply is, it does not happen. Only to the gaze of my consciousness, crawling along the lifeline of my body, does a section of this world come to life as a fleeting image in space which continuously changes in time.
+
+I predict that, in 100 years, Weyl’s vision—which, in essence, goes back to the Greek philosophers Parmenides and Plato—will be fully vindicated, as the fundamental laws will no longer admit arbitrary initial conditions. “What is” and “what happens” will be understood as inseparable aspects of a single, trans-temporal reality.
+
+Unification V: Action and Information
+
+Information plays a large and increasing role in our description of the world. Many of the terms that arise naturally in discussions of information have a distinctly physical character. For example, we commonly speak of density of information and flow of information. Yet on the face of it information is an abstract concept, not tied to specific aspects of physical reality.
+
+Looking deeper, however, we find that there are far-reaching analogies between information and a very specific physical quantity, namely (negative) entropy. This was noted already in Claude Shannon’s original work, where he introduced the modern technical definition of information. Nowadays, many discussions of the microphysical origin of entropy—and of foundations of statistical mechanics in general—start from discussions of information and ignorance. I think it is fair to say that there has already been a unification fusing the physical quantity entropy and the conceptual quantity information.
+
+Entropy, in turn, has mysterious connections to the basic quantity, action, that we use to formulate our most fundamental laws of physics. Very roughly speaking, action is what you get from entropy when you allow time to become an imaginary number. Unfortunately, existing proofs of that connection are indirect and technically involved. In other words, we don’t yet understand it properly.
+
+I suspect that the connection goes very deep, and that over the next century fundamental action principles, and thus the dynamical laws of physics, will be re-interpreted as statements about information and its transformations.
+
+Unification VI: Mind and Matter
+
+Although many details remain to be elucidated, it seems fair to say that metabolism and reproduction, two of the most characteristic features of life, are now broadly understood at the molecular level as physical processes. Francis Crick, co-discoverer of DNA’s structure, put forward the “astonishing hypothesis” that it will be possible to bring understanding of basic psychology, including biological cognitive processing, memory, motivation, and emotion, to a comparable level.
+
+One might call that “reduction” of mind to matter. But mind is what it is, and what it is will not be diminished for being physically understood. I’d be thrilled to understand how I work—what a trip!
+
+To me, it seems both prettier and more sensible to regard the astonishing hypothesis as anticipating the richness of behavior that matter can exhibit. Given the astonishing thing that physics has taught us matter is, I’m confident it is up to the job.
+
+In 100 years, biological memory, cognitive processing, motivation, and emotion will be understood at the molecular level. And if physics evolves to describe matter in terms of information, as we discussed earlier, a circle of ideas will have closed. Mind will have become more matter-like, and matter will have become more mind-like.
+
+Part 2: Vistas in Technology
+
+Making Things (Micro)
+
+The quantum revolution gave this revelation: We’ve finally learned what matter is. The Core Theory completes, for practical purposes, the analysis of matter. Using it, we can deduce what sorts of atomic nuclei, atoms, molecules—and stars—exist. And we can reliably orchestrate the behavior of larger assemblies of these elements, to make transistors, lasers, or Large Hadron Colliders. The equations of the Core Theory have been tested with far greater accuracy, and under far more extreme conditions, than are required for applications in chemistry, biology, engineering, or astrophysics. While there certainly are many things we don’t understand, we do understand the matter we’re made from and that we encounter in normal life—even if we’re chemists, engineers, or astrophysicists.
+
+Are there materials that will support space elevators? Are there room temperature superconductors? Can we re-invigorate Moore’s Law? Those questions, and any number of others, will become accessible as computers do for chemistry what they have already done for aircraft design: supplementing and ultimately supplanting laboratory experimentation with computation. Calculation will increasingly replace experimentation in the design of useful materials, catalysts, and drugs, empowering greater efficiency and new opportunities for creativity.
+
+As conventional chemistry becomes supercharged, the frontier of controlled miniaturization will advance by many orders of magnitude. In recent years, we have seen the beginnings of first-principles nuclear physics.³ Very recently, a major landmark was reached as the neutron-proton mass difference was calculated with decent accuracy. Calculation of many nuclear properties from fundamentals will reach < 1% accuracy, allowing much more accurate modeling of supernovae and of neutron stars. Physicists will learn to manipulate atomic nuclei dexterously, as they now manipulate atoms. This will enable, for example, ultra-dense energy storage and ultra-high energy lasers.
+
+Making Things (Meso)
+
+Present-day mainstream computers are essentially two-dimensional. They are based on chips that must be produced under exacting clean room conditions since any fault can be fatal to their operation. If they are damaged, their loss of function is permanent.
+
+Human brains differ in all those respects: they are three-dimensional, they are produced in messy, loosely-controlled conditions, and they can work around faults or injuries. There are strong incentives to achieve those features in systems that retain the density, speed, and scalability of semiconductor technology, and there is no clear barrier to doing so. Thus, capable three-dimensional, fault-tolerant, self-repairing computers will be developed in the next 100 years. In engineering those features, we will also learn lessons relevant to neurobiology.
+
+In a similar vein, we may aspire to make body-like machines as well as brain-like computers. We will develop self-assembling, self-reproducing, and autonomously creative machines. Their design will adapt both ideas and physical modules from the biological world.
+
+Making Things (Macro)
+
+Combining those ideas, we will enable bootstrap engineering: Machines, starting from crude raw materials—and with minimal human supervision—will build other sophisticated machines. This strategy can support exponentially ambitious projects, such as the conversion of vast deserts into titanic computers (as imagined by Olaf Stapledon) and gigantic energy collectors (as imagined by Freeman Dyson).
+
+Freeman Dyson famously imagined “Dyson spheres,” whereby all or most of the energy of a star would be captured by a surrounding shell or a cloud of interceptors, for use by an advanced technological civilization. While that remains a distant prospect, the capture and use of a substantial part of solar energy impinging on Earth may be a necessity for human civilization as we wean ourselves from carbon fuels.
+
+Fortunately, it seems eminently feasible that, within 100 years, we will channel a substantial fraction of the sun’s ambient energy to our own purposes.
+
+Enhanced Sensoria
+
+Human perception leaves a lot on the table. Consider, for example, color vision.
+
+Whereas the electromagnetic signals arriving at our eyes contain a continuous range of frequencies, and also polarization, what we perceive as “color” is a crude hash encoding, where the power spectrum is lumped into three bins and polarization is ignored. Compared our perception of sound, where we do a proper frequency analysis and can appreciate distinct tones within chords, it is impoverished. Also, we are insensitive to frequencies outside the visible range, including ultraviolet and infrared. Many other animals do finer sampling. There is valuable information about our natural environment—not to mention possibilities for data visualization and art—to be gained by expanding color perception.
+
+Modern microelectronics offers attractive possibilities for accessing this information. By appropriate transformations, we can encode it in our existing channels in a sort of induced synesthesia. We will vastly expand the human sensorium, opening the doors of perception.
+
+Physicists often, and rightly, admire the beauty of their concepts and equations. On the other hand, humans are intensely visual creatures. It will be fruitful, and great fun, to use modern resources of signal processing and computer graphics to translate the beautiful concepts and equations of physics into new forms of art. Then, physicists will be able to bring their visual cortices fully to bear on them, and people in general will be able to admire and enjoy them. In the future, artists and scientists will work together more together, and create new works of extraordinary beauty.
+
+Quantum Sensoria, Quantum Minds
+
+Quantum mechanics reveals other unseen riches. Perhaps the most characteristic quantum effect, which expands its state space exponentially, is entanglement. But entanglement is both delicate and (since it involves correlations) subtle to observe, so our exploration of that central feature of the quantum world is only now properly commencing. New kinds of observables will open to view, and new states of matter will be revealed. Measurement of entanglement, and measurement exploiting entanglement, will become major branches of physics.
+
+Quantum computing requires detailed control of entanglement, and the diagnostics of quantum computing will call on techniques to measure entanglement.⁴ Quantum computers supporting thousands of qubits will become real and useful.
+
+Artificial intelligence, in general, offers strange new possibilities for the life of mind. An entity capable of accurately recording its state could purposefully enter loops to relive especially enjoyable episodes, for example. A quantum mind could experience the superposition of “mutually contradictory” states or allow different parts of its wave function to explore vastly different scenarios in parallel. Being based on reversible computation, such a mind could revisit the past at will and could be equipped to superpose past and present.
+
+And who knows, maybe a quantum mind will even understand quantum mechanics!
+
+This piece is adapted from a more technical presentation, “Physics in 100 Years,” which is available at the arXiv. In my forthcoming book, A Beautiful Question (Penguin), several of the ideas sketched here are considered treated more deeply and developed further.

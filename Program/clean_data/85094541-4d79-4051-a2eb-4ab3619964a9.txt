@@ -1,0 +1,715 @@
+The social media world is a fascinating one.
+
+Every so often, a new social media platform emerges to capture our attention (Peach) or become part of our daily lives (Snapchat).
+
+The social media tools landscape can be just as fascinating — and robust!
+
+Every week, people build and launch new social media tools, empowering us marketers in our day-to-day work. To give you a sense of how amazing the landscape is, here’s a graphic of some of the social media tools available: social media management, listening, analyzing, content creation, and more. And here’s the even crazier part: The graphic (from Buddy Media) is four years old. Imagine how jam-packed it’d be today!
+
+With all these tools to choose from, how can you stay on top of the latest and greatest?
+
+As part of our State of Social Media 2016 campaign, we’ve scoured Product Hunt for the latest trending social media tools and created a list of 21 products for marketers and teams to try in 2017.
+
+Keep reading to see the full list, or click over to the Product Hunt collection with all of 2017’s best social media tools.
+
+
+
+20 Best New Social Media Tools to Try in 2017
+
+To make it easier to find the tools that are most helpful to you, here’s a look at all we’ll cover in this post. Feel free to jump to any that catch your eye!
+
+We’ve also added these tools to a Product Hunt collection for easy browsing and bookmarking. Feel free to check it out there to see the conversation about each of these great tools.
+
+1. Quuu
+
+Hand-curated content suggestions for social media sharing
+
+Price: Free or $10/month
+
+Best used for: Content curation
+
+Description: Quuu and its amazing community (of real people, not computers) hand-curate content for you and fill your Buffer queue, making content curation super easy.
+
+How to use it:
+
+All you have to do is connect Quuu to your Buffer account and select any interest categories that are relevant to you and your audience.
+
+Quuu will send hand-curated content right into your Buffer queue, at whatever frequency you choose. You can then go into Buffer to manually edit the suggestions if you prefer.
+
+At the moment, they curate content in more than 300 different topics. To give you a small taste, here are all the categories they curate that start with the letter “B”:
+
+Ballet
+
+Baseball
+
+Basketball
+
+Bass Fishing
+
+Beach Lifestyle
+
+Beer
+
+Big Data
+
+Bitcoin and the Blockchain
+
+Blogging Tips
+
+Board Games
+
+Boating/Yachting
+
+Brain Health
+
+Branding
+
+Business Analytics
+
+Business Management
+
+Business Networking
+
+Business Strategy
+
+Here’s what a Product Hunter has to say:
+
+—
+
+2. Panda 5
+
+A smart news reader, powered by integrations
+
+Price: Free or $4.99/month
+
+(If you subscribe now, there’s a 40% discount until their beta ends.)
+
+Best used for: Content curation
+
+Description: Panda 5 (the fifth iteration of the popular news-reading app) helps you speed up your content curation process by allowing you to browse multiple websites at once, integrate with other websites, and pull in RSS feeds of your favorite content.
+
+How to use it:
+
+Once you authorize Panda with your Twitter account, it will recommend you a list of feeds to follow based on who you follow on Twitter. You can also search for more feeds and add them to your reader.
+
+To save you more time, you can even read articles in the app itself.
+
+One cool feature of Panda is that it comes pre-built with integrated feeds for a number of popular sites, both blogs and media collections. Here’s a quick look at a few:
+
+Product Hunt
+
+Dribbble
+
+Brain Pickings
+
+Inbound.org
+
+Medium
+
+The Verge
+
+Bonus: If you are using its Chrome extension, you can personalize your new tab with nine different options such as a to-do list or a notepad (with more coming soon).
+
+Here’s what a Product Hunter has to say:
+
+—
+
+3. Zest
+
+Fresh marketing inspiration with every new tab
+
+Price: Free
+
+Best used for: Content curation
+
+Description: Zest is a new tab extension that helps you discover great marketing articles. All the articles are curated by its community of marketers and manually approved.
+
+How to use it:
+
+Simply add the Chrome extension, and whenever you open a new tab, Zest will serve you the latest curated marketing articles.
+
+You can customize your feed by selecting the tags that are most relevant to you. There are currently 29 different tags (or topics) you can choose from. Here are the top 10 tags with the most number of approved articles:
+
+Social Content Strategy SEO Inspiration Paid CRO Tools Metrics Email
+
+Bonus: Apart from receiving this content suggestions, you can also suggest your content or great content you have found. The team at Zest is working on a Zest profile, which will allow people to follow your Twitter, LinkedIn, and Zest posts. Soon, you will be able to build up your online marketing identity with Zest, based on your social media posts and Zest contributions.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+4. Yotpo – Curation
+
+Collect Instagram photos from customers and influencers
+
+Price: $299 onwards (for the entire user-generated content marketing platform)
+
+Best used for: Content curation for Instagram
+
+Description: Yotpo makes collecting the best user-generated content and making full use of them for your business really easy. Curation is their latest feature to help you collect and use user-generated Instagram photos (with proper permissions).
+
+How to use it:
+
+There are several ways you can use Yotpo’s curation feature.
+
+With their advanced search functions, you can create a feed of Instagram photos from your customers, influencers and yourself. Using their automated workflow, you can easily get the permission to use those photos and thank the creators. Getting permission is an important step for staying in compliance with Instagram’s terms and also doing right by the original creators. After collecting the user-generated photos, you can create a shoppable Instagram feed and photo galleries where your customers can go directly from Instagram or your homepage to the product page to complete the purchase. You can also promote your curated photos on your website, social media, or Yotpo Ads to show how real customers are using your product.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+5. Refind
+
+The home for the best links on the web
+
+Price: Free
+
+Best used for: Content curation
+
+Description: Refind helps you re-discover the links you have previously saved when you actually need them. Refind can also show you what your friends have saved if you prefer.
+
+How to use it:
+
+With Refind’s extension, you can save any links by simply clicking the extension button. Then, you can add a tag or choose from the recommendations. It also shows you how many people had saved the link to give you a sense of the popularity and quality of the link.
+
+Apart from searching for the article in your Refind feed, Refind helps you rediscover them. For example, when you are searching on a particular topic on Google, Refind will highlight the relevant links you have previously saved in the search results.
+
+With Refind, there are three ways to discover or re-discover content:
+
+Links you previously saved Links saved by your friends Recommendations based on your saved links
+
+If you tend to find and read articles on the go, Refind also has iOS and Android apps too!
+
+Bonus: For the articles that you intend to read soon but not right now, you can use Refind’s “Read Soon” feature. When you are saving a link with the browser extension, simply hit the “Read Soon” option as well. Refind’s recommendation is to save articles you would actually want to read within the next two weeks. The idea is that this adds intention and immediacy so we will actually read these articles.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+From our recent State of Social Media survey, we found that 83% of marketers would like to create more video content if there were no obstacles like time, resources, and budget. The following are a few video creation tools to help you with that — some of them are free!
+
+6. Adobe Spark
+
+Videos, images and stories made in minutes
+
+Price: Free
+
+Best used for: Content creation
+
+Description: With Adobe Spark, you can create beautiful graphics, web stories, and animated videos in minutes.
+
+How to use it:
+
+Through Adobe Spark’s browser editor, you can create and edit social graphics, web stories, and videos.
+
+For graphics, you can resize the graphic for different social media platform and change the theme, color palette, background, and text. (Quick tip: Share the graphic on Facebook or Twitter once and the watermark will be removed.)
+
+A web story is essentially a web page with photos, videos, and text that tells a story. Here’s a really cool example. When creating a web story, you can include photos, text, button, videos and more.
+
+For videos, you can pick from a story template or start from scratch. You can then insert icons, texts, and photos, add music and change the layout of each slide.
+
+Templates are provided so that you don’t always have to start from scratch. For example, if you are making a video, here are the story templates you can choose from:
+
+Promote an idea
+
+Tell what happened
+
+A hero’s journey
+
+Show and tell
+
+Personal growth
+
+Teach a lesson
+
+An invitation
+
+Bonus: Adobe has created iOS apps (Adobe Spark Post, Page, and Video) so that you can create these content on the go!
+
+Here’s what a Product Hunter has to say:
+
+—
+
+7. Rocketium
+
+Transform text & media into stunning videos
+
+Price: Free, $33/month, $39/month, or $125/month
+
+Best used for: Short video creation
+
+Description: Rocketium focuses on creating short videos with overlaid text (think Buzzfeed’s Tasty videos!).
+
+How to use it:
+
+Using Rocketium’s browser editor, you can create short videos in three simple steps.
+
+Add content and captions to the editor. You can upload images and videos or select copyright-free images and videos from their gallery. Choose a theme for your video. You can pick from their pre-made themes or build your own. Customize your video with filters, animations, fonts and more.
+
+Here’s what makes Rocketium so wonderful: You can choose to publish in different aspect ratios (portrait, landscape, and square) and Rocketium will automatically resize your captions for you! There’s no need to go through the usual process of re-making the entire video into a square or a vertical version.
+
+Check out a cool example from the Rocketium team here.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+8. Pixabay 2.0
+
+Over 780,000 free high-quality photos and videos
+
+Price: Free
+
+Best used for: Finding photos and videos for your content
+
+Description: Pixabay has more than 790,000 free photos, illustrations, vectors, and videos for your use. The Pixabay community contributes more than 1000 new original high-resolution images and videos every day!
+
+How to use it:
+
+With Pixabay, you can find images, graphics, videos and more for your social media or blog posts. All the resources are released free of copyrights under Creative Commons CC0, which means you can freely use them for any purpose (with a few exceptions).
+
+If you are like me — often not sure what term to search for, you can browse the resources by category. Here’s a list of the categories on Pixabay:
+
+Animals
+
+Architecture/Buildings
+
+Backgrounds/Textures
+
+Beauty/Fashion
+
+Business/Finance
+
+Computer/Communication
+
+Education
+
+Emotions
+
+Food/Drink
+
+Health/Medical
+
+Industry/Craft
+
+Music
+
+Nature/Landscapes
+
+People
+
+Places/Monuments
+
+Religion
+
+Science/Technology
+
+Sports
+
+Transportation/Traffic
+
+Travel/Vacation
+
+Here’s what a Product Hunter has to say:
+
+—
+
+9. gifs
+
+Create personalized GIFs in your browser
+
+Price: Free
+
+Best used for: Creating custom GIFs or turning your videos into GIFS
+
+Description: gifs allows you to take any video (Facebook, Twitter, Instagram, YouTube, etc.) and live video (Facebook Live, YouTube Live, Periscope, Twitch, etc.) and quickly turn it into a GIF using its web application.
+
+How to use it:
+
+To start creating a GIF, you can copy and paste the URL, upload it as a file or even search for one on gifs.com. The browser editor gives you the options of cropping the video or GIF, adding caption and stickers, and applying effects. You can even do frame-by-frame edits to create more detailed GIFs!
+
+With its one-click meme feature, you can turn a video or a gif into your favorite meme in a blink of an eye. Simply select the meme and gifs.com will add the captions and effects for you. At the moment, only the “Deal With It” meme is available.
+
+Here’s one that I created:
+
+
+
+
+
+(GIF Source: wifflegif.com)
+
+Bonus: You can set where the GIF links back to. When your GIF takes off on the internet, you could gain traffic to your site or followers for your social media profiles.
+
+Here’s what a Product Hunter (PH founder Ryan Hoover in fact) has to say:
+
+—
+
+10. CalendarX
+
+Get a calendar your audience can follow
+
+Price: $7/month, $29/month, or $72/month (with a 30-day trial)
+
+Best used for: Live events promotion
+
+Description: CalendarX is a calendar your followers can follow – how meta! Once they follow your calendar, you can push important events to their personal calendar.
+
+How to use it:
+
+In terms of creating events, CalendarX works quite similarly to most calendars. Events you created can be pushed to your followers’ personal calendar so that they will always be up to date about your events. This can be handy for live events such as Twitter chats or Facebook Live events.
+
+CalendarX provides statistics such as the number of followers, the number of calendar page views and more.
+
+To help you gain followers, there are many ways you can share your CalendarX calendar:
+
+Share a link to the calendar page or the follow page
+
+Add a follow button on your website or emails
+
+Embed it on your website
+
+Furthermore, CalendarX allows you collect information from your followers when they subscribe to your calendar, just like a mailing list signup form.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+11. Rebrandly
+
+Create and share links with your custom domain name
+
+Price: Free or $99/month with advanced analytics
+
+Best used for: Social media branding
+
+Description: Rebrandly is a custom URL shortener for sharing branded links. You can turn long, complex URL into branded and memorable ones.
+
+How to use it: After you create your account, you would want to set up a custom domain for your branding. You can either register for a new custom domain through Rebrandly or use a spare domain if you have one. For example, I could go with links.alfredlua.com.
+
+Download the browser extension to quickly rebrand any links. When you are at a page you would like to share, hit the browser extension button and you will be able to rebrand the link. For instance, I could rebrand my LinkedIn profile as links.alfredlua.com/cv.
+
+If you prefer to organize your Rebrandly shortened links in the existing apps you are using already, Rebrandly integrates with several other link-shortening apps such as:
+
+Goo.gl
+
+Clickmeter
+
+Bitly
+
+Bonus: Derric from Rebrandly was very kind to offer coupons for a free domain. If you use the coupon “buffer”, you can get your first domain with .link, .click, .xyz, .press, .site, .space, or .tech for free.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+12. Yala
+
+A bot that knows the best time to share your content
+
+Price: Free
+
+Best used for: Social media scheduling
+
+Description: Yala is a Slack bot that uses machine learning to determine the best time to post to Twitter and Facebook.
+
+How to use it:
+
+Start by adding Yala to your Slack team (or reach out to your team admin about adding her to your Slack team). Once Yala is added, she will reach out to you via a direct message in Slack or you could say hi to her (@yala) to begin scheduling.
+
+After you authorize Yala to post on your Twitter and/or Facebook profile, there are several things you can do:
+
+Change the publishing frequency (Yala will inform you your optimal posting times)
+
+Schedule a text post or an image with text
+
+Check your scheduled posts by sending “series” to Yala (Series is your queue of scheduled posts)
+
+Yala uses machine learning to update your optimal posting times automatically so you don’t have to think about the posting times at all!
+
+Bonus: The team is exploring the idea of bringing Yala to Facebook Messenger so you will be able to use it even if you are not using Slack.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+13. PostReach
+
+The easiest way to measure content performance
+
+Price: $10/month or $29/month (with 21-day free trial)
+
+Best used for: Content marketing analysis
+
+Description: PostReach automates content reporting for you. It tells you your key traffic stats, the number of shares and the influencers who shared your content. With 84% of social media marketers also working on content marketing, PostReach can help you with your social media and content marketing reports.
+
+(PostReach is a project from Buffer’s Ash Read and friends.)
+
+How to use it: With just one click, you can setup Postreach for your blog and it will automatically create reports for every post you publish.
+
+With PostReach, you get the following information:
+
+Traffic breakdown: Views and unique views
+
+Reader engagement: Bounce rate and average time on page
+
+Reader acquisition: Channels and sources which brought readers to your content
+
+Shares breakdown: Twitter, Facebook, LinkedIn, and Pinterest
+
+Twitter breakdown: Total shares, tweets, retweets, and total potential reach
+
+Influencers: Influencers who shared your content and their social stats
+
+Here’s an example report.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+14. Reveal
+
+Manage your Facebook & Instagram ad campaigns from Slack
+
+Price: Free (at the moment for its beta)
+
+Best used for: Paid social media management
+
+Description: Reveal is a Slack bot that brings you your Facebook and Instagram metrics and allows you to manage your ad campaigns from within Slack. It also alerts you when there are significant changes to your ads’ Click-Through Rate (CTR) and Cost-Per-Click (CPC) so that you can react to them immediately. With 91% of marketers in our recent survey saying that they are investing in Facebook ads, Reveal could be a great tool to stay on top of all the ad campaigns.
+
+How to use it:
+
+To use Reveal, add the slack bot to your Slack team (or reach out to your team admin about adding this to your Slack team). Once you have done that, the Reveal Slack bot will reach out to you in Slack to help you with the setup. You can see the results of your ad campaigns and manage them from Slack.
+
+You can also set up alerts via the website to notify you of any significant changes to your ad campaigns’ metrics.
+
+With Reveal, you get all these right within Slack:
+
+Full overview of your Facebook ads account
+
+Details of each campaign, ad set, and ad (including impressions, reach, amount spent, purchase value and CTR)
+
+Daily, weekly, and monthly report of your ad performance
+
+Money-saving alerts when your CPC or conversion rate changes significantly
+
+Here’s what a Product Hunter has to say:
+
+—
+
+15. Ghost Browser
+
+The Productivity Browser for Technology Professionals
+
+Price: Free or up to $8.33 per user per month
+
+Best used for: Social media management of multiple accounts
+
+Description: Ghost Browser allows you to log into any website with multiple accounts from one window. This can be very handy when you manage multiple social media profiles for each of the social media platforms.
+
+How to use it:
+
+After you request for a beta invite, the team at Ghost Browser will send you a link to download the browser. Download, log in and you are ready to roll!
+
+It looks almost like Google Chrome so if you are familiar with Google Chrome, it will be easy to get the hang of it.
+
+Here’s how you can use Ghost Browser to manage multiple profiles of the same social media platform (such as your personal and business profiles) using just one window:
+
+Right click on a tab and select “New Group”. A new tab with a different color will be opened. Each group acts like a new window, which means you can log in to a different profile of the same social media platform for every group you open.
+
+Clicking on the Ghost Browser icon beside the address bar allows you to quickly switch between different groups and tabs.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+16. Engage by Twitter
+
+Grow and understand your Twitter audiences on-the-go
+
+Price: Free
+
+Best used for: Social media listening and engagement
+
+Description: Engage is a standalone app by Twitter to help you manage your Twitter profiles. It allows you to connect with influencers by highlighting important mentions and provides you with more data about your profile and tweets.
+
+How to use it:
+
+In the app, there are three main tabs in the navigation – Engage, Understand, and Posts.
+
+Under “Engage”, you can check out top notifications, mentions, and interactions with verified Twitter profiles.
+
+Under “Understand”, you can see metrics for your profile such as the number of likes, retweets and follows.
+
+Under “Posts”, you can dig into the performance of individual tweets.
+
+Here’s what Engage looks like from the Product Hunt’s Twitter profile:
+
+Learn how to use Engage from Twitter here.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+17. Snaplytics
+
+Analytics platform for Snapchat
+
+Price: $179 or $299 for the brand’s analytics and $10/day for each active influencer for the influencers’ analytics
+
+Best use for: Influencer marketing
+
+Description: Analytics for Snapchat is very much needed by marketers and influencers since Snapchat does not provide it natively. Snaplytics provides you with all the metrics so that you do not have to collect them manually again. Apart from that, if your brand works with influencers, the platform allows you to track how well the influencers’ snaps are performing.
+
+How to use it:
+
+After connecting your account with Snaplytics, it displays all your metrics in a neat dashboard. You can check out how well each snap is performing, your follower growth, and overall metrics.
+
+Through Snaplytics, you can find out:
+
+The number of opens, screenshots, completion rate, and open rate for each story
+
+Estimated total followers and follower growth
+
+Your average stats such as the average number of opens and the average number of screenshots per story
+
+Here’s a demo if you wish to check out the platform.
+
+Bonus: Snaplytics provides a TalentScout service to help you find the right Snapchat influencers for your brand.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+18. Intellifluence
+
+Intelligent Influencer Marketing
+
+Price: $9/month (with a 14-day free trial) or Entreprise plan
+
+Best used for: Influencer marketing
+
+Description: Intellifluence helps you discover and collaborate with the right influencers for your brand. What makes Intellifluence stand out from other influencer marketing platforms and agencies is that it focuses on key peer level influencers instead of the big names. This makes influencer marketing more viable for small-medium businesses.
+
+How to use it:
+
+With Intellifluence, you can search for influencers by country, social network, and keywords. Through the system, you can send a pitch for collaboration to your selected influencers and manage your communications with them.
+
+The influencers signed up to be in the system themselves which meant that they are likely to be looking for collaborations. They are also verified by the Intellifluence team. Apart from social media, Intellifluence’s system also includes influencers on other platforms. Here’s the full list:
+
+Amazon
+
+Blog
+
+Facebook
+
+Instagram
+
+LinkedIn
+
+Pinterest
+
+Twitter
+
+YouTube
+
+Here’s what a Product Hunter has to say:
+
+—
+
+19. Waaffle
+
+Aggregate, analyze, and publish content from social media
+
+Price: $9/month per campaign
+
+Best used for: Social media monitoring, curation, and analysis
+
+Description: Waaffle is the tool for making the most of your social media content. With Waaffle, you can aggregate and monitor social media posts from Twitter and Instagram, analyze them and publish the aggregated content.
+
+How to use it:
+
+After connecting your Twitter and/or Instagram account, you can create feeds for specific hashtags or accounts. From there, there are three different ways you can use the feeds:
+
+Monitor and respond to the relevant posts to engage with your audience Analyze the number of posts using the hashtags or from the accounts and view the top five posts in the past 30 days Display your selected social media posts on a public Waaffle board, a website widget, or a full customizable feed using its API
+
+The curated public feed of social media posts is great for many purposes. Here are some recommendations from the team:
+
+Aggregated social campaigns
+
+Competitions
+
+Live events
+
+Website social feeds
+
+Custom social presence
+
+Shoppable social content
+
+Feel free to check out my test Waaffle board here or a much better actual example here!
+
+Here’s what a Product Hunter has to say:
+
+—
+
+20. Falcon.io
+
+The social media and customer experience management platform
+
+Price: Pro and Premium plans (pricing not available)
+
+Best used for: Full marketing and customer experience management
+
+Description: Falcon.io is the one tool that helps you with almost all of your marketing efforts. The platform allows you to listen on social, engage with your customers, manage and publish your content, build responsive pages, measure your performance across channels and more! On top of all that, it is also a Customer Relationship Management (CRM) tool.
+
+How to use it:
+
+Falcon.io simplifies customer experience management into six key areas, and you can manage all that with its platform:
+
+Listen: Monitor social media channels and online media to collect insights Publish: Plan and publish with a social media content calendar Measure: Make informed decisions with social media analytics Engage: Manage all your customer engagement needs with your social inbox Build: Create beautiful and responsive campaign pages Audience: Connect all your customer data in enriched profiles
+
+Since it’s such a powerful tool with numerous great features, it might be great to request a demo from the team to better understand the product. You can request a demo here.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+Bonus: Buffer Reply
+
+Social customer service software for support teams
+
+From our State of Social Media survey, we found that only 1 in 5 uses social media for customer support. With more customers turning to social media channels for support issues, there’s a great opportunity here to stand out from other businesses. We thought it might be helpful to share the tool which we use at Buffer for social media customer support. It’s none other than… Buffer Reply!
+
+We launched Buffer Reply earlier this year and the team has been working hard to improve the product. I’m excited to share that Buffer Reply, a completely redesigned version of the tool, is slowly being rolled out to customers at the moment.
+
+Price: Starting at $49/month for small teams and basic features (Custom pricing is available for larger teams and advanced features.)
+
+Best used for: Social media customer support
+
+Description: Buffer Reply is a team inbox for your social customer conversations. It puts all your Twitter and Facebook mentions, direct messages and searches into one simple inbox so that you and your team can quickly respond to your customers and resolve their issues.
+
+How to use it:
+
+Once you connect your account and set up your searches, you are ready to support your customers on Twitter and Facebook.
+
+While most social media tools are built for marketing and engagement, Buffer Reply is built mainly for customer support. With your customers and your support team in mind, here are some of the cool benefits of Buffer Reply:
+
+You can use filters to bypass the chatter of social media and surface support-related conversations to help your customers quickly.
+
+You get the things you need to know about your customers to help them, including their profile and your past conversations with them.
+
+You can work effectively as a team by assigning conversations to the right person and leaving internal notes.
+
+You can make the best decision for your team through the powerful analytics and reporting.
+
+Here’s a great blog post on some of the awesome stuff in Buffer Reply.
+
+Here’s what a Product Hunter has to say:
+
+—
+
+Your turn: What are your favorite new tools?
+
+Thanks for making all the way to the end of the post! I hope you have found one or two (or twenty) new tools to add to your daily workflow.
+
+Are there any new social media tools I might have missed out? (I probably have missed quite a few.) I’m curious to hear about your shiny new tools too! Feel free to comment below and I’ll be excited to check them out. Thank you!

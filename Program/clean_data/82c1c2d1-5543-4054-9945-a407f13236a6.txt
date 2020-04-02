@@ -1,0 +1,203 @@
+My last post, perhaps provocatively, called for a reduction of data in executive dashboards (digital, online, offline). More English (IABI, specifically) would lead to a smarter understanding of performance, and of course glory for data practitioners.
+
+Here's the post: Strategic & Tactical Dashboards: Best Practices, Examples.
+
+In the post Adil commented that he's observed that attribution modeling is missing from most web analytics dashboards. My reply was that attribution modeling might not be present in a physical manner, but that it should be there below the surface to ensure our executives have a smarter understanding of a channel's true contribution.
+
+While that is a perfectly good reply, Adil did make me wonder what a perfect dashboard module (one element of a dashboard) might look like should we want to parade the dead body of last-click attribution in front of our executives.
+
+I'll share the outcome of that thinking in this post, but you also get a bonus. The post also shares a total of seven complete modules to your digital analytics dashboards. Each shows a unique facet of digital performance, and I've attempted to choose the best dimensions and, for those dimensions, the best possible metrics.
+
+If you are in the process of creating a dashboard, you'll discover that this post saves you a million hours of wandering in the woods (ok, so not a conservative estimate!). If you already have a dashboard in place, the post should spark introspection about your choices and encourage a few valuable changes. The post shares seven distinct, awesome, dashboard modules.
+
+Before we go on….
+
+Prologue:
+
+You'll recall the killer insight from the post on strategic and tactical dashboards, getting the balance between data and English right, and the shift involved as you move from customized data pukes (CDPs) to tactical dashboards to truly strategic dashboards…
+
+This post is focused on helping you create smarter tactical dashboards. The target audience would be Senior Directors and VPs in the company/division. They will have some of data, but your insights, recommended actions, and computation of business impact (IABI) will be critical in driving change.
+
+Creating these tactical dashboards (I'll end with a representation of what an entire dashboard could look like), will give you much needed experience to step up to creating magnificent strategic dashboards.
+
+Before we go on, what do I mean by database module? It is one complete representation of performance, usually illustrated in a table or a graph. Here's one simple example that is likely in every single digital analytics dashboard…
+
+The dark blue line is Sessions (Visits, if you are not using Google Analytics) and in the light blue line is Conversion Rate. Ever single dashboard likely has this module because every executive wants to know how many visits were there on our site, and what's our conversion rate!
+
+This is an easy module to create in Google Analytics (or any other tool). Most of the time it is value-deficient, but sometimes, like above, it does raise interesting questions. If we are getting so much better at getting traffic, how come our conversion rate is essentially flat? If we've spent money on qualified traffic, why is the light blue line not sloping up over time? Good question!
+
+Oh, and this is why you need the English part (IABI). Without it, you are assuming the dashboard recipient can answer that question and that is just silly.
+
+Ready to go? We are going to focus on tactical dashboards, and here are seven delicious dashboard modules I've created that should help you create insightful dashboards. I've done the hard work on your behalf to pick the dimensions and critical few metrics that will illuminate your complete business performance. [And Adil, if you are reading this, #2 is just for you!]
+
+Ok, don't forget to breathe, this gets exciting!!
+
+1. Search Contribution: Acquisition, Behavior, Outcomes!
+
+Before we get to attribution modeling here's one of the more basic dashboard module, and a best practice.
+
+Search engines are immensely valuable sources of traffic for any type of website. For the site below, they represent 56% of the site traffic (in the best practice range). So obviously the executives will want a dashboard module that represents search performance.
+
+Given our challenges with not provided, (See: Search: Not Provided: What Remains, Keyword Data Options, the Future), it might be optimal to just have the search engine level view in the dashboard.
+
+Here's the best practice I encourage you to consider… show the search source and Users, Pages/Session and Per Session Goal value.
+
+How many people visited our site, during their visit how much content did they consume, and what was the value of the macro and micro outcomes to our company?
+
+There are a million other things you can add to effectively confuse your executives. You might not need to. This tells them everything they need to know.
+
+A big, large, huge, gigantic, mistake Analysts make in dashboard modules is they only show a partial view, rather then end-to-end. So for Search they might show Users, Sessions, CTR, CPC (for paid), Impressions, and Conversion. The problem is they over-indexed in acquisition (the first five metrics), only had one outcome metric, and no behavior metric. Always focus on the complete journey! (See: Best Metrics For Digital Marketing: Rock Your Own And Rent Strategies).
+
+In our module above we have one of each to represent the end-to-end journey so that you can judge which engine is bringing lots of traffic, but then is it traffic that engages and in context of that do they deliver value to us? Data above is for a B2B website with no ecommerce. Always compute economic value!
+
+As you can see my dashboard module is directly from Google Analytics. You can use the standard Channels report, or you can create a custom report. I'll show just the standard reports directly from GA for rest of this post. But you can also use the free Google Analytics API to automate extraction of the dashboard modules and create pretty dashboards. There are many apps in the Google Analytics App Gallery that also do this very nicely.
+
+With a tiny bit of love I can take my slightly ugly, but still insightful, dashboard module above and make this pretty thing…
+
+Nicer fonts, some simple application of conditional formatting (try it in Excel), and boom! Your boss loves you. Oh, and yes, it is much easier to see patterns in the data. I suppose that is a bonus. :)
+
+For the rest of the post, I'll just share the standard GA view because I just want to create the modules and share the best dimensions and metrics to focus on.
+
+2. Channel Contribution: Assists AND Last-Click Impact
+
+One thousand, one hundred and three words later, we are finally on to our friend Adil's comment that inspired this post.
+
+There are three types of multi-channel attribution scenarios. Almost always your efforts to apply custom or standard attribution models will show up in tables and graphs that measure conversions/outcomes. They will be silent and behind the scenes.
+
+But this module could sit all by itself on your dashboard and both educate your senior-most executives and get them to ask all the right questions about the thing you want from attribution modeling efforts: Are you investing our marketing budget optimally in our media-mix?
+
+On the left are all your owned, earned and paid media channels. Then we show the number of assisted conversions driven by the channel. This is super-duper important. People came to your website (mobile or desktop) and they did not convert during the first visit (that is absolutely ok!). But they did come back in the future (in a 90-day period) and convert via a different channel (also absolutely ok!). For the first time on your dashboard you'll give these beautiful channels credit they deserve!
+
+The third column is what your digital analytics tool will report, how many last-click conversions did the channel deliver. This, of course, is important. It is just not the full picture.
+
+The very last column is to deliver a quick sense for your executives for which channels tend to have more propensity to deliver last-click conversions (see Paid Search, Display), and which might introduce just as people people to your business (assist) and convert about the same (Social, Email).
+
+This dashboard module will cause your executives rethink ad-targeting, ad-content and landing page strategies (much more selly, sell, sell on Paid search, a lot less on Email and Referrals). It will also encourage them, without having to understand the immense complexity of attribution models or media-mix modeling, to give you permission to invest in aforementioned complexity.
+
+Win-win. Achieved simply.
+
+3. Content Contribution: Consumption, First Impressions, Value Delivered
+
+Changing gears, you'll surely have one database module to communicate the value of the content your company is investing in. Plain text. Product recommender tools. Configurators. All the lovely See and Think content. Awesome videos (boring videos). Pimpy Flash thingys (remember… every time you use flash on your website, a puppy dies).
+
+Here's my favorite content contribution dashboard module…
+
+Several things to note here.
+
+Do you see that I cover acquisition, behavior and outcomes again? Always do this!
+
+Did you notice I'm biased towards measuring people wherever I can, I don't like sessions/visits as much (unless I need to align users, sessions, and hits optimally).
+
+Unique Pageviews only counts the page's view just once, even if a person viewed it ten times. Entrances is there to give us a sense for how often the page is a landing page (remember… every page on your website is a home page!). Finally, my bff Page Value shows how much money a give page made for us (it works both for ecommerce and non-ecommerce websites). You want our executives to move away from obsessing about page views, to valuing outcomes. Look at the wide spread above, from pages making us $0.27 to $2.75!
+
+How many people saw the page, how many entered on the page, how much money did it make? What else do you need to know when it comes to content consumption if you are an executive?
+
+This module will always provoke questions (be ready with your IABI) and drive short and long term change.
+
+4. Country Contribution: Intensity of Outcomes, Something Big, Something Small
+
+Executives don't worry about geographic differences enough. Cultures. Spending power. Shopping behavior. To name just a few.
+
+In my dashboards for companies that have a wide geographic presence, I like to include this dashboard module…
+
+In this case we are focusing on countries, makes the most sense for this business, but you can just as well do cities or DMAs or a different more optimal slice.
+
+Because this is just a couple times a year type business (at best, mostly you might engage just once a year), we show Sessions (I want to show you that you should read best practices, like mine in the above module, but then always, always, apply local knowledge of the business).
+
+Then the difference in Goal Value between each country. The Comparison button on top of every GA table helps us eliminate most numbers and replace them with this red and green indexed value against the overall average.
+
+And finally, one micro-outcome. Geographic differences often drive different outcomes. The Per Session Goal Value covers all the goals and outcomes. But I wanted to call out Goal 2 as a proxy for differing behavior. Again, using the Comparison feature. In your dashboard module, customize this column.
+
+To create this report in GA, go to Audience > Geo > Location > Click Comparison on top of table, choose the right metric (Per Session Goal Value and Goal 2 used above).
+
+Get your company to be smarter and more targeted about their advertising and marketing strategy by using a geo segmentation. Your shareholders will thank you.
+
+5. Social Contribution: Activity + Full Credit For Outcomes.
+
+With all the hype around Social Media (yes, still!), can you imagine how many things we can show in our Social dashboard module? Total Likes! Total Followers! Circle Members! Pageviews! Wait. What was that last one? :)
+
+Ok, there is a lot.
+
+I normally show a module that contains my best social media metrics: Conversation Rate Amplification Rate, Applause Rate, and Economic Value.
+
+But recently I've gone simpler, partly to accommodate for the fact that our executives have become so much more skeptical about all the social hype and its value. Especially, executives that own outcome oriented sites.
+
+Here's the dashboard module I'm using a lot more, and the response from the leadership has been pretty ecstatic.
+
+If you go to Acquisition > Social > Overview, you'll see it.
+
+The small blue circle is what our executives are often told Social channels delivered as outcomes and economic value. (Data below is for a non-ecommerce, B2B website.)
+
+The light blue circle is what they should really be told, outcomes and revenue is roughly 2x of what they believe. We want to give Social credit for all the non-last-click conversions! It is only fair.
+
+The big circle represents overall outcomes. 315k conversions. The two numbers at the bottom, orange box, are there to provide important context.
+
+Now our executives have the full picture. Social is important, but it is not the thing to most obsess about. If you want only short-term outcomes, inside 90-days, invest less than fifty nine thousand dollars (people, process, advertising) in it and you'll break-even. If you can afford to be patient and believe in long-term outcomes, invest more.
+
+A simple database module that gives Social its full credit, and allows for smarter decisions.
+
+Our executives will always have pet projects, they will always have the next shiny object to chase. Your job is to create the simplest database module for that shiny hyped thing so that you can help the executives get to the best decision.
+
+6. Product Contribution: Bestsellers, Crazy Buyers, Opportunities.
+
+Ok, enough of all this B2B and non-ecommerce stuff.
+
+Let's focus on money! Ecommerce! Life-sustaining ecommerce!!
+
+This might surprise you, but my favorite ecommerce dashboard module shows product performance…
+
+We obsess at high level conversion rate type stuff so much that we don't often look at what is being sold. And even if we do we might list the total quantity of a product ordered and it will take the shape of a top ten products sold dashboard module. All fine. It is not insightful enough.
+
+My favorite metrics are Unique Purchases (total number of times a specified product – or set of products – was a part of a transaction), Average Quantity (average number of products sold per transaction) and Product Revenue (revenue from individual product sales).
+
+Take a couple minutes. Look at the table. So weird right?
+
+Why are people ordering, on average, 2,822 quantity of the toddler tee? What do we need to learn more about the product, or, better, the purchasers? The Fiji pens look a lot more normal. But look at the motion lamp or the messenger bag. Weird stuff going on!
+
+That is why I like this module, structured this way. It brings the data to our executives to change minds about what our customers are buying and how much and forces us to ask why. And as the best analyst knows, asking why always leads to good things!
+
+Use this module. Surprise your company stake holders.
+
+7. Intelligence Alerts: Greatest Starting Points, Brought Forth.
+
+My last dashboard module falls is from Planet Wish-list. It is less something you can get directly out of Google Analytics, like all of the above modules, and more of something I would love for you to spend time and money on (usually with a consultant).
+
+Most dashboards don't obsess about what's changed, they focus more on what happened. And that's not the same thing.
+
+The Intelligence Alerts feature in Google Analytics does focus on what's changed. In English… here are some things in your data that are showing an unusual pattern,let us present them to you in the order of importance (statistical significance).
+
+It is really cool. If you go to Intelligence Events > Overview, you'll see something like this…
+
+It shows the impacted metric, the segment where the behavior was observed and the observed change and how much confidence does Google Analytics have that the change was important/significant.
+
+You can click on any of the alerts above and you'll get more detail….
+
+In this case you see the expected range of average session duration (maxing out at one min and four seconds), and the actual performance was almost five minutes!
+
+Does your dashboard have a module that represents this type of change? Give your executives the best starting points for their questions? It is important to illustrate what happened as you see it in all the other dashboard modules above, but I believe the best dashboards in the world, representing the work of the best analysts in the world, will have a module that represents results of automated analysis of the data to highlight at least the known unknowns (and if you are really good, some unknown unknowns!).
+
+In case you are unable to build your own system or module, please leverage the automated intelligence alerts in Google Analytics. And for the known unknowns, do remember to set up relevant custom alerts.
+
+Closing Thoughts.
+
+We should strive for the best strategic dashboards in the world. Our leaders deserve nothing less!
+
+But, it is of value to create great tactical dashboards for people in our company with enough connection to data and reality. The seven modules above cover your entire business, and leverage important frameworks in their presentation (critical few metrics, obsessing about people, focusing on acquisition, behavior and outcomes).
+
+When it comes time to pull it all together, here's my recommendation for what your dashboard could look like…
+
+A dashboard module on the left, a text box with the insights, actions and business impact (IABI) on the right. Please click on the above image for a higher resolution version.
+
+Your executives will be informed, advised and will take every action you recommend, and then some more.
+
+Life will be… glorious.
+
+I wish you all the very best!
+
+As always, it is your turn now.
+
+Which of the seven modules is your favorite? Is there one that you tend to use across multiple companies/divisions? What does your favorite dashboard module, from any too, contain? Which facet of a digital business do the above modules ignore? There are lots of compromises in picking the critical few metrics, which compromise goes too far? What else would you add to fix it?
+
+Please take a moment to share to your delightful comments, insightful suggestions, valuable examples via the comment form below.
+
+Thank you.

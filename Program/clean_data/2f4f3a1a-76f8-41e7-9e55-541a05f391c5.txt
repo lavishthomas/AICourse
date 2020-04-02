@@ -1,0 +1,19 @@
+Salesforce and IBM are joining forces again as they attempt to deepen their alliance. The partnership began last March when they agreed to sell each other’s artificial intelligence products, Watson and Einstein. Today’s announcement is all about data integration.
+
+Salesforce will be adding the ability to include IBM weather data in Lightning apps, while IBM will enable customers to easily build apps that include Salesforce data.
+
+IBM bought The Weather Company in 2015 because it was hot for all that delicious data. Apparently Salesforce is too, because the first part of today’s announcement involves a few specific types of weather data integration on the Salesforce Lightning platform.
+
+For starters, there is a Lightning component called Weather Focus, which allows developers to build weather data into applications. For example, a customer building an ecommerce app on Salesforce could automatically adjust the delivery date of a purchase based on weather conditions.
+
+Secondly, Weather Recorder lets users record weather data by date range directly into a Salesforce record. This could come in handy, for example, for an insurance app to incorporate information about a catastrophic weather event and help underwriters understand the conditions at the time of the claim.
+
+Finally, with the Scheduling Assistant you can set up appointments based on weather data, making sure there isn’t say a snow storm in the forecast that could keep you from showing up.
+
+The second part of today’s announcement is about incorporating Salesforce data into IBM apps. Just as you can build weather data into Salesforce apps, you can also incorporate Salesforce data into IBM apps now via IBM Cloud Integration for Salesforce. This could be useful for pulling Salesforce data together with news and other relevant data to enable salespeople to react more quickly to customer needs based on a variety of external conditions (including the weather).
+
+When you hear that IBM and Salesforce are partnering, you might do a double take — who and who? The two companies couldn’t be more different. IBM is over a century old and has experienced more than a few significant business shifts in its time. Salesforce is a youngster by comparison, born as cloud company in the late 1990s to take on establishment companies like IBM.
+
+But the two organizations have the enterprise in common, and chances are they have customers who want to use data from one another. Ultimately, this is a simple data integration story, giving each company’s customers easy access to some valuable data.
+
+Featured Image: gbrundin/Getty Images

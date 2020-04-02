@@ -1,0 +1,131 @@
+We’ve walked you through building your own computer before. In this post—which we’ll update periodically as prices and components change—we’ll walk you through the hardware we’ll need for three different system builds: a budget workstation, a powerful all-purpose PC, and an enthusiast’s system for gamers and professionals.
+
+While some consider the desktop a dead platform, there are still plenty of us who use them as much as or in addition to laptops or tablets, love to play PC games, or just enjoy getting our hands dirty and building our own systems. Before we go any further, we should point out that these PC builds are designed to optimize your all-around computing experience, with some emphasis on PC gaming. The components that give you the best bang for your buck depend heavily on what you’re planning to do with the system: Your parts will be different if you’re building an HTPC on the same budget, or a super-speedy file server for your home network.
+
+Advertisement
+
+We’ve talked about our own experiences building a system, why it’s important, and some awesome tips for first-timers already. If you’re ready to set out on the task of building your own computer, here are the components you’ll need to build the best system you can get for your money.
+
+http://lifehacker.com/6-essential-tips-for-first-time-pc-builders-1458484291
+
+Update - December 2016 : Again, it’s been too long since our last update. Storage, RAM, and other component prices have dipped a bit, but GPUs are the odd part out, both AMD and NVIDIA are holding firm on pricing, at least until AMD unveils its latest and greatest in Q1 2017. If you’re an AMD fan, or just want to try and get a bargain on a GPU, you may want to hang tight until those AMD cards hit the market and NVIDIA adjusts to match—because they absolutely will, as AMD tries to play leapfrog with its next generation of GPUs. That alone may make you want to wait.
+
+That said, other component pricing isn’t likely to shift much just yet, and there are plenty of deals to be had, especially heading during the holiday shopping season. We’re continually surprised with how much power you can get for such little money—our $300 build this time around is still a strong MicroATX performer, so much so that we brought the same form factor to our $600 build, while changing out the innards. The money we saved by going MicroATX in these cases went to other perks, like SSDs in all builds and more RAM. Keep in mind that you should use these guides as a template—they won’t be perfect for all use cases, but they’re good general PCs with some focus on gaming (however they’re not explicitly gaming PCs.)
+
+As usual, we’re using PCPartPicker to put together our builds. We love it, and think you should use it too—it gives you more flexibility in your part buying, helps you eliminate possibly incompatible components. Plus it makes sure you get he best prices for the items you plan to buy, even if it means you have to buy them from different retailers. If you have your own PCPartPicker builds you want to show off, make sure to link them up in the discussions below!
+
+
+
+As always, keep in mind that prices change all the time, so if you’re checking this and the prices have changed, just head back to PCPartPicker and see if you can find a better price.
+
+
+
+Build Versus Buy
+
+The old debate over whether you should build your own system or buy a pre-built one is an old, long-standing argument that will never be easily washed away. However, there are some benefits to building your own system that can’t be weighed in terms of dollars and cents. You may be happier with your own hand-built system, or you may be able to score bargains and rebates that lead to a more powerful computer stuffed with higher quality components than a manufacturer would use.
+
+http://lifehacker.com/how-to-save-money-when-you-build-your-own-pc-511195742
+
+Building your own PC also gives you complete and full control over that system’s components and extendability. Unlike buying an OEM PC, assembling your own gives you the ability to make decisions about when and how you’ll upgrade that system in the long run as opposed to simply taking what the manufacturer sells you. For example, you can buy into a new motherboard chipset early and wait to spend money on the next generation of graphics card later, giving yourself a timely upgrade when the moment-or your budget-is right.
+
+Advertisement
+
+Ultimately, while it may be easier to just pull out a credit card and buy whatever’s on sale from your preferred OEM, there’s something about assembling the components of a system that you’ve selected for your needs, powering it up, installing your favorite OS, and using it every day that’s’ incredibly rewarding. We’ve talked about this in more detail here, if you’re curious.
+
+http://lifehacker.com/is-building-a-pc-really-cheaper-than-buying-one-1443171781
+
+Choosing The Right Parts
+
+There was a time when building a PC was all about buying the most expensive and most powerful components you could on the budget you had. While some of that is still true, even budget components can be remarkably powerful, and if all you’re planning on doing with your system is word processing, surfing the web, and some light entertainment like streaming video or listening to music, almost any system build will work for you.
+
+You don’t need to spend a grand on high-end gaming components if you’re putting together a system for your friend who doesn’t know or care what graphics card is going into the box. At the same time, that doesn’t mean they’re doomed to a computer full of sub-standard components. We’ve explained before that you should carefully assess your need before rushing off to start pricing out components, and that advice is still true today.
+
+http://lifehacker.com/5684015/crafting-the-perfect-computer-spec-list
+
+Ultimately, there’s no reason for you to rush out and buy the most expensive components you can afford unless you’re an enthusiast and want the most top-of-the-line system you can afford. Don’t be fooled by brand names, either. Here we’ll detail two separate builds, a high-end system for enthusiasts and power-hungry users, and a mid-range build that will cost about half as much but still pack a punch.
+
+http://lifehacker.com/does-brand-matter-when-i-buy-computer-parts-718131802
+
+The $300 Budget System
+
+The first few times we did this guide, a few people noted that $600 and $1200 were more than enough to spend on high-powered PCs, but a good machine at around or less than $400 would be a great project. Well, here you go—not only is it possible to come in under $400, we opted for $300, and the system we put together on that budget is no slouch.
+
+The Parts
+
+This parts list assumes that you’ll need basic components: a case, a motherboard, processor, memory, storage, graphics card of some type, and a power supply. We’re going to assume you have a perfectly good USB keyboard, mouse, and display you can use with your new system. Before you blindly buy what we’re about to suggest, take a moment and look at our Lifehacker Night School article on choosing PC components, where we discuss some of the things you should think about before buying your components. For example, our $300 PC here is made for economy and general use, not necessarily high-end gaming or video editing. Remember to consider what you’ll use the system for before buying.
+
+That said, here are the parts for our budget-friendly PC:
+
+The $600 Workhorse PC
+
+Long gone are the days where you have to spend a grand for a decent self-built system. Unless you absolutely have to have a top of the line PC, this mid-range system will power through everyday tasks, handle 1080p PC gaming, streaming movies and music from the web, and even those bigger projects like ripping your music collection or editing home movies.
+
+The Parts
+
+Again, we’re going to assume you have a perfectly good USB keyboard, mouse, and display you can repurpose for use with your new system. Our $600 PC here is made with bang-for-the-buck in mind, something that will earn you high performance without breaking the bank—not necessarily silent operation (although there are ways to get a quieter budget PC if you want one) or expansion. We can’t stress this enough: We crammed some decent power in here, but it comes with tradeoffs, like expandability or overclocking. Remember to consider what you’ll use the system for before buying. You will likely want to tweak some of the components we suggest below.
+
+Here are the parts for our $600 workhorse:
+
+If you want more options…
+
+
+
+You can build a powerful system for $600. That doesn’t mean there isn’t room to improve it, or cut it down a bit if it’s too much. You could get below $500 by going AMD, like in our $300 build. If you want to save even more, pull back on the GPU, especially worthwhile if you don’t play video games—or don’t play current or recent-gen games. Aside from that, even though this build breaks our budget a bit, it’s well-rounded and packs in some solid power.
+
+Advertisement
+
+If you have a few more dollars to spend, we absolutely think you should bump up to an Intel Core i5. The system here is solid, but maybe I personally often feel like the i5 is the builder’s floor (although I know lots of great builders who’ll tell me not to feel bad about suggesting an i3.) That said, in some tasks, like certain games, video editing, and audio encoding that can make use of hyperthreading or the extra two cores in the i5, it’s worth the upgrade. Beyond that, consider a bigger SSD. You run out of space before you know it, and we say some great SSD deals on Black Friday that are sure to come back before the end of the holiday shopping season. Normally we’d shy away from the BX series for the MX series, but the BX is getting great reviews. As always, The Wirecutter has some up-to-date thoughts on the best SSDs, including some very tempting budget options from Crucial, like this 525GB model that hovers close to $100.
+
+The $1200 Powerhouse PC
+
+Now that we’ve covered two systems that can be purchased and assembled on a decent budgets, now it’s time to have some fun. We’re not targeting our upper limit here, we just want to give you an idea of some of the components that would make a good enthusiast’s build. If you’re a fan of PC gaming, have to play the latest releases as soon as they’re out, have multiple high-resolution displays, and want to expand your build with other PCI cards or water cooling, this build is for you.
+
+The Parts
+
+As with the $600 PC above, we’re going to assume you have the basics, like a keyboard, mouse, and display. In this case though, we’re going for the big, pretty, and powerful, but that doesn’t mean spending money recklessly. We will slap in some pricier components that we know would make a noticeable difference in your computing experience if you had them in your system, but try not to spend where it won’t matter for your actual experience.
+
+Advertisement
+
+Again, remember to consider your use case before buying – the people who’ll really love this build will be PC gamers, media professionals, and enthusiasts who want to futureproof themselves or just prefer the top of the line.
+
+Here are the parts for our enthusiast’s PC:
+
+The total: $1266.44 ($1264.46 before Discounts, Rebates, and Shipping)
+
+
+
+Buy this build from PCPartPicker
+
+If you want more options…
+
+
+
+Sometimes building an enthusiast’s PC is more difficult than building a budget one because you have budget, but don’t want to go overboard or make decisions that waste money. We hope this sub $1200 build walks the line between spending good money on components that matter without spending too much on the ones that don’t.
+
+Advertisement
+
+If this is too much though, some of the biggest money sinks here are clearly the video card and the processor. You could bump down to an Intel Core i3 like the one in our $600 build, or even a locked Core i5 (and of ditch the aftermarket cooler—and maybe switch to a motherboard that’s not aimed at overclockers) to save some dough, but you can also choose a less powerful video card, like the GeForce GTX 1060 or the Radeon RX 480 we mentioned above—especially since you can upgrade a video card more easily than a processor. All of these titles will play the latest titles on medium to high settings without trouble at 1080p, and with solid framerates.
+
+A Note About Your Operating System
+
+You’ve undoubtedly noticed that we haven’t included the cost of an OS license in this roundup. The reason for that is because first, we don’t want to assume what operating system you’ll install on your build, what version of it (whether you want Windows 7, 8, or 10, for example), and frankly, there are so many ways to get a good OS these days on the cheap (office licenses, student discounts, OEM licenses, sales, etc) that there’s no reason to include stock prices. If you want to go Linux, then your cost is nothing.
+
+Advertisement
+
+If you’d rather install Microsoft Windows, you’ll probably want a license for Windows 10. Licenses of Windows 10 Home are hovering around $100 and Windows 10 Pro are about $140. depending on where you buy.
+
+If you don’t want Windows 10, that’s fine—you can get Windows 8.1 for around $80. If you’re sticking to Windows 7, Home Premium will set you back around $100 and Windows 7 Pro is around $135. But seriously, considering the free upgrade ride to Windows 10 is over, if you’re buying Windows, you should probably just get Windows 10.
+
+At the same time, you can probably score an even cheaper copy with an educational discount if you have one, or through an employee purchase program if your workplace has a enterprise licensing agreement with Microsoft. Finally, since we didn’t include optical drives with these builds (and few builders do anymore,) here’s how to create Windows install media on bootable USB.
+
+Additional Reading
+
+Don’t take our word for these builds. We’re sure you have your own opinions on what should have made it in and what should have been excluded.
+
+Advertisement
+
+One reference that is constantly updated and invaluable for determining exactly how enthusiast you’re being when it comes to the components you’re buying and how much you should be spending on them is the Logical Increments PC Buying Guide. We used it as a reference extensively here, and the site is super user friendly and regularly updated with new pricing. It’s a big help, and can serve as a good sanity check if your build is getting out of hand.
+
+Also, make sure to read up on your most critical components before you buy. Anandtech’s 2016 GPU benchmarks, Tom’s Hardware’s 2016 GPU benchmarks, and the Tom’s Hardware forums are invaluable when looking for benchmarks and opinions on some of the components you may buy before you add them to your cart. The BuildaPC subreddit is also a great place to ask for opinions and guidance if you’re having issues or just want the thoughts of people who have been where you are now.
+
+We’ll come back to this system builder’s guide periodically to make sure it’s updated with the best components for each of our builds. Remember though, take our builds as guidelines for your own research and your own PC-building project. If you have a superior build or noticed an error above, let us know in the discussions below.

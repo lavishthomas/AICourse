@@ -1,0 +1,19 @@
+TWO sprinters may have got caught doing it this week. And a cyclist didn’t do it, but it is so common in his sport that what he did do without doing it is even more astonishing. “It” is taking performance-enhancing drugs. The sprinters were Tyson Gay and Asafa Powell, who both failed drug tests (though both deny wrongdoing). The cyclist was Chris Froome, who without pharmaceutical assistance managed a stunning ascent of Mont Ventoux during the Tour de France.
+
+Professional sport is rife with drug-taking. Getting caught will get you banned, frequently for life. Yet people carry on doing it regardless. Why?
+
+Appropriately, the answer may lie in a branch of mathematics called game theory. This deals with conflicts of interest between parties who know each other’s preferences but not their actual intentions or decisions. It then deduces the best course of action for any rational player.
+
+Existing game-theory analyses of doping look at things either from just the competitors’ points of view, or from the points of view of both competitors and organisers. Neither of these, though, produces a perfect analysis of what is going on. Berno Buechel of the University of Hamburg and his colleagues have therefore introduced a third factor—the one that allows sports to be professional in the first place. This factor is the customer.
+
+The simplest game in game theory is “prisoner’s dilemma”. In the athletes’ version, both players will be better off if neither takes drugs, but because neither can trust the other, both have to take them to make sure they have a chance of winning.
+
+Introducing an authority figure, in what is known as an inspection game, should deal with this. If the inspector tests the athletes, and the athletes trust the inspection process to catch cheats, fear of getting caught should keep them on the straight and narrow. Except that is not what seems to happen in the real world. Clearly, athletes do not think they will get caught. And Dr Buechel and his colleagues think they know why.
+
+In a working paper they started circulating among their peers earlier this year, they suggest that the real game being played here has yet another party in it—the fans and sponsors who pay for everything. In their view, the inspector has several reasons to skimp on testing. One is the cost. Another is the disruption it causes to the already complicated lives of the athletes. A third, though, is fear of how customers would react if more thorough testing did reveal near-universal cheating, which anecdotal evidence suggests that in some sports it might. Better to test sparingly, and expose from time to time what is apparently the odd bad apple, rather than do the job thoroughly and find the whole barrel is spoiled and your sport has suddenly vanished in a hailstorm of disqualifications.
+
+This attitude, however, would result in precisely the outcome testing is supposed to obviate. It would be back to the prisoner’s dilemma. Anyone who seriously wanted to win would have to cheat, even if his inclination was not to. In these circumstances it would take a saint to stay pure.
+
+When the researchers turned their hypothesis into maths, it seemed to stand up. The only way out, the maths suggested, was for all tests, and their results, to be reported—whether negative or not. That would give customers a real sense of how thorough the search for doping was, and thus how widespread the practice. It would also help break the prisoner’s dilemma for the athletes.
+
+The authorities in any given sport would no doubt deny that Dr Buechel’s analysis applied to them. They would claim their testing regimes were adequate—and would probably truly believe it themselves. But human capacity for self-deception is infinite. It may thus be that the real guilty parties in sports doping are not those who actually take the drugs, but those who create a situation where only a fool would not.

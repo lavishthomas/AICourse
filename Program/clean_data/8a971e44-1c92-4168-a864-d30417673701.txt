@@ -1,0 +1,21 @@
+One of the people without whom the Kubernetes open source container orchestration engine would not exist, and perhaps the whole notion of orchestration would never have come to fruition, does not believe the platform he made feasible is truly at the center of the emerging ecosystem. Yes, we call it a “Kubernetes Ecosystem,” but Google’s Tim Hockin explained in this episode of the The New Stack Makers podcast that he perceives the platform as more of a hub for a greater kind of ecosystem — or even “ecosystems,” plural — to come.
+
+“Part of what Kubernetes really set out to do at the beginning,” said Hockin, “was to provide the hub of ecosystems, plural. There’s the network ecosystem, the storage ecosystem, and the security ecosystem. In the network ecosystem now, there’s a new product to sell: network policy. And people have been innovating on that for the last year, and it’s really exciting to see. With respect to things like ecosystem extensions, we have formalized some of the patterns around extensions.”
+
+Here’s where Hockin explained to us how the latest edition of the platform replaced its original extensibility construct, called the ThirdPartyResource, with the Custom Resource Definition. Hockin contributes his time and efforts to the Kubernetes project now by way of the Cloud Native Computing Foundation, which is a foundation sponsor of The New Stack’s upcoming ebook, The State of the Kubernetes Ecosystem.
+
+In This Edition:
+
+3:58: Breaking down Kubernetes modularity.
+
+10:57: What is the benefit to Kubernetes as a project to point to solutions such as Prometheus?
+
+12:33: What changes does Kubernetes 1. 7 make to the ecosystem, and how enterprises should be able to integrate Kubernetes going forward?
+
+23:36: Defining the proper Kubernetes abstraction.
+
+31:30: Working with multiple applications and differing application models in Kubernetes.
+
+36:02: Client-side Kubernetes discussion in stack management.
+
+The Cloud Native Computing Foundation and Google are sponsors of The New Stack.

@@ -1,0 +1,67 @@
+Say you had a time machine. Say you set it to 1987. Say you met a baseball fan from that year named Kelly. What could you tell Kelly about baseball in 2017 that would most strain his or her belief?
+
+Keep in mind, Kelly has seen lots of representations of the future. Kelly expects the future to be different: sentient refrigerators and miracle drugs and time machines and dystopian utopias. Kelly knows computers are a thing in the world, that steroids are a thing in sports, that TVs can have more than 13 channels and that football and basketball are ascendant. And Kelly had seen what had happened in baseball in the previous 30 years: the internationalization of the game, the physical growth of the average player, the replacement of complete games with saves, the professionalization of a league that had fairly recently been played by offseason car salesmen. Kelly expects change, so to shock Kelly, you'd need something that (A) came out of nowhere, (B) reversed something about the sport's trajectory, (C) carries on that trajectory, but to an extreme endpoint, or (D) reflects some broader cultural change that dramatically reimagines America and, by secondary effect, its pastime.
+
+Let's shock Kelly.
+
+Came out of nowhere
+
+There are any number of directions you could take on the "quants run baseball" front. In the 1980s, 44 percent of GMs had played in the majors and 68 percent had played in the minors. By the 2010s, those figures were 10 and 15 percent, respectively, according to research by Baseball Prospectus' Dustin Palmateer, and the main qualification for front-office work was an Ivy League degree. Now give all those non-ballplaying GMs mind-melting data, like literally the spin rate of every pitch, and you have something like the 'Minority Report' model of a future century: So much information that modeled reality takes precedence over observed reality.
+
+Or, at least, that's how FIP would seem to Kelly. FIP, for the uninitiated, takes a pitcher's strikeout, walk and home run rates and estimates what the pitcher's ERA should be, stripping out things such as luck and his defense. Various ERA estimators have taken this notion and gotten more complex, more detailed -- deserved run average accounts for dozens of variables that are out of a pitcher's control, including weather and the umpires -- but the philosophical decision FIP makes is that results can be deceiving. It supposes that a pitcher who allowed four runs per nine innings might actually have pitched better, and been more valuable, than the one who allowed three runs per nine innings. Not every fan or front-office type in 2017 believes this, but every time you hear FanGraphs' WAR cited, you're hearing an endorsement of this philosophy. And in the next few years, you can almost certainly count on seeing the Statcast-derived xwOBA -- expected weighted on-base average, which estimates the value of a batted ball based on where it was hit and how hard, instead of whether it landed safely for a hit -- used as the basis of new offensive metrics.
+
+Reversed the trajectory
+
+Thirty-five steals might end up leading the American League this year.
+
+Editor's Picks From the 10th until it mercifully ends: How each extra inning is completely different Hitters on the mound, pitchers in the infield, players starving in the dugout, lights going out and sprinklers turning on ... free baseball can take on a life of its own. Here's what happens when the game stays up past its bedtime.
+
+Dig the long ball? Here's why home run highlight videos are the worst Sure, they can break Twitter at times. But when it comes to great moments in baseball, round-trippers on tape seem to have a fatal flaw.
+
+Trust us, you've NEVER seen this before One day, 12 MLB games. We watched them all to see if the old baseball bromide is true: that every time you go to the park, something happens that hasn't ever happened. 2 Related
+
+I mean, I'm alive in 2017 and that shocks even me. But think about this from Kelly's perspective: In the 1980s, nobody ever led his league with fewer than 60 steals, except the strike-shortened 1981 season. In the '80s there were six player seasons with more than 100 steals, six different players stole at least 80 bags, 11 stole more than 70 and 31 stole at least 50 in a season. Rickey Henderson set a single-season record with 130. Stolen bases per game in 1987 had doubled from 20 years earlier. Teams were building around the stolen base, sometimes with great success (the Cardinals) and sometimes to great disappointment (the Yankees). Vince Coleman was bad at everything else in baseball, but just by stealing bases he was a star.
+
+If Kelly were to simply apply what we know about human athletic achievement, the stolen base should have continued to proliferate. Top athletes run faster and faster, while the distance between the bases stays steady. In the same way that it takes less time for 21st century Olympians to run 100 meters, it (theoretically) takes less time for 21st century baseball players to run 90 feet; the stolen base of the future seemed like it might be undefendable. And yet, 35 stolen bases might end up leading the American League this year.
+
+There are plenty of factors -- better catching techniques, a preference for power hitters, perhaps a liberalization of balk rules and more -- but mostly this comes down to changing strategies. Run-expectancy tables made it easy for decision-makers to see that stolen bases can be valuable but not really the foundation of a great offense. So we got Eric Young leading the league in stolen bases with 46 (in 2013), and Rajai Davis leading the league with 43 (in 2016) and Jose Altuve leading the league in 2015 with 38. Nobody in the past five years has had even half of Rickey Henderson's 130. Only five baserunners, including Altuve, have topped 50 in a season since 2013.
+
+Altuve, incidentally, is another trend-reverser all by himself. The average height of a major leaguer had been going up steadily for six decades, a trajectory that has continued. The existence of Aaron Judge would not shock Kelly. That the American League MVP front-runner in 2017 would be 66 inches tall would be shocking. Imagine if you told Kelly this 66-incher would have the fourth-best slugging percentage in the AL?
+
+To an extreme degree
+
+Back in 1987, Mets rookie Randy Myers wowed baseball with his heater. In the future, we can clone guys like him any time we want. Photo by Focus on Sport/Getty Images
+
+Kelly would expect fastballs to be faster. I remember seeing only a few 100 mph pitches per year in the 1990s: Rob Dibble or Mark Wohlers would touch triple digits and we'd all stop what we were doing to freak out. But Statcast has recorded 627 pitches above 100 mph this year, and that's in a year in which the hardest-throwing reliever (Aroldis Chapman) and the hardest-throwing starter (Noah Syndergaard) have both missed time due to injuries. Thirty-one different pitchers have hit 100 mph.
+
+A couple years ago, I looked at the fastball flame that shows up on broadcast graphics when a pitcher throws a pitch that is 95 mph or faster. I found that the flame had become wildly common: "In 2008, 4.1 percent of all pitches got a flame. By 2015, more than 13 percent did."
+
+We've gotten used to this, but batters have not. In the same fastball-flame article, I looked into whether batters who see a lot more upper-90s fastballs get better at hitting upper-90s fastballs. The answer appears to be no, which helps explain why strikeouts per game are up 40 percent from 1987. It also helps explain why pitches per plate appearance have gone up so much, from 3.58 in 1988 to 3.90 this year. I don't think Kelly would be shocked to learn that pitchers throw harder, that batters strike out more and that the game is slower. But to be told that there are 100 replicas of Randy Myers in the game would make the sport sound more different than it really is.
+
+Broader cultural change
+
+In the mid-1980s, ESPN debuted the news ticker that scrolled across the screen at :28 and :58 each hour. SportsCenter showed daily highlights and Baseball Tonight was about to debut, making highlights a bigger part of how we experience baseball. USA Today published detailed box scores that appealed to the growing fantasy baseball market.
+
+Still, Kelly would be shocked by the ubiquity and immediacy of information: Nearly every trade or free-agent signing is public within minutes, usually preceded by incremental reporting of trade discussions and rumors. Every highlight can be viewed on demand, often within minutes thanks to fans posting GIFs on Twitter. But perhaps most shocking, the fan with MLB.tv and a cable package can watch every game. Every game!
+
+Kelly would have seen a few dozen games per year, perhaps. Some, but not all, of the local team's road games would have been broadcast. Almost none of the home games would have been. There would be a national game on Saturday and Braves games on TBS. But most of baseball would have happened in some faraway place, out of sight and over there, a paragraph and a skinny box score in the next day's paper comprising the entire record of its existence.
+
+The relationship between a fan and the sport today, then, would be unimaginable. An obsessive fan in 1987 might dedicate, say, 10 hours a week to the sport, along with time spent multitasking with a radio broadcast in the background. An obsessive fan today could realistically spend every waking moment consuming baseball: watching live games from 1 p.m. to 1 a.m. ET, tracking rumors, reading beat coverage from every team's local market, reading or writing for team-specific blogs, doing original research using the spin rate of every pitch and watching condensed games or dozens of highlights from every game on MLB.com. "Many of us do all of this," you could tell Kelly. "Also, they tell us baseball is dying," you could add.
+
+Quick others:
+
+There are hardly any brawls anymore.
+
+Pete Rose isn't in the Hall of Fame, and neither is the guy who owns the career home run record.
+
+Pitchers sometimes bat eighth.
+
+The extreme infield shift -- something Kelly might see for one or two batters leaguewide -- is employed by every team and against hundreds of batters.
+
+The average salary has outpaced inflation roughly seven-fold.
+
+The awesome answer that you've been thinking of that I missed.
+
+Perhaps the most shocking thing I could tell Kelly, though, is this: I have been a baseball fan in 1987 and I have been a baseball fan in 2017, and it doesn't really feel all that different.
+
+Thanks to Mike for inspiring this question. Thanks to Craig Goldstein, Zachary Levine, Jason Wojciechowski, Meg Rowley and Patrick Dubuque for brainstorming assistance.

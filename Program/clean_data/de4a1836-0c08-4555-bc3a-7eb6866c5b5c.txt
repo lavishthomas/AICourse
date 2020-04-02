@@ -1,0 +1,91 @@
+Better dead than bad: Status competition among German fighter pilots during World War II
+
+Philipp Ager, Leonardo Bursztyn, Joachim Voth
+
+During World War II, the German military publicly celebrated the performance of its flying aces to incentivise their peers. This column uses newly collected data to show that, when a former colleague got recognition, flying aces performed much better without taking more risks, while average pilots did only slightly better but got themselves killed much more often. Overall the incentives may have been detrimental, which serves as a caution to those offering incentives to today's financial risk-takers.
+
+One of the longest-standing questions in management and economics is how to incentivise employees. Pay is important, but economists since Adam Smith have argued that earning the regard of others can also be an important motivating force. Non-financial rewards are common in both businesses and the public sector – in the UK, for example, deserving civil servants, captains of industry, politicians and academics may be made Knight or Dame Commander of the Most Excellent Order of the British Empire. Prizes also confer status, from the employee of the month to the Nobel Prize. Both theoretical and empirical research suggests that non-financial rewards are effective as a way to motivate employees (Kosfeld and Neckermann 2011, Ashraf, Bandiera, and Lee 2014, Besley and Ghatak 2008, Moldovanu et al. 2007).
+
+At the same time, as Winston Churchill observed, “a medal glitters, but it also casts a shadow”. Awards are only valuable if they are rare. For every recipient of a ‘gong’, many others do not receive it. A growing literature argues that status competition can have corrosive effects. Neighbours of lottery winners often make extravagant status good purchases (Kuhn et al. 2011) and are more likely to go bankrupt (Agarwal, Mikhed, and Scholnick 2016). Card et al. (2012) and Ashraf et al. (2014) show that job satisfaction and performance suffer when there are direct rankings and explicit comparisons with others in the same group.
+
+In a recent paper, we analyse status competition and the incentive effects of non-financial rewards jointly (Ager et al. 2017). We ask how status competition from public recognition influences performance and risk-taking. To do this we examine newly collected data on the victory claims of German fighter pilots during WWII, and found that pilots reacted strongly to official praise that was heaped on former squadron colleagues. The effect differed by quality. The best pilots scored more if a former peer was recognised, but do not die more often. Average and poor pilots scored a little extra, and died much more frequently.
+
+In other words, status competition can kill you.
+
+Hunting for defeat
+
+The Battle of Britain in 1940 was arguably the decisive air battle of WWII. The Luftwaffe (the German air force) tried – ultimately unsuccessfully – to attain daylight mastery of the air over the British Isles. A resurgent Royal Air Force inflicted enough losses that the Germans gave up and postponed their planned invasion indefinitely (Bungay 2001).
+
+During the height of the conflict, in the summer of 1940, two of Germany’s highest-scoring aces did something unexpected: they went deer hunting. Werner Mölders, commanding a squadron of fighters on the Channel Coast, was asked by Hermann Göring head of the German air force, to confer with him for three days at Karinhall, his country retreat. Mölders at first refused, as he was competing against Adolf Galland for the honour of being the highest-scoring German ace. Mölders relented only on the condition that Galland would also be grounded for three days. Göring, who had also been a fighter ace in World War I, agreed and brought Galland along on the hunting trip (Galland 1993).
+
+So, in the middle of the defining conflict for the German air force, two of its best pilots had been pulled from the front line – and one of them was not brought because there was an operational or administrative need, but to maintain a 'level killing field' with his competition. Competition for status was intense amongst German pilots. It was behind the elaborate systems of awards and medals that pervaded the military. Similar awards are also common in many other walks of life, from academia to the top ranks of business and politics.
+
+Bean-counting for victory
+
+Most air forces during WWII devoted considerable bureaucratic attention to filing, witnessing, adjudicating, and aggregating the victory claims made by their pilots. In the German system, pilots had to give the grid coordinates, aircraft type, type of destruction (pilot bail-out, impact, explosion, and so on) and time to file a claim. The claim would have to be witnessed by another pilot to stand a chance of being accepted. Claims would be sent to a central office of the Luftwaffe for adjudication, where many would be rejected.
+
+This elaborate system was necessary because awards and medals were closely tied to victory scores. The Luftwaffe awarded medals based on informal quotas. For example, in early 1942 for a pilot to have a chance of receiving the Knight’s Cross with Oak Leaves and Swords, that pilot would have needed 100 victories.
+
+We have data on the victory claims of more than 5,000 pilots for the entire conflict, 1939-45. These pilots filed claims that they had shot down 54,800 enemy planes. Victories were extremely unevenly distributed. The highest-scoring ace, Erich Hartmann, claimed more than 350 victories, and the top 100 pilots scored almost as many victories as the bottom 4,900. The maximum monthly victory score was 68, recorded in 1943 on the Eastern front.
+
+These successes were bought at a high price (Figure 1). In an average month, 3.3% of pilots died. After two years of service, half the low-scoring pilots would have been killed. Amongst the better-performing pilots, only one-quarter would have survived. Towards the end of the war, loss rates became extremely high, averaging 25% or more from the spring of 1944 (Murray 1996).
+
+Figure 1 Victory claims and exit rate among German fighter pilots, by month
+
+Recognising buddies
+
+To identify the effect of official recognition, we need to define the peers that pilots would have cared about, and what kind of recognition to use.
+
+For recognition, we focus on mentions in the Wehrmachtbericht, the daily bulletin of the German armed forces. It was copied widely throughout German territory and pinned to command posts, reprinted in newspapers and used for radio broadcasts. Typically, it would have summarised a day’s military events. Sometimes, in the case of outstanding accomplishments, it highlighted the performance of an individual soldier. Examples included U-boat captains who sank a lot of ships, tank commanders who shot numerous enemies, or fighter pilots who shot down many enemy planes. For example, the Wehrmachtbericht highlighted the accomplishments of Hans-Joachim Marseille, a young pilot who shot down ten British planes in one day in North Africa. We focus on these mentions because they were not predictable, as medals (handed out in part through quotas) would have been. They were also a fleeting type of recognition, with no medal to go with it.
+
+We cannot say much about what drove the performance of pilots serving in the same unit at the same time. Marseille’s comrades did well around the time of his mention in the Wehrmachtbericht, but this arguably reflects both their motivation and combat conditions in the North African desert, which would be correlated with Marseille’s success.
+
+Therefore we look only at former peers. If two pilots served together in the past, and one of them was recognised, we want to see if the former peer of the star performer suddenly did better too. In many cases, the pilots would be serving not just in different units, but hundreds or even thousands of miles apart.
+
+Ego trips to the grave
+
+Figure 2 summarises our key results. Good pilots – those whose average monthly victory score put them in the top 20% of the distribution – on average improved their victory score by 50%, from less than two to more than three a month, when the successes of their former peers were advertised. Pilots in the bottom 80% scored fewer victories overall, but also improved by a small margin. Strikingly, results are different for exit rates ('exit' usually meant death). Great pilots, on average, died more often, but they were not more likely to exit in times of peer recognition. The opposite was true for average and the poor pilots, whose exit rate increased by almost half. In other words, aces tried harder when a former colleague got a public pat on the back, but didn’t take many more risks. Average or poor pilots tried harder, were a bit more successful, but also tended to get themselves killed more often.
+
+Figure 2 Victory claims and exit (death) rates of pilots, in periods when former peers are recognised or not recognised, by quality group
+
+Note: Aces = top 20% by average monthly victory score; non-aces = bottom 80%.
+
+These results hold when we control for variables such as aircraft type, the front on which pilots served, experience, and time of year (flying hours were much longer in the summer than in the winter). There are two potential problems with our interpretation:
+
+It could be that pilots were not reacting to their relative status being diminished when a peer was recognised. Instead, they might have learned about their type as a result of extraordinary performance. To deal with this possibility, we stratify our sample of ‘treated’ pilots into those who had already performed as well as the recognised pilot, and those who had not. Results are the same for both groups.
+
+Also, joint service in the past may have taught both pilots something useful. The value of this 'something' in combat could vary over time, which would induce a spurious correlation in victory scores. One way to deal with this is to look at the victory scores of a pilot, controlling for the victory scores of his former peer, in all periods, to see if the correlation strengthens in months when the former peer was recognised. This is the case, suggesting that the treated pilots reacted to their former peer’s success, and this effect was not a pre-existing co-movement.
+
+Killer insights for managing risk-takers
+
+German pilots during WWII had the highest numbers of aerial victories ever recorded. The top 100 pilots of all time are all German. The Luftwaffe operated an elaborate system of awards and recognition. We find positive spillovers from this recognition, in the sense that former peers of recognised pilots increased their performance.
+
+But some also took more risks, leading directly to greater loss rates. The net effect may well have been corrosive. Recognition – in our case, through mentions in the daily armed forces’ bulletin – reduced the average number of enemy planes shot down in exchange for the loss of one German pilot. This suggests that, in aggregate, incentives may have been detrimental.
+
+Should we care about the motivations of a young, testosterone-charged men fighting for Nazi Germany, more than 70 years ago? We can argue that many business settings involve outcomes where we care about performance, but also about risk. Traders in banks and hedge funds, and salespeople in large firms, for example, may be subject to very similar risk-return trade-offs (though, of course, with lower stakes). While few of today’s risk-takers risk a violent death, their actions can create enough havoc that society should care about the incentives we give them.
+
+References
+
+Agarwal, S, V Mikhed, and B Scholnick (2016), “Does Inequality Cause Financial Distress? Evidence from Lottery Winners and Neighboring Bankruptcies.” Philadelphia Fed Working Paper 16-04: 1–47.
+
+Ager, P, L Bursztyn, and H-J Voth (2017), “Killer Incentives: Status Competition and Pilot Performance during World War II.” CEPR Discussion Paper No. 11751.
+
+Ashraf, N, O Bandiera, and B K Jack (2014), “No Margin, No Mission? A Field Experiment on Incentives for Public Service Delivery.” Journal of Public Economics 120 (December): 1–17.
+
+Ashraf, N, O Bandiera, and S S Lee (2014), “Awards Unbundled: Evidence from a Natural Field Experiment.” Journal of Economic Behavior & Organization 100 (April): 44–63.
+
+Besley, T, and M Ghatak (2008), “Status Incentives.” American Economic Review 98 (2): 206–11.
+
+Bungay, S (2001), The Most Dangerous Enemy: A History of the Battle of Britain. London: Aurum Press.
+
+Card, D, A Mas, E Moretti, and E Saez (2012), “Inequality at Work: The Effect of Peer Salaries on Job Satisfaction.” American Economic Review 102 (6): 2981–3003.
+
+Galland, A (1993), Die Ersten und die Letzten: die Jagdflieger im Zweiten Weltkrieg. München: Schneekluth.
+
+Kosfeld, M, and S Neckermann (2011), “Getting More Work for Nothing? Symbolic Awards and Worker Performance.” American Economic Journal: Microeconomics 3 (3): 86–99.
+
+Kuhn, P, P Kooreman, A Soetevent, and A Kapteyn (2011), “The Effects of Lottery Prizes on Winners and Their Neighbors: Evidence from the Dutch Postcode Lottery.” American Economic Review 101 (5): 2226–47.
+
+Moldovanu, B, A Sela, and X Shi (2007)< “Contests for Status.” Journal of Political Economy 115 (2): 338–63.
+
+Murray, W (1996), The Luftwaffe, 1933-45: Strategy for Defeat. Potomac Books Incorporated.

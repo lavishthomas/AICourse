@@ -1,0 +1,29 @@
+To start let’s take a look at just what is Javascript. It is a front-end web development language, and contrary to its name, Javascript is not an offshoot of Java. It was created in a matter of days back in 1995 to bridge the gap between Java and scripting languages, however, it has grown exponentially since then and now is incorporated throughout nearly everything we see across the web. In short, Javascript can be described as the language that makes up the behavior of a page. As most languages consist of being server side, the advantages of being front-end make it a much more interactive experience for the users. In the past sites were static HTML pages with no interactions between the page and the user. Now with front-end programming, sites have become much more interactive for the users, and Javascript makes up nearly every single front-end programming used on the web today. With its many different technologies such as; Node.js, React, AJAX, Angular JS, JSON, JQuery, and much more, there is very little left that Javascript can not accomplish.
+
+
+
+
+
+Yes, it is true you do not need to know Javascript to be a programmer, and many people have had very successful careers without ever writing a line of Javascript code in their life, however with the demand from users that websites be as interactive as possible which is bringing a whole new experience to the web, the need for professional Javascript developers is growing at a fast rate. I overheard a few days ago from a colleague of mine that, “It won’t be long until everything on the web that can be written in Javascript, will be written in Javascript.” Now I don’t fully agree with that statement completely, as there will always be hold outs from people not willing to switch over from the languages they have been comfortable using for years, it does go to show the mindset of a lot of computer programmers out there today and the shift towards front-end programming.
+
+Where as most languages require a bit of knowledge and programming understanding, Javascript does not. It is a free technology that requires no installation and no configuration. All you need to do is open up the console on a browser and you can start changing different areas on the page. It is that easy to get started. Also with the amount of free information available to you across the web, it won’t take a motivated individual long before they move past beginner into being a more seasoned Javascript programmer, which ultimately should be every programmer’s goal.
+
+
+
+
+
+Another major advantage to Javascript is the fact that it is not strictly an interactive programming language. The time of it being limited to strictly front-end tasks has long passed. Things from games, to automated controllers, to robots, amongst others, is quickly becoming heavily Javascript based. It is becoming the go to language for everything technological plus the mobile web development is ever increasing the need for more and more interactivity that Javascript can only provide.
+
+The final advantage of Javascript compared to most other languages that I will touch on is that it achieves concurrency. This means it has the ability to run several different sets of instructions at the same time through a module called an event loop. When an event is triggered in the browser, Javascript runtime stores information in the message queue. If a callback function existed with this stored information, it will be executed the next time it is encountered within the loop. The end result is that the application is able to handle multiple operations on a single thread, which grants the developer freedom from additional programming of all the different application states.
+
+
+
+
+
+In conclusion, I will say that with the vast demand for Javascript programming done across the web, and with the heavy demand for it in anything mobile related, it is in any programmers best interest to learn Javascript at least to a very basic level. Not only can the language achieve nearly anything any other language can do, it is also a much better user experience and offers more flexibility for programmers to get the end results quicker and more efficiently. With the way technology seems to be trending, the last few years, you can not go wrong with mastering Javascript and making a very successful career for yourself along the way.
+
+More News to Read
+
+Comments
+
+comments

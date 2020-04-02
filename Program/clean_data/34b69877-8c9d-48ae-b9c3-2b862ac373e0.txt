@@ -1,0 +1,37 @@
+TL;DR Nutshell: It’s extremely important to hire independent counsel who isn’t incentivized to favor, because of existing relationships, the interests of your investors above those of the company. But it’s also important to understand that company counsel represents the best interests of the company, including all stockholders, and that can often conflict with the personal interests of individual founders.
+
+Background Reading:
+
+A core message that I’ve focused on via SHL can be summarized as follows: many influencers for a startup, particularly investors, will often push founders to use their own preferred lawyers as company counsel, but given the amount of confidential information your lawyers will have access to, and the degree to which you will rely on their counsel for key strategic decisions, ensuring your lawyers’ impartiality is extremely important. Naval Ravikant put it well in Lawyers or Insurance Salesmen?
+
+“Don’t just go with the lawyer that the VCs insist upon. These lawyers will work with the VC on a hundred financings and with you on only one. Where do you think their loyalties lie? Get your own lawyer, and don’t budge.” -Naval Ravikant
+
+This post is about a related, but very different point: hiring a law firm that impartially represents the company is not (and cannot be) the same thing as hiring a firm that represents the founders. Company counsel is not founder counsel. An analogy may be helpful for explaining the difference:
+
+Imagine a family that is going through some tough times – the spouses are in constant disagreement over issues like work-life balance and parenting responsibility, and it’s starting to impact their children. They seek the advice of a family therapist.
+
+The family therapist does not represent one spouse or the other, nor does she represent the children. She represents the family, as an entity/unit that exists apart from the individuals that make it up. Like a family therapist whose priority is the well-being of the family above the individual members, company counsel’s responsibility is the interests of the company as a whole unit, including all of its stockholders, not just the interests of the founders, or the CEO who hired the lawyer.
+
+At Formation
+
+At the very early stages of a startup, this company counsel v. founder counsel distinction is often not terribly relevant, because the founders, as a fact, are the entire company; they make up the entire cap table. Though I have been in situations where disagreement among founders requires me to drive home the fact that, as company counsel, I do not represent one particular founder over another. Company counsel represents the pie as a whole, not any particular slice of it.
+
+In a Financing
+
+In negotiating a financing, the company v. founder counsel distinction is typically far less important than the company v. investor counsel distinction (the first point discussed above). Investors (who should hire their own lawyers) have a desire to maximize their ownership of the company and secure as much potential exit value as they can, at the expense of the ownership stake of the remaining cap table. Company counsel’s primary role in a financing is to advise the existing stockholders of the Company (particularly the common stockholders, making up founders and employees) on balancing their desire for investment with their desire to not give up significant ownership or control to outsiders.
+
+Post-Financing and Exits
+
+It’s after a financing that the company v. founder counsel distinction becomes very important. One of the primary fiduciary duties of a company’s Board of Directors is to maximize aggregate shareholder value (the entire pie), and Company counsel’s role, apart from day-to-day general counsel, is to advise the Board on various matters (like acquisition offers, strategic partnerships, etc.) that influence shareholder value. The reality is that advising the company/board on maximizing total shareholder value is often very much aligned with the interests of the common stockholders (including founders); more so than with investors.
+
+Investors will have a liquidation preference that allows them to be paid something in an exit before any value goes to the common, so there are many scenarios in which they (investors) may favor an exit that the common stockholders do not support. A company counsel that is focused on advising for what maximizes exit value for all is usually indirectly working in the best interests of the common stockholders.
+
+Nevertheless, there can be a number of situations in which company counsel’s focus on the best interests of the company and all stockholders (preferred and common) is not aligned with the personal interests of a particular founder. For example, a founder CEO may want to negotiate for an employment agreement that makes it extremely expensive, almost impossible, to fire her. While providing some protection to a CEO, so that she can focus on value creation and not her personal financial security, can be value maximizing for everyone (that’s why employment agreements are signed), there is definitely a point after which you’re giving too much to the CEO and just unjustifiably entrenching her.
+
+In that kind of scenario, company counsel’s role is to make it clear to the founder that he’s looking out for the company, which certainly includes the founder, but also includes other stockholders. If the founder wants to negotiate heavily for an employment agreement that is biased in her favor, knowing that entrenching herself isn’t the best option for the company, she may want to hire her own lawyer (apart from company counsel). Many times in these scenarios (I’ve experienced) founders are fine not hiring their own personal lawyers, because on some level they too are interested in what’s good for the company as a whole. There’s a certain dysfunctionality that tends to sink companies when founders have detached their personal motivations from the well-being of the company generally. But it depends heavily on the circumstances, including the composition of the cap table and the Board, the stage of the company, and the personal dynamics between the founder, investors, and even the lawyer(s).
+
+In the same sense that we, as a firm, have a established a policy of not representing early-stage investment funds who invest in our clients (to preserve trust), we also avoid representing founders as their personal counsel. Apart from the fact that law firms are often overkill for that kind of personal representation (solo lawyers are usually a better fit), we prefer to make it clear to all parties that we are company counsel from Day 1. When high-stakes situations require us to advise on what’s best for the company, we don’t want any side phone calls (from either side) asking for favors.
+
+Quality founders who build strong companies should want company counsel who will speak with a high level of objectivity on key issues involving corporate governance, even if it’s not exactly what the founders would, personally, prefer to hear. No truly successful family has ever been built by people all fighting for their own interests at the expense of the whole. The same goes for startups and their founders.
+
+Also published on Medium.

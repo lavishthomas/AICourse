@@ -1,0 +1,15 @@
+There are very few industries where Big Data isn’t a hot topic right now. Businesses are collecting and analyzing ever-growing amounts of data in their quest for increased efficiency, reduced waste and, of course, profits. Companies of all sizes are investing in big data and many believe their huge data depositories are turning into one of their biggest business assets.
+
+But there’s a problem. Big Data comes with a few big hurdles that must be overcome. And organizations which ignore them or fail to properly address them could see one of their biggest business assets turn into a lethal liability.
+
+For a start, data is not free – collecting and storing data will always have a cost associated with it. On top of that, collecting and storing data, particularly personal data (which is what a lot of corporate Big Data is) brings legal and regulatory obligations – and falling foul of these can have disastrous consequences for your business’s reputation as well as its financial performance.
+
+During a recent conversation with Ashley Winton, a partner in the corporate law firm Paul Hastings, we discussed the importance of understanding exactly what responsibilities come with data collection, storage and analysis. In Europe the new the data protection regulation means firms can face heavy fines (up to €20m or 4% of annual worldwide turnover) for misusing or inadequately protecting personal information.
+
+As a general rule of thumb, private data has to be protected and can only be used for the purpose for which it was handed over. If you collect people’s personal data without making it clear what it will be used for – and taking steps to ensure it isn’t used for anything else – it’s easy to end up in hot water.
+
+Another pitfall that many businesses fall into, Winton tells me, is assuming that “bought in” data has been cleared for use by the people who are selling it. The fact is that it is still the end user’s responsibility to make sure that their organization isn’t misusing data, even if it was bought from somewhere else.
+
+In other words, if you buy a list of names and addresses to use for marketing purposes, and it turns out that the person who sold you those names and addresses didn’t secure the right permissions when they collected it, it’s you that will end up facing fines from regulators and potentially ruinous lawsuits from people whose data you have misused.
+
+Regulation around the use of personal data may be less stringent in the US, but there are still many hazards to be wary of. Felix Wu, professor of law at the Benjamin N. Cardozo School of Law tells me “Unlike Europe, the US does not have comprehensive privacy regulation, but this may actually make things more difficult for companies, which must comply with a patchwork of varying state and federal laws.”

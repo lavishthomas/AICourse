@@ -1,0 +1,129 @@
+Posted on June 11, 2015 | By Matt Stauffer
+
+(This is part of a series of posts on New Features in Laravel 5.1 . )
+
+Yesterday we talked about the new signature syntax for Artisan commands.
+
+Today, let's take a look at the options Artisan commands present for input and output. Most of this is review; to get to what's new in 5.1, go to advanced output.
+
+Note: Artisan commands build on top of the Symfony Console Component, so if you really want to geek out, you can go learn more there.
+
+As a quick reminder, here's what a signature definition looks like in a 5.1 command object:
+
+protected $signature = 'command:name {argument} {optionalArgument?} {argumentWithDefault=default} {--booleanOption} {--optionWithValue=} {--optionWithValueAndDefault=default} ';
+
+Here are the methods that you can use within your command's handle() method to get and display data:
+
+Basic input
+
+$this->argument('argumentName')
+
+The argument method allows you to get the value of an argument you defined in your parameter list.
+
+So, if your signature definition is do:thing {awesome} and the user runs php artisan do:thing fantastic , $this->argument('awesome') will return fantastic .
+
+Note that, if you're accessing an argument that's not required, and you haven't set a default, and the user doesn't fill anything out, this will come back as null .
+
+$this->option('optionName')
+
+Just like the argument method, the option method gets the value of an option.
+
+If the option is defined as a boolean option ( --queued , --doItAwesomely ), this will return as true if passed or false if not.
+
+So, if your signature definition is go {--boldly} and the user runs php artisan go --boldy , $this->option('boldly') will return true.
+
+$this->argument() and $this->option()
+
+If you don't pass parameters to the argument and option methods, they'll each return an array of all of their defined parameters and their values.
+
+So, if your route definition is jump:on {thing1} {thing2} and your user runs php artisan jump:on rock boulder , $this->argument() will return this array:
+
+[ 'command': 'jump:on', 'thing1': 'rock', 'thing2': 'boulder' ]
+
+Same thing for options.
+
+Basic output
+
+When you're writing your handle() method, it's common to want to send output to the end user. There are quite a few options for this.
+
+All four of the simple output methods ( $this->info() , $this->comment() , $this->question() , and $this->error() ) allow you to pass any string to the user, as a notification:
+
+$this->info('Finished syncing data');
+
+Check out all the colors:
+
+Advanced input
+
+What if you want to write a script that allows you to have various stages of information retrieval from the user? Or conditional information retrieval depending on previous responses, or depending on part of the operations of the command?
+
+$this->ask()
+
+Throw a question out to the user and get their response:
+
+public function handle() { $name = $this->ask('What is your name?'); $this->info("Hello, $name"); }
+
+$this->secret()
+
+Secret is the same as ask, but with hidden typing:
+
+public function handle() { $password = $this->secret('What is your password?'); $this->info("This is really secure. Your password is $password"); }
+
+$this->confirm()
+
+What if you just need a yes/no?
+
+public function handle() { if ($this->confirm('Do you want a present?')) { $this->info("I'll never give you up."); } }
+
+$this->anticipate() and $this->choice()
+
+What if you need custom choices? The Anticipate method allows you to provide autocompletion (but leaves the response free to be whatever the user wants), and the Choice method forces a choice between provided options.
+
+public function handle() { $name = $this->anticipate( 'What is your name?', ['Jim', 'Conchita'] ); $this->info("Your name is $name"); $source = $this->choice( 'Which source would you like to use?', ['master', 'develop'] ); $this->info("Source chosen is $source"); }
+
+And the result:
+
+Advanced output
+
+Laravel 5.1 introduces two new advanced output forms: table and progress bar.
+
+$this->table()
+
+The table method accepts two parameters: headers and data.
+
+So, let's start with some hand-crafted goodness:
+
+public function handle() { $headers = ['Name', 'Awesomeness Level']; $data = [ [ 'name' => 'Jim', 'awesomeness_level' => 'Meh', ], [ 'name' => 'Conchita', 'awesomeness_level' => 'Fabulous', ], ]; /* Note: the following would work as well: $data = [ ['Jim', 'Meh'], ['Conchita', 'Fabulous'] ]; */ $this->table($headers, $data); }
+
+Here's the output:
+
+And as you can see in the docs, this is a great tool for easily exporting data with Eloquent:
+
+public function handle() { $headers = ['Name', 'Email']; $users = App\User::all(['name', 'email'])->toArray(); $this->table($headers, $users); }
+
+This is built on the Symfony Table Helper.
+
+Progress bar
+
+It might seem like magic, but outputting progress bars are actually really simple using the Symfony Progress Bar Component:
+
+public function handle() { $this->output->progressStart(10); for ($i = 0; $i < 10; $i++) { sleep(1); $this->output->progressAdvance(); } $this->output->progressFinish(); }
+
+This yields this beauty:
+
+Let's break it down. First, we notify the progress bar how many "units" we'll be working through:
+
+$this->output->progressStart($numUnits);
+
+Then, every time we process a unit, we advance the progress bar by one:
+
+$this->output->progressAdvance();
+
+Finally, we mark it as complete:
+
+$this->output->progressFinish();
+
+Note that this syntax is a wrapper around the Symfony Progress Bar component. You can take a look there for more information about how it functions.
+
+Conclado
+
+That's it. You're now a professional Artisan input/output coordinator. Put that on your resumé/CV.

@@ -1,0 +1,23 @@
+Generate custom campaign parameters for your advertising URLs.
+
+When you have a URL in your ad, for example, in a web ad or in an email, you can add parameters to that URL in order to capture important reporting data about your campaign like the site on which the ad appeared, the campaign name, and keywords you used in the ad. A URL with these kinds of parameters looks something like:
+
+http://www.example.com/?utm_source=adsite&utm_campaign=adcampaign&utm_term=adkeyword
+
+Learn more about the parameters you can add to a URL.
+
+If you use AdWords, you can take advantage of auto-tagging, a feature that automatically adds parameters to your URLs.
+
+If you’re not using AdWords, or if you prefer to add the parameters yourself, you can add them by hand, or you can use a URL builder. Adding parameters by hand or with a URL builder is referred to as creating a custom campaign.
+
+A URL builder lets you enter just the values for the parameters, for example, the campaign name and keywords, and based on your entries, it generates a correctly formed URL.
+
+URL builder for web and email ads
+
+If you want to add parameters to the URLs in your web and email ads, use the Campaign URL Builder on the Google Analytics Demos & Tools site.
+
+URL builder for mobile-app ads
+
+If you want to add parameters to the URLs in your mobile-app ads, use the Google Play URL builder.
+
+Related resources

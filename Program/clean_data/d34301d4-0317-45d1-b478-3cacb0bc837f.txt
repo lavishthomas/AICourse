@@ -1,0 +1,29 @@
+Someone Is Learning How to Take Down the Internet
+
+Over the past year or two, someone has been probing the defenses of the companies that run critical pieces of the Internet. These probes take the form of precisely calibrated attacks designed to determine exactly how well these companies can defend themselves, and what would be required to take them down. We don't know who is doing this, but it feels like a large nation state. China or Russia would be my first guesses.
+
+First, a little background. If you want to take a network off the Internet, the easiest way to do it is with a distributed denial-of-service attack (DDoS). Like the name says, this is an attack designed to prevent legitimate users from getting to the site. There are subtleties, but basically it means blasting so much data at the site that it's overwhelmed. These attacks are not new: hackers do this to sites they don't like, and criminals have done it as a method of extortion. There is an entire industry, with an arsenal of technologies, devoted to DDoS defense. But largely it's a matter of bandwidth. If the attacker has a bigger fire hose of data than the defender has, the attacker wins.
+
+Recently, some of the major companies that provide the basic infrastructure that makes the Internet work have seen an increase in DDoS attacks against them. Moreover, they have seen a certain profile of attacks. These attacks are significantly larger than the ones they're used to seeing. They last longer. They're more sophisticated. And they look like probing. One week, the attack would start at a particular level of attack and slowly ramp up before stopping. The next week, it would start at that higher point and continue. And so on, along those lines, as if the attacker were looking for the exact point of failure.
+
+The attacks are also configured in such a way as to see what the company's total defenses are. There are many different ways to launch a DDoS attack. The more attack vectors you employ simultaneously, the more different defenses the defender has to counter with. These companies are seeing more attacks using three or four different vectors. This means that the companies have to use everything they've got to defend themselves. They can't hold anything back. They're forced to demonstrate their defense capabilities for the attacker.
+
+I am unable to give details, because these companies spoke with me under condition of anonymity. But this all is consistent with what Verisign is reporting. Verisign is the registrar for many popular top-level Internet domains, like .com and .net. If it goes down, there's a global blackout of all websites and e-mail addresses in the most common top-level domains. Every quarter, Verisign publishes a DDoS trends report. While its publication doesn't have the level of detail I heard from the companies I spoke with, the trends are the same: "in Q2 2016, attacks continued to become more frequent, persistent, and complex."
+
+There's more. One company told me about a variety of probing attacks in addition to the DDoS attacks: testing the ability to manipulate Internet addresses and routes, seeing how long it takes the defenders to respond, and so on. Someone is extensively testing the core defensive capabilities of the companies that provide critical Internet services.
+
+Who would do this? It doesn't seem like something an activist, criminal, or researcher would do. Profiling core infrastructure is common practice in espionage and intelligence gathering. It's not normal for companies to do that. Furthermore, the size and scale of these probes -- and especially their persistence -- points to state actors. It feels like a nation's military cybercommand trying to calibrate its weaponry in the case of cyberwar. It reminds me of the US's Cold War program of flying high-altitude planes over the Soviet Union to force their air-defense systems to turn on, to map their capabilities.
+
+What can we do about this? Nothing, really. We don't know where the attacks come from. The data I see suggests China, an assessment shared by the people I spoke with. On the other hand, it's possible to disguise the country of origin for these sorts of attacks. The NSA, which has more surveillance in the Internet backbone than everyone else combined, probably has a better idea, but unless the US decides to make an international incident over this, we won't see any attribution.
+
+But this is happening. And people should know.
+
+This essay previously appeared on Lawfare.com.
+
+EDITED TO ADD: Slashdot thread.
+
+EDITED TO ADD (9/15): Podcast with me on the topic.
+
+EDITED TO ADD (10/6): More.
+
+Posted on September 13, 2016 at 2:09 PM • 171 Comments

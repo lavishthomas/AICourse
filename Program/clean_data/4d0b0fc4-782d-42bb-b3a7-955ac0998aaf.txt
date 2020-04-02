@@ -1,0 +1,281 @@
+How To Do Keyword Research For SEO
+
+Keyword research is quite possibly the most important part of SEO.
+
+You cannot begin to plan for a campaign unless you know which phrases you are targeting, and you cannot estimate costs and returns from SEO unless you first know who you’re competing against.
+
+This post is pretty long and I will be keeping it up to date, so I have created a table of contents to make it easier to jump ahead to a specific section.
+
+Getting Started
+
+The goal of this post is to approach keyword research for SEO from it’s roots and build toward the more technical aspects.
+
+Keyword research is the practice of identifying which phrases are used on search engines when people are looking for information, and usually includes finding both the search volume and relative competitiveness of the terms.
+
+Keyword research is a critical component for search engine optimization because when used correctly it provides a road map for both the design and execution of building websites and developing content.
+
+Keywords are usually broken up and grouped based on the number of words within the query phrases. The more words in a keyword phrase usually the easier it is to rank for the term, since usually there is less relative competition.
+
+The reason for all the “usually’s” is that this not absolute, as is the case with most things, there are exceptions…
+
+Here is an example of how keyword difficulty relative to long tail keywords versus head and body keywords usually works:
+
+And here is an example where both the body and the long tail keywords are equally as competitive:
+
+And here is the exception, where a long tail keyword is actually more difficult than the body:
+
+The keyword difficulty data above was gathered using SEOmoz’s keyword difficulty tool on 1/5/13.
+
+It’s worth mentioning that in my experience, this really only ever happens with queries that contain brand names, 9 out of 10 long tail terms are going to be less difficult to rank for than their body and head counterparts.
+
+2 Schools of Thought
+
+In my opinion, SEO tends to focus on one of two areas;
+
+Optimizing for traffic, or Optimizing for conversion
+
+Most SEO’s (and dare i say internet marketers) fall victim to optimizing too heavily for traffic, and not conversion.
+
+It’s not necessarily bad to optimize for traffic, it depends on your goals; if you’re in e-commerce or a service based business it is more valuable to invest your resources in making sure you rank well for the terms that are most likely to lead to a sale; optimize for conversion, not just to gain the visitor.
+
+Where as if you are in the advertising or publishing business, where your revenues are directly correlated to the number of visitors and pageviews, or in other words the volume of eyeballs, then optimizing for traffic is going to be a better strategy.
+
+Like any good SEO campaign, your optimization strategy should be dictated by your campaign goals. If your top level goals are straight-forward, such as increase revenue, then decide which optimization path is going to be the most effective based on your business:
+
+Does more traffic directly imply more revenue? Or do you need to make sure you are acquiring more traffic for specific conversion-focused keywords?
+
+The Value of a Keyword
+
+Within these two school’s of thought a keyword’s value is based on either:
+
+The monthly search volume relative to the level of competition, or The revenue acquisition potential (or conversion rate)
+
+There are a number of ways to get relative monthly search volume, but what remains the easiest is using Google keyword planner (the replacement for the now deprecated keyword tool).
+
+It’s not quite as straight-forward as the keyword tool was, and there is a much heavier focus on AdWords, but it still provides data as a starting point for your research.
+
+But it really does drive you focus on AdWords specific data, so be aware that you will need to stay conscious of the toggles between Ad Groups and Keywords, here are some examples:
+
+After entering your seed keyword(s), you will need to switch the default from ‘ad group ideas’ to ‘keyword ideas’
+
+Then after you’ve built your initial list – you need to click ‘Review Estimates,’ at which point you will need to toggle (again) from ‘Ad Group’ to ‘Keyword,’ and then enter a bid before you see any useful data.
+
+Convoluted? Absolutely. But still useful none the less.
+
+You need to take into consideration the authority of the websites that are already ranking for these keywords, and get a sense of the competitiveness of that particular organic SERP.
+
+There are a few key signals I look at when doing a 30 second synopsis of a SERP, and my favorite tool to get an on the fly sense of relative competition is the Mozbar extension for chrome, which gives you some at-a-glance SEO data at the URL level conveniently right in the SERP interface.
+
+For a more comprehensive macro analysis of an organic SERP, I’ve started using Term Explorer, almost exclusively (click to enlarge):
+
+SEOmoz has a version of this called their keyword rank report, as pictured below for the keyword parking blocks:
+
+But this doesn’t take a look at the SERP as a whole… it doesn’t provide me with quick insight into what it is going to take to compete with these 10 URL’s and get on page 1, at least not without some more in-depth analysis.
+
+To get a good sense of the competition at the whole organic SERP level, I prefer to use Term Explorer.
+
+Term Explorer’s Keyword Analyzer tool gives me macro SERP insights (click to enlarge):
+
+and even let’s me publish these results either publicly, or anonymously – check out the hosted SERP results for the screenshot above.
+
+The analyzer also has a more condensed view of the mission critical metrics for each keyword (click to enlarge):
+
+This data goes much, much deeper when you export all the SERP level metrics to CSV (click to enlarge):
+
+The export offers up to date metrics on the following data points:
+
+Keyword
+
+The specific URL in ranking positions 1 through 10 (where available)
+
+Average monthly search volume
+
+Average Cost per Click (CPC)
+
+Binary (yes/no) on whether the keyword is in the: title, URL, page headers, and number of occurrences on the page
+
+Word count on the page
+
+Number of outbound links
+
+Relevancy score
+
+Number of backlinks to the page
+
+PageRank of the page
+
+Number of backlinks to the domain
+
+PageRank of the domain
+
+The age of the domain
+
+Whether the domain is an Exact match Domain (EMD)
+
+Trust score
+
+Links Score
+
+Difficulty Score
+
+Then finally there’s the individual URL Analyzer, which will go grab all this data for you on a specific URL by URL basis.
+
+Making Sense of All This Keyword Data
+
+So with some simple Excel sorting this offers me an at-a-glance snapshot of the both the upper and lower maximum’s in terms of overall SERP competition.
+
+The keyword opportunity model I talk about in my SEO competitive analysis post explains the idea of taking a macro approach to dissecting SERP’s at the keyword level, which in my opinion, is necessary for enterprise SEO and growing websites to over 100,000 visitors per month.
+
+The macro approach to keyword research is necessary for content heavy websites (and optimizing for traffic), but not ideal when doing intent-focused keyword research, as would be the case for Ecommerce, software, or other scenarios where some keyword phrases are going to carry significantly more qualification.
+
+Researching for Searcher Intent
+
+When optimizing for conversion, it is critical to gain some perspective into the psychographics of your target audience, and also understand the most common segments of search intent. While all 4 of the most common segments offer opportunities for conversion, only 2 are of truly high value and worth targeting; commercial investigation and transactional queries.
+
+The best way to get a handle on all this data is to group and categorize your keywords to look at the potential stage of the conversion funnel the searcher is within. By segmenting your keywords into funnels you can begin to paint a picture with your data that allows you to disseminate search intent.
+
+Taking this even a step further, you can begin to understand keywords as they relate to search context. Where even something as simple as word order can play a crucial role when defining the meaning behind the query and ensuring you are selecting the right keywords to target.
+
+
+
+Time to Do The Research
+
+You can’t build the right house without the right tools, and search engine driven websites are no different.
+
+The good news is at this point in time SEO has been around long enough that there is a whole slew of great tools you can use to assist you with your research efforts.
+
+Tools run the gamut in functionality from pulling search volume, to providing related suggestions, to competition in AdWords, and many other helpful bits of information.
+
+Here are some of my favorite tools:
+
+Call me traditional, but for getting search volume (and pretty much only search volume) I still use Google’s keyword tool.
+
+Tip: to get a realistic sense of the average monthly search volume make sure you set the matching criteria to [exact], look for the box below in the left hand side of the tool:
+
+The output from Google’s keyword tool will look something like this (click to enlarge):
+
+showing you the average monthly search volume, both globally and locally. It is important to know that the term local here can be a bit confusing as it is representative of the local country index, so local in this case means United States not Philadelphia (my actual local area).
+
+This gives you just enough data to get started building your keyword prospect list, but to really make this comprehensive (and I recommend the shotgun approach when doing keyword research – starting with a large population of targets and narrowing it down based on specifics) you need to leverage a few other tools.
+
+The first of which is good ‘ol Excel. Use the download button in the upper left corner of Google’s keyword tool to export your list (and Google’s related suggestions) into a CSV for Excel file.
+
+2017 Update: Starting August 2016 Google has limited access for those not having an active campaign.
+
+Don’t Forget to Check Plurals
+
+One of the most common mistakes when doing keyword research is forgetting to run the numbers for both the singular and plurals versions of your terms.
+
+I have found that often times one is significantly higher than the other, and quite often the plural version is indicative of commercial intent.
+
+Take for example SEO versus SEO Services, the former is an informational query where the intent is most likely research or information gathering. The latter, SEO Services, is a transactional or commercial investigation phrase indicative of being further in the purchasing funnel.
+
+Take a look at the difference in exact monthly search volume for the singular versus the plural (Click to Enlarge):
+
+As you can see the plural version has over 4 times the monthly search volume.
+
+Expand Your List
+
+Next, take your top-level target keyword phrase and throw it into a suggestion tool like AnswerThePublic.
+
+AnswerThePublic is an amazing free tool that gives auto suggest results provided by Google, Youtube & Bing. Data is simple to visualize, but at the same time it gives you insights on what your consumer search for and a hint on their motivations and their emotions.
+
+Übersuggest is a Google suggestion keyword scraper, which goes out and does the tedious work of running your keyword phrases along with every letter of the alphabet from A to Z, and number combinations 0 through 9, capturing the most frequently searched permutations.
+
+Ubersuggest takes your root phrase, for the purposes of this example I’m using keyword research, and then scrapes all of Google’s suggested results, so instead of just this:
+
+you get this (click to enlarge):
+
+This is really helpful because it captures all of the potential permutations related to your target keyword based on actual search behavior.
+
+You can now drill down into phrases and select the child keywords to be added to a list. Then click the ‘get’ button to generate a modal window that allows for you to copy and paste.
+
+Paste your selected related keyword back into the google keyword tool and rerun for more keyword data goodness.
+
+Tip: I’ve found that the Google keyword tool provides more suggested keywords when you put in less than 10 keywords at a time, ideally 3 to 5.
+
+There are also a variety of tools that provide keyword usage and competitiveness between both paid and organic search – some of which are pretty good.
+
+AnswerThePublic auto suggest results provided by Google & Bing
+
+SEMrush – Gives you fantastic insight into search volume, average cost per click, number of competing pages, related keywords, rank results, and even companies currently buying ad space (click to enlarge).
+
+SpyFu – Provides search volume, number of clicks per day and their average daily cost, the actual number of advertisers currently bidding on the keyword and the actual AdWord ads that are running (click to enlarge).
+
+Keyword Spy – Is one of my favorites for getting a quick sense of the landscape. It very quickly (through use of tabs) gives you access to data on PPC ads, related keyword phrases, your paid and organic competitors, and my favorite; misspellings!
+
+Did you know that keyword reserach has an estimated 110,000 searches per month! See a screenshot of the dashboard below (click to enlarge).
+
+Soovle – Is another great free tool that provides you with search suggestions and completions from providers on the internet (Google, Youtube, Bing, Yahoo, Amazon, Ebay etc)
+
+Once you have a good list going in Excel it’s important to gain visibility into your big opportunities, or as my team has come to talk call them; your golden tickets.
+
+First you will want to get a sense of seasonal volatility by running your top queries through Google Trends (click to enlarge):
+
+Pay attention to the average index of interest over time, since it can be a bit confusing; 100 here represents the highest search volume there has ever been, it is not the integer for number of searches. So what you are looking for is that the current interest has not fallen off completely, looking at the graph it seems the current search volume for keyword research is down about 50% from what it was in August 2010.
+
+Next you use a bit of a 3rd party litmus test to see how popular a topic really is, and a safe bet here is to use the worlds most popular encyclopedia, Wikipedia. Domas Mituzas has built a statistical engine that tracks Wikipedia’s pageviews.
+
+And looking at it over the past 90 days we can see that the term has been viewed 7,554 times (hat tip to Glen Allsopp for sharing this). Click to enlarge.
+
+Create Keyword Evaluation Model
+
+Evaluating keywords for relative opportunities is still very tough.
+
+Without massive stores of data and detailed insights into the competitive landscape it is easy to throw a lot of time and money at targeting keywords that will never deliver a stable return.
+
+In order to avoid this and instead focus only where there is rank to be had and money to be made, I believe it’s best to use an evaluation method.
+
+There are a number of methodologies ranging from complex formulas including many different heuristics to more simplified models designed just to give you a sense of the opportunity.
+
+I have developed a simple keyword opportunity model to help with this process, but for this post I am going to use a simplified version.
+
+This is meant to be more of a barometer than anything else and this data should not be used to make a business case, but more so just to give you a sense of opportunity.
+
+I’m going to use keyword competitiveness scoring from SerpIQ, but you could also do this with SEOmoz’s keyword difficulty score or something similar.
+
+Scoring the opportunities takes some simple math. So for this version we are going to discount monthly search volume by multiplying is against the inverse discount rate of the competitive scores (1 minus the competitiveness index percentage).
+
+For this example I’m going to stick with our root phrase, keyword research, and use 2 other closely related variations:
+
+Using our quick and dirty evaluation model of (exact monthly search volume x (1 – CI%) we get:
+
+keyword research opportunity score (4,400 x (1-.68)) = 1,408
+
+keyword research tools opportunity score (720 x (1-.65)) = 252
+
+keyword research software opportunity score (480 x (1-.56)) = 211.2
+
+Showing (quickly remember) that even though keyword research is significantly harder in terms of competition, it is still the clear winner in terms of keywords to target for search traffic.
+
+This is useful because it takes into account the opportunities as related to monthly search volume and then discounts the traffic potential based on the average competition.
+
+Keyword Research for Page Titles
+
+Optimizing page titles for search is best done finding a balance between volume and intent.
+
+Bringing this back to the 2 schools of thought, your title keyword composition is going to depend on your goals;
+
+If optimizing for traffic you want to find combinations to maximize use of high search volume terms.
+
+If optimizing for conversion you want to pay attention to intent instead of search volume.
+
+In both scenarios I recommend looking for creative ways to combine exact match phrases to leverage strings of keywords that contain several target keywords but are not awkward or stuffed.
+
+I go into some detail on how I find keyword combinations for page titles in this presentation:
+
+You can watch the video presentation of my webinar on keyword research at SerpIQ ›
+
+Closing the Loop
+
+Part of doing successful keyword research is setting time aside each month to analyze what’s working, and adjust your content and link strategies accordingly.
+
+Where are you seeing the fastest movement in the SERP’s?
+
+Are some terms moving between the top 10/30/50 positions faster than others?
+
+Which keywords are the fastest to page 1? Fastest to the top 5?
+
+Ask yourself these questions and please share your thoughts with me in the comments below – let me know your hypotheses or better yet your actual data; share your research and tell me what worked and what didn’t, I would love to chat with you.
+
+Once you have completed all of your research, it’s time to move onto the next step and build your keyword opportunity model »

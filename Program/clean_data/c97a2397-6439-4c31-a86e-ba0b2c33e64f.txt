@@ -1,0 +1,45 @@
+A Post By: Ivo Guimaraes
+
+array(5) { ["name"]=> string(9) "Ruleset 3" ["threshold"]=> string(1) "2" ["paragraphs"]=> string(2) "15" ["days"]=> string(0) "" ["ads"]=> array(8) { [0]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "20" ["screen"]=> string(6) "mobile" } [1]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "50" ["screen"]=> string(6) "mobile" } [2]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "80" ["screen"]=> string(6) "mobile" } [3]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(3) "100" ["screen"]=> string(6) "mobile" } [4]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "20" ["screen"]=> string(7) "desktop" } [5]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "50" ["screen"]=> string(7) "desktop" } [6]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "80" ["screen"]=> string(7) "desktop" } [7]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(3) "100" ["screen"]=> string(7) "desktop" } } }
+
+There are many different pieces of hardware that help to hold camera equipment together and attach things to stands. Here is an overview of some of the photograph hardware you need to understand. It’s not glamorous but having the right parts will help you get things done.
+
+Tripod connection
+
+Ever since the early days of photography, the need to keep the camera steady has been a prominent issue. The long exposure times and the size of the equipment in those days made it impossible to handheld the camera with sharp results. So, the tripod was invented and to this day it remains as the go-to solution to stabilize your photographic equipment.
+
+The tripod is connected to the camera via a thumbscrew that secures both parts. Virtually every camera on the market has a threaded hole on the bottom dedicated to the attachment of a tripod.
+
+As recommended by The Royal Photographic Society and regulated by ISO 1222:2010 these female threads are compatible with one of these two stud sizes used on tripod plates:
+
+The 1/4 20 stud that measures 1/4 inch or 6.5 mm in diameter and has 20 threads per inch.
+
+The 3/8 16 stud that measures 3/8 inch or 9.5 mm in diameter and has 16 threads per inch.
+
+The 1/4 20 thread is the most common and used in the majority of equipment in the market. Meanwhile the 3/8 16 is used for heavier equipment as it is much sturdier and able to stand heavier load. It is fairly easy to convert between the two threads with adapters like this male 1/4 to 3/8 or female 3/8 to 1/4.
+
+Connecting light stands to gear
+
+Even though camera tripod connection is the main use for these threads, there are a lot more uses for them as well. These are the standard size for a vast array of photography accessories connection compatibility.
+
+The spigot connection complements the threaded system as it is quick and easy to use, and it is not limited by the thread tightness positioning. It is used as a building block for many things around the studio from holding flash heads on a light stand to background and reflectors holding systems.
+
+The combination of these two systems allows the mounting of accessories like a flash and umbrella swivel bracket. You can use the spigot system to connect to the tripod and the 1/4 thread for a flash cold shoe.
+
+All the female and male thread combinations are possible with a conversion kit. It is composed of three elements, a spigot with 1/4 and 3/8 female thread, a 1/4 to 3/8 male converter and a double 1/4 male stud.
+
+Combining this three pieces in different positions allows all the threaded spigot combinations and interlocking of different pieces of hardware. Sets are available that contain all of these pieces.
+
+Other uses
+
+There are many other things you can connect using these bits. A good example is the use of a magic arm. It is a really sturdy system for holding things in place and has many thread options on each side.
+
+Connecting it to a clamp with a female thread is a great combination for holding reflectors, lights, or positioning production accessories in your photography set.
+
+Another great accessory that allows the combination of all these pieces of equipment in the same place is the universal junction sphere. This handy little gadget has multiple 3/8 threads and allows many accessories to be mounted on the same base.
+
+Conclusion
+
+So, here are just a few examples of photography hardware accessories that are not of great use by themselves, but make powerful tools when connected together. It is just a matter of picking the right combination to get the job done!
+
+Let us know in the comments what combinations you use.

@@ -1,0 +1,343 @@
+A couple weeks back I'd requested the nice folks following me on Google+ and Facebook to submit their most important digital marketing and analytics questions.
+
+The questions reveal a bunch of things we used to worry about, and continue to, like data quality and creating data driven cultures. They also reveal things that starting to become scary (Privacy! EU Cookies!) and others that are already delivering nightmares (a multi device world!). Finally there were questions we can always count on: setting goals and tracking conversions, justifying analytics and wanting to track the absolutely impossible (why can't I track people across all devices and all websites?).
+
+I'll answer those questions, and more, in this post. Just the questions total up to 1,353 words. I'm going to try, really hard, and be cogent in my replies to ensure this does not end up being a super long post.
+
+I've categorized the questions and answers into four distinct categories: The "really difficult," "oh that's not so bad," "omg that's easy" and the "unknown unknowns."
+
+While reading the entire post will be of value (and ensure world peace), you're welcome to jump to the section that sounds most appealing.
+
+Let's do this!
+
+The really difficult questions.
+
+Yehoshua Coren:
+
+
+
+Best ways to measure user behavior in a multi-touch, multi-device digital world. Some tools do pan-session analysis better than others, and there are a number of relatively new analytics solutions on the market today. What tools / methodologies do you use to answer pan-session sorts of business questions? What can analysts do, if anything, to overcome the multi-device challenge
+
+Yehoshua I've covered this topic in detail in this blog post: Multi-Channel Attribution: Definitions, Models and a Reality Check
+
+I explain three different models (Online to Store, Across Multiple Devices, Across Digital Channels) and for each I've highlighted:
+
+1. What's possible to measure 2. What's not possible to measure 3. What you can do about what you actually have
+
+Please read the post in detail with you have ten peaceful minutes.
+
+If I were to summarize. Incentivising your visitors to log into their account with you is the only clean permission based way to track them across devices. Then you build a massive data store that you can query for data to analyze. Web Analytics tools in the market are not the answer (especially across multi-channel and multi-devices). Even "specialized tools" are not the answer because they rarely have the end to end data or the analytical capabilities you'll need.
+
+If you can't incent people to log in, you are out of luck (except for MCA Across Digital Channels – for that see post above and also GA MCF). Simply because you are going to bump into privacy and government regulations.
+
+So accept what you can do. Accept what you can't. Then do what you can do and move on to making decisions, even if they are small in some scenarios.
+
+Please see the post for all the details.
+
+Bjoern Sjut3:
+
+
+
+My main issue at the moment: How will multi-channel funnels and ROI calculations work in a multi device world? We all have smart phones, laptops, tablets and soon Smart TVs – but most of our measurements are usually done in Cookies that are device/browser specific. That means: All of these metrics are off. How can I e.g. determine the ROI of my mobile traffic acquisition, when people regularly convert on their laptops later…. What would be the current best practice to move towards a proper cross-device attribution, while maintaining or improving on privacy standards at the same time??
+
+See the above answer Bjoern, and do please read the post because there are still things you can do.
+
+If your wish in the second part is to track effectiveness of advertising (how to determine ROI) then please see this post: Measuring Incrementality: Controlled Experiments to the Rescue! That is the solution. The only challenge is that it is not easy, and everyone wants easy. It takes effort and time, but if you are a large company it works like a charm.
+
+I wanted to include your question in this post because of that last part. What you are asking for is impossible. Being able to track the person across all devices necessarily means you have to relax privacy because… well you want to track a person. :) How will that go with, as you put it, improving privacy standards?
+
+This is not a problem for Marketers or Analysts to solve. This is problem for governments, privacy regulators and the public to solve. We will adapt to whatever they decide.
+
+My perspective on this multi-channel multi-device multi-visit multi-campaign challenge is best summarized by the Serenity Prayer:
+
+“Lord grant me the serenity to accept the things I cannot change, the courage to change the things I can, and the wisdom to know the difference.” :)
+
+I assure you that for your business there are still a massive number of solveable challenges when it comes to being smarter with digital, I'd take those on for now.
+
+Jeroen Hesterman:
+
+My biggest challenge is this: I've created a data platform which captures all campaign (paid) traffic and can attribute a conversion to each based on whatever model I choose. Now… how do I create actionable insights from this data which are going to help me decide where to spend my budget? What report would you want to see on conversion attribution that would help you decide where to spend??
+
+[context]
+
+I believe that attribution modeling is not the path to the smartest decisions for multi-touch multi-visit digital campaigns. This is practically heresy in our industry, but it's what I've learned from my experience.
+
+A lot of people buy tools and consulting and go love crazy with attribution modeling. Yet at the end of all that money and all that love, they struggle to make even a single decision about shifting media spend (from Facebook to Email or Google to Bing or whatever).
+
+That's simply because the ecosystem we live in is insanely complex, "path analysis" on campaign data is just as much of a waste of time as path analysis for, well, website path data, and every attribution model has built into it biases and opinions that often struggle to stand any intellectual scrutiny, or the simple laws of common sense.
+
+If you want to make the smartest decisions about your budget allocation then leveraging the time tested methodology of media mix modeling (at its core powered by controlled experiments) is the only way to go. It is hard, it is time consuming, but it also allows you to test your hypotheses on possible optimal allocations, test them in the real world, find the best answers and be brilliant with your marketing spend mix.
+
+[/context]
+
+(That said…) If you would like to make smarter (not the smartest :) decisions, beyond simplistic last click, then you can just build what Google Analytics has built into its tool.
+
+Sorry I meant to say, be inspired by what they've built.
+
+Ignore the patently bad models like first click attribution, linear attribution, daily planetary alignment etc. Start with models like Time Decay and Position Based to understand what the conversion portfolio might look like (last two columns above) and create hypotheses about what a better budget allocation might look like. Roll that out to your entire portfolio (or to a subset as a controlled experiment) and measure conversion improvements. Rinse and repeat.
+
+Without a doubt with a cyclical process like above you'll be better than you were in a last click world.
+
+If you want to go one step further you can build into your tool, again just providing inspiration :), the capacity to allow your users to leverage their unique business knowledge to create hyper customized models, like the one I'm creating here using the Google Analytics custom attribution modeling feature…
+
+Go back and scroll through the image again, slowly, and infer the knowledge, leaps of faith, sophistication and knowledge of my business that I'm able to put into the model. I'm valuing different positions differently, with a heavy emphasis on the converting touch points. Then I'm using data from the standard Days to Conversion report to limit who gets credit (no one beyond 27!). The credit distribution is proportional to content consumption (I like page count and not time) and finally apply the rules based on position in the path.
+
+Pretty cool right?
+
+Remember, this may or may not work for you. That's simply because this model is unique to my business and my understand of our data. The nice thing is that my custom attribution model will give me a unique view of the conversion path on MY site (a new column to look at under "% Change from Last Interaction"). I can use that to hypothesize what an optimal budget allocation might look like.
+
+You could consider something like this in your tool, your users will like you a lot.
+
+Attribution modeling is a feature available only in Google Analytics Premium, a paid version.
+
+Remember at the end of the day attribution modeling is just a bit smarter than last click, it brings the benefit of knowing that one should optimize portfolios and not a silo (which last click pushes). For the smartest portfolio allocations the answer is media mix modeling (powered by controlled experiments).
+
+Mark Tollerman:
+
+I've often observed insights to be the sole responsibility of analysts rather than designers, PMs, engineers and execs resulting in fear and lack of understanding of data and therefore increased use of opinion over fact. How does one go about changing a corporate culture to make data driven insight an implicit demand of an organization frightened of data?
+
+There are 19,276 books on org design on Amazon right now, so you can imagine how difficult it is to answer your question in just a few words. If you really want help here, hire a very very good business (not analytics) consultant.
+
+But here are some quick thoughts…
+
+Insights can only come from a cohesive team that is responsible for qualitative and quantitative analysis. It is very hard to bring these two camps together, but when we managed to do that in my last job it worked magnificently because there was renewed understanding of what's important, where to go for the best data and how to bring left and right brain thinking to solving customer problems with unique solutions.
+
+Optimal ownership of the analytics team inside the company will increase the likelihood of data and not faith will drive decisions. Here's a post you might find valuable: Who Owns Web Analytics? A Framework For Critical Thinking.
+
+Finally, you'd referenced boss/exec issues, here you go: Six Rules For Creating A Data Driven Boss!
+
+Christian Rose:
+
+How the hell do I eek out goals out of web authors that could hardly care less about them.. (other than the fact that they are authoring content that happens to fall on our website?) and the baby-boomers C-levels in charge of the company that have little to no attention for web stuff, other than the fact that they inherited this website when they started to work here?
+
+Boy do I have a post for you to read, it is written to solve the precise problem you are running into.
+
+Check it out: The Biggest Mistake Web Analysts Make… And How To Avoid It!
+
+It outlines a six step process you can use to:
+
+1. Ensure you don't have to wait for "Web Authors" (or HiPPOs) to give you the information you need 2. Do the work that will make your baby-boomer c-levels care about the site and data (assuming you discover the site's of value) and 3. Help you focus on providing analysis rather than simply puking data out.
+
+Success won't come overnight Christian, but the above way is the only one I know of ensuring consistent scalable success.
+
+Johan Johansson:
+
+My question got to be what kind of organization structure you recommend to support data driven culture and decision making? And what key functions/roles do you need in that structure?
+
+See my note to Mark above about how hard this is. And please do read the post on who owns web analytics .
+
+Org design is hard, and there is no perfect answer…
+
+
+
+(Source: Manu Cornet)
+
+But here are three thoughts in a digital analytics context from my many failures:
+
+If the organization is young and resource strapped then a centralized org structure is very effective, and efficient.
+
+As the organization rapidly explodes and is growing across divisions and countries, a decentralized model makes the most sense. A centralized structure for analytics in this case will end up being a traditional worst case "IT mental model" roadblock. Eww!
+
+In mature organizations a centralized-decentralized model works best. The central team is responsible for analytics frameworks, centralized contracts (tools, consultants), for aggregated company level analysis, complex project execution (experimentation, media mix models etc) and for setting standards. The decentralized teams understand the difference between reporting and analysis, and simply focus on fast, hyper-relevant analysis!
+
+(This is not a pitch but if you are interested my book Web Analytics 2.0, in addition to other goodies, has an entire chapter on how to create data driven organizations.)
+
+Good luck Johan!
+
+The oh that's not so bad Questions.
+
+Francisco Meza (and Faiz Sheikh):
+
+(not provided) in organic and (not set) in Paid. It's just missing information I can't use?
+
+Yes and no.
+
+You'll only see (not provided) in your organic search keywords report. It represents the queries done on Google by folks who were logged into their Google.com account or using https (secure) search. Google does not pass those queries to the website in the referral string. Hence none of the web analytics tools are able to report that data so they bucket them in a "not provided" bucket (the name may be different in SiteCatalyst, Yahoo! Web Analytics etc).
+
+The size of this unknown bucket will be different for each site. For my site it is currently 50% of the search traffic…
+
+Learn more about how I analyze (not provided) data to get some understanding in this post: Smarter Data Analysis of Google's https (not provided) change: 5 Steps
+
+(not set) is a completely different issue, and you can fix it.
+
+You'll see (not set) in many places in Google Analytics (and other tools as well, though it might have a different name), including your paid search reports. That label is applied when data is not available for the dimension you are looking at in your reports.
+
+In the Search reports it might be there because AdWords auto-tagging is broken, in the Campaign reports it indicates that the UTM parameters were not properly coded (or are completely missing), in the Matched Query report it might indicate you are looking at "content targeting" were you use content and not keywords to do the targeting.
+
+(not set) just needs you to dig deeper, identify the problem and fix it. If you are using GA and you need help then hire a GACP (http://bit.ly/gaac ), if you are using Adobe, WebTrends, IBM et al then please hire a consultant with experience in those tools.
+
+Jacob Funnell:
+
+The company I work for sells writing courses. We have many course pages. The idea is that they generate leads. I have these leads tracked in Google Analytics as goals. I can see which pages end in conversions if they're taken as landing pages. But how can I see which pages merely assist conversions?
+
+This is exactly why the Page Value metric (in the past called $index value) was created.
+
+It helps you understand the "contribution" of the pages that are viewed in converting visits (using conversions for ecommerce websites and goals values for non-ecommerce websites, like this blog, or both).
+
+Here's a helpful blog post: Understanding And Using Page Value
+
+I'm imploring the Google Analytics team to make this metric available in custom reports where it would be multiple times more helpful. Hopefully soon!
+
+Edward Cowell
+
+"Was the data correct?" No matter what the stats actually say, I always go back to asking did we track it correctly, maybe miss something, not tag all the pages etc.?
+
+Dealing with data quality doubt is every day and, sadly, very complex challenge for many, if not most, of us. This is compounded by the fact that a whole lot of analytics implementations are incorrect and incomplete. My recommendation is that you follow the virtuous data quality cycle…
+
+Here's the blog post that describes each of the six elements in greater detail: Web Data Quality: A 6 Step Process To Evolve Your Mental Model
+
+If your responsibility is on the analytics side, and not the data collection side where the above process applies 100%, and the challenge is purely the leaders in the company then please review the guidance in this blog post: Slay The Analytics Data Quality Dragon & Win Your HiPPO's Love!
+
+Please pay particular attention to recommendation #4 ("Head" data can be actionable in the first week / month), #5 (Data precision actually goes up lower in the "funnel") and #9 (Be Aware of two upsetting distractions: Illogical customer behavior. Inaccuracy benchmarks).
+
+Remember when it comes to data quality: "An educated mistake is better than no action at all."
+
+Joe Brown:
+
+How will digital analytics be impacted by Do Not Track browser policies and DAA policy efforts? What do you envision the IE10 default DNT impact will be?
+
+Microsoft has evolved its position on the Do Not Track / Default settings in IE10.
+
+Regardless… this is a subject I'd covered in detail recently: EU Cookie / Privacy Laws: Implications On Data Collection And Analysis
+
+To provide a hyper-fast non-nuanced summary… please invest in:
+
+1. Understanding what third-party and first-party cookies are 2. The difference between advertising analytics tools and website analytics tools 3. Isolating the impact of the various rejection, blocking, clearing, government regulations and browser defaults
+
+The impact is less than what you might imagine in most cases, and a bit more in other cases. Please see the post for lots of specific detail.
+
+Larissa Martins:
+
+Hi Avinash Kaushik, first of all, thanks for the opportunity!. My questions are 2 (among maaaany others). 1- How can we apply all the web analytics concepts and knowledge in the real world? I mean, we read blog posts, books, go to conferences and consume great WA content. But clients in the real world do not follow us, especially in Latin America where companies, even the multinational ones, are mostly intuition driven and there´s a lack of qualified professionals. 2 – To be simple and direct and I´d really like to hear your honest opinion, GA or SiteCatalyst? :)
+
+Let's do the second one first, during my looooong career I've yet to interact with a single company where the lack of digital success was due to the web analytics tool they used. I wish it were so, would be great for me and you, but sadly that is not the case. If companies have 15 challenges to deal with, picking the right analytics tool would rank #15. So if you have SiteCatalyst, use it like crazy. It is fantastic at what it does. If you have WebTrends, ditto. If you have Google Analytics, ditto.
+
+Only consultants and internal IT/"Analytics" folks who want to make money/preserve careers obsess about the tool. Then spend 18 months implementing it while the company makes ever more decisions on faith.
+
+If you have a tool from a well established vendor, use it. Spend all other time in solving the other 14 important business problems.
+
+That leads us to your first question… how do we get people to care, what to we do instead of obsessing about tools?
+
+Three things.
+
+The problem is not the HiPPOs or CEOs, the problem is us.
+
+They don't care about data or digital because we, yes you and me, have never worked hard to make them understand the real impact of digital, the real outcomes of leveraging the opportunities of digital. Because we are too busy collecting data and data puking. You fix that problem and you'll have every CEO in the world knocking down your door to have a few more minutes with you.
+
+The omg that's easy questions.
+
+Sudhir Mantena:
+
+Integrating data from AdWords and Google Analytics into single report to help make decisions such as:
+
+– Set of Keywords with best and worst ROI.
+
+– Set of negative Keywords to block
+
+– Keywords with potential to convert in near future
+
+What other meaningful reports should an advertiser care about??
+
+If you use Google Analytics then you have a delightful set of helpful standard reports available to you that pre-integrate the two disparate data sources. Go to Advertising and then AdWords in the interface.
+
+You also have the capability to create some incredible custom reports. You can download some of my favorites here: Google Analytics Custom Reports: Paid Search Campaigns Analysis
+
+If you don't use Google Analytics consider using the AdWords API to get data into the web analytics tool. Or use the web analytics tool's API and the AdWords API to pull data into a data store of your choosing. Then analyze like your life depended on it!
+
+Rob Mclaughlin:
+
+
+
+From big cheese to me: "Explain why I should listen to you with you charts and numbers when our customers are shouting their feedback and frustrations at us?"
+
+Simple, people who live in an or world are less effective when making decisions than people who live in an and world.
+
+Customers articulating their problems are an incredible source of issues that should be fixed. But we don't just want to rely on the noisy few.
+
+We want to use qualitative data as well as quantitative data because the latter will allow us to "listen" to all the customers, the latter will be an excellent source of understanding what the reasons might be for the frustration, and it will be the only source of data to understand how much money you are making, why you are making that little (or lot), where is it coming from!
+
+So there.
+
+Marius Pop:
+
+How do I find out exactly what the visitors are looking for on the page? With that I'm looking to reduce the bounce rate.
+
+Exactly is such a hard word. Brings with it burdensome expectations, and an enormous cost.
+
+So we move from exactly to close to exactly. Sounds reasonable? :)
+
+In your case you'll have to solve this problem:
+
+Here is how you do it: Six Tips For Improving High Bounce Rate / Low Conversion Web Pages
+
+The unknown unknowns questions.
+
+Joe Librizzi:
+
+
+
+In lieu of major infrastructure changes, how can the impact of offline campaigns be measured within GA's multi-channel funnels
+
+Sadly in life sometimes there is no in lieu of. There are many conditions in life that might preclude us from doing what's required, but sadly sometimes you have to do the right thing. Even if it is hard.
+
+Here are two posts that cover the complexity of multi-channel analytics: Tracking Offline Conversions. 7 Best Practices, Bonus Tips, Tracking Online Impact Of Offline Campaigns.
+
+Lucas Deibler:
+
+What is the best use of analytics for helping shape a full site redesign, specifically for a content site?
+
+Understanding customer intent. Understanding current sand traps. Understanding the user interaction model.
+
+Hire a consultant with quantitative and qualitative experience in digital analytics and they'll be able to give you a lot more specific detail to suit your unique situation.
+
+Jeremy Kolb:
+
+What are the best tools in the industry for building a social brand?
+
+I'm not sure that there is a tool to build social brand.
+
+But here's the formula that works: Wake up in the morning. Identify the intersection of your competence and passion. From that place deliver something incredible of value to your social audience. Repeat it the next day.
+
+Michael Krupinsky:
+
+I'd like to combine impressions (paid media, organic search and paid search), clicks, lands, and return visits during their purchase cycle. I don't want last click attribution; I want a full view of my prospects as they are exposed to my external messaging and then go through their online decision process. Did they read a review on Amazon after they were exposed to an ad? Did that later lead to a search and a click on a paid brand search term which brought them in to sign up on our email list…which then then bought from after receiving an email offer 2 weeks later?
+
+You can track what people do on your site. You can track what people do when exposed to your ads on other websites. You can't track what people do on sites where your tracking code does not exist, and tie it to what they do on your site or a competitors.
+
+Life's tough.
+
+You still have more data than anyone should legitimately have in this world. If you don't have in-house expertise to pull off most of what you outline above then please consider hiring a consultant who has skills in business intelligence, web analytics 2.0 and hard core quantitative analysis.
+
+Lisa Murphy Carlston:
+
+How do you approach the identification of good leading, or predictive metrics? Are there criteria you use? Any tips for proofing whether there is causation vs. correlation between the potential leading metric and the outcome desired?
+
+Hire a very smart statistician with strong data modeling skills and a very deep comfort level in working with incomplete large data sets with missing variables. She/he will be able to create something for you.
+
+Roni Leibovitch"
+
+
+
+With multi-channel funnels and goal conversion GA allows us to build a fairly comprehensive attribution model. This data is usually reviewed in the form of a report. Even if I assess it in near real-time my domain cannot make a real-time decision based on these metrics w/o relying on 3rd party CRM tools. Can I use my Google Analytics attribution model to test UI/UX in real-time, or build a decision engine based on JS queried from my analytics? For example, offer the visitor who is more likely to complete an 'assisted social conversion' based on my model, a different UI than someone entering the site via search.
+
+It looks like you are volunteering to build a new analytics and behavior targeting solution. :)
+
+When it comes to real time remember that right time is substantially more important (and cheaper and effective) than real time. See point #4 here: A Big Data Imperative: Driving Big Action
+
+Phew!
+
+Did I not say we got some incredible questions? I hope you had as much fun with this post as I did.
+
+I want to close with three very quick macro thoughts.
+
+No matter who you are and where you work… you currently have access to more data than you need, and it can drive more action than you realize. It is sub-optimal to trade that off for the really hard maybe someday we'll solve it at a great expense problems. See the serenity prayer above. No matter who you are and where you work… the root cause for a company not being data driven comes down to the Marketers and Analysts not having a clear understanding of what the CEO of the company wants to accomplish on digital channels, and not tying 100% of their efforts to those business priorities. No matter who you are and where you work… you and only you are responsible for your education. The web is a massively morphing monster when it comes to evolution/change. Invest time in reading, learning, practicing, failing. It is a lot of work, but without it irrelevance comes pretty quickly. [Guidance: Web Analytics Education/Career Guide]
+
+I wish you all the very best.
+
+As always it's your turn now.
+
+How do you tackle attribution modeling? What strategies have resulted in your organization becoming data driven rather than faith driven? Who owns web analytics in your company? How have you avoided the data quality quicksand trap? Do you know of a company that has solved the multi-device tracking problem? What is your secret to valuing content on your website?
+
+Please share your thoughts, critique, brilliant ideas, and life lessons via comments.
+
+Thank you.

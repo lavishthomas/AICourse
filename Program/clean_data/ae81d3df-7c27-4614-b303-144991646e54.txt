@@ -1,0 +1,27 @@
+At VentureBeat’s DevBeat conference next week, we’re doing things a little differently. You won’t be invited to speak on stage if you can’t code, and we’re setting up practical workshops so you’ll actually learn something and not just be lectured to.
+
+In the spirit of collaboration, I asked some of the most talented web and mobile programmers in my network for their tips. You don’t become a great developer overnight; it takes tenacity, skill, and a willingness to spend many an evening glued to a computer screen.
+
+The most talented programmers have made plenty of mistakes. Here’s what they learned along the way.
+
+A special thanks to Altay Guvench, founder of Silicon Valley tech talent agency 10x Management for helping me compile some philosophical and hands-on advice!
+
+1. Think carefully before you choose your first language
+
+“Programming languages differ, but not a lot. The people who use a programming language differ much more. When you choose a language, you’re choosing a community.” — Sam Kaufman, a freelance iOS developer represented by 10x management
+
+“If you want to prototype fast (especially for founders, who want to iterate on a product), go with either Ruby or Javascript.” — Erin Parker, founder and lead developer of Spitfire Athlete
+
+2. You’re no code monkey!
+
+“Great developers can architect and build applications. Amazing developers do it with an eye focused on the business. Most people on the business side of the house can’t code, but you certainly can understand the motivations behind a particular feature.
+
+“Too often developers just build what they are told without understanding why they are building it resulting in missed opportunities on both sides.” — John Coggeshall, a freelance web developer represented by 10x Management; a core contributor to PHP
+
+“Becoming great at programming is a noble professional goal. Once you’re there, don’t forget to think about yourself. Do not become any company’s serf or otherwise trade your time on Earth for tchotchkes.” — Greg Sadetsky, a Quebec-based Python and Javascript expert represented by 10x Management; founder of Abri.co, a co-working space
+
+“To meet a deadline, do project communication work ahead of doing technical work (even if it isn’t a prerequisite), because there’s more variance in how quickly other people are able to respond.” — Andrew Wilcox, a web application developer and core contributor to Meteor, represented by 10x Management
+
+3. Stay agile and don’t stop shipping
+
+“Release early, often, and with rap music.” — Max Nanis, a San Diego-based freelance web developer and bioinformatics expert; represented by 10x Management

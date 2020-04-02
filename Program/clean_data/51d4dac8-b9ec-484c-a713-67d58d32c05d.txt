@@ -1,0 +1,13 @@
+Photo
+
+THIS season Major League Baseball is allowing its officiating crews to use instant replay to review certain critical calls, including home runs, force plays and foul balls. But the calling of the strike zone — determining whether a pitch that is not swung at is a ball or a strike — will still be left completely to the discretion of the officials. This might seem an odd exception, since calling the strike zone may be the type of officiating decision most subject to human foible.
+
+In research soon to be published in the journal Management Science, we studied umpires’ strike-zone calls using pitch-location data compiled by the high-speed cameras introduced by Major League Baseball several years ago in an effort to measure, monitor and reward umpires’ accuracy. After analyzing more than 700,000 pitches thrown during the 2008 and 2009 seasons, we found that umpires frequently made errors behind the plate — about 14 percent of non-swinging pitches were called erroneously.
+
+Some of those errors occurred in fairly predictable ways. We found, for example, that umpires tended to favor the home team by expanding the strike zone, calling a strike when the pitch was actually a ball 13.3 percent of the time for home team pitchers versus 12.7 percent of the time for visitors.
+
+Other errors were more surprising. Contrary to the expectation (or hope) that umpires would be more accurate in important situations, we found that they were, in fact, more likely to make mistakes when the game was on the line. For example, our analyses suggest that umpires were 13 percent more likely to miss an actual strike in the bottom of the ninth inning of a tie game than in the top of the first inning, on the first pitch.
+
+Advertisement Continue reading the main story
+
+We also found that the pitch count had an influence over the umpire’s perception of a pitch. When the count was 3-0, and another ball would end the at-bat, the umpires mistakenly called a strike 18.6 percent of the time, compared with a 14.7 percent error rate when the count was 0-0. But when the count was 0-2, with another strike yielding a strikeout, the umpires expanded the strike zone only 7.3 percent of the time, half the error rate for 0-0. The umpires, in other words, appeared biased against ending an at-bat.

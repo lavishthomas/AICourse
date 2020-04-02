@@ -1,0 +1,31 @@
+Windows 10 is amazing. Windows 10 is fantastic. Windows 10 is glorious. Windows 10 is faster, smoother and more user-friendly than any Windows operating system that has come before it. Windows 10 is everything Windows 8 should have been, addressing nearly all of the major problems users had with Microsoft’s previous-generation platform in one fell swoop.
+
+But there’s something you should know: As you read this article from your newly upgraded PC, Windows 10 is also spying on nearly everything you do.
+
+DON’T MISS: 6 free tools that stop Windows 10 from spying on everything you do
+
+It’s your own fault if you don’t know that Windows 10 is spying on you. That’s what people always say when users fail to read through a company’s terms of service document, right?
+
+Well, here is Microsoft’s 12,000-word service agreement. Some of it is probably in English. We’re pretty sure it says you can’t steal Windows or use Windows to send spam, and also that Microsoft retains the right to take possession of your first-born child if it so chooses. And that’s only one of several documents you’ll have to read through.
+
+Actually, here’s one excerpt from Microsoft’s privacy statement that everyone can understand:
+
+Finally, we will access, disclose and preserve personal data, including your content (such as the content of your emails, other private communications or files in private folders), when we have a good faith belief that doing so is necessary to: 1.comply with applicable law or respond to valid legal process, including from law enforcement or other government agencies; 2.protect our customers, for example to prevent spam or attempts to defraud users of the services, or to help prevent the loss of life or serious injury of anyone; 3.operate and maintain the security of our services, including to prevent or stop an attack on our computer systems or networks; or 4.protect the rights or property of Microsoft, including enforcing the terms governing the use of the services – however, if we receive information indicating that someone is using our services to traffic in stolen intellectual or physical property of Microsoft, we will not inspect a customer’s private content ourselves, but we may refer the matter to law enforcement.
+
+If that sentence sent shivers down your spine, don’t worry. As invasive as it is, Microsoft does allow Windows 10 users to opt out of all of the features that might be considered invasions of privacy. Of course, users are opted in by default, which is more than a little disconcerting, but let’s focus on the solution.
+
+Rock Paper Shotgun has broken things down into four main bullet points that will guide you through regaining control of your personal data.
+
+READ MORE: Windows 10: The first 5 things you need to do immediately after you install it
+
+First, you’ll want to open Settings and click on Privacy. There, you’ll find 13 different screens — yes, 13 — to go through, and you’ll want to disable anything that seems worrying. The blog notes that most of the important settings can be found on the General tab, though other tabs are important as well. For example, you’ll definitely want to adjust what types of data each app on your system can access.
+
+Next, users should consider dumping Cortana. Yes, the voice-driven assistant is easily one of the best new features in Windows 10, but it also plays fast and loose with your data. As a result, many users will find that the benefits do not outweigh the risks.
+
+For the third task, you’ll have to venture outside the confines of your PC and hit the web. Perhaps this is a good opportunity to check out Microsoft’s nifty new Edge browser. In it, click on this link and set both “Personalised ads in this browser” and “Personalised ads wherever I use my Microsoft account” to off. This will disable Microsoft’s Google-style ad tracking features.
+
+The last tip is one that most users will likely forgo, as it is a bit excessive. Rock Paper Shotgun recommends removing your Microsoft account from Windows 10 completely and using a newly made local account instead. This way, Microsoft doesn’t grab hold of all your data to sync it across machines. To us that’s a great and useful feature, but if you want to kill it just follow the link below in our source section for complete instructions and plenty more details.
+
+MUST-READ: Windows 10 brings back the Start Menu – here’s how to customize it
+
+Article updated to quote a larger quote from Microsoft’s terms of service.

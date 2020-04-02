@@ -1,0 +1,43 @@
+The Google car’s prediction didn’t come true when it struck a bus on Valentine’s Day
+
+“We don’t like our car bumping into things,” said Chris Urmson, head of Google’s self-driving project, addressing the February 14 incident where Google’s car struck a bus. “This was a tough day for us.”
+
+During a talk at SXSW, Urmson shared images from the Valentine’s Day bump—“bumping” is probably the best possible way to describe it; the vehicle was going 2 mph—and talked about what Google learned from the incident.
+
+Advertisement
+
+Google’s cars have far more experience than any human on the planet—the fleet is driving as many miles in a single day as a typical American drives in a year. And as we know, the cars are also adding features all the time to help them learn how to drive more like humans. In fact, Google had recently implemented a capability for its cars to hug the shoulder a bit on Mountain View’s extra-wide right-hand lanes, allowing it to behave a little more like its fellow drivers might. It’s the same reasoning that allows a Google car to break the law to cross a yellow line to get around an improperly parked car, for example.
+
+Video stills from the incident, the car’s data, and damage sustained when the bus clipped the car’s sensor
+
+But there are plenty of examples where Google’s car isn’t human enough. Urmson showed how the car tried to move out of another car’s blind spot on a freeway, but ended up slowing its speed too much in the process, eventually moving into the blind spot of the other car. This is what happened on Valentine’s Day, said Urmson, “our car making an assumption about what the other car was going to do. This what driving is about.”
+
+
+
+Even so, Urmson remains confident that Google is a better driver than you.
+
+Urmson showed an instance where a bike going the wrong way at night suddenly zoomed through an intersection, in front of a Google car. The car stopped. But Urmson said he’s watched the footage dozens of times, and he believes the cyclist would probably not have been seen by a human driver. “I am convinced if I was behind the wheel, I would have hit him.”
+
+That pedestrian is naked. And jumping on the hood of the car.
+
+That wasn’t even the weirdest thing that Google’s cars have encountered: a woman in an electric wheelchair chasing ducks through a street, naked people jumping on the hood (in Austin, of course). The one thing they really haven’t seen? Snow. But Urmson addressed that.
+
+
+
+Advertisement
+
+The real reason why Google’s cars can’t drive well in the snow isn’t necessarily because robots are shitty drivers in weather. It’s due to mapping technologies that aren’t able to recognize a landscape that’s suddenly covered with six feet of snow. “The map we use doesn’t work when the world changes,” said Urmson. In fact, the ways Google’s cars respond to traction and steering issues in inclement weather are still better than humans. But it’s for that reason that autonomous technology will likely come to places where the weather is better first. Like California.
+
+Autonomous tech in the US will likely be adopted in the same way as Google’s tech.
+
+This helped to prove another salient point. Urmson acknowledged that if you read about self-driving cars you might believe they’ll be here in three years or 3o years—and the answer is both. The way the tech will roll out is most likely in the way Google has rolled out the technology: First freeway driving (which is easier), then boulevard driving, and then the more complicated, active urban streets.
+
+He also pointed to the bigger infrastructural changes that self-driving technology will bring. “Imagine a world where the urine-scented concrete bunkers at the center of every city can be turned into residential and park space.” He was speaking about the ability to get rid of parking garages in a country where there are an average of four parking spaces for every vehicle.
+
+Chris Urmson speaking at SXSW
+
+As I’ve mentioned before, Urmson is a fantastically engaging speaker who is doing a lot to make Google’s project much more approachable just by making these appearances. And by addressing the safety concerns so transparently, he certainly convinced a few more people that autonomy is the best and only way forward for US streets. Anything is better than 40,000 people dying on them every year.
+
+Advertisement
+
+“We’re going to have another day like our Valentine’s Day, and we’re going to have worse days than that,” said Urmson, but it’s too important not to move forward with the technology. “I know that the net benefit will be better for society.”

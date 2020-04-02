@@ -1,0 +1,47 @@
+Editors' note:This post is part of an ongoing series. For the other parts, check out the related stories.
+
+If you've been following this series, you'll know that I explained the LAN and WAN ports on a home router in part 1. And now, I need to tell you how you can use this information to remotely access your device at home. For example, if you know how to use Remote Desktop, a built-in feature of Windows, to control a computer in a different room of your home, how about doing that from somewhere away from home, and save yourself from having to pay for similar services such as LogMeIn or GotoMyPC?
+
+That and a lot more are totally possible if you know how to configure your home router. And to do that, there are a few things that you need to understand, including, WAN, LAN, Dynamic DNS, and Port forwarding (aka Virtual Server). While all this might seem overwhelming and technical, it's quite easy if you're familiar with a router's Web interface. Indeed, it makes a great weekend project, and the result is rewarding. Just make sure you always back up your router's settings before making any changes.
+
+Dong Ngo/CNET
+
+WAN
+
+WAN stands for Wide Area Network and is the IP address given to you by the Internet service provider. This address is unique on the Internet at any given time. At home, when you have a home network with multiple devices, such as tablets, computers, and so on, the WAN IP address is assigned to your router, which explains why all routers have a WAN, or Internet, port. This is the port that takes in the WAN address. So in other words, the WAN address is unique for each home (or office) network. In most cases, for a home or an office, a computer doesn't get to use the WAN IP address, which stays with the router.
+
+Note: it's IPv4 that I'm talking about here. While IPv6 is available, virtually all consumer-grade Internet applications and services still use or support IPv4. And this is going to be the way things are for the foreseeable future.
+
+LAN
+
+In order for each device, such as a computer, to connect to the router (and from there the Internet) it has to have an IP address of its own. This IP address is a LAN (or Local Area Network) address that the router has assigned to the connected devices. The router retains the WAN IP for itself and shares that Internet connection to all devices connected to it. It does this using a function called NAT (or network address translation). You don't need to know about NAT -- it's just a methodology primarily used today to conserve the limited amount of IP addresses of the IPv4. With NAT, a home router can use just one WAN IP address to bring the Internet to up to 254 clients.
+
+To understand the different between a WAN and a LAN IP address, just imagine WAN is the street address of an apartment building and LAN is the number of an apartment within that building. Different apartments in separate buildings can have the same apartment number, but their street addresses (WAN) are always unique.
+
+Dynamic DNS
+
+If you are at home right now, from your computer go to whatismyipaddress.com -- what you see there is your WAN IP address. Now if you travel away from home, that IP address is what you can use to access your home. In fact, if you have your router's remote management feature turned on, that IP address is what you need to access your router remotely.
+
+For security reasons, if you decide to turn on the remote management feature of your home router (also known as Web Access from WAN), which is generally accessible in the Administration or System part of a router's Web interface, make sure you change the default admin password to something secure, and also consider changing the port number to something other than the default (which is 8080). It's generally a good idea to change the default port numbers for known services/applications.
+
+Now remembering that WAN IP address is not easy, and on top of that, most residential broadband plans come with a dynamic WAN IP address that changes periodically. It's better to translate that address into something constant and easy to remember. To do this, you use a Dynamic DNS (DynDNS or DDNS) service. A lot of vendors, such as Asus or Synology, offer this service for free, and it can be activated from within their networking devices. You can always use DynDNS.org, too.
+
+Dong Ngo/CNET
+
+A DynDNS service allows you to create a custom domain, such as myhome.homefpt.net or cnettemp.homeip.net, something much easier to remember than a string of numbers and dots. The actual name of this domain depends on availability and, like all domains, once created is unique on the Internet. After a custom domain has been created, there are a few ways you can associate it to a WAN IP address: by running a DynDNS client on a computer within your home network; attaching it to a NAS server within your home network; or assigning it to the home router. Most, if not all, home routers come with the ability to host a Dynamic DNS address, which can be managed using its Web interface (for more, check out part 5.)
+
+That said, for example, if you have picked myhome.homefpt.net as your DynDNS address and use the 8080 port for your router management feature. When you're away from home, you can just point a browser to myhome.homefpt.net:8080 to access your router's Web interface and manage your home network remotely. This works with almost all home routers, except for those from Apple.
+
+Dong Ngo/CNET
+
+Port forwarding
+
+Now that you can access your home router, the second part is going past the router and accessing a particular client on your home network (i.e., a computer). In reality, this means remotely accessing a service hosted by that computer. To do this, first you need to activate that service on the particular computer (that is, make sure the Remote Desktop feature is enabled on the computer), and then configure the router to forward that service's port to that computer involved. Most services have their own default port. As mentioned above, the default port number of a router remote management is 8080. Similarly, the default port for the Remote Desktop service is 3389.
+
+In many routers, the port forwarding feature is also called Virtual Server. It basically requires you to type in the computer's local IP address, the port number (or port range), and save that configuration. To continue with our example of Remote Desktop, if your Windows computer has the local IP address of 192.168.1.100, then forwarding the port 3389 to this IP address will allow you to control it using Remote Desktop from anywhere in the world, using the DynDNS address the router has been associated with. Note that while the Remote Desktop client software is available for all Windows (and downloadable for Macs), only machines running the Pro, Business, or Ultimate editions of Windows can be used as the target for a Remote Desktop connection.
+
+Dong Ngo/CNET
+
+That said, with DynDNS, you can run a lot of services from home. Here are a few default ports and their services: 80 (HTTP, for a Web server), 3389 (Remote Desktop), and 21 (FTP, for a FTP server).
+
+Note that, a computer's local IP (LAN) address can also change after a restart. To make it remains the same, you can use the IP (or DHCP) Reservation feature of the router.

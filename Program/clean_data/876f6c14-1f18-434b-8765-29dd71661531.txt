@@ -1,0 +1,41 @@
+Many chief technology officers study technology, consider different architectures and challenge their team to deliver products and services. The problem with this approach is that many CTOs today no longer maintain application development proficiencies.
+
+The CTO is often at the mercy of many differing opinions within their organization without the important understanding, in some level of depth, the challenges, capabilities or even limitations that certain platforms present.
+
+Worse yet, when a CTO completely relies on the advice of his or her engineers, that advice may simply be based on the preexisting comfort levels of the designers, programmers and architects. When you’re consistently taking the word of others and haven’t maintained enough skill to perform basic discovery for yourself, you, as a CTO, are significantly diluting the power you have in driving true digital transformation for your company.
+
+My current chapter
+
+When I joined Kony and saw their technology, I knew it was something I not only could stand behind, but something I could extend. Shortly after joining, while in the process of deep diving into strategy, I decided on one important thing — to become as proficient in the platform as I possibly could. I was not going to simply review PowerPoint decks, read white papers or do web research, I was going to dive headfirst into our platform capabilities and learn the skills needed to shape those capabilities into world-class business to enterprise and business-to-consumer solutions.
+
+My full first week of work was spent meeting my teams in Hyderabad, India. The week I returned I was fortunate enough to have an onsite developer boot camp in progress — so I jumped right in. I mean, what could they say, really? I was the CTO — and I would have sat on the floor in the back of the room if I had to.
+
+Why is he here?
+
+I think at first they thought I was auditing the class, kind of just testing the water, evaluating our developer education program. Not the case. I was there to learn — side by side with the other developers — both internal and external.
+
+After the week-long class, which covered both front-end development and back-end services integration, the instructor mentioned a certification program for our platform. I thought, what better way to learn than by accepting the challenge of building a complete, non-trivial, end-to-end app. So I did.
+
+I compel CTOs worldwide, no matter your discipline, to get your hands dirty with the technologies you are evaluating.
+
+With the other assimilation I was involved in, I worked on my certification assignment for a few weeks in my spare time (nights, weekends — and, yes, I snuck in some daylight time on it, as well) and completed the app. I notified the education coordinator and we scheduled a time to review. The review was thorough, as I took the coordinator and instructor step by step thru the code via WebEx. They made sure I was caching resources when I needed to, and that all the requirements of the application, including animations, segmented widget handling, web services definitions and integrations were appropriate. Then the verdict: I passed. I was a certified Kony developer.
+
+Since that time, the certification and, most importantly, the effort that went into it, has paid valuable dividends. I truly understand the platform capabilities and can easily relate complex ideas and transformational concepts directly to our architects, developers, executive team and customers.
+
+The same is true for third-party components and technologies that integrate into solutions via our platform. My sleeves remain rolled up, which allows me to make sure the components really work. Actually, I wouldn’t have it any other way.
+
+My advice out of all of this
+
+Know the technology you’re considering integrating into your own platforms and workflows. Own your knowledge.
+
+See what real developers are saying about the tech and validate approaches. I use stack overflow all the time. Even then I consider approaches that deviate from the mainstream. After all, the mainstream is not exactly at the center of innovation and transformation.
+
+Embrace your ability to learn.
+
+Be careful not to get so immersed in the minutia that you lose sight of your overall responsibility to drive technology at a broad level.
+
+Choose platforms and technologies that can reduce the time to market for solutions.
+
+I realize there is a diversity of CTOs throughout enterprise today, including pharma, fintech, aerospace and retail — to name a few. Also, there may be domain-specific reasons why a CTO in a company may or may not still regard coding as a valuable skill. But I compel CTOs worldwide, no matter your discipline, to get your hands dirty with the technologies you are evaluating.
+
+Bill Bodin is the CTO at Kony, a rapidly growing cloud-based enterprise mobility solutions company. He has expertise in mobile computing and development, innovation, transformation, patents and ideation within various industry verticals, including telematics, consumer electronics and health care. Reach him @BillBodin.

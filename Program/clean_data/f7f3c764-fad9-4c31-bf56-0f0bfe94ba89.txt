@@ -1,0 +1,76 @@
+We've shown you how to build a Hackintosh with enough power to rival a Mac Pro, but for those of you who want a still powerful Mac on a budget you can build a Hack Mini. We'll show you what you need to build it and walk you through the entire OS X installation.
+
+UPDATE: Check out this updated option if you want an Ivy Bridge-based Hack Mini. For help building it, consult our always up-to-date guide to building a hackintosh.
+
+Hackintoshing used to be a complicated process, but since Hackintosh expert tonymacx86 came around it's gotten a lot easier. While I've been hackintoshing netbooks for awhile, I always shied away from building a machine because I was concerned about stability issues. After seeing how well Pash's and Whitson's Hackintoshes ran, and seeing how slow my less-than-a-year-old iMac had become, I decided it was time to do it. I've had one week with the Hack Mini and so far it's actually more stable than my iMac. It's also twice as fast (according to benchmarks) and cost half as much (if you already have an extra monitor). The whole process was very easy and produced a better machine. While I had Whitson around to help me out, if you have some knowledge of how to build a computer this is likely something you can do. I am still surprised that the process was so easy and that the machine is so fast for so little money. Now it seems silly to ever buy a Mac desktop again.
+
+What You'll Need
+
+At the time of this writing, the parts necessary for this build came to a total of $599.65. There are certainly other, potentially cheaper components you could use to make your Hack Mini but we know this build works. It's heavily based upon TonyMac's CustoMac Mini build, using only a few parts that are a little different (but work all the same). We built this one ourselves, adding a few extras like an SSD (which is optional, to keep the build under $600), and it runs beautifully. Here's what you'll need:
+
+Note: If you're like me and don't need an optical drive, don't try to build this machine without one. You need an internal optical drive or you will not be able to complete the entire process.
+
+Advertisement
+
+Another note: The VGA port on your video card isn't going to work. DVI and HDMI will work just fine, but don't plug anything in to the VGA port or you will be disappointed.
+
+Total cost: $587.94
+
+Once you've got all the hardware in hand, you'll need to assemble your computer. Building a Hackintosh isn't any different than building a regular PC. You'll need to mount the motherboard to your case, install all the components listed above, and plug in all the necessary cables. If you're not sure of anything, read the manual for the motherboard. It's worth noting that the GA-H55N (the motherboard used in this build) uses some less-than-usual names when labeling everything, but you won't have any trouble figuring out what's what. If you're new(-ish) to the computer building process, have a look at our guide to building a computer from scratch.
+
+Once you've finished putting it all together, turn on the machine and make sure you see your BIOS screen, which will include its firmware version (3, 4, or 5). Write down the firmware version now. You will need it later. If everything looks good, it's time to start hackintoshing.
+
+Installing Mac OS X 10.6
+
+Now we need to install OS X, which is where things get a little trickier and much more specific. Read these instructions carefully and follow them in the exact order they are written. If you do something out of order you may have to start again from scratch. With that in mind, here's what you're going to need for a successful installation:
+
+To get the DSDT file you need, go here and choose the following from the "Choose your Motherboard" drop-down menu:
+
+Gigabyte
+
+Socket 1156
+
+H55
+
+GA-H55N-USB3
+
+From there you'll see options for F3, F4, and F5. These numbers correspond to the firmware versions on your motherboard. Assuming you did, indeed, write down the firmware version in your BIOS when you test-booted the machine earlier, you'll know which one of these options to pick. If not, test boot again and look for the firmware version on the BIOS boot screen. It's most likely F5, but don't guess. Guessing wrong means your Hackintosh will not work properly.
+
+Prep Your Tools
+
+First, take the iBoot.iso image you downloaded and burn it to a CD. It has to run on a CD. It will not work from a thumb drive. You can also burn a CD with MultiBeast, Lnx2Mac's Realtek driver installer, and the DSDT file you just downloaded, but I prefer to just toss all of these files on a Mac-friendly thumb drive.
+
+Advertisement
+
+Once all of that's ready, insert your iBoot CD and plug in your USB thumb drive (or external optical drive with the Snow Leopard install DVD inside). Also plug a USB keyboard into one of the frontside USB ports on your Hack Mini. (While the ports in the back should work during boot time they didn't for me, but there were no issues with the ones up front.) Next, turn on your Hack Mini and hold the delete key while it boots. This will let you edit your BIOS settings and select a boot order. Once the edit screen loads, follow these steps:
+
+Choose "Advanced BIOS Settings." If "Quick Boot" is enabled, disable it. Set the "First Boot Device" to CDROM. Set the "Second Boot Device" to Hard Disk. (The third can be set to whatever you want.) If you have more than one hard drive installed, go up to "Hard Disk Boot Priority" and hit enter. Make certain that the hard disk you're going to use for Mac OS X is up at the top. If not, move it to the top by selecting it with the arrow keys and pressing the Page Up key until it gets there. Note: this is just for hard disks—your optical drive is still first on the list from the change you made earlier. Press the escape key until you get to the main BIOS settings page (where you started). Press F10 to save your changes. You'll be asked if you're sure you want to do this. Type Y if there isn't already a Y typed for you and press enter.
+
+If you haven't already inserted your iBoot disc into your optical drive, now's that time to do it. Your Hack Mini should now (slowly) boot using iBoot and provide you with any startup discs it sees. What you'll need to do now is eject the iBoot disc, insert your Snow Leopard DVD, and boot from it (by selecting it, if necessary, and pressing enter). You should now see the grey Apple boot screen and, soon, the OS X installer.
+
+Run the OS X installation just like you would on any other Mac. In order to do this, you may need to format your internal hard drive first. If you do, just open the Utilities menu and choose Disk Utility. You'll be able to format your hard drive (or SSD) from there.
+
+Once the installer finishes it may say it failed to install OS X. This did not happen with me but it's a common quirk with Hackintosh installations. If it happens to you, don't panic—everything is just fine. Go ahead and restart your machine and leave your iBoot CD in the optical drive. When you boot this time, you'll have a new option: your hard drive. Boot from it and you'll be on your new OS X desktop in minutes.
+
+Configure Your New Hack Mini
+
+You've installed OS X just fine, but your machine still needs drivers to work properly and a bootloader to boot without the aid of a CD. To do that, you're going to need to install a few things and it needs to be done in a very specific order. If you stray from this order there's a good chance you'll run into problems, so follow these instructions carefully.
+
+Advertisement
+
+Note: It may look like things are missing here, as we're not checking any boxes to install bootloaders or graphics drives, but don't worry—MultiBeast will take care of it all for you.
+
+Copy the DSDT file you downloaded to the desktop. Open up MultiBeast and Lnx2Mac's Realtek driver installer but do not install anything Open the Mac OS X 10.6.8 Combo Installer and run it. When it finishes, do not restart. With MultiBeast open, choose check the following boxes: UserDSDT Install System Utilities Drivers & Bootloaders -> Kexts & Enablers -> Audio -> Realtek ALC8xx -> ALC8xxHDA Drivers & Bootloaders -> Kexts & Enablers -> Audio -> Realtek ALC8xx -> AppleHDA Rollback Drivers & Bootloaders -> Kexts & Enablers -> Disk -> JMicron36x (AKA GSATA) -> JMicron36x SATA Drivers & Bootloaders -> Kexts & Enablers -> Miscellaneous -> FakeSMC Plugins Drivers & Bootloaders -> Kexts & Enablers -> Miscellaneous -> USB 3.0 - NEC/Renesas Anything in the OSx86 Software category you want to install (but none of it is required) Click the Install button on MultiBeast and wait for the installer to finish. Install Lnx2Mac's Realtek 81XX driver (make sure you check the release version and not the debug version during installation). Eject the iBoot CD and click the Restart button on your Mac OS X 10.6.8 Combo Update's installer window. Make sure your sound and Ethernet are working. If not, you may have done something wrong and will need to run MultiBeast again to install those drivers. Once you've got all of that working, there's one last thing to do. Re-run MultiBeast and select just one option: Customization -> Boot Options -> 64-Bit Apple Boot Screen. This will make your graphic's card run at full capacity, utilize OS X's 64-bit capabilities, and a bunch of other little nice enhancements as well. Once you've installed this option, reboot and you're done.
+
+The only thing that won't work after a successful installation is HDMI audio, but there is a way to get this working. Tonymacx86 has posted a process to get functional HDMI audio on most Hackintoshes, including this one. Since it isn't vital we're not going to cover it here, but if HDMI audio is important to you then you will want to read those instructions.
+
+Congratulations, you now have your very own Hack Mini!
+
+The Future
+
+The nice thing about putting together this Hack Mini right now is that you'll end up with OS X 10.6.8—likely the final update to Snow Leopard. This means that so long as you stick with Snow Leopard your machine will run fine. If you want to update to Lion in the future, keep an eye on tonymacx86.com for updates. We'll also be building a Lion-based machine later this Summer, so stay tuned.
+
+You can follow Adam Dachis, the author of this post, on Twitter and Facebook. Twitter's the best way to contact him, too.
+
+
+

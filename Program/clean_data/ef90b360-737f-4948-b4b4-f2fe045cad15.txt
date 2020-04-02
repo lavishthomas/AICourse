@@ -1,0 +1,143 @@
+We talk about data every day – sessions, visits, conversions, pages, hits, etc. etc. etc. But sometimes we fail to understand how all of these metrics fit together and where they come from. Let’s take a look at how digital analytics tools organize data.
+
+All digital analytics data is organized into a general hierarchy of users, sessions and hits. It doesn’t matter where the data comes from, it could be a website or a mobile app or a kiosk. This model works for web, apps or anything else.
+
+Sometimes we use the terms visitors instead of users and visits instead of sessions – they’re analogous. The onset of mobile devices (and other devices, like set top boxes) have prompted us to introduce new terms into our vocabulary.
+
+It’s important to understand each piece of the hierarchy and how it builds on the other to create a view of our customers and potential customers. Because, at the end of the day, we need to use this data to evaluate our decisions and look for new business opportunities.
+
+Let’s start at the bottom, with hits, and work our way up to users.
+
+Hits
+
+A hit is the most granular piece of data in an analytics tool. It’s how most analytics tools send data to a collection server. In reality, a hit is a request for a small image file. This image request is how the data is transmitted from a website or app to the data collection server.
+
+There are many different kinds of hits depending on your analytics tool. Here are some of the most common hits in Google Analytics:
+
+Pageviews/Screenviews: A pageview (for web, or screenview for mobile) is usually automatically generated and measures a user viewing a piece of content. A pageview is one of the fundamental metrics in digital analytics. It is used to calculate many other metrics, like Pageviews per Visit and Avg. Time on Page.
+
+Events: An event is like a counter. It’s used to measure how often a user takes action on a piece of content. Unlike a pageview which is automatically generated, an event must be manually implemented. You usually trigger an event when the user takes some kind of action. The action may be clicking on a button, clicking on a link, swiping a screen, etc. The key is that the user is interacting with content that is on a page or a screen.
+
+Transactions: A transaction is sent when a user completes an ecommerce transaction. You must manually implement ecommerce tracking to collect transactions. You can send all sorts of data related to the transaction including product information (ID, color, sku, etc.) and transactional information (shipping, tax, payment type, etc.)
+
+Social interaction hit: A social interaction is whenever a user clicks on a ReTweet button, +1 button, or Like button. If you want to know if people are clicking on social buttons then use this feature! Social interaction tracking must be manually implemented.
+
+Customized user timings:User timings provide a simple way to measure the actual time between two activities. For example, you can measure the time between when a page loads and when the user clicks a button. Custom timings must be implemented with additional code.
+
+That’s a lot of hit types!
+
+All hit types are sent to Google Analytics via a tracking code. The tracking code variation depends on what you are tracking. If you are tracing a website then JavaScript code, named analytics.js, generates the hits. If you are tracking a mobile app then an SDK (either Android or iOS) generates the hits. If you are tracking a kiosk, then YOU generate the hits with the measurement protocol.
+
+Regardless of the hit type, the hits are all formatted in a similar manner. They are a request for an invisible image and contain data in query string parameters.
+
+http://www.google-analytics.com/collect?v=1&_v=j16&a=164718749&t=pageview&_s=1&dl=http%3A%2F%2Fcutroni.com%2F&ul=en-us&de=UTF-8&dt=Analytics%20Talk%20-%20Digital%20Analytics%20for%20Business&sd=24-bit&sr=1920x1080&vp=1308x417&je=1&fl=12.0%20r0&
+
+_utma=32856364.1751219558.1391525474.1391525475.1391525475.1&
+
+_utmz=32856364.1391525475.1.1.utmcsr%3D(direct)
+
+%7Cutmccn%3D(direct)%7Cutmcmd%3D(none)&_utmht=1391525534970&
+
+_u=cACC~&cid=1751219558.1391525474&tid=UA-91817-11&z=378275262
+
+For all the nerds out there, the data hits can be sent via a GET request or a POST request. This is really important to know, because the amount of data can change. With a GET request you can only send 2048 characters of data. Technically a post can be any length (it’s a setting on most servers), but it’s around 8000 characters when sending data to Google Analytics.
+
+The information in a hit is transformed into dimensions during processing. Every report is just a single dimension, and the corresponding metrics for each value. that you see in your reports.
+
+A quick note on mobile…
+
+The mobile SDKs do not send data in real time. They actually store the hits locally and them send them in bursts. This is called dispatching and it’s used for a couple of reasons. First, mobile devices are not always connected to a network. So analytics must store the hits until it detects a connection and then it sends the hits. Second, sending hits in a bunches can help conserve battery life. Don’t worry, dispatching does not impact session calculations – which we’ll talk about right now :)
+
+Session
+
+A session is simply a collection of hits, from the same user, grouped together. By default, most analytics tools, including Google Analytics, will group hits together based on activity. When the analytics tool detects that the user is no longer active it will terminate the session and start a new one when the user becomes active.
+
+Most analytics tools use 30 minutes of inactivity to separate sessions. This 30-minute period is called the timeout.
+
+Google Analytics, and most tools, use the time between the first hit and the last hit to calculate the time on site. The time between hits is also used to calculate other metrics, like time on page. You can read more in my overview of how Google Analytics performs time calculations.
+
+Most tools let you change the default timeout to better suit your needs. For example, if you have a lot of video on your site you might want to change the timeout – especially if your video last more than 30 minutes.
+
+Why?
+
+If a user is watching a 60 minute video (and by watching I mean that no other hits are sent to analytics) their session will end 30 minutes after the first hit. To insure that the session lasts until the end of the video you could change the timeout to match the longest video length.
+
+OR, a better way to extend the session, would be to send additional hits while the user is watching the video. Think about it – more hits create more data points that can be used to calculate time. Trust me, take 12 minutes to read more about how Google Analytics performs time calculations.
+
+Now that we know that hits are grouped together into sessions, let’s look at how sessions are grouped based on users.
+
+Users
+
+Here’s where things start to get interesting. A user is the tools best-guess of an anonymous person. Users are identified using an anonymous number or a string of characters. The analytics tool normally creates the identifier the first time a user is detected. Then that identifier persists until it expires or is deleted.
+
+The identifier is sent to the analytics tool with every hit of data. Then the analytics tools can group hits (and thus sessions) together using the identifier in the hits.
+
+Make sense?
+
+Here’s how users are detected on some of today’s most common digital platforms.
+
+Website Users
+
+To measure a user on a website almost all analytics tools use a cookie. A cookie is a small text file. The cookie contains the anonymous identifier. Every time a hit is sent from the browser back to the analytics server identifier stored in the cookie is sent along with the data.
+
+Now let’s have the cookie talk.
+
+Google Analytics uses a first party cookie. A first party cookie is connected to the domain that creates it. A first-party can only be used by the domain that sets it. So on this site, the cookie has a domain of cutroni.com and can only be used by this website.
+
+In Universal Analytics the cookie is named _ga and lasts for two years. In the previous version of Google Analytics the cookie was named __utma .
+
+The good thing about a first party cookie is that almost all browsers will allow a first party cookie. It’s a very reliable piece of technology.
+
+First party cookies are challenging when your site spans multiple domains. When a user leaves your site, and traverses to another site that you own, they do not take their first party cookies. In most situations, unless you configure analytics correctly, analytics will set another cookie when the user lands on the second domain.
+
+Now you have one user with two cookies. That could lead to double counting of users. Plus, if we want to create really cool metrics, like Revenue per user, it becomes very, very hard because we don’t know the true number of users.
+
+The other type of cookie, a third-party cookie, can be set and accessed by domains other than the domain that creates it. Some analytics tools will let you use a third party cookie.
+
+The value of a third party cookie is that the analytics tool can use a third party cookie to identify a user as they move from one domain to another.
+
+However, third-party cookies are not permitted by most browsers – that means no data.
+
+Google Analytics does not use a third party cookie. You can read all about the Google Analytics cookies in the developer documentation.
+
+So what’s the solution here? How do you correctly identify a user if your website spans multiple domains? In the Google Analytics world we use a feature called Cross Domain Tracking. I’m not going to talk about it in this post, but you can read about it in our support documentation.
+
+Mobile Users
+
+Now let’s move on to mobile platforms – something that is very popular :)
+
+Mobile tracking is similar to web tracking. There is an anonymous identifier stored on the device. The identifier is generated every time the app is installed. So if a user deletes the app the identifier will also be deleted. But if a user updates the app the identifier will not change.
+
+The big difference between mobile and web is that the identifier is not stored in a cookie. It’s stored in a database on the mobile device – but it basically functions the same way as a cookie. The identifier is sent on every hit back to the analytics server. The analytics server then uses the identifier to create metrics like unique users.
+
+Here’s one challenge with user measurement on an app. Many apps are not just an app. They’re a hybrid app/website. They use a browser within the app to “frame” content from a website. This can mess up the data collection.
+
+In this situation we have two technologies with two different user identifiers. The app will measure a user based on the ID stored on the device and the website will use a cookie when a page loads in the app.
+
+There are some ways around this, but it’s a long solution that need it’s own blog post. But just be aware of this potential data issue.
+
+Ok, so now we know about website users and mobile users. But what about other digital touch-points, like a kiosk?
+
+Other Digital Touch-points
+
+In today’s world a user can interact with your digital content on lots of different devices (computers, mobile, kiosks, set top boxes, etc.). And that can cause a lot of issues as tools try to de-duplicate users and get an accurate count of users.
+
+One of the key features of Universal Analytics is the ability to track users on devices other than websites and mobile devices, things like a point-of-sale system or a kiosk. It does this using a technology called the measurement protocol.
+
+But how does it actually work?
+
+The measurement protocol works by – wait for it – collecting hits :) These are the same hits that I described above. The big difference is that you must manually build the hits. So if you want to implement analytics on a kiosk, you must create MORE code to build the hits that are sent to Google Analytics.
+
+But what about measuring users when you use the measurement protocol?
+
+When you create the hit you must insert a user identifier into the hit. Google Analytics will then use this identifier as the unique identifier when it processes the data.
+
+Unlike websites and mobile apps, there is no cookie or database to store the identifier. So the ID does not persist from one hit to another, or from one session to another. You must manually insert the identifier into every hit in every session.
+
+Your code must control the generation of the identifier and the storage of the identifier.
+
+Let’s end it there. That’s a pretty good overview of digital analytics data.
+
+I know this was a really geeky post, but it’s an important subject and will become more and more important.
+
+Now it’s your turn. Thoughts? Please feel free to leave a comment.

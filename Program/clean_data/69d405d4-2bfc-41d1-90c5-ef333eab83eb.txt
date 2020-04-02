@@ -1,0 +1,67 @@
+Google Analytics is one of the best free data analysis tools on the web. But having this powerful tool at your disposal is irrelevant if you don’t know how to harness its potential. People say you can’t teach an old dog new tricks, but whether you’re a beginner at analytics or an expert, there is untapped wisdom in the posts below.
+
+For Beginners
+
+These posts should guide you through getting Google Analytics set up and getting started.
+
+Data Segmentation
+
+The ability to segment data is one of the most important aspects of Google Analytics. It will allow you to compare data and make judgments.
+
+16 Google Analytics Advanced Segments Tips – A combination of different segments you can apply to your analytics data to get insight. Examples include segmenting based on which type of traffic spends the most or which type of traffic bounces immediately. Segment Average Visit Duration in Analytics – See how you can get a better view of what average visitor duration means by segmenting your traffic. Google Analytics: Tracking Demographics of Ecommerce Visitors – A blog post on how to get demographic reports and how to analyze this data. Calculating the ROI of Your Marketing Channels – Shows you how to capture campaign data to calculate your return on investment and ad spending.
+
+Small Business Analytics
+
+Every small business needs to know how to measure ROI from digital channels. These guides should make that a little easier.
+
+Universal Analytics
+
+Universal Analytics is a fairly new topic but one that (if fully understood) can provide business insight to impact the bottom line.
+
+Complete Guide To Universal Analytics – Should you switch to Universal Analytics? This article aims to give a hint at whether you should and how to set it up successfully. Universal Analytics: The Benefits and How to Upgrade – An infographic on the benefits of Universal Analytics, what it brings to the table, and things you should be aware of (such as making sure your remarketing programs support Universal Analytics). Advanced Content Tracking with Universal Analytics – Ever wondered whether your readers are actually reading? Well, you’ll be able to find out with this JavaScript code. It allows you to see how far they’re getting and will surely be useful with Universal Analytics.
+
+Analytics for Conversion Rate Optimization
+
+Conversion rate optimization is a hot topic and one that often is used in conjunction with Google Analytics. Understand how to comprehend key features and how to run a split test, and you should be well on your way to gaining conversion uplift.
+
+Building Your Marketing Funnel with Google Analytics – Having trouble understanding which marketing channels are working best? Read this guide on how to segment your data with Google Analytics and discover opportunities for growth. Tracking Product Journey from Carting to Purchasing – If you own an e-commerce website, then this PDF guide is a must read. It will tell you exactly what you’ll need to track, from conversion rate to whether someone has removed an item from their cart. How to Run an A/B Test in Google Analytics – A guide to implementing A/B testing in Google Analytics.
+
+Reporting and Excel
+
+If you work agency side, then reporting will be a large factor in maintaining your relationship with your client/boss. Brush up on the articles below to see how you can get even more value from your weekly/monthly reporting.
+
+10 Optimization Experts Share Their Favorite Google Analytics Reports – Ten experts chime in on their best reports for conversion within Google Analytics. Even if you use just one report, it would be worth your time to read it. 21 Real-World Examples Of Concatenating Marketing Data In Excel – Concatenating often is an under-utilized but powerful command within Excel. Annie from Annielytics provides 21 examples of using this command effectively.
+
+Goal Tracking
+
+Goal tracking is one of the first things you should aim to do on any website once you’ve defined your business objectives. Read the guides below to understand why it’s important and how to do it.
+
+Guide To: Goals And Funnels In Google Analytics – Goals are fundamental to tracking your website’s success. This guide will demonstrate how to set up goal tracking and gives examples of what you should consider tracking. Why to Define Macro and Micro Goals – Understanding the difference between macro and micro goals is very important and will help greatly when setting up goals.
+
+Advanced Guides
+
+This section goes into the deeper elements of Google Analytics and some of the more obscure/complicated topics that are fairly new to the industry.
+
+Google Analytics Exam
+
+If you want to be seen as more credible within the industry, then an official Google Analytics certificate can come in handy.
+
+Google Analytics Test – This is a super test aimed at helping you pass the individual analytics qualification. With over 200 questions, there is plenty of opportunity to learn and develop. Analytics Academy by Google – If you’re serious about learning analytics, then the official learning resource center of Google is a good place to start. With video tutorials and a mock assessment at the end of each module, you’ll be able to track progress and note areas where you need to improve.
+
+Tips, Tricks, and Tools
+
+There always are cool things you can do with data. Some of the tips, tricks, and tools below should inspire your creativity.
+
+Expert Analytics Blogs
+
+The best way to become the best is to learn from the best. The blogs below are compiled by experts that have years of experience in analytics and can teach you more than a trick or two.
+
+KISSmetrics Google Analytics Blog Posts – Read up on what KISSmetrics has produced over the years around Google Analytics and you’re sure to come away with something valuable. Online Behavior Analytics Blog – A blog dedicated to marketing analysis and optimization. Also has a video section if you’re more of a visual learner. Occam’s Razor – Avinash Kaushik has contributed a lot of thought leadership to the analytics industry over the years. Give his blog a read, but be sure to have a notepad next to you. Official Google Analytics Blog – The official Google Analytics blog is the first place you’ll find out about recent updates to the interface or a new feature being rolled out. Justin Cutroni’s Blog – Justin is an analytics evangelist at Google and produces some really insightful posts. Some may be a bit technical, but by the end, you’ll be wondering what Google Analytics can’t do.
+
+Books
+
+As well as blogs, books are another medium for learning. The two books we recommend below are written by well-respected authors within this industry. Well worth the investment.
+
+Web Analytics 2.0 (Avinash Kaushik) – This book has been cited by many industry experts as being one to read. It ties in all aspects of analytics and makes advanced principles easier to understand. Advanced Web Metrics with Google Analytics (Brian Clifton) – A book produced by another respected figure (Brian Clifton). Read this to increase your depth of knowledge in more of the advanced metrics.
+
+About the Author: Ted Parry works in the search department of an award winning digital marketing agency in the UK. He blogs over at http://www.digiresults.co.uk/ where he also offers SEO services to small businesses. If you’re a new business or one that’s never done SEO before, he might just offer you a free consultation or web audit. You can follow him on Twitter or add him on Linkedin.

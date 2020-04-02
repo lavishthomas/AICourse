@@ -1,0 +1,73 @@
+Can a galaxy (like NGC 3810 in this case) have a classical spiral structure and also be already dead? ESA/Hubble and NASA, CC BY
+
+Like a zombie, the Milky Way galaxy may already be dead but it still keeps going. Our galactic neighbor Andromeda almost certainly expired a few billion years ago, but only recently started showing outward signs of its demise.
+
+Galaxies seem to be able to “perish” – that is, stop turning gas into new stars – via two very different pathways, driven by very different processes. Galaxies like the Milky Way and Andromeda do so very, very slowly over billions of years.
+
+How and why galaxies “quench” their star formation and change their morphology, or shape, is one of the big questions in extragalactic astrophysics. We may now be on the brink of being able to piece together how it happens. And part of the thanks goes to citizen scientists who combed through millions of galactic images to classify what’s out there.
+
+Galaxies Grow By Making New Stars
+
+Galaxies are dynamic systems that continually accrete gas and convert some of it into stars.
+
+Like people, galaxies need food. In the case of galaxies, that “food” is a supply of fresh hydrogen gas from the cosmic web, the filaments and halos of dark matter that make up the largest structures in the universe. As this gas cools and falls into dark matter halos, it turns into a disk that then can cool even further and eventually fragment into stars.
+
+As stars age and die, they can return some of that gas back into the galaxy either via winds from stars or by going supernova. As massive stars die in such explosions, they heat the gas around them and prevent it from cooling down quite so fast. They provide what astronomers call “feedback”: star formation in galaxies is thus a self-regulated process. The heat from dying stars means cosmic gas doesn’t cool into new stars as readily, which ultimately puts a brake on how many new stars can form.
+
+Most of these star-forming galaxies are disk- or spiral-shaped, like our Milky Way.
+
+Left: a spiral galaxy ablaze in the blue light of young stars from ongoing star formation; right: an elliptical galaxy bathed in the red light of old stars. Sloan Digital Sky Survey, CC BY-NC
+
+But there’s another kind of galaxy that has a very different shape, or morphology, in astronomer-parlance. These massive elliptical galaxies tend to look spheroidal or football-shaped. They’re not nearly so active – they’ve lost their supply of gas and therefore have ceased forming new stars. Their stars move on far more unordered orbits, giving them their bulkier, rounder shape.
+
+These elliptical galaxies differ in two major ways: they no longer form stars and they have a different shape. Something pretty dramatic must have happened to them to produce such profound changes. What?
+
+Blue=Young And Red=Old?
+
+The basic division of galaxies into star-forming spiral galaxies blazing in the blue light of massive, young and short-lived stars, on the one hand, and quiescent ellipticals bathed in the warm glow of ancient low-mass stars, on the other, goes back to early galaxy surveys of the 20th century.
+
+But, once modern surveys like the Sloan Digital Sky Survey (SDSS) began to record hundreds of thousands of galaxies, objects started emerging that didn’t quite fit into those two broad categories.
+
+A significant number of red, quiescent galaxies aren’t elliptical in shape at all, but retain roughly a disk shape. Somehow, these galaxies stopped forming stars without dramatically changing their structure.
+
+At the same time, blue elliptical galaxies started to surface. Their structure is similar to that of “red and dead” ellipticals, but they shine in the bright blue light of young stars, indicating that star formation is still ongoing in them.
+
+How do these two oddballs – the red spirals and the blue ellipticals – fit into our picture of galaxy evolution?
+
+Galaxy Zoo allows citizen scientists to classify galaxies. Screenshot by Kevin Schawinski, CC BY-ND
+
+Send In The Citizen Scientists
+
+As a graduate student in Oxford, I was looking for some of these oddball galaxies. I was particularly interested in the blue ellipticals and any clues they contained about the formation of elliptical galaxies in general.
+
+At one point, I spent a whole week going through almost 50,000 galaxies from SDSS by eye, as none of the available algorithms for classifying galaxy shape was as good as I needed it to be. I found quite a few blue ellipticals, but the value of classifying all of the roughly one million galaxies in SDSS with human eyes quickly became apparent. Of course, going through a million galaxies by myself wasn’t possible.
+
+A short time later, a group of collaborators and I launched galaxyzoo.org and invited members of the public – citizen scientists – to participate in astrophysics research. When you logged on to Galaxy Zoo, you’d be shown an image of a galaxy and a set of buttons corresponding to possible classifications, and a tutorial to help you recognize the different classes.
+
+By the time we stopped recording classifications from a quarter-million people, each of the one million galaxies on Galaxy Zoo had been classified over 70 times, giving me reliable, human classifications of galaxy shape, including a measure of uncertainty. Did 65 out of 70 citizen scientists agree that this galaxy is an elliptical? Good! If there’s no agreement at all, that’s information too.
+
+Tapping into the “wisdom of the crowd” effect coupled with the unparalleled human ability for pattern recognition helped sort through a million galaxies and unearthed many of the less common blue ellipticals and red spirals for us to study.
+
+The galaxy color-mass diagram. Blue, star-forming galaxies are at the bottom, in the blue cloud. Red, quiescent galaxies are at the top, in the red sequence. The ‘green valley’ is the transition zone in between. Schawinski+14, CC BY-ND
+
+Unwittingly Living In The Green Valley?
+
+The crossroads of galaxy evolution is a place called the “green valley.” This may sound scenic, but refers to the population between the blue star-forming galaxies (the “blue cloud”) and the red, passively evolving galaxies (the “red sequence”). Galaxies with “green” or intermediate colors should be those galaxies in which star formation is in the process of turning off, but which still have some ongoing star formation – indicating the process only shut down a short while ago, perhaps a few hundred million years.
+
+As a curious aside, the origin of the term “green valley” may actually go back to a talk given at the University of Arizona on galaxy evolution where, when the speaker described the galaxy color-mass diagram, a member of the audience called out: “the green valley, where galaxies go to die!” Green Valley, Arizona, is a retirement community just outside of the university’s hometown, Tucson.
+
+For our project, the really exciting moment came when we looked at the rate at which various galaxies were dying. We found the slowly dying ones are the spirals and the rapidly dying ones are the ellipticals. There must be two fundamentally different evolutionary pathways that lead to quenching in galaxies. When we explored these two scenarios – dying slowly, and dying quickly – it became obvious that these two pathways have to be tied to the gas supply that fuels star formation in the first place.
+
+Imagine a spiral galaxy like our own Milky Way merrily converting gas to stars as new gas keeps flowing in. Then something happens that turns off that supply of fresh outside gas: perhaps the galaxy fell into a massive cluster of galaxies where the hot intra-cluster gas cuts off fresh gas from the outside, or perhaps the dark matter halo of the galaxy grew so much that gas falling into it gets shock heated to such a high temperature that it cannot cool down within the age of the universe. In any case, the spiral galaxy is now left with just the gas it has in its reservoir.
+
+Since these reservoirs can be enormous, and the conversion of gas to stars is a very slow process, our spiral galaxy could go on for quite a while looking “alive” with new stars, while the actual rate of star formation declines over several billion years. The glacial slowness of using up the remaining gas reservoir means that by the time we realize that a galaxy is in terminal decline, the “trigger moment” occurred billions of years ago.
+
+A Hubble image of part of the Andromeda galaxy, which like our Milky Way may be a galactic zombie. NASA, ESA, J. Dalcanton, B.F. Williams and L.C. Johnson (University of Washington), the PHAT team, and R. Gendler, CC BY
+
+The Andromeda galaxy, our nearest massive spiral galaxy, is in the green valley and likely began its decline eons ago: it is a zombie galaxy, according to our latest research. It’s dead, but keeps on moving, still producing stars, but at a diminished rate compared to what it should if it were still a normal star-forming galaxy. Working out whether the Milky Way is in the green valley – in the process of shutting down – is much more challenging, as we are in the Milky Way and cannot easily measure its integrated properties the way we can for distant galaxies.
+
+Even with the more uncertain data, it looks like the Milky Way is just at the edge, ready to tumble into the green valley. It’s entirely possible that the Milky Way galaxy is a zombie, having died a billion years ago.
+
+Kevin Schawinski, Assistant Professor of Galaxy & Black Hole Astrophysics, Swiss Federal Institute of Technology Zurich
+
+This article was originally published on The Conversation. Read the original article.

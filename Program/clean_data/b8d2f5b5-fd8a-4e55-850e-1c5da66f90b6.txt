@@ -1,0 +1,15 @@
+Few of us enjoy making mistakes, but mistakes are inevitable when you’re trying something new or challenging—and failure is how we get better. Coder Christina Cacioppo writes about teaching students programming and how the most successful beginners were the ones who made more mistakes.
+
+By the end of the summer, the stronger students were those who had made more mistakes: they’d tried more things, compiled more bad code, hit more runtime errors, and confused the REPL more soundly. Their banging produced better mental models, so they could anticipate what code would do when run. (If environments like Xcode Playgrounds and LightTable succeed, tracing through full programs in your head might become a party trick, but it’s necessary today.) When students experimented in logical ways, they developed confidence in solving problems with code.
+
+These weren’t just random mistakes without a basic knowledge of how code works, though:
+
+Undirected banging (aka “type random things and maybe it’ll eventually work?”) is worse than unhelpful; it’s demoralizing. Without any ideas for how programming’s pieces hang together, computers are incomprehensible. Letting a motivated person loose, unguided, on today’s programming tools is probably the fastest way to exasperate her.
+
+Although her blog post is specifically about this summer course on coding, I think it can apply to most subject areas. Experimentation and seeing how things can go wrong are critical to knowing how they can go right—as long as we learn from our mistakes, of course.
+
+Advertisement
+
+Check out Christina’s blog post for more interesting findings and lessons from that programming course.
+
+Learning Online | Christina Cacioppo

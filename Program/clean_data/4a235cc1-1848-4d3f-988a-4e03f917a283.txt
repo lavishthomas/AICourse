@@ -1,0 +1,165 @@
+Are you interested in distributed systems, microservices, databases, and devops? ReadMe Weekly is my digest of news, articles, and papers about those topics. Learn more or subscribe right now:
+
+I’d like to share my experience with functional programming in this article. I feel like I’ve learned more in the past 16 months about computer science and computer systems in general than I have in the past 10 years thanks to my foray into Scala and the world of functional programming. The reason functional programming forces you to learn so much is because it challenges every assumption about writing software that you had. Oftentimes you can’t believe that some common thing can be done in a different way and then—boom!—a functional programming concept introduces a better way to do it and blows you away. So, what happened 16 months ago? I quit my startup and was looking for interesting projects to work on. I happened to get a consulting gig at 2lemetry that later turned into a full-time obsession with functional programming, MQTT brokers, and distributed systems. One of the things that impacted me while working at 2lemetry was exposure to Scala. It felt like whatever ideas I had about writing programs were off and I had to relearn everything from scratch.
+
+In this article I want to cover some functional programming concepts that made an impression on me. My goal is to spark interest in engineers that are already quite experienced in languages like Java, Ruby, and Python. Don’t worry if you don’t understand some of the Scala code that I use in this article. Its sole purpose is to demonstrate functional programming concepts in broad strokes. Also, keep in mind that Scala is not a purely functional language, which means that some things might seem awkward when mixed with OOP abstractions. I will try to point them out whenever they come up.
+
+Immutable State
+
+My initial experience with Scala was somewhat typical: I started to work on a pretty big project with an assumption that Scala is like Java with cool features and some Ruby-like capabilities. Oh boy, was I wrong! My early code had mutable state all over the place and I could not understand what immutable lists and variables were good for. How do you modify values in a list? How do you modify a map? How do you keep state in loops?
+
+In order to demonstrate the benefits of immutability I’ll show two versions of the same program: one in Java and one in Scala. The following Java program filters a list of users by the active flag, sorts them by ID, and then pulls last names from sorted objects into a list:
+
+public class User { private final int id ; private final String firstName ; private final String lastName ; private final Boolean active ; // I'm going to omit constructors, getters, and setters for brevity... } public static List < String > activeById ( List < User > us ) { List < User > users = new ArrayList < User >(); for ( User u: us ) { if ( u . getActive ()) users . add ( u ); } Collections . sort ( users , new Comparator < User >() { public int compare ( User a , User b ) { return a . getId () - b . getId (); } }); List < String > finalUsers = new ArrayList < String >(); for ( User u: users ) { finalUsers . add ( u . getLastname ()); } return finalUsers ; } List < User > inputUsers = new ArrayList < User >(); inputUsers . add ( new User ( 11 , "Nick" , "Smith" , false )); inputUsers . add ( new User ( 89 , "Ken" , "Pratt" , true )); inputUsers . add ( new User ( 23 , "Jack" , "Sparrow" , true )); List < User > activeUsersById = activeById ( inputUsers )
+
+This is pretty typical pre-Java 8 code: each collection is mutated based on a set of actions. Also, the whole program is somewhat verbose: in every part of activeById you are telling the computer what you want it to do with data as opposed to describing how the data should flow from start to finish. Here is what the same program looks like when written functionally:
+
+case class User ( id : Int , firstname : String , lastname : String , active : Boolean ) def activeById ( us : Seq [ User ]) = us . filter ( _ . active ). sortBy ( _ . id ). map ( _ . lastname ) val activeUsersById = activeById ( Seq ( User ( 11 , "Nick" , "Smith" , false ), User ( 89 , "Ken" , "Pratt" , true ), User ( 23 , "Jack" , "Sparrow" , true ) ))
+
+This looks a lot cleaner than the imperative version largely because there is no state that we have to keep track of. activeById accepts one argument and then passes it through chained functions that are part of the language. It’s important to note that filter , sortBy , and map are not arbitrary. They are very well defined and studied by the functional programming practitioners.
+
+A Rubyist would immediately notice that the code above is very similar to what she would write in Ruby. Yes, the code might look similar but the underlying mechanism of immutability is very different. The problem with Ruby is that it doesn’t enforce immutability. Every variable and data structure can be potentially mutated, which makes it not trustworthy at all. In Scala val s (read-only variables) and immutable collections are actually, well, immutable.
+
+So, what does immutability bring to the table? From the practical standpoint you end up with cleaner code, smaller margin for error (you always know what’s in your collections and read-only variables), and richer abstractions. Another huge benefit of immutability is that you can write concurrent programs without worrying about threads stepping on each other’s toes when modifying variables and collections.
+
+Functions
+
+A lot of the functional programming is about functions (not exactly a big surprise). There are different kinds of functions and techniques of function composition that can be used in functional programming.
+
+Pure functions are one of the main pillars of functional programming. A pure function is a function that depends only on its input parameters. It also must only return a specific result without mutating the outside state. sin(x: Double) or md5(s: String) are great examples of pure functions that only depend on their input parameters and always return an expected result since they don’t rely on the outside world. This makes pure functions easily testable and less bug prone.
+
+Obviously, not all abstractions can be directly implemented with pure functions. For example, think about input/output operations, logging, DB reading and writing, etc. In functional programming there are models and abstractions that allow us to deal with these impure abstractions in a pure way, which results in cleaner and more composable code.
+
+Functions in Scala are first-class citizens. It means that they are not just class methods that can be declared and called. On top of that they can be used as any other data type. You can pass functions to other functions and make functions that return other functions. You can store them in a variable or a data structure. You can also work with them in literal form without naming them. For example:
+
+val ints = Seq ( 1 , 2 , 3 , 4 , 5 ) ints . filter ( n => n % 2 == 0 )
+
+n => n % 2 == 0 , or its full form (n) => { n % 2 == 0 } , is a function literal without a name that checks whether a number is even. You can pass it around as another function argument or use it as a return value.
+
+Functions can be nested inside other functions. It’s a useful feature when you’re implementing recursive calls with “subroutines” that we don’t want to put in the higher level scope.
+
+def toList : List [ A ] = { @annotation . tailrec def go ( s : Stream [ A ], l : List [ A ]) : List [ A ] = s match { case Empty => l case Cons ( h , t ) => go ( t (), h () +: l ) } go ( this , List [ A ]()). reverse }
+
+In this example we don’t want go to be in the same scope as toList because it’s too specific to its “parent” function and there could be other functions at the same level as toList that have its own functions named go .
+
+Currying and partial function application is a purely mathematical concept that is nicely applied in functional languages. It allows us to store partially invoked functions in variables or pass them to other functions.
+
+trait Resource case class User ( id : Int ) extends Resource case class Record () case class FormattedRecord () def loadRecordsFor ( r : Resource , since : Long ) : List [ Record ] = ??? def formatRecords ( f : Long => List [ Record ], since : Long ) : List [ FormattedRecord ] = ??? val userRecordsLoader = loadRecordsFor ( User ( 36 ), _: Long ) formatRecords ( userRecordsLoader , System . currentTimeMillis - 86400000 )
+
+In this example we have two generic functions: loadRecordsFor and formatRecords . Now we can partially apply loadRecordsFor for some user and save it to userRecordsLoader . Then, in another part of the program, we can call formatRecords with userRecordsLoader as the first parameter, since the latter matches its signature perfectly. This kind of function composition comes in handy in a lot of situations and makes your code less rigid.
+
+Options and Pattern Matching
+
+The Option data type is an abstraction that represents optional values. From the outset, it might seem like it’s no big deal but in everyday work it’s an extremely powerful mechanism to represent null, empty, or corrupt object and variable values.
+
+Options are containers that either contain a value of a certain type, represented as Some[T] , or don’t contain anything, which is represented as None . When applied around the whole program this powerful abstraction allows us to eliminate countless edge cases that result in null pointer exceptions or some type incompatibilities, whenever null values are being extracted.
+
+Consider the following example:
+
+case class Project ( id : String , name : String , priority : Int , description : Option [ String ]) object ProjectsAccessor { find ( id : String ) : Option [ Project ] = ??? } val project = ProjectsAccessor . find ( 123 )
+
+Here we are trying to retrieve a project record from the database but we don’t know if the project with a specific ID exists. Instead of returning null or throwing an exception, we are either going to return Some[Project] or None as defined by the Option[Project] return type of the find method.
+
+Container types allow us to use another powerful tool called pattern matching. Pattern matching is a way to process data based on its structure. For example, if we wanted to process the result of the find method from the example above and extract the name of the project we’d do something like this:
+
+ProjectsAccessor . find ( 123 ) match { case Some ( p ) => p . name case None => "" }
+
+Basically, we are matching the result of find to see if the project exists. If it exists then we return its name, otherwise we return an empty string. At first, it might look like a switch-case structure from Java but it’s actually very different. With pattern matching you can add custom logic to your patterns:
+
+ProjectsAccessor . find ( 123 ) match { case Some ( p ) if 1 until 5 contains p . priority => p . name case Some ( p ) if name == "Default Project" => p . name case Some ( p ) => None case None => "" }
+
+You can also match your result directly based on the actual structure of the object:
+
+def descriptionWrapper ( p : Project ) = p match { case Project ( _ , _ , _ , None ) => "No description." case Project ( id , _ , _ , Some ( d )) => s "Project $id's description: $d" }
+
+This way of writing complex logic is a lot more compact and straight forward compared to if statements and bulky switch-case s.
+
+One-Liners and For Comprehensions
+
+One of the greatest things that advanced function composition techniques bring to the table is function chaining. Instead of manually reiterating on the same data collection over and over again in a bunch of for loops, you can do it in one elegant expression, or a one-liner. For example:
+
+case class Participant ( name : String , score : Int , active : Boolean ) val ps = Seq ( Participant ( "Jack" , 34 , true ), Participant ( "Tom" , 51 , true ), Participant ( "Bob" , 90 , false )) ps . filter ( _ . score < 50 ). filter ( _ . active ). map ( _ . copy ( active = false ))
+
+In this one-liner we grabbed all participants whose score is lower than 50 and who are still active; then we changed the active status of selected participants to false . The final output of the above statement is List(Participant(Jack, 34, false)) . There are dozens of situations where similar one-liners save functional programmers time and dramatically reduce the amount of code in the program.
+
+If a one-liner becomes too dense, you can always break it down with a technique called for comprehensions. The above example could be rewritten as this equivalent statement:
+
+for { loser <- ps if loser . score < 50 activeLoser <- Some ( loser ) if activeLoser . active deactivatedLoser <- Some ( activeLoser . copy ( active = false )) } yield deactivatedLoser
+
+This is much more verbose than a one-liner but in cases when logic gets dense, this can really help code readability, yet keep all the benefits of immutability and function chaining.
+
+Type System
+
+Coming from the world of Ruby programming, strict typing in Scala felt like a burden at the outset because I was using it as a Javaist. I kept adding verbose types everywhere and not using generic functions. Needless to say, it was not the right way to do it. Some functional languages have very advanced type systems with properties that traditional programmers would never use. These type systems allow for flexible and well composable programs. Let’s go over some of them.
+
+Type inference is an ability of a programming language to deduce types of an expression without explicit type annotations. Scala is actually not awesome at type inference in certain cases and sometimes you have to hold its hand and give it hints about what type to use in some situations. Let’s look at a real example:
+
+// You always need type annotations in the signature of the method: def nameStartsWith ( ns : Seq [ String ], n : String ) : Seq [ String ] = // Scala can't infer types for "generic" collections, so you can't just say `Seq.empty`: ns . foldLeft ( Seq . empty [ String ]) { // But it doesn't need them in this anonymous function: ( l , r ) => if ( r . startsWith ( n )) r +: l else l } // Type inference works really well with list declarations: val names = Seq ( "Bob" , "Alice" , "Ann" ) nameStartsWith ( names , "A" ) // returns List ( Ann , Alice )
+
+This example demonstrates both sides of type inference in Scala: you still have to explicitly define some types but in other cases, like when you pass a function (l, r) => ... , types don’t have to be annotated. In purely functional languages, like Haskell, you hardly ever have to define types in your programs. The compiler is smart enough to infer them.
+
+Type bounds is another important concept in functional programming. It basically means that you can support class hierarchies in generic type declarations. In Java you can use generics in order to define types during runtime and still keep your code type safe. For example, to define a generic list of some elements you’d use this interface in Java: public interface MyList<T> . If you want to define a list of, say, maps, but you don’t know what the implementation of those maps is, you would use an upper bound for a type in your generic: public interface MyList<T extends Map> . Now you can use this list to fill it with Hashtable , LinkedHashMap , HashMap , and TreeMap , or in other words, all default descendants of the Map interface. If you have custom children inheriting from Map , they can be list elements as well. However, no other type can be used because of the type bound. Here is an example of using an upper bound in Scala:
+
+def convertToInts [ T <: AnyVal ]( es : Seq [ T ], f : T => Int ) : Seq [ Int ] = { es . map ( f ( _ )) }
+
+AnyVal is a parent class of Double , Float , Int , and many others. In this function we simply define that we want T to be a child of AnyVal for type safety. On top of defining upper bounds you can define lower bounds, like [T >: Int] that would match Int ’s parents. You can also combine type bounds for different generics in the same function signature: [T >: Int <: Any] .
+
+One other important property of an advanced type system is type variance. In Java if you have class List<T> , List<Object> and List<String> will be unrelated or invariant. It’s a different story with arrays that are covariant, meaning that String[] is a subtype of Object[] . Since arrays are mutable, you can end up with ArrayStoreException runtime exceptions in some cases. In Scala, arrays are invariant by default and immutable collections (or container types) are covariant or [+A] . Since they are immutable all of your potential type errors will be discovered during compile time as opposed to runtime. Another possible option is to define a container as contravariant ( [-A] ). Contravariance means that a container with a parent type is a subtype of a container with a child type. Here is how it all works in reality:
+
+case class InvariantContainer [ A ]() case class CovariantContainer [ +A ]() case class ContravariantContainer [ -A ]() class Person class User extends Person class Admin extends User val inv1 : InvariantContainer [ User ] = InvariantContainer [ User ] // works val inv2 : InvariantContainer [ User ] = InvariantContainer [ Admin ] // doesn't work val cov1 : CovariantContainer [ User ] = CovariantContainer [ User ] // works val cov2 : CovariantContainer [ User ] = CovariantContainer [ Admin ] // works val con1 : ContravariantContainer [ User ] = ContravariantContainer [ User ] // works val con2 : ContravariantContainer [ User ] = ContravariantContainer [ Admin ] // doesn't work val con3 : ContravariantContainer [ User ] = ContravariantContainer [ Person ] // works
+
+Covariance and cotravariance are widely used in collection implementations and function type trickery.
+
+The last advanced type feature that I want to mention is called view bounds. Say you need to perform operations on numbers but some of them are represented as strings (i.e., "123" vs. 123 ). How would you do it? In a simple case like this you’d either convert strings to numbers by hand or, in more complicated cases, write a custom converter and then still explicitly invoke your data conversion from one type to another. In a weakly-typed language like Ruby the interpreter would dynamically convert your string to an integer. You are probably going to be surprised to hear that it’s possible to do a similar thing in Scala without loosing type safety.
+
+To get it to work for Scala functions (let’s use a standard math.min() function for now) all you have to do is define an implicit converter for your types:
+
+implicit def strToInt ( x : String ) = x . toInt math . min ( "10" , 1 )
+
+Here Scala will search for an implicit conversion from String to Int . After finding strToInt , based on its signature, it will apply this conversion to all String s that are passed to math.min without you explicitly invoking strToInt . If you didn’t define an implicit conversion the compiler would throw an exception.
+
+What if you wanted to write a magical function that searches for implicit conversions yourself? It’s very simple! All you have to do is define a view bound that will tell the compiler to search for implicit conversions:
+
+implicit def strToInt ( x : String ) = x . toInt def halfIt [ A <% Int ]( x : A ) = x / 2 halfIt ( "20" )
+
+The result of halfIt("20") is 10 as expected. [A <% Int] is a view bound that either asks for an Int or something that can be viewed as an Int . In our case it’s a String that can be implicitly converted to an Int .
+
+Laziness and Infinite Data Structures
+
+The concept of lazy evaluation doesn’t directly exist in non-functional languages but it’s pretty easy to grasp. Think of a typical if-statement:
+
+def expensiveOperation () = ??? val a = "foo" val b = "foo" if (( a == b ) || expensiveOperation ()) true else false
+
+In most imperative languages the || operator evaluates its arguments (a == b) and expensiveOperation() lazily meaning that expensiveOperation() doesn’t get executed if (a == b) is true . It would only get executed if (a == b) returns false . Lazy evaluation in Scala allows you to define similar behavior in more contexts.
+
+You can define your variables to be lazy, meaning that they don’t get executed until they are accessed for the first time as opposed to normal variables that get executed when they are defined. Once a lazy variable is executed its value is cached.
+
+case class Order ( name : String , price : Int ) case class User ( id : Int , orders : Seq [ Order ]) { lazy val cheapOrders : Seq [ Order ] = orders . filter ( _ . price < 50 ) lazy val expensiveOrders : Seq [ Order ] = orders . filter ( _ . price >= 50 ) }
+
+In this example we have a case class for the user abstraction that contains a list of shopping orders. cheapOrders and expensiveOrders won’t get evaluated during case class initialization like a normal val would. They would only get executed if we call them directly. Why not use a method? The problem is that if we have an expensive computation or a DB call to make, calling a method multiple times will execute it multiple times. Lazy variables get cached once they are called, which makes for very effective optimizations in some cases.
+
+Another example of delayed execution are by-name function parameters. Normally, function parameters get executed right when they are passed. However, in some cases we don’t want to execute function parameters until absolutely necessary (think heavy computations again).
+
+trait Person case class User () extends Person case class Admin () extends Person def loadAdminsOrUsers ( needAdmins : => Boolean , loadAdmins : => Seq [ Admin ], loadUsers : => Seq [ User ]) : Seq [ Person ] = { if ( needAdmins ) loadAdmins else loadUsers }
+
+Here we have three by-name parameters with potentially expensive DB operations. We don’t want all of them to be executed, so we can’t pass them by value as we would normally do. The arrow symbol => means that we are passing the function itself as opposed to the return value of the function. Now we can call it whenever we need to.
+
+Both laziness and by-name parameters are used to implement one of the most powerful constructs in functional programming: infinite data structures. In imperative programming all of your data structures have a predefined size, which works fine in most cases but sometimes you don’t know what the size of the data structure is until the very end. With delayed execution it becomes possible to define your data structures in general form without “filling them up” with data until you actually have to do it.
+
+All of this sounds great in theory but how does it actually work? Let’s use an infinite data structure, called stream, for generating prime numbers. In Java in order to generate primes, you would write some function that would generate prime numbers up to some limit. Then you would call this function to generate a list of N prime numbers and pass it elsewhere. If you need a different list of primes somewhere, you’d have to recalculate your list from scratch. In Scala we would do it like this:
+
+val primes : Stream [ Int ] = { def generatePrimes ( s : Stream [ Int ]) : Stream [ Int ] = s . head #:: generatePrimes ( s . tail filter ( _ % s . head != 0 )) generatePrimes ( Stream . from ( 2 )) }
+
+This syntax probably won’t make much sense to you but it’s not important right now. What’s important is what you can do with this data structure. Say, you want to get first five prime numbers that are greater than 100. It’s a piece of cake with our stream:
+
+primes . filter ( _ > 100 ). take ( 5 ). toList
+
+This chain of functions will return List(101, 103, 107, 109, 113) as expected. The cool thing is that you can pass primes around to functions anywhere in your program without it being executed. You can also chain any actions on top of it (like filter in the example above) and pass the expression around, again, without generating any actual results until you need them. This allows us to come up with composable abstractions and to mold programs like play-doh.
+
+What’s Ahead?
+
+Hopefully, I got you interested in functional programming if you weren’t before reading this article. It was certainly very exciting for me to write it. I fully recognize that there is so much more to learn and master for me in this field but it’s humbling in a pleasant kind of way. My goal is to start digging deeper into some intricacies of functional programming such as typed lambda calculus, type theory, and category theory. I also want to learn Haskell, a purely functional programming language, that will surely teach me a thing or two.
+
+Let me know if you enjoyed this article and if you have any feedback on it. Thank you for reading!
+
+Join Reddit discussions here and here.

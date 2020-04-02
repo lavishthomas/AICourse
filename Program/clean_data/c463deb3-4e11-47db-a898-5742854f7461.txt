@@ -1,0 +1,39 @@
+About four years ago, Svenska Dagbladet, one of Sweden’s top newspapers, was in free fall. The paper was experiencing depressed circulation, no digital revenue, and dwindling readership. When Fredric Karén took the job as editor-in-chief in 2013, the message from the board and the parent company, Scandinavian media conglomerate Schibsted Group, was clear: “Something radical had to be done to secure the newspaper’s future,” he recalls. Since then, SvD has gotten back on track by bringing a digital-first mentality into the newsroom. Karén talks a lot about how investing heavily in technology allowed the paper to move forward and regain profitability. Mostly, though, he says he owes the paper’s recovery to one thing: an algorithm that runs the news.
+
+Storybench attended Káren’s panel at SXSW in Austin, Texas and spoke to him about how technology can help advance journalism, how newsrooms should shift their focus from print to digital, and what the future of news might look like.
+
+How SvD’s publishing platform works
+
+The Creation Suite, as the CMS is called inside the Schibsted Group, is remarkably similar to the ones most journalists are used to – say, Wordpress or Medium – with one main difference: It relies on a machine to design the website’s homepage. After reporters and editors are finished with a story, they set a “news” value — a variable ranging from 1 to 5 — and a “lifetime” value — either short, medium or long — and let the algorithm work its magic.
+
+“These two calculate a score to place the article on the front-page,” Karén explains. “There is nothing for the web editor to be worried about because the homepage is updated automatically. The editor in charge only has to make two decisions. How important is the story, and the lifetime of the story.”
+
+The algorithm also accounts for other factors while designing the news. “Stories can react to different kinds of user behavior. That could be clicks, conversion rates, how long people are staying when reading, among others,” says Karén.
+
+With story tags derived from metadata, Svenska Dagbladet can also cluster content for the website and generate newsletters. Subscribers can opt to receive general, business and special events newsletters, such as ones organized by a theme like the “U.S. Election.”
+
+The time saved goes back into reporting
+
+One of the claims Karén makes in his defense of technology in the newsrooms is that the time saved results in better journalism as it allows reporters and editors to focus on quality reporting. He argues that the migration to the new CMS added speed and efficiency: “In Sweden, we like to build large packages on homepages, including galleries, videos, background stories, analysis, etc. Before, it would take us 15 to 20 minutes to do that. With this new media platform, it takes about 20 seconds.”
+
+At the same time, the machine can create dedicated pages for the stories the newsroom is covering and update them automatically, simplifying the workflow for editors. “This has saved us enormous amounts of time,” Karén says. That leaves time for journalists to spend solely on journalism. “The algorithm has given us the opportunity to refocus. By automating the boring stuff, we could shift people to do other things, which gave us a lot of good journalism.”
+
+But achieving growth in subscriptions, revenue and profitability came at the cost of having to downsize the newsroom, Karén admits.
+
+Tthe creation of a digital culture inside Svenska Dagbladet was radical. “You simply have to do less print. We outsource a lot of our print production and, to be honest, that is the best thing we ever did,” he says. The paper is also working on a redesigned print edition that would be the “first digital-first newspaper,” says Karén, meaning it will embrace some formats from the online version.
+
+Investing in a technology might reap dividends for years
+
+Karén’s bet on technology has paid off in other ways. The paper has already won prizes – like the INMA Global Media Awards’s top prize in 2016 – for its journalism and record growth.
+
+While technology has helped them grow revenue and continue to do journalism, Karén is adamant that success also depends on remaining independent. “I believe that you need to control and own your own technology. Google and Facebook would be thrilled for us to join their ad platforms. But to be a publisher is also about integrity: To own the way you publish, when you publish and where you publish is really important moving forward,” he says.
+
+To Karén, the cutting-edge CMS and algorithm is the epitome of that type of thinking. More than a publishing platform, it is a business opportunity in itself and he plans to market it to other publishers. That is still between two and three years off, according to Karén.
+
+“There are talks inside the group about licensing the software and that is probably going to happen. At this point, we are expanding the platform to the other news media websites within the group,” he says.
+
+Personalization is the future of the news experience
+
+Of course, an algorithmic approach to serving news is very much data-driven, dependent on the structure of the news and the care dedicated to its organization. This is one of the pillars of SvD’s model. Right now, data has allowed the newsroom to run small experiments with customization for users and the results look promising, according to Karén. Readers tend to generate more page views when receiving more of the content they are looking for, he says.
+
+Karén believes the next step is creating personalized newsfeeds for his users and he thinks he can do that in a way that doesn’t result in creating filter bubbles. “We want to be able to work in a more data-driven way, we think that is the way the news industry is going. Data is essential to us to understand how the user’s behavior and journey on our products, and to find out exactly what kind of content these users want,” he says.

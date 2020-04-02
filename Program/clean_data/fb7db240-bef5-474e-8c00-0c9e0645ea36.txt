@@ -1,0 +1,75 @@
+When photographing reflective surfaces, lighting becomes a game of billiards. In my last post on photographing people in eyeglasses, we relied heavily on this following rule:
+
+Angle of Incidence = Angle of Reflection
+
+To review, the angle at which a light beam hits an object will reflect light out at that same angle. Ignoring exceptions involving certain textures and refraction, we can depend on light to travel in a straight and predictable line.
+
+You may find yourself in a position of having to photograph something behind glass. The rules are largely the same as when you’re photographing someone wearing glasses but you also need to be certain that the colors are being represented accurately as well.
+
+Copy Work
+
+Copy work, or a copy job, is when the photographer is reproducing a piece of artwork such as paintings, illustrations, and antique photographs. The conditions under which you have to shoot some of these things can be tough (stuck on walls in small rooms, leaning against something and under fluorescents, etc) but knowing the most basic copy work setup and remembering your family of angles will get you out of most glare binds.
+
+Family of Angles
+
+What the camera can see will determine our family of angles. In a typical copy work lighting setup, you will have 1 light on either side of your subject but the angle is very important.
+
+Placing my light heads anywhere within that circle will likely result in glare because it is inside the danger zone of angle of reflectance. Our instinct is to put lights in front of the thing we want to light but when dealing with reflective surfaces we have to imagine a ball of light coming from the flash and into your painting in a straight line and bouncing back out again. If the bounce-back appears to be within the family of angles for what your camera is seeing then move those lights outside that zone or, in this case, more to the side. This allows the bounce-back to not glare back into the lens.
+
+Lighting Outside the Family of Angles
+
+When photographing artwork, placing your lights at acute angles in reference to the subject (90º or less — think of on-camera flash as being 0º) is generally bad and placing them at obtuse angles (greater than 90º) is generally good.
+
+For this painting by Calixto Robles, I can already tell from my modeling lamps that I am probably within the family of angles to receive glare. Eyeballing it, I could tell that the light was going to shoot out of the glass and back into my lens — especially since I am also shooting directly instead of reflectively, like with a bounce umbrella.
+
+An easy fix for this is to place my flashes outside the family of angles, more obtusely-angled in relation to my subject.
+
+Placing my lights more to the side gets them outside my family of angles. Remember, too, that using a wide lens will increase the size of your family of angles. If you have the space to shoot copy work using a long lens, your choice of lighting positions increases.
+
+These are all unedited so they would normally need a bit of tweaking but my glare is gone and that is a great starting point for perfecting the shot.
+
+Raking the Light
+
+This kind of obtusely-angled lighting is referred to as “raking the light.” It’s great not only for avoiding glare, since the angles are so extreme that they are often outside the family of angles for reflection, but also for showing texture.
+
+In this detail shot of Vivien Sin’s work, I have glare, washed out colors, and a little too much texture in places where I don’t really want it.
+
+These yellow arrows represent my family of angles. I have placed my flashes well within the danger zone.
+
+Moving my lights more to the side, further away from my family of angles and at a more oblique angle, improves this. I probably could have raked the light even further by placing the lights nearly parallel to the painting, bathing it in light — especially if I were bouncing the light from inside an umbrella or softbox. Sometimes you might not have modifiers on-hand so knowing you can still work with “bald” lights is key.
+
+Much better. However, how do you know these colors are even accurate? After all, I am showing you a copy of the painting through my photography and you are trusting me to portray it accurately. This requires another useful tool: the color checker.
+
+Color Checker Cards and White Balance
+
+White balance is largely not an issue in this age of RAW files. Most of the time, our cameras are excellent at reproducing color and predicting proper white balance. With artwork, though, such subjectivity can ruin your presentation. Using a color checker card will give you a set of specially prepared colors and grayscales that give you a frame of reference for objectively correct colors. It also helps you find a precise, neutral white. When you’re editing something with a color checker in one of your frames, you can much more easily keep the colors in all of your frames consistent and accurate.
+
+With all of the deep, rich colors in Vivien Sin’s painting, I want to make sure they remain consistent across editing multiple files and also that I have a white balance that is set based on the most neutral target possible for color fidelity.
+
+You can use a color checker card just as a reference and white balance corrector without any further calibration. However, its performance is maximized when you calibrate your monitor and printer and create custom profiles using free plug ins with your editing software.
+
+To start, take a sample of a neutral color or shade. I used the gray square second to the left next to 100% white.
+
+I have the X-Rite free ColorChecker Passport software installed in my Lightroom. You don’t have to have this to get a read on color accuracy but it allows you to create custom profiles under different lighting conditions and quickly apply those profiles to images in an entire collection for consistency. This was done by taking a picture of the color card in the same environment as Vivien’s painting, adjusting my white balance around a neutral gray on the card, and saving it as a profile (exactly how to do this varies with your editing software and X-Rite has instructions for each of them).
+
+Instead of relying on one of my camera’s profiles, or Adobe Standard, I can use a profile that is built around colors as they should be viewed objectively given the environment it was shot in, custom-named so that I can remember what I shot with to create it.
+
+The difference might not be obvious but notice the reds in the lower corner. Adobe Standard rendered them slightly more orange than they should be. It’s a subtle change for the extra work but if you remember to take just 1 shot with a color card it gives you the option to fine tune colors and white balance later. This is important for not only copy work but for real estate shooting as well, where interior paint colors might be very important to the person you are shooting for.
+
+Copy Work Shooting Basics
+
+If you are starting out with shooting anything reflective, especially artwork, remember:
+
+The Angle of Incidence = Angle of Reflection
+
+If the flash is within 90º of the reflective surface, it is likely to give off glare. Place your lights obtusely and sometimes even as far as parallel to either side of a painting.
+
+Raking the light in this manner will also show texture.
+
+Use a color checker card to verify color accuracy and white balance in post production.
+
+Flash and Artwork Damage
+
+The jury is still out on this but the general consensus is that a lot of stuff can affect paintings, including UV light, pollution, and temperature. Artwork can even be a danger to itself when off-gassing under tight framing. Art is exposed to flash for a short period of time during copy work and the consensus is that it’s not a problem. That said, if you’re shooting for a client, find out their comfort level for flash exposure before proceeding.
+
+I hope these tips help you take better photographs of the various copy work items in your life, whether it’s professional artwork or personal antique photographic keepsakes.

@@ -1,0 +1,77 @@
+Though galaxies look larger than atoms and elephants appear to outweigh ants, some physicists have begun to suspect that size differences are illusory. Perhaps the fundamental description of the universe does not include the concepts of “mass” and “length,” implying that at its core, nature lacks a sense of scale.
+
+Original story reprinted with permission from , an editorially independent division of Quanta Magazine , an editorially independent division of SimonsFoundation.org whose mission is to enhance public understanding of science by covering research developments and trends in mathematics and the physical and life sciences.
+
+This little-explored idea, known as scale symmetry, constitutes a radical departure from long-standing assumptions about how elementary particles acquire their properties. But it has recently emerged as a common theme of numerous talks and papers by respected particle physicists. With their field stuck at a nasty impasse, the researchers have returned to the master equations that describe the known particles and their interactions, and are asking: What happens when you erase the terms in the equations having to do with mass and length?
+
+Nature, at the deepest level, may not differentiate between scales. With scale symmetry, physicists start with a basic equation that sets forth a massless collection of particles, each a unique confluence of characteristics such as whether it is matter or antimatter and has positive or negative electric charge. As these particles attract and repel one another and the effects of their interactions cascade like dominoes through the calculations, scale symmetry “breaks,” and masses and lengths spontaneously arise.
+
+Similar dynamical effects generate 99 percent of the mass in the visible universe. Protons and neutrons are amalgams — each one a trio of lightweight elementary particles called quarks. The energy used to hold these quarks together gives them a combined mass that is around 100 times more than the sum of the parts. “Most of the mass that we see is generated in this way, so we are interested in seeing if it’s possible to generate all mass in this way,” said Alberto Salvio, a particle physicist at the Autonomous University of Madrid and the co-author of a recent paper on a scale-symmetric theory of nature.
+
+In the equations of the “Standard Model” of particle physics, only a particle discovered in 2012, called the Higgs boson, comes equipped with mass from the get-go. According to a theory developed 50 years ago by the British physicist Peter Higgs and associates, it doles out mass to other elementary particles through its interactions with them. Electrons, W and Z bosons, individual quarks and so on: All their masses are believed to derive from the Higgs boson — and, in a feedback effect, they simultaneously dial the Higgs mass up or down, too.
+
+The multiverse ennui can’t last forever.
+
+The new scale symmetry approach rewrites the beginning of that story.
+
+“The idea is that maybe even the Higgs mass is not really there,” said Alessandro Strumia, a particle physicist at the University of Pisa in Italy. “It can be understood with some dynamics.”
+
+The concept seems far-fetched, but it is garnering interest at a time of widespread soul-searching in the field. When the Large Hadron Collider at CERN Laboratory in Geneva closed down for upgrades in early 2013, its collisions had failed to yield any of dozens of particles that many theorists had included in their equations for more than 30 years. The grand flop suggests that researchers may have taken a wrong turn decades ago in their understanding of how to calculate the masses of particles.
+
+“We’re not in a position where we can afford to be particularly arrogant about our understanding of what the laws of nature must look like,” said Michael Dine, a professor of physics at the University of California, Santa Cruz, who has been following the new work on scale symmetry. “Things that I might have been skeptical about before, I’m willing to entertain.”
+
+The Giant Higgs Problem
+
+The scale symmetry approach traces back to 1995, when William Bardeen, a theoretical physicist at Fermi National Accelerator Laboratory in Batavia, Ill., showed that the mass of the Higgs boson and the other Standard Model particles could be calculated as consequences of spontaneous scale-symmetry breaking. But at the time, Bardeen’s approach failed to catch on. The delicate balance of his calculations seemed easy to spoil when researchers attempted to incorporate new, undiscovered particles, like those that have been posited to explain the mysteries of dark matter and gravity.
+
+Instead, researchers gravitated toward another approach called “supersymmetry” that naturally predicted dozens of new particles. One or more of these particles could account for dark matter. And supersymmetry also provided a straightforward solution to a bookkeeping problem that has bedeviled researchers since the early days of the Standard Model.
+
+In the standard approach to doing calculations, the Higgs boson’s interactions with other particles tend to elevate its mass toward the highest scales present in the equations, dragging the other particle masses up with it. “Quantum mechanics tries to make everybody democratic,” explained theoretical physicist Joe Lykken, deputy director of Fermilab and a collaborator of Bardeen’s. “Particles will even each other out through quantum mechanical effects.”
+
+This democratic tendency wouldn’t matter if the Standard Model particles were the end of the story. But physicists surmise that far beyond the Standard Model, at a scale about a billion billion times heavier known as the “Planck mass,” there exist unknown giants associated with gravity. These heavyweights would be expected to fatten up the Higgs boson — a process that would pull the mass of every other elementary particle up to the Planck scale. This hasn’t happened; instead, an unnatural hierarchy seems to separate the lightweight Standard Model particles and the Planck mass.
+
+With his scale symmetry approach, Bardeen calculated the Standard Model masses in a novel way that did not involve them smearing toward the highest scales. From his perspective, the lightweight Higgs seemed perfectly natural. Still, it wasn’t clear how he could incorporate Planck-scale gravitational effects into his calculations.
+
+Meanwhile, supersymmetry used standard mathematical techniques, and dealt with the hierarchy between the Standard Model and the Planck scale directly. Supersymmetry posits the existence of a missing twin particle for every particle found in nature. If for each particle the Higgs boson encounters (such as an electron) it also meets that particle’s slightly heavier twin (the hypothetical “selectron”), the combined effects would nearly cancel out, preventing the Higgs mass from ballooning toward the highest scales. Like the physical equivalent of x + (–x) ≈ 0, supersymmetry would protect the small but non-zero mass of the Higgs boson. The theory seemed like the perfect missing ingredient to explain the masses of the Standard Model — so perfect that without it, some theorists say the universe simply doesn’t make sense.
+
+Yet decades after their prediction, none of the supersymmetric particles have been found. “That’s what the Large Hadron Collider has been looking for, but it hasn’t seen anything,” said Savas Dimopoulos, a professor of particle physics at Stanford University who helped develop the supersymmetry hypothesis in the early 1980s. “Somehow, the Higgs is not protected.”
+
+The LHC will continue probing for convoluted versions of supersymmetry when it switches back on next year, but many physicists have grown increasingly convinced that the theory has failed. Just last month at the International Conference of High-Energy Physics in Valencia, Spain, researchers analyzing the largest data set yet from the LHC found no evidence of supersymmetric particles. (The data also strongly disfavors an alternative proposal called “technicolor.”)
+
+The theory has what most experts consider a serious flaw: It requires the existence of strange particle-like entities called “ghosts.”
+
+The implications are enormous. Without supersymmetry, the Higgs boson mass seems as if it is reduced not by mirror-image effects but by random and improbable cancellations between unrelated numbers — essentially, the initial mass of the Higgs seems to exactly counterbalance the huge contributions to its mass from gluons, quarks, gravitational states and all the rest. And if the universe is improbable, then many physicists argue that it must be one universe of many: just a rare bubble in an endless, foaming “multiverse.” We observe this particular bubble, the reasoning goes, not because its properties make sense, but because its peculiar Higgs boson is conducive to the formation of atoms and, thus, the rise of life. More typical bubbles, with their Planck-size Higgs bosons, are uninhabitable.
+
+“It’s not a very satisfying explanation, but there’s not a lot out there,” Dine said.
+
+As the logical conclusion of prevailing assumptions, the multiverse hypothesis has surged in begrudging popularity in recent years. But the argument feels like a cop-out to many, or at least a huge letdown. A universe shaped by chance cancellations eludes understanding, and the existence of unreachable, alien universes may be impossible to prove. “And it’s pretty unsatisfactory to use the multiverse hypothesis to explain only things we don’t understand,” said Graham Ross, an emeritus professor of theoretical physics at the University of Oxford.
+
+The multiverse ennui can’t last forever.
+
+“People are forced to adjust,” said Manfred Lindner, a professor of physics and director of the Max Planck Institute for Nuclear Physics in Heidelberg who has co-authored several new papers on the scale symmetry approach. The basic equations of particle physics need something extra to rein in the Higgs boson, and supersymmetry may not be it. Theorists like Lindner have started asking, “Is there another symmetry that could do the job, without creating this huge amount of particles we didn’t see?
+
+Wrestling Ghosts
+
+Picking up where Bardeen left off, researchers like Salvio, Strumia and Lindner now think scale symmetry may be the best hope for explaining the small mass of the Higgs boson. “For me, doing real computations is more interesting than doing philosophy of multiverse,” said Strumia, “even if it is possible that this multiverse could be right.”
+
+For a scale-symmetric theory to work, it must account for both the small masses of the Standard Model and the gargantuan masses associated with gravity. In the ordinary approach to doing the calculations, both scales are put in by hand at the beginning, and when they connect in the equations, they try to even each other out. But in the new approach, both scales must arise dynamically — and separately — starting from nothing.
+
+“The statement that gravity might not affect the Higgs mass is very revolutionary,” Dimopoulos said.
+
+A theory called “agravity” (for “adimensional gravity”) developed by Salvio and Strumia may be the most concrete realization of the scale symmetry idea thus far. Agravity weaves the laws of physics at all scales into a single, cohesive picture in which the Higgs mass and the Planck mass both arise through separate dynamical effects. As detailed in June in the Journal of High-Energy Physics, agravity also offers an explanation for why the universe inflated into existence in the first place. According to the theory, scale-symmetry breaking would have caused an exponential expansion in the size of space-time during the Big Bang.
+
+However, the theory has what most experts consider a serious flaw: It requires the existence of strange particle-like entities called “ghosts.” Ghosts either have negative energies or negative probabilities of existing — both of which wreak havoc on the equations of the quantum world.
+
+“Negative probabilities rule out the probabilistic interpretation of quantum mechanics, so that’s a dreadful option,” said Kelly Stelle, a theoretical particle physicist at Imperial College, London, who first showed in 1977 that certain gravity theories give rise to ghosts. Such theories can only work, Stelle said, if the ghosts somehow decouple from the other particles and keep to themselves. “Many attempts have been made along these lines; it’s not a dead subject, just rather technical and without much joy,” he said.
+
+Strumia and Salvio think that, given all the advantages of agravity, ghosts deserve a second chance. “When antimatter particles were first considered in equations, they seemed like negative energy,” Strumia said. “They seemed nonsense. Maybe these ghosts seem nonsense but one can find some sensible interpretation.”
+
+Meanwhile, other groups are crafting their own scale-symmetric theories. Lindner and colleagues have proposed a model with a new “hidden sector” of particles, while Bardeen, Lykken, Marcela Carena and Martin Bauer of Fermilab and Wolfgang Altmannshofer of the Perimeter Institute for Theoretical Physics in Waterloo, Canada, argue in an Aug. 14 paper that the scales of the Standard Model and gravity are separated as if by a phase transition. The researchers have identified a mass scale where the Higgs boson stops interacting with other particles, causing their masses to drop to zero. It is at this scale-free point that a phase change-like crossover occurs. And just as water behaves differently than ice, different sets of self-contained laws operate above and below this critical point.
+
+To get around the lack of scales, the new models require a calculation technique that some experts consider mathematically dubious, and in general, few will say what they really think of the whole approach. It is too different, too new. But agravity and the other scale symmetric models each predict the existence of new particles beyond the Standard Model, and so future collisions at the upgraded LHC will help test the ideas.
+
+In the meantime, there’s a sense of rekindling hope.
+
+“Maybe our mathematics is wrong,” Dine said. “If the alternative is the multiverse landscape, that is a pretty drastic step, so, sure — let’s see what else might be.”
+
+Original story reprinted with permission from Quanta Magazine, an editorially independent division of SimonsFoundation.org whose mission is to enhance public understanding of science by covering research developments and trends in mathematics and the physical and life sciences.

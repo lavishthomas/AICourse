@@ -1,0 +1,61 @@
+The leaders of tomorrow will be well versed in dead philosophers, according to a new database of college syllabi.
+
+The Open Syllabus Project, a collection of over 1 million curricula from English-language colleges and universities over the past 15 years, released its data on Friday (Jan. 22). Plato, Hobbes, Machiavelli, and Aristotle overwhelmingly dominate lists in the US, particularly at the top schools.
+
+The required readings skew toward the humanities—science and engineering classes tend to assign fewer titles—and not surprisingly, toward the Western canon.
+
+In the US, Mary Wollstonecraft Shelley’s Frankenstein is the most taught work of fiction, with Chaucer’s Canterbury Tales a close second. In history titles, George Brown Tindall and David Emory Shi’s textbook, America: A Narrative History, is No. 1, with Anne Moody’s Coming of Age in Mississippi, a memoir about life as an African-American woman in Jim Crow America, at No. 2. The Communist Manifesto is the third most taught in history, and is the top title in sociology.
+
+“It’s still a dirty dataset,” project director Joe Karaganis tells Quartz, referring to the potential for errors from misspelled or non-uniform titles. In addition, the team behind the project, based at Columbia’s American Assembly public policy institute, has had to rely on what’s publicly available on college sites.
+
+But with the database now open, Karaganis hopes this will change: As more institutions and academics get involved, the team can start to fill in the gaps and correct mistakes. He looks to triple the number of syllabi by the end of 2016.
+
+See the texts taught at 10 of the top US colleges and how often they appeared over the last 15 years.
+
+10 top US colleges*
+
+Rank Count Text Author 1 168 Republic Plato 2 163 Leviathan Hobbes, Thomas 3 163 The Prince Machiavelli, Niccolò 4 158 The Clash of Civilizations Huntington, Samuel 5 145 The Elements of Style Strunk, William 6 122 Ethics Aristotle 7 119 The Structure of Scientific Revolutions Kuhn, Thomas 8 119 Democracy in America Tocqueville, Alexis De 9 116 The Communist Manifesto Marx, Karl 10 113 The Politics Aristotle
+
+Princeton
+
+Rank Count Text Author 1 20 The Clash of Civilizations Huntington, Samuel 2 19 Globalization and its Discontents Stiglitz, Joseph 3 18 The Logic of Congressional Action Arnold, R. Douglas 4 17 Public Finance Rosen, Harvey 5 15 Capitalism, Socialism, and Democracy Schumpeter, Joseph Alois 6 15 The Peloponnesian War Thucydides 7 15 Diplomacy Kissinger, Henry 8 14 The Protestant Ethic and the Spirit of Capitalism Weber, Max 9 14 To End a War Holbrooke, Richard 10 14 Ethnic Groups in Conflict Horowitz, Donald
+
+Harvard
+
+Rank Count Text Author 1 60 Letter from the Birmingham Jail King, Jr., Martin Luther 2 50 The Elements of Style Strunk, William 3 49 Leadership without Easy Answers Heifetz, Ronald 4 45 The Clash of Civilizations Huntington, Samuel 5 44 Thinking, Fast and Slow Kahneman, Daniel 6 43 The Prince Machiavelli, Niccolò 7 43 A Primer for Policy Analysis Stokey, Edith 8 43 A Theory of Justice Rawls, John 9 39 Principles of Corporate Finance Brealey, Richard 10 39 Thank You for Arguing Heinrichs, Jay
+
+Yale
+
+Rank Count Text Author 1 12 Republic Plato 2 11 Quarterly Review Federal Reserve Bank of Minneapolis 3 10 Invisible Man Ellison, Ralph 4 10 The Odyssey Homer 5 9 Let Us Now Praise Famous Men Agee, James 6 9 Democracy in America Tocqueville, Alexis De 7 9 Anthropology Boas, Franz 8 9 Zapata and the Mexican Revolution Womack, John 9 8 The Anti-Politics Machine Ferguson, James 10 8 The Iliad Homer
+
+Columbia
+
+Rank Count Text Author 1 41 The Clash of Civilizations Huntington, Samuel 2 38 Republic Plato 3 37 On Liberty Mill, John Stuart 4 32 The Social Contract Rousseau, Jean-Jacques 5 29 Leviathan Hobbes, Thomas 6 28 The Politics Aristotle 7 27 The Metaphysics of Morals Kant, Immanuel 8 27 Wealth of Nations Smith, Adam 9 27 Calculus: Early Transcendentals Stewart, James 10 26 Civilization and its Discontents Freud, Sigmund
+
+Stanford
+
+Rank Count Text Author 1 21 Leviathan Hobbes, Thomas 2 21 The Structure of Scientific Revolutions Kuhn, Thomas 3 17 Foundations of Statistical Natural Language Processing Manning, Christopher 4 16 Code and other Laws of Cyberspace Lessig, Lawrence 5 15 “Creative Writing” Stegner, Wallace 6 15 Republic Plato 7 14 Robinson Crusoe Defoe, Daniel 8 14 Frankenstein Shelley, Mary Wollstonecraft 9 14 Understanding Media McLuhan, Marshall 10 13 Rethinking the Public Sphere Fraser, Nancy
+
+University of Chicago
+
+Rank Count Text Author 1 23 Ethics Aristotle 2 21 Nicomachean Ethics Aristotle 3 19 Statistics with Stata 3 Hamilton, Lawrence 4 15 Office Hours Foster, Norm 5 15 The Prince Machiavelli, Niccolò 6 14 The Discourses Machiavelli, Niccolò 7 13 The Metaphysics of Morals Kant, Immanuel 8 13 Confessions Saint Augustine 9 13 Artificial Intelligence Russell, Stuart 10 12 Two Treatises of Government Locke, John
+
+Massachusetts Institute of Technology
+
+Rank Count Text Author 1 37 Leviathan Hobbes, Thomas 2 35 The Communist Manifesto Marx, Karl 3 33 Macroeconomics Blanchard, Olivier 4 29 The Prince Machiavelli, Niccolò 5 28 Lectures on Macroeconomics Blanchard, Olivier 6 27 Capital Marx, Karl 7 26 The Elements of Style Strunk, William 8 25 Economics Krugman, Paul 9 25 Japanese, the Spoken Language, Part 1 Jorden, Eleanor Harz 10 25 Quarterly Review Federal Reserve Bank of Minneapolis
+
+Duke
+
+Rank Count Text Author 1 27 Introduction to Econometrics Stock, James 2 27 “The Problem of Social Cost” Coase, R. H. 3 25 Wealth of Nations Smith, Adam 4 23 The Tragedy of the Commons Hardin, Garrett James 5 21 Econometrics Hayashi, Fumio 6 20 Leadership without Easy Answers Heifetz, Ronald 7 19 Analytical Politics Hinich, Melvin 8 18 Principles of Corporate Finance Brealey, Richard 9 17 Macroeconomics Barro, Robert 10 16 Macroeconomic Theory Sargent, Thomas
+
+University of Pennsylvania
+
+Rank Count Text Author 1 27 Oedipus Sophocles 2 26 A Short Guide to Writing About Art Barnet, Sylvan 3 26 Heart of Darkness Conrad, Joseph 4 23 The Evolution of Cooperation Axelrod, Robert 5 23 Republic Plato 6 21 Autobiography Franklin, Benjamin 7 20 The Art and Architecture of the Indian Subcontinent Harle, J. C. 8 19 Canterbury Tales Chaucer, Geoffrey 9 19 Confessions Saint Augustine 10 18 Persuasion Austen, Jane
+
+Brown
+
+Rank Count Text Author 1 31 Learning and Teaching Sheridan, Harold James 2 18 Cyborg Citizen Gray, Chris Hables 3 16 The Technological Society Ellul, Jacques 4 16 The Learning Center Brown, Robert 5 16 The Communist Manifesto Marx, Karl 6 16 The Transparent Society Brin, David 7 14 A Social History of American Technology Cowan, Ruth Schwartz 8 14 Illuminations Benjamin, Walter 9 14 Simulations Baudrillard, Jean 10 13 The Control Revolution Beniger, James
+
+* This list is compiled from the US News’ current national universities rankings cross-referenced with available syllabi on the Open Syllabus Project.
+
+Image by Marissa Smith on Flickr, licensed under CC BY 2.0.

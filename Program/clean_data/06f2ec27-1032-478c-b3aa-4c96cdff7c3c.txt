@@ -1,0 +1,159 @@
+Image: Aleutie, Getty Images/iStockphoto
+
+We live in an increasingly data-driven society, in which information is becoming as much of a currency as money. Many consumers use free services from internet giants like Google, Facebook, Amazon, Microsoft and Apple, for example, and in return allow these corporations to track and monetise their online behaviour.
+
+One of the biggest questions of the day is the openness of such transactions, and the level of control that individuals have over the fate of the personal information they -- sometimes unwittingly -- divulge to organisations with which they interact online. Recent votes on both sides of the Atlantic have highlighted the capacity for data-savvy organisations to hoover up and profile large amounts of user data -- including demographics, consumer behaviour and internet activity -- in order to micro-target adverts, news stories and services in support of particular goals or causes.
+
+Clearly, the data floodgates are now opening for businesses of all sizes and descriptions, bringing myriad opportunities for timely analysis in pursuit of competitive advantage. Although the focus is currently slanted towards customer behaviour, data is available at multiple points in the product or service supply chain, and comes in many forms -- traditional (structured), ad hoc (unstructured), real time, and IoT- or M2M-generated, to name but a few.
+
+Companies that implement big data analytics successfully can reap rich rewards from cost-saving efficiencies and revenue-generating innovations. This can help businesses achieve a digital transformation, allowing them to maintain competitiveness in the face of any disruptive startups -- which are data-driven almost by definition -- that spring up in their markets.
+
+However, useful business insights don't automatically flow from a torrent of heterogeneous information: actionable data must be identified, organised and analysed, and the results implemented across relevant parts of the business. That requires planning, budget and the right tools and expertise.
+
+This overview, and the remainder of this ZDNet special report, examines the state of play in big data analytics. We may have passed 'peak hype' on the subject -- analyst firm Gartner dropped Big Data from its Hype Cycle for Emerging Technologies back in 2015 -- but has it yet delivered on its promise?
+
+How much data?
+
+Attempts are periodically made to estimate how much data is generated worldwide every year, and in what form. Back in 2014, IDC and EMC put the 'Digital Universe' at 4.4 zettabytes (ZB) in 2013 -- that's 4.4 trillion gigabytes -- and predicted this would grow to 44ZB in 2020, more than doubling every two years. The latest estimate, from IDC and Seagate's Data Age 2025 report, puts the 2025 figure (now dubbed the 'Global Datasphere') at 163ZB -- a tenfold rise from the 16.1ZB created in 2016.
+
+Image: IDC/Seagate
+
+The IDC/Seagate report also predicts that the bulk of worldwide data creation will shift from consumers to enterprises, the latter accounting for 60 percent by 2025. Trends driving this shift, according to the report, include: the evolution of data from business background to life-critical; embedded systems and the IoT; cognitive/AI systems that change the landscape; mobile and real-time data; and security as a critical foundation.
+
+All that data needs a home, either permanent or temporary, which explains the interest of a storage company like Seagate in this area.
+
+In a statement launching the report, Seagate CEO Steve Luczo (soon to become Executive Chairman) said: "While we can see from this new research that the era of Big Data is upon us, the value of data is really not in the 'known', but in the 'unknown' where we are vastly underestimating the potentials today. What is really exciting are the analytics, the new businesses, the new thinking and new ecosystems from industries like robotics and machine-to-machine learning, and their profound social and economic impact on our society. The opportunity for today's enterprises and tomorrow's entrepreneurs to capture the value of data is tremendous, and our global business leaders will be exploring these opportunities for decades to come."
+
+Which data?
+
+Faced with mind-boggling quantities of data, CxOs might be forgiven for feeling overwhelmed. But, of course, not all data is suitable or available for analysis. In the Data Age 2025 report, for example, IDC estimates that by 2025 some 20 percent of the data in the global datasphere will be critical to our daily lives, and 10 percent of that will be 'hypercritical':
+
+Image: IDC/Seagate
+
+The report notes that: "The emergence of hypercritical data must compel businesses to develop and deploy data capture, analytics, and infrastructure that delivers extremely high reliability, bandwidth, and availability; more secure systems; new business practices; and even new legal infrastructures to mitigate exposure to shifting and potentially debilitating liabilities."
+
+AI and machine learning will increasingly be involved in big data analysis, which further restricts the amount of available data. In the Data Age 2025 report, IDC estimates that by the end of 2025 only 15 percent of the data in the global datasphere will be tagged -- and therefore suitable for AI/ML analysis -- and only 20 percent of that (3% of the total) will actually be analysed by cognitive systems:
+
+Image: IDC/Seagate
+
+Big Data trends & predictions
+
+At the turn of each year, experts in a variety of tech fields offer their summaries of current trends and make predictions for the next 12 months. Big data is no exception, and we've collated multiple 2017 contributions, assigning predictions to a range of emergent categories. Here's how a sample of the pundit community viewed the big data landscape as 2017 got underway:
+
+Analysis & image: ZDNet
+
+For big data industry-watchers, the most influential area for 2017 is 'AI, machine learning, automation & cognitive systems'. Analyst firm Ovum, for example, suggests that "Machine learning is the big disruptor" and that "Analytic applications embedding machine learning are becoming the norm". Increasing levels of automation are almost an inevitable requirement if organisations are to avoid drowning in data -- or, as Enterra Systems puts it: "Artificial intelligence will grow in importance as data volume increases".
+
+The second-placed recurrent theme for big data experts is the emergence of 'Data-driven business applications' (also a key theme for this ZDNet special report). Oracle puts it succinctly by noting that "Applications, not just analytics, propel big data adoption", while Gartner predicts that "Data and analytics will drive modern business operations, and not simply reflect their performance".
+
+Other widely-cited trends and predictions for 2017 concern 'Informatics, data science & data engineering', 'Big data proliferation & governance' and 'Cloud-based analytics & integrated data services'.
+
+What the surveys say
+
+NewVantage Partners
+
+Management consulting firm NewVantage Partners (NVP) has been querying business and technology decision-makers in Fortune 1000 companies about their big data deployments since 2012, publishing its fifth report in April 2017.
+
+The headline finding from NVP's Big Data Executive Survey 2017 is that 80.7 percent of respondents judged their big data investments to be successful, with 48.4 percent reporting 'measurable results'. The latter were subdivided into 'highest success' (disruptive/innovative/transformative, 21%) and 'highly successful' (evolutionary, 27.4%).
+
+Data: NewVantage Partners / Chart: ZDNet
+
+Drilling down into the types of initiatives underway, top of the list in terms of results is 'Decrease expenses through operational cost efficiencies', with 72.6 percent of respondents starting projects and 49.2 percent reporting benefits. This gives a success rate of 67.8 percent, which is actually bettered by 'Create new avenues for innovation and disruption' at 68.7 percent success (64.5% started, 44.3% reporting benefits).
+
+Despite these successful projects, the Fortune 1000 companies surveyed by NewVantage Partners still seem to be struggling to establish a data-driven culture: 69.4 percent have begun initiatives in this area, but only 27.9 percent report benefits (40.2% success).
+
+Among the cultural impediments to big data adoption, NVP's survey finds 'Insufficient organizational alignment' heading the list at 42.6 percent, just ahead of 'Lack of middle management adoption and understanding' and 'Business resistance or lack of understanding' (41%):
+
+Data: NewVantage Partners / Chart: ZDNet
+
+The above chart suggests that the main cultural impediments to big data adoption lie with business units rather than the IT department, as issues concerning data governance, technology understanding and data strategy are all cited by significantly fewer respondents (<30%).
+
+A key indicator that an organisation has a data-driven culture, or is working towards that goal, is the presence of a Chief Data Officer (CDO). NVP's 2017 survey shows that Fortune 1000 companies have been making progress on this front in recent years:
+
+Data: NewVantage Partners / Chart: ZDNet
+
+Although 60 percent of firms had a CDO in 2016, up from just 12 percent in 2012, their current role was seen as 'defensive' by a majority (56%) of NVP's respondents -- primarily reacting to regulatory and compliance demands. Going forward, executives believe that CDOs should become more 'offensive' -- taking the lead in driving innovation, building a data culture and managing data as an enterprise asset. That's presumably why the majority (53.4%) believe that CDOs should report to either the CEO (35.6%) or the COO (17.8%), rather than the CIO (15.6%).
+
+NVP's survey also asked respondents which disruptive factors -- apart from big data -- they foresee impacting their organisations over the next decade. Not surprisingly, given the current level of hype surrounding the subject, artificial intelligence and machine learning came out on top -- both in single and multiple choice formats:
+
+Data: NewVantage Partners / Chart: ZDNet
+
+GoDataDriven
+
+For a European perspective, we examined the Big Data Survey from Dutch data consultancy GoDataDriven, which is generated from attendees at the Big Data Expo in the Netherlands. The 2016 survey population numbered 315, comprising 168 executives and 147 managers.
+
+When asked about the main drivers of successful big data implementation, the frontrunner was 'A clear vision', cited by 71.4 percent of respondents, followed by 'Support from management' (51.2%) and 'Supporting systems & processes' (40.1%):
+
+Data: GoDataDriven / Chart: ZDNet
+
+As with the NewVantage survey discussed above, 'business' factors seem to feature more prominently than 'IT' issues when it comes to big data success.
+
+That's not to say that IT issues aren't important, of course. When asked about the challenges in setting up big data infrastructure, the top two responses concerned data quality and data availability:
+
+Data: GoDataDriven / Chart: ZDNet
+
+Once data of sufficient quality is available and a data-driven process is to be implemented, respondents cited 'Big data knowledge & data science expertise' and 'Time available for experimentation' as the biggest challenges:
+
+Data: GoDataDriven / Chart: ZDNet
+
+A wide range of business areas were addressed by data-driven applications, headed by market analysis, marketing, web shops and online apps. Only 2.1 percent of Big Data Survey respondents reported that they had no data-driven applications.
+
+Like NewVantage Partners, GoDataDriven asked its survey population about artificial intelligence. Although only 14.3 percent were currently implementing deep learning and AI, 52 percent were either in development or planned to implement deep learning and AI within three years:
+
+Data: GoDataDriven / Chart: ZDNet
+
+AI is definitely on the agenda, but it's clearly early days: just over one in five Big Data Survey respondents (21.5%) had no plans in this area.
+
+An expert view
+
+Image: Infogix
+
+To get an overview of the state of play in big data, we talked to Sumit Nijhawan, CEO and president at data integrity and data governance solutions specialist Infogix, whose Top Ten Transformative Data Trends for 2017 was among the sources for the predictions analysis presented earlier. Here are some key observations from the interview.
+
+"Almost every customer I go to has a big data initiative, and many projects start with a lot of momentum, investment and 'buzz'. But the progress they've made, the value they're getting out of their investment, often does not meet initial expectations," was Nijhawan's opening statement.
+
+"Some things we are working on with our customers, which we think can be transformative, are a combination of data governance, data preparation, self-service and smaller data lake deployments," he added.
+
+So you would say that the main bottleneck in extracting insights from big data is actually in discovering the valuable data that companies have, and making it available for analysis?
+
+"Yes, most of the focus has been to provide the storage environment -- Hadoop -- and let everyone dump whatever data they can into it. Two things are missing here: first, what's really the end goal and objective of what they're dumping into Hadoop? And second, even if the data is there, it's not governed, it's not searchable, it's not findable, and it's not there in a way that draws consumers to the data and helps them get value. It's very IT-dependent, still requiring very technical people to work on it. That's not how you'll get value out of these investments."
+
+Does this mean that there's a disconnect between 'the business' and IT -- do organisations need to foster a 'data culture', so that business units know how to ask the right questions of the data, and generate insights themselves?
+
+"We certainly need more of a business-driven data culture. It's not that the IT guys don't want to share: it's just that they have these tools and they feel like they're doing a good job, but they don't really know what the end goal is. That's why, unless it's a business-driven initiative, it's hard for it to materialise into anything meaningful."
+
+Is there a missing link in many organisations -- a Chief Data Officer (CDO), who can connect the C-suite and business units to the IT department?
+
+"There's absolutely a missing link, but I wouldn't say it's just about one person. The 'data culture' just mentioned is about people, processes and technologies, along with the data itself. It's really about the end-to-end process: here's how I'm going to source my data; this is what I'm going to do with my data; and this is how I'm going to deliver my data. That end-to-end process needs to be initiated by a business sponsor, which certainly could be the CDO. The problem with the Chief Data Officer paradigm today is, it's almost a bureaucratic position in many organisations: the CDO supposedly has influence, but has ended up becoming the person that vendors go to to pitch their technologies, rather than someone who's there to meet business objectives."
+
+Special Feature Special report: Turning big data into business insights This ebook, based on the latest ZDNet/TechRepublic special feature, looks at how businesses are using the data they collect to stay competitive, save money, boost profits, and power digital transformation. Read More
+
+When you talk to customers, which data-related skills are currently most in demand? Some analysts have detected a softening in the demand for data scientists, for example...
+
+"I think demand is softening, but it's not because there's a plethora of data scientists out there: it's more because existing data scientists haven't been able to deliver the value that businesses want. So the question becomes: 'What's the point in recruiting more data scientists if I'm not getting value? Why can't I have my operational folks, my day-to-day data analysts, take on more of this work?' And quite honestly, they can, because 80 percent of the problems that data scientists address can be solved by maybe 20 percent of the algorithms -- and those algorithms can be exposed in easy-to-use ways that data analysts and business analysts can incorporate into operational and business processes. I think more of that is happening, and the result is less demand for data scientists."
+
+We hear a lot about 'self-service' analytics, allowing even less expert people to get involved. Where do you think we are along that road?
+
+"What we're doing with our customers is, we're going and seeing where they've had data lake initiatives -- big data with Hadoop, Cloudera and all of that -- and saying: 'Maybe you don't need any of those open-source technologies that you're spending months and millions of dollars integrating. We're going to give you an end-to-end appliance for big data that's completely self-service enabled: everything comes integrated, and all you have to do is consume data and unleash your business folks, data scientists, whoever.' That's getting a lot of traction in the market. I don't know of another competitor who is actually providing a single end-to-end environment with Hadoop embedded, so that it becomes a 'black box' to the customer."
+
+Everyone is talking about machine learning and AI: how do you think its impact will play out in the big data space?
+
+"It's been around for a while, but there's currently a lot of buzz associated with it. But it's like I said earlier: 80 percent of the problems can be solved by 20 percent of machine learning algorithms such as segmentation, recommendation, classification, regression and forecasting. One area where we're seeing a lot of traction is big data quality, where traditionally data quality has been about specifying exact matching rules and duplicate rules, and all of that stuff. Now the data volumes are so high, and people are throwing more data into the data lake, they don't necessarily know what the exact rules are. Instead, we're using machine-learning algorithms such as segmentation and classification to find outliers, for instance. That's where machine learning is already adding a lot of value -- but again, you don't need very sophisticated data scientists to do that."
+
+Finally, do you think that, with the advent of self-service tools and the increasing involvement of non-specialists and even 'citizen data scientists', there's a democratisation process going on in big data?
+
+"I do think that will happen: it's the only way that investment in 'big data' can be sustained, and value realised -- there is no other option. And there are enough people, both in the IT and vendor world, who will force the issue and find ways to do that. It might be three to five years away, but I don't think much beyond that. In three to five years, people won't talk much about 'big data': instead they'll talk about the outcomes of the big data that's being delivered in a self-service kind of way."
+
+A full report on the interview with Sumit Nijhawan will appear shortly on ZDNet's sister site Tech Pro Research.
+
+Outlook
+
+There's a lot of data about, and there'll be a lot more in future, but organisations still have plenty of work to do if they're to routinely turn big data into valuable business insights. The establishment of a data-driven culture and the availability of data scientists and engineers (either recruited externally or trained internally) will be important in helping to bring this about, at least in the short term.
+
+As astronomer and early digital forensic investigator Clifford Stoll put it: "Data is not information, Information is not knowledge, Knowledge is not understanding, Understanding is not wisdom". So data scientists and engineers will be needed to extract information and knowledge from large, heterogeneous collections of data, and a data-driven culture will ensure that the right questions are asked, allowing understanding -- and perhaps even wisdom -- to reach the relevant parts of the organisation.
+
+Looking further ahead, increasing levels of automation -- particularly in the area of data preparation -- and the availability of self-service analytics tools will make data-driven insights easily available to non-specialist users.
+
+Along with data governance regulations such the EU's GDPR (and whatever version of it the post-Brexit UK government implements), these developments should help to redress the balance of power in the 'big data society', away from internet giants and towards smaller organisations and individuals.
+
+Read more on big data

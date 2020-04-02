@@ -1,0 +1,69 @@
+I've been trying to convince myself to setup a blog for the last year or so, mainly to house all of the knowledge that I gain and share it with anyone else who may find it useful. I've finally settled on a good first post topic: RESTful APIs with Python Tornado.
+
+There are dozens of frameworks and languages to build APIs in, but personally I'm not a fan of Node.js or PHP (more on that in a later post). Writing APIs in Python gives you a lot of power and flexibility to expand your API in ways that most other languages can't. It also works very well for building internal APIs for automation purposes.
+
+The framework I'm going to use is Tornado, an asynchronous Python webframework. Most other Python frameworks would work well, but Tornado is lightweight and offers some very powerful tools for running asynchronous tasks. Plus, it scales past 10,000 connections better than most web servers (assuming you use the built in web server and not a WSGI connection).
+
+Introduction
+
+First things first, let's install Tornado.
+
+pip install tornado
+
+Now that tornado is installed, let's start writing the server script.
+
+from tornado import httpserver from tornado import gen from tornado.ioloop import IOLoop import tornado.web class MainHandler ( tornado . web . RequestHandler ): def get ( self ): self . write ( 'Hello, world' ) class Application ( tornado . web . Application ): def __init__ ( self ): handlers = [ ( r"/?" , MainHandler ) ] tornado . web . Application . __init__ ( self , handlers ) def main (): app = Application () app . listen ( 80 ) IOLoop . instance () . start () if __name__ == '__main__' : main ()
+
+Run the script as root.
+
+zane > sudo python3 /path/to/server.py
+
+Once the server is running, you can open a new terminal window and run:
+
+zane > curl localhost
+
+and the output should say Hello, world . You could also just open a web browser and point it to http://localhost and get the same result.
+
+More functionality
+
+Sure, Hello, world is a great proof-of-concept, but we want some real functionality. Let's build a simple car API that allows us to GET and POST car information. Nothing too fancy.
+
+For this we'll use sqlite as a backend storage system. I wouldn't recommend it as a production database, but it would work for small projects.
+
+sqlite3 is included in the default libraries for Python 3, so we will simply import it. Then we need to create the database in the main() function and setup the database layout.
+
+from tornado import httpserver from tornado import gen from tornado.ioloop import IOLoop import sqlite3 as sqlite import tornado.web class MainHandler ( tornado . web . RequestHandler ): def get ( self ): self . write ( 'Hello, world' ) def verifyDatabase (): conn = sqlite . connect ( 'cars.db' ) c = conn . cursor () try : c . execute ( 'SELECT * FROM cars' ) print ( 'Table already exists' ) except : print ( 'Creating table \' cars \' ' ) c . execute ( 'CREATE TABLE cars ( \ id text, \ make text, \ model text, \ year text, \ trans text, \ color text)' ) print ( 'Successfully created table \' cars \' ' ) conn . commit () conn . close () class Application ( tornado . web . Application ): def __init__ ( self ): handlers = [ ( r"/?" , MainHandler ) ] tornado . web . Application . __init__ ( self , handlers ) def main (): # Verify the database exists and has the correct layout verifyDatabase () app = Application () app . listen ( 80 ) IOLoop . instance () . start () if __name__ == '__main__' : main ()
+
+If you run the server you should see the following output
+
+zane > sudo python3 ~/server.py Creating table 'cars' Successfully created table 'cars'
+
+NOTE :: The database cars.db will be created in your current working directory.
+
+The next step is to build some entry points for the API so we can manipulate some data. Here's a list of some basic entries we can make
+
+/api/v1/cars - GET - Return list of all cars
+
+/api/v1/cars - POST - Add new car to database
+
+/api/v1/cars/{ID} - GET - Return information of specific car
+
+/api/v1/cars/{ID} - POST - Update information of specific car
+
+To do this, we need to add two separate request handlers: one for /api/v1/cars and another for /api/v1/cars/{ID} . Our ID schema is going to be 4 digits of 1-9 (ex. 8273). The handlers in the Application class support regular expressions, so that's how we're going to handle the ID number.
+
+from tornado import httpserver from tornado import gen from tornado.ioloop import IOLoop import sqlite3 as sqlite import tornado.web class MainHandler ( tornado . web . RequestHandler ): def get ( self ): self . write ( 'Hello, world' ) class CarHandler ( tornado . web . RequestHandler ): def get ( self ): self . write ( 'GET - Welcome to the CarHandler!' ) def post ( self ): self . write ( 'POST - Welcome to the CarHandler!' ) def verifyDatabase (): conn = sqlite . connect ( 'cars.db' ) c = conn . cursor () try : c . execute ( 'SELECT * FROM cars' ) print ( 'Table already exists' ) except : print ( 'Creating table \' cars \' ' ) c . execute ( 'CREATE TABLE cars ( \ id text, \ make text, \ model text, \ year text, \ trans text, \ color text)' ) print ( 'Successfully created table \' cars \' ' ) conn . commit () conn . close () class Application ( tornado . web . Application ): def __init__ ( self ): handlers = [ ( r"/?" , MainHandler ), ( r"/api/v1/cars/?" , CarHandler ), ( r"/api/v1/cars/[0-9][0-9][0-9][0-9]/?" , CarHandler ) ] tornado . web . Application . __init__ ( self , handlers ) def main (): # Verify the database exists and has the correct layout verifyDatabase () app = Application () app . listen ( 80 ) IOLoop . instance () . start () if __name__ == '__main__' : main ()
+
+As you can see, we now have the following handlers:
+
+handlers = [ ( r"/?" , MainHandler ), ( r"/api/v1/cars/?" , CarHandler ), ( r"/api/v1/cars/[0-9][0-9][0-9][0-9]/?" , CarHandler ) ]
+
+Now is a good time to explain handlers. Each entrypoint to the server needs a request handler ( tornado.web.RequestHandler ). Without that, any attempt to GET/POST/PUT/DELETE/etc will return a 404 error code. The first line we added, (r"/api/v1/cars/?", CarHandler) will pass the request object to the CarHandler if the URL called matches the regex expression r"/api/v1/cars/?" . The "?" at the end simply makes the previous character optional. The second line we added, (r"/api/v1/cars/[0-9][0-9][0-9][0-9]/?", CarHandler) , does the same thing, as long as it matches r"/api/v1/cars/[0-9][0-9][0-9][0-9]/?" . So, for example, the URL http://<HOST>/api/v1/cars/8268 would match and be sent to CarHandler , whereas http://<HOST>/api/v1/cars/71ag would return a 404.
+
+Now if you run the script you can CURL the CarHandler and see the result.
+
+zane ) curl localhost/api/v1/cars GET - Welcome to the CarHandler! zane ) curl localhost/api/v1/cars/ GET - Welcome to the CarHandler!
+
+As you can see, it doesn't matter if we put the trailing "/"; the request is handled the same.
+
+Now we need to add some logic

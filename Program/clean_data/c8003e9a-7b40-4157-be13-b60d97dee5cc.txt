@@ -1,0 +1,79 @@
+You don't have to be a Go champion to have artificial intelligence change your game. Artificial intelligence touches lives every day. You get in your car, and your Apple iPhone tells you what traffic looks like where you're going--before you ask. We're all on the road with Tesla's self-driving cars, which are redefining what driving means. The artificial intelligence calendar assistant Amy emails three of your friends to figure out a meeting time that works for everyone--and nails it.
+
+Thankfully, chatting with Amazon's Alexa is a lot more entertaining than, say, would be Hal, the fictional artificial intelligence from the film 2001: A Space Odyssey. And things are about to get even more interesting.
+
+The art of "artificial"
+
+We have just experienced the fifth consecutive quarter of rising venture investment in A.I., despite the general venture capital slowdown. Amazon, Apple, Facebook, Google, IBM, and Microsoft are snapping up artificial intelligence. Apple, for example, recently snagged Emotient, VocalIQ, Perceptio, VocalQ, and Faceshift--and is looking for more. (CB Insights has a great recent article on A.I. acquisitions in the past few years.)
+
+The otherwise sober-minded gent Phil Libin, founder at Evernote, recently said, "The world is going to be rewritten again." It's either an A.I. bubble or a sign of a big beginning. By the way, Libin just made his first investment as a new VC. It's in an A.I. bot named Begin. Libin is in good company: Sixty percent of A.I. firms that have been acquired in the past five years are venture-backed. That's an unusually high percentage for a horizontal sector. This chart from CB Insights shows the story:
+
+Here are a few of the many artificial intelligence systems out there.
+
+Take a peek at them, because many of them are already looking at you.
+
+1. 6sense
+
+This startup helps companies like Cisco and IBM predict sales.
+
+2. Botanic.io
+
+This company builds an interactive, verbal personality for your code. Yep, if you have a system that needs to interact, Botanic.io creates a user interface for it with voice. (I went to the company's website for a comment, but it was only text as of today. I'll check back tomorrow.)
+
+3. Arria
+
+An analyst and a writer in one, this software "reads" complex data such as financial or meteorological and writes accurate, easy-to-read reports for people. Yep, it's software that simplifies things so we can understand them. Arria spits out 60 accurate, detailed weather forecasts in less than a second. (People clock in at 24 hours on that task.)
+
+4. Automated Insights
+
+Similarly, if you've got spreadsheets, Automated Insights turns them into stories. Think narratives for your sales teams based on their pipeline reports. Or imagine almost instant flight delay or gate data updates going out in natural, native language without a person having to get involved.
+
+5. Banjo
+
+Banjo is building the world's first disaster prediction engine. The company's dream is to make terrorism impossible. When the Boston marathon was bombed in 2013, MIT graduate and founder Damien Patton used Banjo to "rewind" the social signals and thought he should have seen it coming. He pivoted his company to automate predicting danger.
+
+6. ID Avatars
+
+This startup just raised a million to create emotional intelligence. Its first bot, Sophie, interacts with patients who have chronic health issues. Unlike some bots made to optimize paid interactions, this one is built to act in your best interests, period. (Asimov would have been proud.)
+
+7. Infer
+
+Infer helps B2B companies like HubSpot and Atlassian read the tea leaves in their sales data to figure out which leads are real and which are tire kickers. The company says using its system creates a 3X increase in conversion rates and doubles deal size. Now that's intelligent.
+
+8. MindMeld
+
+Inspired by Spock, this startup aims to make computer-human communication happen at high speed for us non-Vulcans. Well, almost. MindMeld is a leader in upgrading text interfaces to natural voice interfaces. They are a lot faster and more fun to use.
+
+9. Mintigo
+
+Mintigo mines data from millions of companies--financials, staff and hiring trends, technologies installed, marketing channels used, and purchase intent. It creates a customer DNA fingerprint from that, and help you use it to score your prospects better. This nifty infographic gives you a sense of how it works for Salesforce. Sequoia Capital just doubled down, leading a $15 million Series D.
+
+10. Persado
+
+E-trade and American Express are among the customers using Persado to get you to do something, as in, immediately. Persado calls its product "cognitive content." What it really does is automate feeding you your ultimate clickbait. Wonder why you can't put down the phone? Goldman Sachs, smelling money, just led the Series C.
+
+11. Skytree
+
+Skytree.net (never to be confused with SkyNet) exists to help other software predict the future more accurately. You think I'm kidding, but here is the full quote from the company's homepage:
+
+Skytree empowers data scientists to build more accurate models faster. The result? Deep analytic insights and the ability to predict future events, make recommendations, and reveal untapped markets and customers.
+
+12. Sense.ly
+
+This health care startup helps doctors reach patients through bots and sensors (think, on your phone) that maximize time, minimize dollars, and try to optimize patient health.
+
+13. X.ai
+
+When can you make that meeting? X.ai's virtual assistant is truly virtual--you can have it in the Andrew or the Amy flavor. Simply copy it in your email, and it does the rest--emailing everyone independently to figure out an ideal time and place.
+
+14. Vicarious Systems
+
+This company decided traditional machine learning is for dummies. It's building a faster, smoother learning interface for artificial intelligence that gets away from the zeros and ones. VS intends to reinvent how artificial intelligence gets smart and has raised around $72 million to get a start on that.
+
+15. Viv Labs
+
+Viv markets itself as the global brain. Perhaps you've already spotted something like Viv, if you watched the movie Her. Like the fictional artificial intelligence virtual assistant in Her, Viv is supposed to be an ubiquitous, personalized presence that can control everything from your fridge to your flight.
+
+The artificial intelligence arms race
+
+There are so many A.I. startups, it's impossible to capture even a fraction of them in one article. Hopefully, you got a sense of the flavor of this exciting space. If there's an especially fascinating young startup I missed, please share.

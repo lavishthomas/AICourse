@@ -1,0 +1,13 @@
+Each member of Congress has their own (sometimes peculiar) contact form, which makes writing to your representatives more of a hassle than it should be. Thanks to the EFF’s new open source site Democracy.io, however, sending a message to Congress couldn’t be any easier.
+
+All you have to do is enter your address and you’ll get a list of members of the Senate and House of Representatives in your area. You can write to all of them at once or select the recipients. The contact form has just a few fields for your subject, message, email address, name, and phone number, plus a drop-down topic selection required by Congress members’ contact forms.
+
+
+
+Advertisement
+
+That’s it. No searching for your representatives’ sites and filling out duplicate forms.
+
+According to the EFF’s post on Product Hunt, Congress members may respond to emails filtered as coming from Democracy.io more thoughtfully, and the organization is planning on tracking the timeliness and relevance of Congress members’ responses to hold them accountable. Wouldn’t that be nice.
+
+Democracy.io via BGR

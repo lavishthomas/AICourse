@@ -1,0 +1,75 @@
+I co-founded PrepMe in 2001. We were one of the first education companies online and the first purely online, personalized platform. We were acquired in 2011 by Providence Equity-backed Ascend Learning. In the last month, I’ve had 3 VC firms bring me in to chat with their partnership about education and 6 independent entrepreneurs reach out to me about their new education startup. This is a summary of what I tell them in person.
+
+Note: I am going to make some generalizations below. Clearly there are nuances around education policy, economic policy, technology, and more. But this is a blog post, not a book, so take it for what it’s worth. These views are my own, not PrepMe’s (or Spool’s).
+
+Summary
+
+Most entrepreneurs in education build the wrong type of business, because entrepreneurs think of education as a quality problem. The average person thinks of it as a cost problem.
+
+Building in education does not follow an Internet company’s growth curve. Do it because you want to fix problems in education for the next 20 years.
+
+There are opportunities in education in servicing the poor in the US and building a company in Asia — not in selling to the middle class in the US.
+
+The underlying culture will change and expose interesting opportunities in the long term, but probably not for another 5 years.
+
+What Entrepreneurs and VCs Think
+
+“Education is ripe for disruption. Technology and great products could make education so much better. If a product like Blackboard or University of Phoenix can succeed, then imagine how great a company you could build if built educational products like Apple does for consumer electronics!”
+
+First, let’s qualify what they’re saying here. Almost always what they are really saying is “consumer, Internet, online education in the Western world is ready for disruption. Everyone is online now and everyone gets an education, so clearly there are massive businesses to be built.” They probably aren’t talking about education in Asia because the companies in that space are started on the ground in Asia. They most likely aren’t selling to schools, districts, the government, or universities. VCs usually don’t like to invest in businesses that sell to the government until those businesses are big (at which point it’s really a private equity deal, not a venture capital deal). Angels will invest in education companies because they’re more motivated by making a difference, not by making a big return in 5 years. For now, let’s focus on US and European online education targeted at consumers.
+
+Why they are wrong
+
+The average person in a developed country does not think about education the way a well educated VC or entrepreneur thinks about education.
+
+VCs and entrepreneurs tend to be well educated. Well educated people think about education as an investment. You put as many of your resources in to an investment as you can. It may take 20 years to pay off, but if the return-on-investment is high (which it is for education) then you invest. This group of people — if you’re reading this, you fall into this group — generally understand that education is an investment, and as a result are price insensitive and will optimize for quality (a higher return on investment). For this group of people, quality is the primary driver of a purchasing decision, not cost.
+
+The average, middle class person thinks about education as an expenditure, not an investment. It’s something they have to do because it’s mandated and the lack of the highest quality education hasn’t negatively impacted their lives in a meaningful way. Step back for a second before you judge. Imagine it’s 2005, and you live in a small town in the middle of Ohio (where I grew up) and you don’t get a college degree. If you get a factory job and make $25k/year and your wife gets a factory job and makes $25k/year, you’re making $50k/year. But houses only cost $90,000 and food is affordable and you can get a loan for a car for $300/month. So you’re not doing terribly and the default state for your children is the same life. You can afford a house, food, have a car, and have weekends off.
+
+So, what has the lack of an education done to the typical American’s life? It’s removed job security, screwed your retirement, and maybe set you up to go bankrupt if you get sick. There are no immediate consequences, there are no immediate consequences for your children, but there is an immediate cost. So the average person thinks of education as an expenditure. If you get sick when you’re 70, you’re screwed. Or if you don’t save in your 401k, you may have to work till you’re dead. Or maybe your children won’t be as competitive in a global workforce 30 years. Don’t believe me? Only 15% of kids taking the SAT pay for an out of school test prep course like Kaplan. Over 50% of Americans don’t have beyond a high school degree.
+
+This fundamental investment vs. expenditure mindset changes everything. You think of education as fundamentally a quality problem. The average person thinks of education as fundamentally a cost problem.
+
+What does this mean for education companies?
+
+Educational companies that focus on delivering higher quality solutions to consumers will not scale to the mainstream. Educational companies built around driving down costs to the end consumer will scale. Or a corollary, an enterprise sales or government sales company that taps into government revenue streams will scale but will not have a consumer Internet growth curve.
+
+Let’s look at some data from the marketplace:
+
+Chegg – A company that is in education and sells to consumers. A $1 billion valuation and growing quickly. But, Chegg sells you the same textbook experience for much cheaper. It’s a great consumer focused business with offering real savings to students. Note that even in 2011, the “Netflix of education” is booming because of the equivalent of its DVD (physical textbook) business. Digital, personalized learning online or tablet based, interactive, social textbooks aren’t anywhere to be found.
+
+University of Phoenix – $6 billion market cap. They make it easier to get a degree because it’s convenient and subsidized by government backed loans. Consumers make the decision but ultimately the government is footing the bill. They aren’t a consumer company and they are a marketing machine. They are a company that makes it easy to get the same quality diploma that you would get at the local college. They don’t compete with Harvard, they compete with the local university that costs more and only has on campus night courses. They weren’t an overnight success either; UofP was started in 1976 and they IPO-ed in 1994.
+
+Kaplan – they didn’t get huge because of their test prep business, which is a consumer business and (arguably) delivers educational value. They became huge because they started following the University of Phoenix model for Kaplan University. Again, the primary value they offer is not quality of education, but convenience.
+
+K12 – they are not a consumer, online education company. They sell to school districts and their model revolves around being able to drive down costs for school districts in their high cost students — special needs, gifted, rural, etc. They have built an interesting consumer business overseas — in the Middle East and Asia.
+
+Here are a few examples of companies that tried to do consumer Internet style education plays and how it worked for them:
+
+TutorVista – started by offering online tutoring to Western students using tutors in India. All you can eat for $99/month or so. They burned millions on search engine marketing and were able to build a business that generated eight figure revenue — nice but not enough to IPO on. So they pivoted and opened education centers in India and were acquired for $213 million by Pearson. A $200+ million acquisition in India is unheard of.
+
+Tutor.com – started a decade ago to offer online tutoring to the masses. Never went mainstream, even after 5 rounds of funding. They’ve built a niche business that survives through deals they’ve struck with various government bodies — libraries, schools, etc.
+
+GlobalScholar – started by the CEO of Drugstore.com, tried initially to do a direct to consumer play. Realized it wasn’t working and bought an electronic gradebook company that works with schools and was sold to Scantron that has great distribution with schools.
+
+There are dozens of examples of companies that have tried to build around quality and hit a revenue ceiling in the few millions. Think about the 10 local tutoring centers in your city that probably make $1 million each. This early traction is very misleading because you see engaged, happy, paying customers. So you assume that it will scale but it turns out that this business won’t scale because your early adopters behave fundamentally differently than the mass market.
+
+An Aside: Being Asian or poor changes your perspective Yes, this section is a little hand wavy and full of generalizations. These are observational insights with some data points that show the generalizations are directionally accurate at the end. This is not a rigorous sociological study, so take the generalizations for what they’re worth. If you’re living in most of Asia (South Asia included) and you don’t get an education, you’re screwed. Part of this is cultural (you have no social capital if you’re not well educated) and a lot of it is economic (if you don’t have an education, you will do menial labor and not have enough money to feed your children). Consider the difference between some random person in China vs. some random person in Kansas. If the Chinese person doesn’t get an education there’s a good chance they will not get a job. They will die poor, unable to adequately feed their children, and unable to take care of their parents (since the model is that the young take care of the older members of the family). But if they do get an education, they have a shot at a good life — call centers, banks, government jobs, the army, etc. And if it’s too late for that individual, they know that they can give a good life to their children. The non-college educated person in Kansas probably won’t have a great life and a secure retirement without an education. But they, their children, and their parents probably won’t die hungry and homeless on the streets of Topeka. This cultural mentality is carried over to many Asian Americans via immigration. This is not universally true, of course, of Asian Americans but there is no denying there is a strong correlation. So if you want to start a consumer education company in Asia, you can make it work and make it scale — MegaStudy and Kumon are two great examples. However, there are not enough Asian Americans to support the same scale of business in the US. Being poor also changes how you think about education. Interestingly, in the US, the people who are most willing to try new things are the poor and uneducated because they have a similar incentive structure to a person in rural India. Their default state is “screwed.” If a poor person doesn’t do something dramatic, they are going to stay screwed. Many parents and teachers in these communities understand this. So the communities are often willing to try new, experimental things — online education, charter schools, longer school days, no summer vacation, co-op programs — even if they may not work. Why? Because their students’ default state is “screwed” and they need something dramatically better. Doing something significantly higher quality is the only way to overcome the inertia of already being screwed. The affordable, but poor quality approaches just aren’t good enough. These communities are on the hunt for dramatically better approaches and willing to try new things. Unfortunately the poor don’t have a lot of money to spend so servicing this community requires selling to the schools, which is an enterprise sales type of business — not a consumer business. Consider Kumon, which is worth almost $1 Billion. They started in Asia, they are essentially a franchise model that caters to well educated parents, and a key part of the value proposition is in giving students a place to go and be supervised (babysitting!). It’s a great business that serves 4.2 million students worldwide. Of this, about 200,000 are in the US. The overwhelming majority are in Asia. It’s not a perfect dataset but the Quantcast data for Khan Academy’s US demographics support this. The people going to the site are: the already well educated who value education and want supplemental resources
+
+Poorer (which unfortunately correlates with being African American and Hispanic)
+
+Asian
+
+Education is a huge market and there are opportunities
+
+Clearly education is billions (trillions!) of dollars. There are lots of opportunities, especially if you take a long term view of it and want to build something meaningful for the next 25 years. However, don’t make the following mistakes:
+
+Don’t believe that building a better product will make you successful. Delivering something for cheaper will. Even if that cheaper thing is lower quality. This is usually repugnant to most well-educated entrepreneurs.
+
+Don’t start in developed, western countries because that’s where large, Internet businesses have been built. Asia is a much better education market if you want to target consumers.
+
+Don’t take VC funding because the growth curve in your education business will not live up to VC expectations early on. Take angel money from people who want to make a difference in education. Then take private equity money once you’ve figured out how to get to $10 million in revenue on your own. Even better, don’t take any PE money and grow it on cash flows. Successful education businesses are often not capital constrained.
+
+Don’t target suburban or urban, middle class users with disposable income. You’ll build a niche business that can’t go mainstream. Target poor students in the US and get to charter schools who are desperate to try new things. Target families in China and India where a family will put down half of their monthly income on education. Or target people who really value education and will pay 10x more for something that is higher quality. That’s where there are big businesses to be built and a willingness for new solutions.
+
+Don’t expect a quick flip or quick growth. Building a large, successful education company will take 20 years. The growth curve will not be like an Internet technology company until you hit $10+ million in revenue. Then things will ramp quickly because you will have identified your core market and built the beginnings of a brand; the education industry is small and people will know if you deliver real value.

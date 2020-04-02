@@ -1,0 +1,177 @@
+There are few motorcycles that capture beauty and speed as naturally as the Tamburini-designed Ducati superbikes. These Italian thoroughbreds have it all: under-seat exhaust pipes, a single-sided swing arm, quad cams, a pretty face and a gorgeous profile. There is no acquired taste needed—they look stunning the first time you lay eyes on them. It’s no wonder why these bikes often starred as the go-fast stallions for many contemporary blockbuster flicks.
+
+What makes these machines more desirable today than just a decade ago is that they can be picked up for an absolute bargain on the used market. The newest models are over 15 years old and the depreciation monster has taken a firm hold with little sign of letting up.
+
+Advertisement
+
+However, before you can go rip-riding off into the horizon like Trinity in The Matrix Reloaded, you must go through the coming-of-age process of owning a Ducati: maintenance.
+
+Ducatis have always been viewed as exotics among motorcycle manufacturers. I bet that we all share a similar preconception when the term “exotic” rolls off the tongue—something along the lines of “high maintenance” and “expensive to own.”
+
+Advertisement
+
+When dealing with vehicles of the four-wheeled variety, the “expensive” clause can certainly be a reality. Although when you divide the wheel count by two, you may be surprised to see how affordable exotic ownership becomes.
+
+
+
+Arguably the most important maintenance item on this era of Ducatis are the timing belts. These are due for replacement every two years or 12,000 miles, whichever comes first. You are playing with fire if you don’t adhere to this strict interval. The engine utilizes a high compression “interference” design which means that the piston and valves share the same space in the combustion chamber, albeit at different times. If the belts break, these components will then try to share the same space at the same time, which equates to you looking for a new engine. Talk about a less than desirable outcome.
+
+Four semesters of Italian finally paying off.
+
+I’m going to show you how to properly replace the timing belts on a Ducati 996, and, as an added bonus, I’ll show you how to replace the exhaust system on one too. Alright, so the exhaust replacement may seem a bit random, but as with any older vehicle mechanical repair, you never know what sort of “while you’re in there” issues you may encounter along the way. Let’s get started!
+
+
+
+Tool Time
+
+Let’s first take a look at the special tools you will want for the timing belt replacement.
+
+The most important tool of the bunch is the timing belt tensioner gauge. The one pictured is the gauge specified in the Ducati service manual. Unfortunately, this gauge is no longer available for purchase. The good news is that there are various other ways to set the correct tension, including a method of using a guitar string tuner phone app to pick up the belt’s frequency when “plucked.” I will not go into these other tensioning methods, but information regarding them is readily available online.
+
+The other tools shown are not exclusively required, but having them will make the procedure a lot less painful. I’ll explain their usefulness as they are used throughout the repair.
+
+Getting Down To It
+
+Your first taste of Ducati maintenance starts with stripping off all of the bodywork. If you’ve ever disassembled the fairings on a Japanese sportsbike, you are probably familiar with the assortment of socket head bolts and hidden plastic pop rivets that secure the intricate bodywork together. It can take ages to remove it all. Thankfully, the Ducati is nothing like that; the bodywork strip down is about as easy as they come.
+
+The fairings are held on with “Dzus” fasteners and the tail section is secured with a couple of plastic pins. The only tools you need are your hands. Once the fairings are removed, you’ll need to remove the battery and its mounting chassis which does require the use of some wrenches.
+
+The gas tank is next to go on the tear down and it is a pain to remove your first time around. A single bolt holds the tank in place, but the fuel lines can throw you a bit of a curve ball. The fuel lines utilize quick-disconnect mechanisms, but the space you have to access them is limited. Perseverance will see them removed. With the gas tank out of the way, remove the airbox by unscrewing the intake trumpets and loosening up the six securing socket head bolts. At this stage you should have a nice pile of Ducati parts accumulating.
+
+You are now officially at the inner workings of the motorcycle. The next step gets you to the belts themselves – just a handful of bolts to remove and the belt covers pop right off.
+
+Johnny 5??
+
+Before we can remove the timing belts, we must first set the engine to top dead center (TDC). The term “TDC” means that the piston is at the top of its combustion stroke, at the highest point in the cylinder. So, how do we go about setting the engine to TDC?
+
+Advertisement
+
+Thankfully Ducati has made it easy for us. The camshaft and crankshaft sprockets all have markers on them. The engine casings also have markers on them. When we turn the engine over, the markers on all of the movable pieces (sprockets) will eventually come into exact alignment with all of the markers on the engine casings. This alignment of markers signifies that the engine’s horizontal cylinder is at TDC.
+
+
+
+To turn the engine over, put the bike into sixth gear and spin the rear wheel in a forward motion. This will give you the most mechanical advantage over the engine’s compression and will allow you to precisely locate the sprocket markers to the engine casing markers.
+
+Once the engine is at TDC, it is time to use one of our handy special tools. Known as a camshaft locking tool, its job is to, well, lock the camshaft. You can certainly get by without using this tool, but having it will save you a lot of headache when you put the new belt on. This is because the forward-most camshaft (intake) on the vertical cylinder is under compression. Without the tool in place, that sprocket tends to whip counter-clockwise when the belt is removed and it is difficult to re-center.
+
+Before removing the old belts, place some paint on the teeth of the belts that fall on alignment markers. I’ll show you later why this is an important step.
+
+Advertisement
+
+Next, loosen the belt tensioner pulley and then completely remove it. This will allow the belt to go full-slack and you can then pull the belt out of the bike. The same procedure can be followed to remove the belt on the horizontal cylinder bank, except you do not need to use the locking tool as the neither of the camshafts on this bank are under compression.
+
+With the old timing belts removed, it’s a great time to inspect their condition and possibly see why Ducati recommends their replacement every two years.
+
+As can be seen in the picture, there was a small amount of fraying beginning on the edges of the belts. While the belt could have definitely made it a while longer, it’s better to be safe than sorry and stick to the two year service interval specified by Ducati.
+
+Picking Up The Slack
+
+The parts you need: New belts (2) and new fuel line quick-disconnect o-rings (2).
+
+Before installing the new belts, it is important to transfer the alignment paint marks made to the old belts over to the new belts. It is critical that the number of teeth between marks is exactly the same between old and new belts. Take your time and triple check your work here. These markers are all that you have to ensure that the belt is aligned correctly with the corresponding sprockets. This is why it was crucial to mark up the old belt before removing it from the engine.
+
+
+
+The vertical cylinder’s belt must be installed first, and consequently, it is the more difficult of the two belts to fit. This hardship is mainly due to the camshaft that is under compression and the inconveniently placed frame rail that runs across the work space. Keeping the belt marks aligned with all of the sprocket alignment keys is an act of flexibility and patience. The procedure will make you wish you had three hands. It usually takes me six or seven tries to get it right. Just keep at it and eventually you’ll get the belt fitted correctly.
+
+The horizontal cylinder’s belt is a cinch to install because it is easy to see what you are doing and you are also not fighting any rouge sprockets. With both belts in, it is now time to set the correct belt tension. As I stated earlier, there are many schools of thought on how to set the tension. I am going to show you how to do it with the factory belt tensioner gauge.
+
+The jury is still out on what units the gauge reads in.
+
+The belts should only be tensioned when the cylinder you are working on is at the top of its combustion stroke. We know that in the current configuration, the horizontal cylinder is our TDC cylinder, so that is the belt we will set tension on first. Place the gauge on the portion of the belt that runs between the two camshaft sprockets. Use the 22mm offset wrench, turn the tensioner pulley so that belt tightens and the gauge reads the maximum tension of 12, then slowly unwind the tensioner pulley until the gauge reads 2.5. Use the 12mm flex head socket wrench to lock down the tensioner pulley nut. That is one belt tensioned to specification.
+
+
+
+Now, to set the belt tension on the vertical cylinder, we must make it the cylinder which is at TDC. To do this, you must rotate the engine 270 degrees by spinning the rear tire in a forward motion like before when we first set TDC to remove the belts.
+
+To verify that you have rotated the engine 270 degrees, look through the sight glass window located on the left side engine casing. You are looking for the alignment marker on the internally rotating mechanism (flywheel) to line up with the marker on the engine casing. The crankshaft sprocket will have completed one full rotation before the internal marker will line up. Once there, you will also notice that the sprocket alignment marks no longer align with the engine casing marks—this is expected.
+
+General sprocket orientation when vertical cylinder is at TDC.
+
+With the vertical cylinder now at TDC, you now can set the vertical belt’s tension using the exact same procedure we used on the horizontal cylinder’s belt.
+
+
+
+Advertisement
+
+And just like that, the new belts are finally in the bike and the technical stuff is out of the way. Job done!
+
+
+
+(Note: Keen eyes may inquire, “Why don’t you check the valve clearances while you have everything apart?” They would be right; normally this is good practice if you don’t know when it was last done. However, checking the valve clearances is a mileage-only based maintenance item. Due to me having ridden the bike a regrettably few number of miles since I last performed that particular job, I elected to not check the clearances.)
+
+Exhausting Work
+
+While the timing belt service was the main reason for taking the Ducati apart, there was another component on the bike that needed some love.
+
+The exhaust looks fine until you get a closer view.
+
+I noticed that the lowest portion of the exhaust system, which drops down about an inch past the lowest section of the fairings, had a sizable dent in it. The dent was purely cosmetic, but, since I knew it was there, I felt that I had to fix it. It made all the sense in the world to tackle this job while the bike was disassembled.
+
+
+
+Showing its age a bit.
+
+The rest of the exhaust system was in decent nick for being 16 years old with 21,000 miles on it. Even still, corrosion was beginning to form around the header flange welds and keeping it presentable was becoming a lost cause.
+
+
+
+Advertisement
+
+I hopped on eBay to see if I could swing a nice used replacement exhaust system for the bike. I absolutely love eBay; you just never know what sort of treasures you will find for ridiculously good prices. In the end, eBay definitely came through for me on this one. Imagine my excitement when I happened upon a listing for a new-old-stock Ducati exhaust system. The best part was that it was cheap – under $100. That, my friends, is a screaming deal worthy of impulsively clicking the “Buy It Now” button.
+
+Shiny new exhaust ready to go on.
+
+The first task in the procedure was to remove the old exhaust, which went easier than I anticipated. Removing the end cans allows you the flexibility to wrangle the rest of the system out of the bike. It’s a good idea to hit all of the slip joints of the system with some penetrating oil to ease up their firm grasp. Remember, these pipes probably haven’t been removed since the bike was new so they may put up a fight.
+
+
+
+With the exhaust headers out of the way, you can see that an exhaust leak was present between the cylinder head and the exhaust header flange. Some new exhaust gaskets should cure that right up!
+
+
+
+Nothing a new gasket can’t fix.
+
+Installing new slip joint retainer springs throughout the system will ensure a tight seal and a rattle-free fit. These springs are a little tricky to install on the exhaust joints nearest the rear tire, but with the aid of a spring puller tool, you will see them go on with minimal fiddling.
+
+Dent no more!
+
+With the new headers and collector pipes installed, I would say that the overall appearance of the bike has drastically improved.The end cans are then plopped back on the bike to finish off the exhaust system.
+
+Ahh...much better.
+
+With that done, you can now proceed to piece the rest of the bike back together.When refitting the gas tank, be sure to use new O-rings on the fuel line quick-disconnect fittings. It’s amazing how fast the reassembly goes once you’ve seen how it all comes apart. This is truly one of the easiest sportsbikes to strip down and rebuild. It’s almost like they designed for it to be a regular occurrence…
+
+Che Bella!
+
+Hit Me With The Figures
+
+Ducatis often get stereotyped as being maintenance intensive and expensive to own. The maintenance intensive part may be ground in truth, but if you do the work yourself, upkeep isn’t all that pricey.
+
+Ready for the scrap heap.
+
+Just take a look at the figures:
+
+
+
+TIMING BELT PARTS: $112.84
+
+EXHAUST SYSTEM PARTS: $115.03
+
+LABOR HOURS: 6
+
+GRAND TOTAL: $227.87
+
+Not bad at all.
+
+Chances are good that you won’t need to switch out the exhaust like I did, but even if you do, it still isn’t that expensive. Shoot – that is basically the cost of a single new tire on a BMW lease-mobile. The timing belts come due every two years or 12,000 miles, so if you are replacing them yourself, the annual cost of maintaining this bike is pretty low.
+
+No photo shoot is complete without a trendy trash bin.
+
+Owning an older Ducati motorcycle isn’t for everyone. They have their quirks and they require more love and attention than any Japanese equivalent. These are rewarding machines to own, but you must first allow yourself to break through the “expensive to maintain” and “difficult to work on” mental barriers.
+
+Advertisement
+
+They are different, they are beautiful, they are impractical, and they will make an impression on you. When all of the other bikes have come and gone, there will always be the Ducati.
+
+Peter Monshizadeh is the Practical Enthusiast. Got a story you’d like to submit to Jalopnik? Email us.

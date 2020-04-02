@@ -1,0 +1,15 @@
+Most of the attention around automation focuses on how factory robots and self-driving cars may fundamentally change our workforce, potentially eliminating millions of jobs. But AI that can handle knowledge-based, white-collar work are also becoming increasingly competent.
+
+One Japanese insurance company, Fukoku Mutual Life Insurance, is reportedly replacing 34 human insurance claim workers with “IBM Watson Explorer,” starting by January 2017.
+
+The AI will scan hospital records and other documents to determine insurance payouts, according to a company press release, factoring injuries, patient medical histories, and procedures administered. Automation of these research and data gathering tasks will help the remaining human workers process the final payout faster, the release says.
+
+Fukoku Mutual will spend $1.7 million (200 million yen) to install the AI system, and $128,000 per year for maintenance, according to Japan’s The Mainichi. The company saves roughly $1.1 million per year on employee salaries by using the IBM software, meaning it hopes to see a return on the investment in less than two years.
+
+Watson AI is expected to improve productivity by 30%, Fukoku Mutual says. The company was encouraged by its use of similar IBM technology to analyze customer’s voices during complaints. The software typically takes the customer’s words, converts them to text, and analyzes whether those words are positive or negative. Similar sentiment analysis software is also being used by a range of US companies for customer service; incidentally, a large benefit of the software is understanding when customers get frustrated with automated systems.
+
+The Mainichi reports that three other Japanese insurance companies are testing or implementing AI systems to automate work such as finding ideal plans for customers. An Israeli insurance startup, Lemonade, has raised $60 million on the idea of “replacing brokers and paperwork with bots and machine learning,” says CEO Daniel Schreiber.
+
+Artificial intelligence systems like IBM’s are poised to upend knowledge-based professions, like insurance and financial services, according to the Harvard Business Review, due to the fact that many jobs can be “composed of work that can be codified into standard steps and of decisions based on cleanly formatted data.” But whether that means augmenting workers’ ability to be productive, or replacing them entirely remains to be seen.
+
+“Almost all jobs have major elements that—for the foreseeable future—won’t be possible for computers to handle,” HBR writes. “And yet, we have to admit that there are some knowledge-work jobs that will simply succumb to the rise of the robots.”

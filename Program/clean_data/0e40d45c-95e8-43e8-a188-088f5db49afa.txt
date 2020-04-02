@@ -1,0 +1,13 @@
+Laravel Packages / May 02, 2017 Interactive Make Command
+
+The Interactive Make Command is a new package by Laracademy that allows you to get interactive questions after running php artisan make .
+
+On the project page they have created this animated Gif which gives a great overview of how the package works:
+
+For more information check out the project page on Github and you can install it easily through composer:
+
+composer require laracademy/interactive-make
+
+Then add its service provider to the config/app.php:
+
+Laracademy\Commands\MakeServiceProvider::class,

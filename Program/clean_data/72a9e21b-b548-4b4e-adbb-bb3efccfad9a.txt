@@ -1,0 +1,79 @@
+Advanced Segments allows you to isolate specific types of traffic within your Google Analytics reporting. For example, you can see your Google Analytics standard reporting data for visitors from only the United States if that’s what you want to do. In this post, we’re going to look at how you can create and use Advanced Segments in the new Google Analytics.
+
+What You Can Do with the New Advanced Segments
+
+So what is all the fuss about the new Advanced Segments in Google Analytics? Here’s an overview of some of the new and best and ways to use Advanced Segments.
+
+View all of your Google Analytics standard and custom reports for users and visits that match specific criteria.
+
+Create custom segments with the new easy-to-use interface that will guide you through five types of custom segments – Demographics, Technology, Behavior, Date of First Visit, and Traffic Sources.
+
+Include demographic data (age, gender, and interests) in your data segmentation.
+
+Import custom segments made by the Google Analytics team and other Google Analytics users.
+
+Share your custom segments with others using a custom link.
+
+Let’s dive in to how you can start using Advanced Segments today. (This is applicable for both people familiar with the old setup and those who are new.)
+
+How to Use Advanced Segments
+
+To access Advanced Segments in the new Google Analytics, you’ll need to click on the dropdown arrow next to the default All Visits view.
+
+This will toggle the Advanced Segments screen.
+
+The default view will show you all of your advanced and custom segments. You can use the tabs to see only built-in segments, custom segments you created, or favorite segments you have starred. You also can search your advanced and custom segments.
+
+To select segments to view, just click on them or drag them to the allotted spaces at the top. You can view up to four segments at a time.
+
+When you’re finished selecting your segments, click the Apply button at the bottom to view your data.
+
+To remove a segment from your view, click the “x” at the top right of each circle box.
+
+How to Create a Custom Segment
+
+To create a new custom segment, click the +New Custom Segment button. Next, you will be able to name your custom segment and choose from five types of segments.
+
+Demographics – Segment your users by demographic information such as age, gender, language, affinity category, and location. In order to use the age, gender, and categories, you will need to go to the Audience > Demographics > Overview to see if you need to update your Google Analytics code to support the new Google Analytics data options. Even if you aren’t planning to use Advanced Segments, you’ll want to get this done right away.
+
+– Segment your users by demographic information such as age, gender, language, affinity category, and location. In order to use the age, gender, and categories, you will need to go to the Audience > Demographics > Overview to see if you need to update your Google Analytics code to support the new Google Analytics data options. Even if you aren’t planning to use Advanced Segments, you’ll want to get this done right away. Technology – Segment your users’ visits by their operating system, browser, screen resolution, device, and mobile.
+
+– Segment your users’ visits by their operating system, browser, screen resolution, device, and mobile. Behavior – Segment your users by how often they visit and conduct transactions (number of visits, days since last visit, and visit duration).
+
+– Segment your users by how often they visit and conduct transactions (number of visits, days since last visit, and visit duration). Date of First Visit – Segment your users by when they first visited.
+
+– Segment your users by when they first visited. Traffic Sources – Segment your users by how they found you using campaign, medium, source, and keyword fields (such as the ones you would add as UTM parameter tags on your URLs).
+
+If you would prefer to set up your custom segment similar to how it was done before, click on the Conditions option under Advanced. This will let you add up to 20 and/or filters to your custom segment.
+
+You can even create custom segments to segment users and their visits according to sequential conditions.
+
+Once you have set up your custom segment, you can preview the results, test it to make sure it works, and then save it. You can always edit it later by clicking on the settings wheel icon on the segment itself.
+
+You also will get the option to share your custom segment with others using a custom URL. Only the configuration of the custom segment will be shared, not any of your website data.
+
+Import from Gallery
+
+If you are not ready to make your own custom segments just yet and would like more options than the 22 built-in segmenting options, you can use the Import from Gallery button to get more segments created by the Google Analytics team and other Google Analytics users.
+
+When you click the Import button on one of these segments, you will be taken to a screen to confirm that you want to import them into your Google Analytics profile.
+
+When you want to view your imported segments, you will find them under the Custom segments view.
+
+Segment Applications
+
+There are thousands of ways you can use Advanced Segments to learn more about your website traffic. Here are just a few fun examples that you can create and view simultaneously to learn more about users and visits throughout your Google Analytics.
+
+Create custom segments for traffic from social media networks, search engines, and other channels of traffic to see which drive the best traffic.
+
+Create custom segments for different age groups to see which pages they visit most and how long they stay on your website.
+
+Create custom segments for specific keywords you are targeting on AdWords.
+
+Create custom segments for different campaigns you are tracking with UTM parameters.
+
+You’ll get plenty of great ideas by visiting the Google Analytics Custom Solutions Gallery, selecting Advanced Segments from the Analytics Solutions menu, and perusing what the community has provided. You can even import, modify, and make them work for you and your business.
+
+Have you tried out the new segmentation? What are your thoughts or most useful segment ideas?
+
+About the Author: Kristi Hines is a freelance writer, professional blogger, and social media enthusiast. Be sure to sign up for her free mini-training course, 8 Days to Promotable Content, and learn how to create content that people love to share! You can also find her on Google+ and Twitter.

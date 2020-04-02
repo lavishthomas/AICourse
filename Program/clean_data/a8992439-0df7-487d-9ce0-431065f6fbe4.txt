@@ -1,0 +1,53 @@
+Save this picture! La Voûte de LeFevre sculpture. Image Courtesy of Matter Design
+
+Craftsmanship is one of those topics which it seems almost everyone has a strong opinion. But while many lament the fact that traditional craft practices have been in decline since the industrial revolution, today a new generation of architects and designers have set about redefining and updating the notion of craft to include the most modern design and fabrication techniques around. In this article, originally published on Autodesk's Redshift publication as "5 Ways Architects and Postdigital Artisans Are Modernizing Craftsmanship," Jeff Link explores some of the traits that connect these pioneers to the craftsmen and women of a bygone era.
+
+Craftsmanship in the digital age is hard to define. For some, craftsmanship evokes a purity of style, a preference for the handmade over the machine. For others, it recalls the Craftsman architecture of early-20th-century homes: overhung gabled rooflines, wide sheltered porches, detailed handiwork, and an ineffable Norman Rockwell sense of bygone Americana.
+
+But regardless of one’s intuitive understanding of the term, the notion of craftmanship is evolving. Increasingly, the age-old knowledge of woodcarvers, masons, and other craftspeople is embedded in an intelligent design process using geometric computer models and machine fabrication to develop new crafts and architectural métiers—from gravity-defying furniture assemblies to complex workflows for robotic automatons. These innovations have helped place architects alongside craftsmen at the center of a revival in “maker” culture, which, for example, is in vivid display in handmade marketplaces such as Folksy and Etsy.
+
+So what exactly is digital craft? And what does it look like in the work of top designers? Here, innovative architects identify five things postdigital artisans are doing to transform craftsmanship.
+
+Save this picture! Periscope: Foam Tower. Image Courtesy of Matter Design
+
+1. They carefully consider and manipulate materials
+
+For Brandon Clifford and Wes McGee’s interdisciplinary design-build practice, Matter Design, drawing and making are inextricably linked. “We’re not producing a drawing and sending it off somewhere else,” Clifford says. “Whether the end product is a wedding band, coat rack, or building, we’re very much dedicated to owning the entire process.”
+
+From one project to the next, that process can look and feel very different. For their 60-foot tall Periscope: Foam Tower, Clifford and McGee robotically cut, stacked, and placed polystyrene foam blocks in compression with tension cables. Meanwhile, La Voûte de LeFevre is a freestanding honeycomb-like vault constructed with computer-defined geometric constraints. The team used a large five-axis CNC router to cut concave openings in a weight-balanced, contemporary form that draws on ancient stereotomy.
+
+“We’re not defining craft as time sanding a piece of wood,” Clifford says. “Craft is embedded in computation but also in how the material is processed. As you start to talk about materials, other logic—math, weight, structure, thermal condition—can be computed.
+
+“When I first started studying architecture in 2000,” Clifford continues, “we would go through the entire design process and, somewhere along the way, put a label on a wall: ‘This one is brick; that one is gypsum; this floor is wood.’ Materials were chosen based on a selection of industry standards. Now, students are engaged in materials in a very intimate way that hasn’t been common since industrialization. We have more in common today with preindustrial ‘master makers’ than we do with the ‘modern masters.’”
+
+Save this picture! Column covers for client YOO/Philippe Starck at Icon Brickell residences in Miami. Image Courtesy of Guy Martin Design
+
+2. They preserve intent and traditional craft
+
+Guy Martin is a maker’s maker whose Los Angeles–based design, fabrication, and digital sculpting firm, Guy Martin Design, has created laser-scanned custom furniture for Taschen bookstores, movie props for Warner Brothers, and monumental sculptures for Philippe Starck. For him, the touchstone of digital craft is how it uses robots to replicate old building methods on a large scale while preserving the designer’s intent. “We can’t build a cathedral how we used to,” he says. “So how do we take craft skills and transport these to the digital realm? I see machine and digital tools as an extension of the hand, not just a generative tool or something abstracted.”
+
+Whether using fabrication strategies for mold making, wire cutting, sculpting, or milling, Martin is intent on capturing the nuance of hand-generated forms. His mahogany-legged barstools for Trois Mec restaurant and his Cypriere table (robotically carved from a digital clay model) are fine examples of this human touch.
+
+In a project with San Diego sculptor Ken Gangbar and Landmark Aviation, Martin says, a haptic device uses an articulated arm “like a mouse in 3D space” to simulate clay sculpting with digitally modeled resistance. In other projects, intuitive software, such as Delcam PowerMILL, allows for tool vector manipulation in the craftsman mode. Picture a robot spraying paint in a fanning pattern—mimicking the handheld, wrist-turning technique in applying paint to create texture and energy in a façade.
+
+Save this picture! Fabrication of column covers for client YOO/Philippe Starck at Icon Brickell residences in Miami. Image Courtesy of Guy Martin Design
+
+3. They use parametric modeling for scale
+
+When working on large-scale architectural works—or altering the size or materials of a designer’s model—Martin says parametric modeling is central to digital craft. Global rules allow a form, such as a chair, to change size while retaining its essence and preserving the relationships between parts. Parametric modeling also can be applied to create repeated aesthetic effects. “Imagine a façade with thousands of triangles, each connected to a bolt,” Martin says. “If you alter one leg of the triangle, over thousands of triangles, the changes start building a landscape of curves and waves.”
+
+Save this picture! Taschen bookstore furniture. Image Courtesy of Guy Martin Design
+
+4. They make design and fabrication a reciprocal feedback loop
+
+Clifford and McGee use Autodesk T-Splines Plug-in for Rhino; C#; and a plug-in script jointly developed by McGee along with Dave Pigram and Iain Maxwell, co-founders of Australian firm supermanoeuvre, to research and create new products and production methods. According to McGee, this bidirectional approach in which the model can inspire the fabrication logic, or vice versa, leads to a performative architecture that front-loads the design, shortens the feedback loop between design and fabrication, and confronts the logistical challenges of how machines move through space to make things.
+
+“Traditionally, there has been a clear separation between the design process and fabrication,” McGee says. “An architect designs a building, then sends it to someone who translates it into the CAD/CAM environment for CNC or robotic construction. We see this as a bottleneck.”
+
+Save this picture! Chelsea Workspace. Image Courtesy of Synthesis Design + Architecture
+
+5. They speak the language of bespoke
+
+Alvin Huang, founder and principal of Synthesis Design + Architecture, says the relevance of bespoke objects (those made to order) in contemporary culture has a lot to do with the term “craft.” “If you look historically at American consumer culture, it began when mass consumption became available through the big-brand one-stop-shop where you can go and get everything, whether through Sears Roebuck or Costco,” Huang says. “More recently, there has been a return to the bespoke—going to the baker to get bread or the butcher to get meat. The notion of the bespoke is people wanting one-off, unusual things unique to their identity and desires. This is where digital fabrication becomes important: mass customization rather than mass production. There is value and benefit of something bespoke.”
+
+An excellent example is his Chelsea Workspace, a 7-square-meter home office made with CNC-milled plywood ribs and assembled by Cutting Edge in Oxford, England. The ribbing and orientation of the form capitalize on natural daylight in the room’s single window, and a series of comblike panels is braced by exposed spacers depicting a world map. “One of the things we like to say is, it is not digital work—it’s postdigital work, meaning it is not driven by the definition of being digital because that is the way we work,” Huang says. “People make reference to the horseless carriage as being the first car. It’s not defined by the fact that it didn’t have a horse; it’s defined by the fact that it’s the first car.”

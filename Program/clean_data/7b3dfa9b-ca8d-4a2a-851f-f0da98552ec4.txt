@@ -1,0 +1,129 @@
+New technologies are transforming all stages of the engineering and construction process. Here’s what companies need to know about the evolving landscape.
+
+The engineering and construction (E&C) industry is at the cusp of a new era, with technology start-ups creating new applications and tools that are changing how companies design, plan, and execute projects. By providing advanced software, construction-focused hardware, and analytics capabilities, these innovative start-ups are eliminating many of the problems that have dogged the E&C sector for decades, including difficulties compiling and sharing project information. Such improvements could not come at a better time, since construction projects are becoming increasingly complex and expensive, putting managers under greater pressure to improve costs, timelines, and efficiency.
+
+Stay current on your favorite topics Subscribe
+
+Many E&C companies have begun incorporating new construction technologies into their daily activities, but most of their efforts have focused on software tools for digital collaboration. The reasons for this narrow focus vary, but some players hesitate to expand into any other area because they have traditionally struggled to deploy new tools at scale, limiting their impact. The modest returns they’ve seen to date make these companies reluctant to explore additional productivity-enhancing technologies, especially those requiring substantial investment. Other companies are simply unfamiliar with tools and solutions in areas beyond digital collaboration.
+
+Video A view of the construction ecosystem Associate partner Jose Luis Blanco outlines our goals and vision for this research
+
+To help E&C companies navigate the landscape and develop more effective deployment strategies, we analyzed more than 1,000 construction-software start-ups and their products. First we identified common use cases for which software tools are being developed across all project phases (design, preconstruction, construction, and operations and management). These include activities such as managing performance or monitoring safety. We then examined investment patterns to determine if solution providers are shifting their resources to different applications, since this could provide hints about tools that may soon hit the market.
+
+This article focuses on current and future use cases related to the construction phase of projects because that is the most complex and time-consuming phase in the E&C process. As part of our analysis, we also reviewed data from McKinsey Global Institute’s Construction Productivity Survey, which received responses from more than 200 senior E&C executives. The survey data helped us understand common challenges that arise when companies deploy and scale up digital solutions, as well as possible mitigation strategies.
+
+The technological transformation at engineering and construction firms
+
+Construction-technology firms have garnered $10 billion in investment funding from 2011 through early 2017. To gain a more detailed view of this strong market and its evolution, we first identified all tools and solutions that construction technology start-ups have developed. We then determined how each tool addressed or eliminated problems throughout the course of E&C projects—looking at both the phase in which they are used and the particular problem they solve (Exhibit 1).
+
+Exhibit 1
+
+Start-ups are most likely to develop tools and solutions for the construction phase, with about 1,000 companies offering products for it. There are 11 major use cases for this phase, including those related to enterprise-resource-planning systems, which are used throughout construction. By contrast, fewer than 200 companies created products for the design, preconstruction, or operations and management phases. When we looked at use cases for the construction phase more closely, we found that they fell into one of three clusters: on-site execution, digital collaboration, or back-office integration (Exhibit 2). We also found that many start-ups are simultaneously developing tools for multiple construction use cases in the same cluster. Only 13 percent are developing cross-cluster tools and solutions.
+
+Exhibit 2
+
+On-site execution
+
+The first cluster contains use cases that relate to one of the most important aspects of construction: on-site execution. In this area, E&C companies typically encounter many difficulties, ranging from low productivity to delays in material shipments. Construction-technology start-ups have tried to mitigate some of the most pressing problems by developing tools and solutions that assist with the following activities:
+
+Field productivity. Some new tools enhance field productivity by tracking crew deployment in real time, including the number of active working hours for each team member. For instance, some tools track employees by analyzing data from wearable GPS devices, while others ask workers to enter data about their activities, location, and hours into mobile devices. Other field-productivity applications help companies to manage project staffing across skilled trades or to monitor on-site productivity at the trade or worker level. With one tool, for instance, foremen can immediately retrieve data on actual project hours, budgeted hours, and remaining hours.
+
+Safety monitoring. Other on-site tools involve safety—always a major concern for E&C companies. Many applications facilitate the tracking and reporting of safety incidents across job sites; others allow managers to distribute safety alerts and tips to the entire workforce.
+
+Quality control. Some new applications help managers inspect remote sites by providing pictures and image tags, while others allow them to update and track their punch lists in real time. The use of GPS during projects, particularly those related to transportation, has already increased the accuracy of project specifications. This, in turn, increases efficiency and accuracy during on-site execution. In the future, leading E&C companies hope to create autonomous quality-control systems by combining new technologies and artificial intelligence with other tools, including GPS and building-information modeling (BIM). While most tools in the on-site execution cluster fall into these areas, construction start-ups have also developed products to assist with many other on-site activities, including supply-chain logistics.
+
+Digital collaboration
+
+E&C stakeholders—including architects, engineers, and foremen—are more numerous and widely dispersed than those in most other industries. They need to communicate and align frequently, since certain changes, such as a seemingly minor modification to a materials order, could significantly increase timelines or costs if made too late in the game. That explains why many construction-technology start-ups have focused on tools that promote digital collaboration—the online exchange of information—throughout all E&C project phases. Some of the most compelling tools relate to the following use cases:
+
+Design management. E&C staff often need to update blueprints and other project documents while on site. Rather than returning to the office to complete such tasks, as these workers would have done previously, they can now make changes in the field. For instance, one mobile platform lets staff add markups, annotations, and hyperlinks to blueprints.
+
+Contract management. These tools help staff with many critical tasks. For instance, workers can use them to update contract-compliance checklists or collect information about client and contractor communications that occur when contract terms are renegotiated.
+
+Performance management. With these tools, managers can update and immediately share information (including workforce data) in the field, particularly during the crucial preconstruction and construction phases. Some performance dashboards can automatically import field data, simplifying the process of collecting information.
+
+Document management. Many start-ups are creating tools that let E&C companies upload documents, track changes to them, and record all decisions made about their content. In some cases, document-management tools can also serve as a permanent repository, giving E&C firms easy access to past records.
+
+Back-office integration
+
+Back-office integration, involving functions such as accounting, finance, and human resources, can help companies to access and exploit valuable project data on finances, costs, and schedules. All too often, however, analysts fail to mine this information because it is not easily accessible. Start-ups have developed solutions—mostly designed from an accounting perspective—that give foremen and other staff members immediate access to real-time back-office data. Some tools, for instance, allow general contractors to see which change orders an E&C company’s customers have approved, including those for which they have not provided payment. Many back-office use cases focus on scheduling, managing equipment, and enterprise resource planning.
+
+Would you like to learn more about our Capital Projects & Infrastructure Practice
+
+Construction technologies that are gaining momentum
+
+Video Where is innovation happening? What we learned about patterns of innovation and investment in digital construction
+
+From 2011 through 2016, construction-technology players received the greatest amount of investment (from venture capital and other sources) for document-management use cases ($1.7 billion), followed by equipment management ($1.4 billion) and enterprise-resource-planning systems (Exhibit 3). But when we restricted our analysis to new companies—those founded over the past five years—we discovered that the most popular use cases involved performance management and field productivity, with 29 percent of companies developing tools for one or both of these areas. Only 8 percent were developing document-management tools, and few focused solely on this application.
+
+Exhibit 3
+
+Together, these trends indicate that venture and investment activity centers on field productivity and site-performance management—the two areas that McKinsey identified as needing the most improvement in our report Reinventing construction through a productivity revolution. Tools that help with these tasks could thus contribute substantially to the bottom line. For instance, global labor-productivity growth in construction has averaged about 1 percent annually over the past two decades, compared with 3 to 4 percent across other sectors. If E&C companies can close this gap—partly by using new tools and solutions—the industry’s output would increase by $1.6 trillion per year.
+
+Our investigation also revealed that companies are applying new hardware and software solutions to many use cases, sometimes by forming partnerships with large equipment manufacturers. Consider a few examples:
+
+Predictive analytics. Every construction firm is a giant repository of data. Start-ups are now taking advantage of this information by creating new applications that can collect thousands to billions of records from all source systems. These solutions apply advanced analytics and machine learning to data—both structured and unstructured—to optimize decision making for multiple topics, including workloads, staffing levels, and strategies for minimizing inefficiencies.
+
+Video What we’re excited about Two of the digital tools that could help reshape construction sites of the future Project monitoring enabled by drones and the Internet of Things (IoT). Some start-ups are using these technologies to improve 5-D BIM—the process companies use to create digital representations of physical structures and then consider this information in combination with cost and scheduling data. Companies most frequently use drones to capture site images and aerial survey data, while the IoT primarily helps with monitoring equipment and preventive maintenance. Some companies have applied these technologies to new areas, however. For instance, Bechtel now uses drones for precision surveying, safety compliance, and other tasks.
+
+Safety monitoring enabled by wearables and virtual- or augmented-reality tools. Many E&C companies are beginning to deploy these technologies to increase safety. For instance, Redpoint Positioning and Skanska use indoor GPS technology to mark hazard zones and activate safety warnings. In the future, we expect to see even more innovation. Virtual-reality safety walk-throughs, for example, may become the default solution for companies that want to assess potential hazards.
+
+Strategies for deploying construction technology at E&C firms: The journey to a next-generation operating model
+
+Although most E&C firms have already deployed construction-technology software tools for multiple use cases, many fail to obtain full value from them. Even when a company successfully pilots a new tool, large-scale adoption may be difficult or quickly lose steam. In other cases, technology initiatives fail to produce noticeable improvements in key performance metrics. Our review of data from McKinsey Global Institute’s Construction Productivity Survey revealed that three factors may be responsible for these issues:
+
+Insufficient commitment. Many E&C companies feel pressured to adopt digital solutions, especially if their competitors deploy them, because they want to demonstrate their commitment to innovation. But leaders often struggle to sustain their digital initiatives once they are past the excitement of the launch stage because their attention and resources are pulled in many different directions. That means companies often see lower than expected returns from their digital investments and thus have little incentive to keep funding them, especially if budget pressures increase.
+
+Difficulties with company-wide rollout. As with any new technology, E&C companies generally evaluate construction tools in pilots, determining their impact and identifying any glitches before investing in large-scale programs. While these pilots typically proceed smoothly, companies often encounter obstacles during large-scale rollout because leaders ask employees to introduce new tools into work flows without explaining the benefits or providing sufficient training. On-site crews and foremen therefore consider the tools a headquarters-driven imposition that complicates their jobs. Frontline workers may have these misconceptions because E&C software programs have traditionally focused on improving back-office functions, not on-site productivity. In other cases, E&C companies struggle to move from the pilot phase to large-scale implementation because they do not invest in training field workers, especially general contractors and subcontractors.
+
+Lack of compatibility with legacy systems. New technologies deliver the greatest value when they seamlessly integrate with existing enterprise systems. For example, field-data-collection applications that automatically connect to cost systems can provide real-time visibility into productivity, allowing managers to make immediate adjustments. Although some third-party providers can help E&C firms incorporate new tools into legacy systems, most do not provide complete solutions. In other words, companies must ask different providers to complete various parts of the integration process.
+
+A few E&C players have already taken action to address these challenges. For instance, Bechtel established a firmwide process for testing new technologies, integrating new solutions into work flows, and generating more innovative ideas. Similarly, JCE invested in a software program and other assets to support tools that rely on the Internet of Things. These companies are the exception, however, since many E&C players simply introduce new digital tools without educating workers about their benefits or altering organizational structures. The lack of support may explain why technology efforts often score early gains but quickly lose momentum.
+
+To get past these common challenges, companies should follow a next-generation operating model that incorporates the following elements:
+
+A focus on the client journey. Rather than developing digital solutions for specific functions, such as back-office workers or front-line employees, companies should focus on optimizing the entire customer journey. They should also ensure their organizations are well equipped to provide customer support that aligns with how customers want to interact with the organization. This may require redesigning existing roles or creating new ones.
+
+A full suite of digital levers. Companies will obtain the most value if they implement multiple digital levers in combination—for instance, a mix of digital tools, robotics, and advanced analytics.
+
+A new management system. An embedded management system will ensure the sustainability of the new operating model. Incentives and digital-enabled transparency are critical tools to help managers accelerate the adoption of new technologies.
+
+A cultural transformation. Cultural transformation and capability-building programs enable E&C companies to become more agile and quickly adapt to evolving client needs.
+
+The prospect of building a next-generation operating model may seem daunting, especially for companies like E&C firms, which tend to encounter similar issues across multiple projects. Since such businesses often have established processes for dealing with perennial problems, they may have difficulty adopting more innovative solutions. To overcome these difficulties and create a successful next-generation operating model that incorporates digital elements, we suggest that companies take the following tactical steps (Exhibit 4).
+
+Exhibit 4
+
+Creating a focused digital strategy and organization
+
+Rather than deploying numerous tools at once, companies should take a more reasoned and strategic approach to construction technology. We suggest that they first establish a performance baseline, benchmarking themselves against companies in relevant industries, segments, or projects to identify the most important areas for improvement—for instance, engineering activities, construction productivity, or indirect costs.
+
+After the benchmarking exercise, companies should identify improvement levers by considering some basic but frequently overlooked issues, such as the bottom-line performance improvements they hope to achieve. They should also quantify the commercial benefit associated with each lever and prioritize those that deliver the greatest improvement. Finally, companies must consolidate their findings into an implementation plan with a realistic timeline to stay on track.
+
+As companies deploy solutions, all functions must be involved, from the front line to top management. That means leaders will need to assess their organizations realistically, determining whether they have the capacity and skills needed to implement new tools. They must also incorporate digital solutions into their internal processes, since employees might otherwise stick with their familiar routines. Similarly, leaders must examine their current IT systems, determine whether new tools can be integrated smoothly, and make any necessary upgrades or changes before a program begins.
+
+Throughout implementation, top managers must clearly demonstrate and emphasize their support for new initiatives. For instance, CEOs should ensure that specific teams and leaders are responsible for implementing the digital strategy, monitoring results, and ensuring that initiatives achieve scale and maintain momentum.
+
+E&C companies with strong digital skills might have an advantage when implementing complex solutions across their organization. Other players might find digital initiatives more challenging and should consider implementing individual solutions in sequence, rather than undertaking a more comprehensive digital transformation.
+
+Turning projects into test labs
+
+The best E&C companies view every project as an opportunity to test and refine new digital solutions in partnership with clients and contractors. If frontline workers identify a problem in the field, for example, they should discuss possible digital solutions with E&C leadership and then pilot them during the project. To monitor results, project teams must establish key performance indicators and share them periodically with the leaders who oversee digital programs. If a tool produces lackluster results or fails to hit the mark, leaders should work with the team involved to identify and resolve problems while the pilot is still under way.
+
+Later, leaders should publicize successful results, encourage widespread rollout, and advise other teams deploying the tools. These efforts will help overcome company-wide communication gaps and may generate enthusiasm among other staff. Some companies have appointed chief innovation officers or chief digital officers to lead these large-scale programs. In some cases, this is a new role. For instance, Atkins recently appointed its first chief digital officer to lead the development and integration of new and emerging technologies across the company. The appointment of chief innovation officers and chief digital officers should address one of the most important obstacles that executives noted in the McKinsey Construction Productivity Survey: a lack of internal processes to support innovation.
+
+Letting data lead the way
+
+Many of the best construction-technology tools incorporate data from both past and ongoing projects into their decision-making algorithms. As these tools become more prominent, E&C firms ensure that they incorporate analytics into their daily work flows by collecting targeted data sets and investing in the capabilities needed to glean insights from them. Since analytics solutions also require specific skills, such as those related to data science, E&C firms must expand their recruitment base to attract such employees, who are in short supply. Several major E&C players have already begun hiring chief digital officers and additional data scientists.
+
+Reinventing construction through a productivity revolution Read the report
+
+Increasing investment in digital solutions
+
+Construction technology is advancing rapidly, compressing development schedules for new tools and significantly increasing their cost. Unless E&C firms back their commitment to innovation with a substantial investment, they are unlikely to stay on the cutting edge. Since every digital initiative carries some degree of financial risk, E&C companies should approach owners, developers, subcontractors, and technology providers, asking about partnerships or co-investment opportunities. Bechtel, for instance, recently entered into a partnership with the software company Rhumbix to improve its field-supervision platform for large construction projects.
+
+To identify the best prospects, E&C companies should establish “listening posts” within the industry—a network of experts who can advise them about the most promising solutions. Finally, companies should consider mergers and acquisitions with technology partners to bring digital skills in-house, since this will give them a role in driving innovation.
+
+Construction-technology start-ups have developed hundreds of tools for use cases across the project life cycle, ranging from design management to scheduling to safety monitoring. In the future, we’ll see even more tools emerge, particularly for use cases related to field management and performance management. With the role of construction technology growing so rapidly, and new use cases emerging constantly, E&C companies that do not invest in the right tools risk being left behind.
+
+The companies that place the right bets now will probably be the industry leaders in the next ten to 15 years if they match their greater investment in technology with a company-wide commitment to change. Above all, they will need to alter fundamental aspects of their organizational structure, corporate culture, and IT systems, with the goal of seamlessly integrating new tools into daily work. With this support, their new tools will give them an edge that no amount of human effort can replicate.

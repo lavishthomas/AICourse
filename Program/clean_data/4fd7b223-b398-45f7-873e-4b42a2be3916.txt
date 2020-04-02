@@ -1,0 +1,45 @@
+When Duke University School of Medicine professor Daniel Belsky and his colleagues cross-referenced data from a longitudinal study of 918 people from Dunedin, New Zealand, they discovered a connection between the presence of specific genes and the achievement of better socioeconomic outcomes. Their conclusion: Your success is shaped by your genes.
+
+Professor Belsky, defend your research.
+
+Belsky: Though DNA isn’t destiny, it does have something to say about the kind of people we become and what we achieve. When we studied this existing data set from a group of people who were all born in a single city and then surveyed at regular intervals throughout the first four decades of their lives, we found that those who carried certain genetic variants—ones that had already been linked to educational attainment in other studies—hit developmental benchmarks earlier as children and held higher aspirations as teenagers. Then, as adults, they attained more education, held more prestigious jobs, earned higher incomes, partnered with better-off mates, were more socially and geographically mobile, managed their money more effectively, and accumulated more assets. All of that does suggest our genes can affect our future. But we also know that human development stems from a complex interaction of the genes we inherit and the environments we encounter. Nature and nurture combine to make us who we are. We’re just beginning to understand how that interplay operates.
+
+So you’re not suggesting we test people at birth or in utero to see who has the aptitude to, say, earn a PhD or become an effective executive?
+
+No. We’re still a long way from being able to accurately estimate human potential with a genetic test—and even if we could, there are lots of reasons that it wouldn’t be a good idea. To develop our predictive model, we started with the results of large data-mining studies involving tens of thousands of human genomes, which identified gene variants linked with particular educational outcomes and the strength of those links. We used that information to create an algorithm that calculates something called a “polygenic score” for individuals, which indicates how many of the variants they have. When we looked at the Dunedin study data, we did find that participants with higher polygenic scores were slightly more successful than those with lower scores, but the effect was very small—just 1% to 4% of the variance.
+
+Also, we’re talking about average outcomes. Some people with low polygenic scores went on to have very successful lives, and some with high scores did not. There are many other nongenetic tests you can administer to children and adults that will give you a much better read on their ability to achieve than we can get out of the genome.
+
+Finding: People with certain genetic markers earned higher incomes.
+
+If other, presumably cheaper, methods work better, why study genes in this context?
+
+We want to understand how genetics shape our lives and what causes some people to be successful and others to flounder. The advantage of looking at DNA is that it’s defined at birth and fixed throughout life, so it gives us an anchor on which to build. Ultimately, we hope to yield actionable insights for policy makers—to help them devise interventions that will improve social mobility.
+
+What kind of interventions?
+
+For example, in our study we found that kids who had higher polygenic scores started to master language at a younger age; they talked earlier and read earlier and faster than their peers. Perhaps interventions that increase all children’s language skills at younger ages might help more people follow successful trajectories. Going forward, bigger data sets may help us understand why some kids with low polygenic scores nevertheless achieve successful outcomes or why some kids with higher scores still struggle. These “outliers” can provide clues to how we might change children’s environments to improve their outcomes.
+
+Finding: Kids with the markers mastered language earlier.
+
+Where would these bigger data sets come from?
+
+The United Kingdom has developed a national biobank that now includes genetic data and a wealth of other information from half a million people. In the United States, President Obama’s Precision Medicine Initiative aims to develop a similar resource. But these big data projects can’t completely replace cohort studies like the one we focused our research on. For starters, they can’t get the same level of detail, especially about early life. For another, participants self-select in, so they don’t necessarily represent the full population. This issue of representativeness is important. For example, a big question about our findings is whether they will generalize beyond populations of European descent. They might not apply to people who have different ethnic backgrounds or live in other regions of the world.
+
+It sounds as if we’re on the frontier of a whole new body of research into genes and socioeconomics. What else is being studied?
+
+This new field—it’s called sociogenomics—is advancing in several directions. Large-scale consortia like the Social Science Genetic Association Consortium, which is headed by Dan Benjamin at the University of Southern California and Philipp Koellinger at Vrije University of Amsterdam, and projects like Sociogenome, led by Melinda Mills at the University of Oxford, are investigating genetic influences on risk taking, entrepreneurship, reproductive behavior, and more. Another major area of inquiry is how genes shape our social relationships. My colleague Ben Domingue at Stanford, along with sociologists Dalton Conley and Jason Boardman and economist Jason Fletcher, has been working on the question of whether friends and spouses tend to be more similar genetically to one another, and why that might be the case. And there are more social scientists joining the field every day.
+
+Finding: The markers predicted success no matter the environment.
+
+You said that the genes you looked at had already been linked to educational attainment, which is, of course, linked to IQ and socioeconomic status. Do we really need scientific research to tell us that smart, wealthy people get more schooling and therefore achieve more as adults?
+
+I think one important contribution of our work is to document that the genetics originally discovered in studies of educational attainment are not about education specifically. Instead, they relate to a range of personal characteristics—including IQ but also noncognitive skills, like self-control and being able to get along well with others. These traits enabled kids with high polygenic scores to succeed not just in school but well beyond. In fact, differences in education explained only about half the effect on long-term life success we found. Also, even though kids born into better-off families did tend to have slightly higher polygenic scores, higher scores predicted success no matter what kind of conditions a child grew up in.
+
+This is still giving me pause. Aren’t you worried about a Gattaca-like future, where people with “good” genes are favored over those with “bad” ones?
+
+As I said, given the weak power of our predictive models, Gattaca is not possible today. But I do think the time for conversation is now. I agree that the idea of using genetics as a sorting mechanism is scary. So it’s important to talk about what this kind of research should and shouldn’t be used for. But let’s recognize that we already do a lot of sorting today. We rely on all kinds of rubrics to pick winners and losers before people have a chance to actually prove themselves. Schools use aptitude tests to sort kids into “gifted and talented” programs. Early problems with attention or behavioral control can track kids in the opposite direction. Maybe the genome can help us understand where these social rules go wrong, when we’re limiting human potential, and who we’ve inappropriately left behind.
+
+So how are your genes looking?
+
+Follow-up is ongoing.

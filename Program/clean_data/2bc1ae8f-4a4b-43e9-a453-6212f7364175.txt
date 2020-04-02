@@ -1,0 +1,25 @@
+BMW, Ford, and Uber have all recently said they plan to have “fully autonomous” cars ready to drive themselves on the road in 2021 (see “2021 May Be the Year of the Fully Autonomous Car”). Ford says its fleet of vehicles will lack steering wheels and offer a robotic taxi service.
+
+But don’t expect to toss out your driver's license in 2021. Five years isn’t long enough to create vehicles good enough at driving to roam extensively without human input, say researchers working on autonomous cars. They predict that Ford and others will meet their targets by creating small fleets of vehicles limited to small, controlled areas.
+
+A Volvo SUV with automated driving technology developed by Uber.
+
+“Probably what Ford would do to meet their 2021 milestone is have something that provides low-speed taxi service limited to certain roads—and don’t expect it to come in the rain,” says Steven Shladover of the University of California, Berkeley, who has worked on automated driving for more than 20 years.
+
+Shladover says many media outlets and members of the public are overinterpreting statements from Ford and other companies that are less specific than they appear. The dream of being able to have a car drive you wherever you want to go in the city, country, or continent remains distant, he says. “It ain’t going to be five years,” says Shladover. “The hype has gotten totally out of sync with reality.”
+
+Alain Kornhauser, a Princeton professor and director of the university’s transportation program, also expects 2021’s vehicles to be very restricted. “By then we may be able to define [a] ‘fenced’ region of space where we can in fact let cars out there without a driver,” he says. “The challenge will be making that fenced-in area large enough so that it provides a valuable service.”
+
+The chief technologist on Google parent Alphabet’s self-driving car project said at MIT Technology Review’s EmTech Digital conference in May that he expected the vehicles to come to certain urban pockets first. He didn’t elaborate on how limited they would be, or how quickly it would be possible to expand their range.
+
+One of the main reasons that Shladover and Kornhauser believe 2021’s robotic fleets will be more limited than some people expect is the difficulty that software has understanding the world.
+
+Computers can react to things much faster than a human, and self-driving cars’ sensors can look in many directions at once. But software is at a significant disadvantage when it comes to interpreting what it “sees” to identify and understand objects and situations, such as a traffic cop gesturing in the road. Nor is software very good at planning how to deal with out-of-the-ordinary situations.
+
+Jeffrey Miller, an associate professor at the University of Southern California, says figuring out how sensors limit the situations a vehicle can reliably handle on its own is one of the most crucial challenges for companies working on autonomous driving.
+
+The crash earlier this year that killed a driver using a Tesla sedan’s Autopilot feature underlines the problem, says Miller. Tesla said the car’s sensors did not detect the side of the tractor trailer it ran into.
+
+Weather is also a problem for automated cars. Rain, snow, and hail challenge the laser-based lidar sensors that many prototypes rely on to track their surroundings in 3-D, for example.
+
+Because the real world and its roads are a complicated place, it will take a lot of testing to be sure that automated driving technology has run up against all the scenarios it needs to handle to be reliable, Miller says.

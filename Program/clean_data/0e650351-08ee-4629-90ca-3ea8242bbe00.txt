@@ -1,0 +1,21 @@
+If you’re not using deep learning already, you should be. That was the message from legendary Google engineer Jeff Dean at the end of his keynote earlier this year at a conference on web search and data mining. Dean was referring to the rapid increase in machine learning algorithms’ accuracy, driven by recent progress in deep learning, and the still untapped potential of these improved algorithms to change the world we live in and the products we build.
+
+But breakthroughs in deep learning aren’t the only reason this is a big moment for machine learning. Just as important is that over the last five years, machine learning has become far more accessible to nonexperts, opening up access to a vast group of people.
+
+For most software developers, there have historically been many barriers to entry in machine learning, most notably software libraries designed more for academic researchers than for software engineers as well as a lack of sufficient data. With massive increases in the data being generated and stored by many applications, though, the set of companies with data sets on which machine learning algorithms could be applied has significantly expanded.
+
+In tandem, the last few years have seen a proliferation of cutting-edge, commercially usable machine learning frameworks, including the highly successful scikit-learn Python library and well-publicized releases of libraries like Tensorflow by Google and CNTK by Microsoft Research. The last two years have also seen the major cloud providers Amazon Web Services and Google Cloud Services release machine learning–specific services — both Machine Learning as a Service platforms and graphics processor unit machines optimized for machine learning work.
+
+The net effect of these new technologies is that a person interested in using machine learning need not understand the science of deep learning algorithms in order to experiment with cutting-edge techniques. Tutorials and public code exist for applications as diverse as AI-driven art generation, language translation, and automated image captioning.
+
+The accessibility of this code creates a virtuous cycle. Use by nonexperts creates even more demand for easier-to-use systems and uncovers new applications of machine learning, which inspires further research and development by experts.
+
+And these new technologies affect who works in machine learning as well. When hiring into applied machine learning positions, exceptional quantitative skills are critical, but direct education in machine learning itself has become less important.
+
+In many ways, this change in accessibility mimics the progression we’ve seen in software development as a whole. Over the last 50 years, software development has gradually migrated from “low-level” languages — highly technical languages that closely relate to a computer’s underlying architecture — to high-level languages with significantly lower barriers to entry. Similarly, software deployment has migrated from hosted machines and data centers to cloud-based services, with massive decreases in the time and capital required to deploy a new system.
+
+These changes have not simply made software developers more efficient; they have allowed a much broader set of people to develop software and start software companies. Software bootcamps now train working engineers in a matter of months, and startups can turn ideas into products in a few development cycles.
+
+All of that is not to say, of course, that there’s no place for experts — as in software engineering, untold amounts of scientific progress have yet to be made in machine learning. But for the first time in history it’s possible, for example, for a person with knowledge of programming but no machine learning experience to create in one afternoon a neural network that can read handwritten digits.
+
+Try it for yourself.

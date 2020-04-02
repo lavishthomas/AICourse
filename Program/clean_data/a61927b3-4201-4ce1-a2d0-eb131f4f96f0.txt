@@ -1,0 +1,93 @@
+I just finished up one of the most enjoyable summers of my life. For two months, I taught high school and college kids in Washington D.C. how to make apps and games. In the process, I reconnected with a fundamental truth.
+
+Deep down, software development is really fun!
+
+It's this unbelievably creative thing where you get to be the god of your own mini Universe, a place where only the rules of logic apply. You can do anything you want.
+
+Before my teaching stint this summer, I hadn't felt a lot of that fun lately. I had a contract gig that went bad, and I was feeling pretty bummed out about it.
+
+For some reason, the work world had taken this thing I love and twisted it into this weird abomination. Software had turned into drudgery in a matter of just a few weeks.
+
+Now don't get me wrong. It's not the job of every employer to make work super fun all the time for their employees. It is work after all.
+
+But if you can give me some of that joy I feel from building my own things and experimenting, if you can give me the slightest bit of agency in my job, it will make all the difference!
+
+Conversely, if you suck all of the fun out of it, I'll just start paying more attention to LinkedIn. Recruiters are just a click away.
+
+With that in mind, here are some ways you can totally kill the vibe and make me start questioning my life decisions.
+
+Obsess over process and ritual
+
+Software development is fun because it is a creative endeavor where you are in control of what gets made. Taking away that sense of agency turns it into something that's more akin to factory work.
+
+I understand that we need ticket systems like Jira and Pivotal Tracker. I get that clients need to be informed about the status of a project or they'll wonder if the sky is falling around them. These are reasonable expectations.
+
+But man, could we maybe find a way to be less obsessed about these things? Could we let engineers assign priority to the tickets? Could we be less strict about the exact number of points someone should be assigned in a week? Could we give developers more control over the work they decide to do?
+
+Every time you take away a little bit of agency, a little bit of fun goes with it. Let's loosen up the protocols and increase the fun factor!
+
+Turn everything into some kind of coaching experience
+
+Believe me, I get the irony of this when it's coming from someone who coaches people for a living. But maybe that coaching experience gives my argument a bit more weight.
+
+You see, there's this funny thing about fun. It magically vanishes when you have people standing over your shoulder telling you what to do.
+
+I'm pretty sure this is a human nature thing. Being the one who is always receiving the wisdom puts you in some kind of less equal role, and people really don't like that.
+
+One of the first things we are taught as coaches is to take a step back and let people learn. Give them time to internalize the material before offering more advice.
+
+So if you want to suck all the fun out of software development, make sure you constantly don the instructor hat. Never stop lecturing the pupils. Keep reviewing every pull request in exacting detail, and never let people make natural discoveries on their own.
+
+Add an arbitrary time constraint
+
+Creativity doesn't happen on a schedule. It is a process of experimentation, feedback seeking, and iteration. You put something out there, see what people think, and then you keep tweaking it.
+
+So long as you are being reasonably productive, why does it matter when that thing gets shown to people? Why commit yourself to a delivery date when you don't even know if the thing you're building is a worthwhile product in the first place?
+
+It just adds a pile of stress, and it sucks out all of the fun.
+
+Now this is the part where I have to amend what I just said because it could easily be taken out of context. I do think there is a time and a place for schedules, just not in the early "inception" stages of a product.
+
+Schedules matter later on when you've already proven the viability of the concept, and you are rushing to market with it. In that case, do what you gotta do within certain psychological limitations.
+
+I just think it's important to understand the different phases of development. If you can carve out some time for experimentation and a more relaxed schedule, you will make our jobs a lot more fun.
+
+As a result, more of us will choose to keep coming into work instead of adopting a hyper frugal lifestyle and retiring early.
+
+Get really pedantic about design patterns, architecture, and code formatting
+
+MVC? MVVM? MVCVVMVCVMCMCM? RANDOMLETTERS? DOESITREALLYMATTER?
+
+On a certain level, we learn these patterns naturally out of frustration. When you step on your toes enough times, you figure out some neat ways to stop stepping on your toes. We have design patterns because they are useful.
+
+But lately it seems like there has been a Cambrian Explosion of new design patterns. You might be tempted to think people are inventing these things so they can look smart at conferences.
+
+There are three kinds of horses.
+
+The work horse. The show horse. The horse's ass.
+
+Be the work horse. Pick what gets the job done, and if it doesn't introduce a ball of spaghetti, go with it.
+
+Software development is fun when we have the freedom to pick the pattern we find most useful. It's drudgery when we're forced to arbitrarily adhere to a pattern because it's considered a "best practice."
+
+Don't innovate
+
+I got into software development because it gave me the ability to make things that don't exist yet. That's what is so exciting about it! With the stroke of a few keys, you're inventing new things.
+
+Companies kill the vibe when they pursue projects that just aren't that interesting or innovative.
+
+Does the world really need another Instagram? Do we really need the mobile app version of your website? Do I really need to give up my weekend to build another wrapper around a SalesForce database?
+
+Where's the fun in that? What new thing are we making that doesn't exist yet? Why should I be excited to come work for you?
+
+I think snowboarding and mountain biking are fun because there's always a new trick to try and new trails to ride. If I kept riding the same trails over and over again, I'd get really bored and probably quit. Trying new things is what keeps the sports fresh. They're what keep me coming back year after year.
+
+I could have taken any job last summer, but I took the teaching job because it seemed like it would be a lot of fun. It was! I had an incredible amount of autonomy, mastery over my skill domain, and the power to make a real impact for my students.
+
+Look, I get it. It's not your job to constantly make this a fun environment. You probably have people yelling at you about timelines, and boy oh boy do those developers have a ton of nerve asking to do meaningful and novel work in a chill environment.
+
+Just realize that a spoonful of sugar will definitely make the medicine go down.
+
+Give us the autonomy we crave. Give us meaningful things to work on. Give us the freedom to fail and learn from our mistakes.
+
+Software development is fun! Don't ruin it.

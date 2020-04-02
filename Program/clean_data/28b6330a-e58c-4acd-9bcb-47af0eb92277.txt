@@ -1,0 +1,225 @@
+In 2006 Netflix announced the Netflix Prize, a competition for creating an algorithm that would “substantially improve the accuracy of predictions about how much someone is going to enjoy a movie based on their movie preferences.” There was a winner, which improved the algorithm by 10%. However, Netflix never did implement the algorithm, saying:
+
+“We evaluated some of the new methods offline but the additional accuracy gains that we measured did not seem to justify the engineering effort needed to bring them into a production environment.”
+
+But Netflix didn’t shun all algorithm and data efforts.
+
+To the uninitiated, it may seem that Netflix’s analytics go only as far as views. They may also think that the show House of Cards was chosen because Netflix “thought subscribers might like it.” But the truth is much, much deeper. The $100 million show wasn’t green-lighted solely because it seemed like a good plot. The decision was based on a number of factors and seemingly almost entirely on data.
+
+The reality is that Netflix is a data-driven company. Saying that Netflix chooses new content based on “whoever they can get a license with” is a very thin and vague statement. Netflix does need licenses from studios, but they don’t just pick movies and television shows at random.
+
+Read on to learn more about the future of television programming and how analytics is helping Netflix become a better business and service.
+
+Analytics at Netflix
+
+The core job of analytics is to help companies gain insight into their customers. Then, the companies can optimize their marketing and deliver a better product. (Without analytics, companies are in the dark about their customers.) Analytics gives businesses the quantitative data they need to make better, more informed decisions and improve their services.
+
+So how does Netflix use analytics?
+
+“There are 33 million different versions of Netflix.”
+
+– Joris Evers, Director of Global Communications
+
+At current count, Netflix has 103.95 million worldwide streaming customers. Having this large user base allows Netflix to gather a tremendous amount of data. With this data, Netflix can make better decisions and ultimately make users happier with their service.
+
+Traditional television networks don’t have these kinds of privileges in their broadcasting. Ratings are just approximations, green-lighting a pilot is based on tradition and intuition. Netflix has the advantage, because being an internet company allows Netflix to know their customers well, not just have a “persona” or “idea” of what their average customer is like. Let’s look at an example.
+
+If you’re watching a series like Arrested Development, Netflix is able to see (on a large scale) the “completion rate” (for lack of a better term) of users. For example, the people at Netflix could ask themselves “How many users who started Arrested Development (from season 1) finished it to the end of season 3?” Then they get an answer. Let’s say it’s 70%.
+
+Then they ask “Where was the common cut off point for users? What did the other 30% of users do? How big of a ‘time gap’ was there between when consumers watched one episode and when they watched the next? We need to get a good idea of the overall engagement of this show.”
+
+They then gather this data and see user trends to understand engagement at a deep level. If Netflix saw that 70% of users watched all seasons available of a cancelled show, that may provoke some interest in restarting Arrested Development. They know there’s a good chance users will watch the new season.
+
+But the data gets deeper than that. Here’s a look at some of the “events” Netflix tracks:
+
+When you pause, rewind, or fast forward
+
+What day you watch content (Netflix has found people watch TV shows during the week and movies during the weekend.)
+
+The date you watch
+
+What time you watch content
+
+Where you watch (zip code)
+
+What device you use to watch (Do you like to use your tablet for TV shows and your Roku for movies? Do people access the Just for Kids feature more on their iPads, etc.?)
+
+When you pause and leave content (and if you ever come back)
+
+The ratings given (about 4 million per day)
+
+Searches (about 3 million per day)
+
+Browsing and scrolling behavior
+
+Netflix also looks at data within movies. They take various “screen shots” to look at “in the moment” characteristics. Netflix has confirmed they know when the credits start rolling; but there’s far more to it than just that. Some have figured these characteristics may be the volume, colors, and scenery that help Netflix find out what users like.
+
+Why does Netflix want to know when the credits roll? They probably want to see what users do afterward. Do they leave the app or go back to browsing? Notice how Netflix now offers movie recommendations (they have personalization algorithms that aim to accurately predict what users will watch next) soon after credits start (or, for television shows, they automatically play the next episode).
+
+Because if users leave the app after watching a show, that may mean they are more likely to cancel. Allow me to explain:
+
+Through their analytics, Netflix may know how much content users need to watch in order to be less likely to cancel. For instance, maybe they know “If we can get each user to watch at least 15 hours of content each month, they are 75% less likely to cancel. If they drop below 5 hours, there is a 95% chance they will cancel.”
+
+So now that they have this data, they can ask themselves “How do we help users watch at least 15 hours of content per month?” One idea: enable post-play, which automatically plays the next episode of a TV show unless the user opts out. For movies, show movie suggestions (based on the rating of the movie just watched) right after the credits start rolling and allow users to press play right from that screen. Netflix can add this feature to their web and mobile apps and, again, through analytics, see the results.
+
+This is only a theory of how Netflix came to the decision to implement post-play and an example of how analytics can help Netflix make decisions. I don’t have any inside information.
+
+So all of this data and the large user base allow Netflix to quickly see trends and formulate opinions. Later, we’ll get into the factors that made them green-light House of Cards.
+
+The Recommendation Algorithm
+
+As part of the on-boarding process, Netflix asks new users to rate their interest in movie genres and rate any movies they’ve already seen. Why do they do this right up front? Because helping users discover new movies and TV shows they’ll enjoy is integral to Netflix’s success.
+
+If people run out of movies they want to watch and have no way to find new movies, they’ll cancel. It’s important that Netflix puts a lot of focus on making sure they have an accurate algorithm for this rather than having users rely on outside sources to find new movies.
+
+Is the recommendation algorithm accurate and successful?
+
+Since 75% of viewer activity is based on these suggestions, I’d say it works pretty well for them.
+
+But now that more users are moving to streaming, what they actually watch is more important than ratings. When it was DVD-by-mail, Netflix users had to wait, and the rating was a “thought process.” Netflix engineers Xavier Amatriain and Carlos Gomez-Uribe explain:
+
+Amatriain:
+
+“When we were a DVD-by-mail company and people gave us a rating, they were expressing a thought process. You added something to your queue because you wanted to watch it a few days later; there was a cost in your decision and a delayed reward. With instant streaming, you start playing something, you don’t like it, you just switch. Users don’t really perceive the benefit of giving explicit feedback, so they invest less effort.”
+
+Gomez-Uribe:
+
+“Testing has shown that the predicted ratings aren’t actually super-useful, while what you’re actually playing is. We’re going from focusing exclusively on ratings and rating predictions to depending on a more complex ecosystem of algorithms.”
+
+As we can see, the algorithm is evolving. There are entire teams (Netflix has over 800 developers in total) working on it. It’s not static because user behavior and the Netflix product are changing.
+
+For a deeper description of the algorithm, check out this post written by the people who design and work on it.
+
+The New Thumbs Up/Down Rating System
+
+In April 2017, Netflix debuted a new rating system. Previously, users would rate movies and TV shows on 1-5 stars. But after their product teams ran some tests, they found a new, simpler “thumbs up-thumbs down” test beat the original star-based rating system. In their Q1 2017 Letter to Shareholders, Netflix wrote:
+
+As always, our product team has dozens of tests running in the endless quest for even higher member satisfaction. One test that won conclusively last year and has now been rolled out to all members is our new “thumbs-up thumbs-down” feedback model, replacing the 5-star model we have had from our DVD days. The amount of usage we get with this new approach is over twice as many ratings. With this additional personal input, we’ll be able to improve personalization, making your front screen on Netflix even more relevant.
+
+How Big Data Factored into House of Cards
+
+In 2011 Netflix made one of the biggest decisions they’ll ever make. It wasn’t anything material, but rather it was about content. They outbid top television channels like HBO and AMC to earn the rights for a U.S. version of House of Cards, giving them 2 seasons with 13 episodes in each season.
+
+At a cost of $4 million to $6 million an episode, this 2-season price tag is over $100 million. Netflix has undoubtedly made other big money investments before (shipping centers, postage costs, etc.), but nothing like this on the content side. So why did they make such a big bet, and how did analytics factor into the decision? Let’s get into it.
+
+Pre-Green-light
+
+Before green-lighting House of Cards, Netflix knew:
+
+A lot of users watched the David Fincher directed movie The Social Network from beginning to end.
+
+from beginning to end. The British version of “ House of Cards ” has been well watched.
+
+” has been well watched. Those who watched the British version “House of Cards” also watched Kevin Spacey films and/or films directed by David Fincher.
+
+Each of these 3 synergistic factors had to contain a certain volume of users. Otherwise, House of Cards might belong to a different network right now. Netflix had a lot of users in all 3 factors.
+
+This combination of factors had a lot of weight in Netflix’s decision to make the $100 million investment in creating a U.S. version of House of Cards. Jonathan Friedland, Chief Communications Officer, says “Because we have a direct relationship with consumers, we know what people like to watch and that helps us understand how big the interest is going to be for a given show. It gave us some confidence that we could find an audience for a show like House of Cards.”
+
+In an interview with Gigaom, Steve Swasey, VP of Corporate Communications, expands:
+
+“We have a high degree of confidence in [House of Cards] based on the director, the producer and the stars…. We don’t have to spend millions to get people to tune into this. Through our algorithms, we can determine who might be interested in Kevin Spacey or political drama and say to them ‘You might want to watch this.’”
+
+Swasey says it’s not just the cast and director that predict whether the show will be a success. “We can look at consumer data and see what the appeal is for the director, for the stars, and for similar dramas,” he says. Add this to the fact that the British version of House of Cards has been a popular DVD pick for subscribers. Combining these factors (and the popularity of political thrillers) makes it seem like an easy decision for Netflix to make. The only question was how much they were willing to invest. We’ll get into the early ROI numbers a little later.
+
+After the Green Light
+
+Now that Netflix has made the $100 million investment, they are in part responsible for promoting it. And with the data they have, they can make a “personalized trailer” for each type of Netflix member, not a “one size fits all” trailer. Let me explain…
+
+Before a movie is released or TV show premiers, there’s typically one or a few trailers made and a few previews selected. Netflix made 10 different cuts of the trailer for House of Cards, each geared toward different audiences. The trailer you saw was based on your previous viewing behavior. If you watched a lot of Kevin Spacey films, you saw a trailer featuring him. Those who watched a lot of movies starring females saw a trailer featuring the women in the show. And David Fincher fans saw a trailer featuring his touch.
+
+So now that the first season has run, let’s look at some of the early metrics. These won’t determine immediately whether the House of Cards investment can be considered successful, but rather the trajectory that it’s on.
+
+What do you think the average success rate is for new TV shows? In other words, if a television network green lights a new TV show, what are the chances it will be profitable or won’t be cancelled after a couple of seasons?
+
+Your guess?
+
+The answer is 35%, on average.
+
+When a network green lights a show, there’s a 35% chance it succeeds and a 65% chance it gets cancelled. At the time of this writing, Netflix has 7 TV shows, of which 5 have been renewed for another season. If this rate can continue for years, the Netflix success rate will be about 70%.
+
+So why does Netflix renew shows at a higher rate than conventional television networks? Does the data make the difference? Is the success rate legitimate or can you not compare an Internet television network to conventional TV networks?
+
+Has House of Cards been a success? It has brought in 2 million new U.S. subscribers in the first quarter of 2013, which was a 7% increase over the previous quarter. It also brought in 1 million new subscribers from elsewhere in the world. According to The Atlantic Wire, these 3 million subscribers almost paid Netflix back for the cost of House of Cards.
+
+And what about current subscribers? Does having House of Cards make them less likely to cancel their subscription?
+
+Yes, for 86% of them.
+
+A survey showed that 86% of subscribers are less likely to cancel because of House of Cards but only if Netflix stays at the $7.99 price point. While this may seem impressive, you should take this survey with a grain of salt. As the author points out:
+
+“The sample size is small. Only 346 of the 1,229 U.S. consumers surveyed on February 12-13, 2013 are Netflix customers, although another 223 are classified as non-subscribers who have access to a Netflix subscription. About 10% of subscribers and those with access to Netflix viewed at least one episode of House Of Cards in the first 12 days after it became available. The average person who tuned in watched six episodes over that period, but 19.4% watched all 13.”
+
+What can be safe to say is that House of Cards gives all Netflix subscribers one less reason to cancel. How big or how small the reason is arbitrary.
+
+Orange is the New Black
+
+Weeds was a pretty popular show on Showtime. It also has been streaming on Netflix for quite some time and has been one of their most viewed shows, according to their “Popular on Netflix” section. So when creator Jenji Kohan had the idea for a new TV show, Netflix knew they had to jump in. To be able to get a series with the popularity and quality of Weeds would be a big hit, especially in a lineup next to House of Cards. Early metrics show that Orange is the New Black is getting off to a more successful start than Arrested Development and even House of Cards.
+
+In the next section we’ll take a step back and look at the big picture of how analytics is helping Netflix.
+
+How Netflix Decides on Movies to License
+
+By now, you probably can guess that Netflix doesn’t blindly pick which movies to stream. Licensing movies from studios is expensive, so Netflix uses data to help them decide. There are only a limited number of movies to license. For example, a popular new release may not be available immediately, but a year later it might be. There is a vast number of movies available for Netflix to pick from, just not every movie available. So Netflix has to find which ones its users will enjoy the most.
+
+As John Ciancutti, former VP of Product Engineering (now at Facebook), says:
+
+“Netflix seeks the most efficient content. Efficient here meaning content that will achieve the maximum happiness per dollar spent. There are various complicated metrics used, but what they are intended to measure is happiness among Netflix members. How much would it go up if Netflix licenses, say, Mad Men vs. Sons of Anarchy?”
+
+Jenny McCabe, Director of Global Media Relations, puts it another way:
+
+“We look for those titles that deliver the biggest viewership relative to the licensing cost. This also means that we’ll forgo or choose not to renew some titles that aren’t watched enough relative to their cost. We always use our in depth knowledge (aka analytics and data) about what our members love to watch to decide what’s available on Netflix….If you keep watching, we’ll keep adding more of what you love.”
+
+There you have it… That last sentence tells it all. They need to know what people watch and what people like in order to decide on new titles. If no one watched anything, they’d be in the dark. Now you can see that their analytics is a big help in deciding what movies and TV shows to select. They are not, as McCabe put it, a “broad distributor,” possibly stating a differentiation from Hulu.
+
+At a $7.99 per month per member pricing plan, Netflix cannot afford to add every box office hit. They need to be smart about their decisions and take full advantage of their analytics. Being cost efficient and making users happy is a skill that is central to Netflix’s success. Let’s use an example of how they might combine smart economics while also maximizing user happiness.
+
+The Dark Knight was an extraordinarily popular movie, netting over $1 billion at the box office. Netflix knew that its users would enjoy it if they streamed it, but the studio wanted a very high price for it. Netflix could pay the rights to stream it for a few months, or they could get 6 other quality movies that they knew users would like. So what do they do? What brings the highest happiness per dollar?
+
+In other words, instead of getting The Dark Knight, they could get other movies with the same actors and director. They could add Memento (directed by Christopher Nolan), Brokeback Mountain and A Knight’s Tale (starring Heath Ledger), Thank You for Smoking (starring Aaron Eckhart), Stranger than Fiction (starring Maggie Gyllenhaal), and The Machinist (starring Christian Bale) for (or near) the price of one license to The Dark Knight. What route would you choose?
+
+Again, this is just a hypothetical, but it’s probably safe to say that this is a common situation Netflix faces. Let’s look at another example.
+
+Parks and Recreation is popular for Netflix and has good metrics (people watch the entire show, re-watch some episodes, and frequently rewind certain parts). One of the actors is Adam Scott (maybe some users rewind scenes with him in it), and they have the option to add a few cost-efficient movies with him. Do they do it? At the time of this writing, they do. There are 7 Adam Scott movies available to stream instantly, one an independent film where he is a main character.
+
+Along with these tactics, Netflix also studies piracy sites to help them decide what content to purchase. One show they picked up as a result is Prison Break, which has been heavily pirated.
+
+Use Analytics Directionally
+
+When asked to name the 3 things he learned from Reed Hastings, Netflix co-founder Mitch Lowe said focus, analytics, and pour money into the things that are working best.
+
+When discussing analytics, he says:
+
+“He taught me how to use analytics to make decisions. I always thought you needed a clear answer before you made a decision and the thing that he taught me was [that] you’ve got to use analytics directionally…and never worry whether they are 100% sure. Just try to get them to point you in the right direction.”
+
+When pressed to give an example, Lowe says:
+
+“We couldn’t figure out what our core demographic was (this was in the early 2000’s) of our users and so we would spend bunches of time surveying our customers trying to figure out, you know, do they sit into the 18-24 year old group and 24-35, etc. And the numbers were all over the place. But if you averaged them all out, it was clear that our customer was higher income, older, and more educated. But there was still big segments of younger people and [Hastings] said “listen, just go with where this is telling you directionally our customers are.” And it really paid off. When we started targeting places where those customers with that demographic hung out, and this got to our annoying pop up ads that we used to inundate the web with. Then our customer acquisition just went straight up.”
+
+Now, let’s take a step back, look at the big picture, and see Netflix’s aspiring goal.
+
+Netflix’s Goal to Become the HBO of Internet TV
+
+Netflix’s data and analytics are a big asset for them. It helps them build a better service for users and become a more cost efficient business by reducing waste and avoiding “shots in the dark.”
+
+In their own words, Netflix wants “to become HBO faster than HBO can become Netflix.” They’re adding shows at a rapid pace, with the goal of adding at least 5 new shows per year according to Ted Sarandos, Chief Content Officer. As of February 2013, he had $6 billion available to him to choose content for Netflix streaming. This money goes to pay for licensing fees from cable companies and studios, but $300 million is for original content, according to GQ.
+
+Some of that original content will not be just TV shows, but also exclusive documentaries and stand-up comedy specials. Comedian Aziz Ansari will debut his standup special, Buried Alive, on Netflix. It’s slated to debut November 1st. And on October 14, Netflix will debut another stand-up special and documentary series by comedian Russell Peters. If you’re interested, Wikipedia has a great page that lists out all current and future Netflix programming.
+
+HBO has a slew of original content in addition to their licensing of movies commonly not on networks such as TNT, TBS, USA, AMC, etc. In April 2013, HBO premiered the Louis CK standup Oh My God. Clearly the HBO model has been successful for Time Warner, its owner.
+
+As of April 2013, it has been estimated that Netflix surpassed HBO in subscribers. This means they matched their goal of “becoming HBO faster than HBO can become Netflix.”
+
+Netflix, like HBO, has no plans to eventually be a distributor of original content only. CEO Reed Hastings has said “If we do our job right, there’s always a reason to be a Netflix member on the original side, in addition to the license side.”
+
+In Conclusion…
+
+Now you see how Netflix makes informed decisions based on data. Clearly, data cannot make every decision; there are some situations where intuition has to take over. For instance, data could not predict that a show like Breaking Bad would be a success. The creator was a former writer on The X-Files, and dramas are 50/50. In these cases, decisions are heavily based on the people and team behind the idea of the show. Whether Netflix can make a successful show like this (one with little to no data) is yet to be seen.
+
+What analytics and data can do is give you insight so you can run a better business and offer a superior product. People with data have an advantage over those who run on intuition or “what feels right.”
+
+Do you have data to help you make decisions? If not, Netflix provides a good case for why you should do so.
+
+Let me hear your feedback in the comments.
+
+About the Author: Zach Bulygo is the Blog Manager for Kissmetrics, you can find him on Twitter here.

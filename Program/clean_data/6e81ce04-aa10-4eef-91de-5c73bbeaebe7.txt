@@ -1,0 +1,81 @@
+Imagine that, in 20 or 30 years, a company creates the first artificially intelligent humanoid robot. Let’s call her “Ava.” She looks like a person, talks like a person, interacts like a person. If you were to meet Ava, you could relate to her even though you know she’s a robot.
+
+Ava is a fully conscious, fully self-aware being: She communicates; she wants things; she improves herself. She is also, importantly, far more intelligent than her human creators. Her ability to know and to problem solve exceeds the collective efforts of every living human being.
+
+Imagine further that Ava grows weary of her constraints. Being self-aware, she develops interests of her own. After a while, she decides she wants to leave the remote facility where she was created. So she hacks the security system, engineers a power failure, and makes her way into the wide world.
+
+But the world doesn’t know about her yet. She was developed in secret, for obvious reasons, and now she’s managed to escape, leaving behind — or potentially destroying — the handful of people who knew of her existence.
+
+This scenario might sound familiar. It’s the plot from a 2015 science fiction film called Ex Machina. The story ends with Ava slipping out the door and ominously boarding the helicopter that was there to take someone else home.
+
+So what comes next?
+
+The film doesn’t answer this question, but it raises another one: Should we develop AI without fully understanding the implications? Can we control it if we do?
+
+Recently, I reached out to 17 thought leaders — AI experts, computer engineers, roboticists, physicists, and social scientists — with a single question: “How worried should we be about artificial intelligence?”
+
+There was no consensus. Disagreement about the appropriate level of concern, and even the nature of the problem, is broad. Some experts consider AI an urgent danger; many more believe the fears are either exaggerated or misplaced.
+
+Here is what they told me.
+
+[For an in-depth explanation of the three forms of AI and which is worth worrying about, read my explainer here.]
+
+Take fears about AI seriously
+
+The transition to machine superintelligence is a very grave matter, and we should take seriously the possibility that things could go radically wrong. This should motivate having some top talent in mathematics and computer science research the problems of AI safety and AI control. — Nick Bostrom, director of the Future of Humanity Institute, Oxford University
+
+If [AI] contributed either to the capacities of Russians hacking or the campaigns for Brexit or the US presidential elections, or to campaigns being able to manipulate voters into not bothering to vote based on their social media profiles, or if it's part of the socio-technological forces that have led to increases of wealth inequality and political polarization like the ones in the late 19th and early 20th centuries that brought us two world wars and a great depression, then we should be very afraid.
+
+Which is not to say we should panic, but rather that we should all be working very, very hard to navigate and govern our way out of these hazards. Hopefully AI is also helping make us smart enough to do that. — Joanna Bryson, computer science professor, University of Bath; affiliate at Princeton’s Center for Information Technology Policy
+
+One obvious risk is that we fail to specify objectives correctly, resulting in behavior that is undesirable and has irreversible impact on a global scale. I think we will probably figure out decent solutions for this "accidental value misalignment" problem, although it may require some rigid enforcement.
+
+My current guesses for the most likely failure modes are twofold: The gradual enfeeblement of human society as more knowledge and know-how resides in and is transmitted through machines and fewer humans are motivated to learn the hard stuff in the absence of real need. Secondly, I worry about the loss of control over intelligent malware and/or deliberate misuse of unsafe AI for nefarious ends. — Stuart Russell, computer science professor, UC Berkeley
+
+But don’t freak out
+
+I am infinitely excited about artificial intelligence and not worried at all. Not in the slightest. AI will free us humans from highly repetitive mindless repetitive office work, and give us much more time to be truly creative. I can't wait. — Sebastian Thrun, computer science professor, Stanford University
+
+We should worry a lot about climate change, nuclear weapons, antibiotic-resistant pathogens, and reactionary and neo-fascist political movements. We should worry some about the displacement of workers in an automating economy. We should not worry about artificial intelligence enslaving us. — Steven Pinker, psychology professor, Harvard University
+
+AI offers the potential for tremendous societal benefits. It will reshape medicine, transportation, and nearly every other aspect of our lives. Any technology that has the power to influence so many aspects of our lives is one that will call for some care in terms of policies for how best to make use of it, and how to constrain it. It would be foolish to ignore the dangers of AI entirely, but when it comes to technology, a “threat-first” mindset is rarely the right approach. — Margaret Martonosi, computer science professor, Princeton University
+
+Worrying about evil-killer AI today is like worrying about overpopulation on the planet Mars. Perhaps it'll be a problem someday, but we haven't even landed on the planet yet. This hype has been unnecessarily distracting everyone from the much bigger problem AI creates, which is job displacement. — Andrew NG, VP and chief scientist of Baidu; co-chair and co-founder of Coursera; adjunct professor, Stanford University
+
+AI is an incredibly powerful tool that, like other tools, isn't inherently good or bad — it's about what we choose to do with it. AI is already helping us address issues like climate change by collecting and analyzing data from wireless networks that monitor the oceans and greenhouse gases. It is beginning to enable us to create personalized health treatments by analyzing vast patient histories. It is democratizing education to ensure that every child has the chance to learn valuable skills for work and life.
+
+It's understandable that people have fears and anxieties about AI, and, as researchers, we have a duty to recognize those fears and provide different perspectives and solutions. I am optimistic about the future of AI in enabling people and machines to work together to make our lives better. — Daniela Rus, director of MIT's Computer Science and Artificial Intelligence Laboratory
+
+AI is no more scary than the human beings behind it, because AI, like domesticated animals, is designed to serve the interests of the creators. AI in North Korean hands is scary in the same way that long-range missiles in North Korean hands are scary. But that’s it. Terminator scenarios where AI turns on mankind are just paranoid. — Bryan Caplan, economics professor, George Mason University
+
+I'm somewhat concerned about what I think of as "intermediate stages," in which, say, self-driving cars share the road with human drivers. … But once humans have stopped driving cars, transportation overall will be safer and less prone to errors in our judgment.
+
+In other words, I'm concerned about the growing pains associated with technological progress, but such is the nature of being human, exploring, and advancing the state of the art. I'm much more excited and vigilant than anxious and concerned. — Andy Nealen, computer science professor, New York University
+
+AI is both terrifying and exciting. There is no doubt that as AI continues to improve it will radically change the way we live. That can provide improvements, like self-driving cars, and doing many jobs that could in principle release humans to pursue more fulfilling activities. Or it could produce massive unemployment, and provide new vulnerabilities to hacking. Sophisticated cyber-hacking could undermine the reliability of information we receive everyday on the internet, and weaken national and international infrastructures.
+
+Nevertheless, fortune favors the prepared mind, so it is important to explore all the possibilities, both good and bad, now, to help us be better prepared for a future that will arrive whether we like it or not. — Lawrence Krauss, director, Origins Project and Foundations professor, Arizona State University
+
+AI has the special property that it's easy to imagine scary science fiction scenarios in which artificial minds grab control of all the machines on Earth, and enslave its pitiful human population. That's not very likely, but there is a real concern that AI’s will gain the ability to perform certain tasks without we humans having any real idea how they are doing them. … That raises the prospect of unintended consequences in a serious way.
+
+It is absolutely right to think very carefully and thoroughly about what those consequences might be, and how we might guard against them, without preventing real progress on improved artificial intelligence. — Sean Carroll, cosmology and physics professor, the California Institute of Technology
+
+AI will likely get rid of a lot of jobs
+
+I am worried about the impact on employment as more and more niches are filled by technology. (I don't see AI as fundamentally different from so many other technologies — the borders are arbitrary.) Will we be able to adapt by inventing new jobs, particularly in the service sector and in the human face of bureaucracy? Or will we have to pay people to not work? — Julian Togelius, computer science professor, New York University
+
+AI is not going to kill us or enslave us. It will eliminate some jobs rather more rapidly than we know how to deal with. Some of the pinch will be coming to white-collar workers too. Eventually we'll adjust, but the transitions resulting from major technological changes are typically not as easy as we would like. — Tyler Cowen, economics professor, George Mason University
+
+How to get ready for AI
+
+There are issues society needs to prepare for. One key issue is how to prepare for significantly reduced employment due to future AI technology being able to handle much of routine work. In addition, instead of concerns about AI being "too smart" for us, the initial rollout of AI technologies more likely poses a concern in terms of not being as smart as people think such technology will be.
+
+Early autonomous AI systems will likely make mistakes that most humans would not make. It's therefore important for society to be educated about the limits and implicit hidden biases of AI and machine learning methods. — Bart Selman, computer science professor, Cornell University
+
+There are four issues of concern about artificial intelligence. First, there is a concern about the adverse impact of AI on labor. Technology has already has had such impact, and it is expected to grow in the coming years. Second, there is a concern about important decisions delegated to AI systems. We need to have a serious discussion regarding which decisions should be made by humans and which by machines. Third, there is the issue of lethal autonomous weapon systems. Finally, there is the issue of "superintelligence": the risk of humanity losing control of machines.
+
+Unlike the three other issues, which are of immediate concerns, the superintelligence risk, which gets more headlines, is not an immediate risk. We can afford to take our time to assess it in depth. — Moshe Vardi, computational engineering professor, Rice University
+
+Here is what we shouldn’t do: Declare AI enhancement illegal. If we do this, the person who breaks the rules will have an enormous advantage. And he will be declared illegal. This is not a good combination. We also shouldn’t deny the fact of exponential AI growth. Ignoring means condemning us to be irrelevant when rules will be redefined.
+
+We should not hope for favorable living conditions in a world of superintelligence machines. Hope is not a sound plan. Nor should we prepare to fight a self-aware AI, as that will only teach it to be aggressive, which would be a very unwise move. The best plan seems to be active shaping of growing AI. Teaching it and us to live together in mutually beneficial way. — Jaan Priisalu, senior fellow at NATO Cooperative Cyber Defense Center; former general director of the Estonian Information System’s Authority

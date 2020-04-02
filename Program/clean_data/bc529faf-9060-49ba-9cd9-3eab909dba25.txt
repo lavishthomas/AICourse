@@ -1,0 +1,93 @@
+In February, while the world was watching citizens of the Ukraine topple their government from behind barricades of flaming tires, computer scientist Naren Ramakrishnan and his research team were intently watching a similar situation unfold in Venezuela.
+
+The South American nation has been a tinderbox since early February when Leopoldo Lopez, mayor of Chacao and an opposition leader, tweeted a call for #LaSalida on Friday, January 31. We will meet this Sunday, his tweet read, for #TheExit. The hashtag was a thinly coded call for the ouster of President Nicolas Maduro, Hugo Chavez’s successor. The protests, which decry high inflation, shortages of staple goods, and the country’s soaring homicide rate, started in Chacao and quickly spread to the capital, Caracas. For a while, demonstrations took place nearly every day. Since the unrest began, at least 32 people have died.
+
+For years, Ramakrishnan, a professor at Virginia Tech, and his team have been sifting through tweets, blog posts, and news articles about Latin America, keeping a close eye on events in ten countries, including Venezuela. These past couple of months have been no different. But Ramakrishnan and his colleagues haven’t been bent over newspapers or straining their eyes scanning streams of tweets. Rather, they were monitoring the dashboard of EMBERS, their computer program that draws on tweets, news articles, and more to predict the future.
+
+Lopez’s #LaSalida tweet was probably among those which EMBERS analyzed, and the meaning of its uncoded message was almost certainly clear to the sophisticated system. But by that point, EMBERS had already suggested to its operators that Venezuela was ripe for civil unrest. It had also done the same for Brazil many months earlier, accurately predicting the June 2013 demonstrations against rising transit fares.
+
+Demonstrators participate in an opposition march in Chacao, Venezuela, on March 22, 2014.
+
+EMBERS is the result of years’ worth of work by Ramakrishnan and his team, which includes computer scientists, statisticians, political scientists, social scientists, and an epidemiologist. It is the winning entrant in the Open Source Initiative at the Intelligence Advanced Research Projects Activity, a part of the Office of the Director of National Intelligence. IARPA, according to its website, “invests in high-risk, high-payoff research programs that have the potential to provide the United States with an overwhelming intelligence advantage over future adversaries.” The ability to accurately forecast civil unrest, epidemics, and elections around the world could do exactly that.
+
+Soon, EMBERS’s capabilities will expand beyond Latin America to the Middle East. It will draw on some of the same data sources, but also add new feeds. Its language processing routines will be adapted to new languages, and portions of its code will be tailored to that region’s cultures. No one is saying exactly when EMBERS and its offspring will be used to inform decisions by intelligence agents, but given IARPA’s role in funding it, that seems to be the plan.
+
+From Delphi to Digital
+
+Predicting the future is a dream as old as antiquity. People have turned to sources as varied as the oracle at Delphi, the Bible, Nostradamus, and the Farmer’s Almanac. Most prophecies have been just plain false or, less damningly, coincidentally correct. But that hasn’t stopped people from trying to guess what was coming around the bend.
+
+Today, of course, we make forecasts all the time, and there are plenty of times we get it right. Our lives revolve around weather forecasts, which are startlingly accurate as many as ten days out. We try to guess how many people will take the bus during rush hour or how many turkeys will be sold for Thanksgiving. But when it comes to predicting most collective human actions, we haven’t been as successful.
+
+At least, we weren’t. Today, a wealth of data is changing the equation. “In the past, you had traditional media, you had newspapers,” says Dan Braha, a complexity scientist at the University of Massachusetts, Dartmouth. “Information was delayed from one area to another. It was very difficult to get the real-time information about events.”
+
+“For many hundreds of years, the ratio of people who created content to those who consumed it was very small. Today, it has inverted.”
+
+In the 1990s, the internet began to dismantle some of those barriers, reducing the time it took for news to travel from, say, Caracas to New York. Rather than get a subscription to The New York Times, all people had to do was point their browsers to the right address. As information flowed more freely, the amount available to any given person increased.
+
+But even then, the web hadn’t yet changed the dynamics of content creation and consumption. “When the web appeared, it was a total consumption thing,” says Bernardo Huberman, director of the social computing lab at Hewlett-Packard Laboratories. “Then Web 2.0 appeared, which essentially is the introduction of social media. Namely, people can generate content. Wikipedia is one, Twitter is another, Facebook, blogging, and so on. There was an explosion of generated content from the bottom up. For many hundreds of years, the ratio of people who created content to those who consumed it was very small. Today, it has inverted.”
+
+Computer scientists and statisticians began mining that data for meaningful relationships. City managers started studying road usage to predict traffic jams, retailers combed past purchases to entice customers back into the store, and social media networks scoured profiles to sell more expensive ads. The era of Big Data was born.
+
+But simply crunching through mountains of data isn’t sufficient. Take Google Flu Trends, which purports to predict the severity of flu season by monitoring the number of searches for flu-related terms. Early on, the tool performed well. But starting in August 2011, the model overestimated the flu’s prevalence for 100 out of the next 108 weeks, according to an article recently published in the journal Science.
+
+Mathematical models like Google Flu Trends can help make sense of big data, but they can also be misleading. For researchers in the era of big data, it’s a cautionary tale. “The data is there. The question is, what do you do with the data?” Braha says. “If you use the wrong models, you get the wrong results.” On top of that, even sophisticated models are limited by our ability to process natural language using computers. Plus, as time horizons lengthen, accuracy tends to decline.
+
+That hasn’t slowed things down, though. If anything, the pace has quickened. Predictive science is fueled by data, and the more that’s available, the more it has to run with. “The more data you get, the predictive ability of the model goes up,” Braha says. “The availability of social media and open source data sets—this is one of the main reasons that enabled people to develop models.”
+
+From Movies to Mass Protests
+
+In 2010, Huberman and his colleague Sitram Asur published a paper about predicting box office receipts of newly released movies. Plenty of other papers had been published on the topic, but theirs had a twist—it relied solely on tweets. It was among the first—if not the first—study that used social media to predict some event before it happened. Their model proved impressively prescient, easily besting the previous gold standard. Huberman and Asur had proved the utility of 140-character sentiments.
+
+A year later, in April, IARPA announced the Open Source Indicators program (OSI), which would award substantial grants to three research groups to develop models that ingested publicly available data like tweets, blog posts, and news articles to anticipate “significant societal events,” such as unrest, epidemics, and economic instability. OSI isn’t the organization’s only program—there are dozens—but it is perhaps the most audacious.
+
+“It’s always easy to look at things retrospectively.”
+
+On the surface, the goals of the OSI program don’t appear much different from what practitioners of statistics, economics, and other disciplines have been doing for decades—that is, building models that use past data to predict some event. The difference is, OSI wanted researchers to predict an event that hadn’t happened yet. Previous “prediction” algorithms had the benefit of hindsight. Researchers had a better idea which factors precipitated an event, and that made it easier to tune the algorithms. “It’s always easy to look at things retrospectively,” says Ramakrishnan, the EMBERS researcher. What makes this new breed different is that the outcomes and their causes are unknown. The events haven’t happened yet, and that makes it harder to tweak a model to spit out the right forecast.
+
+To create EMBERS, dozens of scientists across a handful of disciplines developed algorithms to scrutinize Twitter’s firehose of information, unravel various dialects of Spanish, Portuguese, and French, tally reservation cancellations on OpenTable, and count cars in satellite images of hospital parking lots. None of the data sets they use are classified, though some of them cost money to access. The team has spent two years fine tuning the algorithms and checking their forecasts against reports assembled by a third party.
+
+Protestors stand atop a barricade on Hrushevskogo Street on January 25, 2014, in Kiev, Ukraine.
+
+By the end of February 2014, EMBERS had archived over 12 terabytes of data, or about 3 billion messages. It currently processes about 200 to 2,000 messages per second and adds 15 gigabytes of raw data to the archive every day. In the past, that would have required some serious hardware to support. But thanks to cloud computing—where computing resources are dynamically allocated and distributed across massive server farms—the system requires just 12 virtual machines, a number that can be easily increased without buying expensive new servers.
+
+After EMBERS ingests the raw data, it gleans a variety of metadata, including where a tweet originated and what locations are mentioned, the geographic focus of news articles, the organizations being discussed, and so on. Enriched, the data moves on to the four prediction models.
+
+In the case of predicting civil unrest using Twitter, algorithms look for key words or phrases that suggest a protest is in the works. When EMBERS finds a tweet that contains a key word or phrase—like #LaSalida—it looks for mentions of times or dates. The system then sifts through the geographic metadata to determine where the protest might take place.
+
+Since it was first booted up in November 2012, EMBERS has raised over 13,000 alerts.
+
+That’s just one stage. EMBERS also scours tweets for three or more of over 800 specific words or phrases that serve as indicators of unrest. “We look at words and the sentiment with which the word is being used,” says David Mares, a professor of political science at the University of California, San Diego and a principal investigator on EMBERS. A tweet’s sentiment gives important context that can change how it is interpreted, like the difference between a Venezuelan calling for “The Exit” and someone expressing frustration over how they can’t find the exit. The system also uses an algorithm that looks for other meaningful words that might have been overlooked and adds them to the list. “We’re always picking up new words,” Mares says.
+
+While this all this is happening, EMBERS is tracking how tweets flow through the network—how many people are tweeting about protests, who is retweeting them, and how many people they reach. When certain thresholds are crossed, the system fires off an alert. The entire system—which monitors far more than just tweets—generates about 40 alerts per day. Since it was first booted up in November 2012, EMBERS has raised over 13,000 alerts.
+
+Those warnings appear on the system’s dashboard, a screen in a desktop application that looks like a mashup of a Twitter feed, Google Maps, a basketball tournament bracket, and a cardiac monitor. Alerts appear automatically, without any input from a human. “It sort of gives you a global picture of what’s happening,” Ramakrishnan says. “You can see the alerts popping up on the screen. That at least tells you, ‘These are the most major regions that seem to be cause for concern.’ ”
+
+For now, according to the researchers working on it, EMBERS isn’t involved in day-to-day intelligence activities. But it seems likely that analysts will be using it or something like it in the near future. Ramakrishnan says IARPA is interested in a “tunable system,” one that analysts can tweak to receive more or fewer alerts. Much of the work done by EMBERS is manual labor for today’s analysts, he says. “It provides an opportunity for analysts to use this as a filter to cut across all the chatter.”
+
+EMBERS also makes sense of data that can help predict the outcome of elections as well as anticipate disease outbreaks. For the latter, EMBERS draws on standard epidemiological modeling along with a number of unusual data sources, including restaurant reservations on OpenTable and parking lot vacancies at hospitals. By monitoring reservations and cancellations, the system can spot when people are staying at home rather than eating out, a potential sign of illness. And by counting cars in satellite images of hospital parking lots, EMBERS knows the approximate number of visits well before official statistics trickle out.
+
+A Theory of Conflict
+
+EMBERS represents just one way scientists are trying to solve to the problem of predicting the future. Others are experimenting with different approaches. Take the work done a team led by Neil Johnson, a physicist at the University of Miami, for example.
+
+Johnson and his team were also among the three groups chosen to compete in the OSI program. They sought develop a theory of human conflict and apply it to various confrontations. Drawing on various data sets, including those on infant-parent relationships, protestors and their governments, computer hackers, high-frequency traders, and terrorists, Johnson and his colleagues distilled a single equation that they say describes how any two-sided asymmetric conflicts—the sort where one side has more power than another—will escalate.
+
+Using their equation, Johnson and his colleagues can predict how a conflict will develop based on the frequency of clashes early on. If confrontations are infrequent at first, any subsequent escalation will be rapid. But when two parties meet each other frequently, the escalation will be more gradual. It’s a pattern that’s shows up throughout their varied data sources, from infants fussing for their mothers’ attention all the way up to the Troubles in Northern Ireland. “The common feature of all these systems we looked at is they’re all, like most systems are, asymmetric,” Johnson says. “One side is trying to pick away at the other.”
+
+While asymmetry defines most conflicts, it doesn’t define them all. In World War II, for example, both sides were fairly evenly matched. The same was true in the Cold War. Adding civilians to the mix also changes the dynamic substantially, Johnson says. “That’s something we’re actually looking at now.”
+
+Inevitable Questions
+
+We’re still in the early days of predictive science, but already the field is raising as many questions as it has answered. Could these algorithms further tip the asymmetry of power toward the already powerful? What if systems like EMBERS are developed by oppressive regimes? And what are the consequences of predicting the actions of your own populace?
+
+The answers, of course, depend. Predictive tools can be powerful enablers of either democracy or oppression. If a democratic country is wielding them, its government could prevent protests through preemptive policy changes, says Braha, the complexity scientist. But, he adds, “If a protest is predicted in Iran or China, they can use it in a negative fashion, definitely. They can arrest people before it happens.”
+
+Ukranian security forces stand ready during protests late last year. It's possible that governments could use predictive tools to stifle protests.
+
+It’s also possible that governments could use this data to track their citizens. EMBERS and other OSI participants are restricted from tracking U.S. citizens as well as most foreign individuals, says Mares, the political scientist; the only exception is public foreign personalities, like politicians. “If a political candidate has a blog and he’s using it during his campaign, we can certainly track that. But by law we are not permitted to track individuals,” he says. Still, the technology is there. “We’re not finding Juanito in La Paz. But what I’m learning is that if we wanted to find Juanito in La Paz, we could.”
+
+EMBERS and its kind are possible, of course, because of the sheer amount of personally identifiable information that’s available online. Much of it is voluntarily posted to Twitter and Facebook, but plenty is unwittingly provided to marketing companies and advertisers. Many of those data sources are unregulated, and many are available for the right price.
+
+In theory, anyone with sufficient resources and brainpower could build their own predictive software similar to EMBERS. “Pick your favorite baddie—to what degree are they invested in the same kinds of things?” Mares asks rhetorically.
+
+For millennia, predicting the future seemed far fetched. Today, it seems inevitable. Predictive science is in its infancy, but as we grow more connected—and more of our worlds become exposed—systems that anticipate our actions, both individually and in aggregate, will only grow more sophisticated and more accurate. Mares puts it best: “We’re just scratching the surface here.”

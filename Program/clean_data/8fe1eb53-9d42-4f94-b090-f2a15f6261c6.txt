@@ -1,0 +1,261 @@
+If you don't have goals, you are not doing digital analytics. You are doing i am wasting earth's precious oxygenalytics.
+
+Let's back up. Let me start with a story.
+
+[Sidebar] I'm experimenting with sharing short stories via an insightful newsletter. I'd love for you to sign up: The Marketing Analytics Intersect. Thanks! [/Sidebar]
+
+Now, let's get back to the story.
+
+We were brain storming about the next cluster of coolness for Analytics, the conversation quickly went to what Analysts need to look at on a daily, weekly and monthly basis. I started to outline a simple framework that stated that no one should look at anything daily (that should all be automated and run off automated or custom set thresholds – things don't really change materially on a daily basis), weekly should be based on stuff that borders reporting squirrel work and pinches of analysis ninja work, and monthly…. well super analysis ninja stuff. And, then I started to redefine what daily, weekly and monthly even means. From there, it is only a hop, skip and jump to the most deadly question in analytics….
+
+What's the business solving for?
+
+Everything came to a screeching halt. This beautiful daily, weekly, monthly blog post I was drafting in my head to share my excitement with you about thinking analysis differently went poof.
+
+It pains me how critical it is to know what the heck we are solving for with our analytics, and how few people identify goals for their website (mobile or desktop). The reason is simple: If you don't know where you are going, you'll get somewhere and you'll be miserable.
+
+We see this everyday. "Analysts" spewing data out left right and center, after spending so much time tagging and re-tagging and Google Tag Managering. Yet, few Marketers or executives take them seriously (because they don't know what the heck all that means to the business or their own paychecks!).
+
+A vast majority of us out there are data rich, information poor.
+
+: (
+
+Starting today, let's renounce your citizenship in the land of nogloallandia! It sucks to be there.
+
+I can report on pageviews and bounce rates and sessions and all the other lovely metrics we normally obsess about. Or, the foundation of my analysis for this blog can be this:
+
+A much richer understanding about the eight things I'm solving for. Now, all those other metrics suddenly have a purpose and context. I can understand what I'm doing well, what I stink at and start making focused strategic choices about the actions I should take.
+
+Amazing, right?
+
+The number and type of goals we can set up for a business tend to be quite unique. Everyone, even direct competitors, are solving for something different. And, that is how it should be.
+
+While I can't know all the goals you should set (and the economic value you should use for each goal), let me share with you five goals that every business, B2B or B2C, should set up in their analytics practice (in Google Analytics, IBM Analytics, Adobe Analytics, or whatever it is that you are high on right now). Starting today, no excuses for me to log into your Adobe Analytics account and see no goals and associated goal values!
+
+Here's how this post unfolds…
+
+In each case we'll learn in detail how to set up the goal, what type of data might we get from it that will be of value and get tips on what actions we can take.
+
+Ready?
+
+Higher-Order Bits: Location, Pan-Commerce, Re-framing.
+
+Three important things to get going.
+
+Location:
+
+First, you'll need admin privileges for the GA account you have access to in order to create goals and input the goal values. If you do, click on Admin in the top nav in any GA page. Then click on Goals, and then on the red button that reads + New Goal.
+
+You'll see this amazing screen where an entire world of possibilities awaits you!
+
+We are going to use the standard choices above to set-up our Standard and Mandatory Goals for All Businesses (SMGAB!), and we'll also use the Custom option to set up some goals.
+
+Pan-Commerce::
+
+Second, very important thing to note is that you have to set up these, and more, goals regardless of if you have an ecommerce or non-ecommerce website. Most Analysts for ecommerce entities spend all their time with ecommerce data. The conversion rate for most website is around 2%. This implies that all that work, at best, solves for a local maxima – and with a short-term mental model. What about the other 98% that did not convert? Were they all wasted visits? No, of course not. Everyone is not on your website to convert instantly. Analyzing ecommerce conversions PLUS goals means we are going to solve for the global maxima.
+
+Consider Macy's. Yes. They should obsess like crazy about ecommerce conversion rates. If that is all they do, they'll only solve for digital, only last-click and their website would be a constant garishness of BUY NOW WE ARE HAVING A ONE DAY SALE (everyday!). Yes, they would make money, but what's the difference between them and every other joe shomoe? If they solve for ecommerce conversion rates, and goals like requesting their catalog, signing up for their rewards programs, number of new accounts opened, product reviews written, credit card applications, wish-lists created….. I could keep going on and on, but I think you get my point.
+
+Regardless of the type of website you have, you need to have goals set up and for each goal identify the economic value. If you don't, you are risking being prosecuted for criminal behavior!
+
+[If you have an ecommerce website using GA, you should be usingEnhanced Ecommerce . It's a must.]
+
+Re-framing::
+
+Third, if you are a regular reader of this blog, you might have noticed that I don't use the term conversion a lot (unless I'm talking about ecommerce conversion rate). I like using the word outcome. This simple switchroo is to open your mind to all the possibilities that that word represents. I find the word conversions a bit repressive. Hence, analytics framework to represent end-to-end business measurement is called Acquisition – Behavior – Outcomes. Not Acquisition – Behavior – Conversions. You do the latter and the only thing people can imagine is ecommerce conversions. Lameness ensues.
+
+Use the word outcomes.
+
+Each site will have one big outcome that is more important than everything else. I call this the macro-outcome. I refer to other outcomes (think of the Macy's case above) as micro-outcomes.
+
+With those two things out of the way, let's go have some fun.
+
+1. "Destination Goal" (Leads, Email Signups, Etc.)
+
+For ecommerce websites, the macro-outcome will be…. ecommerce conversion rate. Or, revenue or AOV, depending on what you've identified as supreme in your Digital Marketing and Measurement Model.
+
+For numerous other types of websites, the macro-outcome will be a lead of some kind, or a contact us type form. Usually this is connected to the company making money, it might happen on the phone or via email or by someone walking into a physical location. It is imperative that we identify this as close to making money online as we can and set that as a goal. The goal type we'll use is technically called Destination Goal.
+
+Here's the amazing thing, with Google Analytics you don't need to touch the javascript code you've set up to track your site. You can do it all in the Admin section (#freedomfromITteamisawesome). All you need is the destination to use in your goal, and it's quite easy to find.
+
+Let's say you work at www.adobe.com and you've just started to use Google Analytics. Just go to the page where your company has the an important product, follow it to the lead-gen page , and fill out the form with any random information (as there is no in-line error checks):
+
+Hitting the Submit button will take you to the thank you page. Just copy the URL of that page: https://www.adobe.com/products/request-consultation/thankyou.html?form_subtype=Request%20For%20Information
+
+Now, go to the Admin section of GA, click on + New Goal and in the template choose Contact Us in the Inquiry section.
+
+Give the goal a name you'll recognize.
+
+And, here are the details that the Adobe team will fill out in their Google Analytics account…
+
+They can simply hit Save and they are done! In a couple of hours, GA will start reporting incredible amounts of goodness around not just how many leads are being submitted, but what traffic sources those leads come from, how long does it take for someone to go from first visit to the site to submitting a lead, what content on the site is most likely to convince someone to submit a lead, and so, so, so much more.
+
+Much better than guessing, right?
+
+There is one item that should not be overlooked. You'll notice the button for Value is turned off. This is where the economic value of each lead goes. How do you get this magical number?
+
+I have an extremely detailed post on the five detailed strategies you can use to calculate economic value. Applying the lesson from there…. The team at Adobe would get help from their CRM system to identify the conversion rate over the last, say, quarter of the digital leads. Furthermore, they will look at the average contract size for those deals. This then allows them to know the likelihood a lead will convert and for how much. It will allow them to identify the goal value of $1,000,000 for each lead submitted.
+
+They'll simply turn the value button to On, and type the new goal value, and hit Save!
+
+This is not a perfect number, every deal has its own nuance, every deal will be a bit more or bit less etc. Having an average goal value though helps us get to good enough. We could simply use clicks on AdWords ads as success or bounce rates or page views, but everyone of them is lamer than having access to datagasmic metrics like Per Visit Goal Value, Page Value and more. (Lots of detail on this in the last section of this blog post!).
+
+That was not too hard, right?
+
+Every website has this type of a macro-outcome. It is easy to identify, and setting up the goal only takes 90 seconds. You can go see how easy it is to find a destination URL on your website. Or, practice it on IBM, here's the lead-gen page.
+
+Other macro-outcomes you can use, depending on the type of your business, are live chats, phone callback requests, downloads completed, wish-lists created, new accounts opened, and more.
+
+Please ensure that regardless of the type of your website, you've identified a non-ecommerce macro-outcome and are tracking it with a specific goal value identified.
+
+2. "Engagement Goal": Time Spent
+
+As analysts we have an out-sized obsession with Acquisition and with Outcomes. Both are understandable (we have too many Marketers and the company wants money!). It does distress me a bit that we don't spend as much time analyzing Behavior. This the reason I love setting engagement goal types (remember though, don't call the metric Engagement, it's an excuse and not a metric).
+
+Websites of all type should have a goal for a desirable (by the company) time spent on the site. If we have it, we can slice and dice it like crazy (where do these people come from, what content do they like, what internal searches drive more or less time spent, etc. etc.).
+
+Setting a time spent goal is easy. Choose Custom in the goals template. Give it a name (I choose People We Should Love :))….
+
+When you click continue, you are going to have to set a duration of time you consider to be desirable.
+
+If you don't want to over think it, just go to the Overview report in Google Analytics and look at the trend for Average Session Duration….
+
+You can do something as simple as choose a "little bit more than the average time". I know that sounds a bit cookoo, remember goals are not set for life and can change. Besides, you got nothing at the moment! :)
+
+Just based on experience, and nothing else, I would simply add 50% more time to the average and use it as a goal. Path of least resistance.
+
+Of course, we can always kick things up a notch. In your Audience folder in GA there is a Behavior sub-folder, and inside that you'll see the Engagement report. Checkout the wonderful distribution you see there for Session Duration….
+
+When I'm setting a session duration engagement goal, I like looking for a point of inflection. Notice in my report above, three minutes seems to have some lovely happening. The pageviews ramp up quite a bit, and there is a big cluster of visits that also show that behavior.
+
+This distribution allows me to set a much smarter three minutes as a desirable goal.
+
+Of course, you can kick things up a few more notches. I'll usually create segments for the distributions you see above, and apply them to my Outcomes reports in GA to see if there is really a difference in the outcomes delivered to our business if people stay a longer or shorter amount of time. I always find surprises. Because I don't want to only solve for a local maxima, I also take into consider the impact of time on some of my main micro-outcomes. That helps me set a much smarter duration goal. In the above case, it turned out to be five and half minutes!
+
+So. You have choices in how deep you want to go to get a more informed duration, but remember the most important part is to just get going and have a goal!
+
+Here's the second part of my goal setting window….
+
+You will notice I have identified an economic value for my duration goal. Remember to checkout my post on how to to calculate economic value.
+
+The lesson applied in the above case was by leveraging AdSense revenue. In your case it could be tied to a number of other things that make you money on your mobile or desktop website.
+
+Now that you have your goal set, you can look at trends and patterns in the data. For example, correlate this goal to others on the website….
+
+Here's one thing you should be prepared for, if you put some thought into creating a duration goal: When you first plot Sessions and People We Should Love, you are going to cry. It is going to be very small.
+
+The saving grace is, first, that you know and, second, while it won't be a lot of people, they are likely the most precious people. Prepare to wine and dine them.
+
+3. "Engagement Goal": Pages Viewed
+
+The third goal everyone should have is also an engagement goal, this time using pages viewed. While time is particularly important for sites with interactive elements, mobile apps and other such existences, pages is more accurate, and more relevant, for almost all types of sites. (Remember, time is not computed for sessions with just one hit and for the last page viewed in a session.)
+
+You can use the same strategy as above to create a engagement goal based on pages viewed, by looking at the average trends for Pages/Session….
+
+The other two recommendations above for duration also apply in this case.
+
+Once you have identified the value you would like to use, if it it is I think I'll do 15% more than the average pages/session, just go the the Goal Details of this custom goal and type it in….
+
+In so many cases, publishers for example, or this blog, I am very fond of pageviews as a goal to understand how many folks are exhibiting the desirable behavior. I feel that it is a bit more accurate representation of reality. And now that we can to Visitor based segmentation, we can do some really fun stuff once we have this goal set up.
+
+4. "Micro-Outcome Goal": Key Events
+
+This goal type is for those who have just a tiny bit more sophisticated implementation of analytics on their site. Events help us track so many things in a smart and scalable manner. Email sign-ups, comments submitted, video pay buttons clicked, add-to-carts, cross-word tiles moved, and on and on and on. The detailed Event Tracking Guide is a gift, digest it.
+
+One micro-outcome that publishers, ecommerce sites, and I (!) can all track is comments submitted. They are incredibly valuable for some many reasons (loyalty, drive future sales, etc.).
+
+It is pretty simple to set up the goal.
+
+In the template you'll choose Custom and then choose Event…
+
+As always the challenge will be, what goes on the next screen where you have to type the Category, Action or Label to use.
+
+You can get this from your even tracking reports in the Behavior folder in Google Analytics….
+
+In my case the label I'm using is focus comment. Type that in…. done….
+
+For the events that I'm using I have also identified an Event Value, and I choose to use that as my Goal Value. The approach to calculate the economic value is the same as we did before. Don't let not being able to identify goal values as a barrier to not even setting up the goal (this is crazy important). I do recommend that you do it at some point soon after because the value is simply too big to ignore. Of my five recommended approaches to to calculate economic value, four and five don't even need all that much more work by you. Just do it.
+
+Another event micro-outcome that is a fav of mine for many clients is tracking Live Chats…
+
+Capturing this allows us to be immensely more clever about informing smarter Acquisition, Behavior and multiple-Outcomes for our businesses. Imagine just one as an example: Are your live chat agents more or less effective than your site by itself at up-selling and cross-selling? Every bone in your body is screaming: AGENTS! My dear, you would be surprised. Especially after you segment the data by Geo.
+
+See what I mean, exciting analyses right?
+
+5. "Macro-Outcome Goal": Outbound Clicks
+
+We are back to macro, and a very good one (for publishers, non-profits, for-profits, and indeed everyone else).
+
+But, first… I've tried really hard in this post not to make things complicated, I so badly want you to know how easy it is to get going, how very easy it is to unleash very smart data analysis using goals. I'm going to continue to do that by showing you the lamest way to track outbound clicks. Don't copy me.Track outbound links using the right way (automated via GTM or using hand-coded events). Do as I say, not as I do. :)
+
+I love tracking outbound clicks. If people just exit our website, we know so little behind why they might have done it. But, if they leave following one of our links, that is either money for our business (from that outbound click directly or from where they are going), increased customer satisfaction, or at the very minimum valuable context related to their departure.
+
+From those possibilities, one that applies to me here on this blog – surely you have similar use cases – are the links on the right (if you are using desktop, else bottom) that you click to exit to learn more about Market Motive (because you want a superb web analytics education and certification!) and my two books. In the simplest possible implementation of this, each time someone clicks on those links, it creates a pageview that it puts in a special folder (which can then be ignored easily in other analysis).
+
+For me to track that click, all I need to do is create a destination goal…
+
+I throw in the url of the pageview that is being collected, add the economic value that I've computed, and we are in business….
+
+And how do we calculate economic value? You should read that post. :) But, summary…. You can see that those outbound links are tagged, in this case I'm connected to Market Motive and hence I can easily track the clicks and conversions happening online and offline (phone for us). That makes it easy to compute the economic value of each outbound click.
+
+The links for my books that go to Amazon also have tracking parameters, in this case my Amazon affiliate-id. That then allows me to get the clicks, conversions, sales, and commission. I can use that to compute the economic value of every outbound click for my books. (As you all know, 100% of my proceeds from both my books, including affiliate cash, are donated to charity but that does not mean I don't track the success with total and complete passion.)
+
+With my goal configured, I'm ready to step back and watch the money flow out. I mean in. I mean in! :)
+
+Tracking outbound links should be default setting in your GTM account, and if you are not using GTM then leverage the manual firing of events (and use recommendation #4 above to set up your goals).
+
+It is rare that we get to know where people go from our website, grab that info, you will find actionable insights in that data to influence both your Acquisition and Behavior strategies.
+
+While we've covered five different examples of goals that should be standard on every single website on the planet. We've created them using four ways of setting our five goals. In them, it is my sincerest hope that you'll see in them all the permutations and combinations you can create for your own business. Without goals, you are simply messing around with data.
+
+Benefits of Identifying Goals and Economic Value
+
+I wanted to take a moment and share with you all the really cool reports you can get if you create the above five goals (or ones that resemble them for your business).
+
+We all look at Visits and Visitors and our normal clump of metrics. Now. Now you get a lovely line to go with that. You can look at the Visits to your site (light blue) and compare that to the Economic Value (dark blue) created during that time period….
+
+Outcomes, right there, with Acquisition.
+
+In the case above, one does not seem to have anything to do with the other. That is bizarre, right? So, are you getting unqualified traffic? Or, is there something about your Paid strategy that seems to drive something different than your Owned and Earned strategies? Thus far, you would compare those three using impressions, clicks, bounces etc, now, even for non-ecommerce website, you have something material to compare them with, and dig deeper faster.
+
+Because you've created relevant goals, you would of course start that journey by looking at your Owned, Earned and Paid media all in one place. Goal 6 below helps you understand something that you don't have access to by default in your standard reports. And, that last column, Per Session Goal value, is golden.
+
+Suddenly you have something to judge the value of every visit to the site delivered from these sources. As you look at the distribution, you'll start to see clues as to where the pain and opportunities might be, giving the time you spend on analysis the most precious commodity of it all: focus.
+
+As you contrast sessions, goal 6 completions, and PSGV, you'll likely want to understand the performance of the content on your site as there is such disparity across sources. This is when you'll need one of my favourite, and I believe under-used, metrics of them all, Page Value.
+
+The simplest way to think about Page Value is that it measures how frequently a page appears in a session where goal, or ecommerce, value was delivered to your company. The more frequently the page appears, the postulation is that it must be a page that was helpful to the user. Not completely perfect, but I believe good enough to be of immense help to us all.
+
+You can see above the disparities between each page. No, not using entrances of time, I mean in the Page Value. Finally you have a metric that looks at every bit of content with an eye towards the bottom-line. Thanks you having created goals and added goal values for them.
+
+And if you are not excited about all this really cool stuff, I think I'm going to win you over with this…. Multi-Channel Funnel analysis! Yes! For you, even though you have a non-profit or non-ecommerce website! Pan-session analysis, baby!!
+
+All you need to use the incredibly valuable MCF reports that focus on people and not on visits is…. Goals. :)
+
+Start here, understand how every media channel plays ball with each other…
+
+You can see that Direct and Organic Search work in conjunction, and almost all of the Social traffic you have seen before/after having seen them via Direct and a bit from Search. You finally have something to get your company to understand that obsessing about every visit is less productive, it is so much better to focus on every person and their behavior across sessions.
+
+From there, it is a hop-skip-jump to perhaps my favourite standard report in Google Analytics, Assisted Conversions….
+
+I adore this report because it is the only place in GA you'll see pan-session behavior of people across all of your Owned, Earned and Paid media channels in one place. The last column in this report is going to have a deep influence on your company's Acquisition strategy. From this report it is only one more step to multi-channel attribution analysis, and to using this information to change the messaging and sequencing of your messages across channels to deliver relevance to your current and future customers.
+
+And, to think all of this comes from just creating a handful of goals.
+
+That really is all it takes. Be expansive in that quest. For one of my medium-sized B2B clients, here are the goals we identified using my See-Think-Do-Care business framework. Using the framework makes it easier for us to ensure that we are solving for every cluster of intent out there.
+
+I hope you can see easily how each of the gray box above uses one of the five strategies above to create all of them! For some of them we had to be creative, and it took some work, to identify the economic value. But, in a couple months everything was all set and the company is making smarter decisions. With the framing of See-Think-Do-Care we are solving for the customer, and yet you can see how deeply we are tying everything to the bottom-line. Win – Win.
+
+Oh, one last thing, for the client above, a free gift from the Google Analytics team to us… Automated intelligence alerts when the economic value for each goal falls below the expected range of normal that GA expects….
+
+How cool is it to automatically be alerted that economic values dropped by 22 and 20% respectively? Let me reframe that. How cool is it that GA can tell you that there is big trouble before your boss comes looking for you? Now, you can be prepared with causality answers before she shows up in your office all freaked out.
+
+That my dear is how you get a raise. By having goals. :)
+
+As always, it is your turn now.
+
+Do you have goals set up for your website? Are they strategic or tactical? Do you have them clustered using See-Think-Do-Care? Would you please share some of your favourite goals? Do you have examples of how using goals transformed your ability to understand performance? Do all your goals have clearly identified economic values? If you've struggled with computing value for a particular goal, what was the goal? Any tips on how the rest of us can better at computing economic value?
+
+Your kind guidance, feedback, tips, critique and examples will help all of us in the community win a little more, please share via comments below.
+
+Thank you.

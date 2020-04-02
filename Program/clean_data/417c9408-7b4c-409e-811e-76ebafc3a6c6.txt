@@ -1,0 +1,45 @@
+A motorcycle leaning hard into a turn looks sort of like magic. Of course, the whole process is actually governed by some basic physics. In short, the motorcycle leans in a turn because of torque and fake forces. You can read a simple overview of a turning motorcycle in my previous post. For the rest of this post, I will assume you have a basic understanding of these concepts.
+
+Instead of just explaining why a motorcycle leans, let’s do something more useful. Can we calculate how much (at what angle) a motorcycle would need to lean in a turn? Yes, we can. Let’s do it. Oh, you might want to check out this video showing some very cool shots of leaning motorcycles.
+
+Calculating the Lean Angle
+
+The tighter the turn, the more you need to lean. In order to calculate the lean angle I will start with a force diagram.
+
+Note that I assume that the center of gravity is the same location as the center of fake force (the location where we can pretend the fake force acts). That’s actually not always the same location. In this older post I calculate the center of fake force—warning, it’s fairly complicated.
+
+Since I am using the fake force in an accelerating reference frame, the net force would be equal to zero. I can write this as the net force in both the x- and y-directions.
+
+The fake force is negative value of mass times acceleration. This gives me the following two equations for the net forces.
+
+Now I can write down the total torque about point O. The frictional force and the normal force have zero torques since they pass through point O.
+
+This says that the faster you take a turn, the more you have to lean. The tighter the turn (smaller r), the greater the lean. But how far can you lean? That depends on the frictional force. If I calculate the maximum frictional force, we can use that to calculate the maximum lean angle. The usual model for the static friction force (for a non-sliding tire) says that this friction force is proportional to the normal force.
+
+Of course, we already have an expression for the normal force. Putting this all together, I get:
+
+Combining this with the lean angle calculation:
+
+So what would be the coefficient of static friction (μ s )? If I use a coefficient of 0.7, this would give a lean angle of 35 degrees. However, racing motorcycles can lean over 60 degrees. Working in the opposite direction, I can solve for the coefficient of friction for this large of a lean and get a value of 1.7. Yup.
+
+Wait. What? I thought the coefficient of friction was always between 0 and 1. Well, the answer is that friction is actually pretty complicated. The typical model for the frictional force says that μ is less than 1, but no one said it had to be that way.
+
+Do Motorcycles Have High Coefficients of Friction?
+
+How about this? What if I look at a motorcycle taking a turn and estimate the acceleration? From this acceleration, I can get another estimate for the coefficient of friction.
+
+Here is a top view of a motorcycle taking a turn.
+
+Assuming the simple model for friction along with the expression for the acceleration of an object moving in a circle, I get:
+
+Now I just need to look at a MotoGP track and find the motorcycle speeds for different turns and I can estimate the coefficient of friction. My initial idea was to find a video showing a race with a turn, but I couldn’t easily get the speed of the motorcycles (not a good viewing angle). Fortunately, I found this site with average speeds for different parts of a track. This particular speed map is for the Circuito de Jerez (just the first one I found). Of course you can also find this track on Google MapsM. From that, I can estimate the radius of curvature for different turns. Here you can see two of those turns.
+
+For these two turns, I have the following:
+
+Turn 4: Radius = 114.8 m, Speed = 35.6 m/s, a = 10.98 m/s 2 , μ min = 1.12
+
+, μ = 1.12 Turn 5: Radius = 35.34 m, Speed = 20.9 m/s, a = 12.41 m/s2, μ min = 1.27
+
+That is just two turns. From my estimates of the radius, both turns would require a coefficient of friction greater than 1 in order for a motorcycle to turn without slipping. So, a coefficient of 1.7 seems crazy high, but as I have shown—it is possible to have a coefficient greater than 1.
+
+I guess racing motorcycle tires are just awesome.

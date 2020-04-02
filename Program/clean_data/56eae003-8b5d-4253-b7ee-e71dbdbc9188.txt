@@ -1,0 +1,185 @@
+What can help you build a car, save your marriage, code software, write a book, or even renovate a house?
+
+A whiteboard and a pad of sticky notes (the analog OR digital kind!).
+
+Well, and the knowledge of how to use them, of course.
+
+If you work in tech (or spend any amount of time with engineers), you’ve probably heard about “Scrum” and “Agile.” It’s a system mentioned in reverent tones by tech types and seems to have its own strange language. Terms like “planning poker,” “stand-ups,” and “sprints” are thrown about by its proponents.
+
+It can all be a bit intimidating to the uninitiated.
+
+I know because I’ve been there. During my first week working at a tech company I was introduced to Scrum through our software development team, and I was instantly hooked. The way they were able to take complex problems, prioritize them into individual tasks, then delegate those tasks to the team member best suited to solve each one was incredible.
+
+But was this just for engineers? Could us non-code-wizards really benefit from something like Scrum? If so, how do you even get started?
+
+Buckle up, because we’re about to “sprint” through an intro to Scrum (you’ll get that joke by the end of this article, I promise).
+
+What is Scrum and Agile?
+
+Things can get a bit confusing to newcomers in regards to nomenclature. “Scrum” and “Agile” seem to be used interchangeably when you first enter this world, but there is an important distinction.
+
+Agile refers to a set of “methods and practices based on the values and principles expressed in the Agile Manifesto,” which includes things like collaboration, self-organization, and cross functionality of teams.
+
+Scrum is a framework that is used to implement Agile development.
+
+A good analogy would be the difference between a recipe and a diet. A vegetarian diet is a set of methods and practices based on principles and values. A recipe for chickpea tacos would be a framework you can use to implement your vegetarian diet.
+
+This is similar to the relationship between Agile (the diet) and Scrum (the recipe you follow).
+
+Agile was born out of the techniques utilized by innovative Japanese companies in the 70’s and 80’s (companies like Toyota, Fuji, and Honda).
+
+In the mid-90’s, a man by the name of Jeff Sutherland found himself frustrated by companies who were continually plagued by projects that were behind schedule and over budget. He sought to find a better way.
+
+His research brought him to these Japanese companies and their Agile methods. Basing his work on this, Sutherland created the Scrum framework. After a series of successes using his new methods, Scrum began to quickly spread throughout the product development world.
+
+Who Can Benefit From Scrum?
+
+You could be forgiven for thinking Scrum was something limited to engineers or developers. But the framework can be beneficial for other types of projects too.
+
+“Scrum can be used for any sort of complex project, the caveat is that it works best when there’s a concrete product being produced,” says David Matthew, a Certified Scrum Master for Incentive Technology Group, “If you work in marketing and need to write copy for a project, it could definitely be beneficial for your team.”
+
+Scrum has been used by everyone from the FBI, to marketing agencies, to construction crews. Any time you’re producing some sort of product, be it software or an email campaign, Scrum can help you organize your team and get more work done in less time.
+
+The People and Parts of Scrum
+
+To understand Scrum, you’ve got to know the people and parts of the framework. The good news is, you don’t need any special experience or certifications to start.
+
+“You don’t need much to get started with Scrum,” says Matthew, “You really just need a place to organize your thoughts, or your Backlog. That could be software like Trello, or even just a whiteboard. You need the different roles, like the Product Owner and the Scrum Master. The actual tools you need are not as big as the roles involved.”
+
+Let’s break down the pieces and parts that make Scrum happen:
+
+Scrum starts with a Product Owner. This is the person who represents the final user’s best interest, and has the authority to say what goes into the final product.
+
+That Product Owner is in charge of making the Backlog, a list of tasks and requirements the final product needs. Here’s an important part: The backlog MUST be prioritized . That’s the job of the Product Owner. If I were using Scrum to design a car, items like “Must have an engine” would be near the top of my prioritized list, because the car can’t work without it. “Must be painted red” would be lower on my priority list; it might still be important to me, but it’s not a requirement for the car to run.
+
+
+
+Next up is the Sprint. A Sprint is a predetermined timeframe within which the team completes sets of tasks from the Backlog. The length of time depends on the needs of the team, but two weeks is pretty typical.
+
+Teams meet every day to give progress updates in the Daily Scrum . Many people also call these “Daily Stand-Ups.”
+
+Each Sprint ends with a review, or Retrospective, where the team reviews their work and discusses ways to improve the next Sprint.
+
+As you can see, there’s not really any special equipment or training you need to get started. The hardest part is learning the lingo, and staying true to the rules and guidelines that make Scrum work.
+
+“Scrum is kind of like poker; you can learn the rules in 10 minutes, but it takes a long time to get great at it.”
+
+Starting a Basic Scrum Framework
+
+If you’re tired of your current methods of project management, why not give Scrum a shot?
+
+Since you don’t need special training to get started, it’s really just a matter of learning the ropes on your own. Sutherland and his co-creator, Ken Schwaber, make this super easy by making the official guide freely available on ScrumGuides.org.
+
+Learning the basics of getting started is easy. Mastering the technique is the hard part.
+
+Here’s Scrum Master David Matthew again:
+
+“Scrum is kind of like poker; you can learn the rules in 10 minutes, but it takes a long time to get great at it.”
+
+Still, don’t let that deter you. One need not be a master to start making their work lives happier and more productive.
+
+Here are some basic steps to get started:
+
+Download and print the PDF version of the official Scrum Guide : Read it on your commute or during your lunch break with a highlighter in hand. Highlight the phrases and roles that are new to you and start working on memorizing what each one means.
+
+Pick your roles: You need a Product Owner (speaks for the user, final say in what the project needs), a Scrum Master (helps the team move along based on the principles of Scrum), and team members. Remember, there’s no room for egos in Scrum. Scrum runs on a “servant leader” model.
+
+Create your product Backlog: The Backlog is where you list out everything the project needs, ordered by importance. Keep in mind that the Backlog is never complete. As the project takes shape and new needs emerge, you will add to this. The Product Owner takes primarily responsible for this.
+
+Plan your Sprint: Next, it’s time to pick tasks from the backlog to be completed in your first Sprint. Sprint’s are time-limited. You can decide a time length that works for you, but they are always less than one month. During the Spring Planning, the team decides what tasks to include in this Sprint and who will be responsible for them.
+
+Get to work! Time to start working on that Sprint! Team members work on their tasks, and everybody checks in on their progress at the Daily Scrum Meeting. This meeting lasts no more than 15-minutes and answers three questions: What did you work on yesterday? What will you work on today? Is there anything blocking your work today that you need help with?
+
+Review your work: At the end of the Sprint, the team reviews the work accomplished and presents their completed tasks.
+
+Review your process: During the Retrospective meeting, you’ll review how the actual work process went and plan ways you can improve your work and be more efficient next time.
+
+Repeat! With your first Sprint complete, it’s time to start over again. Pick more tasks from the Backlog and repeat the process.
+
+Making It All Visual
+
+An important principle in Scrum is the idea of transparency. All team members involved should be aware of what everyone else is working on, progress being made, and what the team is trying to accomplish.
+
+That’s why making things visible for all to see is so important.
+
+A big piece of this is the Scrum Board. This is a place where you can organize your Backlog, as well as tasks that are being worked on in the current sprint and their progress.
+
+Scrum Boards can be as simple as a whiteboard with sticky notes for each task, or as complicated as specialized software, with charts and task tracking features.
+
+For my personal Scrum Board, I use Trello.
+
+My Trello Scrum Board is broken up into seven lists (inspired by this blog post), representing the workflow of my tasks.
+
+Resources: In this list, I keep all tasks that are recurring. That way I don’t have to make a new card every time I need to build a landing page for a webinar. Just move that card out from the Resources list.
+
+Backlog : Here’s where I keep my Backlog of tasks to be worked on. When my boss tells me he has something he needs help with, I add it to my Backlog list.
+
+To Do : When I plan my Sprint, I pull tasks from the Backlog to this list. This is the current Sprint I’m working on.
+
+Doing: When a task has been started, it gets moved here.
+
+QC: Quality check. As tasks are completed, they get moved to “QC.” At the end of the week, I review this list to make sure everything is up to snuff.
+
+Done: Passed quality check, ready to be shipped! No more edits or reviews necessary, it’s scheduled and ready for action.
+
+Blocked: When something is preventing me from completing a task (maybe I need to purchase something first and need approval from my boss), I move it to “Blocked”, along with a comment about what the blocker is.
+
+Trello is an effective tool for this, because I can throw my board onto a monitor that’s visible for anyone to see, share access with my entire team, and put every detail needed on each and every task in the form of comments, checklists, due dates, and attachments.
+
+I can assign different team members to these tasks and integrate it with our marketing Slack channel, too. That way, when a team member moves a task from “Doing” to “QC,” I know they’re ready to move onto the next task.
+
+My end goal here is that anyone assigned a task should have everything they need to complete it on that card. There should be no reason they need to come to me with questions, or wait for me to give them something. When tasks are clearly outlined before assignment, work moves significantly faster.
+
+The Importance of Iteration and Improvement
+
+One of the core features of Scrum, and what makes it so potentially powerful, is the idea of iteration and improvement. This is in regards to both the product being worked on, and the efficiency of the team itself.
+
+At the end of each Sprint, the work delivered should be ready to deliver to a client. This does not mean that it’s a finished, complete project. Far from it. Rather, it means that the work should be complete enough to show some sort of Minimum Viable Product (MVP, in startup parlance).
+
+If it were a car, you should be able to drive it. Maybe it doesn’t have a radio or A/C, but it can drive.
+
+Why is this so important?
+
+Because it lets you collect feedback from users early on, helping guide development of the product to ensure a good fit with the user.
+
+I think everyone has experienced those moments in life where you worked for hours on a project, only to find out the person you’re delivering it to had something else in mind completely.
+
+Imagine spending thousands of dollars and many months developing a product, only to find out it doesn’t actually solve the user’s problem.
+
+Not good.
+
+Going back to our car analogy, if we deliver the car to the user in small, iterative chunks, it’s not such a big deal when they say “Gee, you know what? After driving it around a bit, I think I want it to be a convertible instead.” Learning this after the final product is delivered would be a huge problem.
+
+Scrum is built on iterative deliveries of your product. Rather than waiting until the project is 100% complete to deliver it to the user, you deliver useable chunks of the project over time. This helps avoid wasted efforts when needs change or things get lost in communication.
+
+But beyond the importance of iterations and improvements for the product, Scrum also focuses on improving the process with each new cycle.
+
+During the Retrospective meeting, team members discuss areas where their efficiency could be improved. Maybe it’s a tech limitation holding them back. Maybe one team member is overloaded with tasks. The team decides how to fix these problems, with the intent of improving their efficiency in the next Sprint. Theoretically, the team should be more efficient and produce more work with each new cycle.
+
+Wait a Minute...MORE WORK?!
+
+When I first started looking at Scrum, there was something that scared me a bit: this whole idea of completing more work.
+
+More work? I’m overworked already!
+
+But the idea behind Scrum is not to “do more work,” it’s to work smarter and thus accomplish more.
+
+Sutherland has a great quote about this in his book Scrum: The Art of Doing Twice the Work in Half the Time:
+
+“Think about your job. How much of your time is wasted while you’re waiting for someone else to finish their work, or for information to be delivered, or because you’re trying to do too many things at once? Maybe you would rather be at work all day - me, I’d rather be surfing.”
+
+Scrum doesn’t measure you by the hours you logged, but by the tasks you accomplished. Who cares how long a task took if the result is the same?
+
+With Scrum, you’re not creating more work for yourself; you’re being more efficient with your time so that you can spend less of it at the office and more time with the people and things you love.
+
+How’s that for work-life balance?
+
+More Resources
+
+Scrum is hard to fit into a single blog post, so I highly recommend doing some further reading on the topic if it interests you:
+
+Scrum: The Art of Doing Twice the Work in Half The Time, by Jeff Sutherland - This book was my first deep dive into Scrum. Everything is laid out in an entertaining manner, with stories to back each and every aspect of the framework. A great read.
+
+Our Agency’s Epic 200% Productivity Secret, by Adam Steele - I came across this blog after watching the developers at my company work with Scrum and wondering if any marketers are using it. The answer? Yes, and in a big way.
+
+The Scrum Guide , by Jeff Sutherland and Ken Schwaber - The basic guide you need to get started.

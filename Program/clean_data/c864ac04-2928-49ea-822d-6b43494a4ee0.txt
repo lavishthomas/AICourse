@@ -1,0 +1,171 @@
+Analyzing your website data with Google Analytics is much like mining for gold. Advanced prospectors profit because they know where to look to find the nuggets, while inexperienced practitioners come up with only dirt after making the mistake of trying to prospect the entire mountain.
+
+If web analytics is like gold mining, then a Google Analytics advanced segment is the pickaxe you need to chisel through your data to expose the glimmering insights inside.
+
+We’ve tapped into some of the web’s finest web analytics professionals to share their tips for mining analytics gold. Here are 16 secret – until now – Google Analytics advanced segments that could make you insights rich, too.
+
+1. Converters by Count of Visit
+
+This first series of segments is one of my favorites given that I work mainly in lead generation for higher education. The Converters by Count of Visit segment series gives you three segments to show behaviors of people who convert after 1 visit, 2-5 visits or after 6+ visits so you can get a feel for what content is consumed and acted upon at various points in the sales funnel.
+
+Link to Segment Series: http://bit.ly/GASS-CbCoV
+
+How to Use this Segment: Start by applying all three segments to any of your favorite content reports to see relative differences in content consumption by count of visit. Then apply them one at a time to take a deeper dive into user behavior across the customer journey.
+
+2. Whales
+
+Whales is the e-commerce cousin to my lead gen segment, and it captures visitors who spend a lot with you. For example, if average site revenue is $100, then your Whales segment might be set to capture orders with revenue of over $300. Understanding the behavior of your top customers presents all sorts of opportunities ranging from helping you find more of them to motivating other customers to become top customers.
+
+Link to this Segment: http://bit.ly/GASS-Whales
+
+How to Use this Segment: This segment is especially useful when applied to standard or custom reports that show dimensions such as campaigns, keywords, geography, and items purchased.
+
+Segment Contributed by: Avinash Kaushik is the Digital Marketing Evangelist at Google and author of the Occam’s Razor blog. Check out his post on segments when you’re done reading this one.
+
+3. Organic Image Traffic
+
+Many people with image-rich sites were puzzled when their traffic dropped in late-January due to a change in the way Google Images works. This segment allows you to see search traffic coming from the Google Images search engine separately from regular organic search so you can investigate image-specific search trends.
+
+Link to Segment: http://bit.ly/GASS-OrgImg
+
+How to Use this Segment: Apply this segment to your SEO reports to look at keywords, landing pages, and other dimensions typically explored with organic search.
+
+Segment Contributed by: John Doherty is the Office Lead at Distilled NYC. Check out John’s work on segments to learn more about segmenting search and social.
+
+4. Screens Under 600 Pixels Wide
+
+Google Analytics user agent detection can be thrown off by the countless new mobile devices on the market. This handy segment filters for a variety of mobile devices by applying a regular expression to the screen size dimension.
+
+It controls for devices that aren’t fully detected by Google Analytics by excluding screens with a 0x0 pixel dimension, which is the case for devices prone to detection issues. This segment captures devices with screen resolutions ranging from 100-599 pixels by 100-599 pixels.
+
+Link to Segment: http://bit.ly/GASS-Screen599
+
+How to Use this Segment: Apply this segment to any report where you want to see mobile visitors but don’t want to see any devices with screens over 600 pixels wide.
+
+Segment Contributed by: Angie Schottmuller is an accomplished industry speaker and blogger, and the Director of Interactive Strategy and Optimization at Three Deep Marketing.
+
+5. Keyword Length Segment Series
+
+Keyword length segments have appeared in several articles dedicated to advanced segments because looking at traffic by keyword length can reveal significant insights. Segment reports by keywords that consist of 3, 4, 5 and 6+ words with this set of 4 Google Analytics segments to understand the proportion of website visits sent by head terms relative to long-tail terms within your search space.
+
+Link to Segment Series: http://bit.ly/GASS-KWlength
+
+How to Use this Segment: Apply all four segments to any report where keywords are important, such as a keywords performance reports and landing page reports, then apply one at a time for detailed insights.
+
+Segment Contributed by: Justin Cutroni is a web analytics blogger, speaker, and the Analytics Advocate at Google. See more of Justin’s advanced segments in the Google Analytics Solutions Gallery.
+
+6. Common ISPs
+
+The service provider report is a good place to start your investigation when trying to isolate odd activity on your website within your Google Analytics profile. Filter out the vast majority of common ISPs with this advanced segment and reveal culprit ISPs sending large amounts of unnatural traffic.
+
+Link to Segment: http://bit.ly/GASS-ISPs
+
+How to Use this Segment: Apply this segment to the Network report under the Audience section of Google Analytics. This segment filters out greater than 80 percent of the traffic to your site and allows you to review long tail service providers with ease.
+
+Segment Contributed by: Jeff Sauer is the founder of Jeffalytics.com, VP at Three Deep Marketing and the author of helpful resources including the Periodic Table of Google Analytics.
+
+7. DMA Quartiles
+
+This segment series helps control for population when looking at geographic reports. It uses Neilsen’s DMA measurements to group major metros into four quartiles (e.g., Q4 contains cities with a DMA ranked 1-8, including New York, L.A. and Chicago.). Export data using these segments and compare to Neilsen’s demographic stats to look beyond raw numbers and into market share for each of the four quartiles.
+
+Link to Segment Series: http://bit.ly/GASS-DMAs
+
+How to Use this Segment: Apply these segments to any report with unique visitors as a dimension to determine share of voice by U.S. city for your brand. Export report to Excel. Then add Neilsen’s DMA data to the spreadsheet and divide your unique visitors by Neilsen’s number of U.S. households to determine your share of voice across markets.
+
+Segment Contributed by: Sayf Sharif is a Web Analyst at LunaMetrics.
+
+8. Blog Bounce Remover
+
+The natural tendency for the majority of all blog traffic is to bounce. After all, the lion’s share of visitors just came to your site to read your article and then be on their merry way. This segment doesn’t remove blog traffic, but it does remove folks who landed on your blog (defined as “/blog/” here – modify as required for your blog) and only looked at one page.
+
+Link to Segment: http://bit.ly/GASS-BlgBnc
+
+How to Use this Segment: Apply this segment to any reports that compare landing pages on your site against your website’s goal metrics to identify the top landing pages in the form of both blog posts and other pages on your website.
+
+Segment Contributed by: Thom Craver is a technical SEO and web analytics consultant, speaker and blogger.
+
+9. The Brand Interest Segment
+
+Some pages on your website are created to convey your brand’s key messages, such as an “about” page, a “testimonials” page or section about your team. This secret segment series contains three segments that measure different levels of engagement with your brand:
+
+People who did not view your brand page (e.g., an “about” page in this example)
+
+People who viewed a brand page, but didn’t visit your blog
+
+People who viewed both your brand page and your blog
+
+Link to Segment Series: http://bit.ly/GASS-Brand
+
+How to Use this Segment: Compare users who visited branded pages to those who didn’t. You can apply all three segments at once or individually, depending on how you wish to analyze the results. Begin by applying all three to your favorite content reports, then one at a time for a deeper look.
+
+Segment Contributed by: Anna Lewis is the Digital Marketing Executive at Koozai. Explore 15 additional useful segments identified by Anna.
+
+10. Q&A Keyword Monitoring
+
+Some keyword modifiers are dead giveaways for consumer intent. Words such as “how,” “what,” and “versus” are filtered into this advanced segment with a nifty regular expression.
+
+Link to Segment: http://bit.ly/GASS-QandA
+
+How to Use this Segment: Mine your own keyword traffic for ideas to add to a Q&A section of your site. If your site doesn’t include a Q&A section, consider using this Google Analytics advanced segment to see if people are asking questions you might not be answering.
+
+Segment Contributed by: Kane Jamison submitted this segment after reading Joshua Unseth’s article on the same topic.
+
+11. Cart Abandoners by Traffic Source
+
+If you have an ecommerce site, then you probably wonder why people abandon your cart without checking out. The truth is that the answer probably varies greatly, often by source. One way to explore differences in cart abandonment is to segment it by traffic source.
+
+Link to Segment: http://bit.ly/GASS-Carts
+
+How to Use this Segment: This segment teases out cart abandonment for Facebook visitors. Make as many copies of it as you have primary traffic sources. Then apply the segments to your goal funnel reports to inspect whether traffic abandons differently by segment or if there are universal snags in your ecommerce flow.
+
+Segment Contributed by: This advanced segment was contributed by Dan Antonson, Lead Analyst at SMC Pros.
+
+12. Geographic Brand Ripples
+
+Google Analytics reports typically are set up to compare apples to apples, such as comparing your brand’s presence in two different cities. This series of segments demonstrates a brand’s ripple effect throughout a region by comparing traffic from two main cities (i.e., Minneapolis and St. Paul), the target metro area (i.e., the Twin Cities in Minnesota) and the target state (i.e., Minnesota) for a given brand.
+
+Link to Segment: http://bit.ly/GASS-BrandRipple
+
+How to Use this Segment: Change up these segments to reflect your key target cities, your metro area and your state. Then combine all three in a geographic report to assess micro vs. local vs. regional trends.
+
+Segment Contributed by: James Svoboda is the Vice President of MnSearch.org and CEO at WebRanking.
+
+13. Cohort Analysis
+
+This segment requires using both custom variables and advanced segments and demonstrates how to segment users along different stages of your sales funnel. Set the following as a custom variable when someone completes a key step, such as the “checkout” process for a free trial:
+
+_gaq.push([‘setCustomVar’, 1,’Free Trial Started’, ‘YYYYMMDD’, 1]);
+
+The advanced segment that works with this code identifies the visitor-level variable associated with the user on subsequent visits for as long as their cookie persists. This allows you to see how they behave differently from visitors who haven’t started the trial.
+
+Link to Segment: http://bit.ly/GASS-Cohort
+
+How to Use this Segment: Apply to any conversion-oriented report to look at differences in conversion rates, conversion paths and different content consumed along the way for people on the free trial versus people who haven’t yet tried your product or service.
+
+Segment Contributed By: Mike Pantoliano is an SEO Consultant at Distilled and an advanced web analytics speaker and blogger.
+
+14. Conversion Rates: Business Hours vs. Off Hours
+
+Does the conversion rate on your website change when you close the doors to your brick-and-mortar building? This segment – which is similar to day-parting reports from AdWords – compares traffic received during and after business hours.
+
+Link to Segment: http://bit.ly/GASS-Hours
+
+How to Use this Segment: Adjust this segment series to align with your business hours. It defaults from 8 a.m. – 9 p.m. (ET) but you can adjust it to align with your own hours of operation and then apply conversion data reports to investigate differences in website performance both before and after hours.
+
+Segment Contributed by: Michael Freeman is the Senior Manager of Search at ShoreTel.
+
+15. Detecting Content Piracy
+
+Is someone stealing content on your website? The content piracy segment allows you to see what traffic has been generated against your Google Analytics profile by any other hostnames that aren’t yours.
+
+Link to Segment: http://bit.ly/GASS-Piracy
+
+How to Use this Segment: Apply this segment to reports in the Audience section of Google Analytics to inspect the areas and technical characteristics of fake sites created to copy your brand’s assets without your permission or benefit.
+
+Segment Contributed by: Pamela Nelson is the Senior Director of Analytics & Reporting for Prime Visibility.
+
+16. Add Your Segment Here
+
+The last Google Analytics secret segment is where you come in. If you’ve made it this far, then you’re very likely to have a Google Analytics advanced segment of your own that you’ve been keeping to yourself. Consider adding a link to your secret segment – along with instructions on how to use it – in the comments to help others find those nuggets of gold buried deep within their own mountain of web analytics data.
+
+Editor’s note: This column originally was published on May 16, 2013, and comes in at No. 10 on our countdown of the 10 most read Search Engine Watch columns of 2013. As the clock ticks down to 2014, we’re celebrating the Best of 2013 by revisiting our most popular columns, as determined by our readers. Enjoy and keep checking back!

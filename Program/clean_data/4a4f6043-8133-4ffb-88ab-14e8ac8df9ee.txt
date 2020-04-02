@@ -1,0 +1,107 @@
+Make love? Direct Traffic? Really?
+
+I am not kidding. Direct traffic contains visitors that proactively seek you out, everyone else you have to "beg" to show up on your site!
+
+Yet this question seems to bedevil a lot of people:
+
+What the heck is Direct Traffic?
+
+As if that was not sad enough, even people who do know what the definition of Direct traffic is rarely focus on it or work hard to tease out the opportunity that exists in Direct traffic.
+
+I love analyzing Direct traffic because it contains a valuable set of visitors who deserve more love than we currently give them.
+
+I want you to be just as excited.
+
+So let's look at the definition, to make sure we understand, at least on paper, what this traffic is supposed to be. We'll also look at the challenges that exist in ensuring we are looking at the real unpolluted Direct traffic.
+
+Definition.
+
+Here is the simplest and cleanest definition:
+
+Direct traffic contains all Visits to your website where in people arrived at your site directly (by typing the url) or via a bookmark.
+
+Direct traffic is hence not traffic that results from people clicking on links on other sites to your site (that's referring urls traffic), it is not traffic that comes to your site by clicking on ads (that's Other in Google Analytics or Campaigns in other tools), it is not people who come from search engines (that is Search or Organic or PPC traffic).
+
+The reason Direct traffic is a beloved of mine is that it represents (checkout the sweet contextual – red and green – numbers above):
+
+1. People who are your existing customers / past purchasers, they'll type url and come to the site or via bookmarks. 2. People familiar with your brand. They need a solution and your name pops up into their head and they type. 3. People driven by word of mouth. Someone recommends your business / solution to someone else and boom they show up at the site. Uninvited, but we love them! 4. People driven by your offline campaigns. Saw an ad on TV, heard one on radio, saw a billboard and were motivated enough to typed the url and show up. [If you were really smart you would use campaign tagged vanity url so you can segment them!] 5. [Remember the part below, but.] Free, non-campaign, traffic.
+
+In a nutshell these are people show up without invitation (email, display, social campaigns) or they are people who already know you. There is an extra motivation connected to their visit which causes them to type your url of find the bookmark they made.
+
+That little bit of extra intent, when compared to other visitor segments, is the reason that conversion numbers (on ecommerce or non-ecommerce sites) for clean direct traffic usually look like these. . . .
+
+The only goal that is red is supposed to be red (fewer registrations from people who already know you is not unusual right?).
+
+Now you'll agree when I say your job is to be extra sweet to them?
+
+Segment them in your data, the delightful numbers you see in your KPI's will show you why.
+
+So if Direct traffic is so important and often the metrics show very positive results then why don't we all obsess about it a lot more?
+
+The Problem: Unfortunately. . . You!
+
+Most website tag and campaign tracking implementations are poor (to put it charitably). This is always disappointing but it is particularly harmful to Direct traffic.
+
+You see if you don't implement your links properly the person shows up to your site without any tracking parameters and thus fail to help your web analytics tool to put that visitor in the right source bucket.
+
+Typically Direct traffic also contains all the Visits that originated from improperly tagged campaigns, untagged campaigns and problems with your JavaScript tag. I am sitting in a puddle of tears as I write this, that is how often Direct traffic is polluted and that is how painful (and profoundly sad) this is.
+
+Here is a simple example:
+
+You are the Acquisition manager for a company called Omniture.
+
+You have purchased banner ads in various Android applications using AdMob to target high value analytics decision makers. You goal is to get people to buy your Discover data warehouse product.
+
+You are using Google Analytics to track all you display campaigns.
+
+The proper way to link your banner to your Discover2 website is:
+
+omniture.com/discover2awesoemness/?utm_source=nytimes_mobile_homepage&utm_medium=masthead_banner
+
+&utm_content=188_92&utm_campaign=affluent_readers
+
+You actually use this url:
+
+omniture.com/discover2awesoemness/
+
+Guess where this category will be categorized?
+
+Direct.
+
+:(
+
+You see mobile applications don't send a referrer and it will look like all of a sudden you got very high converting Direct traffic.
+
+With a simple stone you've killed two beautiful birds:
+
+> The direct traffic is polluted and you'll never be able to focus on finding real insights for actual valuable lovely people who are seeking you out directly. > Google Analytics will show that your mobile campaigns with AdMob stink. Of course that's not true, but you'll have no way of knowing that.
+
+Not a great situation right?
+
+Oh and what do you think is happening to the trackability of all your shortened urls in Social Media that you are not tagging with campaign parameters? 78% of people consume Facebook and Twitter content via applications and unless you use campaign parameters all that traffic is sitting in Direct. So sad.
+
+Result?
+
+Direct traffic is a fantastic segment to analyze because it contains desirable Visitors and yet because it is often polluted (due to our own inability to implement web analytics tools correctly).
+
+Let's aim to fix this because it is too important not to.
+
+. Why Does Direct Traffic Get Polluted / Mistakes You Should Avoid:
+
+The good and the bad are all mixed in, and it is your job to ensure that that is not happening inside your web analytics data.
+
+Here are the main reasons traffic that should not be Direct ends up there, try, please please pretty please, to ensure this is not happening to you:
+
+1. Missing web analytics tag from landing pages
+
+Perhaps the most common source of traffic being miscategorized. Your urls are all tagged correctly with campaign parameters, or maybe people are just coming to from sites that link to you. They land on a page that is missing the web analytics tag. They click on a link on the landing page to go deeper into the site. Guess what's the traffic source for this traffic? Direct. So sad. You worked so hard to get that referring link / execute the campaign. Now not only do you not get rewarded for that work. you actually messed up your direct traffic. Don't be that person. Go purchase WASP from iPerceptions or an account with ObservePoint and address the cheapest problem to fix in Web Analytics. If you are a little bit tech savvy then go get REL Software's Web Link Validator, it's pretty good.
+
+2. Untagged campaigns (search, email, display, social media etc)
+
+This is perhaps the second biggest reason data in web analytics ends up in wrong places. In case of untagged emails (to people who are using Outlook, Thunderbird etc) and mobile ads and mobile application links (think of all those Twitter / Facebook apps) and Adobe AIR applications (like my beloved NY Times Reader) and in rare cases where people are clicking on links in PDF documents etc, the data ends up in Direct (no referrer). In case of untagged display campaigns usually there is a referrer so it will end up there rather than in Campaigns were you want it. In case of untagged paid search campaigns it usually ends up in organic search data. On behalf of your company you are spending precious budget on acquisition, not ensuring your campaigns are tagged properly is near criminal behavior. Don't be that person. Tag. Oh one more thing.. if you are practicing bigamy and have two tools, say Google Analytics and Adobe's Site Catalyst you better remember to have campaign parameters for both GA and SC because they use different parameters for campaigns. Whichever one you forget to tag for will show your campaign traffic as Direct! If you want to track the campaign in the first part of this post with both Google Analytics AND Omniture the url would look like this, as an example: omniture.com/discover2awesoemness/?utm_source=nytimes_mobile_homepage&utm_medium=masthead_banner
+
+&utm_content=188_92&utm_campaign=affluent_readers
+
+&s_scid=TC-10013-3159426121-e-361634984 See both set's of campaign parameters? You don't do that one of them is wrong. Not so shiny to practice bigamy is it?
+
+3. Improperly tagged campaign parameters / site tags

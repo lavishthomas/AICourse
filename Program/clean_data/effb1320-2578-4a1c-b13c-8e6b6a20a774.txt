@@ -1,0 +1,111 @@
+From October 2016 to January 2017, the Outbrain Click Prediction competition challenged Kagglers to navigate a huge dataset of personalized website content recommendations with billions of data points to predict which links users would click on.
+
+In this winners' interview, team brain-afk shares a deep dive into their second place strategy in this competition where heavy feature engineering gave a competitive edge over stacking methods. Darragh, Marios (KazAnova), Mathias (Faron), and Alexey describe how they combined a rich set of features with Field Aware Factorization Machines including a customized implementation to optimize for speed and memory consumption
+
+The Basics
+
+What was your background prior to entering this challenge?
+
+Darragh Hanley: I am a part time OMSCS student at Georgia Tech and a data scientist at Optum, using AI to improve healthcare.
+
+Marios Michailidis: I am a Part-Time PhD student at UCL, data science manager at dunnhumby and fervent Kaggler.
+
+Mathias Müller: I have a Master’s in computer science (focus areas cognitive robotics and AI) and I’m working as a machine learning engineer at FSD.
+
+Alexey Noskov: I have an MSc in computer science and work as a software engineer at Evil Martians.
+
+How did you get started with Kaggle?
+
+Darragh Hanley: I saw Kaggle as a good way to practice real world ML problems.
+
+Marios Michailidis: I wanted a new challenge and learn from the best.
+
+Mathias Müller: Kaggle was the best hit for “ML online competitions”.
+
+Alexey Noskov: I became interested in data science about 4 years ago - first I watched Andrew Ng’s famous course, then some others, but I lacked experience with real problems and struggled to get some. But things changed when around beginning of 2015 I got to know Kaggle, which seem to be the missing piece, as it allowed me to get experience in complex problems and learn from the others, improving my data science and machine learning skills.
+
+Do you have any prior experience or domain knowledge that helped you succeed in this competition?
+
+Marios Michailidis: My work in dunnhumby as well as my PhD are focused in the recommendation space and specifically personalization.
+
+Darragh Hanley: My job is currently focused on user personalization within the health industry, so I have had time to research the latest advances in the area. We are actively building out our Machine Learning and Big Data departments at Optum, Dublin, so reach out if you have an interest in joining.
+
+General: some of us have experience in the recommendation space, however not specifically in the ad-click domain. Nevertheless we have collectively participated in many other data science challenges from Kaggle (such as the Avito competitions) with similar concepts.
+
+A recommenders’ challenge
+
+In this data challenge our team was tasked to predict which pieces of (anonymized) websites' contents the users of a web’s leading content discovery platform were likely to be clicked on.
+
+The prediction had to be made using billions of historical data on-site behavior such as streams of page visits and clicks from multiple publisher sites in the United States between 14-June-2016 and 28-June-2016 as well as general information about the displayed (promoted) content.
+
+Given a training set of 87 million Displays and Ads pairs, our team had to maximize mean average precision of @12 (MAP@12) for an unobserved test dataset with 32 million pairs.
+
+The backbones of our solution are heavy feature engineering paired with the usage of “Field Aware Factorization Machines” (FFM). For the latter we used the original LibFFM as well as a custom implementation by Alexey optimized regarding speed and memory consumption.
+
+Our general approach could be summarized with the following steps:
+
+Setting up a reliable cross validation framework Feature engineering Generating strong single models (particularly FFM) Stacking
+
+Let’s get technical
+
+Cross validation
+
+Around 50% of the test data pairs were derived from days included in the training data. The latter 50% was including two future days. Subsequently, based on this information we tried to mimic that relationship via constructing a new (smaller) set of training and validation in order to test our models via cross-validation.
+
+Although the training and test data had enough information in common, in terms of the general content being displayed, the actual users did not seem to overlap much between the 2 sets. This can also be illustrated below in the bottom right pie-chart. This fact further boosted our strategy for making our cross validation procedure very similar to the actual testing process.
+
+As a result, we constructed a training data set of 14 million pairs and a validation data set of 6 million pairs. We sampled it according to the structure of the given test set which connoted a distribution of pairs where half were extracted from (2) future days and the rest from days present in the 14 million sample. The ratio of train-to-test remained stable, the smaller training set allowed for faster and more efficient validation, while the significant size of the data still ensured reliable results.
+
+Apart from MAP@12 we were also recording log loss and AUC values, because the latter metrics can be a bit more informative for smaller in-model changes.
+
+Feature Engineering
+
+Feature engineering turned out to be the most important aspect in this competition in order to achieve a competitive score.
+
+For use in FFM all features were hashed. Obvious features such as region, document source, publisher etc of the document provided uplift and can be seen in many of the public kernels.
+
+On the public kernels a feature was published by Kaggle user rcarson indicating ads clicked by users in the page_views file, which were also present in the clicks train and test files. This feature was very strong bringing approximately .02 MAP@12 uplift. This was further improved via bucketing it into rows where the page_views doc was before, 1 hour after, 1 day after and > 1 day after the display timestamp.
+
+It was beneficial to include competing ads - that is, all ads for a given display_id - on each row, so that the learner knew which were the alternative ads presented to the user for a particular ad choice. For this we hashed each individual competing ad as a feature. See the relevant figure below:
+
+We also hashed all combinations of the document / traffic_source clicked by a user in page_views . So, if a user came to a document from ‘search’, it would be treated differently to a user coming to the same document from ‘internal’. Any documents occurring less than 80 times in events.csv were dropped, because sparse documents tended to just add noise to the model. This information was quite strong in the model as it brought user level preferences in clicks.
+
+We used document source_id as a means to aggregate the sparse documents and include them in the model in order to recover some of the lost information after filtering out documents, which occurred less than 80 times in events.csv . This was achieved by hashing the source_ids (from documents_meta ) of all the page view documents for each user. We still excluded source_ids which occurred less than 80 times in events.csv , however there were much fewer cases now. An illustration of this can be seen in Figure 4 below.
+
+Another useful feature was found via searching through page_views for documents clicked within one hour after the train and test displayed documents for a given user. Each document was hashed as a new feature.
+
+As per usual, counts of category levels were important. Particularly counts of ads per display (see Figure 5) as this would have a high impact on the likelihood of a click:
+
+We also computed simple counts of ads, documents, document sources etc. as well as their corresponding counts after conditioning on time (past versus future counts).
+
+Besides, we obtained several flags to indicate, if the user ever viewed ad documents of similar category or similar topic and if the user viewed or clicked the given ad in the past.
+
+We judged the quality of new features based on local CV as well as public LB scores.
+
+Base Modelling
+
+We trained around 50 different base models for which we varied the model parameters and input features to increase the diversity. Our 6M validation set has been used to create “out-of-fold” predictions and hence it became the training set at the Meta level.
+
+Models used at level 1
+
+Our best single model (FFM) scored 0.70030 at the public and 0.70056 at the private leaderboard and hence would have placed 2nd on its own.
+
+2nd-Level Stacking
+
+The level 1 model predictions were stacked by training XGBoost and Keras models on the 6M at once. Hence, we didn’t performed common and future days separation, which other competitors reported to be an useful step. Instead, we used normalized time as an additional feature at level 2 to provide the valuable timeseries’ attribute of this dataset to the stacker models.
+
+In a final step, the XGB & Keras level 2 predictions have been blended by use of weighted geometric mean: XGB0.7 * NN0.3, where the weights were chosen intuitively guided by MAP@12 scores on a 20% random subset of the 6M set as well as on the public LB.
+
+Our final submission for this competition scored 0.70110 at the public and 0.70144 at the private leaderboard.
+
+Bios
+
+Darragh Hanley (Darragh) is a Data Scientist at Optum, using AI to improve people’s health and healthcare. He has a special interest in predictive analytics; inferring and predicting human behavior. His Bachelor’s is in Engineering and Mathematics from Trinity College, Dublin, and he is currently studying for a Masters in Computer Science at Georgia Tech (OMSCS).
+
+Marios Michailidis (KazAnova) is Manager of Data Science at Dunnhumby and part-time PhD in machine learning at University College London (UCL) with a focus on improving recommender systems. He has worked in both marketing and credit sectors in the UK Market and has led many analytics projects with various themes including: Acquisition, Retention, Uplift, fraud detection, portfolio optimization and more. In his spare time he has created KazAnova, a GUI for credit scoring 100% made in Java. He is former Kaggle #1.
+
+Mathias Müller (Faron) is a machine learning engineer for FSD Fahrzeugsystemdaten. He has a Master’s in Computer Science from the Humboldt University of Berlin. His thesis was about ‘Bio-Inspired Visual Navigation of Flying Robots’.
+
+Alexey Noskov (alexeynoskov) is a Ruby and Scala developer at Evil Martians.
+
+Read more from the team

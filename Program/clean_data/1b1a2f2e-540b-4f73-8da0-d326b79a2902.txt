@@ -1,0 +1,155 @@
+... Why you should aim for "deep context", and why the price for (some) remote developers is dropping to zero
+
+Remedios Varo - Three Destinies, 1956
+
+Note: The views expressed in this article are strictly my own, and do not represent those of my employer, Amazon.com.
+
+Recently I replied to a post on Reddit by an aspiring digital nomad. It sparked some back and forth about the "race to the bottom" when it comes to the fees charged by remote, independent software developers.
+
+Specifically, the poster on Reddit was wanting to know:
+
+"What's a programming skill that I can always sell remotely by lowering my price to meet supply/demand? I find that usually supply is so high that even if your price is zero you'll still lose the job to someone else".
+
+(The supply of independent remote developers worldwide is burgeoning, by the way.)
+
+As a Software Development Manager, I have a devil of a time trying to find experienced Software Developers, so the post got me thinking. How can there be this tech talent drought, while the number of remote developers offering their services online continues to grow?
+
+I myself worked as a remote software developer for about two years, so I was sympathetic to the poster's problem. For the first twelve months, I managed to work remotely as an established on-premise FTE "gone remote", (after a year of on-premise work). Then the company imploded and I was laid off.
+
+Over the next twelve months, I attempted the "hired gun" consulting model, bidding for one gig after another on sites like elance.com and upwork.com. I even tried building my own consulting company using offshore talent. But in the end, I found I couldn't make enough money to sustain my family in a U.S. based economy.
+
+I went back to work as an on-premise tech guy, (and I'm much happier for it, by the way). The experience reaffirmed some things I already knew, but wasn't quite willing to admit to myself about the fundamentals of software development, and the market for tech talent. It served as a rather painful answer to the question:
+
+Why are some developers making fantastic salaries, in some cases working directly for VPs at fortune 500 companies, while others are giving away their services for as little as $5, fighting over scraps?
+
+But to answer that question, you have to answer a more fundamental question.
+
+What makes software development hard?
+
+Why do 40% of software projects fail, even after we've been going at the problem for 50 years now?
+
+I've been thinking about this question over the the last twenty years, ever since I started coding. I was lucky enough to have a dad who passed along some wisdom, himself being a twenty-year software veteran of Hewlett Packard, and then an entrepreneur. As I entered the job market as a young software developer, the piece of advice he gave that stuck with me the most was this:
+
+"The hard part isn't the technology — the number one failure of the software industry is building the wrong product."
+
+This simple idea has served as a lens for most of the decisions I’ve made as a developer and manager throughout my career. And as a guy with ADD in an increasingly complex and distracting world, I’ve come to appreciate the value of simple ideas to help reclaim my focus and clarity.
+
+Now, reaching my own twenty-year mark in the tech industry, I want to go out on a limb and attempt (at the risk of being bold) to condense my own twenty years of tech experience into the simplest statement possible.
+
+So I'll offer the following corollary to my father's statement. I call it the "One Skull Rule":
+
+"The most valuable asset in the software industry is the synthesis of programming skill and deep context in the business problem domain, in one skull."
+
+When I say "deep context", I mean something specific that I'll unpack in a bit. First, let’s swing back around to the topic of remote software development. What does this mean for our friend on Reddit? Well, I’m afraid it’s not great news.
+
+It means that programming skill in the absence of business domain knowledge is becoming increasingly worthless.
+
+Said another way, there are an ever decreasing number of software problems that are so cut and dried that they can be tossed over a wall and implemented in isolation of business expertise.
+
+This is why the price for remote programming keeps dropping to zero. You cannot compete with on-premise talent when it comes to deep specialization in a business domain. The higher you move up the value chain in terms of your business offering, the more that the variations inherent in the business problems and technology constraints become wickedly complex.
+
+The tough problems require spending 12 months in high-bandwidth communication within a team, close to the customer (or an excellent representative). They require forming a group mind together, getting inside the customer’s head, checking each other's assumptions, ferreting out misunderstandings. Communication, internalization, and synthesis of ideas is the hard part, not technology. The greatest risks rest with humans, not computers.
+
+The market will continue chasing the predictable results that stem from this kind of on-premise, high-bandwidth immersion. And even then, it only works if the conditions for human collaboration are close to ideal.
+
+But If Someone Else Knows the Business, Why Can't They Can’t They Just Give Me a Spec?
+
+The greatest misconception about software development is that it is a separable discipline from deep analysis of the business problem. We think all we need is an analyst who understands the business problem, a developer who knows how to code, then they can email a few notes or a specification. "Good to go", right?
+
+Not so much. At the outset, a business problem might appear simple, or only somewhat complex. You might think you have a handle on all the caveats and corner cases. But the average person who hasn't programmed extensively doesn't appreciate the level of detail and explicitness that computers require to do absolutely anything. Every behavior must be dictated with excruciating specificity. And your plan for how users will interact with the system will likely get thrown out and redrawn from scratch dozens of times before you have a minimum viable product.
+
+No matter how good you believe you are at envisioning the details, or how sound you believe your logic is, when things get complex, you'll find yourself quickly humbled by the users keeping you honest about what they want, and the computer keeping you honest about the cost of developing it. You'll find out you don't understand the business logic "at depth" until you've tried building an application to solve it.
+
+But even that doesn't touch on the biggest challenge of software development.
+
+In my experience, if you added them all up, most of the miles logged on any software project (the majority of the design effort, coding hours, testing, bug fixes) are not spent dealing with technology-related issues or the business logic, as such.
+
+Most of the time is spent thinking and communicating about a virtually endless number of micro-problems that seemingly emerge out of nowhere, and constitute the real territory between the technology and the business problem. Part of traversing this landscape of micro-problems is inventing, communicating, and internalizing a plethora of named and unnamed abstractions. It is the only way to break down the complexity so you can grapple with it.
+
+The Unmapped Road
+
+Miles and miles of a software project are spent roving this vast territory that is not exactly computer related, nor exactly business related. Rather, it is a new and emergent problem space that explodes into existence while bridging the middle distance between the business problem and the technology.
+
+In reality, this vast field of micro-problems was there all along. But the only way to discover them was to encounter them one at a time, like boulders in the path of a road-laying crew. You must face each obstacle, either eradicate it or re-adapt your route to accommodate it, then soldier on—only to find another boulder around the very next bend. Any one problem may throw off your schedule by weeks, yet there was no way to anticipate its existence from your previous vantage point. And your boss asks, “Why didn’t you account for that in your estimate?”
+
+You didn’t account for it because the software development process is exploratory by nature. This particular route of business problems has never been charted before—it is unmapped. If it had been mapped, then laying out the route wouldn’t have had the same business value. By its nature, a mapped problem is a (relatively) solved problem. The solutions are already launched and living their lives out there, somewhere along the technology adoption spectrum. They exist in the form of software products, applications, frameworks, platforms, open-source libraries, closed-source libraries, and web services, or integrated combinations of them.
+
+This is why estimates for software projects are notoriously bad, and why Agile methodologies have become the proverbial life preserver to which the software industry collectively clings. The funny thing is that Agile's greatest strength is not that it embraces "changes in requirements", as it claims. In this way, even Agile misrepresents the nature of the beast, mostly for the sake of managerial egos, and those platonic executives who deny the existence of highly unpredictable problems.
+
+The nature of the beast is that software requirements rarely change; what changes is our awareness of them, and our grasp of their implications.
+
+The dirty little secret in the software industry is that at the outset of every project, we don’t really know what we’re doing. Besides the software building tools, our only requirements tools are the modern day equivalent of a compass, a machete, and some provisions, and then we are headed off into the wilds.
+
+We learn as we go, stumbling our way through or around each obstacle, and every new release of working software reveals more about the territory to come. It enables the next set of requirements to become discoverable. Each release represents our next “best laid plan”, which survives right up until it makes contact with the customer. Then the next set of micro-problems is revealed.
+
+The Dimensions of The Field
+
+Making matters worse, the very act of mapping this field, and building your road, adds to this emerging field of micro-problems.
+
+The interaction between components of large-scale software systems sets up new limitations and interdependencies which are not first-order business problems in themselves, but secondary and tertiary problems stemming from need to break the problem into pieces, and build on the software gradually, over time.
+
+In this way, software begins to form a patchwork quilt of services, libraries, and frameworks, each made up of sedimentary layers of releases and patches.
+
+It’s important to note that, even under best of circumstances, when software is very well designed, these layers and patches are inevitable. They are simply the price of having to chart a field of micro-problems that’s unfolding along multiple dimensions.
+
+One dimension is performance, where high levels of demand for very simple functionality may require a complex and globally distributed architecture. Of course, this architecture must be re-invented from scratch as demand grow over time, and of course, usually this must be done without interruptions to the existing service, all of which add yet more micro-problems to our field.
+
+Another dimension of the field is scope. Most business problems that are big enough to be worth solving require multiple teams. A very large business problem, such as “organizing all information on the web”, or “ecommerce for every type of product” requires carving the business problem into a huge number of manageable components, and delegating each component to one of hundreds of software teams. But now each team must solve new problems having to do with inter-component communication and compatibility, (not to mention inter-human communication and compatibility). Our field grows larger.
+
+The last dimension of the field, and probably the least forgiving one, is time.
+
+We can make the best decisions possible with the best information we can gather, but try as we might, we cannot predict the future. In solving the current set of business problems, whatever abstractions we choose will leave an architectural legacy that has an inevitably finite lifespan.
+
+If our interface is flexible, encapsulated, and well-designed, it may survive and be subsumed into the foundation for the next layer of software (see long-lived software components such as COM, or the Linux Kernel). Or despite our best efforts, the particular evolutionary needs of some future version of the software may lead to the abandonment of our hard-won code paths.
+
+In some cases, poor design decisions were made in the past, but we don’t have time (or believe we don’t have time) to dismantle and rebuild an ailing system, even though we know it will cost more in the long run. And so we find ourselves building new software on shaky ground, and paying for the sub-optimal designs of the past, over and over again.
+
+In addition, we often pay “interest” on top of these costs, in the form of higher on-call volumes, customer impacting events, and hard-to-analyze systems that take orders of magnitude longer to debug and find root-cause. That’s why this concept is often called technical debt.
+
+Above and beyond our field of first-order business micro-problems, these dimensions make up a secondary field of micro-problems that stand between us, and an addressable market for our software.
+
+Deep Context
+
+But whether we are talking about first-order business problems or second-order business problems, charting this field between the customer and the technology is where the real work of software development happens, and it represents the bulk of the financial investment for any software business. The most valuable time spent by a company’s employees are spent grappling with this field of countless micro-problems, and making the micro-decisions to solve each one.
+
+In order for a human being to deal with this kind of complexity, it has to be slow-roasted and internalized into the firmament of our minds, much in the same way as a language. The same ground must be covered over and over again, until the abstractions becomes a part of the vocabulary of thought itself.
+
+You know that this gradual process of assimilation is nearing completion when the information is instantly accessible in your brain's "System 1", as Daniel Kahneman calls it. In short, that means you don’t have to “think hard” to recall the problems and solutions that have been mapped before. Every idea has a name, like a handle. And when you pull that handle, it immediately opens a drawer-full of context, which itself, contains yet more handles. You can keep going deeper and deeper into the problem domain, this way, and you can synthesize ideas from separate drawers to form cross connections and new ideas. You can make creative leaps, and with deep domain expertise, they are the stuff of genius.
+
+But the process of deeply internalizing this enormous field of micro-problems can take years, and as you can imagine, developers who've achieved this level of business specialization are invaluable to the organizations that employ them, as I'll explore more in a minute.
+
+First, I want to find our own “handle” for talking about this important mental state—a word that refers to what happens when we have this field of micro-problems so well assimilated that it seems “cached” and ready for instant use in our minds.
+
+This concept doesn't have a great name in the industry yet. I might call it a "depth exploration" of the business problem domain, but that's more of a term for the process. The word "deep context" comes closest, so I'll use it for now.
+
+What is Deep Context?
+
+Deep context is the state of having achieved a kind of mental fluency in some large percentage of this immense field of micro-problems that appears in the space between technology and a business domain. It doesn’t mean that you’ve driven the uncertainty in a software project down to zero (once again, not possible), but it means that you’ve travelled the territory often enough that you’ve got a handle on the major geographical features. Every new software project requires forging a new path through the wilderness, but having deep context means that you know where the treacherous canyons and fast-flowing rivers are. You can anticipate the biggest risks, and you have a grasp on the scale of the risks you’re taking. You know how much you know, and how much you don’t know about the journey ahead.
+
+Perhaps most importantly, you can readily switch hats and ask yourself, "What would I want if I were the customer?" And the answer you come up with is much more likely to be right, because it emerged from deep context.
+
+To give you an example, one developer I know who has attained deep context has been working in the space of warehouses and fulfillment technologies for 10 years. He knows that you can’t ship a lawnmower via airfreight because it contains a battery for the starter motor (and airfreight policy disallows this). He knows that capacity planning is more predictable for Black Friday than it is for Christmas because buying patterns are heavily impacted by day-of-the-week, and Christmas falls on a different day of the week each year, while Black Friday is always on a Friday. He knows hundreds of thousands of other facts like these, each of which constitutes a micro-problem whose solution was hard-won. It was learned out in the field, by releasing software and watching it perform optimally or suboptimally, over and over again.
+
+Why is having deep context within the developer so valuable though? Isn't that the job of the product manager / program manager / business analyst / customer representative / etc?
+
+Don't get me wrong. I believe that having business experts like these on a software team is essential to success. But even in a team where such an expert is in daily and close communication with the software developers, the people writing code must still make an order of magnitude more micro-decisions as they will ever have time to communicate and verify with anyone else. (You can wish that this weren't true, but if a developer verified every single decision with a business person, they wouldn't be adding much value over the computer, and the project would grind to a halt.)
+
+Another word for an unverified decision is an assumption.
+
+The word assumption sounds bad, but there is nothing inherently wrong with an assumption. We make them all the time in order to survive. But without "deep context" in the business domain in the same skull as the person writing the code, the quality of these assumptions tends to be very low. Assumptions made in a relative vacuum of business knowledge have a very low probability of aligning with the business need.
+
+The more deep context a developer has in their business's problem domain, the more independently they can operate and the more rapidly they can develop. The more a developer broadens the scope of their deep context, the higher up they can move in the org chart, taking on cross-functional projects, and architecting large-scale systems for other teams of developers to flesh out. These higher-up developers are known in some organizations as Principals or Architects—those bigwig developers I mentioned earlier who report directly to Directors and VPs.
+
+My submission is that a developer's value to their employer or customer is almost directly proportional to the depth and breadth of their deep context—the knowledge that they have internalized and synthesized in their business's problem domain.
+
+Where Does This Leave Remote (or Aspiring Remote) Developers?
+
+For those still curious how this applies to "going remote" as a software developer, I have three pieces of advice.
+
+First, choose a company with a policy and culture that is open to the remote option. It can be challenging to determine this, but sources like LinkedIn, GlassDoor, and Quora can yield the answer with a little persistence. Second, invest in deep context by steeping yourself in a single business domain, and along the way, build relationships with people so they come to know you and trust your judgments. Become an expert in one business domain (preferably one that is trending upward in demand) by working on-premise as a software developer within a team and build this kind of "mind-meld" with your team members, manager, and others cross-departmentally. Be social, develop ties, and dedicate just as much focus to the business and user problems as the technical solutions. Once you have deep context, a reputation for being to apply that context successfully, and a network of people who see you as a trusted authority, then you are a valuable enough asset that the company should accommodate your request to go remote. Note that this may take multiple years of on-premise development work. Don't get rose-tinted glasses about remote development. Run it as an experiment first. Start by asking your boss if you can try it for a week, then a month, and see how it goes. Then try for longer periods. This is both for your employer's sake, so they learn they can trust you with the responsibility, as well as for your own sake, so you can find out if it's the right lifestyle choice for you. You may discover, as I did, that there is a dark side to "working from home", and an unexpected benefit to occasionally coming into an office once in awhile: You get to interact with people.
+
+All joking aside, until you've spent two years working outside an office, don't romanticize the digital nomad experience. Extremes suck, humans need each other, and for better or worse, the modern world offers precious few venues for naturally meeting new people who are likely to share common interests. The workplace is one of the last “safe” spaces where total strangers can simply introduce themselves without ensuing awkwardness. (Try it out at the grocery store or a coffee shop sometime and just watch the “who is this weirdo” look across someone’s face.) Sadly, offices are perhaps the closest modern equivalent to a "village" that we have left.
+
+I suggested some of the above to the Reddit poster above, but he disagreed. He suggested that it was offensive that developers should be asked to form this kind of "group mind" with others, and that it wasn't his fault that his customers couldn't specify the totality of their business requirements in a text document. He finished by suggesting that AI will eventually replace human programmers.
+
+I'll have to save that juicy topic for a future post.

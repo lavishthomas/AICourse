@@ -1,0 +1,43 @@
+A few weeks ago, I finally tried Tesla Motors' "autopilot" feature. A Tesla rep and I tooled around Houston's I-45 in a Model X crossover SUV for 15 minutes, just long enough to test the vehicle's adaptive cruise/automatic lane-keeping wizardry. Once I toggled on the autopilot, the rep relaxed by checking e-mail on her phone. This sent a clear message: keep an eye on the dumb journalist when he's driving the $140,000 SUV, but once the machine takes over, everything’s fine.
+
+As we pulled back into the showroom (or whatever Texas’ insane dealership protection laws demand Tesla call the places it’s not allowed to sell or service vehicles), I told the rep that I was driving to Austin soon; Autopilot would be just the thing for the long stretches of empty road out on I-10 and TX-71. Without missing a beat, she offered me a loaner Model S.
+
+Ars has officially driven a Model S with autopilot before, but only under controlled circumstances. The Austin trip would let me take the car out for nearly four hundred miles of driving in a big mix of traffic scenarios. Plus, I'd get to log more cockpit time in a Tesla. Of course I said yes. Who wouldn’t?
+
+My chariot
+
+I’ve driven two previous Model S sedans on the approximately 400 mile (about 640km) Houston-Austin round trip—first a 2013 model P85+ and more recently a dual-motor P85D. Both trips were fun, since both times Tesla provided the currently-most-powerful version of its sedan to hoon around in. True to form, the company again loaned me its top-end car: a dual-motor P90D with a 90kWh battery and the much ballyhooed "ludicrous mode" acceleration option (caution: there’s some NSFW language in that linked video).
+
+The P90D looks and behaves much like previous Model S sedans. Its exterior is studded with sensors that can detect both the road and other vehicles, though unlike the P85D I drove, this P90D had the software installed to take full advantage of those sensors. (The entire Model S fleet produced with these extra sensors over the the past year has since been software-upgraded to match the new vehicle’s capabilities.)
+
+As I gingerly placed my butt in the matte leather driver’s seat of the pearly white P90D, another friendly Tesla rep gave me an unnecessary tour of the cockpit. Yes, I knew how the climate control worked. Yes, I knew how to open the charge port. Yes, I knew how to engage the auto-cruise and auto-steer. I was an old hand at Tesla-ing. Let’s get this show on the road!
+
+Perception, reality, and really good PR
+
+My first jaunt was a 30-mile (48km) drive from the Houston Galleria showroom to my home on the southeast side of town. Houston’s west 610 loop is in a constant state of rush hour, but the traffic mid-day was as light as it gets. It flowed along at maybe 40 miles per hour (64km/h) until the loop bent east and things opened up. Once I merged with traffic on the loop, I pulled the cruise stalk toward me twice to engage auto-cruise and auto-steer.
+
+The car had already seen a 60mph (100km/h) speed limit sign, so it set that as its target speed. Since traffic was moving slower than the limit, my Tesla patiently paced the car ahead at a near-constant four car lengths. I twisted the end of the cruise stalk forward and reduced that distance to two car lengths, which curbed the constant flow of people jerking their cars angrily into the lane ahead of me (woe betide you if you leave a space in Houston traffic). I forced myself to relax and hovered my hands over the wheel.
+
+The car was driving itself. All I needed was a leather jacket and a two-way radio watch, and I'd be living out the Knight Rider fantasy I'd had since age 5.
+
+Well, OK, this system isn't revolutionary; adaptive cruise control (where your car paces itself with the car ahead) has existed for a decade or more, and automatic lane-keeping is at least as old. Other car makers like Volvo, Mercedes, and Audi offer similar auto-cruise and auto-steer packages.
+
+But if Tesla isn't the first OEM to the autopilot table, it is certainly the loudest. The company dominates the marketing war—to the point that even folks who don't particularly care about cars know the company's story.
+
+That evening, when I caught up with my next-door neighbor—not a particularly tech-centric person—his eyes lit up. "That's the electric car that drives itself, right?" he asked. He wanted a test drive.
+
+The first leg: Getting out of town
+
+I was due at my downtown Austin destination the next day at noon, so I set out at 7:30am with a fully charged car. From most points in Houston to most points in Austin takes three hours, but my trips begin with the disadvantage of starting southeast of Houston and having to fight through the city’s morning rush hour (easily adding an extra 60-90 minutes). I would also need at least 20-30 minutes at the Tesla Supercharger in Columbus, Texas to top off the battery.
+
+For all the car's software wizardry, calling its autopilot system an "autopilot system" isn’t really accurate. The car is very good at following the road and keeping pace with the car in front of it, but it does not follow the path you program into the navigation system nor do any other kind of advanced self-guidance. So even though I programmed the Columbus Supercharger as my first destination, I stayed hands-on with the car as I drove out of my neighborhood and onto the I-45 service road. Auto-steer had to wait for the freeway, where I toggled it on.
+
+Unfortunately, I toggled it right back off. The portion of I-45 near my home is undergoing a multi-year $6 billion rebuild, with a long stretch spanning several exits being destroyed, reconfigured, widened, and otherwise "improved." The result is a multi-mile segment of road that snakes back and forth across what will eventually be both sides of the finished project. For now, there's no consistent surfacing, no real lane markers, and nothing for the lane-keeping system to "see." I drove human-style until I could bail off of I-45 and onto the westbound Sam Houston Tollway.
+
+Referred to by locals as "Beltway 8," "the beltway," or sometimes "the Houston Speedway" (people drive fast!), my section of the Sam Houston Tollway remains relatively un-cluttered for long stretches during the morning. I toggled on the auto-cruise and auto-steer, dialed the target speed up to 90mph and the desired follow distance to four cars, parked myself in the right lane, and pulled my hands slowly away from the wheel.
+
+It takes a while to get used to this feeling. Instead of serving as the primary means of direction for a car, you're now a meat-based backup and failsafe system. Instincts and impulses formed by more than two decades behind the wheel scream out a warning—"GRAB THE WHEEL NOW OR YOU'LL DIE"—while the rational forebrain fights back. Eventually, the voices quiet as the car starts to prove itself. When the road curves, the car follows. If the car is ever going too fast to negotiate the curve, it slows down and then accelerates smoothly back out of the turn.
+
+Lane keeping was almost excellent. The car kept itself squarely planted in the middle of the lane without ping-ponging between the edges like some earlier systems did. The car would still sometimes "lunge" at exit ramps when lane markings would fall away to the right or left, though the behavior was never enough to make me grab the wheel and disengage. (Tesla's 7.1 software update was supposed to eliminate the issue, though it hasn't completely.) Other than the occasional lunge, however, the car was solid as long as there remained even the slightest trace of visible lane markings.
+
+Sitting in the right lane on the tollway meant I frequently encountered other cars merging from the service road. Most of the time, the Model S would see them—with the speedometer display constantly updating to show silhouettes of other cars in their approximate positions around me—and slow down. The braking was perhaps a little later and a little harder than I would have done, but it was smooth and controlled every time. (The braking interval can be adjusted in the car’s settings). However, sometimes the person merging onto the road would be more beside me than in front of me. In those cases, I could force the system to initiate an automatic lane change by pushing up and holding the turn signal stalk, or I could scoot out of the way by manually mashing the accelerator.

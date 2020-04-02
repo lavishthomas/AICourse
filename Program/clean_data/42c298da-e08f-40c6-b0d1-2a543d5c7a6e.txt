@@ -1,0 +1,95 @@
+
+
+
+
+When it comes to the Google search box, you already know the tricks: finding exact phrases matches using quotes like "so say we all" or searching a single site using site:lifehacker.com gmail . But there are many more oblique, clever, and lesser-known search recipes and operators that work from that unassuming little input box. Dozens of Google search guides detail the tips you already know, but today we're skipping the obvious and highlighting our favorite obscure Google web search tricks.
+
+10. Get the local time anywhere
+
+What time is it in Bangkok right now? Ask Google. Enter simply what time is it to get the local time in big cities around the world, or add the locale at the end of your query, like what time is it hong kong to get the local time there.
+
+9. Track flight status
+
+Enter the airline and flight number into the Google search box and get back the arrival and departure times right inside Google's search results.
+
+8. Convert currency, metrics, bytes, and more
+
+Google's powerful built-in converter calculator can help you out whether you're cooking dinner, traveling abroad, or building a PC. Find out how many teaspoons are in a quarter cup (quarter cup in teaspoons) or how many seconds there are in a year (seconds in a year) or how many euros there are to five dollars (5 USD in Euro). For the geekier set, bits in kilobytes (155473 bytes in kilobytes) and numbers in hex or binary (19 in binary) are also pretty useful.
+
+7. Compare items with "better than" and find similar items with "reminds me of"
+
+Reader Adam taps the wisdom of the crowds by searching for like items using key phrases. He writes in:
+
+Simply search for, in quotes: "better than _keyword_" Some example results:
+
+
+
+
+
+
+
+Results 1 - 100 of about 550 English pages for " better than WinAmp".
+
+
+
+
+
+
+
+Results 1 - 57 of 57 English pages for " better than mIRC". Results 1 - 100 of about 17,500 English pages for " better than Digg". (Wow. Poor Digg.) The results will almost always lead you to discovering alternatives to whatever it is you're searching for. Using the same concept, you can use this trick to discover new music or movies. For example, " reminds me of _someband_" or "sounds like _someband_" will pull up artists people have thought sounded similar to the one you typed in. This is also a great way to find good, no-name musicians you'd probably never know of otherwise. Examples:
+
+
+
+
+
+
+
+Results 1 - 88 of 88 English pages for " reminds me of Metallica".
+
+
+
+
+
+
+
+Results 1 - 36 of 36 English pages for " similar to Garden State".
+
+
+
+
+
+
+
+Results 1 - 66 of 66 English pages for " sounds like The Shins". Just get creative and you'll, without a doubt, find cool new stuff you probably never knew existed.
+
+6. Use Google as a free proxy
+
+What, your company blocks that hip new web site just because it drops the F bomb occasionally? Use Google's cache to take a peek even when the originating site's being blocked, with cache:example.com .
+
+5. Remove affiliate links from product searches
+
+When you're sick of seeing duplicate product search results from the likes of eBay, Bizrate, Pricerunner, and Shopping.com, clear 'em out by stacking up the -site:ebay.com -site:bizrate.com -site:shopping.com operator. Alternately, check out Give Me Back My Google (original post), a service that does all that known reseller cleaning up for you when you search for products. Compare this GMBMG search for a Cruzer 1GB flash drive to the regular Google results.
+
+4. Find related terms and documents
+
+Ok, this one's direct from any straight-up advanced search operator cheat sheet, but it's still one of the lesser-used tricks in the book. Adding a tilde ( ~ ) to a search term will return related terms. For example, Googling ~nutrition returns results with the words nutrition, food, and health in them.
+
+3. Find music and comic books
+
+Using a combination of advanced search operators that specify music files available in an Apache directory listing, you can turn Google into your personal Napster. Go ahead, try this search for Nirvana tracks: -inurl:(htm|html|php) intitle:"index of" +"last modified" +"parent directory" +description +size +(wma|mp3) "Nirvana" . (Sub out Nirvana for the band you're interested in; use this one in conjunction with number 7 to find new music, too.) The same type of search recipe can find comic books as well.
+
+Find free comic books The always handy Tech-Recipes has come up with a way to quickly search for free comic books online… Read more
+
+2. ID people, objects, and foreign language words and phrases with Google Image Search
+
+Google Image search results show you instead of tell you about a word. Don't know what jicama looks like? Not sure if the person named "Priti" who you're emailing with is a woman or a man? Spanish rusty and you forgot what "corazon" is? Pop your term into Google Image Search (or type image jicama into the regular search box) to see what your term's about.
+
+1. Make Google recognize faces
+
+If you're doing an image search for Paris Hilton and don't want any of the French city, a special URL parameter in Google's Image search will do the trick. Add &imgtype=face to the end of your image search to just get images of faces, without any inanimate objects. Try it out with a search for rose (which returns many photos of flowers) versus rose with the face parameter.
+
+Advertisement
+
+What's your favorite ninja Google search technique? Tell us about it in the comments.
+
+Photo by Stephen Coburn .

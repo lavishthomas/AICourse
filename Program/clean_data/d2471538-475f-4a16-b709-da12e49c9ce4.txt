@@ -1,0 +1,99 @@
+Wednesday, March 23, 2016 at 8:56AM
+
+This is a guest post by Christophe Limpalair based on an interview (video) he did with Jon Cowie, Staff Operations Engineer and Breaksmith @ Etsy.
+
+Etsy has been a fascinating platform to watch, and study, as they transitioned from a new platform to a stable and well-established e-commerce engine. That shift required a lot of cultural change, but the end result is striking.
+
+In case you haven't seen it already, there's a post from 2012 that outlines their growth and shift. But what has happened since then? Are they still innovating? How are engineering decisions made, and how does this shape their engineering culture? These are questions we explored with Jon Cowie, a Staff Operations Engineer at Etsy, and the author of Customizing Chef, in a new podcast episode.
+
+What does Etsy's architecture look like nowadays?
+
+Their architecture hasn't really changed all that much since the last update dating back to 2012 (in the previously mentioned post). While this might sound boring to some, it outlines an important concept, and it gives us some insight into Etsy's engineering culture. We'll refer back to this culture throughout the post, but here's their general architecture:
+
+Etsy's production infrastructure is all bare metal. When it comes to development, however, they virtualize environments. That gives every developer a virtual machine which represents a microcosm of the entire stack. At the end of the day, the virtual environments still run on Etsy's own physical hardware.
+
+The actual stack itself still looks like this:
+
+Linux
+
+Apache
+
+MySQL
+
+PHP
+
+Caching layers
+
+F5 load balancers
+
+They have a number of different caching layers with different jobs. They use memcached pretty heavily for caching database objects.
+
+Etsy has public-facing APIs for third-party developers, and they also have internal APIs. There are caching layers for these APIs, since some of the answers aren't short lived. For example, if an answer lives for an hour or more, they might cache it.
+
+Of course, they cache images and static assets pretty heavily as well.
+
+The challenge here is cache invalidation. Making sure that you're not serving stale content to users, but leveraging caching enough to reduce the load on your database as much as possible. Also, making sure that you're serving responses faster to users by having it cached and closer to the end-user. This is something else the Etsy teams care deeply about, as made evident with the regular performance reports on their engineering blog, CodeasCraft.com.
+
+While the overall architecture is pretty much the same, it certainly doesn't mean the Etsy engineers and Ops teams have just sat there twiddling their thumbs this whole time. Well, maybe some of them have, but I digress...
+
+So what are their ops challenges? Do they still have to put out fires?
+
+We just saw how they tend to err on the side of mature and proven technology, so they don't spend too much time putting out fires. New problems tend to come from introducing new systems. I'm sure many of you reading have been through this before: you introduce a new system that, on paper, will solve all of your problems. Except it has a complex and 'impossible' reaction to other components currently in your environment. So you have to figure out what's causing the issue and how to solve it.
+
+Which, honestly, if you're in this field, you probably live for these moments. These are the interesting challenges that make you scratch your head and you really want to figure out so you can move on to the next challenge. Except sometimes it just takes too long, and then it becomes a nuisance.
+
+Another challenge that most companies have, is trying to hire great talent. Where do you even find great talent? If you're using the new 'hotness', chances are you will have a harder time finding that talent, and it will be a lot more expensive. If you pick something mature like PHP, though, it's not quite as difficult. Still hard, but not as hard as finding someone for, say, Scala.
+
+A lot of PHP tooling has been around for a decade at this point, and so has the language. Many of the bleeding edge bugs have been ironed out. That means fewer weird bugs that are hard to figure out, and more experts to hire.
+
+Does that mean they never change anything in their architecture?
+
+No, definitely not. All it means is that they have a well-defined process for making decisions to use new technologies.
+
+They actually use a tool to create "architecture reviews", where the proponent inputs supporting materials and the theory behind the idea. Then, a team will come up with a concept that they believe will fit in with Etsy's current environment.
+
+Let's take a look at a recent example. They've introduced Kafka for event pipelining. In order to do that, a team came up with a use case for why they should use Kafka, and how it would solve a real problem at Etsy. Then, they set up an architecture review where senior engineers and all the relevant parties gather to talk about the proposal.
+
+Is it a mature and proven-enough technology?
+
+Will it actually solve the issue, and is it the best way to solve the issue?
+
+How will the component react with our systems?
+
+Who's going to support this?
+
+Once these kinds of questions are answered, they move on to the implementing stage.
+
+Before going live, it has to go through another process called "operability review", which verifies that everything is in place. This includes setting up the proper monitoring and alerting, setting up the proper procedures for everyone on-call, and so forth. Everyone that has something to do with this implementation must be on board with the 'what, when, how'.
+
+Another important consideration is, "can we do this by building it on a tool we already have?" We'll get to that in more detail in just a moment.
+
+These are the kinds of questions they must answer before implementing a proposed technology. This kind of thorough analysis might take time, but for an established e-commerce platform, uptime is gold.
+
+"We take our uptime, reliability, and general operability of the site very seriously."
+
+Customizing
+
+We've already seen how Etsy's culture encourages stability. What we haven't discussed yet is how it encourages customizing existing tools.
+
+As we just saw, instead of implementing a new tool to solve a problem, it sometimes makes more sense to customize a tool already in-use. A prime example of this is customizing Chef. Jon Cowie has been part of some impactful Chef customizations, like Knife-spork. This customization actually came from an issue the Etsy team was trying to solve. When multiple developers contributed changes to the same Chef Server and repository at the same time, changes would get overwritten. Jon led the charge on this tool, and not only helped a large open source community, but also solved a critical and limiting issue at Etsy.
+
+This is part of what inspired Jon to write Customizing Chef. It's the book he wishes he would have had.
+
+It's also a great example of Chef's open source culture as well. Jon stressed the point that Chef isn't designed to be a "one size fits all" solution. It's designed to give people a toolkit that lets us solve our own automation problems. Chef has this idea that the users are the experts of their own systems. While it can't tell you what to do, it gives you the tools so you can make those decisions for yourself and then tell it what you want.
+
+Of course, this isn't to say that customization doesn't have its own problems. If you customize something, you have to "own it". It gets even more complicated once you decide to open source that tool or customization. In fact, Etsy had an issue with this early on after they decided to open source tools. They would open source the tool, but then engineers would pull down a version locally, edit it for the Etsy infrastructure, and then never push it back to the main repository. A lot of projects just weren't being updated.
+
+How did they fix it? By having a procedure in place. Much like with wanting to introduce a new technology in the system, if you want to open source a project at Etsy, you need to answer a few questions about the project and how it will be maintained.
+
+A lot of it is also admitting which projects just aren't going to be maintained anymore. They ended up going through various projects and making it clear that they weren't being updated anymore. That allows them to regroup and focus on the tools they really use internally.
+
+"So the process we've put into place is much more geared to making sure that we only open source things we are ourselves actively using in production."
+
+Because at the end of the day, if no one is going to maintain a tool, it's probably not going to help the community a whole lot.
+
+What about you?
+
+How different is your process and thinking? Have you learned anything from the way Etsy does it? What about from their engineering culture and open source practices?
+
+On HackerNews

@@ -1,0 +1,49 @@
+It’s time for bitcoin traders to batten down the hatches.
+
+The notoriously volatile cryptocurrency, whose 150 percent surge this year has captivated everyone from Wall Street bankers to Chinese grandmothers, could be headed for one of its most turbulent stretches yet.
+
+Blame the bitcoin civil war. After two years of largely behind-the-scenes bickering, rival factions of computer whizzes who play key roles in bitcoin’s upkeep are poised to adopt two competing software updates at the end of the month. That has raised the possibility that bitcoin will split in two, an unprecedented event that would send shockwaves through the $41 billion market.
+
+While both sides have big incentives to reach a consensus, bitcoin’s lack of a central authority has made compromise difficult. Even professional traders who’ve followed the dispute’s twists and turns aren’t sure how it will all pan out. Their advice: brace for volatility and be ready to act fast once a clear outcome emerges.
+
+QuickTake All About Bitcoin
+
+“It’s a high-stakes game of chicken,” said Arthur Hayes, a former market maker at Citigroup Inc. who now runs BitMEX, a bitcoin derivatives venue in Hong Kong. “If you’re a trader, there’s a lot of uncertainty as to what happens. Once there’s a definitive signal about what will be done, the price could move very quickly.”
+
+(Detailed summary of key dates and potential outcomes at bottom.)
+
+Behind the conflict is an ideological split about bitcoin’s rightful identity. The community has bitterly argued whether the cryptocurrency should evolve to appeal to mainstream corporations and become more attractive to traditional capital, or fortify its position as a libertarian beacon; whether it should act more as an asset like gold, or as a payment system.
+
+The seeds of the debate were planted years ago: To protect from cyber attacks, bitcoin by design caps the amount of information on its network, called the blockchain. That puts a ceiling on how many transactions it can process -- the so-called block size limit -- just as the currency’s growing popularity is boosting activity. As a result, transaction times and processing fees have soared to record levels this year, curtailing bitcoin’s ability to process payments with the same efficiency as services like Visa Inc.
+
+To address this problem, two main schools of thought emerged. On one side are miners, who deploy costly computers to verify transactions and act as the backbone of the blockchain. They’re proposing a straightforward increase to the block size limit.
+
+On the other is Core, a group of developers instrumental in upholding bitcoin’s bug-proof software. They insist that to ease blockchain’s traffic jam, some of its data must be managed outside the main network. They claim that not only would it reduce congestion, but also allow other projects including smart contracts to be built on top of bitcoin.
+
+But moving data off the blockchain effectively diminishes the influence of miners, the majority of whom are based in China and who have invested millions on giant server farms. Not surprisingly, Core’s proposal, called SegWit, has garnered resistance from miners, the most vocal being Wu Jihan, co-founder of the world’s largest mining organization Antpool.
+
+“SegWit is itself a great technology, but the reason it hasn’t taken off is because its interest doesn’t align with miners,” Wu said.
+
+Still, after previous counter-proposals championed by Wu fell through, miners last month agreed to compromise and support SegWit, in exchange for increasing the block size. Wu says the plan will alleviate short-to-medium term congestion and give Core enough time to flesh out a long-term solution. That proposal is what is known as SegWit2x, which implements SegWit and doubles the block size limit.
+
+“You can think of the SegWit2x proposal as an olive branch,” said Wu.
+
+Support for SegWit2x has reached levels unseen for previous solutions. About 85 percent of miners have signaled they are willing to run the software once it’s released on July 21, and some of bitcoin’s largest companies have also jumped on board.
+
+The unprecedented level of endorsement is partly prompted by anxiety of bitcoin losing its dominant status to ethereum, a newer cryptocurrency whose popularity has soared thanks to its ability to run smart contracts and its more corporate-friendly approach.
+
+Still, hardliners say that after more than two years of bitter arguments, a split would let people part ways to explore different visions, even if prices crash.
+
+Bitcoin dropped for a fourth day on Tuesday, declining 1.9 percent as of 7:49 a.m. in New York, to its lowest level since June 15. The cryptocurrency is down 22 percent from a record high in early June.
+
+Some of Core supporters are pushing a separate agenda called UASF (user activated soft fork). Starting from Aug. 1, it will reject transactions not compliant with SegWit. If a majority of miners do not adopt SegWit by then, two versions of bitcoin would come into existence, triggering a currency split.
+
+“It’s moderates versus extremists,” said Atlanta-based Stephen Pair, chief executive officer of BitPay, one of the world’s largest bitcoin wallets. “It depends on how much a person values the majority of people staying on one chain at least for a little while longer, versus splitting and allowing each pursuing their own vision for scaling.”
+
+Many Core developers continue to reject SegWit2x because they see its development and implementation as being too rushed, which they say could undermine the software underpinning bitcoin.
+
+“To suggest a hard fork happen significantly faster than even the most minor of changes in recent history is irresponsible and dangerous,” said Matt Corallo, a Core contributor and former co-founder of Blockstream, which is among companies that stand to benefit from SegWit.
+
+Below is an outline of the main events that could unify or divide bitcoin:
+
+Watch This Next

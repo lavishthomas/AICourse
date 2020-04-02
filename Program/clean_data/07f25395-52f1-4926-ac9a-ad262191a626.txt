@@ -1,0 +1,119 @@
+What happens when you take two of the top online platforms in the industry and allow them to play together nicely?
+
+On our right, we have Salesforce. Salesforce proudly positions itself as the number one customer relationship management platform and does a stellar job of following the path a lead takes in becoming a customer and a repeat customer.
+
+On our left, we have Google Analytics, one of the best web analytics services out there. It does a great job of providing an accurate image of what is happening on your website from the moment an anonymous user arrives to the moment that user converts.
+
+Imagine what would happen if those two platforms could work together. You’d get a clear image of the full end-to-end process, from the moment a person gets to your website to the moment that person decides to pay for your products or services, both the first time and as a repeat customer.
+
+Sounds easy, right? There’s just one big challenge – people!
+
+User behavior is a complex beast. Sitting around a board room table with your sales and marketing teams, it’s easy to imagine it to be a linear thing. But, the reality is that it is closer to being something like this:
+
+Today, we bring you three neat hacks that will make it much easier to analyze the end-to-end process using Google Analytics and Salesforce.
+
+Hack #1: How to Log the Details of All the Traffic Sources and Engagement Levels for a Specific User
+
+Google Analytics has a great feature called multi-channel funnels that, along with the attribution modeling tool, allows us to define models we can use to identify the impact of marketing efforts on converting visitors.
+
+Most people visit your website more than once before becoming customers so they almost certainly interact with different marketing channels. Here’s how to identify how many of your visitors go through more than one channel before buying:
+
+Log in to your Google Analytics account. Go to:
+
+Conversions > Multi-Channel Funnels > Overview:
+
+The image above shows how different marketing channels intersect to assist conversions. In the above case, 18.47% of the users went through three different marketing channels before converting.
+
+To see how many conversions are helped by different marketing channels, go to:
+
+Conversions > Multi-Channel Funnels > Assisted Conversions.
+
+This information is brilliant for viewing the broader strokes of your marketing picture. But, wouldn’t it be great if you could get similar data for individual users, the ones who became leads or customers, directly in Salesforce?
+
+Here’s how you can get that information:
+
+Install GetSetReff
+
+Install the GetSetReff script on your website or inside Google Tag Manager. GetSetReff replicates the way Google Analytics defines traffic sources and visits, and allows you to access that data in a raw format.
+
+The script will save a cookie in the user browser that will store all the traffic sources that specific user goes through, plus engagement metrics like time spent on website and number of viewed pages per traffic source.
+
+The moment a user becomes a lead and you save that user’s details inside Salesforce, save the content of the cookie along with any other data you capture.
+
+The cookie looks like this:
+
+Once inside, you can identify all the paid channels a user went through before converting so you can estimate how much that user cost you and use that data for lead scoring.
+
+But, what if you don’t like 3rd party scripts?
+
+If you’d prefer not to use external scripts to access user referrers, Carmen Mardiros, a great Google Analytics hacker, suggests the following alternative:
+
+Each time a user visits the website and a new sessions starts (or even on every page view), save the ID of that user in a custom dimension inside Google Analytics.
+
+When the user converts or becomes a lead, save that exact ID inside Salesforce.
+
+This method allows you to do more advanced segmenting in Google Analytics for each ID that converted, but it is prone to sampling of data so it might make the analyses less accurate at this level.
+
+Hack #2: How to Track a User, Even If He Deletes His Cookies or Moves to a New Device
+
+The user loved your website and has gone from brand new visitor to converted lead. Your sales team can now take over and, based on the data collected in Salesforce, sell to the user, either through automated marketing or direct contact.
+
+This newly converted user will definitely go back to your website, and it would be a shame if Google Analytics considered that user to be a brand new visitor just because he is using a different device.
+
+We want to help Salesforce tell Google Analytics that the user is a repeat visitor, not a new one. This is especially useful when combined with tools like Marketo for automated marketing.
+
+Here is how you do that:
+
+When the user converts, make sure you pass the Google Analytics ID for that user to Salesforce. This is the code your developers can use to obtain that ID and save it in Salesforce along with the other details of the user: ga(function(tracker) {
+
+var clientId = tracker.get(‘clientId’);
+
+});
+
+Whenever an email is sent to the user as part of automated marketing or direct contact, make sure all the links back toward your website contain that user ID so it can be made available to Google Analytics. If your link to your website looks like this: https://www.mywebsite.com/landing-page, it should become this: https://www.mywebsite.com/landing-page?gaid=XXXXXX, where XXXXXX is to be replaced with the user ID.
+
+If you use Google Tag Manager to tag your website with Google Analytics, here is what the setup should look like:
+
+
+
+(a) Save the Client ID in a Google Tag Manager Variable: (b) Rewrite the Client ID in the Google Analytics request
+
+If you don’t use Google Tag Manager and you have the Google Analytics script directly on your website, here is how to use it:
+
+var clientId = (document.location.search.indexOf(“gaid=”) != -1) ? document.location.search.split(“gaid=”)[1].split(“&”)[0] | “”;
+
+ga(‘create’, ‘UA-XXXX-Y’, { ‘clientId’: clientId });
+
+Hack #3: How to Tag Converted Users in Google Analytics So You Can Also Provide Statistics about Different Segments
+
+For our final hack, we’re going to learn how to tag converted users in Google Analytics so you can also provide statistics about different segments of people that converted (e.g., Gold vs. Silver users).
+
+One of the greatest benefits of Salesforce is that it can be used to score leads, especially when automated marketing tools like Marketo are used.
+
+Wouldn’t it be great if you could get that score data inside your Google Analytics account so you could analyze how segments of users of a specific score behave, and then determine if there is anything you can do to optimize their experience? Well, now you can.
+
+To implement this final hack, we need to make it possible for Google Analytics to gain access to that score, store it in a custom dimension, and then use it in segmentation, or even better, in remarketing.
+
+The easiest way to do that is to make sure all the links in your marketing efforts are tagged with parameters that can be traced to the score of each user or lead.
+
+So, to continue our earlier example, a link in your emails would look like this:
+
+https://www.mywebsite.com/landing-page?gaid=XXXXXX&ls=Y, where XXXXXX is to be replaced with the Google Analytics user ID, and Y is to be replaced with the score of the user.
+
+The following Google Tag Manager setup would allow you to track the lead score in a custom dimension:
+
+Create a variable that reads the lead score:
+
+Send the lead score in a custom dimension in Google Analytics (we use custom dimension 5 in our example):
+
+Set up a remarketing list for different lead scores:
+
+Now, you can create a remarketing list inside Google Analytics to allow for specific advertising to target leads with different scores.
+
+Conclusion
+
+As you can see, the benefits of integrating Google Analytics and Salesforce are tremendous, for both your sales and marketing teams. The trick is to take it one hack at a time.
+
+And, now, it’s your turn. Have you used any of these hacks before, and if not, which one will you try first today?
+
+About the Author: Claudiu Murariu is the author of The Experiment, a monthly digest for marketers who love to learn by experimentation. He writes frequently for the InnerTrends blog. You can follow him on Twitter @cllaudiu.

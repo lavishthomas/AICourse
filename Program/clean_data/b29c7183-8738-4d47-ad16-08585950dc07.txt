@@ -1,0 +1,71 @@
+Advertisement
+
+Many of us have never even touched a soldering iron – but making things can feel incredibly rewarding. There are some key skills you need when tackling electronics projects – whether you plan on fixing broken devices or assembling Arduinos (our Arduino guide Getting Started With Arduino: A Beginner's Guide Getting Started With Arduino: A Beginner's Guide Arduino is an open-source electronics prototyping platform based on flexible, easy-to use hardware and software. It's intended for artists, designers, hobbyists, and anyone interested in creating interactive objects or environments. Read More ), the right skills make the difference between rage and elation. Here’s a quick run-down of ten of the most basic DIY electronics skills to help you get started:
+
+Breadboarding
+
+A breadboard allows the construction of a circuit, but without soldering. Why? Because you won’t want to assemble using solder if any individual part is defective or if you’ve misunderstood the diagram. It also can instruct beginning students of electronics and circuit pathways the various components that go into many devices.
+
+A breadboard allows the input of a DC current using the channels in the left and right sides of the board. Current on these channels conducts vertically. The rows on the inside of the breadboard allow current to follow horizontally. Here’s what the back of a breadboard looks like – remember that each length of metal functions as a wire:
+
+I reviewed several YouTube tutorials, which covered basic breadboarding – and this is the best:
+
+Soldering
+
+Soldering irons run the gamut from expensive to cheap – I recommend this iron. Although you can prototype circuits on a breadboard, you will need some soldering skills to do much else.
+
+Advertisement
+
+One particular method from this tutorial that I don’t recommend: Flicking solder. Flicking solder throws liquid metal and could prove dangerous. I recommend that users instead use a metal pad and rub the heated soldering iron over it to remove solder. There will remain impurities on the tip of the soldering iron, but for basic work, it’s not a big deal.
+
+Here’s a clip of using a metal “Brillo” pad (it’s not really a Brillo pad) to clean your soldering iron’s tip:
+
+Using a Multimeter
+
+Multimeters perform a number of tasks. The most common use is to measure current, resistance, and voltage. They’re also relatively inexpensive: A cheap one costs around $6 – the better regarded models cost upwards of $20. Professional models cost hundreds of dollars.
+
+Remember, multimeters can actually damage – or be damaged – by the electronics that you’re working on. Watch at least one tutorial, if you’ve never used a multimeter before. There’s quite a few clips on YouTube. I selected one that’s relatively comprehensive, being broken up into a four part series. It covers safety and diagnostics in a sensible and clear manner.
+
+Testing Batteries
+
+Multimeters can do a lot of practical things, as well as troubleshoot circuit boards. For example, you can also test batteries:
+
+Drilling Holes in Project Boxes
+
+You’ll find yourself needing to drill holes in project boxes at some point. A project box keeps all your wires in one spot – they offer convenience, ease of assembly and the ability to hold circuit boards.
+
+I won’t go into too much detail here – just keep in mind that multiple methods exist for drilling holes in plastic. I recommend using a variable speed rotary drill (colloquially referred to as a “Dremel”, which is in fact a brand name). Dremels offer a number of different bits for different tasks. While other methods work, they do so with more labor and less accuracy.
+
+Using Hot Glue Guns
+
+Hot glue guns don’t cost much. I found one for ~$6 on Amazon and it includes several glue sticks. While you can use any kind of non-conductive adhesive (insulator) to anchor the various components in place, hot glue guns offer a good mixture of convenience, low-cost and ease-of-use.
+
+The glue used in hot glue guns is actually a plastic — not really a glue. Plastic acts as an insulator, meaning it won’t cause a short circuit. This property makes it an ideal adhesive for working with electronics. There’s no chance of inducing a short.
+
+Using Liquid Electrical Tape
+
+Exposed wires and solder-points can create shorts. Applying electrical tape or heat shrink tape in tight enclosures sometimes won’t fit. Liquid electrical tape fixes both problems. While it costs more than regular electrical tape, it offers ease-of-use, plus some additional features, such as water-proofing, insulating and increasing the durability of soldered joints.
+
+Electronics Safety
+
+There’s a lot of dangers to keep in mind when working with electronics. Capacitors can kill you (never disassemble a power supply How to Make a Bench Power Supply From An Old ATX PSU How to Make a Bench Power Supply From An Old ATX PSU If you have an old computer ATX PSU lying around, you can give it new life as a bench power supply. Here's how. Read More as James Bruce has, bad James!), electrostatic discharge can ruin sensitive electronics and always power off your devices before working on them.
+
+Here’s a clip on electrostatic discharge:
+
+Cleaning a Circuit Board or Solder Joint
+
+Here’s a great way to clean up the organic residue from soldering or if you just want to clean a printed circuit board (PCB):
+
+Wire Stripping
+
+I prefer thicker, unbraided wires for use with a wire stripper. I don’t recommend using the cheaper ones (adjustable strippers) that come with technician kits – they tend to cut right through braided wires. The best are the automatic wire strippers (or heated automatic wire strippers), but these tend to cost quite a bit. Gauged wire strippers offer the best midground between price and performance.
+
+Here’s a tutorial that covers multiple wire-stripping strategies:
+
+Using a Solder Sucker
+
+Solder suckers can pull melted solder off a mainboard, without much effort. There are different kinds of solder suckers out there, but the most cost-effective solution is the pump-style sucker. Here’s a video of the solder-sucker in action:
+
+Do You Have Any Electronics Tips?
+
+With these skills, you’re ready to tackle some beginner’s electronics projects and get started making things! Are there any skills you would add to the list?

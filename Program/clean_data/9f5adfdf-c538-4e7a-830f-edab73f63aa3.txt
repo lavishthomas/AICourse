@@ -1,0 +1,115 @@
+With the introduction of the new Mac Pro, Apple sent a clear message that it’s abandoning internal storage expansion in the Macintosh product line. If you need more storage for your Mac, you’re going to need some kind of external storage device, whether it connects via USB, FireWire, or Thunderbolt.
+
+
+
+
+
+(Image courtesy of Roman Loyola. See “How Many Devices Can You Attach to a Mac Pro?,” 24 April 2014.)
+
+And with the prevalence of fast but low capacity solid-state storage, you are going to need more room for data, and that means one or more external hard drives. Historically, external drives have been used more for backup than anything else, but when you’re relying on external storage as the primary location of important data, it’s essential that you take steps to protect that data.
+
+Test Them First! -- I recently wasted an entire weekend trying to copy data to a new external drive, only to run into troubles later. The encrypted partition wouldn’t accept my password, or if it did, the Finder would prompt me to initialize the disk. In the worst cases, it would cause the Finder to freak out, forcing me to unplug the drive and reboot.
+
+At first, I thought that it was because I was trying to do something fancy: share an encrypted volume over the network for my wife’s Time Machine backups. But after running the drive test included in WD Drive Utilities for Mac, I learned that no, the drive was just bad out of the box, and I’m having it replaced.
+
+
+
+
+
+So, before you start copying your collection of HD movies over to your new 4 TB hard drive, run a thorough diagnostic test first to ensure that the disk doesn’t have excessive bad sectors or other problems. There are a number of utilities that do this, most priced at around $100, but the big-name drive vendors sometimes offer a free drive utility, often including it on the drive itself. There’s the aforementioned WD Drive Utilities for Mac for Western Digital drives, and Seagate offers Seagate Dashboard for Seagate Backup Plus, Seagate Slim, and Seagate Central drives. Check with your drive’s manufacturer to see if it offers a similar tool.
+
+You might be asking, “Doesn’t Disk Utility do that?” Sort of. If you select the drive in Disk Utility, click Erase, click Security Options, and then move the slider at least one step to the right, Disk Utility will write zeros over the entire disk. Should one of those writes fail due to a bad sector, Disk Utility will map out that sector so it won’t be used. The same remapping should happen in regular use, but by doing it at the beginning, you can identify a drive that fails too many sectors. It is slow, and erases any data that happens to be on the disk, but it’s a good way to ensure that the drive is starting with a clean bill of health.
+
+
+
+
+
+(The Verify Disk and Repair Disk options in Disk Utility’s First Aid view are useful, but not in this situation because they examine only the drive’s file system, and don’t exercise the physical surface of the disk in the same way. Use Verify Disk if you’re worried about filesystem corruption on your boot drive, and if you’re testing an external drive, click straight over to Repair Disk, since it does the same check, but fixes errors as it goes, saving you time.)
+
+Back Them Up! -- Many people don’t back up their external drives, but, assuming you’re storing important data there, you simply must back it up. External drives fail more often as internal ones. Unfortunately, that means buying even more external storage, which isn’t cheap, but do you want to risk losing your precious photos, videos, documents, and music?
+
+There are a few ways to back up one external disk to another. You could manually copy the contents of one to another in the Finder, but that’s crude, and like all manual backup schemes, guaranteed to fail eventually.
+
+Apple’s Time Machine supports backing up external disks, but excludes them by default. To make Time Machine back up an external disk, choose Open Time Machine Preferences from the Time Machine menu, click Options, select the disk you would like to include in Time Machine, click the minus button, and click Save.
+
+
+
+
+
+Alas, Time Machine combines your boot drive and external disk backups on the same volume. Imagine that you are backing up a 500 GB boot drive and 3 TB of media on an external drive to another 4 TB external drive, and later add on another 3 TB drive. As soon as you copy a significant amount of data to the new drive, you’d undoubtedly fill up the 4 TB Time Machine drive. Without moving to a RAID array or Drobo, you can’t even buy a drive that’s large enough for such a situation; so we recommend avoiding Time Machine for backing up external drives.
+
+For more granular control, we prefer utilities like the $27.95 SuperDuper and the $39.95 Carbon Copy Cloner (CCC). These tools make exact duplicates of a disk, and can be set to run automatically. I personally use Carbon Copy Cloner, set to “Temporarily archive modified and deleted items,” which moves items on the duplicate drive that have been deleted or modified on the primary drive to a special _CCC Archives folder, until they take up too much space or are too old. By default CCC starts deleting old archives when there is 15 GB of space free on the drive, but you can modify this in settings. That way, if I accidentally delete a file from my main storage drive, Carbon Copy Cloner doesn’t delete it immediately on the backup, so I can recover it later.
+
+
+
+
+
+Also consider backing up your external storage with a cloud backup service like CrashPlan or Backblaze. That way, if your drives are stolen or are lost in a disaster, your data will still be recoverable. As a bonus, both services offer iOS apps that let you access your files on the go. If you want to back up massive amounts of data, CrashPlan offers a $124.99 Seeded Backup service, and a $164.99 Restore-to-Door service, both of which let you sidestep slow Internet transfers by shipping a hard drive.
+
+For more detailed information on all these backup technologies, read Joe Kissell’s comprehensive “Take Control of Backing Up Your Mac.”
+
+Hide Them! -- You probably don’t want every disk mounted at all times. The duplicate of your boot drive, for instance, doesn’t need to be mounted until you need it (and Carbon Copy Cloner and SuperDuper can mount and unmount drives automatically).
+
+If you have another drive you don’t want on your desktop at all times, the solution is to unmount it, which removes it from sight, but lets you remount it later. The standard way to do this is by selecting it in the Finder and clicking the eject button or pressing Command-E (or drag it to the Trash in the Dock, or Control-click it and choose Eject — you get the idea). To remount it without messing around with hardware, select it in Disk Utility and click the Mount button in the toolbar.
+
+A better solution is the $1.99 Mountain utility, which lives in your menu bar, letting you mount and unmount drives with the click of a button. You can also mount and unmount all volumes with a keyboard shortcut.
+
+
+
+
+
+Unfortunately, Mountain’s developer, Appgineers, got caught in Apple’s changed sandboxing requirements for Mac App Store apps, making it impossible for the company to update the app in the Mac App Store. To get a current version, purchase Mountain from the Mac App Store, open it once, close it, download the trial version from the Appgineers Web site, and copy that to your /Applications/ folder, overwriting the Mac App Store version.
+
+That’s my only beef with an otherwise fantastic and cheap utility. As a bonus, it also tells you which apps are preventing you from unmounting a disk. It’s essential functionality that Apple should roll into Mac OS X.
+
+If you want to automate mounting and unmounting, try the $36 Keyboard Maestro, since it can execute Unix shell scripts. Don’t worry — these are easy. To make a macro that unmounts a particular drive, perhaps at login, use the Execute Shell Script action to run this text script:
+
+diskutil unmount “/Volumes/driveName”
+
+And if you want to mount a particular drive with a keystroke-driven macro, use this script:
+
+diskutil mount driveName
+
+Speed Them Up! -- Are your external volumes slow, do they keep making noise even when not in use, or do they stubbornly refuse to unmount? One common cause is Spotlight indexing. You’ll probably want to let Spotlight index a storage drive that contains useful documents, but there’s no reason to index backup drives.
+
+To prevent Spotlight from indexing a backup drive, open the Spotlight pane of System Preferences, and, in the Privacy view, either drag the volume in from the Finder or click the plus button and select it.
+
+
+
+
+
+This should make your drives more responsive, avoid wasting CPU cycles unnecessarily, and make your office a bit quieter.
+
+Encrypt Them! -- One of the best features of Mac OS X is full disk encryption, called FileVault 2, and I keep all of my disks encrypted. If thieves steal my drives, I don’t want them to be able to access my photos and financial information. Apple introduced FileVault 2 with OS X 10.7 Lion, and with 10.8 Mountain Lion, moved the encryption commands into the Finder’s contextual menu. The only downsides to FileVault 2, apart from the requirement that you remember the login password that’s used to decrypt the data, are a very slight performance degradation and more difficult drive recovery (but you have a backup, right?).
+
+To encrypt a drive, Control-click it in the Finder and choose Encrypt driveName. You can continue to use it normally once encrypted — but the data is protected if a bad guy were to get his hands on the drive. If you decide you want to decrypt the entire drive later, Control-click it and choose Decrypt driveName.
+
+Both processes can take a long, long time, so it’s best to encrypt a disk before you have any data on it. It may be faster to move your data to another volume first, erase and encrypt the original volume, and then move the data back. Make sure you have a backup first!
+
+Keep Them Cool! -- A lot of external drives don’t come with fans, which makes them quiet, but which also means that they run hot. Most drives are rated for up to 50 or even 60 degrees Celsius, but it’s worth putting a little effort into making sure there’s good airflow around the drive cases to aid in cooling. Drives won’t wilt at high temperatures, but the likelihood of failure goes up, particularly with older drives, and other components in the drive are also more likely to fail.
+
+Keep Them Powered! -- Do you ever sit down in the morning and see the nasty “Disk Not Ejected Properly” error? Assuming gremlins didn’t unplug your external drive in the middle of the night, that means that, for some reason, the drive lost power or its connection, either of which could lead to disk corruption. There are two ways to address this: one in software and one in hardware.
+
+
+
+
+
+First, make sure that Mac OS X isn’t putting your drives to sleep. Open the Energy Saver preference pane and deselect “Put hard disks to sleep when possible.” For reasons I don’t entirely understand, putting the disks to sleep automatically sometimes causes them to power off completely or lose their connection. Disabling this setting also eliminates the annoying wait as a drive spins up.
+
+
+
+
+
+Next, if your external drives are powered by a wall outlet, you should invest in an uninterruptible power supply (UPS), which is essentially a surge protector with a big battery inside. With the UPS providing power in the event of a power failure, your drives will stay powered up until you turn them off gracefully, or at least as long as the UPS battery lasts. You can purchase a UPS from Amazon (like the low-end APC Back-UPS BE350G) for as little as $40 that’s likely sufficient for a laptop and an external drive, but if you have a desktop Mac, you’ll want a UPS with a larger battery (like the APC Back-UPS BE750G, which is about $83 at Amazon) that can protect your entire system.
+
+Return Them! -- Drives die, and with the industry succumbing to the market’s desire for bigger, cheaper drives, they die all too often. But what many people don’t realize is that drives often come with full replacement warranties. If you’re buying a drive in a case, such as from Other World Computing or Granite Digital, you’ll want to contact that company first, but if you’re buying a bare drive and installing it yourself, or if the case vendor won’t help, check out the mechanism’s warranty.
+
+TidBITS staffers have returned numerous dead drives over the years, and it’s generally an easy process. You simply fill out an online RMA form (which tells you if your drive is covered or not), ship your drive back, and wait for the new one to arrive. You’ll usually pay shipping costs to return the dead unit, and you’ll get a replacement that’s identical in capacity.
+
+The only remaining hard drive manufacturers are Seagate, Toshiba, and Western Digital (the links go to their warranty systems), so if you have an older drive from another brand that might still be under warranty, check the full list of defunct hard drive manufacturers to see which of today’s three you might talk to about warranty replacement.
+
+The Wisdom of External Storage -- After I moved back to the Mac from the DIY PC world, I was frustrated by the limited amount of storage available in Apple’s computers. In my old tower, I could slot in as many high-capacity drives as I needed.
+
+But when my MacBook Pro recently developed an audio problem that requires a logic board replacement, it dawned on me how useful it is to have my data stored outside my computer. Instead of being without my data for a few days, I can borrow my wife’s MacBook Pro, plug in my USB hub, restart with my bootable duplicate, and get back to work like normal — albeit a touch slower.
+
+My only lament is that Apple was slow to replace the poky USB 2.0 with the faster USB 3.0 standard, and the Thunderbolt peripherals we really want remain unaffordable for the average user. But my hub and drives all support USB 3.0, as do all of Apple’s current Macs, so when I eventually upgrade I’m due for a major speed boost. And when I do sit that new Mac down on my desk, all my data will be waiting for me, one plug away.

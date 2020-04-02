@@ -1,0 +1,46 @@
+Introduction to Accounting Principles
+
+There are general rules and concepts that govern the field of accounting. These general rules–referred to as basic accounting principles and guidelines–form the groundwork on which more detailed, complicated, and legalistic accounting rules are based. For example, the Financial Accounting Standards Board (FASB) uses the basic accounting principles and guidelines as a basis for their own detailed and comprehensive set of accounting rules and standards.
+
+The phrase "generally accepted accounting principles" (or "GAAP") consists of three important sets of rules: (1) the basic accounting principles and guidelines, (2) the detailed rules and standards issued by FASB and its predecessor the Accounting Principles Board (APB), and (3) the generally accepted industry practices.
+
+If a company distributes its financial statements to the public, it is required to follow generally accepted accounting principles in the preparation of those statements. Further, if a company's stock is publicly traded, federal law requires the company's financial statements be audited by independent public accountants. Both the company's management and the independent accountants must certify that the financial statements and the related notes to the financial statements have been prepared in accordance with GAAP.
+
+GAAP is exceedingly useful because it attempts to standardize and regulate accounting definitions, assumptions, and methods. Because of generally accepted accounting principles we are able to assume that there is consistency from year to year in the methods used to prepare a company's financial statements. And although variations may exist, we can make reasonably confident conclusions when comparing one company to another, or comparing one company's financial statistics to the statistics for its industry. Over the years the generally accepted accounting principles have become more complex because financial transactions have become more complex.
+
+Basic Accounting Principles and Guidelines
+
+Since GAAP is founded on the basic accounting principles and guidelines, we can better understand GAAP if we understand those accounting principles. The following is a list of the ten main accounting principles and guidelines together with a highly condensed explanation of each.
+
+The accountant keeps all of the business transactions of a sole proprietorship separate from the business owner's personal transactions. For legal purposes, a sole proprietorship and its owner are considered to be one entity, but for accounting purposes they are considered to be two separate entities.
+
+Economic activity is measured in U.S. dollars, and only transactions that can be expressed in U.S. dollars are recorded.
+
+Because of this basic accounting principle, it is assumed that the dollar's purchasing power has not changed over time. As a result accountants ignore the effect of inflation on recorded amounts. For example, dollars from a 1960 transaction are combined (or shown) with dollars from a 2016 transaction.
+
+This accounting principle assumes that it is possible to report the complex and ongoing activities of a business in relatively short, distinct time intervals such as the five months ended May 31, 2016, or the 5 weeks ended May 1, 2016. The shorter the time interval, the more likely the need for the accountant to estimate amounts relevant to that period. For example, the property tax bill is received on December 15 of each year. On the income statement for the year ended December 31, 2015, the amount is known; but for the income statement for the three months ended March 31, 2016, the amount was not known and an estimate had to be used.
+
+It is imperative that the time interval (or period of time) be shown in the heading of each income statement, statement of stockholders' equity, and statement of cash flows. Labeling one of these financial statements with "December 31" is not good enough–the reader needs to know if the statement covers the one week ended December 31, 2016 the month ended December 31, 2016 the three months ended December 31, 2016 or the year ended December 31, 2016.
+
+From an accountant's point of view, the term "cost" refers to the amount spent (cash or the cash equivalent) when an item was originally obtained, whether that purchase happened last year or thirty years ago. For this reason, the amounts shown on financial statements are referred to as historical cost amounts.
+
+Because of this accounting principle asset amounts are not adjusted upward for inflation. In fact, as a general rule, asset amounts are not adjusted to reflect any type of increase in value. Hence, an asset amount does not reflect the amount of money a company would receive if it were to sell the asset at today's market value. (An exception is certain investments in stocks and bonds that are actively traded on a stock exchange.) If you want to know the current value of a company's long-term assets, you will not get this information from a company's financial statements–you need to look elsewhere, perhaps to a third-party appraiser.
+
+If certain information is important to an investor or lender using the financial statements, that information should be disclosed within the statement or in the notes to the statement. It is because of this basic accounting principle that numerous pages of "footnotes" are often attached to financial statements.
+
+As an example, let's say a company is named in a lawsuit that demands a significant amount of money. When the financial statements are prepared it is not clear whether the company will be able to defend itself or whether it might lose the lawsuit. As a result of these conditions and because of the full disclosure principle the lawsuit will be described in the notes to the financial statements.
+
+A company usually lists its significant accounting policies as the first note to its financial statements.
+
+This accounting principle assumes that a company will continue to exist long enough to carry out its objectives and commitments and will not liquidate in the foreseeable future. If the company's financial situation is such that the accountant believes the company will not be able to continue on, the accountant is required to disclose this assessment.
+
+The going concern principle allows the company to defer some of its prepaid expenses until future accounting periods.
+
+This accounting principle requires companies to use the accrual basis of accounting. The matching principle requires that expenses be matched with revenues. For example, sales commissions expense should be reported in the period when the sales were made (and not reported in the period when the commissions were paid). Wages to employees are reported as an expense in the week when the employees worked and not in the week when the employees are paid. If a company agrees to give its employees 1% of its 2016 revenues as a bonus on January 15, 2017, the company should report the bonus as an expense in 2016 and the amount unpaid at December 31, 2016 as a liability. (The expense is occurring as the sales are occurring.)
+
+Because we cannot measure the future economic benefit of things such as advertisements (and thereby we cannot match the ad expense with related future revenues), the accountant charges the ad amount to expense in the period that the ad is run.
+
+(To learn more about adjusting entries go to Explanation of Adjusting Entries and Quiz for Adjusting Entries.)
+
+Under the accrual basis of accounting (as opposed to the cash basis of accounting), revenues are recognized as soon as a product has been sold or a service has been performed, regardless of when the money is actually received. Under this basic accounting principle, a company could earn and report $20,000 of revenue in its first month of operation but receive $0 in actual cash in that month. For example, if ABC Consulting completes its service at an agreed price of $1,000, ABC should recognize $1,000 of revenue as soon as its work is done—it does not matter whether the client pays the $1,000 immediately or in 30 days. Do not confuse revenue with a cash receipt. 9. Materiality
+

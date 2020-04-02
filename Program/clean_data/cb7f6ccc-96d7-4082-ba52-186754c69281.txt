@@ -1,0 +1,41 @@
+The term "Big Data" has launched a veritable industry of processes, personnel and technology to support what appears to be an exploding new field. Giant companies like Amazon and Wal-Mart as well as bodies such as the U.S. government and NASA are using Big Data to meet their business and/or strategic objectives. Big Data can also play a role for small or medium-sized companies and organizations that recognize the possibilities (which can be incredibly diverse) to capitalize upon the gains.
+
+What is Big Data - really?
+
+There's nothing new about the notion of big data, which has been around since at least 2001. In a nutshell, Big Data is your data. It's the information owned by your company, obtained and processed through new techniques to produce value in the best way possible.
+
+Ask any Big Data expert to define the subject and they'll quite likely start talking about "The three V's" - "volume, velocity and variety," concepts originally coined by Doug Laney in 2001 (PDF) to refer to the challenge of data management. In short, it's a lot of data produced very quickly in many different forms. This could involve customer transactional histories, production databases, web traffic logs, online videos, social media interactions, and so forth.
+
+An August, 2013 blog post by Mark van Rijmenam titled "Why The 3V's Are Not Sufficient To Describe Big Data," added "veracity, variability, visualization, and value" to the definition, broadening the realm even further. Rijmenam stated "90% of all data ever created, was created in the past two years. From now on, the amount of data in the world will double every two years."
+
+What's unique about Big Data?
+
+Companies have sought for decades to make the best use of information to improve their business capabilities. However, it's the structure (or lack thereof) and size of Big Data that makes it so unique. Big Data is also special because it represents both significant information - which can open new doors - and the way this information is analyzed to help open those doors. The analysis goes hand-in-hand with the information, so in this sense "Big Data" represents a noun - "the data" - and a verb - "combing the data to find value."
+
+The days of keeping company data in Microsoft Office documents on carefully organized file shares are behind us, much like the bygone era of sailing across the ocean in tiny ships. That 50 gigabyte file share in 2002 looks quite tiny compared to a modern-day 50 terabyte marketing database containing customer preferences and habits. How can we possibly comb through all that material to spot trends suggesting which way consumer tastes are headed or what climate changes are occurring? That's where the interpretive process comes in.
+
+How can we make sense of Big Data?
+
+Interpretation of Big Data can bring about insights which might not be immediately visible or which would be impossible to find using traditional methods. This process focuses on finding hidden threads, trends, or patterns which may be invisible to the naked eye. Sounds easy, right? Well, it requires new technologies and skills to analyze the flow of material and draw conclusions.
+
+Apache Hadoop is one such technology, and it is generally the software most commonly associated with Big Data. Apache calls it "a framework that allows for the distributed processing of large data sets across clusters of computers using simple programming models." Just as Big Data can be both a noun and a verb, Hadoop involves something that is and something that does - specifically, data storage and data processing. Both of these occur in a distributed fashion to improve efficiency and results. A set of tasks known as MapReduce coordinates the processing of data in different segments of the cluster then breaks down the results to more manageable chunks which are summarized.
+
+Hadoop is open-source and there are variants produced by many different vendors such as Cloudera, Hortonworks, MapR and Amazon. There also other products such HPCC and cloud-based services such as Google BigQuery.
+
+Skills are brought to the table by Big Data scientists who obtain business value from a plethora of information by analyzing it for meaning and trends. This requires mathematical and statistical expertise as well as creative, communicative, problem-solving, and business skills, making it a very complex but incredibly valuable role. New fields have developed to train for this expanding career path, and there is a wealth of advice for those aspiring to enter the Big Data industry - which is expected to see a 500 percent job increase from January 2012 to January 2014, according to Indeed.com.
+
+What's an example of how Big Data has come in handy?
+
+In the fall of 2012, the Wall Street journal ran an article describing how Netflix used Big Data to build out their streaming video service. They were able to analyze traffic details for various devices, spot problem areas and add network throughput to help prepare for future demand. Netflix was also able to get more insight into the type of content customers preferred, which enabled them to make more accurate suggestions as to what subscribers might like.
+
+Why is Big Data so hot right now?
+
+The pot of information (both private and public) generated by humanity has come to a recent boil. We're generating more content than ever before, but in many cases it leads to more questions and fewer answers. What is happening in the atmosphere? Which candidate do voters prefer? Which movies, books, and TV shows are going to satiate the public's appetite? Which trends are coming down the road?
+
+Making sense of all this content is like trying to hear what someone is whispering backstage while you're attending a booming outdoor concert. A deep need exists for the structure to parse the data to separate out the cacophony and find the useful threads to uncover opportunities. Even more potential has opened for those who can orchestrate this feat.
+
+Parry Malm of Econsultancy.com stated in an article titled "Three reasons why Big Data is awesome" that the benefits include finding "competitive advantages," getting "data on the board's agenda" and driving "innovative products and startups." It's clear that this is one of the best examples as of late as to how technology can drive the business, and vice versa.
+
+Summarizing it all
+
+There have been a few "flash in the pan" products and technologies over the years, which started bright then burned out. WebTV, Micro Channel Architecture, and the OS/2 operating system are just a few examples. In each case it might be argued these products foundered because there was no clear perception by the public of the need or purpose for these products. In the case of Big Data, there is strong perception of the need for data analysis as well as the benefits it can bring and the methods to achieve success. It's not a trend so much as a permanent fixture in the organization which will have measurable long-term impact upon companies and institutions both great and small.

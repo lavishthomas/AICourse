@@ -1,0 +1,31 @@
+Hands-On
+
+Lucidchart brings rapid diagrams and flowcharts to Mac and iOS, in an interface that should feel very comfortable to old-time Mac users familiar with the classic MacDraw II or Microsoft Vizio.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+When you're in a hurry or when it's easier to sketch out what you want instead of describe it all, Lucidchart helps you make excellent finished diagrams quickly.Very quickly. In fact, very, very quickly. It takes longer to sign up to this service and choose the free trial than it does to create a flowchart.That's when you know what you want to draw. In that case, it has all the tools and typical diagram shapes waiting for you. So for instance, in a chart that documents a process, there are going to be parts where you always ask a question: "Are they paying enough money? Y/N", that kind of thing. Lucidchart gives you the traditional diamond shape image for that.Nicely, as you click on one end of that diamond and drag out to the next shape, Lucidchart knows you're going to need a label. So it automatically creates a text box for you to type into. Very nicely, if you type 'yes' and then start to drag out another line to somewhere else, the software automatically labels that 'no' for you.You drag these lines out from the shapes and then you can move everything around, knowing that the lines will follow. Drag a new element like a simple square text box in between two others and any existing arrows will bend around it for you.We can't overstate how fast it is to pick up using Lucidchart. If you don't know what you want to draw and so you're really exploring on the screen, it will take you as long as it takes you. When you make up your mind, it's an instant from your idea to the diagram.it's an instant whether you're using Lucidchart on your Mac or on your PC because it's an online service. There is also a free iPad app but Lucidchart is focused on being online.That's both good and bad, though. The benefit is that you can get to your work whatever machine you find, just so long as it as an internet connection. The poor is if it doesn't.If you lose your connection then Lucidchart is not graceful about it. For instance, the service comes with excellent online examples that start whenever you first select a particular type of drawing. However, if it can't fetch the next image then it just shows a blank icon. The iPad app is more alert to a loss of internet, though.Also, Lucidchart is unquestionably an online service but it's pretending very hard to be a desktop app. So you get the familiar menus like File and Edit but they exist right underneath your browser's own File and Edit menus. You get used to it, but it takes getting used to.Similarly, you're creating new documents and saving existing ones but not on your Mac. Anything you create or save is stored on Lucidchart's servers so, again, if you lose connection for any reason then you're hosed.You can't really save your work locally to get around this —but you can export it to other formats that you can then keep on your Mac. That's a confusing process, though.There is a Save As, but it's for renaming your documents within Lucidchart. There is no Export menu item, but still can —by choosing an option called Download As.When you do that, though, your options don't include saving in Lucidchart's native format, whatever that is. All users can save in forms of PDF, PNG, JPEG, SVG and CSV. That latter is the same comma-separated values format that you get with spreadsheets: here it describes the shapes on your chart rather than draws them.If you pay for a premium service then you can also export to Microsoft Visio format.But, there is no Microsoft Visio for Mac. So we tried exporting in that format from Lucidchart and importing from it to diagramming app OmniGraffle . It doesn't work: some elements survived the trip, others did not. Going the other way from OmniGraffle to Lucidchart via a Visio format document worked better so it's not possible to say which app has the problem, but we're leaning towards Lucidchart being the core of the issue.Exporting has never been as straightforward a solution as any developer has ever claimed, though, and you are always better off staying within one app when you can. Stay in Lucidchart and you share your documents with other users or you can send images.Those do always retain everything but they're not editable. So, they're best for presentations when your client's asking how far you've progressed in any given task.Those clients could be business managers who've asked you for a flowchart describing how you do your job. They could be managers who want an organization chart done quickly.They could be software developers asking you to mockup iPhone or Android apps. Or the client could be you, planning out new furniture for your office.You do all of these the same way: choosing the most appropriate template. When you've picked one and are working, a sidebar adds commonly-used items such as chairs for a floor plan, decision boxes for a flowchart and so on.Lucidchart does feels PC or online-centric in its selection of fonts, of course. It does include a first-class range of fonts but they're not the familiar Mac ones. Plus the default font, Liberation Stnd, simply doesn't seem to quite display properly on a non-Retina display.It would be good to be able to change the font it defaults to but if you can't do that, you can at least change it for one label or text and then copy that.Lucidtext is a subscription service that comes with four options from Basic through Pro and Teams to Enterprise. The starting price for Basic is $59.40 per year if you pay annually or $5.95 per month if you pay monthly. That gets you unlimited documents and the number of shapes on those documents.The tier including Microsoft Visio importing and exporting $9.95 per month, or $107.40 paid a full year in advance. Team and enterprise pricing varies somewhat, and you're best off contacting Lucidchart directly about those if you're curious.Try the free trial. You'll be limited to three documents and 60 elements per image, but you'll know in moments how to use it and despite our prose here, you'll be better able to see whether it's right for what you need.You can start a trial or watch extensive videos on how to use the product directly on the developer's website

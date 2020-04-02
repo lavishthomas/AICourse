@@ -1,0 +1,51 @@
+According to a survey by Silicon Valley Bank, 90 percent of startups believe finding talent is their biggest challenge. Yet, a solution to this problem could lie with Big Data -- massive amounts of structured and unstructured data that's difficult to process using traditional techniques.
+
+Over the last decade, human resources departments and hiring managers around the world have analyzed Big Data for insights related to their recruiting. Huge corporations such as Xerox and Google have done this to cut employee turnover in half and hire the best talent.
+
+Related: How to Hire Someone Aligned With the Company's Mission
+
+Although thus far larger companies with big hiring budgets are using Big Data, startups and smaller companies can too.
+
+What’s the big deal with Big Data? Previously employers have relied on assessments such as IQ tests, skills aptitude tests and even physical exams to answer questions like "Should Sarah be promoted?" or "Is it time to fire Bill?" But in recent years, Big Data has become the new approach for scientific hiring, allowing recruiters to ask questions like "Will Joe be the best fit for this position?"
+
+Companies like Xerox have used Big Data to measure how long candidates stay at their jobs. The tech firm screened candidates on criteria unrelated to productivity or retention. When Xerox asked job seekers questions about the distance between home and work, it found a strong association with employee retention and engagement.
+
+Many HR departments and C-suite managers wrongly assume that Big Data's role is to determine if an employee should be let go or could perform better in another position. But employers can use computers and software to objectively evaluate a candidate based on skills, experience and knowledge before an interview -- and remove bias from the process.
+
+Consider a candidate whose resume displays a history of job hopping. A recruiter's initial thinking might be that this person lacks loyalty to employers. Yet research tapping Big Data has found that frequent job changers did not perform any better or worse than those with long-term employment.
+
+Fine-tuning the right approach. Employers must select the right tools to be able to ask better questions when hiring. Choosing the right data tool is like choosing the right social media platform; employers need to know what works best for accomplishing their specific goals.
+
+One approach might be mining statistical data and predicting results based on the analysis . Job boards collect huge amounts of data, such as the best day of the week to post a marketing position in Chicago. If an analysis of current efforts revealed that a posting wasn’t resulting in enough qualified applicants, the employer could adjust the hiring strategy accordingly, using insights provided by a job board such as choosing a better day to post or different keywords. Additionally most job boards allow employers to tag parts of a job listing providing important information. This, in turn, allows human resources professionals to target sources (websites and social media) that could bring increased traffic to the job listing.
+
+Related: Gamification Tapped by Some Employers to Recruit Candidates
+
+Here are some tips for small companies considering tapping Big Data when they recruit candidates:
+
+1. Create a consistent rubric for the hiring process. While Big Data has been used to gamify the application process, forcing candidates to play games so their abilities can be assessed, this focus can overlook talent.
+
+Fashion a consistent rubric for the hiring process by focusing on the goals you hope to achieve. Determine a position's description, the qualifications desired, the company's culture and how a candidate might fit in.
+
+Next, design a consistent strategy for every job interview: Guarantee that every candidate is asked the same questions, performs the same tests and is given an equal opportunity to excel.
+
+2. Tweak the candidate-screening criteria. Most employers use variables such as grade-point averages, work history and degrees to determine whether a candidate's fit. Although attention to such criteria can help winnow a pile of applications, they might not be the best measures. When screening a candidate consider the happiness level and how well a person interacts with others. Studies show that happy employees are more likely to be engaged at work.
+
+Because the happiness quotient and how well a person interacts with others are not measured during the typical hiring process,employers are unlikely to have a database already containing this information; it's certainly not a field in any applicant tracking system I've ever come across. But by tweaking a candidate-screening process to measure this type of data, employers can build a database of information based on desirable personality traits rather than skills and experience alone.
+
+Related: How to Hire Without Spending a Fortune. (Hint: Use Social Media.)
+
+3. Combine social media with Big Data. Today's job seeker is typically connected to social networks, which provides a wealth of data. Companies are using platforms such as TalentBin to sift through social data collected from Facebook, Google+, LinkedIn and Twitter. These platforms scrape data (like the keywords candidates are using in their social media posts) and turn it into usable information.These tools can help employers find talented candidates online, making their recruiting processes more efficient.
+
+Social media is also valuable for employers because job seekers generate information about their hunt every day. But the information is voluminous and difficult to analyze without help. Employers can understand applicants’ behavior by monitoring click-throughs from social sites like Facebook and LinkedIn and analyzing when people share articles, apply for jobs and interact online to discern patterns over time.
+
+This can help employers discover where the most talented job seekers hang out online and a company can redirect its hiring strategy as needed.
+
+A company’s online presence is critical to attracting new hires, so produce content such as company news, blog posts and videos to drive traffic to job postings. Managers can monitor how many job seekers visit the company's website and determine the recruitment strategy's effectiveness.
+
+4. Don't overlook online forums. Check out industry-specific forums such as Stack Overflow, where professionals and experts gather to discuss a given industry.and share ideas. By monitoring online forums, employers can collect data for talent management purposes -- such as the number of votes that forum users have received for their contributions -- to spot confident and skilled talent. Recruiters will be able to assess potential candidates in real time and locate people who spark intelligent conversations about issues relevant to a company's industry. Overall, online forums can provide a pool of data to refer to when recruiters are seeking candidate at the top of their game.
+
+Big Data isn’t meant to eliminate the interview process completely but it can help uncover trends in the hiring process.
+
+Please share how you think Big Data can improve the hiring process in the comments below.
+
+Related: Avoid Costly Churn. Provide Candidates a Realistic Job Preview.

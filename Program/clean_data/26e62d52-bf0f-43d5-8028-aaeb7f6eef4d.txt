@@ -1,0 +1,31 @@
+In theory, theory and practice are the same. In practice, they are not - Albert Einstein
+
+There are many resources available to learn Google Analytics, from the courses and training we offer, to advice from the community , or from the many books, guides, and articles written about Google Analytics. However, we’ve heard many of you would also like a resource so you can learn through practical experience and to apply your theoretical analytics knowledge. It can be difficult to gain practical experience since not everyone has access to a fully-implemented Google Analytics account. To fix this we’re introducing a fully functional Google Analytics Demo Account, available to everyone ( get access here ).
+
+The Demo Account includes data from the Google Merchandise Store , an active Ecommerce site that sells Google branded merchandise. The ongoing Google Analytics implementation which will be completed this month already includes all the major features you would typically implement, like AdWords linking, Goals and Enhanced Ecommerce. The result is a fully functional account, with real business data.
+
+Demo Account: Checkout Behavior Analysis Report
+
+“Have you wondered why you've always gravitated towards people with real-world experience rather than on-paper experiences? The real-world part :) So while it hurts my feelings a bit to say that my best selling analytics books are not enough, I'm massively excited that the GA team has figured out a solution for the entire universe to get real-world experience. Get the access, download my awesome bundle of segments, dashboards and custom reports , and really start your learning experience!”
+
+- Avinash Kaushik, Author - Web Analytics 2.0 and Web Analytics : An Hour a Day
+
+Self-Learning
+
+You can use the Demo Account to learn about Google Analytics features and functionality, for example:
+
+Access all the Standard reports to see which ones are useful to you Get inspiration from predefined dashboards and segments imported from the Solutions Gallery to create your own Alter reports by adding table filters and secondary dimensions, and by changing the report type Learn how to compare audience, acquisition, behavior and conversion performance to a previous date range period Create your own personal assets such as custom reports, annotations, shortcuts and custom alerts Become familiar with the predefined attribution models and even create your own Determine whether features you don't haven’t implemented could be beneficial to you e.g. AdWords and Search Console integrations Use it as a companion when following a training course
+
+Education Programs
+
+If you’re an educator trying to teach others to use Google Analytics then we encourage you to use the Demo Account as a tool. You can use it to create tests, quizzes, and other learning materials for your students. In fact, we’re excited to announce that some organizations are already starting to integrate it into their learning materials.
+
+General Assembly offers courses both online and at their campuses around the world that will help you master new skills in design, marketing, technology, and data. Their Digital Marketing course includes a unit covering Marketing Analytics that utilizes the Demo Account.
+
+Google Analytics Partners, including E-Nor and Loves Data , use the Demo Account to provide online and classroom style trainings to cater to beginners and advanced analytics users. Their specialists will provide actionable training to create and improve your analytics configuration, implementation and marketing performance.
+
+Access the Demo account
+
+You can get access to the Demo Account and learn more about it, from this help article . If you need some help please let us know within the FAQs post and share any feature requests or ideas to make the Demo Account more useful within the Feature Requests post . We hope the Demo Account gives you a practical way to try new features and learn about Google Analytics.
+
+Happy analyzing!

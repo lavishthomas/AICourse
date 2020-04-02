@@ -1,0 +1,69 @@
+Image: Gizmdo/GMG, Photo: Getty
+
+Thousands of files containing the personal information and expertise of Americans with classified and up to Top Secret security clearances have been exposed by an unsecured Amazon server, potentially for most of the year.
+
+
+
+The files have been traced back to TigerSwan, a North Carolina-based private security firm. But in a statement on Saturday, TigerSwan implicated TalentPen, a third-party vendor apparently used by the firm to process new job applicants.
+
+
+
+Advertisement
+
+“At no time was there ever a data breach of any TigerSwan server,” the firm said. “All resume files in TigerSwan’s possession are secure. We take seriously the failure of TalentPen to ensure the security of this information and regret any inconvenience or exposure our former recruiting vendor may have caused these applicants. TigerSwan is currently exploring all recourse and options available to us and those who submitted a resume.”
+
+
+
+TalentPen could not be immediately reached for comment and Gizmodo could not independently confirm the company’s involvement. During conversations with Gizmodo, TigerSwan repeatedly refused to provide any documentation showing TalentPen was at fault.
+
+
+
+Found on an insecure Amazon S3 bucket without the protection of a password, the cache of roughly 9,400 documents reveal extraordinary details about thousands of individuals who were formerly and may be currently employed by the US Department of Defense and within the US intelligence community.
+
+Advertisement
+
+Other documents reveal sensitive and personal details about Iraqi and Afghan nationals who have cooperated and worked alongside US military forces in their home countries, according to the security firm who discovered and reviewed the documents. Between 15 and 20 applicants reportedly meet this criteria.
+
+The files, unearthed this summer by a security analyst at the California-based cybersecurity firm UpGuard, were discovered in a folder labeled “resumes” containing the curriculum vitae of thousands of US citizens holding Top Secret security clearances—a prerequisite for their jobs at the Central Intelligence Agency, the National Security Agency, and the US Secret Service, among other government agencies.
+
+Many of the files are timestamped and indicate that they were uploaded to the server in mid-February. Gizmodo has yet to confirm for how long the data was left publicly accessible, information only accessible to Amazon and the server’s owner.
+
+“A cursory examination of some of the exposed resumes indicates not merely the varied and elite caliber of many of the applicants as experienced intelligence and military figures, but sensitive, identifying personal details,” UpGuard said in a statement.
+
+Founded in 2008 by former a Delta Force operative, retired US Army Lt. Colonel James Reese, TigerSwan has operated on behalf of the U.S. military and State Department as a paramilitary force in Iraq and Afghanistan, as well as domestically on behalf of corporations. The firm reportedly employs a staff of roughly 350 with offices across the Middle East, in North and West Africa, Latin America, and Japan.
+
+Beyond its battlefield utility, TigerSwan International has provided construction and security services in Saudi Arabia, where the firm is licensed by the monarchy’s general investment authority; protection details for corporate sponsors and wealthy sports fans during 2014 Sochi Olympics in Russia; and more recently, TigerSwan aided US law enforcement tasked with countering protests around the construction of the Dakota Access pipeline.
+
+Advertisement
+
+Due to the number of resumes involved, the true impact of the breach has yet to be fully realized. Some of the applicants were apparently involved in very sensitive and highly-classified military operations. According to UpGuard, at least one of the applicants claimed he was charged with the transportation of nuclear activation codes and weapons components.
+
+One applicant referenced his employment as a “warden advisor” at the infamous Abu Ghraib black site near Baghdad, where prisoners are known to have been tortured. The applicant described his job as “establishing safe and secure correctional facilities for the humane care, custody, and treatment of persons incarcerated in the Iraqi corrections system.”
+
+Another applicant reportedly stated that he was involved in “enhancing evidence” against Iraqi insurgents during the war. Others, who provided their home addresses, as well as personal email accounts and phone numbers, were employed and may be currently employed by US spy agencies for work on Top Secret surveillance and intelligence-gathering operations.
+
+Advertisement
+
+It was not immediately clear if any of the US applicants are currently deployed in conflict zones overseas and the repercussions for foreign nationals who applied to work at TigerSwan and may currently reside in dangerous regions, such as Iraq, have not yet been fully assessed.
+
+A Gizmodo investigation into the potential consequences of the breach was interrupted on Saturday after TigerSwan went public with a statement on its website.
+
+This article will be updated as more information becomes available.
+
+Update, 7:45pm: Additional context concerning the resumes and remarks from UpGuard added.
+
+Advertisement
+
+Update, Sept. 3, 8:40pm: On Sunday afternoon, TigerSwan forwarded Gizmodo an email which appears to contain a discussion between TigerSwan and a former TalentPen employee.
+
+The email references “July billing details” for the unsecured AWS server discovered by UpGuard. “I’m afraid that it does show activity that seems to be consistent with the number of files and overall size of the total number of files,” the alleged former employee says.
+
+The message continues:
+
+“I want to know exactly how there could even be a possibility of this happening given the security in place to protect data and files. The account was setup to only give access to you and I. I even had to provide you with security credentials to access the information. While I no longer work for TalentPen since it had been dissolved earlier this year, I certainly want to help you get to the bottom of this.”
+
+Gizmodo has reached out to the former TalentPen employee identified in the email and will update again if we receive a response.
+
+[UpGuard]
+
+Kate Conger contributed to this report.

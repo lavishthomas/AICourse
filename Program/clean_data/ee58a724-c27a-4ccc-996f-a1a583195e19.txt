@@ -1,0 +1,31 @@
+Loading the player...
+
+What is 'EBITDA - Earnings Before Interest, Taxes, Depreciation and Amortization'
+
+EBITDA stands for earnings before interest, taxes, depreciation and amortization. EBITDA is one indicator of a company's financial performance and is used as a proxy for the earning potential of a business, although doing so has its drawbacks. Further, EBITDA strips out the cost of debt capital and its tax effects by adding back interest and taxes to earnings.
+
+BREAKING DOWN 'EBITDA - Earnings Before Interest, Taxes, Depreciation and Amortization'
+
+In its simplest form, EBITDA is calculated in the following manner:
+
+EBITDA = Operating Profit + Depreciation Expense + Amortization Expense
+
+The more literal formula for EBITDA is:
+
+EBITDA = Net Profit + Interest +Taxes + Depreciation + Amortization
+
+EBITDA is essentially net income with interest, taxes, depreciation and amortization added back to it. EBITDA can be used to analyze and compare profitability between companies and industries because it eliminates the effects of financing and accounting decisions. EBITDA is often used in valuation ratios and compared to enterprise value and revenue.
+
+If you're interested in learning how to calculate EBITDA using MS Excel we've got it covered.
+
+Example of EBITDA
+
+A retail company generates $100 million in revenue and incurs $40 million in product cost and $20 million in operating expenses. Depreciation and amortization expense amounts to $10 million, yielding an operating profit of $30 million. The interest expense is $5 million, leading to earnings before taxes of $25 million. With a 20% tax rate, net income equals $20 million after $5 million in taxes are subtracted from pretax income. Using the EBITDA formula, we add operating profit to depreciation and amortization expense to get EBITDA of $40 million ($30 million + $10 million).
+
+The Drawbacks of EBITDA
+
+EBITDA is a non-GAAP measure that allows a greater amount of discretion as to what is and what is not included in the calculation. This also means that companies often change the items included in their EBITDA calculation from one reporting period to the next.
+
+EBITDA first came into common use with leveraged buyouts in the 1980s, when it was used to indicate the ability of a company to service debt. As time passed, it became popular in industries with expensive assets that had to be written down over long periods of time. EBITDA is now commonly quoted by many companies, especially in the tech sector — even when it isn't warranted.
+
+A common misconception is that EBITDA represents cash earnings. EBITDA is a good metric to evaluate profitability but not cash flow. EBITDA also leaves out the cash required to fund working capital and the replacement of old equipment, which can be significant. Consequently, EBITDA is often used as an accounting gimmick to dress up a company's earnings. When using this metric, it is key that investors also focus on other performance measures to make sure the company is not trying to hide something with EBITDA. To learn more about other key investing concepts, sign up for our Investing Basics newsletter.

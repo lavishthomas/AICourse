@@ -1,0 +1,29 @@
+In fact, we discovered that precious little research had been conducted, the result of legal limits on the authority of intelligence agencies to address domestic issues and states’ historic reluctance to permit federal oversight of elections.
+
+Michael Wines, who covers election issues for the Times, said that what stood out to him was the vulnerability of the nation’s vast Rube Goldberg election system. Elections, he explained, “are run by understaffed, underfinanced and sometimes undertrained local officials, serviced by outside contractors who may or may not be well vetted, conducted with equipment and software that may or may not be secure.”
+
+And Matthew Rosenberg, who covers national security issues for the Times, discovered that the intelligence community’s conclusion — that the Election Day vote was not hacked — was extremely limited in scope.
+
+I started calling around to the election security and technology experts who had witnessed some of the troubles that cropped up on Election Day. I found that they, too, were still searching for answers and were befuddled by the lack of any substantial investigation.
+
+We zeroed in on Durham, N.C. — a reliably blue county in a swing state that went for Donald J. Trump — where a breakdown in the electronic check-in software prevented hundreds of would-be voters from casting their ballots and hundreds more to simply give up in the face of long lines.
+
+Officials there relied on check-in software sold by VR Systems. Nobody in Durham — or any other county that relied on VR Systems’s electronic poll books — was ever informed that their equipment had been compromised by Russian hackers. And yet Durham County officials rebuffed several offers to examine their systems at no cost — from the D.H.S., the F.B.I. and even Free & Fair, a group of qualified forensics investigators, many with security clearances.
+
+Susan Greenhalgh, one of the few election technology specialists fielding technical complaints from North Carolina on Election Day, told me she was still haunted by what happened in November, and even more so by the lack of any follow-up investigation. “If you were looking to influence an election, one thing you could do is keep people from voting in a targeted county by monkeying with the e-pollbooks so people couldn’t check in, which would lead to long lines and chaos at the polls,” she said.
+
+Advertisement Continue reading the main story
+
+“This,” she told me, referring to what she witnessed in Durham on Election Day, “is exactly what that looked like.”
+
+To this day, county, state, and federal officials have yet to investigate what transpired in Durham in November.
+
+Instead, Durham officials asked Protus3, a little-known Raleigh firm comprised primarily of physical security experts and former law enforcement types with little, if any, of the technical expertise that is typically standard for breach investigations, to conduct an audit.
+
+The firm’s confidential report was unlike any data breach investigation I have seen in my six years on this beat. Investigators had done none of the malware or coding forensics necessary to understand whether hackers had sabotaged VR Systems’s software, instead basing their analysis largely on eyewitness accounts of poll workers with limited technical understanding. When I shared the report with some of the top digital forensics experts in the country, many had visceral reactions: They simply could not believe that this was the definitive take on what transpired in Durham that day.
+
+But through the course of our reporting, Michael, Matthew and I discovered that this was the norm.
+
+There was a seeming lack of interest in doing much of anything about the problems on Election Day, or even in securing future elections. “Bills to tighten election security are languishing in congressional committees,” Michael noted. “The White House is focused on erasing fraud by individual voters, which experts say is a miniscule problem at its worst. A vast throng of voting machines that Congress financed after the disputed 2000 presidential election are now outdated, and no one wants to pony up the cash to modernize them.”
+
+The more places we looked, the worse things looked. In fact, we discovered that VR Systems was not the only back-end supplier of election services that was hacked by Russians ahead of Election Day. Two more vendors that provide critical election services were also hacked.

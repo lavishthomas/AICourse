@@ -1,0 +1,23 @@
+If you thought Google’s Prediction API was just a handy tool for web programmers and weekend hackers, think again. A Folsom, Calif.-based startup called Pondera Solutions is pushing what it calls Fraud Detection as a Service, which is based on a variety of Google (s goog) services, including the Prediction API machine learning tool.
+
+Pondera has actually been offering its service since November 2011, but this is the first I’ve heard of it. I spotted it in a Wednesday-morning Google Enterprise blog post announcing that the Iowa Workforce Development agency has selected Pondera to power its unemployment-fraud detection efforts. The agency’s system for analyzing unemployment claims highlights a portion of the Google services Pondera uses:
+
+Advertisement
+
+“With FDaaS, suspicious claims are proactively flagged by the system, which alerts IWD employees about potentially fraudulent claims. The claims are plotted on a heatmap built on Google Maps to identify areas with the highest fraud incidents and determine where to put more investigative resources. We also use Google Street View to check the validity of businesses that submit claims.”
+
+Pondera’s website lays out the rest:
+
+Google’s data centers , where FDaaS runs, which allow for immense scalability without the need to purchase on-premise hardware or software. Because FDaaS is in the cloud, unexpected spikes in UI claims can be handled without system failure or processing time lags.
+
+, where FDaaS runs, which allow for immense scalability without the need to purchase on-premise hardware or software. Because FDaaS is in the cloud, unexpected spikes in UI claims can be handled without system failure or processing time lags. Google’s Prediction API , which trains, tunes and updates prediction models that check individual claims for anomalies or suspicious activities. Google prediction technologies discover and report trends, patterns, clusters, and other variables.
+
+, which trains, tunes and updates prediction models that check individual claims for anomalies or suspicious activities. Google prediction technologies discover and report trends, patterns, clusters, and other variables. Google Big Query , which mines large amounts of transaction data to uncover previously undetected patterns and trends.
+
+, which mines large amounts of transaction data to uncover previously undetected patterns and trends. Google App Engine , which identifies factors such as UI claimants who have been rehired, those who may be using a fraudulent identity, and computers that have been previously used in fraudulent claims.
+
+, which identifies factors such as UI claimants who have been rehired, those who may be using a fraudulent identity, and computers that have been previously used in fraudulent claims. Google Search Appliance (GSA), which aids investigation of potential fraud or improper payments across both structured and unstructured data. Analysts and investigators can research cases using the GSA’s intuitive, familiar Google search box.
+
+Actually, this isn’t the first time Google’s Prediction API has been publicly cited as the basis for some real-world work. In 2011, Ford Motor Co. discussed how it was using the service to predict drivers’ behavior based on the data that cars’ sensors have captured in the past.
+
+Feature image courtesy of Shutterstock user jovan vitanovski.

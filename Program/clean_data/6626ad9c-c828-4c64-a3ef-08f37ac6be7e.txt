@@ -1,0 +1,55 @@
+It’s part of normal discussion in Silicon Valley to claim that Amazon makes no money, or even loses money, in the pursuit of growth. But it’s a trope Amazon bucks on a regular basis for two reasons:
+
+It doesn’t have to lose money on large chunks of its business in the name of growth anymore. It has recently (in terms of the life of its business) added a new operating unit that kicks off profit in increasing sums.
+
+This makes the addition of Whole Foods to its stable of businesses all the more interesting. Grocery stores are notoriously profit-lean. But Amazon’s profit, as has been pointed out, is perhaps even leaner on a percentage-of-revenue basis. So what impact will the Whole Foods pickup have on Amazon’s numbers?
+
+We can figure out the sums some, but only partially. Attempting to precisely predict what Amazon will do with Whole Foods, in terms of new costs, is too speculative even after a host of initial price cuts have become known. Price cuts are the early shots in a longer war.
+
+Amazon in 3 parts
+
+Amazon has three core business reporting units to keep in mind when we discuss its profitability or lack thereof: its North American sales; its self-described “International” sales; and AWS, its cloud computing group.
+
+The e-commerce giant reports operating income (otherwise known as profit) for each group, which gives us a decent ruler for results, even though it would be better to have GAAP net income for each. Caveat aside, here’s what two of Amazon’s trio managed in its most recent quarter (PDF):
+
+North American sales: $22.37 billion
+
+$22.37 billion North American operating income: $436 million
+
+$436 million International sales: $11.49 billion
+
+$11.49 billion International operating income: -$724 million
+
+As you can see, the company’s North American e-commerce business, which is growing, managed to do so while generating operating income, while its international sales appear to come with negative operating margins as they scale. Amazon, famed for its claimed long-term focus, is likely content to watch its domestic (roughly) online sales help subsidize its growth abroad.
+
+AWS, the third of the triplets forming Amazon’s trivium, is even healthier than the above. It closes the operating income gap formed by its non-domestic e-commerce growth operating losses:
+
+AWS sales: $4.10 billion
+
+$4.10 billion AWS operating income: $916 million
+
+In arithmetical nomenclature: $436 + -$724 + $916 > 0. Therefore, Amazon is above zero in operating terms before we toss in any Whole Foods results.
+
+(In more polite company, we’d put the preceding as follows: Amazon’s domestic e-commerce business no longer fully subsidizes its international e-commerce business, as it did, for example, in the year-ago quarter; this makes AWS all the more important as it keeps the company’s aggregate business operating results in the black.)
+
+Now, let’s examine the same company, with two additions: Whole Food’s sales and operating income.
+
+Whole payback
+
+Now that the Whole Foods deal is done, we should understand what happens when we stack the companies vertically. To do that, we need new numbers, and to get those numbers, we’ll turn to Whole Foods’ most recent quarterly results:
+
+Sales: $3.72 billion.
+
+$3.72 billion. Operating income: $180 million.
+
+In short, Whole Foods’ operating income margin is a touch under 5 percent. But, as Gadfly points out, that’s actually better than Amazon’s own margin. From that we can understand that the addition of Whole Foods to Amazon’s stable—turning its Three’s Company into a quartet—may actually improve Amazon’s aggregate operating margin.
+
+So does the addition of Whole Foods make real change to the Amazon model? Kind of. Amazon is so much larger than Whole Foods that the addition of that $180 million in operating income is only so useful.
+
+Recall our prior formula for Amazon: $436 + -$724 + $916 > 0. That equation works out to $628 million in operating income. Now, let’s run the calculations with Whole Food’s stronger operating margins, but smaller operating income: $436 + -$724 +916 +180 = $808 million.
+
+If the increase to $808 million actually changes a damn thing at Amazon isn’t clear. Sure, it’s a 29 percent increase in operating income off a 9 or 10 percent change in revenue. But, that the delta buys Amazon much material latitude to change how it invests in other business seems like a stretch of an idea.
+
+This becomes doubly true now that Amazon is already cutting prices at Whole Foods. We can therefore anticipate a negative impact to Whole Foods’ operating income. This will lower the impact that Whole Foods has on Amazon’s operating income and aggregate operating margin.
+
+So, summing gently, it looks likely that whatever real profit Amazon grinds out of Whole Foods will be small, and it will perhaps spread inside of other business units (such as more Prime memberships). It’s also important to bear in mind that Amazon already generates operational income. Whole Foods is a minnow compared to the Seattle giant, and its profit is peanuts compared to those of its new overlord.

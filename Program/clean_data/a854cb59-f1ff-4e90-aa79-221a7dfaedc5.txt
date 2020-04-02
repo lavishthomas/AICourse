@@ -1,0 +1,51 @@
+There's a lot more to professional programming than writing code. From working with a team to solve problems to version control, you won't make it to the major leagues without a toolkit of other critical skills. We asked you, and some other professional developers, what those skills are, and here's what we learned.
+
+With all the buzz about learning to code, it's easy to think that knowing a programming language is all it takes to be a professional developer. However, like other jobs, it takes more than one skill to really be great. We can't list everything that every programmer may need, but here are some of the most important skills (besides coding) you should work on if you really want to be a developer.
+
+Learn to Communicate
+
+While some media sources portray programming as a loner's craft, the truth is that it really involves a lot of communication and working with others. If you work for a company, you'll be part of a development team and be expected to communicate and work well with others.
+
+However, Jeff Bargmann, developer of Lifehacker favorites Fences and Bins, stresses that knowing how to talk and write clearly and convincingly is even important for the independent developer:
+
+Nothing in school prepared me for the amount of written communication I'd have ahead. (We just code, right?) In your professional career—if you'd like to move up one day—you'll spend a ton of time communicating clearly, concisely and convincingly—thinking from the perspective of the recipient—over email to coworkers, managers, clients/partners and hopefully one day executives. And since you're used to doing things twice as fast as others (we're crafty, right?) it's going to be frustrating, because it's going to take you twice as long to get this right. And as an independent, this skill is a make-it-or-break-it—but by necessity you'll learn the hard way as you go.
+
+Jeff also has some tips for developing your communication skills:
+
+To clear this hurdle in stride vs learning on the go, you'll want real world practice (Just like how you got good at coding!). Publish some short articles, read emails aloud, face criticisms, and moreover just create for yourself experience; just like you did with that pet coding project.
+
+If you don't have the opportunity to develop with a team right now, consider some college communication, speech, and writing classes to learn to do it the right way. Lynda offers a wealth of awesome communication courses if you're learning outside of the classroom.
+
+Brush Up Your Problem-Solving Skills
+
+Many developers say that understanding a programming language is only a minor part of coding. Problem-solving is another important skill that rookie developers often lack. Compare software development to putting a puzzle together: you need to figure out how to connect one piece of your program to another, and it's not always easy. Reader Jsimon explains:
+
+I've met people who have complete command of an entire programming language, but couldn't solve their way out of a paper bag. Best example was in college when working a team project. I was asked to take a look at part of the code someone else was responsible for because they couldn't get it to connect to the server socket. He never set a port. He'd been troubleshooting for a week. Then there are people who can solve problems and just have no grasp of the language.
+
+However, problem-solving is a difficult skill to learn. Practice is key here. Take on small projects like developing note taking applications, calculators, or anything you find interest in. When you do this, focus on the logic behind the code, and learning to think like a computer, rather than just understanding the language.
+
+Learning how a computer works beforehand also helps. This tip comes from reader Jacobm001:
+
+Problem solving is the biggest part of what we do. Computers are weird, and you usually need to relearn how you think about problems. To be effective, you need to truly learn how a computer operates and understand how the CPU processes information. I hate assembly personally, but I'm incredibly thankful that I took a course that focused on it. Programmers who have at least a little assembly under their belt have a much better idea on how to properly implement things.
+
+Like Jsimon said, knowing how to both code and solve problems to connect the pieces is key. As you start to develop real programs, focus on developing a systematic approach to solving the problems you'll face.
+
+Start Learning Version Control Right Away
+
+If in college, you'll soon start working with teams in your programming classes to develop projects. WindowsSVN and GitHub are two examples of tools development teams use to work together to create and update open source applications. These are available to everyone, but companies use Subversion and Apache SVN, among others. You should go into a new job understanding the basics of how these systems work so you can hit the ground running with your new teammates. It takes some time and practice to learn, so you'll feel behind if you land a job without knowing how to use at least one of them. Luckily we've already broken down the steps for using GitHub, and even showed you a cheat sheet to help you master it.
+
+The only way you'll truly master the system is practice. If you're in college, the time will come for you to work on a fairly large team-oriented project in class. When it does, ask permission to use GitHub or a repository of the sort even if the instructor doesn't require it. Find a team to work with if you're learning on your own, either by joining a project that's already on GitHub or by finding a group of people you want to work with and starting a new one.
+
+Develop a Knack for Learning
+
+Technology is always evolving, and with it, so should a developer's knowledge base. If you want to stay relevant in your field, it's important to keep up with new and updated programming languages, software, and hardware. Reader Wakers01 explains:
+
+. . .you will be learning new languages, technologies, and tools with a frequency that would allow you to phase shift. You must be willing to examine new tech, analyze its merits and pitfalls, and assimilate it rapidly. Notice I said "assimilate" and not "learn". I mean you must fully absorb, understand, and integrate this new thing into your skill set, not just acquire some new knowledge about how thing x works. It's not just software languages and tools either, you will also be learning how businesses operate and how business users do work within that business. As long as you can maintain an excitement for learning new things, you will be fine.
+
+There are a lot of things you can do to make it easier to learn new skills quickly. For example: you'll use your memory more efficiently if you take the time to understand exactly how it works first. Learning also involves comprehension, so in addition to the communication tips we gave you earlier, focus on boosting your reading comprehension so you can get through tech documentation and other written resources with relative ease. Understand that you won't be able to memorize everything, so having a good note taking system and creating idea indexes for paper books are good ways to stay organized and quickly find information you need to reference.
+
+Start with the basics: view learning as a skill that you should focus on mastering. Once you do, you'll have an easier time rolling with the punches of technology, and staying ahead of the competition in your field.
+
+Advertisement
+
+There's a lot more to programming than just sitting at a desk and writing code. If you understand that early, you'll have a much better opportunity to gain more critical skills that employers and clients need you to have.

@@ -1,0 +1,45 @@
+The credit-card-size Raspberry Pi has taken the tech world by storm. Thousands of geeky kids and adults use the tiny, low-cost computer boards to learn about coding and create fun projects like motion detectors, birdhouses that tweet when birds are present, and mini weather stations.
+
+Make a dedicated Photo Booth station
+
+Your Mac has a built-in iSight camera that’s good for many things, including signing electronic documents, FaceTime sessions with your mom, and making funny little photos in Photo Booth. If you don’t want to set up your Mac just to take a bunch of photos of party guests, you can use this project to make a Raspberry Pi do the same thing.
+
+To make it work, you’ll need a camera with a USB connection that you can set up on a tripod and plug into the wall, a Raspberry Pi to control said camera, and an optional enclosure to make it seem all retro and fun. Oh, and a printer to print out those great candid shots.
+
+You’ll set up and install an OS on the Pi, then set up a server on it to accept input via the internet and a remote computer, like your Mac. You’ll need to run several commands on the Raspberry Pi to make sure it can mount and control the camera via USB, then print the photos for your guests.
+
+It seems a bit tricky, but the directions on the Instructables site are pretty comprehensive and should get you up and running in no time. Happy Photo Boothing!
+
+Raspberry Pi Photo Booth Controller – Instructables
+
+Set up a dedicated AirPlay speaker
+
+AirPlay takes the hassle out of connecting your iOS device (or Mac) to any enabled speaker via Wi-Fi, with many commercial solutions available these days. If you ever set up an Airport Express station, though, you’ll know how great it is to just plug in any speaker to a dedicated AirPlay device and let the tunes rip.
+
+This project has you creating an actual speaker with wood, several electronic parts, and a Raspberry Pi enclosed to manage the wireless streaming. It’ll help if you’re comfy with a saw and soldering iron, but it’s a manageable project for most of the DIY Mac geeks we know. You’ll need to set up the Pi with an OS and some software, then run a few commands through its innards to make this all work.
+
+RaspbAIRy – the Raspberry Pi-based Airplay speaker – Instructables
+
+Stream Pandora to your Pi
+
+Do you listen to internet radio on your Mac while you work? I do, and it’s the best – like having your own radio station to play the songs you like without all the annoying Top 40 radio crap thrown in. This project will let you make your own little adorable internet radio box built around a Raspberry Pi that you can then take anywhere the Wi-Fi is plentiful and get your ZZ Top on.
+
+You’ll need a Pi with Wi-Fi on-board (model B) to install an OS onto, a bunch of electrical hardware like a solderless breadboard, Ethernet cable, some pushbuttons and various resistors and capacitors. You’ll also need to cut some acrylic for the radio enclosure, and various epoxies and Velcro strips to keep it all together.
+
+Pandora’s Box – An Internet Radio player made with a Raspberry Pi – Instructables
+
+Make your own mini arcade cabinet
+
+Chances are you’ve played a video game or two on your Mac. If you’re a fan of retro arcade games, you may also be familiar with MAME, the Multiple Arcade Machine Emulator. This project has you building a mini-arcade cabinet that will play these fun old games, all wrapped up in an attractive box that wouldn’t look out of place in your home arcade.
+
+You’ll need a Raspberry Pi, model B, with an SD card and OS installed, a 19-inch LCD TFT monitor, a couple of joysticks and plenty of cables, wood and spray paint to put it all together into an attractive package. It’s not for the faint of heart, and will set you back about $300, but it will all be worth it when you and a friend can play video games together while knocking back a couple of brews in the safety of your own home.
+
+2-Player Bartop Arcade Machine (Powered by Pi) – Instructables
+
+Automate your home, Pi style
+
+With Apple’s HomeKit just around the corner, home automation has never been hotter. YouTuber Elvis Impersonator has put together a project that lets him use the Raspberry Pi with Siri on an iPhone or iPad to control his thermostat, garage door, alarm system and TV with just his voice.
+
+His system is made up of many components to interface with his Pi-based system, so it’s likely very expensive, but it’s a fascinating use of the Pi, Siri and various home-automation devices that allow him to control his entire home with a word or two. Check out the video above for ideas for your own system, and be sure to dig down into the notes for all the details.
+
+SiriProxy on Raspberry Pi Home Automation Control – YouTube

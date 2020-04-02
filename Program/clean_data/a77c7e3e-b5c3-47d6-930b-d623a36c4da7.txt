@@ -1,0 +1,81 @@
+Advertisement
+
+Are you constantly moving, resizing, hiding, and showing app windows on your Mac? If you’re using a Mac laptop with a small screen, you may find yourself spending more time trying to rearrange and resize apps to maximize your screen real estate rather than actually using the apps.
+
+Even if you have a Mac with a large screen, you still might need to maximize your screen real estate if you use a lot of apps at once. The obvious way to gain more screen real estate is to connect an external monitor to your Mac How to Be More Productive with Dual Monitors How to Be More Productive with Dual Monitors You need space for several documents, to get an overview and swiftly shift between tasks. What's true for your desk also applies to your virtual workspace. We show you how it matters. Read More . However, you may not want to spend the extra money.
+
+Today we look at options for maximizing the screen real estate on your Mac without having to buy an extra monitor.
+
+Automatically Hiding the Menu Bar
+
+The menu bar at the top of your Mac’s screen provides access to useful Apple-specific options, menus for the currently active app, and status menus. Non-Apple apps you install may also add menus to the menu bar 9 Handy Apps for Your Mac’s Menu Bar 9 Handy Apps for Your Mac’s Menu Bar Most of us glance at the Mac menu bar for the date and time, but with a few apps it can do much more. Read More that you can access even when the app is not active.
+
+To gain more space on your screen, you can automatically hide the menu bar until you need it. Go to the Apple menu and select System Preferences. Then, click General.
+
+Advertisement
+
+Check the Automatically hide and show the menu bar box. The menu bar immediately hides.
+
+To access the menu bar when it’s hidden, move the mouse or trackpad cursor to the very top of the screen. The menu bar slides down. Once you’ve selected the option you want, the menu bar hides again. You can also press Control + F2 to show the menu bar.
+
+Note: If the Control + F2 shortcut doesn’t work, you can change the shortcut Remap Your Mac's Function Keys To Do Anything You Want Remap Your Mac's Function Keys To Do Anything You Want Is there a function key on your Mac you never use? Here's how to make it do something else. Read More in the System Preferences.
+
+Automatically Hiding the Dock
+
+The Dock on your Mac Everything You Need to Know about Your Mac's Dock Everything You Need to Know about Your Mac's Dock It's the primary way many users interact with Mac OS X, but a lot of people still don't know some of the most basic and useful things the dock is capable of. Read More is the bar of icons at the bottom of the screen. It holds icon for many of the apps that come with your Mac like Safari, Mail, and Messages. You can also add icons for other apps you install, and icons for documents and folders.
+
+You can automatically hide the Dock like you can the menu bar. Go to the Apple menu and select System Preferences. Then, click Dock.
+
+To hide the Dock without going into the System Preferences, press Command + Option + D.
+
+Check the Automatically hide and show the Dock box. The Dock immediately hides.
+
+You can also press Command + Option + D to turn this option on and off.
+
+To access the Dock when it’s hidden, move the mouse or trackpad cursor to the very bottom of the screen. The Dock slides up. Once you’ve clicked on the icon you want, the Dock hides again.
+
+Customizing the Size and Position of the Dock
+
+If you don’t want to hide the Dock Customise Your Mac OS X Dock With These Hidden Terminal Commands Customise Your Mac OS X Dock With These Hidden Terminal Commands From simple tweaks like adding hidden stacks for recent items, to only displaying the currently open applications – there's a lot you can do to customize your Mac's dock. Read More , there are additional options on the Dock screen in the System Preferences that allow you to customize your Dock Customise Your Mac OS X Dock With These Hidden Terminal Commands Customise Your Mac OS X Dock With These Hidden Terminal Commands From simple tweaks like adding hidden stacks for recent items, to only displaying the currently open applications – there's a lot you can do to customize your Mac's dock. Read More .
+
+You can make it smaller (Size) and magnify the icons (Magnification) as you move over them (if they’re too small to see). You can also move the Dock to the left or right side of the screen (Position on screen) if it’s the screen height you want to maximize.
+
+Activating Fullscreen Mode for an App
+
+If you want to maximize the screen real estate for one app, you can activate fullscreen mode for that app. This automatically hides the menu bar and the Dock automatically, without turning on the options for hiding them.
+
+The menu bar and Dock are temporarily hidden, but they can be accessed the same way as when the hiding options are on. Simply move the mouse or trackpad cursor to the very top or bottom of the screen.
+
+To enter fullscreen mode for an app, activate the app and click the green circle with the two arrows pointing away from each other in the upper-left corner of the app’s window. You can also press Control + Command + F to enter and exit fullscreen mode.
+
+While an app is in fullscreen mode, move your mouse to the top or bottom of the screen to display the menu bar or the Dock over the app.
+
+Some apps will show you the close, minimize, and maximize buttons when the menu bar slides down over an app in fullscreen mode. You can click the green maximize button again to exit fullscreen mode.
+
+Note: The minimize button is not available for an app while it’s in full screen mode.
+
+Using Spaces
+
+“Spaces” can help you manage your open apps. You can create up to 16 spaces at any one time and put as many open apps on them as you like. It’s like having multiple monitors, but without the extra hardware or cost.
+
+For those of you who have used Windows, spaces on a Mac is like Virtual Desktops on Windows How to Increase Your Virtual Desktop Space How to Increase Your Virtual Desktop Space Feeling overwhelmed by all the windows you need open for various tasks or jobs? If this windows clutter causes you stress, virtual desktops are for you. Read More .
+
+Use spaces to categorize your apps. For example, you can have a space for work-related apps, one for social media apps, one for browsers and email apps, and maybe one for personal apps.
+
+Spaces are accessed using Mission Control. To open Mission Control, press F3 or Fn + F3 (if you’re using the function keys as standard function keys How to Make Better Use of Your Mac's Function Keys How to Make Better Use of Your Mac's Function Keys The top row of your Mac's keyboard is underused, and it's time to fix that. Read More or if you have a Mac with a Touch Bar). Mission Control can also be opened by swiping up with three fingers on the trackpad or by pressing Control + Up Arrow.
+
+Click the plus sign on the right side of the Spaces bar to add a new desktop.
+
+Click the desktop thumbnails on the Spaces bar to switch desktops, or press the Control key and either the left or right arrow key.
+
+You can also reorder your spaces by dragging and dropping them on the Spaces bar.
+
+To organize your apps onto spaces, drag a large thumbnail of an app in Mission Control to another space on the Spaces bar.
+
+Learn more about using Spaces on your Mac How to Use Multiple Desktops in Mac OS X How to Use Multiple Desktops in Mac OS X Multiple desktops were originally added Apple’s desktop operating system in 2009, but a large number of users are still surprised to find the feature exists at all. Read More .
+
+What About You?
+
+Now you should be able to use the smallest of screens with ease. If you’re looking for a minimalist Mac experience, there are some additional tweaks for customizing your Mac 9 Tips For a Minimalist & More Efficient Mac Experience 9 Tips For a Minimalist & More Efficient Mac Experience Your Mac's interface is clean and beautiful as it is, but with a few tweaks here and there, you can polish it up some more for a more pleasant desktop experience. Read More using a “less is more” approach.
+
+How to you make the most of your Mac’s screen real estate? Have you used the full screen mode or the Spaces feature? Let us know in the comments any additional tips you have for maximizing the screen real estate on a Mac.

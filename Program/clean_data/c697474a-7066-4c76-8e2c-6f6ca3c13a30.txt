@@ -1,0 +1,50 @@
+A Post By: Chas Elliott
+
+array(5) { ["name"]=> string(9) "Ruleset 3" ["threshold"]=> string(1) "2" ["paragraphs"]=> string(2) "15" ["days"]=> string(0) "" ["ads"]=> array(8) { [0]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "20" ["screen"]=> string(6) "mobile" } [1]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "50" ["screen"]=> string(6) "mobile" } [2]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "80" ["screen"]=> string(6) "mobile" } [3]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(3) "100" ["screen"]=> string(6) "mobile" } [4]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "20" ["screen"]=> string(7) "desktop" } [5]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "50" ["screen"]=> string(7) "desktop" } [6]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "80" ["screen"]=> string(7) "desktop" } [7]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(3) "100" ["screen"]=> string(7) "desktop" } } }
+
+Pin It
+
+For a photographer, skills in family portraits are essential and are usually the bread and butter for up and coming photographers. Looking at the history of photography, one of the first popular uses the camera was not for abstract art, or photographing the family pet, but for photographing people and their families. Because of the expense and difficulty of each photo taken, they became masters at getting things right the first time and being able to fit in as many people as possible into the frame. In order to hone in on the small things that make a difference in this classic and often overlooked form of photography, I have come up with my five DOs and five DONTs of family portraits. I’ve also included a few examples from portrait sessions we have done.
+
+Family Portraits DOs
+
+1) Do squish your groups together
+
+Most likely, even though they are family they won’t be getting close enough. Maybe it’s an American personal space thing, but it’s always been an issue for me and having everyone in tight truly makes a difference in the tone of the picture. When families are physically close, it emits a warmth and visually shows what families should be like…close. Even if you are photographing the Adams family, when you get everyone rubbing shoulders they look like a model family and the overall composition is more finished than a typical snapshot. As a starter, try having people stand at slight angles with shoulders overlapping. Also, consider the age of your family. If grandma is present, make sure you have a chair for her. If grandma and grandpa are both there, you’ll will need two chairs.
+
+2) Do coordinate clothing
+
+Before you meet with your family you should guide them in a wardrobe choice. Ultimately it is up to them and their families style to choose what they wear but simply reminding them to possibly overlap in a color scheme, avoid extreme colors, prints and logos on their clothing can make a big difference. This will give you an easier time post production, and you will have both options in color and black and white. As I said, it’s their picture and their choice, but a casual recommendation from a professional is usually appreciated.
+
+3) Do check the screen for blinking
+
+Shooting and shooting is okay for one or two people, but in a larger group it can be hit and miss and you may miss that one photo where everyone has their eyes open. I used to think “Hey, it’s digital. I’ll use the rapid fire method and surely I’ll get one right.” After a few sessions of transplanting eyes from one photo to another in Photoshop, I’ve changed my method. You can get away with a weak smile but if someone looks like they are sleeping or on drugs in their first family portrait in 10 years, the customer may not be too happy. With experience you learn to quickly scan across everyone’s eyes in an instant.
+
+4) Try and be funny to get some genuine smiles
+
+A few cheesy jokes work surprisingly well to break the tension. A typical photographer joke might be, “Okay, I need everyone to get in focus.” Or asking everyone to strike their best glamor pose. Another way to get a smile is to get them doing something they don’t normally do. Have them try jumping, running, making human pyramids or whatever comes to mind. If you have a one-liner you’ve used SUCCESSFULLY, or a creative and fun pose, sound off in the comments for the rest of us.
+
+5.) Do try and blur the background
+
+Choose the largest aperture setting you can, while still keeping everyone sharp. An aperture of f/2.8 might make the trees and shrubbery look silky smooth, but it might make Uncle Bob at the end of the line look fuzzy. This is especially a problem when everyone is standing on different focal planes. The solution is often to shoot a few clicks smaller than the lenses widest aperture, use the preview screen and zoom button on your camera to make sure everyone is looking good, then adjust and continue. If you’re really serious about this, I’ve even heard of photographers setting out cups length-wise on a picnic table to estimate the distances you start to lose focus. Seems extreme to me, just don’t forget about Uncle Bob.
+
+Family Portraits DON’TS
+
+1.) Don’t forget to check ALL your basic camera settings before clicking away
+
+ISO (go as low as possible), Image Size (RAW, fine), Exposure Compensation, Metering, etc. It would be sad to get to the end of a great session and realize you didn’t change the low quality settings from the last time you used your camera shooting Garbage Pal Kids you planned on selling on Ebay. Of course indoor and outdoor settings will differ, as will naturally lit and artificially lit.
+
+2.) Don’t let your subjects tilt their heads into each other
+
+This is fine for your everyday Joe at the family barbecue, but not a paid photographer. Subjects tend to think they will fit into the picture better if they tilt and lower their heads. Funny thing is, I’ve even caught myself doing this when I was being photographed. Watch for it and avoid it. There is always the lovey-dovey pose where they intentionally lean heads in, but that’s not what I’m talking about.
+
+3.) Don’t sound insecure
+
+Don’t say things like, “This isn’t working.” Rephrase it into a positive, “Great, let’s try a few more positions.” The more you tell them the pictures are looking great the better looking the pictures will get. Think high fashion cliches like, “Love it,”, “You’re beautiful”, “What a great one.” If you act like you have never seen such great photos the energy will give you just what you’re looking for and they will show confidence in their smiles.
+
+4/5.) These last two may seem to contradict each other so I want to put them together. 4.) Don’t let Mom run the show. 5.) Don’t be afraid to let Mom, Dad, and kids come up with ideas and posing.
+
+First about Mom. We all remember the drill, no running, no jumping, no dirt, and pretty much no fun until after the pictures. If you do this you can get a treat on the way home. This is probably the best way to ruin family picture day for the rest of every eight year old’s life. Besides the fact that it is almost impossible to control what eight year olds do, it makes for bad portrait sessions. If you are sensing a strong arm from Mother, make sure to get the squeaky clean formals done right off the bat. They are easy and traditional. After that let mom know that you’ve got it covered, now you want to have fun with the kids. Let them be kids, let them wrestle and play and capture them at their best. Once in awhile you will find families that are more relaxed. They may have seen fun family photos of their friends and want to do some in a similar fashion. Take their suggestions without letting them think you have none of your own and work them in. Often they will turn out great and they’ll feel like they had a little more to do with the pictures than just a pretty face.
+
+Pin It
+

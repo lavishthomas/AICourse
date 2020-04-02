@@ -1,0 +1,385 @@
+It is painfully heartbreaking to realize that a very small tiny number of people who have access to web analytics tools actually use them.
+
+I mean really use the tools. Ravage all the features. Exploit every possible button. Produce built-in visualization magic. Poke into the hidden crevices and discover exotic delights. Nourish yourself with the "info snacks" the tool's engineers and product managers cooked up.
+
+This post is all about that.
+
+When it comes to data analysis, you are usually more likely to see me share guidance on advanced segmentation or custom reports or advanced social metrics or controlled experiments or economic value or competitive intelligence or web analytics maturity or one of an infinite number of difficult, if hugely rewarding, things.
+
+Not today.
+
+Today is going to be about healing heartbreak. Ravaging data. Poking and prodding. Nourishing ourselves. And doing so with simple mouse clicks inside the standard tool interface (!) with the reports and features you can already access.
+
+Here is a summary of the eight incredible recommendations in this post:
+
+If you are an Analysis Ninja, focus on the mental model and approach used in each recommendation. If you are an Analysis Ninja in-the-making, close the door to your office/room – you are going to repeatedly squeal with delight.
+
+Ready?
+
+#1. Create a Customized Dashboard – Earn Love, Drive Change!
+
+Who does not love dashboards? Humans love them. Aliens love them. HiPPOs adore them.
+
+So why is it that we don't spend time creating customized ones for our stakeholders? After all, humans, aliens and HiPPOs have different needs.
+
+Pledge to shift away from a one-size-fits-all data puke, and use your web analytics tool to create a customized dashboard.
+
+One day, Google Analytics will default to be the Home tab when you log in, but until that blessed day arrives, just click on the Home icon in the orange top navigation. Then click on Dashboards, and what do you see? Oh yes! + New Dashboard. Click!
+
+I love that phrase "Blank Canvas." So open. So full of possibilities. So much hope and wonder.
+
+Now just because you can do anything does not mean you should. My process is to name the dashboard first. Seems odd, right? But by naming it, I am giving it a purpose; and a purpose requires asking questions and focusing. And great, relevant, dashboards spring from asking questions.
+
+I named my dashboard: VP, Digital. It now has a specific audience and a purpose. Rather than data puking, I'm now forced to go talk to the VP of Digital and ask this question: "What are your business priorities for the next six months?" That will lead to: "And how will you know if we've successfully executed on priority x?" That will lead to: "Awesome, I know exactly which critical few Key Performance Indicators I'll be showing in our dashboard."
+
+Boom!
+
+Every element in the dashboard has a purpose and is tied to a business priority. She/he wants more Social traffic. You, the Ninja that you are, are showing all segments of traffic to give context (you rock!). She/he wants time on site, you have no idea why, but you add it (along with a sparkline that shows the trend – sweet!). It is a content site, so rather than silly things like page views you use Loyalty (more on this below) and you also show consumption of videos (events). Finally, you bring together Conversion Rate with the Goal Value delivered by the Social obsession.
+
+Charming!
+
+[Update: If you would like to download the above mentioned dashboard into your Google Analytics account please click on this link: VP Social Media Performance Dashboard.]
+
+Pro Tip: Always, always, always let the Acquisition, Behavior and Outcomes framework be your guide. After you've created a dashboard, check to see that you have all three elements. If you don't, you are not showing the end-to-end picture. Without this you fail in your duty (and the data recipients will make poor decisions).
+
+Create a customized dashboard for your Search team, one for your Display team, one for the folks doing onsite merchandizing, one for the nice lady that owns the ecommerce shopping cart and all the other key clusters of your audience. Give them hyper-relevant starting points, collections of "info snacks."
+
+The cool bit is that in addition to standard widgets and simple tables, you can also bundle along your smarts into the dashboard and delight your users.
+
+One way is to use the awesome built in inline Filters feature when you use the dashboard widgets, to show just the data that is relevant (did I already say less data puking? :).
+
+In this case, I've done that by adding a filter to segment revenue to only show social value.
+
+And it is not all social media, it is just the money made from the company's own social media efforts by using the right campaign parameter. I'm (secretly) trying to show the VP how much (or how little!) money our own efforts are generating. Smart widget, smart insights, smart decisions.
+
+So go forth and multiply! Create a small cluster of hyper-relevant (secretly smart) dashboards!!
+
+#2. Leverage Custom Alerts – Let Data Kick Your Butt Into Action!
+
+Sometimes (actually frequently) it is not enough to rely on our own diligence in terms of remembering to log into SiteCatalyst and look at the right set of numbers (across a hundred reports!) to know what's up with the business. It is especially undesirable to be surprised about something awful happening to our digital existence.
+
+We can't predict the unknown unknowns easily, but we can be magnificent at proactively identifying the known unknowns by leveraging the custom alerts feature in our web analytics tools. Here's a screenshot from Google Analytics:
+
+These alerts will let you know if engagement on your website crosses certain thresholds or when the bounce rate spikes for traffic from Google or if there is a spike in conversions (praise the lord!). All things you know will happen, you just don't know when. Known unknowns.
+
+With smart alerts set, you don't have to remember to check the data every eighteen seconds. An email, or a text message, will poke you into action. Your boss will be impressed at how you seem to always have your act together!
+
+Here's one of my favorite custom alerts. I would like an alert when goal conversion rate for any day is greater than 25%. My normal is around 18%, so if it jumps up by that much I can get an alert and I can do deeper analysis to figure out what might have caused the spike.
+
+You pick the period for comparison, your the necessary dimension and metric, add the condition, type a value and you're in business.
+
+If you don't have at least five custom alerts set up, you can't call yourself an Analysis Ninja in training. At least not a serious one.
+
+Five of my favorite alerts are in the second part of this blog post: Identify The Known Unknowns: Leverage Analytics Custom Alerts Here are more clever examples from the team at Google: Five Custom Alert Examples
+
+Don't rely on yourself to remember to look for your site’s magic moments. Put yourself in position to be proactively informed when they happen.
+
+#3. Use Table View Options – Faster Initial Insights!
+
+Enough dancing around the outside of the tool. Let's rip off our clothes and jump into the cold inviting water!
+
+It is very hard to quickly understand a lot of numbers when they are presented together. When you log into WebTrends or Google Analytics or CoreMetrics, you're lucky if the standard report does not contain five or seven metrics at the very least for every table row. Data puke!
+
+Not only will you not see the forest, you'll be lucky to even see the trees.
+
+My preferred path is to leverage the tool's built-in features for filtering/visualizing the data.
+
+In Google Analytics there are a few super cute options. Click on the table like icon next to View. You can see five different ways to look at the data in any table: Percentage, Performance, Comparison, Term Cloud and Pivot. All exist to make your life easy.
+
+My personal favorite is Comparison. This option takes the site average for a metric and compares the individual performance of every row to that average, and it visualizes the data for you.
+
+For the top websites that refer traffic, I wanted to know quickly (without having to do the math) which source sends traffic that tends to see more than one page. AND I want to know contextual performance of every row with site average AND every other row. Hard? Nope. I simply choose Comparison. Then I choose Bounce Rate. And in two seconds…
+
+Like every two-year-old child, I know that red is bad and green is good. GA is telling me is that Twitter (t.co) traffic bounces 14.59% more than site average. Ouch.
+
+Scanning the rest of the table, remember I want contextual performance analysis, I can quickly see that I should love the GA blog, Linkedin and SEOmoz more and other folks a little less. :) But I am also now a lot more curious about Ycombinator. That is a lot of traffic. What post on YC did they come from? What content did they read here? Why might they not have cared for anything else? I can analyze and then identify an specific optimization/engagement strategy to reduce bounce rates.
+
+You can literally do this for any metric in the standard tables in GA. Try to look at your top 25 campaigns and compare conversion rate. Or open the new search engine optimization reports in Google Analytics , for your Queries look at Impression and try Comparison for CTR.
+
+Pretty cool. But that is not all.
+
+I've always been partial to pivot tables in Microsoft Excel, hence it is not surprising that my second favorite view option in Google Analytics is Pivot.
+
+Now I can create a lovely report, for example, to find "arbitrage" opportunities across search engines? Here's how you do it.
+
+1. Go the keywords report (in Traffic Sources section). From View choose Pivot (as above).
+
+2. Click on the box next to Pivot, type in Source, select it.
+
+3. Click the box next to Pivot metrics and choose Visits (or whatever else you like, go crazy!).
+
+4. Look at the performance. I typically look for anomalies. For which keywords do I get more traffic from Bing when compared to Google. Or Yahoo! compared to Ask, etc.
+
+Every search engine's SEO algorithm is unique. For example I get twice the traffic for "digital marketing" from Bing than from Google. I use the data above to customize my SEO strategy for each search engine.
+
+You can use pivot tables in pretty much every GA report.
+
+In this case, I can more easily figure out which of my top pieces of content are delivering the micro-conversions that are valuable to me. I track these micro conversions as Events, here's my Pivot table:
+
+Use your creativity when it comes to pivot tables and you'll be delighted at how wonderfully they help you answer hard questions.
+
+One last bonus item when it comes to using tables in web analytics tools spectacularly: Use the in-line table filters. Just click on the link called advanced next to the magnifying glass on top of the table you are viewing (in any report).
+
+Now, rather than looking at half a million rows and trying to find an answer, you can simply type in your question. In this case I only want the rows of data (keywords, campaigns, pages, products purchased, videos watched, whatever) only for those people who:
+
+1. Saw more than 3 pages during their visit AND
+
+2. Entered my website on the cluster of 900 pages about Aruba.
+
+These people are of particular interest to me … I click Apply and, voilà, I have them cornered!
+
+Using this strategy I can go to the standard table with hundreds of thousands of rows of data and quickly only look at data for my brand keywords or just for my email campaigns or just for people who visited more than 10 times or just for those who came via Yandex or just those that read a segmentation post or just those that donated or…. anything. And I can do it fast.
+
+Why stare at a table, or worse just the top ten rows, wondering what to do? Speed up your time from data to information by using the Comparison view, Pivot tables and in-line Filters.
+
+#4. In-Page Analytics – Re-imagine Traveling Through Data!
+
+This is one of the hidden gems of Google Analytics, especially for traversing lots and lots of data in context of the web page itself. It is fantastic at communicating data, complex data, to people whose primary job is not data analysis.
+
+The In-Page Analytics report takes all the data you would find in the Explorer and Navigation Summary reports (essentially all the links you have on a page and their performance) and shows it to you in an elegant visually appealing view.
+
+There are two ways to get to this report.
+
+1. Just go to Content > In-Page Analytics.
+
+2. Go to Content > Site Content > Pages, then click on the URL you want (or use the in-line table filter mentioned above to find the URL), and click on In-Page at the top.
+
+On top of the report you'll see the scorecard, or aggregate performance of the page via metrics like Pageviews, Unique Pageviews, Time on Page, Page Load Time (!) and Bounce Rate. Having the % of Total (grey text, small font below) provides great context.
+
+Below that, in blue, green, red and orange I see the percentage of clicks on each link. I don't have to infer data in the table, it is all laid out for me nicely!
+
+And note the orange bar at the bottom, it is particularly nice. It shows how many people click on links below the fold. The fold is defined by your browser size. As you resize the browser windows you'll see that number dynamically change. This data is extremely valuable for long pages, especially if you have valuable links below the fold. IF you're New York Times or Amazon, you want to know if people scroll!
+
+This is so important if you are responsible for merchandizing. If you have a few different layouts of your web pages, this is a great way to know which links, promos, and annoying dancing banners are attracting the clicks.
+
+But you don't have to watch clicks. Aren't clicks are the new HITS :).
+
+You can click on the Viewing drop down (#1 below) and choose any goal. When you choose a goal, the display changes to show what percentage of people who click on a particular link go on to complete a goal in that same session!
+
+In my case, below, 15% of the people who click and read the comments end up meeting my goal of going to Market Motive (and hopefully sign up for the Web Analytics Master Certification program!). But only 1.9% of the people who visit the Digital Marketing section of the blog do the same.
+
+In this case you can also see that the links on the top are especially valuable for this goal. Only 9% of the people who ultimately went to Market Motive clicked on any links below the fold (and the fold here is pretty much the top of the blog post!). So I have to be particularly good at the information architecture on top of the page. Once they scroll, the chances for goal conversion go down dramatically.
+
+I can do this type of "conversion click" analysis on any of my 8 goals. How awesome is that? With those insights, I can go and optimize my key pages for my individual business goals.
+
+Imagine what you can do with your home page optimization if you know this. Now when everyone wants a link on the home page or the category pages you can show them which links your visitors are actually interested in and let data fight your political battles!
+
+I rarely find anything really sexy (in an analysis context :) unless it comes with segmentation. You saw that in every single recommendation above. And my choice for this report is no different. You can segment like crazy.
+
+When I use the In-Page Analytics report I don't want to look at all the traffic in one ugly bucket. I want to analyze groups of like type people, like type behavior. For example, I want to know how the behavior of search traffic is different from direct traffic. How hard is it? Three simple clicks…
+
+1. I click on the Advanced Segments drop down and choose the standard segments (or one of my 50 custom segments).
+
+2. I click on the In-Page tab to go to the report. (I was in the Pages report.)
+
+3. I choose the metric I want. In this case I, selfishly, want to know if there is a difference the money I make (Goal Value) if Visitors from Search and Direct traffic click on the exact same link on the page.
+
+4. Bam! Bam! Bam!
+
+There is a substantive difference. When people come from search I make $142, on average, when they click on that link, but if they are direct I only make $58 (boo!).
+
+Imagine what a gift this is when it comes to figuring out how to create the best landing pages. I know what the Search Traffic gravitate towards, I can now optimize their experience on the site rather than serving them random/generic links!
+
+You can do this analysis for social media visits, for a particular keyword, for people who watch videos or download catalogs or, well, anything you can segment in Google Analytics (which is pretty much everything).
+
+Forget tables. Be sexier. Let your site tell you what to do.
+
+But there is one fly in the ointment.
+
+The implementation of In-Page Analytics in GA is frustrating and silly. When you first go to see that report (if you are using Internet Explorer), you are going to see this insane warning:
+
+If that box was not scary enough, the whole darn text is wrong. My ga.js (and most likely yours) loads from Google, and I have the snippet on my site. #aaaarrrrrhhhhh
+
+In addition to the above you'll also see this at the very bottom of your browser window at the same time…
+
+So, how do you make this report work?
+
+It is supremely annoying that the Google Analytics team and front end does not make that clear.
+
+But it is simple. Ignore the first error, and click the "Show all content" button on the second error. Magically, everything will work.
+
+If you are using an older version of IE you might see this error:
+
+Classic useless error. Don't click the default Yes – just click No and the report will work fine.
+
+In Chrome, mercifully, it works fine with no errors.
+
+While it is disappointing that the error shows up initially, the report itself, as you can see above, is quite valuable. I hope you'll give it a chance.
+
+#5. Perform Recency, Frequency & Pan Session Analysis: Fall in Love with People not Page Views!
+
+I'm a big fan of pan-session behavior. What happens across multiple visits by the same person? (And are there multiple visits at all in the first place?)
+
+Having grown up in the traditional business intelligence and direct marketing world, I'm also a huge fan of RFM analysis .
+
+In Google Analytics, you'll find them in the Audience Section under Behavior.
+
+Here is a great example of the type of business-critical question you can answer with these reports. We are a photo-sharing website (think little sister of Flickr ). We make money on content consumption (via display ads) and premium subscriptions to the site. But we can only make money if other people come and upload their photos, and still others come to view those photos. Long-term success is achieved if our audience becomes loyal and we don't have to keep spending money on Google and MSN and Yahoo! renting traffic.
+
+So, are they loyal? Check out the Frequency (count of visits) report. It shows how many people visited only once (42%) and how many 2 times and 3 times and… so on and so forth.
+
+For this business the results are fantastic:
+
+While a chunk of people come only once and never again, notice how bottom loaded the report is. 43% of the traffic comes to the site between 9 and 200 times in a month! That is loyalty! We can feel better about our marketing and engagement strategy.
+
+How about for your site? Are you having one-night stands or building longer-term relationships with your audience?
+
+Another nuance of loyalty is that you not only want people to come to the site multiple times, you want a shorter gap between two visits. You're looking for recency. This report show us how spectacularly we are doing for our photo site:
+
+The vast majority of visitors visit the site every day! Analysis Ninjas know that the 83% number above includes new visitors to the site, so we should subtract that (why are web analytics tools so annoying some times!). But, it is still a huge number, and we should be happy.
+
+How about for your site? Does the recency line up with, for example, the rate at which you publish new content/launch new products/execute new marketing campaigns?
+
+Another facet of pan-session analysis is looking at the number of visits it takes to convert our visitors. Not everyone wants to marry you on the first date, right? (Yet almost all digital marketing and almost all landing pages are constructed as though this were the case. Sad.)
+
+My favorite report to use to answer this question about customer behavior is the Path Length report in the new Multi-Channel Funnels section in Google Analytics.
+
+In our case, around 23% of our conversions happen in the first visit, and then there is a long tail and then look…
+
+OMG! 48% conversions that took 12+ visits to convert! We can specifically look at that segment of customers and figure out what combination of Google, Atlas, YouTube and Email Marketing (or whatever) it took to get that conversion!
+
+We can use this data to create better experiences for our users. We can optimize the ads and marketing messages (across channels) it took to get these folks to come to our website multiple times, prior to conversions.
+
+This is hard work. Most definitely senior Analysis Ninja work. But that is how you win big. When you skip this type of analytical effort, you doom your company to live on scraps. And really, who wants that?
+
+#6. Matched Query Type, Keyword Position, Day Parts: Sexier PPC Analytics!
+
+I've always been a bit miffed that most web analytics users are less than sophisticated when it comes to analyzing search/AdWords campaigns. So many companies spend so much money. Why not do some incredible analysis? Especially when our web analytics tools make it so easy.
+
+My first example is a good representation of that.
+
+Most people don't realize that when you view the keyword report in the AdWords section, you are looking at the key words/key phrases you bid on, not the queries that were typed by users into Google. If you base you AdWords success on just the keywords report, you might end up making substantially poor decisions.
+
+For that reason, I love and adore the Matched Search Queries report (in the Advertising section). It shows what users typed into Google when your ad was served. The report is standard in Google Analytics.
+
+All you have to do is click on the box next to Secondary dimension and type in Keyword. Now you are looking at both the word you'd bid on (right) and the word the user typed (left):
+
+You can quickly see the differences between your bid and the matched query (#2 above). The next obvious step is to look at the performance and optimize your Match Type strategy based on the results.
+
+In the screenshot above you can see that the keyword bid on was "calico critters toys." Those ads were matched to the user queries "little critters toys" and "calico critters cloverleaf manor." And there was a 9 points difference in the bounce rate (ouch!). Good to know. Go back, optimize your match types in AdWords and optimize your landing pages.
+
+Fun right?
+
+My second favorite? Keyword Positions report. Why? SEOs obsess about their rank on the search engine results page (SERP). That obsession is often valueless. But for your PPC campaigns? Obsession will deliver glory!
+
+So why not analyze which position your ads show up in when it comes to AdWords?
+
+A combination of your max bid, your quality score, match type will determine the position of your ad for every search query. Google Analytics will show you that information beautifully.
+
+Here it is…
+
+Just click on a keyword and the visualization on the right comes to life. Now you are better able to determine which position gets you the most clicks. Top 3 is better than Top 1 (the position your boss was obsessed about – "I WANT #1 RANK!!"), and neither can beat Side 1 (the cheaper position!).
+
+Another lovely thing you can do with this report is look at the performance once those clicks (ok, people) land on your website. Just click on the down arrow and choose the metric you want, Bounce Rate in my case below:
+
+You can see that every position has a bounce rate. Side 1 still has the best performance. You don't have to just use Bounce Rates. You can also use % New Visits, Time on Site and Pages/Visit as your metrics. The goal is still the same: find the position that delivers best performance.
+
+If a position works optimally for you, then you can use AdWords Automated Rules to have your ads show up in particular positions.
+
+You use your money wisely and get higher ROI. #winning
+
+One small bonus tip: I love looking at the AdWords Day Parts report a couple of times a month. Most of the time, the data shows the normal trend, more clicks and conversions during the business day.
+
+But every once in a while for certain keywords, or segments, I'll discover that the pattern is very different. For example, you can see below that the conversion rate actually peaks at midnight…
+
+We did not know that people were searching for us late in the night, and they were highly qualified (!). Hence sadly our AdWords budget was capped at that time, we did not to "waste" money. Sad. Once we saw this data we loosened up the budget and picked up loads of extra conversions.
+
+You'll discover other delights like this. In the view above I'm using the Compare Metric feature of Google Analytics. It is cleverly hidden in light gray text on white background on the top right of the main graph in every report. Just click on the drop down and choose the comparative metric you want.
+
+If you spend money on AdWords, be smarter about the analysis you do. There is no better way into your boss's heart. If you spend money on other types of campaigns, I hope you'll find inspiration above to do interesting off-the-normal analysis.
+
+#7. Custom Report Filters: Bring Deeper Relevance To Your Custom Reports!
+
+It is hard to keep pace with all the changes that web analytics vendors make to their tools. I wanted to share two clever features in Custom Reports that make them even more super magnificent (and mandatory if you are a Ninja!).
+
+The first one is the filters that are built right into the custom report you are creating.
+
+I love custom reports because you don't have to data puke any more, you can just show the data that is needed. [Helpful post: Leverage Custom Reports For Better Insights]
+
+Now you can focus even more by embedding the segments your leadership cares about right into the report!
+
+Above is my awesome Visitor Acquisition Efficiency Analysis report (click link to get it). But if my leadership team is only interested in understanding how good the company is at acquiring mobile traffic, I can include a filter right into the report (see above) to just show mobile traffic.
+
+And if they only care about USA (and why not?), I can limit my custom report to show just that. Why bug them with everything?
+
+Now my custom report is not just relevant, it is hyper-personalized. I have shortened the distance between data and insights.
+
+Your imagination is the limit in terms of the clever filters you can build into your custom reports.
+
+Second tip on custom reports: Create micro-ecosystems.
+
+I was not too pleased with the eight or ten standard mobile reports and their data views and all that. So, why not create my own custom report? Wait, not just a custom report but rather replace all the standard reports with my one Awesome Mobile Report? [Click to grab it!]
+
+My primary strategy was to create three tabs. One for device drill downs and metrics, a second one for search performance, and a final one to understand performance of content:
+
+Each tab has specific metrics relevant for just that dimensions (Device, Search, Page), and it is all in one place to give decision makers one go-to place for all their mobile performance needs.
+
+Same outcome: Faster movement from data to insights.
+
+You'll know you are an Analysis Ninja when you can replace 100% of your company's reporting needs with just five such micro-ecosystems. (Not 100% of the analysis needs, 100% of the reporting needs.) It is entirely possible, and think of how easy your life will be then…
+
+And I have to tell you it is a tremendous amount of fun.
+
+One final, surprising, way to do the data hustle with GA…
+
+#8. Quit Google Analytics: Move Beyond Tool/Creativity Limitations!
+
+Sometimes all the reports and features are simply not enough.
+
+You can't understand why it is impossible to see Keywords in rows and a monthly count of Visits in columns. Weird, right?
+
+You can't fathom why something so amazing and straightforward as tag clouds are so uncool and utterly useless in Google Analytics.
+
+You are frustrated with the insane report/table formatting requirements by your business leaders. They want a particular font type, or your dashboard goes into the junk folder!
+
+When you run up against the tool's limitations, weird implementations by tool vendor, or hard-to-please clients… quit the tool. Get the data out. Unleash your creativity.
+
+It is, of course, possible to take data out of Google Analytics. The straightforward way is to simply use the Export button in the top nav.
+
+The problem is the second image above. You can only download 500 rows easily, when you actually, in this case, have 122,397 rows of data. [And you all know how much I love mining the long tail by moving beyond the top ten rows of data! Not possible with 500 rows.]
+
+Option one is simple, yet slightly painful: "Trick" GA into giving you all the data that you want to download.
+
+Step 1: Go to the report you want all the data from. At the bottom of the table, change the number of rows in the "Show rows" drop down (see immediately above). Go from the default 10 to, say, 25. Step 2: Go to the URL address bar, you'll note that the URL looks something like this: https://www.google.com/analytics/web/#report/trafficsources-organic/a278315w434904p401908/%3Fexplorer-table.rowStart%3D0%26explorer-table.rowCount%3D25/">https://www.google.com/analytics/web/#report/trafficsources-organic/a278315w434904p401908/%3Fexplorer-table.rowStart%3D0%26explorer-table.rowCount%3D25/ Step 3: In the URL address bar change the value after the %3D that follows explorer-table.rowCount. Like so… https://www.google.com/analytics/web/#report/trafficsources-organic/a278315w434904p401908/%3Fexplorer-table.rowStart%3D0%26explorer-table.rowCount%3D1234/">https://www.google.com/analytics/web/#report/trafficsources-organic/a278315w434904p401908/%3Fexplorer-table.rowStart%3D0%26explorer-table.rowCount%3D1234/ See 3D1234 at the end? I added the 1234 to download 1,234 rows of data. Now hit the Enter key on your keyboard. Step 4: Scroll up, click on the button Export and click on the option you want (typically CSV for Excel). Step 5: Use your Analysis Ninja-like powers to create something amazing with this data. Like a better visualization. [For example, go create glorious tag clouds with Tagxedo or Wordle .]
+
+Happy?
+
+Now here's the caveat.
+
+Using the method above it is possible to download all of the 122,397 rows of data. The challenge is that you might not have enough cache allocated to your browser. Or you don't have enough memory. Or you might have an older browser. Or one of so many things that will cause your browser, not the web analytics tool, to hang. It is just hard to get that much data rendered into a browser.
+
+Of course where there is a problem, there is an incredible solution.
+
+If you want to export all your data frequently just use the free Google Analytics API. It is pretty cool. [Tools like WebTrends and Adobe have APIs as well. WebTrends is free, for Adobe API pricing please call your Account Rep.]
+
+If you want to have a quick naughty flirtation with the GA API, visit the Data Feed Query Explorer. If you enjoy that (and you will, because that is what naughty flirtation is all about) get more context about the Google Analytics Core Reporting API. End your journey devouring the handy dandy Dimensions & Metrics reference guide.
+
+Now allow your inner geek to rejoice!
+
+If, like a majority amongst us, you want to skip the flirting and jump to marriage, mosey over to the Google Analytics Application Gallery. Everything you can dream of is there. Data Warehouse integration? There. Business Intelligence? Got it. Campaign Management with a side of Email Marketing? Sure. Mobile Apps and Widgets and Gadgets? Absolutely!
+
+It is pretty cool to use the API to integrate your offline phone call data with your Google Analytics data, understand the demographics, gender, income, etc. of people who come to your site, or overcome the sub-optimal standard GA Funnel report by using PadiTrack.
+
+Going back to extracting data efficiently and making magic, three apps you'll find particularly useful are Excellent Analytics , Nextanalytics and GA Data Grabber.
+
+Excellent is free (hurray!). Nextanalytics costs $199/year and GA Data Grabber costs $299/year. Both tools are full of pre-built dashboards, reports, cool visualizations and easy ways to collect data from tons of sites and pull it all nicely into one report. Both also contain loads and loads of automation capabilities. They allow you to shift from 90% data collection and 10% actual work, to 10% data collection 70% data analysis 20% social media time-wasting. What's not to love? :)
+
+It may seem odd to spend money on a free tool. But not paying just one dollar a day to make your life better is most likely a Class 1 analytics crime. Don't commit crimes!
+
+Regardless of if you use WebTrends or Google Analytics, the API allows you to do better reporting, smarter analysis (with offline data) and automate the mundane. Create a better life for yourself.
+
+So that's it.
+
+Eight simple ways you can hustle with data, convert skeptics, earn the love of your website visitors, and improve profitability of your web business. All without leaving the confines of standard reporting features already inside your tool (except that last tip).
+
+I hope this post will accelerate your mastery of Google Analytics (or IBM or Yahoo! Web Analytics or Open Stats). And I hope it will mean less time spent wrestling data and more time taking action based on intelligent insights.
+
+Good luck!
+
+As always, it's your turn now.
+
+Are the strategies outlined above already a part of your daily data hustle? Which recommendation surprised you the most? Which one do you think is most over-rated? If you are a GA power user, did I miss a feature or approach that you love a lot? From your experience, with any tool, do you have a tip to share with your peer readers?
+
+It would be wonderful to hear from you. Please share your feedback, ideas and awesomeness via comments.
+
+Thank you.

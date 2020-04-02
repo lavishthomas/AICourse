@@ -1,0 +1,85 @@
+After Moore's Law: Predicting The Future Beyond Silicon Chips
+
+Enlarge this image toggle caption Science & Society Picture Library/Getty Images Science & Society Picture Library/Getty Images
+
+For several decades now, Georgia Tech professor Tom Conte has been studying how to improve computers: "How do we make them faster and more efficient next time around versus what we just made?"
+
+And for decades, the principle guiding much of the innovation in computing has been Moore's law — a prediction, made by Intel co-founder Gordon Moore, that the number of transistors on a microprocessor chip would double every two years or so. What it's come to represent is an expectation, as The New York Times puts it, that "engineers would always find a way to make the components on computer chips smaller, faster and cheaper."
+
+Lately, faith in Moore's Law has been fading. "I guess I see Moore's Law dying here in the next decade or so, but that's not surprising," Moore said in a 2015 interview with a publication of the Institute of Electrical and Electronics Engineers.
+
+IEEE is an organization that sets industry standards and innovation goals for many technologies (think Ethernet and Wi-Fi, for example). And Conte is one of the scientists at IEEE tasked with figuring out how to continue to accelerate computing after Moore's law no longer applies, what three-year, five-year and longer targets the tech industry should aim for. The project, announced this week, is called the International Roadmap for Devices and Systems, which succeeds a similar forecasting project previously focused only on chips.
+
+Enlarge this image toggle caption Courtesy Tom Conte Courtesy Tom Conte
+
+Conte gave me a sneak peek of some of the ideas that the scientists are considering — inspired, for instance, by our brains or by the notion that sometimes "good enough" is enough — and explained how we got here. The interview has been edited for length and clarity.
+
+So you're the kind of guy who's always looking to the future of computing.
+
+Exactly.
+
+What do you see there?
+
+Since about the mid-'80s computer performance has been tied closely to how small you can make a transistor. And the tracking of that is called Moore's law. ... What we've been trying to do is figure out what happens when we can't make transistors smaller anymore but we still need to continue to make computers faster.
+
+A lot of different ideas that we have thought up over the years have been put on a shelf because we could always rely on getting smaller and faster transistors. So now it's time to go back through the library of things that we've thought of. ... And maybe in that process, we believe, we'll have some innovation of even new ways to go in terms of how to compute. Biologically inspired ways to compute, for example, is a very promising avenue.
+
+Did you say biologically inspired?
+
+Yeah. We know just enough about how the human brain works that we can build something that, although it doesn't replicate what the human brain does, it still does some very interesting computations. And we can use (it) for problems that today are every expensive to execute on modern computers — things like image recognition or voice recognition, things that today take an amazing amount of compute power to do well. ... The term I like for this style of computing is neuromorphic, meaning we started with neurons and we morphed it into something else. ...
+
+What is forcing this move to start dusting off those ideas that have been lying on the shelf?
+
+Physics, in essence. Moore's law is really, really, really, really going to end. We know it's going to be over, because at some point in the near future, we'll be building transistors out of just a handful of atoms. When we're down to that level, you can't go too much further. The gig is up, if you will. So we have to figure out something else to do. ...
+
+And where does the International Roadmap for Devices and Systems come in?
+
+A lot of different ideas that we have thought up over the years have been put on a shelf because we could always rely on getting smaller and faster transistors. So now it's time to go back through the library of things that we've thought of.
+
+"Roadmapping" Moore's law has really driven the industry in terms of making faster and smaller transistors. And that's been great, it's been a self-fulfilling prophecy. ... (But) what's happened is that the industry has focused just on one specific, very small way of making an electronic device to do computing. ...
+
+What we need to do instead, what the International Roadmap for Devices and Systems is seeking to do is to look first at the ways that computers are used and for each of those kinds of ways computers are used, to then drill all the way down into what's the best way to do this? ...
+
+And we believe that each one of those domains would have its own, if you will, new Moore's law. ... These domains are, for example, weather prediction, or what we call big data analytics, which is what Google does, or machine learning for recognition of voice or images, ... a lot of high-performance computing simulations, such as thermal process evolution simulations. All of these are pushing the boundaries of what we can do with computers today.
+
+In which sense?
+
+We don't have enough computing power to do what we want to do. It seems like we never have enough. And the way the devices are, the way the transistors are that we get today, they're really, really power-inefficient, they really burn a lot of power.
+
+And we're talking power, like electricity at home.
+
+Oh yeah, a data center running some of these applications — we're talking mega-watts of power. So not the kind of thing you want to have in your phone, that would be very short battery life. So we need to come up with a way to do those fundamentally differently. ... Start at the top, say, these are the different things we care about that we know are pushing the boundaries of computing. What are their requirements? What are all the devices that we could build instead of a traditional transistor? Which one is best for this particular way of using a computer? Focus on how to do the manufacturing on that.
+
+So in essence, it sounds like the goal is to detach the future of computing power growth from constantly needing a better semiconductor.
+
+Right, from having to have a better traditional transistor.
+
+In computing, we've each been in our own little happy niches, if you will. Like floors in an office building, where the top floor did the software, the next floor did the hardware, the next floor did the circuits, the next floor did the devices — and each floor didn't talk to the other floors. And that's worked great, it's made us able to build huge computing power. But now it's time to reorganize ... and we all have to start talking to each other again. ...
+
+Can you give us some sneak peeks at those dusty ideas you're taking off the shelf?
+
+Well, we already talked about neuromorphic, which actually goes back to the '50s. ... As we learn more about how the brain works, we've been able to feed that into making more interesting and more powerful computing devices. ... But the way we do it now is, in essence, to simulate what we want to do on a regular computer as opposed to building devices that behave a lot more like neurons. ... We don't have those devices today. ...
+
+There are more exotic ideas. Another one that people know about is quantum computing, which is this idea of using "spooky action at a distance" ... using properties at the quantum scale ... to do very, very efficient computing — it works only on a certain set of problems, but those are very important problems.
+
+Like what?
+
+Like optimization. The traveling salesman problem is a classic optimization problem. If you're a traveling salesman and you want to plot a path between cities to, let's say, maximize the number of cities you hit and minimize how much road you have to drive to get there ... the only real way to solve it is to try every single path. ... What quantum computers let us do is to, in essence, explore all the paths in one step. ...
+
+Another idea I've heard was graphene, which seems like a more physical solution to the problem of silicon chips.
+
+That's all the way down at the materials level. Again, that's maybe the basement floor of our office tower, but the guys down in the basement have been working with this for a while and it will allow us to make devices that we can use for computing that are very different from transistors. Maybe we can make something that is much closer to a neuron, for example, with the efficiencies of a neuron, using graphene.
+
+Any other ideas you could share?
+
+There are many. Another idea is using approximate computing. That's this observation that for a lot of problems we over-compute. And things that begin or end in human perception can tolerate a lot lower precision than we're computing with computers today, but we haven't been able to really harness that wasted precision.
+
+That requires changing everything from the software — writing programs that tell you just how much precision you need here or there — all the way down to the devices, telling devices, "Hey, you can do a pretty good job, you don't have to be perfect. And, you know, if you don't get it right every now and then, it's going to be OK for this particular computation.' "
+
+Sounds like a very human approach to computation.
+
+Exactly, yeah, maybe in some ways we're getting closer and closer to humans.
+
+On a daily basis, I'd say most of us deal with two kinds of problems: things loading slowly and batteries dying fast. Are you going to look at the interaction of computing speed and power consumption in the daily use, for those of us who aren't trying to do quantum computing?
+
+Yes. That's where the action is, really, this trade-off between making things faster but burning more power in doing that. We're doing things inefficiently, we know we are, but that's because people on the eighth floor of our tower aren't talking to the people on the sixth. ... And that hasn't been a problem until — well — now, when we're hitting the wall, the physical limits that let us make traditional transistors. Now it's a big wake-up call ... we're about to fall in a pit, and so we have to figure out how to build a bridge across that pit to keep on going.

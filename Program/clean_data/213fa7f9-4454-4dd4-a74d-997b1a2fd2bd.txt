@@ -1,0 +1,77 @@
+The Google Analytics platform has been changing from a web analytics tool to a user-centric digital measurement tool (we’ve been calling it Universal Analytics). This evolution includes a number of changes to the system and completely new features. But what can you do when you put all of these pieces together?
+
+I wanted to write a quick post about how a business could use the entire platform to better market to users on the web based on non-website activities. We’ll explore how to use offline and online data to create remarketing lists in Google Analytics.
+
+Before I start a hat-tip to my buddy Dan Stone – a product manager at Google Analytics who often talks about this type of usage.
+
+Influencing Display Advertising using Email Behavior
+
+Businesses interact with users via many different channels – search, display, social, email, etc. And they’re always looking to better understand how one channel impacts another channel. That’s why we have attribution modeling.
+
+But sometime we want to take direct action, or even automated action, in a channel based on user behavior in a separate channel.
+
+For example, I may want to change my search or display strategy for users on my email list. Perhaps I want them to see different display ads because I have a better relationship with them.
+
+Here’s an example.
+
+With Analytics we can collect data from email marketing tools, send it to Google Analytics and then use that information to change display campaigns.
+
+The Implementation
+
+With some of the new features in Google Analytics it is very possible to change a user’s display advertising experience based on behavior in other digital environments.
+
+The first thing we need to do is bind the data in Google Analytics to the data in our own systems. This might be the data in a CRM or some other customer system. We’re going to use an old-school method that I describe in the post integrating Google Analytics with a CRM.
+
+Here’s a summary…
+
+When a user visits your site (or your app) Google Analytics sets a unique, anonymous identifier. This identifier is called the Client ID or cid for short.
+
+What we need to do is extract the client ID value from the Google Analytics cookies and pass it to your CRM system. Once it’s in your systems you should be able to join your internal customer IDs with the GA ID. I should note – this is not some task you finish in an afternoon. You need some nerd help and it could take a while.
+
+Make sure you check out these two posts for more information:
+
+Integrating Google Analytics with a CRM
+
+Understanding Cross Device Measurement and the User-ID
+
+
+
+Now that we have the two data sets joined we can do something really cool – we can send user-specific data to Google Analytics from other systems. This means that when we send out an email, or some other user-specific actions happens in our system, we can send that behavioral data to Google Analytics. How?
+
+To send data to GA from other systems we use the measurement protocol. This technology let’s us send data to Google Analytics from any system that can connect to the internet. It defines how to send data to GA. We’ll use the measurement protocol to send data about email activities.
+
+When we send an email to a user we will also send a measurement protocol hit to Google Analytics.
+
+Specifically, we’ll send an event piece of data. The event will indicate that an email was sent to this user and the type of email:
+
+www.google-analytics.com/collect?v=1&tid=UA-XX-Y&cid [UniqueID]&t=event&ec=Email&ea=Send&el=BackToSchool2014
+
+If we want to be really fancy then we can also send a second hit to Google Analytics when the user receives the email and another hit when the user opens the email. For example, if the user opens the email then we can trigger a pixel within the email that sends a hit to Google Analytics.
+
+www.google-analytics.com/collect?v=1&tid=UA-XX-Y&cid=[UniqueID]&t=event&ec=Email&ea=Open&el=BackToSchool2014
+
+
+
+I need to stress, you need to write a bunch of code that generates these hits. The implementation will really depend on your systems.
+
+The data in the above hits indicates that this email was part of the BackToSchool2014 campaign (look for the event data ec for Event Category, el for Event Label, ea for Event Actions. If we looked in Google Analytics the data would look something like this:
+
+All of these hits include a specific parameter named cid . This is the Client ID for the particular recipient of the email that I discussed earlier. When Google Analytics processes these hits they will be merged with the dame user data from the website – because they have the same cid value.
+
+OK, now we have user data coming from two separate systems and Goole Analytics is merging it together.
+
+Here’s where the fun comes in.
+
+Because all of this data is in one place, we can segment users in Analytics based on behavior, then use that list of users for remarketing.
+
+For those that have not use Remarketing, this is one of my favorite features in Google Analytics. Remarketing let’s you segment user on your website then send that list of users to Google AdWords (or DoubleClick if you use Analytics Premium) for use as a remarketing list.
+
+The remarketing segment would look like this:
+
+This segment is all users that opened the back-to-school email. I could also add a condition that the user received the email, but that’s not really necessary.
+
+Now we can use this list of users in AdWords. How? I may want to use the same creative for their ads. Or perhaps I offer them the same deal that was in the email.
+
+This technique is not just for email – you can use the measurement protocol to send data from any system. That means behavioral information from other digital experiences can be used to drive remarketing lists.
+
+Hopefully this example gives you some idea of how multiple Google Analytics features can be used together to drive real business results.

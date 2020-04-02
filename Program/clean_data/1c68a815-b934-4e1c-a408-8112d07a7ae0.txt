@@ -1,0 +1,203 @@
+You want to know whether your blog is doing well, right?
+
+Whether those posts you work so hard on are attracting traffic, and where that traffic is actually coming from?
+
+Whether your last marketing campaign was a smashing success or an unfortunate bomb?
+
+Because if you don’t know whether what you’re doing is working, you’re basically running around blind. And that means you could be wasting valuable time and energy on stuff that just plain ain’t moving the needle.
+
+There’s great news, though …
+
+If you install Google Analytics on your blog, you’ll never have to wonder how your blog is doing again.
+
+
+
+Why Every Blogger Needs Google Analytics
+
+Google Analytics is what replaces “I think this works” with “I know this works.”
+
+It tells you where your visitors come from, which posts they just can’t get enough of, and, well … almost anything else you can think of.
+
+Seriously, Google Analytics is like your own personal spy agency for your website.
+
+But here’s the thing:
+
+Google Analytics can only do those things if you can actually get it installed on your WordPress blog.
+
+And that’s why I’m here to lend a helping hand.
+
+How to Make Google Analytics Friends with WordPress
+
+Installing Google Analytics is actually quite easy, even if you’re not a tech-head. Honestly, you can have it installed in five minutes or less.
+
+Basically, there are two distinct parts to this process:
+
+Part 1: You need to create a Google Analytics account and add your website to Google Analytics. All of this happens inside the Google Analytics interface. You won’t lay a finger on your site.
+
+Part 2: You need to add the tracking code that Google Analytics gives you to your WordPress site. This is the part that trips a ton of beginners up. No worries, though. We’ll get through it together.
+
+I’ll give you detailed step-by-step instructions for each of these processes below.
+
+Ready? Let’s go …
+
+Note: If you already have your Google Analytics account set up, and you’re just struggling with adding the tracking code to your WordPress site, go on ahead and If you already have your Google Analytics account set up, and you’re just struggling with adding the tracking code to your WordPress site, go on ahead and skip to Part 2
+
+Part 1: Creating Your Google Analytics Account
+
+Alrighty, the first step in your journey to the goodness of Google Analytics is to actually create your Google Analytics account.
+
+For this, I’m going to assume that you already have a regular ‘ole Google account because, well … you’re on the Internet. If not, you can always create one right now.
+
+To get started with Google Analytics, head here. If you’re not already logged in to your Google account, Google will prompt you to sign in. If you are logged in, you’ll see a signup wizard right away.
+
+Go ahead and click that big Sign up button on the right:
+
+Next up, you’ll need to add details about your website. Here’s what you’ll need to enter in the Setting up your account section:
+
+Account Name — This is just for internal organization. You can enter whatever you want. In my analytics account, I put “Personal Projects” in this box.
+
+— This is just for internal organization. You can enter whatever you want. In my analytics account, I put “Personal Projects” in this box. Website Name — Again, this is for internal organization. Just enter the name of your website in plain words. For example, “Smart Blogger.”
+
+— Again, this is for internal organization. Just enter the name of your website in plain words. For example, “Smart Blogger.” Website URL — Paste in your website’s URL. The only tricky thing here is to make sure that you choose either http:// or https:// from the drop-down, depending on whether or not you’ve enabled SSL. Just look at the beginning of your URL to figure out which applies to your site.
+
+— Paste in your website’s URL. The only tricky thing here is to make sure that you choose either http:// or https:// from the drop-down, depending on whether or not you’ve enabled SSL. Just look at the beginning of your URL to figure out which applies to your site. Industry Category — This is optional. Google uses it to help provide tailored reports for your industry. If you don’t see a category that perfectly fits your website, feel free to leave it blank. It’s really not worth stressing over.
+
+— This is optional. Google uses it to help provide tailored reports for your industry. If you don’t see a category that perfectly fits your website, feel free to leave it blank. It’s really not worth stressing over. Reporting Time Zone — Most of the time, you’ll want to set this to your own time zone. But if your target audience has a radically different time zone from your own, it can be helpful to choose the time zone where most of your audience lives so that your analytics sync with their daily life.
+
+Once you’ve knocked that out, scroll down to the Data Sharing Settings options. There are no right or wrong answers here — it just depends on your penchant for privacy.
+
+I’m a grouch on the topic, so I always uncheck every single box. But you can feel free to check and/or uncheck according to your own preferences. And once you’re done deciding how much data to fork over to Google, scroll to the bottom and click that nice blue Get Tracking ID button:
+
+You’re almost there, but first, Google wants you to read their lengthy Terms of Service Agreement which, let’s be honest, you probably won’t read (I know I didn’t!).
+
+Once you accept their terms of service, Google will dump you straight into the Google Analytics interface:
+
+This part of the interface is where you’ll find your Tracking Code and Tracking ID.
+
+Keep this tab handy because you’ll need this information in the next part.
+
+Part 2: How to Add the Google Analytics Tracking Code to WordPress
+
+You have a couple of ways to add the Google Analytics tracking code to your WordPress site, each with its own pros and cons.
+
+You can choose to use the Insert Headers and Footers plugin, which is the quickest method and does a clean install of the Google Analytics tracking code without any added bells and whistles. This plugin also isn’t limited to Google Analytics, and if you ever need to add more code to your site’s header or footer sections, you can use this plugin for that as well.
+
+Or you can choose the Google Analytics Dashboard for WP plugin (GADWP), which helps you both install the tracking code and view analytics reports inside your WordPress dashboard.
+
+Note: GADWP isn’t the only plugin that offers this feature. You can choose from a number of quality plugins like : GADWP isn’t the only plugin that offers this feature. You can choose from a number of quality plugins like MonsterInsights and Analytify . I recommend GADWP, though, because it has a couple of free features — like tracking form submissions and tracking how far visitors scroll down the page — that are only available in the paid version of the others.
+
+The best choice comes down to whether or not you want the ability to view reports inside your WordPress dashboard.
+
+And not everybody agrees on this.
+
+Some find it useful to get a basic sense of your stats without having to leave your WordPress dashboard.
+
+Others feel the reports you get inside your dashboard are too limited, and you end up using the external Google Analytics dashboard anyway, so the widget only clutters things up. On top of this, the Insert Headers and Footers plugin may save you from having to install further plugins down the line, and the fewer plugins you have, the faster your site will be.
+
+If you have any doubts or are struggling to make a decision, install the plugin that gives you reports inside your dashboard and see if you find it useful. You can always switch later without too much fuss. Plus, you can still use the stand-alone Google Analytics dashboard, too.
+
+Make your choice below:
+
+→ Click if you DO NOT WISH to view reports inside your WordPress Dashboard.
+
+
+
+How to Add the Tracking Code with Insert Headers and Footers Okay, so you decided you don’t need to view analytics inside your dashboard, which means you can do a clean install with the Insert Headers and Footers plugin. Go into your WordPress dashboard and click Plugins → Add New. Then search for Insert Headers and Footers. Once you’ve found the plugin, click the Install Now button and it will change to Activate. Click Activate and you’re good to go. Once you’ve activated the plugin, go to Settings → Insert Headers and Footers in your WordPress dashboard: Remember when I told you you to keep your tracking code handy? Here’s where you’re going to use it. Head back to the Google Analytics interface and copy the whole script in the Website Tracking box: If you accidentally closed the tab or skipped the first section, you can always find your Google Analytics tracking code by going to Admin in your Google Analytics dashboard sidebar and clicking Tracking Info under the Property column: Okay, you have your tracking code. Now copy it, go back to your WordPress dashboard and paste it into Scripts in Header: Then just save your changes and … presto, you’re done! That wasn’t too painful, right? Keep reading for a quick and dirty guide to get up and running with the Google Analytics dashboard.
+
+→ Click if you DO WISH to view reports inside your WordPress Dashboard.
+
+How to Add the Tracking Code with Google Analytics Dashboard for WP Okay, so you decided you do wish to view reports inside your WordPress dashboard. That means I’ll help you install Google Analytics Dashboard for WP. And it’s easy. You can install it right from your WordPress dashboard by going to Plugins → Add New and searching for Google Analytics Dashboard for WP. Once you’ve found the plugin, click Install and then click Activate. Now head to the new Google Analytics tab in your WordPress dashboard and click the Authorize Plugin button: In order for the plugin to show you reports inside your WordPress dashboard, you need to give it permission to access your Google Analytics data. That’s what this authorization process does. Once you click the Authorize Plugin button, the plugin will prompt you to enter your Access Code. To get your access code, click the red Get Access Code link: Then you need to Allow the plugin access to your Google Analytics account: Once you click the Allow button, Google Analytics will give you your access code: Copy this code, head back to your WordPress dashboard, and paste the code into the Access Code box. Then, click Save Access Code: And you’re done! You’ll now see an Analytics widget on your WordPress dashboard homepage. (Yours might be in a different spot than pictured below, but you can move it as you wish.) You’ll also see a new Analytics column for all of your posts and pages. To access analytics for specific posts, just click on the Chart icon in that column: Once you click the Chart button, a lightbox window will pop up with stats for that specific post: Cool, huh? Now you might be confused by some of the terms you see — “what the heck is Bounce Rate?” — but no worries, I’ll explain some of the basics below.
+
+Finished? Then Check Out This Google Analytics Quick-Start Guide
+
+Okay, so you’ve installed Google Analytics. Now what?
+
+When you head to your Google Analytics dashboard, you might feel confused by all the different numbers and reports.
+
+Yes, there’s a ton of data in Google Analytics, which can feel overwhelming if you’re new to it and you don’t know what everything means.
+
+To assist with that, I want to introduce you to some basic Google Analytics reports and terminology that can help you understand what’s happening on your site. I’m not promising to make you a Google Analytics expert (there’s a whole academy for that!). But I can get you started on the right path.
+
+Google Analytics Terminology 101
+
+When you log in to your Google Analytics dashboard, Google is going to dump a bunch of terminology on you:
+
+Thanks, Google … but what does all that even mean?
+
+Here’s your cheat sheet:
+
+Users — The number of unique visitors to your site for the specified time period.
+
+— The number of unique visitors to your site for the specified time period. Sessions — The number of visits to your site. One User can have multiple Sessions. For that reason, the number of sessions will almost always be higher than the number of Users (and can never be lower).
+
+— The number of visits to your site. One User can have multiple Sessions. For that reason, the number of sessions will almost always be higher than the number of Users (and can never be lower). Bounce Rate — The number of people who leave your site without completing any actions. For example, if a visitor immediately clicks the “back” button, that counts as a bounce. Because of how Google Analytics calculates Bounce Rate, a user might still count as a bounce even if they only click the “back” button after spending ten minutes reading your post.
+
+— The number of people who leave your site without completing any actions. For example, if a visitor immediately clicks the “back” button, that counts as a bounce. Because of how Google Analytics calculates Bounce Rate, a user might still count as a bounce even if they only click the “back” button after spending ten minutes reading your post. Session Duration — How long, on average, each visit to your site lasts. From the screenshot above, you can see that the average visitor spends 48 seconds on my site. Don’t take this number as gospel, though. It can be a bit misleading.
+
+3 Basic but Helpful Google Analytics Reports for Beginners
+
+Google Analytics is mind-bendingly deep in functionality. And one of the joys of Google Analytics is finding creative new ways to structure reports and approach your data from different angles.
+
+But if you’re just signing in to Google Analytics for the first time, that doesn’t mean anything to you.
+
+So we’re not getting into all of them here, but let me share some basic reports with you to get your feet wet:
+
+1. Checking Your Visitors’ Demographics
+
+Knowing your visitors’ demographics can provide incredible insight into your audience. Where they’re from, what age they are, what they’re using to access your website. You won’t believe how useful this can be.
+
+For instance, on one of my sites, 80% of my visitors use their computers, while on another, over 80% visit from their smartphones. That’s a massive difference. And you’d better believe I put a higher emphasis on mobile-friendly content on the second site.
+
+Learning more about your audience’s demographics will help you find little idiosyncrasies like that for your site.
+
+To do it, head to Audience → Overview:
+
+You can click on any of the links under the Demographics column to see a more detailed report.
+
+For example, if you click on the Operating System option under System, Google Analytics gives you a breakdown of your visitors’ operating systems:
+
+2. Finding Your Most Popular Content
+
+Do you actually know which posts get the most traffic on your blog?
+
+Don’t guess. Go to Behavior → Site Content → All Pages and look at the real data:
+
+You’ll see all of your most popular content, as well as additional metrics for each piece of content.
+
+3. Discovering How People Find Your Site
+
+Figuring out which content sources drive the most traffic to your site helps you focus your efforts on the channels which deliver the best bang for your buck.
+
+Better yet, you might find some sites sending traffic to you that you never knew existed! Maybe you can reach out to them and form a stronger partnership.
+
+For all those traffic insights (and more!), head to Acquisition → Overview:
+
+You’ll see a breakdown of the different channels that drive traffic to your site:
+
+Organic search — Traffic that finds your site through a search engine.
+
+— Traffic that finds your site through a search engine. Direct — Traffic that types your URL directly into their browser’s address bar.
+
+— Traffic that types your URL directly into their browser’s address bar. Referral — Traffic that finds your site through a link on another website.
+
+— Traffic that finds your site through a link on another website. Social — Traffic that finds your site through social media.
+
+To see more information about a specific channel, all you need to do is click on it.
+
+For example, if you click on the Referral option, Google Analytics will show you a report of all the websites that drove traffic to your site for the specified time period:
+
+Let’s say you published a guest post on an A-list blog, and you want to see exactly how much traffic it sent you. This report will tell you!
+
+And these reports are just the tip of the iceberg. If you want to know more, check out Casey Kluver’s guide that dives much deeper into various Google Analytics reports.
+
+Congrats! Your Days of Guessing Are Over
+
+You’ve just learned how to stop guessing and start knowing. Gone are the days of wondering what’s making your blog and its visitors tick.
+
+Now you’ll have all the relevant data right at your fingertips, ready to pull up at a moment’s notice.
+
+You’ll know which marketing strategies and content work the best, as well as which could use a little rethinking.
+
+That means you can work smarter and build a better, more data-driven blog.
+
+And that, friends, is pretty dang awesome!

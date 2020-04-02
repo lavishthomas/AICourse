@@ -1,0 +1,11 @@
+[Asa Wilson] and his wife picked up a 10’x12′ greenhouse from Harbor Freight that for their location required some serious changes, understandable since they’re in Colorado on the western slope of Pike’s Peak where the winds are strong and the normal growing season is short. After assembling it on a concrete footing and adding some steel bracing, they got to work on adding an environment management system based around a Raspberry Pi. Read on for a look at the modifications they made.
+
+Currently, the Pi monitors a single temperature and relative humidity sensor. Based on that input, the Pi controls two exhaust fans located at opposite corners at the base of the greenhouse. These are speed controlled through a custom board and are used for drawing air in from the roof vents. A third, larger, oscillating fan is mounted near the roof for circulating air. It’s speed is set manually, but it’s also turned on and off by the Pi.
+
+There are four vents in the roof, each of which was previously manually opened with a single arm that allowed the vents to oscillate in the wind, and sometimes even fall closed. They fixed those issues by adding homemade vent controllers and geared motors in 3D printed cases. Those motors control two arms that firmly hold both sides of each vent, eliminating the oscillation.
+
+Interestingly, the Pi used its RS-232 output to talk to all the custom controllers but they ran into issues with resistance added by electrical noise. To fix that they added a driver that converts to RS-485 before sending the signal onward.
+
+You can see the results in the write-up on their pages and so far they look promising. However, more work is being done. They’re adding a thermal controller for monitoring up to 20 temperature sensors in the growing area and have plans for up to seven water valves. But even now, the greenhouse is a far cry from the simple plastic shell they started with.
+
+Along the same vein of automating greenhouses, check out [David Dorhout]’s automated watering robot that wanders around with a 30 gallon tank, watering plants. There’s also [Instrument Tek]’s similar 10’x10′ greenhouse Arduino based system that, in addition to fan and watering control, also controls heat and has wireless communication to a remote laptop.

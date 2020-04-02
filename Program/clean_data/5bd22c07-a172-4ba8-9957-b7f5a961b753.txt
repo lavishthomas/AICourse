@@ -1,0 +1,43 @@
+pieterh wrote on
+
+Every software developer uses APIs and most of us make them. The design of a "good" API is a black art. You know one when you see one. And yet how many of us could explain why some APIs are complex and hard to learn, while others are clean, simple, and a joy to use. It's a question I'll answer in this article, and provide ten rules for good API design.
+
+1. Make Only What You Need Today
+
+This is the top rule. Only solve problems you must solve, and make minimal answers to them. The temptation to solve tomorrow's problems is huge. Resist! Instead of trying to ship code in advance, focus on reducing your shipping cycles. If it takes you a few hours to ship answers to new questions, you can stop guessing what tomorrow's questions will be.
+
+2. Make the API modular
+
+Divide large problems into smaller ones, and solve each one separately. A modular API is easier to learn, and change over time. You can deprecate old modules with new ones. You can teach modules one by one. You can separate experimental pieces of the API from stable ones, from legacy pieces.
+
+3. Use Structured Syntax
+
+Use a structured syntax for the API: thing.action or thing.property instead of do_action_with_thing . The syntax naturally fits a modular approach, where each module is a class of things.
+
+4. Use Natural Semantics
+
+Invent no new concepts. Use only concepts the developer will already know, as the basis for your class system. If you find yourself having to explain a concept, you are doing it wrong. Either you're solving future problems, or you're structuring the API wrongly.
+
+5. Make the API Self-consistent
+
+Be rigorous in using the same style and conventions in every class. Consistency means when someone learns one class, they've learned them all. Document your conventions and make them a required standard for contributors.
+
+6. Make the API Extensible
+
+Easy extensibility has many benefits, not least it welcomes contributors. It also lets you delay implementing features, with "it's easy to add later if we need it." Every feature you do not add today is a win.
+
+7. Make it Fully Testable
+
+Every class and method must be fully testable by hostile code. Write your tests as you write code, and use the tests as documentation of the contracts that the API provides to the outside world. Run these tests every time the code changes. Do not worry about code coverage. What matters is the external contract. Consider using contract lifecycles.
+
+8. Grow by Layering
+
+Keep your APIs focused and grow them over time by layering new APIs on top. Extensibility does not mean indefinite growth. Be explicit about the scope of the API, and enforce that scope.
+
+9. Keep it Simple to Use
+
+The ultimate test is how simple the API is to use. When you write an example, could your code look simpler? Are you forcing the user to specify options they don't care about? Are they taking extra steps that add no value? Be obsessive about reducing the visible surface area of your API.
+
+10. Keep it Portable
+
+Do not allow system concepts to leak into the API. Abstract them cleanly, with the intention: this API could run on any operating system. Your API must hide the implementation, though be careful about rule #4, and use natural abstractions.

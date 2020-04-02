@@ -1,0 +1,529 @@
+24 minutes
+
+Copyblogger has long been one of the most authoritative blogs on copywriting and content marketing. While they used to reveal their most popular blog posts in their sidebar (sorted by most comments) it seems that is no longer the case. But what if it was? What if you could analyse any blog and see which of their articles have the most comments, in order.
+
+If you could rank them by how many backlinks those articles have, you’re left with foolproof solution for finding content ideas that attract links and comments. Fortunately, with the technology available today this is totally achievable in minutes and doesn’t require you to fork out for a virtual assistant to do all of the grunt work. In today’s post, I’ll show you exactly how it’s done, and a whole lot more.
+
+
+
+While a lot of the ‘whitehat’ link building web is focused on “writing great content” that sole focus could mean you miss out on some great opportunities to improve your standing in Google.
+
+Jon Cooper has one of the best link building minds on the planet, and here’s what he tweeted just a few days ago:
+
+While you can shout “Just write quality content” all day long, those of us who rank in Google are more often than not actively trying to do so. You can still focus on writing great content and add smart link building to your mix.
+
+A Unique Formula for Finding Popular, Linked-to Content You Can Replicate in Any Niche
+
+When it comes to analysing content to see what people are interested in reading about, we already have the likes of BuzzSumo to analyse how popular something was socially, but social shares don’t always correspond to links. What does correspond to links? Getting people talking.
+
+If something is worth commenting on in 2016, it’s far more likely to attract a link. And if you want to attract links to your articles, then write something worth commenting on. Just like you can learn from articles which received thousands of Pins on Pinterest or Likes on Facebook, you can also learn from the success of others in attracting comments and apply that to your own endeavours.
+
+I’m going to dive right into this first tactic and use Copyblogger.com as my example site to work with.
+
+What I first need to do is find a list of the blog posts on Copyblogger. You could wait around for a virtual assistant to collect all of the links manually but thankfully we have tools like Screaming Frog (free for analysing up to 500 URL’s) which can automate the process for us.
+
+If I just open up Screaming Frog as-is and run Copyblogger through the tool, I start seeing results like the following.
+
+The problem is that most of these results are useless unless I’m analysing their on-site SEO.
+
+They aren’t actual posts from Copyblogger and if you’re using the free version of Screaming Frog, you’ll use up your 500 URL limit very quickly.
+
+Fortunately Screaming Frog does have an Exclude setting, allowing you to pull back only the types of results you’re looking for. Here are some of the terms I have blocked to get a better picture of Copyblogger articles.
+
+In other words, if these words are present in a URL, then Screaming Frog will not list them.
+
+To find this box simply go to Configuration > Exclude and then add the terms you wish to exclude. Think “dot star [word] dot star” if you’re looking to write a list of terms quickly.
+
+Another option to help remove irrelevant results is to go to Configuration > Spider and uncheck most of the options, as shown below.
+
+Now if I run the tool again, I should get some ‘cleaner’ results.
+
+As you can see, I’m finding the actual blog posts that I was looking for with little ‘fluff’.
+
+Once you have your list, use the Save option so you have your list of URL’s.
+
+“This is just a list of pages from Copyblogger. How does that help?”
+
+As you probably guessed, there’s a bit more to this tactic than simply finding all posts on the Copyblogger blog.
+
+The next tool I want to use in my arsenal is URLProfiler which you can find here (not an affiliate link, there are none on this blog). While this is a paid tool you have the ability to scan up to 50,000 URL’s with their 14-day free trial as many times as you want.
+
+I use URLProfiler when I want to extract something from a page and have it linked to a specific URL. In this case, I’ll be extracting the comment counts from each blog post on Copyblogger.
+
+(Note: Screaming Frog does have a similar feature to what I’m about to discuss but I could never get it to work. Also, URLProfiler allows backlink count analysis which you’ll find useful in a moment).
+
+Once you open URL Profiler you want to either copy and paste in your URL’s from Screaming Frog or right click and select ‘Import from Screaming Frog SEO Spider.’ Usually I do the latter. That should look something like this.
+
+
+
+There are only 32 links because I don’t want to scrape their entire website. I have data about Copyblogger already.
+
+What we want to do next is head on over to the website in question, Copyblogger.com, and select the data you want to copy. This is slightly easier to do in Chrome than it is Firefox, but both are suitable. I don’t think Safari, IE or Opera will work.
+
+What I want to copy from Copyblogger, are their comment counts.
+
+Articles that receive a lot of comments are usually great to model in terms of content to write for your own website, and typically receive more links from articles that wouldn’t invoke readers to leave a comment. There’s a lot to learn from articles that get people to actually write feedback on a specific site, rather than social media, and especially so in 2016.
+
+So I head on over to the Copyblogger website and click on an individual blog post. From there I right click on the data I want to copy and click Inspect (I’m using Google Chrome) like so.
+
+Then I need to right click on the element again in the Console window and click Copy XPath, as shown below.
+
+If you’re familiar with Regex and so on then you can use those skills, but XPath has been the simplest one for me to get and it has worked 95% of the time.
+
+Then we want to head back to URL Profiler and follow the steps in the image below.
+
+Now click Apply and let URLProfiler do its thing. Depending on how many URL’s you import the job could take anywhere from a few minutes (less than 500 URL’s) to a few hours (50,000 URL’s).
+
+I then get back an Excel file and with a little cleaning (i.e. removing irrelevant columns from Screaming Frog) I get some very interesting data.
+
+I pulled back 392 articles with at least 10 comments, 221 with at least 50 comments and 81 with at least 100 comments.
+
+Once you’ve done this process once you can be getting new data on any website in a matter of minutes.
+
+Please note: For most websites and web hosts this kind of scraping is likely against their Terms of Service. I don’t accept any responsibility for what may happen if you take this too far (hence this post is titled ‘Advanced’). Please be responsible if implementing this kind of tactic by running the tools during low-traffic hours of the day, not pulling more pages than you need and so on.
+
+Now I know the most commented articles ever written on Copyblogger I can analyse them to work out why they received so many comments. You can also take this further and use URLProfilers option of accessing the Moz or Majestic API (both free) to get backlink data on every single post.
+
+In other words you can see the most commented on and linked to articles on any blog on the planet. For me this has been an absolute goldmine of information for new industries I want to enter and far better than just checking social shares with the likes of BuzzSumo.
+
+I use this process for so many things that I actually rent a server from Amazon so I can run these tools at max speed. When you’re collecting data on over 400,000 URL’s (which was one of my recent crawls) then you can get the data back in a few hours rather than a few days.
+
+If you get creative you’ll find there’s a lot more valuable information you can use this tool-combination on than just analysing link and comment counts.
+
+Thanks to Joshua for his help with the tools needed for this.
+
+Find Private Networks and Link Opportunities (Without Analysing Backlinks)
+
+It’s a well-known tactic in the SEO world to check the backlinks of your competitors so that you can find any possible link opportunities that you can duplicate yourself.
+
+What isn’t so common is to find out where your competitors are being mentioned without links, which may still pose some opportunities.
+
+One such tactic I like to employ is to search for a phone number or email address associated with my competitor.
+
+I’ve actually use the first option to find companies who are relying on other’s to rank sites that they then rent out to that specific business. Then you can delve into that site and see how they’re building links which help them rank.
+
+For example, here’s a website which is ranking for a search term which receives more than 10,000 exact searches per month.
+
+The website is featuring a real brand with a logo, Twitter account and Facebook page which has nothing to do with the domain name of the site I see ranking.
+
+If I search for their phone number instead of just looking at backlink analysis tools then I find another part of their network, here:
+
+This is a totally different site they’re using which also appears to rank well for their chosen keywords.
+
+Another result leads me to a Twitter account with their phone number, and once again I find another website this webmaster is operating.
+
+The keyword tools I use did not find this mini network they’re operating in order to dominate a sector of the pet niche in a certain state of the US.
+
+However, when searching for a phone number (or other key details like the first line of an address, or their email address) you can generally uncover a lot more with your analysis.
+
+AROUND(Number) is a Google Search Operator Which Improves Upon Regular Link-Finding Queries
+
+One query I haven’t seen any other SEO blog touch upon is the AROUND(?) search operator. It has been useful in a number of situations for me in recent months when trying to find specific strings of text in search results.
+
+It has been so useful that I’m surprised I haven’t read about it in the marketing world before — I found it when looking through some programming discussions on Reddit.
+
+What this query allows you to do is essentially find words that are within a certain proximity to each other.
+
+For example, you already know that if you search for niche “submit article” you’ll find sites in a particular niche which accept guest posts. This is a common search query shared on blogs about finding posting opportunities along with “write an article”, “submit your post” and so on.
+
+However, if we search for something like niche “submit” AROUND(4) “article” we can see pages for a specific niche or from a specific website which reveal a sentence where submit and article are not together, but still in close proximity.
+
+Not more than four words apart, in this example.
+
+So what I’ve done here is try to find websites which say submit and guest post within four words of each other and also have the world gold in their URL.
+
+Searching for “submit tip” or “submit guest post” would not have revealed this result.
+
+Look how much more natural that search query is. It’s something you clearly wouldn’t find from a typical “submit article” search and opens up a lot of other link opportunities that SEO’s aren’t finding with commonly shared queries.
+
+For example a sentence could have been “If you would like to submit your article” which a simple “submit article” search prior would not have found.
+
+If you change the number after AROUND (the one in brackets) you increase the allowed space you can have between two words.
+
+Let me give another example of how this query is useful. I recently noticed that some WordPress websites publicly show how much traffic their pages are receiving. This seems to be some kind of option in WordPress – I’m not sure where – but the WordPress forums are full of people wishing to turn it off.
+
+Here’s one such website which reveal their daily pageviews for each article.
+
+My first idea was to simply scrape their website (using the tools in the first tactic) and see which were the most popular articles they’ve ever written. That being said, I no longer run any viral pages on Facebook so I wouldn’t really have anything to do with the information.
+
+I instead decided to check was which other websites reveal this information publicly.
+
+Thanks to the AROUND search operator, I can do exactly that.
+
+
+
+(I went to page two for this screenshot since the first page is just people asking how to remove it from their sites)
+
+As we can see, even the USA government are in on the action to help out us marketers.
+
+Now to be totally honest I didn’t find anything too interesting from sites that publicly share their pageviews. I was actually hoping to make a tool out of it but not many big sites share their stats. I found some interesting article ideas on a few sites, but nothing that was really worth the hour or so of trawling through the results.
+
+Just think of all the standard search queries that you can now expand upon and find more natural results. Things like:
+
+niche “top tools”
+
+niche “recommended websites”
+
+Niche “submit a post”
+
+Niche “favourite links”
+
+No longer do you need the words to be ‘touching’. You can specify how far apart they can be and broaden your link building horizons.
+
+I’m hoping this query gives you some ideas of custom things you can search for you may not have been able to find previously. As I said, I use it far more than I ever expected it would and now that it’s in your arsenal, I hope you find places it can come into play.
+
+Reverse-Analyse The Links of Successful Flippa Listings
+
+When I used to write articles for SEOmoz (now Moz) back in the day, I wrote an article about four ways of building links that are currently working well for me. While the article was written in 2010, one of the tactics I shared there is still relevant today: Finding sites on Flippa with a lot of search traffic and analysing their backlink sources.
+
+The reason you want to do this is because it’s interesting to see how some websites are ranking quickly, receiving a lot of traffic from search and are able to sustain that traffic. It’s essentially an open diary of what is working in SEO if you focus on the right listings.
+
+For example, here’s a listing that’s live on the website right now.
+
+I have blurred out the name but they’re completely open about these stats (I don’t have to be logged-in to see them) so while I’m not sharing anything others can’t find, I’ll at least protect the URL.
+
+As you can see, their traffic has grown fairly rapidly.
+
+This is only interesting to me if most of it is coming from search, which in this case, it is.
+
+While the numbers aren’t huge, search still makes up most than half of the traffic to the site, and at least 33% of that is coming from the United States (meaning there are more lucrative opportunities for monetising that traffic).
+
+If someone has built a site worth a few thousand dollars in less than a year which relies on search traffic, I’m always curious to know how they got there.
+
+If we analyse their backlinks, it’s an interesting, albeit familiar story:
+
+As you can guess the links they’ve built are pretty awful and almost entirely consist of comment spam.
+
+However, their anchor text is very diverse so I think this is what has helped them stay under the radar and still benefit from these types of links.
+
+Of course, as I often say, it depends what niche you’re in as well. Trying to do this for ‘Gold IRA’ is just incredibly unlikely to work, but an image-based site can certainly benefit from automated and fast link building.
+
+Build a Private Database of Proven Promoters
+
+I first heard about this tactic from Brian Dean on a podcast with Eric Siu a few months ago. The idea is simply to create your own private database of real people who have already shared your content or content that is very similar to what you write about or plan to write about.
+
+You can then use that database to let people know when you publish new content that they may be interested in.
+
+For instance, here are two women who have tweeted content I’ve wrote in the past few days.
+
+If we click on Heidi’s profile (thanks for the tweet, Heidi!) we can see she has a very impressive number of followers and a genuine blog in the internet marketing space.
+
+In other words, she’s the perfect type of person to strike up a relationship with if I want more shares (and potential links) on future content.
+
+Please note that I will not be contacting Heidi or Kellie and request that others don’t either. They just recently tweeted my articles and therefore ended up in this example.
+
+Heidi, like many website owners, does not seem to publicly display her email address. Instead she has a contact form if you wish to get in touch with her. If this is the case with someone you wish to add to your ‘list’ then simply send a friendly thank you email to establish some sort of connection. You’ll also receive that persons email address when they reply to your email.
+
+Kellie on the other hand does show her email address prominently, so while I should still send her a thank you email, I could also add her to a ‘list’ very quickly.
+
+I typically just make a simple spreadsheet in Excel which looks like the following.
+
+I don’t write down any full names as I’ll generally never use them.
+
+You may be curious why I use ‘Company’ as the column heading for the tweet where they wrote about me. This is just a preference based on the email messaging platform I use. When I import the email addresses later, it will ask me what variable I wish to assign tweets to, and I choose Company.
+
+I personally use Reply for my email outreach but there are literally dozens out there so do your research first. I honestly just used the first option that looked good enough for what I needed, but it can get quite pricey.
+
+Once I’ve imported the list, I’ll set-up a campaign to send a message like the following.
+
+Note that I’m using the Company variable for where the link to the tweet they wrote about me will go.
+
+While this is quite a slow process (it can take a minute per email and many people don’t share them publicly) I actually think that adds to its charm. There are less people who are willing to take the time to do it and therefore you’re going to get a better response on your emails.
+
+I haven’t really utilised this much for ViperChill – though I may in future – but have for other sites.
+
+Of course, if the site that you’re trying to promote is new (like mine have been), then you can’t say things like “You previously tweeted an article of mine.”
+
+In that case you need to find similar articles to the one you are looking to promote, and then find the people who shared them on Twitter via their search engine.
+
+You certainly aren’t guaranteed any links with this method, but if you could get an extra 100 Twitter shares on your next article from real people with real followers, you greatly increase your chance of finding the ‘linkerati’ who actually have the power to link to your content.
+
+I did this for my article on ’16 Companies Dominating Google’ a few months back. Someone recommended an influencer who might like the article – they had no idea who I was nor had they ever read ViperChill to my knowledge – and I sent them a quick tweet about the post.
+
+Then this happened.
+
+I’ve never had more than 40 likes on a single tweet so it just goes to show what the right people can do for your promotion efforts.
+
+Sharing good content is often good for the person sharing it, as it shows them as being an authority in their particular field.
+
+Reverse-Analyse Scholarship Link Builders
+
+When I talked about scholarship link building in my state of link building report, I received more hate emails and publicly negativity than I ever have. So much so that one Reddit sub-Reddit went crazy about what a terrible person I was and how I was giving away advice to people who don’t deserve it.
+
+Normally negative feedback really gets me down, but in this case, I totally accepted it.
+
+If you don’t see any moral issue with students taking the time to fill out forms in the hopes of winning a scholarship – when there’s likely 99.9% zero chance you’re even giving away a scholarship – then we couldn’t be any more different.
+
+The example I shared in my last post was a brand new coupons website suddenly deciding to give away a scholarship in the first month of their opening and just got “lucky enough” to pick up dozens of .edu backlinks.
+
+I can not be convinced they weren’t doing it just for links, and more than likely have no scholarship to offer.
+
+I won’t be covering the tactic again, but I will state what there is to learn from the people who do this: What other types of links they build.
+
+People who use scholarship links often:
+
+Use donation links
+
+Guest post
+
+Participate in PIN’s
+
+Buy links on websites
+
+‘Sponsor’ software in return for a link
+
+If you want to know what works in the world of SEO, you should be following the people taking the time out to create these scholarship pages and then contacting the universities for a link.
+
+While I don’t agree with their methods, they’re on the pulse of what works.
+
+Here’s the example I shared in the past, and some of the other links that they’ve picked up.
+
+In one minute I’ve found an absolute goldmine of SEO knowledge by just checking one website. I can also replicate every single one of these links if I wished to do so.
+
+I’ve found one site I can donate to (it’s cheap) and two directories which accept links from anyone, as long as you get in touch with them. If I ever went the scholarship link building route (I wouldn’t), there’s two additional places I can get links from as well.
+
+The site was only started in 2016 so those links that shouldn’t really work are starting to pay off for them.
+
+This site is actually small in comparison to another webmaster who is building thousands of donation, scholarship and paid directory links.
+
+Just look at their traffic stats to see what I mean.
+
+They’re around 4x bigger than the first example but following the exact same method of link building.
+
+Start from one source, like websites listed as offering scholarships, and then work your way backwards through other links they’ve built.
+
+This tactic alone will give you more insights into SEO than the Google Webmaster blog.
+
+A Little-Known Reddit URL for Finding Promotion Opportunities
+
+If you’ve been following my journey on my personal blog at Glen Allsopp.com you’ll have seen that I shared exactly how I planned to write this article. In one update I wrote,
+
+What I tend to do with articles like this is totally ignore what’s out there on the web until I’m finished my own post. Then I’ll search for something like “Advanced link building tactics” (the topic I’m writing about) and see if there are any great ideas I can include. I’ll try to add something the original author hasn’t covered but will always link back where it is necessary.
+
+In other words, I never read articles on the subject I’m writing about until I’ve actually finished my own article. I want it to be original and don’t want to be swayed by the ideas of others.
+
+The following tactic is something I actually found on Reddit just as this post was about to go live, and thought was an excellent tip to add.
+
+Reddit has a little-known feature that allows you to see where a domain was shared anywhere on their website. So you could not only check your own website, but the performance of your competitors as well.
+
+For instance, if I use the following query – http://reddit.com/domain/viperchill.com – I can see these were the most recently shared stories from ViperChill on Reddit:
+
+What you can see in this highlighted box is that someone submitted my article to a sub-Reddit I didn’t even know existed and was actually able to send me thousands of visitors to my site in a 24 hour period.
+
+Now, granted, those visitors did not stay on the site very long (with seems to be a common theme with ‘Redditors’) but I can take some things away from this:
+
+I found a Redditor who reads ViperChill and has a bit of ‘authority’ there
+
+I learned about a new sub-Reddit I could possibly promote to in the future
+
+I received a lesson in writing Reddit titles for different audiences
+
+If your site is new or you have yet to really write any content worth sharing then looking up your own domain will likely pull back few results, if any at all.
+
+However, there’s no reason you can’t run your ‘competitors’ through the same query and get insights on sub-Reddit’s to use, Redditor’s who read content in your niche and content ideas you could cover yourself.
+
+I decided to look up my friend Pat Flynn’s blog, Smart Passive Income, to see the results for his website.
+
+I actually didn’t get the best of results back, so I modified the search URL a little, to this:
+
+https://www.reddit.com/domain/smartpassiveincome.com/top/?sort=top&t=all
+
+This will show me, from highest to lowest, the posts from Pat’s site which received the most upvotes in the history of Reddit. You simply need to click on ‘Top’ then ‘All Time’ if you want to do it manually, or you can just use the query above and swap out the domain name.
+
+With that query I get the following result:
+
+Now I’ve learned that I could potentially angle some of my future content towards the /r/productivity crowd and even though I’m in the internet marketing / make money industry, they could still respond favorably to the content.
+
+Reddit links themselves aren’t really worth anything but if your post does go viral, you have an opportunity to reach the type of people who could link to you.
+
+Rank for Terms the Linkerati Are Searching For
+
+The term Linkerati, coined by Moz.com’s Rand Fishkin, refers to people who have the ability to link. Meaning they have some place on the web that they could actually link from, whether it’s a forum, blog, online store or similar.
+
+If you don’t get the attention of people who can actually send links your way, then you aren’t going to pick up any links.
+
+This gem comes from Ken Lyons, who shared the tip back in 2013 on a creative link building post by PointBlankSEO. Before I add my own ideas to the original concept, here’s what Ken had to say a few years ago,
+
+We optimize and link to the “become an author” pages on each site we run this on so the doc will rank for search operators in specific keyword verticals. This gets us a steady flow of guest posting inquiries. We offer to “swap content” with bloggers that want to guest post on our sites. If you’re unwilling to or can’t swap, we won’t publish your article. With the number of sites we run, we swap an average of about 100 articles per month. What I love about this tactic is the efficiency: link opportunities come to us versus us having to prospect for them. This really puts us in the driver’s seat and means: – We can insist on only swapping with sites that meet or exceed specific quality thresholds. – We have total control over link placement within the article and aren’t restricted to a single author bio link. – We’ve been able to build ongoing relationships with others who run portfolios of sites and swap with them on a pretty regular basis.
+
+How smart is that?
+
+Rank for terms that link builders are using to find link opportunities in Google, then offer to work with them to help both of your sites. Similar to what I recommended with PIN’s, but actually having people come to you to pitch content.
+
+So you could set-up a dummy website like “Real estate backlinks” or “real estate guest posting” and try to rank for relevant terms to each of those. Then make it very open on your website that you offer link opportunities, and people should get in touch with you if they want them.
+
+Only once they get in touch do you start negotiations that are beneficial for both of you, rather than just plainly accepting their guest post on one of your websites.
+
+As Ken says, it’s likely that not everyone will be a perfect fit, but just like my success with outreach for paid links (see below), you’ll find the right person to work with now and then who makes it all worth it.
+
+Why Maps are the new Infographics When it Comes to Link Building
+
+When infographics became all the rage a few years ago it seems like every other article I was reading had them embedded. People saw them as a way to “ethically” build quality links to their website, and get a few extra pins on Pinterest.
+
+Infographic creation companies sprouted up across the web and some startups dedicated to their creation received millions of dollars in funding.
+
+While infographics are no doubt useful and visually appealing, I would argue their massive success is due to the SEO’s of the world creating them for links.
+
+This could well mean that maps, or more specifically interactive maps are going to be the new infographic when it comes to link building.
+
+After all, the biggest publications in the world are sharing them on a constant basis.
+
+I took this screenshot on the same day this article is going live.
+
+David McSweeney gets the credit for noticing this trend and doing a huge write-up on the topic a few months ago. Since his article I’ve certainly seemed to be noticing this more, and no doubt your average webmaster will be picking up on the idea soon enough.
+
+It’s Working for Insurance Companies
+
+I don’t really want to link to this one as it’s clearly just some SEO agency having created this for their client, but if anything it shows that even obvious implementations of this strategy can attract links.
+
+GoCompare, a UK-founded financial comparison site created an interactive map on the topic of ‘What Powers the World’ which you can find here.
+
+While it no doubt took technical skill to put together, it’s incredibly simple and doesn’t really reveal much at all.
+
+The map, while seemingly irrelevant for what GoCompare was founded to produce, has been able to pick up links from over 100 different domains.
+
+The obvious ‘problem’ of course is that for most people, these maps aren’t going to be easy to create out of the box. Keep in mind for however that for many people the same was true for creating infographics and still is today. I couldn’t design a beautiful infographic without help from others even though I’ve used Photoshop for years.
+
+I think we can expect to see more ‘map creation services’ popping up as people look to capitalise on this opportunity while it’s seen as a more ethical (and perhaps easier) way to build links.
+
+Do note that maps don’t have to be interactive to be shared. This following one was featured on Business Insider recently and is nothing more than a static image.
+
+As long as the angle you’re taking for promotion is interesting then maps offer a nice visual which could attract views and social shares for whoever publishes (or republishes) the information.
+
+If you’re interested in this tactic the first thing I would do is spend a few hours going through other examples of maps and simply noting which ones received a lot of social shares. Then try to find ways to make popular angle’s relevant to your own industry.
+
+The Report That Earned Me Hundreds of Links (And Still Works in 2016)
+
+At 18 years old, not long after I have just moved to South Africa, I started a personal development blog called PluginID (no link as it’s no longer online).
+
+I was trying to grow my reach with the site as much as possible and basically wanted to track my own progress compared to other bloggers in the space. I decided to create something which showed me exactly that.
+
+If I recall correctly the following script cost me around $150 to put together, but thanks to the links and attention it received, it was more than worth it.
+
+There were 71 sites on the list from the last count I can find so while the sites at the top weren’t interested in promoting it, those who were lower down the list definitely came back now and then to check how they’re doing.
+
+It’s funny to see the metrics I used to track back then and the ones we track today. It’s almost a history of the internet.
+
+Google Pagerank is dead.
+
+Alexa barely gets talked about anymore.
+
+Technorati is dead, too.
+
+These days the reports that I put together look something a little more like this:
+
+Note that this is not my own website but is a design I helped to advise on. I talk more about it near the end of this video.
+
+As a bit of an internet time-capsule, I wonder if we’ll still be counting links, likes and Twitter followers five years from now.
+
+I absolutely love the twist that Nathan Gotch has put on this idea (and not just because he has been far too kind in ranking me). His stats are not based on any particular scores like share metrics but his personal opinions of each article.
+
+Showing he reads and rates so much content in the SEO world instantly makes him appear to be an expert on the topic.
+
+And of course, everyone who is mentioned there wants to share it as well. While Nathan doesn’t seem to have picked up links, keep in mind that they’re generally much harder to get in the IM space because everyone is more likely to Tweet something than link to it. And people are definitely tweeting.
+
+
+
+I’ve seen dozens of tweets (and made some myself) but I’m unsure how to find them all directly due to Twitter shortening the URL’s.
+
+The great thing about this idea is:
+
+Every month, some of the 10 people who are featured will share the page
+
+It’s fairly easy for Nathan to put together since he reads the blogs anyway
+
+It’s useful for his audience (I’ve found a few cool new blogs via his list)
+
+As long as he can share 10 links for his audience each month it’s really a win-win for everyone.
+
+How could you do that in your industry?
+
+Could you curate a list of the top 10 articles about cooking, health and fitness, vegan recipes or anything else?
+
+Notify those who get featured and start becoming the standard ‘go-to’ resource in your niche for the top content found on that topic. If you’re passionate about the industry you’re in the articles should be easy to find.
+
+And don’t worry about “giving away” authority. I linked to 71+ blogs back in the PluginID days but people kept coming back to my site because I had the list and must have known a lot about the topic if I knew all of these sites.
+
+Reverse-Analyse the Link Building Efforts of Wikihow Link Builders
+
+Wikihow is a website which receives an estimated 86% of it’s traffic from search engines, according to SimilarWeb.
+
+While their external links are no-followed, once again the webmasters who are taking advantage of their resource have built a lot of other links you can duplicate as well.
+
+Whenever Wikihow pages link to external sources they use the heading text “Sources and Citations”. Therefore with a custom Google query you can pull back relevant pages from their site.
+
+If you edit the query to include a word relevant to industries you operate in, you can find active webmasters building links in your space.
+
+Similar to previous reverse-analysis ideas I’ve shared, you would then go and analyse other backlinks these sites have picked up and find some great link opportunities.
+
+Literally Just Ask Websites If They Sell Links
+
+I’ve put this towards the bottom of the article as it’s probably the least advanced tactic here due to how simple it really is.
+
+That being said, it’s rare that you’ll find bloggers talking about buying links these days, especially when it’s frowned upon.
+
+Then again, there have been some big brands who have experimented with it for SEO reasons, even if they don’t endorse the tactic directly.
+
+I’ve bought so many links over the last year that I almost wish I could offer link buying as a service (it wouldn’t be fair to the sites I’m buying them from if I was “caught”).
+
+As I said, this is a very simple process. I simply give a list of 1,000 or so domains (gathered from lists of top blogs in various industries) to an assistant who then log’s into a email platform I set-up and then simply asks them if they have links for sale.
+
+While the success rate is fairly low – many webmasters are scared of selling links – you do find people who have huge networks of links for sale, with fair pricing.
+
+[EDIT: The people who sent me this example email asked for the graphic to be removed from the post. I do want to make clear that there was zero identifying information on the sites selling links, nor who sent the email. They simply recognised their own email they sent to my assistant. However, out of respect I removed the image.]
+
+Most people you come across have websites they’re passionate about but they just don’t receive that much traffic and therefore aren’t making money. If they can get an extra $50-$100 per month for essentially doing nothing then many of them will jump on that.
+
+Just make sure when you’re sending emails you’re not using a domain or email address that you care about.
+
+For less than $3 per month you can use a private email option with Namecheap (found here) and then you don’t have to worry about setting up new hosting and so on.
+
+How to Consistently Pick Up Targeted Backlinks from the Top Sites in Your Niche
+
+While Dale Carnegie left many nuggets of wisdom during his time with us, the following quote is undoubtedly the truest.
+
+“Remember that a person’s name is to that person the sweetest and most important sound in any language.” – Dale Carnegie
+
+People can be talking metres from you without you hearing a single word they say, until your name pop’s up, and suddenly your brain is able to tune in on that discussion.
+
+I would argue that the second sweetest sound to a webmaster or product owner is a favourable review of something they’ve created
+
+Trust me, the best way to get anyone in the world talking about you is to have success with something they sell.
+
+I have an entire page dedicated to people who have success with my Marketing program and if anyone else sends me a video testimonial, you can be sure I’ll be quick to put it up there as well.
+
+One obvious place to start is somewhere like Clickbank and go through their marketplace to find products relevant to your niche. This is a bit of a tedious approach though because most of the reviews and testimonials that are found on sales pages, if they exist at all, rarely contain any links to the authors website.
+
+Instead, I would head on over to iTunes and find the top podcasts in your niche, and then see if those podcast hosts have any products or services you would personally be interested in.
+
+For instance, let’s say you’re a golf coach, run a golf course or sell golf equipment online. If you head on over to iTunes the first or second result you’ll find under a podcast search for ‘golf’ will be the Golf Smarter show, which has over 500 episodes.
+
+While there are no site names in the description, if I Google the name of the podcast I quickly find Fred’s website. I also find that he has a product for sale, for a very reasonable price.
+
+When you find something like this there are two approaches you can take:
+
+Reach out and ask Fred if he would be interested in featuring your review of his show on the website
+
+Reach out and ask Fred for a preview and in return you will review the show for him
+
+The review would then link back to your website and Fred would have a chance at getting more sales by actually having reviews on his site (he doesn’t have any yet, which is surprising).
+
+Please note that this is just an example: Please don’t flood poor Fred with dozens of review requests.
+
+Another example is the podcast IMTalk, designated for those in the middle of training for an Ironman. It’s surprisingly popular:
+
+If we head on over to their website we can see not one but three opportunities to get a link from them.
+
+You could:
+
+Purchase and review their products (ask if they’re interested in featuring testimonials upfront)
+
+Sponsor their show
+
+Submit content for their audience
+
+Using Copyblogger as an example once again, you can see that the reviewers of their ‘Authority’ program get a nice backlink from a great domain.
+
+While these links take a bit of effort, it’s probably one of the best links you could get if you also run a fitness website or more specifically one catered to those training for an Ironman competition.
+
+I have a special announcement coming on Monday so if you’re not already on the ViperChill email list please do be sure to opt-in below or in the right sidebar. Thank you for reading!

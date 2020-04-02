@@ -1,0 +1,61 @@
+A scanning electron microscope image of the incredible tardigrade. (Credit: Tanaka S, Sagara H, Kunieda)
+
+Tardigrades, also known as “water bears,” are microscopic animals capable of withstanding some of the most severe environmental conditions. Researchers from Japan have now created the most accurate picture yet of the tardigrade genome, revealing the neat tricks it uses to stay alive.
+
+In a new study published in Nature Communications, geneticist Takekazu Kunieda and his colleagues from the University of Tokyo present a genetic analysis of Ramazzottius variornatus, arguably the toughest and most resilient species found in the entire tardigrade clan. Their results show that tardigrades have evolved a unique arsenal of strategies to cope with stressful conditions, including a protein that protects its DNA from radiation damage.
+
+Advertisement
+
+When the researchers transplanted this protein to cultured human cells, the same protections still applied—a finding with potential applications to cellular preservation methods, genomic therapies, and the burgeoning science of transgenics.
+
+Tardigrades are strangely adorable microscopic creatures that are capable of withstanding some of the worst that nature can throw at them. Classified as “extremophiles,” they can survive freezing, total dehydration, radiation, and even the vacuum of space. Tardigrades are an ancient species that diverged from ancestral animals back in the pre-Cambrian period (~600 million years ago), and likely evolved their own unique genes over a protracted period of time.
+
+A tardigrade face. (Credit: Takekazu Kunieda)
+
+Earlier this year, scientists successfully revived a tardigrade that had been frozen solid for more than three decades—a new record for this durable species. Needless to say, scientists are understandably curious about tardigrades; research into these ancient creatures could tell us something about alien life on other planets, and how we might be able to leverage tardigrade biology in medicine and genetics.
+
+Advertisement
+
+This isn’t the first time that scientists have sequenced a tardigrade genome. Last year, geneticists from the University of North Carolina at Chapel Hill performed similar research, revealing the tardigrade’s truly bizarre genetic constitution. These researchers found that 17.5 percent of the tardigrade genome comes from other organisms, including plants, fungi, bacteria, and viruses. The water bear, it would seem, acquired many of its characteristics not as a result of its own evolution, but through the toil of others in a process called horizontal gene transfer.
+
+The new research from the University of Tokyo challenges this assumption, showing that the vast majority of tardigrade characteristics are truly “proprietary,” and not the result of horizontal gene transfer.
+
+A tardigrade walking on moss. (Credit: Takekazu Kunieda)
+
+The new study differed from the previous one in some very important ways. The researchers used one of the most resilient tardigrade species on the planet, R. varieornatus, whereas the previous study looked at Hypsibius dujardini, which is among the least tolerant freshwater species of tardigrade.
+
+Also, the researchers successfully eliminated all extraneous bacteria (using commercial chlorine bleach, among other measures), which allowed them to scan the tardigrade genome without any contaminants. This is important because the authors of the original study claimed that an incredible amount of bacterial genes were included in the tardigrade genome.
+
+Lastly, the researchers were able to sequence the tardigrade genome at a much higher level of accuracy, creating a genetic profile that was 100 times less fragmented than the previous one.
+
+
+
+Looking at the newly sequenced genome, the researchers observed that the proportion of foreign genes is closer to 1.2 percent, which is much lower than the 17.5 percent claimed last year.
+
+Advertisement
+
+“The proportion of 1.2 percent is not so special in the animal kingdom, and thus extensive horizontal gene transfer is not common in tardigrades, if any,” Kunieda told Gizmodo. “A striking feature of tardigrades is that they have developed—and abundantly express—tardigrade-unique genes, and some of them likely play important roles in tolerance.”
+
+Top view of a dehydrated tardigrade, showing a shrunk shape called ‘tun’. (Credit: Takekazu Kunieda)
+
+The authors of the new study were able to pinpoint a number of genes and biological processes responsible for the tardigrades’ remarkable survival skills.
+
+Advertisement
+
+For example, its genome contains more copies of an anti-oxidant enzyme and a DNA-repair gene than any other animal. Kunieda says these tools help the tardigrade counteract oxidative stress when it’s dehydrated, and to efficiently repair its damaged DNA.
+
+They also found that the hardy water bear expresses a tardigrade-specific protein that binds itself to DNA. This unique protein, dubbed Dsup, acts like a shield against x-ray radiation, preventing the DNA from snapping apart. This would help to explain why tardigrades are seemingly impervious to radiation, and why they can survive the vacuum of space.
+
+This tolerance to x-rays can be transferred to the cells of other animals. On tests using cultured human cells, the researchers demonstrated that Dsup suppresses x-ray-induced DNA damage by a whopping 40 percent. If this tardigrade-specific protein could be transplanted to live humans, it could improve our own tolerance against X-rays. And perhaps tardigrade biology could be used to make humans more adaptable to space.
+
+Advertisement
+
+“Once Dsup can be incorporated into humans, it may improve radio-tolerance,” said Kunieda. “But at the moment, we’d need genetic manipulations to do this, and I don’t think this will happen in the near future.” He also says that Dsup isn’t perfect, as it reduces the damage done by radiation to DNA by approximately half, “which is significant, but still only half.” What’s more, he’s confident that tardigrades use other strategies in addition to Dsup to fend off the effects of radiation.
+
+
+
+That said, Kunieda sees big things for Dsup, and other “extremotolerant” characteristics, both those that have already been discovered, and those still waiting to be found. “Using these tolerant genes collectively, we could confer enhanced tolerance to other animals,” he said. “Especially, if dehydration-tolerance can become transferable, I hope it will transform the way we preserve various biological materials, including cells, crops, meats, fish, and so on.”
+
+More work still needs to be done to fully understand the remarkable tardigrade genome. But one thing’s for certain—this creature is a survivor, and we would do well to learn its many tricks.
+
+[Nature Communications]

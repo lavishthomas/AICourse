@@ -1,0 +1,85 @@
+As faculty chair for Medicine and Neuroscience at Singularity University and curator of our annual Exponential Medicine conference (apply to join us this Oct 8–11th), I cross paths with many technologies which have potential healthcare applications. Some are still nascent and not yet close to clinical use (nanobots in our blood, 3D printed organs from your own stem cells), but many others are gaining traction and appearing in our homes, our pockets, and entering clinical settings faster than many might imagine.
+
+There remain significant regulatory, reimbursement, data privacy and adoption challenges (to name a few), but below are eight examples of fast moving, often convergent technologies which are already beginning to be applied effectively to health, prevention, diagnosis, therapy, clinical trials and beyond.
+
+1) The Connected, Healthy, Interactive Home
+
+Pharma, device and consumer health companies are racing to build apps on Amazon Echo and soon-to-arrive platforms like Google Home. I’ve had an Amazon Echo for three months, and it has quickly become second nature to speak to it and call up a favorite song, keep up with the news, check the weather, order a product, add to my calendar or even summon an Uber.
+
+Soon, Echo-like devices will become major healthcare interfaces — talking to your medical Internet of Things devices (i.e., wearables, scale, blood pressure cuff and glucometer) and perhaps, based on your genomics, diet, activity and blood sugar, suggesting the appropriate meal to have delivered or prepared. “Alexa, call 911” may become a routine way of calling for help.
+
+Here is an early example of an Amazon Echo programmed to run a daily wellness check using the Sense.ly platform. The Kids MD app, built by Boston Children’s Hospital, offers simple advice to parents about fever and medication. And looking beyond Alexa, even more interactive social robots like Mabu, the personal healthcare companion from Catalia Health and consumer-focused social robots like Jibo — both developed by MIT Media lab alums and faculty — are coming to market.
+
+As more elements in our homes have sensors measuring the health of our bodies and environment — from WiFi tracking of vital signs to incorporating data ranging from weather and pollen counts to neighborhood influenza outbreaks — the connected home and health-related interaction will become commonplace.
+
+Download the summary and key takeaways from Exponential Medicine 2015.
+
+2) From Medical Tricorders to Connected Home Medical Kits
+
+The blending of home-based diagnostic platforms with medical care at home is arriving. The Tricorder XPRIZE competition is well underway, with several teams set to compete in the final stages. Leading contenders include CloudDx and Scanadu, a company started at our first Exponential Medicine program, have successfully leveraged crowdfunding to enable their clinical trials.
+
+Gale by 19Labs is a next generation “first aid kit meets home health center” (see the below video for a demo) exemplifying how integration of home diagnostics paired with menu-driven (and potentially AI-driven) assistance and optional telemedicine connectivity can provide increased access to home-based diagnosis, triage and management of minor bumps and scrapes and also more complex medical conditions.
+
+3) The Healthcare Chatbot
+
+Interactive and engaging, from coaching on diet and nutrition to reminding you to take your medications or offering psychological support and follow up — the chatbots are on their way.
+
+Lark is a terrific example of a fun and witty AI sharing relevant personalized data tracking and insights about diet and exercise that may help manage chronic disease.
+
+Three winners of our 2015 Exponential Medicine MEDy Awards (Medical Entrepreneurship and Disruption) exemplify what is possible today. Sensely has developed an AI-enhanced virtual assistant “who” acts as a medical companion and monitor. It has demonstrated an ability to reduce hospital readmissions for heart failure patients. For mental health, X2AI developed “Tess’’ a conversational psychological AI. Software-based “emotional analytics” from Beyond Verbal can parse your voice and can add mental health context.
+
+Watch these startups present at Exponential Medicine 2015 here, and apply to compete and demo your startup at Exponential Medicine this October.
+
+As next-generation assistants like Viv (created by Siri’s founders) continue to advance, these intelligent interfaces will further enable highly personalized and complex services which cross into health and medicine.
+
+4) VR in the OR to AR on the Streets
+
+VR and AR are going mainstream.
+
+On the AR front, Google Glass (despite reports) is not dead. Glass is being leveraged by companies like Augmedix for physician “scribing” enabling remote note-taking to save physician time. Pediatric neuropsychiatry platforms like Brain Power are using Glass to help autistic children learn and gamify emotional cues.
+
+Microsoft Hololens co-developed VR for anatomy and interactive physiology with Case Western medical school for educating medical students. Simple versions for AR have been put on interactive T-shirts (check this out). Next-generation AR headsets like those from Meta will have a slew of applications for clinician and patient. Of course, gaming and AR has come to the outdoors with Pokémon Go, a game showing both physical and mental health benefits.
+
+With the launch of Oculus Rift and HTC Vive to consumers this year, a plethora of medical education programs, like VR Anatomy, are now in use. Others are leveraging VR experiences to reduce patients’ pain (and the need for opiates).
+
+I was in London this April and in the operating room with surgeon Shafi Ahmed and his Medical Realities team as they livestreamed the world’s first VR surgery (try it out on their website). Over 4,000 viewers from around the world watched the surgical case in real-time VR. See Dr. Shafi Ahmed and Dr. Rafael Grossman’s talk at Exponential Medicine 2015 for more on VR/AR in healthcare.
+
+5) From Quantified Self to Quantified Health
+
+As wearables and connected health devices proliferate we can easily be overwhelmed with data and develop a “so-what” attitude unless that data leads to manageable and actionable insights. No individual, let alone clinician, wants to log in to multiple apps or interpret raw data streams. Integrating digital data with clinicians’ workflow will be critical for adoption and the realization of the promise of digital health.
+
+Google Fit is now adding health-data exchanges , and already, Apple HealthKit is connected to over 30 healthcare systems. Data can flow from my iPhone to my electronic medical record at Stanford. I did a single authorization on my phone and a week later received a note from my primary care physician noting that my shared data looked good (nice to know he is watching).
+
+Increasingly, software will parse the data from a variety of data sources.
+
+Startups like Sentrian are making sense of remote patient data and preventing unnecessary admissions. Health systems such as the United Kingdom’s NHS are beginning to prescribe connected health technologies in trials of digital health coaching for chronic conditions such as diabetes. As demonstrated by Oschner Health System, use of smartwatches for notifications and smartphones connected to blood pressure cuffs significantly improved outcomes in treatment of high blood pressure. This work is summarized in the Exponential Medicine 2015 talk by cardiologist Dr. Robert Bober.
+
+6) Uber for Health Is Here
+
+Blended with telemedicine, combined services can respond as needed for a true house call that leverages a combination of home diagnostics with hands-on care. Startups like Pager and Heal have raised millions and are providing on-demand physician house calls, some of which are covered by major payers. ZipDrug is doing the same for pharmacy delivery.
+
+Concerns over this Uberization model persist, but as consumer behavior and expectations for on-demand services continue and payers expand coverage, they will likely expand. In the San Francisco area, first of its kind startup Honor provides a rewire for in-home care for seniors to match caregivers and needs. And indeed Uber is partnering with hospitals to get patients to checkups.
+
+7) Cancer Moonshots
+
+Of course, technology is only one element in addressing unmet needs across cancer prevention, screening and therapy. Further progress (and development of potential cures) requires alignment of incentives, policy, and regulations. This is exemplified by the White House Cancer Moonshot initiative lead up by Vice President Biden, which I attended in late June (see some observations and takeaways from the summit ). New policies speeding up FDA approvals, patent protection and data sharing have been implemented. There is even a new Cancer XPRIZE (which I’m involved in developing) under development will helpfully align incentives and speed up novel collaborations and approaches to decrease preventable cancer deaths.
+
+8) The ‘Omes Come Home and Are Being Crowdsourced
+
+From genome to microbiome and metabolome, it is becoming exponentially more common to send in a sample from home and obtain personal ‘omic information. 23andMe began the movement to consumer-empowered genomics and are now leveraging their data from 23andWe data donors to enable faster, novel discoveries. The company published a 450,000-customer study this month uncovering a major trove of genetic clues to the causes of depression. And newer players like Veritas Genetics now offer $999 whole-genome sequencing and targeted genetic cancer risk testing.
+
+We are also rapidly uncovering the importance of the microbiome in health and disease, and Ubiome and Second Genome now offer home kits which enable personal microbiome sequencing and the ability to anonymously be a ‘data donor’ share the data to improve its utility.
+
+As “Systems Medicine” evolves — integrating exponentially increasing data from genomics, microbiome, imaging, digital health, environmental information and more — we are now seeing, in the last year, the launch of services by Arivale and Human Longevity’s Health Nucleus , where early adopters can have a variety of data collected, tracked and analyzed, with the goal of generating actionable information for personalized health, prevention and therapy
+
+The eight areas mentioned above are just a taste of technologies and platforms rapidly entering healthcare. Some are still waiting for proof of value, aligning of incentives and the further connecting of the dots between various gadgets, data, apps, and integration into medical systems to be fully realized. Given the many challenges in healthcare around the planet, new thinking, creative technology applications, and talented people (often from outside the traditional healthcare sphere) are needed to bring these solutions to full realization.
+
+Looking to address challenges, understand the cutting edge, and contribute to the future of health and medicine? Join Singularity University this October 8–11th for Exponential Medicine 2016. Over 60 world class faculty and 50 selected startups in our Innovation Lab will join 500 selected participants from across the healthcare and technology spectrum for 4 days of convergence, talks, workshops, an unconference, beachside bonding and more. Space is limited: Go here to apply now.
+
+Related Links
+
+*Takeaways from Exponential Medicine 2015 (40 pages)
+
+*Exponential Medicine Talks (Watch mainstage presentations from prior programs)
+
+*Singularity Hub Coverage from Exponential Medicine 2015

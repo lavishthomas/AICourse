@@ -1,0 +1,313 @@
+Standard reports stink. Custom reports rock!
+
+If you are a regular reader of this blog, you are quite familiar with this sentiment. I've expressed it often. :)
+
+[Sidebar] I'm experimenting with sharing short stories via an insightful newsletter. I'd love for you to sign up: The Marketing Analytics Intersect. Thanks! [/Sidebar]
+
+The primary reason is simple: You are unique. Your business is unique. Why would a report created for everyone work for the special someone that you are?
+
+There are other great reasons as well.
+
+Custom reports allow you to deeply focus (by eliminating the rif-raf metrics and dimensions, they save time and show just what you want). When shared, custom reports allow you to deliver deeper relevance. Custom reports allow you to package up entire datasets for deeper analysis.
+
+I've shared a whole bunch of custom reports in the past. You can download them into your Google Analytics account via one click (along with some lovely Advanced Segments and a Dashboard). Just go to the GA Solutions Gallery and click Import: Occam's Razor Awesomeness.
+
+You can download a bunch more, that are not yet in the bundle above, by following the links at the end of this post. Seven more! The include single custom reports that replace all/most current standard reports in GA on Mobile, Content, Paid Search and Acquisition. Your life will be simpler. Grab the above, then grab the ones at the end of this post.
+
+Today, I want to share a few of my recent favorites that solve day-to-day challenges in clever ways.
+
+But, before we go there I want to share an important concept. Many custom reports are wrong because we mess up the fundamental data model in analytics. We mis-align metrics and dimensions across Users, Session, Hits. If you want to create accurate custom reports (or apply advanced segments), this post is mandatory reading: Excellent Analytics Tip #23: Align Hits, Sessions, Metrics, Dimensions!
+
+With that life-lesson out of the way, here are the super-cool custom reports that truly unlock the power of Google Analytics…
+
+If you use Adobe or IBM or… you'll find these concepts to be extremely relevant. They all allow you to create deeply custom reports, so just recreate them there. If your digital analytics tool does not allow you to create these types of reports, ditch it before it gets you fired!
+
+In each of the above five amazing custom reports, you'll learn various techniques – how to create a flat report, how to use filters, how to create micro-ecosystems of data, just get cool visualizations you can in PowerPoint, etc. – and you'll have a link you can click on to download the report directly into your Google Analytics account.
+
+Here we go….
+
+1. Hostname [Domains with your GA code]
+
+This report demonstrates the power of getting something out of Google Analytics that you might know exists there.
+
+There are many metrics and dimensions in GA that are hidden because they are not in any standard report.
+
+I suffer from the problem that tons of people scrape the content from this blog and repost it as if it were their own. Silly problem (and an ineffective strategy for the scrapers). I was worried that if they scrape the content from my blog, they likely scrape my GA code as well and now I have polluted data!
+
+There is a simple way to understand the impact, create a custom report to draw out an otherwise hidden GA dimension: Hostname.
+
+Here's my custom report…
+
+I wanted to capture how many sessions and users were being "added," I wanted to know their bounce rate (ha!), and some sense for how deep the engagement might be on their site (as I have set up some behavior goal-types on my GA account and also, hurray, assigned goal values!).
+
+Here's the resulting output… a simple and effective report that caused me to step off the ledge…
+
+So, yes, people are scraping content. It is not a big deal.
+
+So the Sessions and Users numbers are tiny – completely ignorable. (This is why I think it is such a distraction to have Analysts wrap themselves into a pretzel and spend a ton of time and custom coding to "eliminate internal company traffic." Look, just grow the pie, just do better marketing. Make the internal traffic so small that you can ignore it!)
+
+I'll admit it hurts a bit that their bounce rates are so much lower than mine. :)
+
+On a serious note, some of these values are ok. For example, translate.googleusercontent.com shows users who are reading the blog via Google Translate and are likely non-English speakers. If this number is big, consider providing translations. Just check each source to see if you need to be worried. And, in my case even if the number are 10x more, I would not really worry in context of the 1.2 million overall Visits.
+
+Custom Report Download: Just grab the Occam's Razor Awesomeness bundle, the report is in there.
+
+Bonus: There's lots of goodness that is hidden in Google Analytics. Explore here: Dimensions & Metrics Explorer
+
+2. Social Media Performance Analysis
+
+This report demonstrates the power of custom reports to reduce the time you spent hunting and gathering.
+
+Let's say you want to analyze your social media performance. At the moment you will have to go to the Acquisition folder, and at the very minimum look through all these reports to pick out the best bits…
+
+That's a lot of stuff, right? The All Traffic folder has Social spread out in Channels, Treemaps, Source/Medium and likely in Referrals. In the Social folder you've got lots of other stuff (which might be un-tied to All Traffic), that you likely need some time to internalize.
+
+For most people, you don't need all this digging around. You can create one destination where you, and everyone in your company, can wallow in the trough that is social data!
+
+I call reports like this one micro-ecosystems. It brings together everything you need in one place. (There's a Paid Search micro-ecosystem you can download at the end of this post.) We have three tabs of data. The first one gives you the overall end-to-end picture (Acquisition – Behavior – Outcomes). The second one will focus on analyzing content performance on our site from Social traffic. The third one will be on device analysis (because of our hypothesis that so much of Social consumption is mobile!).
+
+Here's what the first tab, ABO, looks like in the configuration mode…
+
+Always, always, always, no matter what you report, ensure you have acquisition, behavior and outcome metrics. You'll see all three above.
+
+I want to know what Social Network people are coming from. I want to know Users (valiant imperfect effort at people!) and how often each User comes (acquisition metrics). How much content they are consuming (I use session duration only on rare occasions due to time imperfections) and do they get what they were looking for are go hunting (behavior metrics). Finally, what value was delivered to my business (even for a non-profit such as myself, an outcome metric).
+
+To aid further discovery, I've created a drilldown for country to optimize my social participation.
+
+Do notice the clever use of the filter (Social Source Referral Exact Yes) above. I want to give the Google Analytics team big love for this life saver. It was deeply frustrating to keep track of social networks (they come and go every day!). Now with Social Network dimension and Social Source Referral filter, you don't have to worry about it. Uncle Paul is keeping track of it on your behalf! Give him a hug next time you see him.
+
+Here's the delightful report…
+
+I can easily see all the sources I would expect, and some I did not expect. Again, this is thanks to Uncle Paul's clever mappings. I can see that Pocket drives most repeat visits, and people are most curious (5% internal search rate). They are also delivering the highest Per Session Goal Value.
+
+I've never expressed much engagement with Stack Exchange (or Quora), clearly a mistake I need to rectify.
+
+It also confirms some truths I already knew, Twitter and LinkedIn. But I have stronger numbers for some metrics, but it is clear I can do more to increase the Per Session Goal Value. (I would do that by creating advanced segments for, say Quora and applying that to my Goals Overview report and comparing it with Twitter and LinkedIn.)
+
+Before I go there, I can click on the network I'm most interested in and see where the traffic is coming from…
+
+There are huge differences for me between Twitter and Facebook. Insights I will use to shift my participation on both channels.
+
+Such a simple collection of metrics and dimensions, such lovely immediate insights.
+
+The second tab is more fun. We always worry about our tweets and posts and reshares when it comes to Social. We don't analyze what people are interested on our site (mobile or desktop) enough. So, here's the tab configuration…
+
+I've switched the dimensions so that I look at the Landing Page first, and then drill down to which Social Network is most effective. For metrics, I've chosen Unique Pageviews and Pageviews (remember pages are hit level metrics, don't pick Users and Sessions, they are session level dimensions). Then Page Load Time and Bounce Rates – interesting contrast, right? Finally for outcomes I've picked Page Value (remember, it is imprecise to measure session level metrics like conversion rate, goal completions, for hit level dimensions like pages).
+
+Here's the gorgeous beast…
+
+First, look at the contrast between Page Load Time and Bounce Rate. Even accommodating for the fact that Page Load Time is sampled and could always be measured better, there is a lot of goodness here. Work for me to think about and my IT Team (one person 10% of the time!) to action.
+
+The thing I'm most surprised about is the long tail of Social interest. I now write once a month, so much of the stuff above is old. This is a good reminder. Most Social strategies consist of spamming the fresh and moving from fresh to fresher to freshest. Forgetting the truth above. The value in monetizing the old (and still relevant and valuable).
+
+It is also clear above that certain types of content delivers higher value outcomes for my little business here. That in turn will help me figure out what to amplify using social channels. Fewer Google Analytics posts, more broad marketing and business consulting posts! Goodness. I should stop writing this one. :)
+
+Tactical and strategic insights. Lovely.
+
+I can also then drill down specifically and optimize for each Social Network by clicking on any of the posts above…
+
+A new layer of insights.
+
+It should not matter that my insights and guidance above are for a content site and you have an ecommerce website. On Social we create content (hopefully that informs, entertains, provides utility – my mantra for social success). You can use the same process, for your hardcore ecommerce money making venture, to identify actionable insights.
+
+Lastly, remember the hypothesis that most Social consumption is mobile?
+
+I have a tab called Device Analysis to help me dive deeper into people's behavior by device when it comes to Social, here are the ABO metrics…
+
+Turns out that at least for me, the prevailing wisdom is not true. Yes, mobile, mobile, mobile and mobile. I hear you Gurus. But, my report does not bear that out. I need to ensure my social strategy is Desktop, Phone and then Tablet (I have to admit this small number was a big surprise).
+
+This will influence the content I'll write (length, type, images, etc.), and it will influence the promotion I might do using advertising options (for example, as Edgerank chokes all of us, I buy ads on Facebook to share my content, above data helps me target that better).
+
+My Device Analysis report has a built in drilldown. Just pick the platform, click. Here's the report for Mobile…
+
+It was really fascinating to see the goal completions and conversion rates for Apple vs. Samsung. They did not go with what the prevailing wisdom was. If I were a real business I would use these insights in my ad-targeting strategies. But, I'm too poor (other than FB above), so this report is just for demonstration purposes for me. You can, and should use it though as a part of your Social Media Marketing strategy.
+
+Custom Report Download: Log into your GA account, click: AK: Social Media Performance Analysis Report
+
+Bonus: The very best use of custom reports is when you apply relevant advanced segments to them. This is how you find really rich insights. For example, I found it extremely useful to look at the broad cluster of Social Traffic and contrast it with Users that became Loyal to the website…
+
+A much smaller number than you might expect, but these are golden people to me, a part of the avinash army of analysis ninjas! I learn from what works for them, and try to get more of them.
+
+I would not get to this if I did not use advanced segmentation.
+
+3. Business Outcomes Analysis
+
+This report demonstrates the new amazing metrics in Google Analytics, thanks to Enhanced Ecommerce, and the new wonderful ability you have to understand the business outcomes delivered from all those cookies/visitors/users.
+
+All you people (like me) with non-ecommerce websites, hang in there. See the second tab below, that's for you. We'll come back to it. Patience padawan!
+
+I don't like having more than six or so metrics (as you've seen above, and will below). Humans and only take so much in at one time. But in this case, more to demonstrate the power, I'm going to go a bit overboard.
+
+For my ecommerce business, I've chosen my acquisition, behavior and outcome metrics…
+
+We start with Users. So far so good. Deep breath.
+
+The first new metric is Buy-to-Detail Rate, it measures the number of products purchased per number of product-detail views. I love this, and think of it as an efficiency metric. (Do you know what % of Sessions contained a Product Detail page view?) Product Adds to Cart and Product Checkouts are just what they imply. Clever new behavior metrics.
+
+Ecommerce Conversion Rate, Transactions, Average Order Value and Revenue are buddies you already know so well.
+
+I worry that Analysts are way too locked into Adobe or Google Analytics' monthly view and rarely look at longer term performance. Partly because the graph on top only looks at one metric (and that too over 30 days unless you change it, dang!).
+
+Hence, the dimension I've chosen to look at is Month of Year. I want to compare my key metrics over time. I'm also using a new dimensions not enough people are using, Traffic Type, and of course finally, our long-time lover, Source/Medium…
+
+My resulting report is so sexy, :), that I have to break it into two pieces to show you clearly in the limited pixels I have available here. You'll see it all as one report when you download it below.
+
+Here are my acquisition and behavior metrics. It would be super convenient if the team at Google would be so sweet as to actually say June-15, July-15, Aug-15, but we push on regardless. You can see the three months and the trend of the various key metrics…
+
+Aug-15 is partial above, so that explains the low number. But, June is unusual. While we got lots of traffic in July, it was clearly irrelevant to the ecommerce business because the Buy-to-Detail ratio was significantly lower.
+
+The other signal is the June's much traffic also had higher Add To Cart and Checkouts.
+
+Is grabbing as much traffic as you can all it's cracked up to be? Maybe not.
+
+Here's the other half of the report (because I love you so much, I've added the Month dimension here manually)…
+
+You can see the other end of the story here. So far in Aug we are either trending with the June numbers or doing better. Bodes well for this month. But, really calls into question what the heck were we doing in July!
+
+It is rare that we look at all key metrics trended like this over time. Hence, I love the above report.
+
+I can choose a month, July since I'm so curious now, and I can drill down to Traffic Type…
+
+You can see the key metrics trended for each channel. You can clearly see the important patterns above (what the heck is going on with Paid Search and Display!).
+
+The big difference for me was Referral, in contrast to the other month. And, now I have the capacity to drill down and look at the Source/Mediums for that Traffic Type…
+
+YouTube… I'm going to kill you! What the heck man! Why are you not selling stuff for me!!! Reddit, you're up next.
+
+(All kidding aside, YouTube is a See-Think channel, it is supposed to be bad at Do. More: See-Think-Do-Care business framework.)
+
+I can compare and contrast and it took me only a very short amount of time to discover what was going on in July, and now I can fix it.
+
+I want you to try and imagine how long looking through three levels of drilldowns across eight metrics and three months of data would take in standard Google Analytics report. Wait. That's a waste of time. Download the above report instead.
+
+Custom Report Download: Log into your GA account, click: AK: Business Outcomes Analysis
+
+I'd promised to share a non-ecommerce version of the above report. And, here it is…
+
+I've simply added a second tab to the ecommerce report.
+
+I can't use the same metrics, but I've kept the spirit alive in choosing my metrics as Users, Goal Conversion Rate, Goal Completions, Goal Value and Per Session Goal Value.
+
+I dare you to be more obsessive about outcomes!
+
+I've kept the dimensions exactly the same, because I'm recommending the same type of analysis as the above ecommerce version.
+
+Here's my beautiful report…
+
+To make the non-ecommerce tab work you'll need two things. 1. You'll need to have identified goals for you site. (And if you have not, really, what are you doing on the Internet?) 2. You'll need to have identified the economic values for those goals.
+
+If you do, your report will be just as beautiful as mine above. And, you can do the same analysis that our e-com brethren are doing above. Including the relevant drill-downs to Traffic Type and Source/Medium…
+
+It is really, really cool that while serving the world with our content, we can also ensure that long term survival of our digital adventure.
+
+Custom Report Download: Log into your GA account, click: AK: Business Outcomes Analysis
+
+4. Campaign Cost Analysis
+
+This report demonstrates something that will most likely won't work for you, but something I desperately want you to care about if you want your business to really win. The reason your boss is not more in love with digital, dare I say, is what this report is demanding you do.
+
+We usually measure the outcome of our web strategy using things like conversion rates and revenue. We just did that above!
+
+But, that is just sales. What about getting closer to measuring profit? Or, at least revenue net of marketing or acquisition costs?
+
+You'll agree with me that that makes a lot of sense, right?
+
+Yet, we rarely do it.
+
+The problem is not the capability in the web analytics tools we have. The problem is our willingness to just do it.
+
+Let's establish that cost is important.
+
+Here's my custom report that helps my clients understand the truly end-to-end view of performance of their digital marketing campaigns…
+
+Except for the first one, I suspect you know the other metrics quite well. The first one is the one I'm most interested in.
+
+The dimensions are Source/Medium, then we drill down to Campaign, and then by Device Category (as there are massive differences in performance once you get to Mobile and Tablets).
+
+Here's how the report looks like when you have all the data flowing in as it should…
+
+You can see how much money you spent, how often you showed up on the advertising channel, how many people ended up on your site, resulting in what number of sessions (Clicks and Sessions never tie, if they are close, just move on). Then you get to the interesting bits, focus on performance (Click-Through Rate), Cost-Per-Click, and Per Session Value.
+
+The contrast between the last two are particularly important.
+
+If you are paying $1.33 per visit to your site, is the value of $1.66 sufficient to deliver a net positive outcome? Especially, after accounting for your salary?
+
+I kid a bit of course, but this is a deadly serious matter.
+
+Most of the time, we don't think about this carefully enough.
+
+Notice the red arrow above. We only have cost data for 4.35% of the sessions. This is really poor because, in this case, over 35% of our traffic comes from Paid efforts (Email, Display, Social, Affiliates, etc.).
+
+We can only answer smart questions about one: Paid Search.
+
+This is shameful.
+
+You can import cost data for all your Paid efforts into Google Analytics. For Email.For a billboard if you have cleverly added a url there. For Display. For Social. See an actual example of how to import non-Google ad data into GA.
+
+Please invest the time in doing this. Your boss is going to love you infinitely more (because they will make decisions an order of magnitude smarter).
+
+Custom Report Download: Log into your GA account, click: AK: All Campaigns: Cost Analysis: Ecom
+
+I've also created a slightly tighter version of this report for non-ecommerce websites, because cost is important to all of us. As I'd mentioned above, I run some ads on Facebook to get FB to show my posts to more people who like my brand page on Facebook.
+
+Here's the report configuration…
+
+Just a bit more focused on the metrics side, with the same dimensions and drilldowns.
+
+Here's the report from a non-ecommerce blog, who uses email marketing to stay in close contact with it's Think and Care audience clusters…
+
+The cost data for the email campaigns was uploaded into Google Analytics, and you can easily see how the end-to-end picture helps us understand the complete value that email marketing provides. Look at that CPC! Sweet.
+
+You can get this type of data for all your campaigns, and I urge you to invest in that.
+
+Custom Report Download: Log into your GA account, click: AK: All Campaigns: Cost Analysis: Non-Ecom
+
+#5 Key Metrics: Map Overlay Visualization
+
+This last report demonstrates using custom reports for purposes it was not really created for, creating a nice visualization.
+
+I present a lot, internally and externally. Hence, my objective is to try and simplify the data presentation as much as I can. In aid of that goal, one strategy I use is to pull out the Map Overlay view in Google Analytics to show the data.
+
+What do you think of this…
+
+There is such little space in this blog to see four different sets of data well. Yet, I bet you can see lots of interesting trends and patterns above. Pick the same states (dark ones or your fav state…) and look across. Interesting, right?
+
+Here's the most obvious one. Traffic is so lop sided (California and Texas), and yet Per Session Value and Avg. Session Duration is so much more diverse! Are we simply getting sub-optimal traffic from California? And, why not more from Nevada? And, what is going on in the middle of the country in terms of time spent? What is up with that square state, and why don't they spend more money with us when they do spend time?
+
+Really nice. And, no numbers.
+
+Clearly, this is more for presentation (after you've already done the analysis, and have some of the answer above). But, in front of a group of people, your boss, perhaps it is all you need to move focus away from data and to shift it to having a discussion.
+
+I snagged the four pictures above from a simple custom report I'd created for this purpose…
+
+I've used the Explorer report type in all reports above, in this case I've used the Map Overlay.
+
+I've set the Zoom Level to Country, and set it as the United States. You can change both to your needs (World, Continent, Sub-Continent, Country).
+
+I've further set the dimension to Region. Again, you can set it to your needs (Region, City, Metro).
+
+This report is here so that you'll make your own clever use of the Map Overlay, but also to inspire you to take away the data as much as you can when you are done with your analysis. Your job is to not impress people with your data, you job is to drive the discussion forward about what to do and what the business impact will be from those actions.
+
+Custom Report Download: Log into your GA account, click: AK: KPIs: Map Overlay Visualization
+
+Bonus: Speaking of data visualization, more inspiration for you:
+
+So there you go, five new custom reports (six actually) that I hope will bring a new layer of insights to your company, while speeding up the time it takes to get to those insights.
+
+Custom reports are a powerful tool in your arsenal, I hope you completely ditch the standard reports and build your Analysis Ninja-dom on these micro-ecosystems.
+
+As always, it is your turn now.
+
+Do you have your favourite custom reports? The ones you can't live without? If so, would you please be so kind as to share links to them below so that we can all benefit? What changes would you make to any of my five custom reports above to make them even more effective? What can I take away? What can I add? Is there a clever strategy you use that I have not?
+
+Please share your custom reports, your suggestions, your critique and your lessons from the front-lines via comments below.
+
+Thank you.
+
+PS: As promised, here are seven more custom reports I'd shared earlier on this blog…
+
+Download the Page Efficiency Analysis V2, Visitor Acquisition Efficiency Analysis, and Paid Search Performance Analysis reports here: 3 Awesome, Downloadable, Custom Web Analytics Reports
+
+Download the Paid vs. Organic Search Performance, PPC Keyword/Matched Query, End-to-End Paid Search reports here: Google Analytics Custom Reports: Paid Search Campaigns Analysis
+
+Download the Content Efficiency & Keyword Drilldown Ecommerce report here: Produce Actionable Insights: Mate Custom Reports With Adv Segments!

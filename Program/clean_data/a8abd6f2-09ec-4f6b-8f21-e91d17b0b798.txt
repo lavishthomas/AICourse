@@ -1,0 +1,95 @@
+With thousands of factors to consider when designing and coding software, someone has to provide overall direction when teams are working on multiple apps for multiple clients. That code wrangler is the software architect, who guides projects from concepts to working products.
+
+To learn what it means to be a software architect, we spoke with Harrison Ambs, the lead software architect at a small company in Florida:
+
+Tell us a little about yourself and your experience.
+
+I’m Harrison Ambs, the Lead Software Architect at Stickboy Creative. I’ve been at this job for a couple of years now, previous to this I was Creative Director at Stickboy for a few years before that. My job is a “Software Architect”—essentially it consists of meeting with new clients, understanding their business goals, identifying needs, and designing solutions to meet those software needs within the business goals. After the principal discovery and architecture (what are we doing and how do we do it?) is done, I’m then leading the team to design and build the application that we architected. It means I have to juggle knowledge of current coding practices and trends along with understanding of any existing software we’ll need to integrate with and what they have made available to third party vendors. And since I handle the design of the application, I have to keep up with modern design trends and user experience best practices.
+
+Advertisement
+
+Most of our clients are businesses that want to streamline a portion of how they do things. What usually happens is they have a piece of boxed software they’ve used for years that started out doing about 95% of what they needed it to do, and as they grew that number got smaller. We meet with them to understand their current situation and requirements. Then we discuss their overall business plan and what areas can be improved with this project that could streamline a business or software process or make someone’s day easier. After fully understanding the project and company, we come up with a plan to develop an application platform that works best to fit each company’s unique situation and that will be able to grow and adapt with them.
+
+Other companies come to us with a brand new idea for an application they want to sell and want to have us build it. So in that case we build the entire thing from scratch. It’s a different scenario than above, but the overall process is the same, just tailored to something that doesn’t exist yet. This is when I’m most like a traditional app developer. Well, can you really call something “traditional” that’s only been around for a handful of years?
+
+What drove you to choose your career path?
+
+Initially I wanted to be an aerospace engineer. I went to college in the hopes of getting a doctorate and landing a job at Lockheed’s Skunk Works. In one of my classes we were given a project to launch a toilet into geosync orbit (on paper). We had to do the all of the math, research propellants, launch sites, materials, etc. In hopes to have my group gain some bonus points, I looked for free 3D modeling program and built the rocket in 3D to demonstrate how it was set up and what it looked like. At the end of that project I knew design is what I really wanted to do.
+
+Advertisement
+
+I dropped out, got a job at a coffee shop and tried to find work as some kind of 3D designer. A really good friend of mine hooked me up with a job at his company, from there I went into motion design for television where I left to become Art Director of a local news affiliate. After that I got a job at a motion design studio before being offered a job as a designer where I work now at Stickboy.
+
+Like most small businesses, we wear many hats and are constantly evolving. Stickboy started as a small design studio that did website design. Steadily we got more clients that needed more complex web development needs. These lead to referrals which lead to more even more complex projects which forced us to adapt to where we saw our business going. That meant I went from a Designer to Creative Director and now a Software Architect as our business continued (and continues) to adapt. A business is really only as good as the people who work for it, and if I don’t try to stay ahead of where we’re going, I’m doing everyone else here a disservice—our CEO is great at this, he’s always two steps ahead of where we are right now.
+
+How did you go about getting your job? What kind of education and experience did you need?
+
+I got it by default. We decided to take the company in that direction and I found I really enjoyed this part of it. I’ve always been drawn to complex problem solving and producing solutions that meet those problems. I also love the creative process and coming up with something no one has ever seen before. The more education you can get, the better because it’s never “enough.” A business degree may help, because while software development is moving quickly, standard business practices and processes evolve more slowly. So having the ability to understand almost any business and it’s goals can go a long way towards designing a piece of software to help it function.
+
+As far as experience goes it’s almost always learning on the job. I like to follow the blogs and newsletters of as many individual app developers as possible because these people are honed like a samurai blade when it comes to software development. They are on the very edge of what’s possible, so I’m always looking to them to see what’s out there at the horizon to better service my clients and help our team.
+
+What kinds of things do you do beyond what most people see? What do you actually spend the majority of your time doing?
+
+I heard somewhere that to find out the answer to that question, you need to follow the money—like, the Rolling Stones are actually t-shirt salesmen. If that’s the case, I’m a human filing and sorting system. Most of my day is facilitating information being passed amongst clients and the team. Clients will request a feature update, a new technology comes out that could work in one of our apps, one of our dev creates a little PHP widget that will make uploading images easier, on and on—all of these pass through me and I have to assess, prioritize, document, and slot them into a project. Each project has it’s own scope and scrum schedule, and a feature that could work on all of our projects may go into one application next week but another will get it in three months.
+
+What misconceptions do people often have about your job?
+
+Mostly that it exists. Most people assume I make my own software and ask me if they buy something I helped make. Not many people realize that there’s a whole group of people that sometimes work really late to make sure the accounting software your boss is having us develop makes it easier for you to do your job. They also forget about all of the work we put into our user interface and user experience design of our applications. People tend to think business software is a sea of gray boxes, but we pride ourselves in making something that people will want and enjoy using during their work day. Business apps can be pretty, too.
+
+What are your average work hours?
+
+On a good week I’m at about 45 or so, but since I help run a small business it’s often more than that. Right now it’s 7:40 and I’ve just put my daughter to bed. I have a small pile of things I need to check and sign off on for my team for tomorrow morning, because I don’t want them to be waiting. I’ve put in long days and I’m usually always working on my vacation a bit. This is a small business—there’s always something that needs to get done. But it’s rewarding. I’m helping to build a company that will hopefully outlast me, which is pretty cool.
+
+What personal tips and shortcuts have made your job easier?
+
+First, always be willing to try a new tool if you think it will make your job a bit easier, even if it costs money. We moved to Slack last year and never plan on looking back. That one change has saved an insane amount of time and hassle for us, which totally makes the cost worth it. Invest in your tools. Second, if you manage people, push your team a bit by giving them a bit more responsibility than they can handle periodically. Coming out of a meeting and seeing they had pulled together to solve a problem without you is a great feeling. Third, never shy away from a bad situation with a client or boss. When everything is on fire, “not knowing” is worse than anything you can think of. If you drown them in phone calls and emails letting them know what’s going on and what’s being done to solve it, people will love you for it. I work with someone who is basically addicted to doing this, and our clients adore her for it—our strongest client relationships are born from these situations.
+
+What do you do differently from your coworkers or peers in the same profession?
+
+I document “how” I do almost all aspects of my job (I even have a meeting template I use all the time—it rocks). I have a Google Drive folder filled with just Process Documents. I call it my “hit by a bus” folder. I firmly believe that how you do something is just as important as what you do, and it also allows me to completely outsource that out of my brain and free up more of it to do work. I can see where we are in a project by glancing at the process doc and instantly I know where we are in development and what’s going to come up next. The fewer decisions and things I need to figure out during my day, the better.
+
+What’s the worst part of the job and how do you deal with it?
+
+“Hi Harrison, X broke.” You prepare and work as hard as you can to make sure it’s as feature complete as possible, you test and test and test but at the end of the day when something doesn’t work, it’s costing money. Each minute that goes by without X functioning is profit just slipping away for our clients.
+
+What’s the most enjoyable part of the job?
+
+When we do the postmortems with the employees and they tell me how much they love working with our software. Work isn’t inherently fun for most people, unfortunately. But if I can help make your job a little easier/faster/simpler and that makes your day a bit better? That makes you more productive, a better asset to your company and therefore it’s more successful? I’ll gladly work late on a Friday for that.
+
+I’m curious what differentiates a “software architect” from someone who is just a developer. I assume you manage a team, but is there more to it than that?
+
+I have known people who do software development, usually for SAAS or a mobile app—they’re only having to manage and service one application. Today I had to understand and manage a separate application for each of the following:
+
+An state-wide real estate education school
+
+A company that provides B2B communication and invoice tracking between repair shops and insurance companies
+
+A large screen printing company
+
+A social news gathering mobile application
+
+A commercial landscaping company
+
+An accounting firm
+
+[I also] met and vetted a new lead with a new application idea wholly different to the above. Each of these has it’s own scope, goals, requirements, documentation, coding language, server architecture, API framework, etc. They’re individually unique applications and each one is wildly different from the other with it’s own challenges and rewards. Basically, it’s like I run a daycare for software applications.
+
+Do you have any advice for people who need to enlist your services?
+
+Yeah, if you have this idea for a new application please understand that ideas are cheap. Don’t think a concept gets you most of the way there, because it unfortunately doesn’t. You need to have the whole package—market research, growth plan, break-evens—you really need to know how to run a business if you want to make something new and have it make money. If you want a company like mine to help with an established business, understand your KPIs (key performance indicators) and processes. You should at least be able to retrieve that information because it goes a long way to understanding if we’re being successful in our solution or not.
+
+What kind of money can one expect to make at your job?
+
+Not really sure, to be honest. I have a unique employment arrangement here so it isn’t like I have a traditional salary track to go by. People in my profession probably make as much as the average application developer or project manager, I’d imagine.
+
+How do you move up in your field?
+
+Grow the company :) I actually don’t know what’s above this. My job is similar to a project manager, so maybe managing other project managers in something like a project management pyramid scheme? There’s three of us that run the company, so we’re at the top.
+
+What do your customers or clients under/over value?
+
+They criminally undervalue time. Almost all of them don’t realize how much of a person’s day is wasted due to having to work around a problem in the software or process they’re using. They also don’t put enough stock in good UX. A program that an employee likes to use that allows them to be more productive is a bonus for both the employee and the company. They also overvalue concepts and ideas; execution is just as (if not more) important. An idea at the end of development is almost always different than what it looked like going in.
+
+What advice would you give to those aspiring to join your profession?
+
+Always be willing to learn something even if you know you’ll be terrible at. We started developing enterprise iOS applications a while ago, and since it’s wholly different than web applications, I spent a few months learning how to code iOS apps. I’m terrible at it now and knew I’d be terrible at it then, but it helps me communicate with my team and better identify solutions when I understand what the platform can handle.

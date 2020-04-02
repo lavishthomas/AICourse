@@ -1,0 +1,45 @@
+The common view of learning is that some subjects are clearly harder than others. Quantum mechanics is a lot harder than, say, learning state capitals.
+
+This idea points to some domains of knowledge as being intrinsically harder than others. A related idea, being that if some ideas are intrinsically harder than others, and some people are intrinsically smarter, then maybe some ideas are just too hard for you to learn.
+
+I want to suggest an alternative view. This is that there is no subject that is intrinsically hard. Rather, it’s that some subjects appear hard because they have a lot of prerequisite knowledge, which often students don’t have. Once you obtain the correct background knowledge, most ideas are roughly equally easy to learn.
+
+Recursively Learning Harder Subjects
+
+The reason quantum physics is harder than state capitals is because quantum physics requires more background knowledge, concepts and skills. To learn state capitals, all you really need to know is that states exist and they each have one capital city. To learn quantum mechanics, you need to know differential equations, which requires calculus, which requires algebra, and so on.
+
+Quantum mechanics, compared to state capitals, sits at the top of a much larger pyramid of required knowledge.
+
+At first glance, that might not seem like much of a benefit. If you lack the background in quantum mechanics, what good does it do to say that you’d be able to learn it just as well supposing you had that background?
+
+The reason is that this idea, if true, applies recursively. Meaning that all the prerequisites to quantum mechanics are also easy to learn, provided you have their prerequisites. Keep going down the chain, and eventually you’ll find an idea that’s easy to learn and you can go from there.
+
+Why Do Classes Get Harder?
+
+This theory seems to be betrayed by an experience many people have, which is the progressively increasing difficulty of classes in a particular subject. Students may have aced their high-school math, but then struggle with calculus and need to drop out of a math major in university. What’s going on?
+
+I’m going to suggest there are two effects at work which make it seem like classes are getting harder, when all ideas are roughly equally easy to learn:
+
+Competition is getting stiffer. If you’re doing a PhD in theoretical physics, your peers are now all incredibly smart and driven. You may feel dumb, but that’s mostly because you’re now only surrounded by very smart people. The learning difficulty hasn’t changed, but the competition might have. Students don’t adequately learn the prerequisites. The other reason ideas may appear to get more and more difficult, is that the student doesn’t actually have the prerequisite knowledge. They may have crammed through an exam and passed without retaining much, or be missing the key concepts and skills which would make a deeper understanding possible.
+
+Limitations to the Theory
+
+This alternative idea, that all knowledge is equally easy to acquire, given the right prerequisites, is probably false in the extreme. Some ideas may be more difficult for some intrinsic reasons, such as being excessively abstract or involving more ideas at the same time.
+
+However, I’d wager that once you remove prerequisite effects, the difference between the difficulty of many ideas is actually quite small. You might even find that some commonly thought-of as “easy” ideas are actually slightly harder than some “hard” ones, simply because the “hard” ones have taller prerequisite knowledge structures.
+
+What this Means For Learning
+
+A common email response I get is someone who is eager to try out the MIT Challenge, then tries to take an “intro” class and gets knocked out by the difficulty.
+
+On the one hand, this shouldn’t be surprising. MIT classes are typically taken by MIT students. MIT students are some of the highest achieving students in the world, often having taking many AP classes and been exposed to ideas that go beyond a normal high-school curriculum.
+
+But what happens after this is that people give up. They imagine they just aren’t cut out for learning hard subjects, so they switch to easier fare. When really, they should be trying to identify what are the prerequisites they are missing and try to learn the topic in more than one step.
+
+I did this for my recent ultralearning challenge. I was reading a book on neurobiology and I couldn’t understand most of it. Instead of admit I’m too dumb for neuroscience, I decided to build my prerequisites by taking a different class to warm me up to the subject.
+
+Recursive Ultralearning
+
+Ultralearning, the deep, intense self-education I’ve been writing about, does depend on smarts. But, perhaps more importantly, it depends on other psychological qualities of grit, determination and the ability to push through difficulty. It also depends on underdeveloped skills of self-education.
+
+One of those skills is the ability to learn things recursively. That, when faced with too difficult an obstacle, the skilled ultralearner will break it down and learn the prerequisites, rather than admit it is an impossible impasse. Sometimes that will be by taking another path in, other times it will be by building a ladder.

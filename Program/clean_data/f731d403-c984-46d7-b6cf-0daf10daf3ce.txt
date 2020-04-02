@@ -1,0 +1,83 @@
+Jarl Van Eycke had finally beaten the Zodiac killer.
+
+Some tinker with model airplanes or tweak fantasy sports lineups; Van Eycke was a different sort. He’d wake up and, before leaving for work at a nearby distribution center in Flanders, Belgium, he’d spend the morning cracking codes written by a serial killer more than four decades ago and 5,500 miles away. And in 2015, after years of work, he’d won.
+
+As cold cases go, the Zodiac murders maintain a powerful cultural resonance. Between December 1968 and October 1969, a murderer stalked the San Francisco Bay Area, killing at least five, injuring two, and provoking a manhunt that consumed entire police agencies. It wasn’t simply the body count that had the region terrorized, but also the way the killer openly threatened police and civilians. He used the media to terrorize the public, branding himself as “the Zodiac” through taunting letters to local newspapers, in which he bragged about his power and included ghastly murder-scene souvenirs.
+
+Some of his letters included encoded messages that, if cracked, would supposedly hint at his identity. The first of these ciphers, sent on on July 31, 1969, was split into thirds, with pieces sent to three San Francisco-area newspapers: the Vallejo Times-Herald, the San Francisco Examiner, and the San Francisco Chronicle. The killer said if the papers didn’t publish the ciphers, he’d go on a “kill rampage.” All three published the letters.
+
+Six days later, after “about 20 hours of working on it off and on,” a high school teacher and his wife cracked it. The solution didn’t offer much in clues, but it proved the ciphers were not just gibberish. So when the next message arrived, everyone thought it was just a matter of time before it also was cracked.
+
+It arrived at the Chronicle‘s mail room on November 8, 1969, nestled inside a greeting card in which he’d scrawled a short blustery note. The cipher was a collection of 340 symbols arranged in a 17-by-20 block. At the bottom was the Zodiac’s signature gunsight logo. Everyone from highly paid government-trained cryptologists to amateur sleuths tried to crack the message. But after 45 years, it remained unsolved.
+
+Until now, Van Eycke believed.
+
+The 33-year-old had learned about the ciphers in the forum for QB64.net, a small programming community that trades coding information. A member had posted code for a program that could possibly help crack Zodiac’s ciphers. “Beware though that the contents if solved … can be quite gruesome and involve all sort of fantasies about slaves and killings,” the post read. “It could also include clues to the [killer’s] identity.”
+
+Immediately, Van Eycke was hooked. Not only had he found a mystery, but it was one that could potentially be solved from home. Online, one could find reams of information about the Zodiac: Van Eycke discovered Tom Voigt’s zodiackiller.com, Michael Butterfield’s zodiackillerfacts.com, and Mike Morford’s zodiackillersite.com. Each was a compendium of facts and case files for amateur sleuths to pore over, but the real action on the sites took place on the message boards. There, community members combed through decades-old evidence to pick out odd details, sussed out “persons of interest,” and yes, tried to crack “the 340.”
+
+Cracking ciphers usually begins with attacking recognizable features of language: Certain letters appear more often than others and, in English, two-letter combinations like “th” and “ea” are regularly used. After a series of false starts, Van Eycke turned his focus on the + sign, which appears 24 times in the Zodiac’s cipher. He initially believed they were nonsense, but after combing through threads on various forums, began to suspect a pattern.
+
+“The contents if solved can be quite gruesome and involve all sort of fantasies about slaves and killings.”
+
+“I noticed a few very odd coincidences,” Van Eycke says via email. Perhaps the plus signs indicated a “magic square,” a sudoku-like grid filled with numbers that, when added across in rows, down in columns, or through the diagonals, all result in the same sum. He also recognized that the cipher had a higher rate of bigram repetition—that is, two symbols placed next to each other—if it was read right-to-left rather than left-to-right.
+
+“I must have been manic about these ‘coincidences’ for a couple of weeks,” he says. “It’s something that creeps up on me over time. I just can’t seem to really relax until I hit the pillow. And then I wake up and feel this enormous drive to do things and I go at it again, passionately. After some time I reach some point of oversaturation. It’s some sort of cyclic, and the end of a cycle is usually quite sudden.” So one night he woke up to test this theory, using a computer program he’d designed. He tweaked his inputs to test out his new theory and waited for the program to spit out the Zodiac’s message, finally cracked after all these years.
+
+All it returned was gibberish.
+
+After that, he felt he had to quit the forums and put the code-cracking behind if he wanted to retain his sanity. “I was totally done with anything Zodiac-related,” he says. “It was too much of an obsession.”
+
+• • •
+
+If the cipher is ever solved, odds are that the solution won’t come from a brainy loner grinding down pencils in their study, but from a programmer standing on the shoulders of online code-crackers who’ve gone before. The first name that pops up whenever I mention my search for experts on the 340 is David Oranchak, who’s been trying to crack it for over a decade.
+
+“I wasn’t particularly interested in cryptology until I started studying the Zodiac ciphers,” Oranchak says via email. “They were a good fit with my interests in computer science, recreational mathematics, and puzzles.”
+
+But after Oranchak kept getting stuck—frustration, after all, is the one tie that’s bound Zodiac-cipher obsessives over the years—he shifted focus. “Since I couldn’t solve it, I started collecting interesting ideas and facts and information about the ciphers,” Oranchak says. He created a cipher-specific webtoy for others to play with, maintains a website devoted to all things 340, and maintains an “Encyclopedia of Observations” to help bring newbies up to speed.
+
+Now 41 years old, Oranchak spends his Zodiac-free hours as a software engineer “specializing in web-based user interfaces and evolutionary computing,” in which algorithms are refined through a process that mimics natural selection.
+
+“The biggest [reward] is the programming practice,” Oranchak says. “A lot of the study of the 340 involves exploring questions that can often be answered by writing algorithms, so I’ve done a lot of that over the years. I’ve also published an academic paper on the subject. It has also helped by improving my use of statistical analysis. One way to look at it is that it has made me a better scientist.”
+
+What if the Zodiac cipher is just a troll job that’s lasted decades longer than anyone expected?
+
+Many Zodiac hunters have an interest in programming, but the 340 has the added intrigue of assisting an active murder investigation. “It isn’t just the codes, it’s about the lives this demented S.O.B. took,” writes a poster under the pseudonym Mr. Lowe. He hides his own identity because he believes he’s identified a person of interest who’s still living; understandably, he’d like to keep his distance from a potential killer. “Maybe if [the cipher] is ever broken, it will be full of nonsense. But maybe it will spill a clue to unlock the name of this monster.”
+
+
+
+And there’s also a fascination on the technical level, a near-awe at a cipher that’s gone unbroken for so long. “Personally, I’ve given the cipher a lot of attention because it seems to have features indicating a real underlying plain text message,” says Oranchak, “but concealed using a encipherment scheme that simply hasn’t been identified yet.”
+
+Another message-board poster, Geoff L., believes the solution is likely to be found by focusing on three specific symbols in the 340: +, B, and the backward P. “I examined the cyclic relationship of each symbol to every other symbol in the message and found there are a handful of high-count symbols that do not cycle much with other symbols,” he writes. “It means that Zodiac applied those symbols differently than the others.” However, that’s as far as he’s gotten with the concept: “I am at a wall.”
+
+Brax Sisco has hit that all-too-common wall before. He began working on the 340 back in 2005, after having been a computer “enthusiast” from a very young age. “I wanted to see what a computer attack might accomplish,” he says via email. “I first looked to see if any computer programs were available to solve this type, and I found none. So I had to write my own.”
+
+Three years later, he unveiled a program called ZKDecrypto, a free download that handles the grunt work of transposition better and more quickly than with a pen and paper. There’s also Zodiac Pattern Drawer, which allows the 340 to be easily rearranged in different patterns, and the Cryptoscope, which analyzes symbol repetition and entropy strength by the cipher’s rows and columns. These tools are necessary to shorten the labor, seeing as the time needed to crack the 340 using “brute force” techniques—trying every letter as every symbol until a message emerges—is far longer than the amount of time it’ll take for the Earth to be swallowed by the sun.
+
+
+
+When you’re dealing with those kinds of time-suck numbers, it’s easy to get frustrated and move on. Sisco “retired” from active work on the ciphers, although he keeps up with progress and checks in from time to time on the boards. “There are new people taking over, and building on what was done before,” he says. “I am happy to see that.”
+
+Burnout seems almost inevitable for most cipher hunters. “It’s easy to get caught up in what might be a solution only to have it turn into more gibberish,” says Oranchak, who figures he puts in roughly 20 hours a month. Geoff L. has spent about 1,000 hours working on it, mostly over the past year. Mr. Lowe spends about 15 hours a week. All this toward cracking a code that, frankly, may not have a solution. After all, it was written by a psychopath essentially just to mess with people. What if the 340 is just one troll job that’s lasted longer than anyone expected?
+
+“Cryptography can be addictive, as can be drugs, sex, sports, work, or anything else.”
+
+Luckily, all evidence points to something being locked inside the block of symbols. Dan Olson, an FBI cryptanalyst who’s worked on the 340 for years, has laid out the reasons to believe. There’s the statistical analysis suggesting that the code isn’t just a collection of random symbols; there are the 25 repeated bigrams—that is, two symbols in a row—that suggest recognizable words. And there’s also a symbol that’s been scratched out and changed, suggesting a purposeful decision by Zodiac, another indication the code involves more than nonsense.
+
+“It would actually be harder to create a fake message with these properties than it would to just write a real one,” says Sisco.
+
+Not everyone is so convinced, though. “It’s like finding a needle in a haystack when you don’t know how big the haystack is,” says Oranchak. “It seems impossible to rule out [that there’s no solution].” Which leads to the biggest question for every cipher hunter who gets sucked into the forums. As Oranchak rhetorically asked in a presentation he delivered as part of the 2015 Cryptologic History Symposium: “When can we stop trying to solve this thing?”
+
+The first answer is obvious—when there’s an authenticated solution. The second time to call an end to the quest is when it’s proven that no message can exist in the block of symbols, which evidence has already mostly ruled out. The third scenario is, well, when everyone figures there are better ways to spend their time. Slightly tweaking that sentiment: When everyone gets burned out.
+
+“Cryptography can be addictive, as can be drugs, sex, sports, work, or anything else,” says Geoff L. “I get a natural high from using my brain to work on the 340, but there are also times when I feel extreme lows. It can be exasperating, and I need to take a mental break. Some of my coworkers tease me, and when the subject of hobbies have been brought up in job interviews, I’ve gotten some blank stares.”
+
+And so, sometimes, the amateur sleuths need to close their programs, slam shut their coding books, and leave their online compatriots behind. Sometimes, when their manic hunts to unlock the cipher turn up only gibberish, they need to take a step back and reevaluate their lives. Sometimes, a cipher hunter like Jarl Van Eycke needs to quit the forums and focus on IRL.
+
+For a little while, at least.
+
+While Van Eycke claimed to put all things Zodiac behind him in early 2016, the self-imposed exile lasted all of a few months. He returned to the forums in part because he wants to be there when the code’s broken. “The 340 will be solved upon the foundations of all the people that ever worked on it,” he says. “I estimate it will be solved by 2026.”
+
+In the meantime, the Zodiac cipher creeps toward four decades of going unsolved. Yet for the dedicated amateurs—obsessives, some—who are trying to solve it, the problem remains, well, fun. “It’s better than playing Candy Crush,” says Mr. Lowe. “If I change my mind or I need to move on, I’ll go and improve my golf or something.”
+
+Illustration by Bruno Moraes

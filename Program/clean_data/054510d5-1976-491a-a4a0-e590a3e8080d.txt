@@ -1,0 +1,21 @@
+In the last half decade there's been a Cambrian Explosion of 3-D printers, filling every axis of competition from price to size to print resolution . Most engineers and designers have been fixated on tuning up the machines, but a California-based architecture firm called Emerging Objects is focused on pushing the limits of 3-D printer materials. The result is a structural column designed to withstand earthquakes.
+
+The aptly named Quake Column is a knurled pillar of 3-D printed concrete that combines an ancient Incan masonry technique with state-of-the-art manufacturing tools to create a structure that can withstand seismic shocks without mortar or rebar. In this system, bricks are designed in CAD tools to fit together like a 3-D puzzle and then printed in cement. Once assembled, interlocking features make the column resistant to earthquakes by preventing horizontal movement.
+
+It's an interesting proof of concept, but utilizing a 3-D printer, rather than traditional ceramic manufacturing technique also unlocked a host of other advantages. The bricks are hollow, creating a high strength-to-weight ratio. Each brick is printed with a code that explains to the mason how the bricks should be configured. Molded handles in each brick make on-site assembly as easy as snapping together Legos. And according to the architect's calculations, this technique could be used to fabricate building code compliant, load-bearing walls.
+
+"While this was an experiment in connectivity, we have been able to create 3-D printed parts that are much stronger than reinforced concrete in compression," says architect Ronald Rael. "We are also working on increasing the tensile strength of our materials using reinforcement fibers."
+
+Bone, Salt, Sawdust
+
+What's especially interesting is that the designers didn't set out to design a shake-resistant structure. Instead, it came out of a material exploration that explored using sawdust, ground-up tires, salt, and pulverized bone into effective, if strange, construction materials.
+
+Printing with such atypical materials might seem a bit gimmicky, but Emerging Objects ' principals—Ronald Rael, an Associate Professor of Architecture at the University of California, Berkeley and Virginia San Fratello, an Assistant Professor of Design at San Jose State—take the pursuit of novel materials seriously. Together with a 10-person team, they have begun fabricating small objects, like tiles, screens, and home goods, but are quickly scaling production capacity to match their architectural ambitions.
+
+Emerging Objects employs off-the-shelf machines that typically use glue, or heat from lasers, to solidify layers of specially formulated plastic powders. However, these printers are more than capable of fabricating a complex shape, like a Klein Bottle from coffee grounds, if the designer is sufficiently experimental and willing to void the warranty on a six-figure machine .
+
+Their approach is a little off-kilter and some experiments, like bone and rubber printing, have yet to materialize into anything of note. When a breakthrough occurs, it tends to be spectacular, as is the case with their Walnut Screen . Made from hardwood sawdust, this waste product was given a second life when fused with a special glue and arrayed in a series of panels to divide a room. The screen boldly combines a 21st century form with a 17th century patina.
+
+"Most of our research takes a look at the past as so much has already been done," says San Fratello. "We love to stand on the shoulders of the brilliant technologies that came before us and learn from them."
+
+Half a dozen architects and engineers are seriously experimenting with 3-D printing at an architectural scale, but almost all of them are focused on size. They share a goal to build full-size homes—walls, ceilings, the works—all in a single shot. Rael and San Fratello see their work differently, as catalog of systems and components to meet varied architectural needs. While others busy themselves trying to prove that it's possible to 3-D print a house, Rael and San Fratello are occupied with trying to design one people would actually want to live in.

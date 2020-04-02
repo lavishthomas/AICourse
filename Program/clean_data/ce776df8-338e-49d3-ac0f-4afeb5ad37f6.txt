@@ -1,0 +1,163 @@
+React has been known in the past for being difficult to get started creating apps, as you really had to understand how to configure build tools manually. This is even before you write a single line of React code.
+
+
+
+The create-react-app tool helps with this issue tremendously as it allows anyone to create a full working React app without requiring any knowledge of how to configure the build tools. The reality is that create-react-app will be fine for most apps, especially if you're new to React.
+
+As you gain more experience with React, you might have certain requirements for your apps that need custom configuration of the setup files. In this case, you'd need to be able to set up React build tools manually, as create-react-app hides these from you by default.
+
+In this tutorial I'll show you how to set up a React app by manually configuring build tools as we go. This will hopefully give you the confidence to go on and experiment with more complex setups.
+
+Although it may seem a little daunting in the beginning, you'll enjoy all the benefits of having total control over every single configuration setting. And you can decide exactly which tools get included in your app, which may vary from project to project. This approach also allows you to easily incorporate new build tools as they come along (which they do frequently).
+
+Are you ready to create your first React app completely from scratch? Let's do it.
+
+Create the App File Structure
+
+To demonstrate how to set up a React app via manual configuration of the build tools, we'll be building the same, very simple, React app from previous tutorials in this series.
+
+Start by creating a folder called my-first-components-build , and then open a command-line window pointing to this folder.
+
+Type npm init to create a package.json file. This file will contain all the information about the tools used to build your app, plus associated settings. Accept all the default settings and just keep hitting Enter (around ten times) until complete.
+
+If you accepted all the defaults, package.json will look like this:
+
+We now need to add the React and ReactDOM scripts to our project. We'll do this via npm, the package manager for Node.js.
+
+Inside the same command-line directory, enter:
+
+This installs both React and ReactDom, plus any dependencies required by those two modules. You'll notice we now have a new node_modules directory which is where the modules have been added to.
+
+If you take a look at the package.json file, a new dependencies property has been added containing information about the node modules we installed.
+
+This happened because we specified the --save option in our npm install command. This notified npm that we wanted to keep track of our installed project dependencies. This is important if we want to share our project.
+
+Typically, because the node_modules folder is so large, you don't want to try to share this directly. Instead, you share your project without the node_modules folder. Then, when someone downloads your project, all they have to do is type npm install to duplicate the setup directly from package.json .
+
+Note: In npm 5.x, installed modules are automatically saved to package.json . You no longer have to manually specify the --save option.
+
+Inside the my-first-components-build folder, create a new src folder, and add an index.js file to it. We'll come back to this later as we start to create our React app, once we've configured the project setup files.
+
+Add an index.html file inside the same folder with the following code:
+
+We want to be able to compile our app down to a single JavaScript file, and also make use of JSX and ES6 classes and modules. To do this, we need to install Webpack and Babel modules via npm.
+
+Let's install Babel first. Type the following into the command-line window:
+
+This installs all of the modules needed for Babel to compile ES6 and JSX code down to standard JavaScript.
+
+Now, let's install Webpack, again via the command line:
+
+This installs all of the modules needed for Webpack, a local web server, and enables us to direct Webpack to create a dynamic index.html file in the public folder based on the one we added to the src folder. We can also add a dynamic reference to the bundled JavaScript file inside the HTML file every time the app is built.
+
+After these new modules have been installed, your package.json file will now look like this:
+
+This time, though, the Webpack and Babel dependencies are saved to package.json as dev dependencies.
+
+This means these particular modules are needed during the development (i.e. build) phase of the app. On the other hand, the dependencies (such as React, and ReactDOM) are required during runtime, and so will be included directly along with our custom app code.
+
+Webpack Configuration
+
+To get Webpack to build our app and bundle it into a single file, we need to configure settings. Inside your root app folder, create webpack.config.js , which is used to store Webpack specific build settings.
+
+We need Webpack to do three things:
+
+Compile ES6/JSX code to JavaScript (via Babel).
+
+Build our app, and bundle into a single JavaScript file.
+
+Create an index.html file, and inside add a reference to our bundled JavaScript file.
+
+Inside webpack.config.js , add:
+
+Don't worry too much about the syntax used here; just understand the overview of what's going on.
+
+All we're doing is exporting a JavaScript object with certain properties that control how Webpack builds our app. The entry property specifies the starting point of our React app, which is index.js . Next, the output property defines the output path, and filename, of the bundled JavaScript file.
+
+As for the build process itself, we want Webpack to pass all JavaScript files through the Babel compiler to transform JSX/ES6 to standard JavaScript. We do this via the module property. It simply specifies a regular expression that runs Babel transformations only for JavaScript files.
+
+To complete the Babel setup, we need to add an entry to the package.json file to specify which Babel transformations we want to perform on our JavaScript files. Open up package.json and add a babel property:
+
+This will run two transformations on each JavaScript file in our project. The env transformation will convert ES6 JavaScript to standard JavaScript that's compatible with all browsers. And the react transformation will compile JSX code down to createElement() function calls, which is perfectly valid JavaScript.
+
+Now, back to our webpack.config.js file.
+
+
+
+The last property we have is plugins , which contains any special operations we want performed during the build process. In our case, we need Webpack to create an index.html file which includes a reference to the bundled JavaScript file. We also indicate an existing index.html file (the one we created earlier) to be used as a template to create the final bundled index.html file.
+
+Build and Test
+
+Let's now add a script property to package.json . By the way, you can add as many scripts as you like to perform various tasks. For now, we just want to be able to run Webpack, so in package.json delete the "test" script and replace it with:
+
+Before we test the build process, let's add a React component to index.js so we have something to render.
+
+This should look very familiar by now if you've followed along with the previous tutorials in this series.
+
+From the command line, run:
+
+After a little while, you should see a new public folder created inside my-first-components-build , containing index.html and index.js . Open up index.html to see the output of our test React app.
+
+Notice the bundled JavaScript file has been added for us, and the test component is rendered to the correct DOM element.
+
+Automate the Compilation Process
+
+Once you start making multiple changes to your app, you'll soon learn that it's rather tedious to have to manually edit a file, save it, run the build command, and then reload the browser window to see the changes.
+
+Fortunately, we can use the Webpack mini server that we installed earlier to automate this process. Add a second script to package.json so the 'scripts' property looks like this:
+
+Now run:
+
+
+
+After a few seconds, you'll see a new browser tab open with your web app running. The URL is now pointing to a local server instead of pointing to a specific local file. Make a minor change to index.js in the src folder and save. Notice that your app automatically updates in the browser almost instantly to reflect the new changes.
+
+Webpack will now monitor the files in your app for changes. When any change is made, and saved, Webpack will recompile your app and automatically reload the browser window with the new updates.
+
+Note: The Webpack server will not rebuild your app, as such—rather it stores changes in a cache, which is why it can update the browser so quickly. This means you won't see the updates reflected in the public folder. In fact, you can delete this folder entirely when using the Webpack server.
+
+When you need to build your app, you can simply run npm run build to create the public folder again (if necessary) and output your app files, ready for distribution.
+
+Finishing Up Our App
+
+For completeness, let's add the two simple components we've been using in previous tutorials.
+
+Add two new files in the root project folder called MyFirstComponent.js and MySecondComponent.js to the main app folder. In MyFirstComponent.js , add the following code:
+
+And in MySecondComponent.js , add:
+
+To use these components in our app, update index.js to the following:
+
+This results in the same output as we've seen before, except this time via setting up the React app 100% manually.
+
+
+
+
+
+Reusable React Setup Templates
+
+Once you've gone through this manual setup once and created configuration setup files, this is the only time you'll need to do this completely from scratch. For future projects, you can reuse one or more of your existing setup files, making subsequent React projects much quicker to set up.
+
+You could even create a set of purpose-built React starter templates, and host them on GitHub. It would then be a simple case of cloning a starter project and running npm init to install the required Node.js modules.
+
+Download and Install the Project
+
+The React project for this tutorial is available for download, so you can play around with it or use it as a template for new projects.
+
+Click the Download Attachment link in the right sidebar to access the project .zip file. Once downloaded, extract it and open a command-line window. Make sure you're in the my-first-components-build directory.
+
+Enter the following commands to install and compile the React app.
+
+The first command will download all the Node.js modules needed for the project, which will take a minute or two. The second command will compile the React app and run the mini web server, displaying it in the browser.
+
+
+
+Try making some changes to your React app. Every time you save changes, your app will be recompiled, and the browser window automatically updates to reflect the new version of your app.
+
+When you want to build your project for distribution, just run the following command.
+
+Conclusion
+
+Throughout this tutorial series, we've looked at several ways you can approach setting up React apps, each one progressively requiring more setup tasks up front. But the long term benefit is that you have far more control and flexibility over exactly how the project is set up.
+
+Once you've mastered setting up React, I think you'll find developing apps a lot of fun. I'd love to hear your comments. Let me know what you plan to build next with React!

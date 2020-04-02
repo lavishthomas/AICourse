@@ -1,0 +1,81 @@
+How to Work with Lawyers at a Startup
+
+I recently read a post over on VentureHacks titled, “Top Ten Reasons Entrepreneurs Hate Lawyers” written by Scott Walker (who blogs on legal issues for entrepreneurs). I know that people have an allergy to lawyers out of fear of being screwed. Much of this is unfounded — some is not. If you’re a startup and you don’t have a close relationship with a few law firms you’re really missing one of the most important relationships that any entrepreneur can have.
+
+If you don’t follow the image reference above or the tag line,”You don’t need double talk; you need Bob Loblaw” (try saying it out loud), and if you care! the link is here.
+
+This all got me thinking about a post on how to best work with lawyers. This is stuff I tell people verbally at least twice / month so I’m glad to finally get it into written format.
+
+1. When to get a lawyer — If you plan to be a venture or angel backed technology company (what I mostly write about) the best time to start meeting and getting to know lawyers is long before you ever start your company. Many people start companies arse backwards. They get together with a few buddies, bounce around ideas, build some code (sometimes internally, sometimes through contractors), start talking to potential angel investors and then register their company. This is one of the biggest source of future problems for the company. I write about some of the lessons in my post on Startup Mistakes.
+
+So eventually you have your company funded but only 2 of the 5 people who started the company are still around. You never got around to agreeing exact equity splits but you had many conversations about it. I wonder how the shunned three are going to feel when you make your millions? Your memory — they never worked very hard and didn’t want to commit. Their memory — the idea was theirs in the first place and you ran with it and didn’t include them.
+
+Your contractor wrote a great V1 of the product and it helped you get angel funding. Now you have money and a crack new tech architect and you’ll have to rebuild everything. Shame about not getting it in legal writing that you owned the original IP. But I’m sure he’ll never remember your company when Google buys you for $500 million and he’s still eating Ramen — right?
+
+Founded it as a California LLC but your potential VC wants a Delaware C-Corp? Forget to get around to setting up that Employee Stock Option Plan and want to be able to give the early guys their options at a low strike price? Shame about that pesky FAS 157 ruling. Oh, they didn’t cover that in your Stanford CS course? Sorry. I’m sure the IRS will be flexible and your friends will forgive you for their big, unexpected tax burden.
+
+2. But I don’t have money to pay a fancy lawyer — I’ll just have my cousin do it — Don’t. Your cousin specializes in entertainment law — that’s different. I know he’s smart but you wouldn’t hire a Javascript developer to do your database design — would you? Here’s a hack for you. Most lawyers that work with startups are willing to work on a deferred payment schedule. They’ll only do this if they believe you’re a high potential team and are likely to raise money at some point. Consider it a sales & marketing expense for them. They want to lock in future clients at an early stage.
+
+If you make this cut then they will usually defer the payment until your funding. For a very small fee they can get your Delaware C corp registration, make sure that you have IP protection and ensure you didn’t make an early bumbling mistakes that you’ll pay for dearly in the next 7–10 years of hard work. They’ll help you ensure that any money you raise doesn’t come with surprise terms that are hidden in legalese. They usually ask for warrants (basically like a stock option) in exchange for taking a deferred fee.
+
+Like anything in life, if you want a fair deal on the deferred fee and warrant percentage you need to talk to a few lawyers to make it competitive. They’ll find a way to get to the right price if they believe you’re high potential.
+
+3. Additional value outside of legal documents — Most lawyers who work with early stage startups secretly want to be entrepreneurs but they earn too much money to quit — the golden handcuffs ;-) I’ve found that the best of them think like entrepreneurs, though, and hang out at startup events. So you can become friends with these people just like NORMAL people and, don’t worry, you’re not going to get a bill for having a beer with them.
+
+I find that one of my best sources of deal flow is from lawyers. Because many great entrepreneurs work with lawyers in registering their companies they have their ear to the pavement on the earliest of company formations. I recently wrote a post on how to get access to VCs and angels where I outlined why lawyers are such an important tool for VC introductions.
+
+Think about it — on every company we fund there is a lawyer representing the company. We spend hours with them discussing and negotiating the details of the company. When we invest they are often the company counsel so we see them at board meetings. When we want to sell or IPO companies they’re there again. Our lives are intertwined.
+
+So I tell you this because if you build a strong relationship with an early-stage VC they can be a great source to help you with your funding. They can and will provide introductions. The best firms have whole departments dedicated to just this. I know that DLA Piper does. I think they’re one of the best firms nationally at this. The website for their Venture Pipeline group is here. I’m sure other firms have similar — feel free to add in the comments section.
+
+4. How to choose a lawyer -First, you need to pick a firm. I personally like startups to work with firms based on three criteria: local, right sized and startup focused.
+
+Local: many entrepreneurs like to use their old friend from Boston even though they’re now living in Boulder. That makes no sense to me. The additional benefits of working with a local law firm or the local branch of a national law firm are too big to ignore. As I said previously they’ll tap you into the funding source. They’ll invite you out to events in which you’ll meet their other clients, you can get to know them socially and hopefully develop a real mentorship relationship where every conversation is not on the clock.
+
+Right sized: I tried to work with one of the best known firms in Silicon Valley. In the initial stages I found that I struggled to get their attention because they also represented all of the biggest titans in town. My piddly little funding deal was dwarfed in comparison to the huge M&A deals they were negotiating. Sure, they’ll take you on. But try getting the time of the A players. You’ll get the scraps. I think you’ll end up with a newer lawyer who’s trying to build her book of businesses. And worst still, you won’t even be her top priority. You’ll also suffer from their billing rates. I learned all this the hard way. Every town has firms that focus on startups — find them.
+
+Startup Focused — My one carve out for working with the big brands is that many of them have internal practices that focus on startups. I already mentioned DLA Piper. I’ve met several people from Cooley Godward who have stellar reputations in this category. I know Mike Lincoln in Washington DC does. I worked with Sam Angus at Fenwick & West. He’s totally tapped into the startup communities in Silicon Valley and a bit in LA. So it doesn’t have to be a small firm.
+
+But as with consulting, PR, web design and even VC — it’s not just the firm it’s also the individual. In every firm there are A, B and C players. Good people and evil people. Focus on the partner you would be working with.
+
+5. How to manage costs — One of the biggest frustrations that people have with lawyers are unexpected costs. You have this perception that they’re billing you for the lunch meeting they invited you to and the friendly banter emails flying back and forth. I know the industry as a whole has been plagued with criticism over over billing and personally I think much of this criticism is deserved. I saw the same bad behavior in consulting.
+
+But it doesn’t have to be that way and the responsibility lies with you. For company registration, angel deals, Series A & B funding, Employee Stock Option Plans (ESOP), IP filings and even litigation it doesn’t need to be that way. I always try operate on the “Fixed Fee +” arrangement. If you’re doing a “vanilla” funding, the lawyer pretty much knows how much effort will be required. So I ask them for a “fixed” budget. That’s the amount that at the end of the project I expect to see. The “+” is what I’ll allow them to bill me for in an “exception” if (and only if) something totally whacky pops out. And I ask them to tell me in advance if it bubbles up.
+
+The key to being happy with your bill at the end is simple: no surprises. Be fair, let your lawyers earn. But make it competitive. I also am a very loyal person. I always tell the lawyers that I work with that if they’re fair on pricing and do great work I promise to make it up to them in intros for future work. I think most people would say I’ve held that bargain.
+
+Also, don’t send shite to your lawyers that you can do yourself. I’ve seen startup CEO’s send requests like, “can you please update our Cap Table with the latest stock option allocations approved at the board meeting?” My email response (in my head, not sent), “can you please waste more money having expensive lawyers do something that you could / should easily do for free?” Be practical about what you ask your lawyers to do.
+
+6. Traps to look out for — Bram Cohen, the investor of BitTorrent, covered the topic on VentureHacks here. One issue he talked about was working with partners. I also like to work with partners. It’s true that you get a higher billing rate but as Bram points out they can often get the work done in way less hours. If they’ll agree to do your work directly — go for it.
+
+But I also know it’s not realistic for the partners to do all of the work. So make sure when you do your analysis on which firms to work with that you also meet the associates you’ll actually be doing work with. I work a lot with Dave Young (david.young@dlapiper.com) at DLA Piper. He works a lot with Nick Hobson, an associate who’s a star. Associates matter. Get to know them. [does that qualify for the discount on my last engagement with you guys ;-) ] I like the WYSIWYG approach to working with lawyers — I don’t want the partners pitching the work and it gets completed behind the scenese by somebody I’ve never met.
+
+Another big “gotcha” for me is that you expect lawyers to help you negotiate good deals. What I found is that most lawyers will tell you what all the terms mean and sometimes will tell you what is commercially normal but they NEVER explain to you just how certain terms can be used to screw you in the future. You cannot just say these clauses are “legalese” and I’ll let my lawyer figure them out. You need to own your legal agreements. You need to know how liquidations preferences work. You need to know how “tag along” rights could potentially screw you. You can’t just understand “redemption rights” in theory. That’s why I love VentureHacks. And Brad Feld. He was the first guy that I saw demystify the legal terms in his term sheet series. This is a must read for all entrepreneurs.
+
+When you’re doing biz dev deals or customer deals you need to start with a list of the things that you think could go wrong or that you want to protect against. Write them in English (or your native language) and then ask your lawyer to think about how to protect for them. Not the other way around. One CEO I work with was working on a agreement with a major company. The agreement they sent said, “we may offer your services to our customers.” This went unnoticed by the CEO and the lawyer. I asked a simple question. WTF is the definition of “may?” In human speak that sounds like they also have the other option, “may not.” What a waste to sign an agreement that someone “may” offer your service. That kind of shite doesn’t always get picked up by lawyers.
+
+Be detail oriented. Own your outcomes. Lawyers are your support staff not your brain.
+
+7. The good guys — There are many. Giff Constable has started a great national list here. It’s an awesome service to entrepreneurs, thank you. TrueVentures goes one step further with a broader recommendation list here (I hope to add this tab to our website in our next rev. True is always one step ahead of the curve) My additions below:
+
+I’ve already covered David Young at DLA Piper. He mostly covers Southern California.
+
+I really had a great experience with Sam Angus at Fenwick & West when I lived in Silicon Valley.
+
+I have worked extensively with Scott Alderton (yes, he was having a bad hair day in the picture on the link!) of Stubbs Alderton, a firm that focused exclusively on early-stage tech, media and game companies in Southern California. They have a stellar reputation and know how to work with the earliest of starts with entrepreneurs.
+
+If you’re doing litigation work and want one of the best national firms who will work on a contingency arrangement (e.g. much of their fees are paid only if they win) then check out Steven Sklaver over at Sussman Godfrey. Disclosure: he’s my cousin. And he’s also a Cowboys fan. But if you can stomach that he’s a star and contingency work / risk sharing on IP claims is key!
+
+Don Lee at Buchalter Nemer was referred to me by Todd Gitlin and came on very high recommendations as an early-stage, true entrepreneur’s perfect lawyer because he understands how to work with startups.
+
+On later stage LA Tech M&A deals I’ve heard there’s none better than David Hernand of Gibson Dunn
+
+In Silicon Valley the name I hear mentioned most often for very early stage deals is Joey Tran from Fortis. He represented us at one firm I invested in and did a great job.
+
+We’ve had great experiences with Michael Pfau in Santa Barbara.
+
+I never met a person who didn’t talk about Mike Lincoln of Cooley Godward in DC.
+
+Anyone who does IP law in Southern California seems to use Knobbe Martens
+
+Feel free to add any of the good guys in the comments and/or make sure to them over on Giff’s list. Feel free to also add your best tips (or traps) on working lawyers.

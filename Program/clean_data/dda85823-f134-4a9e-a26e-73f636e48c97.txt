@@ -1,0 +1,25 @@
+As smartphones proliferate by the million, they could become useful scientific tools.
+
+An Android app that measures atmospheric pressure is now feeding that distributed data to scientists working on better ways to predict the weather.
+
+The app, called PressureNet, highlights the potential of distributed sensing using mobile devices and shows how the sophisticated sensors found in modern smartphones could be harnessed for research. It was launched in late 2011 By Jacob Sheehy, a software developer for Flighthub.com, and Phil Jones, an independent Web designer, who became friends while studying at Concordia University in Montreal.
+
+Atmospheric pressure sensors are unique to Android, though not all Android phones have them. Google added the ability to measure pressure to its operating system because the data can help improve location finding. While PressureNet isn’t the only Android app that displays pressure information for users, its creators think it’s the only one that collects the data and shares it.
+
+It turns out that this pressure data from ordinary phone users could be scientifically useful. Sheehy and Jones were contacted last year by Cliff Mass, a University of Washington atmospheric scientist, who was excited to try incorporating the data into climate models. He hopes that a large volume of atmospheric pressure data can help scientists do a better job of predicting where and when certain severe weather events, like thunderstorms and tornados, will hit.
+
+But Sheehy and Jones weren’t quite ready to start sharing the data. For starters, they hadn’t asked users’ permission to do so.
+
+Earlier this week, they released an update to the app that presents users with a pop-up explaining that the app collects the time, the location of the phone, and the atmospheric pressure. “We will share this data only according to your wishes, but remember that limiting your sharing will limit our ability to help scientists improve weather forecasting,” it reads. The default is to allow PressureNet to share the data with Sheehy and Jones, university researchers, and commercial weather forecasters, but users can choose to share with nobody or with a subset of those groups.
+
+Sheehy and Jones have also developed a way to share live data. Their goal is to launch a website that will let interested researchers and forecasters download the PressureNet API—for a price—and start using it to tap into the data feed.
+
+For now, they’ve set up a feed with Mass, who is helping to test it. “We’re making sure everything works and we’re working out the kinks,” Sheehy says. Mass plans to work with his students to analyze and calibrate the data before integrating it with models.
+
+Sheehy and Jones are also hammering out what to charge for the data. They may charge less for infrequent updates or for users who want data only in a small geographic area.
+
+Since word got out that Sheehy and Jones were collecting this data and wanted to share it, they’ve gotten some interesting queries. One was from a researcher in Germany who studies soil and wants to correlate atmospheric pressure with soil moisture. Another is from a meteorologist with News 12 in Brooklyn who wants to access live data in the region to improve his weather forecasts.
+
+Still, the developers have a big hurdle to clear before the data becomes truly useful: they need to boost downloads. Around 18,000 people worldwide have the app, and they’re generating around 6,000 measurements per hour.
+
+Mass says that the data would be really useful if millions of people were contributing. In that case, PressureNet has a way to go.

@@ -1,0 +1,47 @@
+Consumer Physics is unveiling its Scio handheld sensor, which can scan food, pills, or plants and tell you the chemical makeup of the object. It delivers those results wirelessly in real-time to the user’s smartphone.
+
+Once the device ships later this year, you’ll be able to use it to decipher the calorie content of the food in front of you, whether the pill you’re about to take is a counterfeit, or if that alligator handbag is really made out of alligator leather. It is one more example of creating a useful app by combining a miniaturized sensor with the computational power of a smartphone connected to a data center.
+
+“Smartphones give us instant answers to questions like where to have dinner, what movie to see, and how to get from point A to point B, but when it comes to learning about what we interact with on a daily basis, we’re left in the dark,” said Dror Sharon, CEO of Consumer Physics. “We designed Scio to empower explorers everywhere with new knowledge and to encourage them to join our mission of mapping the physical world.”
+
+The Israeli startup is launching a Kickstarter campaign to raise $200,000 for Scio (which is Latin for “to know”) today. Early backers can preorder the device for $149. At first Scio will come with apps for analyzing food, medication, and plants. You can use it to refine the ingredients of your home-brewed beer or figure out if an Internet site’s cheap Viagra is fake. Later, the company will add the ability to check samples from cosmetics, clothes, flora, soil, jewels, precious stones, leather, rubber, oils, plastics, and even human tissue or bodily fluids.
+
+“You can use your phone to tell what song is playing on the radio, but you can’t tell how sweet an apple is or how much fat is in a piece of cheese,” Sharon said in an interview with VentureBeat.
+
+Image Credit: Consumer Physics
+
+The device uses a molecular spectrometer, which uses near-infrared light. It shines light on a sample, exciting the molecules and making them vibrate in a unique way. With most objects (except metals), some of the light is absorbed and some bounces back. Each object has its own optical signature.
+
+The spectrometer figures out what the object is based on the infrared light that reflects back to the scanner. Most objects have different absorption rates, as they vibrate at different levels on the molecular scale. The app takes the data and compares it to a cloud-based database of objects in a distant data center. When it gets a match, it sends the results to the user’s smartphone.
+
+“We took the underlying physics of spectroscopy and miniaturized it,” Sharon said.
+
+The food app tells you calories, fats, carbohydrates, and proteins, based on your own estimate of the weight of the food you’re about to eat. (With many food packages, you can get the weight from the label). The app could tell dieters exactly how many calories they’re about to consume, while fitness apps can tell them how many calories they’re burning. That helps people figure out exactly how much exercise they need to do in order to burn off the food they’re eating.
+
+The food app can also gauge produce quality, ripeness, and spoilage for foods like cheeses, fruits, vegetables, sauces, salad dressings, cooking oils, and more. It also analyzes moisture levels in plants and tells users when to water them. You might even be able to analyze your blood alcohol level one day, but Scio is not currently approved as a medical device.
+
+It can detect materials through objects such as glass. Sharon said that you might be able to use it to detect whether someone has put a “date rape” pill in your drink.
+
+As users conduct more tests, the app gets better and better at correctly identifying objects. While you’re waiting, a ring fills up with circles on your smartphone screen, much like with the Shazam song-identification app. It takes a matter of seconds to recognize something. Scio has to be about 20 millimeters from an object before it can be used for scanning. The scanner uses Bluetooth low energy to connect with a smartphone, which needs either iOS 5 or Android 4.3 or higher.
+
+Image Credit: Dean Takahashi
+
+With a medical app, Scio can authenticate medication such as headache pills. In one test, Sharon was able to correctly identify the type and retailer of the Advil pill that he placed inside the Scio prototype reader, which is about the size of a small pencil sharpener box. It can only detect objects that were previously uploaded to its database, and the method doesn’t work on metals. As the database expands, it will be useful for more kinds of consumer items, giving consumers the ability to check the veracity of products before they buy them in a store.
+
+“We want to open this up to a developer community and start selling this to people who want to explore the world,” Sharon said. “They can keep their own databases. The more we measure, the more we learn. The more everybody learns.”
+
+Federal border inspectors use spectrometers to identify goods that are being imported into the country, but those machines are usually big appliances inside cabinets.
+
+In 2011, Sharon and his cofounder Damian Goldring, chief technology officer, began investigating how to shrink the expensive laboratory equipment down to smaller sizes that can be mass-produced at low costs. That involved creating a semiconductor chip that could be cost reduced over time.
+
+“I believe this product will have greater impact than the USB flash-drive. Its near future and far future potential impacts on people’s life are tremendous,” said Dov Moran, the first seed investor in the company and previously the founder of modular phone company Modu and flash chip designer M-Systems, which Sandisk bought for $1.6 billion.
+
+Image Credit: Consumer Physics
+
+Khosla Ventures is also a backer, and the company has raised money through OurCrowd, an equity-based crowdfunding platform for accredited investors. The company has 17 engineers and 20 more part-time employees and consultants.
+
+Sharon and Goldring, who met during their college years at Israel’s Technion university, have assembled a team of physicists, chemists, electrical engineers, computer scientists, and data scientists.
+
+Google has its own Google Goggles recognition software, but it uses image recognition.
+
+“That doesn’t tell you anything about the underlying chemistry,” Sharon said. “The label may tell you what is supposed to be in a package. We can tell you what is really in it.”

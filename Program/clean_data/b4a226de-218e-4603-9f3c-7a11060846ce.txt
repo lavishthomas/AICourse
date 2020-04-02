@@ -1,0 +1,27 @@
+A Tale of Two Go To Market Strategies
+
+There approximately 22 million trucks in the US. Many of these trucks run software to track the location of the vehicle, manage inventory, and comply with regulation. There are two SaaS companies operating at greater than $100M in ARR in the space and they illustrate one of the mantras on this blog: there are many different ways to build a SaaS company.
+
+After last week’s post, Is There a No Man’s Land in SaaS ACVs, a founder asked me to highlight some of the go to market strategies in different segments. The story behind Fleetmatics and Geotab illustrates the way two companies pursued the SMB logistics market in radically different ways, but built roughly similar sized businesses.
+
+Founded in 2004, Fleetmatics employs about 1150 employees. Based in Massachussetts, the company generated $320M in revenue in 2016. An unusual SaaS company, Fleetmatics generated profits: 6.5 and 14% in net income margin in 2015 and 2016. Fleetmatics sells software to owners of small fleets of lightweight trucks. Last year, Verizon acquired Fleetmatics for $2.4B.
+
+The average contract value (ACV) of the business at IPO was $6788. How did a business at this price point scale, especially with an inside sales team? The company raised a total of $93M, which is far less than the typical SaaS public company. What’s more, they operate “below the minimum ACV to hire an inside sales team.” How did they do it?
+
+Fleetmatics financed its growth early on by generating cash. They borrowed a technique from enterprise selling reserved for the largest contracts. Multiyear deals. Although the average Fleetmatics customer pays $6800 per year, they sign a contract for three years. Critically, Fleetmatics matches their sales tactics to their price point. Salespeople routinely call 100 customers per day and strive to close accounts in less than a week. Fast sales cycles reduce costs further.
+
+Three year commitments and nanoscale sales cycles transform the unit economics. And, upfront cash collections finance more inside sales hiring. A virtuous growth loop.
+
+Contrast Fleetmatics with a Geotab. Geotab addresses the same market as Fleetmatics. Geotab is a bootstrapped Canadian company that employs 300 employees and generated $110M in 2016 revenue. You read that right, Geotab employs one fifth the employees of Fleetmatics.
+
+Instead of selling directly to a customer, Geotab sells through channel partners. These software vendors customize the Geotab platform for customers. Geotab designed their platform to maximize the success of the channel. This symbiotic relationship enables Geotab to acquire customers and generate revenue with greater capital efficiency than inside sales team. Instead of hiring many account executives, Geotab trains their resellers.
+
+Geotab has focused on building an open platform that matches its sales motion. Resellers thrive on customization - that’s how the channel adds value and justifies its existence in the value chain.
+
+Without the expense base of an inside sales team, Geotab requires less cash. They haven’t raised venture capital. The tradeoff is somewhat slower growth. Geotab was founded 4 years before Fleetmatics and is a bit smaller.
+
+Fleetmatics and Geotab have both reached terrific success as software companies. They both address the same market segment, but have approached it in radically different ways. The critical observation from this story is that each company matched its product and go to market strategy and stuck to it.
+
+Thanks for the inspiration, Abhinav!
+
+Published 2017-04-24 in SaaS Exits Marketing Sales

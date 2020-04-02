@@ -1,0 +1,639 @@
+
+
+
+
+Structure
+
+
+
+Introduction
+
+
+
+Types of Government interaction in e-governance
+
+
+
+Some initiatives in the same field
+
+
+
+National e-governance Plan
+
+
+
+Recent Initiatives
+
+
+
+m-governance
+
+
+
+Government initiatives for m-governance
+
+
+
+Advantages of e-governance
+
+
+
+Disadvantages of e-governance
+
+
+
+Challenges in e-governance
+
+
+
+Conclusion
+
+
+
+Introduction
+
+
+
+The “e” in e-Governance stands for ‘electronic’. Thus, e-Governance is basically associated with carrying out the functions and achieving the results of governance through the utilization of ICT (Information and Communications Technology).
+
+
+
+While Governance relates to safeguarding the legal rights of all citizens, an equally important aspect is concerned with ensuring equitable access to public services and the benefits of economic growth to all. It also ensures government to be transparent in its dealings, accountable for its activities and faster in its responses as part of good governance.
+
+
+
+However, this would require the government to change itself – its processes, its outlook, laws, rules and regulations and also its way of interacting with the citizens. It would also require capacity building within the government and creation of general awareness about e-Governance among the citizens
+
+
+
+ICT
+
+provides efficient storing and retrieval of data, instantaneous transmission of information, processing information and data faster than the earlier manual systems, speeding up governmental processes, taking decisions expeditiously and judiciously, increasing transparency and enforcing accountability. It also helps in increasing the reach of government – both geographically and demographically.
+
+
+
+In India, the main thrust for e-Governance was provided by the launching of NICNET in 1987 – the national satellite-based computer network. This was followed by the launch of the District Information System of the National Informatics Centre (DISNIC) programme to computerize all district offices in the country for which free hardware and software was offered to the State Governments. NICNET was extended via the State capitals to all district headquarters by 1990. In the ensuing years, with ongoing computerization, tele-connectivity and internet connectivity established a large number of e-Governance initiatives, both at the Union and State levels.
+
+
+
+Types of Government Interaction in e-governance.
+
+
+
+G2G : Government to Government
+
+
+
+G2C : Government to Citizen
+
+
+
+G2B : Government to Business
+
+
+
+G2E: Government to Employee
+
+
+
+Some Initiatives in the same field
+
+
+
+Government to Citizen (G2C) Initiatives:
+
+
+
+Computerization of Land Records : In collaboration with NIC. Ensuring that landowners get computerized copies of ownership, crop and tenancy and updated copies of Records of Rights (RoRs) on demand.
+
+
+
+Bhoomi Project : Online delivery of Land Records. S elf-sustainable e-Governance project for the computerized delivery of 20 million rural land records to 6.7 million farmers through 177 Government-owned kiosks in the State of Karnataka
+
+
+
+Gyandoot: It is an Intranet-based Government to C itizen (G2 C ) service delivery initiative. It was initiated in the Dhar district of Madhya Pradesh in January 2000 with the twin objective of providing relevant information to the rural population and acting as an interface between the district administration and the people.
+
+
+
+Lokvani Project in Uttar Pradesh: Lokvani is a public-private partnership project at Sitapur District in Uttar Pradesh which was initiated in November, 2004. Its objective is to provide a single window, self-sustainable e-Governance solution with regard to handling of grievances, land record maintenance and providing a mixture of essential services.
+
+
+
+Project FRIENDS in Kerala: FRIENDS (Fast, Reliable, Instant, Efficient Network for the Disbursement of Services) is a Single Window Facility providing citizens the means to pay taxes and other financial dues to the State Government.The services are provided through FRIENDS Janasevana Kendrams located in the district headquarters.
+
+
+
+e-Mitra Project in Rajasthan: e-Mitra is an integrated project to facilitate the urban and the rural masses with maximum possible services related to different state government departments through Lokmitra-Janmitra Centers/Kiosks.
+
+
+
+e-Seva (Andhra Pradesh): This project is designed to provide ‘Government to C itizen’ and ‘e- B usiness to C itizen’ services. The highlight of the eSeva project is that all the services are delivered online to consumers /citizens by connecting them to the respective government departments and providing online information at the point of service delivery.
+
+
+
+Admission to Professional Colleges – Common Entrance Test (CET):
+
+With the rapid growth in the demand as well as supply of professional education, the process of admission to these institutions became a major challenge in the early 1990s. Recourse was then taken to I C T to make the process of admission transparent and objective. One of the pioneering efforts was made by Karnataka. The State Government decided to conduct a common entrance test based on which admission to different colleges and disciplines was made.
+
+
+
+
+
+
+
+
+
+Government to Business (G2B) Initiatives:
+
+
+
+e-Procurement Project in Andhra Pradesh and Gujarat:
+
+To reduce the time and cost of doing business for both vendors and government.
+
+
+
+MCA 21: By the Ministry of C orporate Affairs. The project aims at providing easy and secure online access to all registry related services provided by the Union Ministry of C orporate Affairs to corporates and other stakeholders at any time and in a manner that best suits them.
+
+
+
+Government to Government (G2G) Initiatives:
+
+
+
+Khajane Project in Karnataka: It is a comprehensive online treasury computerization project of the Government of Karnataka. The project has resulted in the computerization of the entire treasury related activities of the State Government and the system has the ability to track every activity right from the approval of the State Budget to the point of rendering accounts to the government.
+
+
+
+SmartGov (Andhra Pradesh): SmartGov has been developed to streamline operations, enhance efficiency through workflow automation and knowledge management for implementation in the Andhra Pradesh Secretariat.
+
+
+
+National E-governance Plan
+
+
+
+The National e-Governance Plan (NeGP) has been formulated by the Department of Electronics and Information Technology (DEITY) and Department of Administrative Reforms and Public Grievances (DARPG) in 2006.
+
+
+
+The NeGP aims at improving delivery of Government services to citizens and businesses with the following vision: “Make all Government services accessible to the common man in his locality, through common service delivery outlets and ensure efficiency, transparency & reliability of such services at affordable costs to realise the basic needs of the common man.”
+
+
+
+Central government initiatives as mission mode projects (MMP)
+
+
+
+e-office
+
+
+
+The Government of India has recognized the need to modernize the Central Government offices through the introduction of Information and Communications Technology. e-Office is aimed at increasing the usage of work flow and rule based file routing, quick search and retrieval of files and office orders, digital signatures for authentication, forms and reporting components.
+
+
+
+Immigration, Visa and Foreigner’s Registration & Tracking (IVFRT)
+
+
+
+India has emerged as a key tourist destination, besides being a major business and service hub. Immigration Check Post is the first point of contact that generates public and popular perception about the country, thus necessitating a state of the art system for prompt and user-friendly services.
+
+
+
+UID
+
+
+
+The unique identification project was conceived as an initiative that would provide identification for each resident across the country and would be used primarily as the basis for efficient delivery of welfare services. It would also act as a tool for effective monitoring of various programs and schemes of the government.
+
+
+
+Pensions
+
+
+
+The pensions MMP is primarily aimed at making the pension/ retirement related information, services and grievances handling mechanism accessible online to the needy pensioners, through a combination of interactive and non-interactive components, and thus, help bridge the gap between the pensioners and the government.
+
+
+
+Banking
+
+
+
+The Banking MMP is yet another step towards improving operational efficiency and reducing the delays and efforts involved in handling and settling transactions. The MMP which is being implemented by the banking industry aims at streamlining various e-services initiatives undertaken by individual banks. Implementation is being done by the banks concerned, with the banking Department providing a broad framework and guidance.
+
+
+
+Posts
+
+
+
+Modernization of Postal Services has been undertaken by the Department of Posts through computerization and networking of all post offices using a central server-based system, and setting up of computerized registration centers (CRCs).
+
+
+
+State Mission Mode projects
+
+
+
+e-Governance in Municipalities
+
+
+
+It is a unique initiative of the Government of India conceptualized under the umbrella of the overall National e-Governance Plan (NeGP) and the Jawaharlal Nehru National Urban Renewal Mission (Jnnurm) aimed at improving operational efficiencies within Urban Local Bodies (ULBs).
+
+
+
+Crime and Criminal Tracking Network & Systems
+
+
+
+Crime and Criminal Tracking Network & Systems (CCTNS) MMP aims at creating a comprehensive and integrated system for enhancing the efficiency and effective policing at all levels and especially at the Police Station level through adoption of principles of e-Governance, and creation of a nationwide networked infrastructure for evolution of IT-enabled state-of-the-art tracking system.
+
+
+
+Public Distribution System
+
+
+
+Computerization of the PDS is envisaged as an end-to-end project covering key functional areas such as supply chain management including allocation and utilization reporting, storage and movement of food grains, grievance redressal and transparency portal, digitization of beneficiary database, Fair Price Shop automation, etc.
+
+
+
+Health
+
+
+
+ICT for programme management has been undertaken by the Ministry of Health & Family Welfare in the Mother and Child Tracking System (MCTS) programme and the Ministry envisages a more comprehensive use of ICT including for Hospital Information Systems, supply chain management for drugs and vaccines, providing ICT tools to ASHA and ANM workers, programme management of National Rural Health Mission (NRHM), etc through this MMP.
+
+
+
+e-panchayat
+
+
+
+
+
+
+
+The Panchayati Raj Institutions (PRIs) are saddled with the problems of inadequate physical and financial resources, technical capabilities and extremely limited computerization. As a result, the potential of PRIs as the preferred delivery channel for the schemes of State and Centre as well as for citizen services has not been fully realized. While some computerization efforts for PRIs have been made by NIC over the years, the e-Governance revolution sweeping the country has not touched the PRIs yet in significant measure. The Ministry of Panchayati Raj, Government of India has therefore decided to take up the computerization of PRIs on a mission mode basis.
+
+
+
+e-District
+
+
+
+e-District is one of the 31 Mission Mode Projects under National e Governance Plan (NeGP) with the DIT, GoI being the nodal ministry. This project aims at providing support to the basic administrative unit i.e. District Administration by undertaking backend computerization to enable electronic delivery of high volume citizen centric government services which would optimally leverage and utilize the three infrastructure pillars of State Wide Area Networks (SWAN), State Data Centers (SDC) and Common Service Centers (CSCs) to deliver services to the citizen at his doorsteps.
+
+
+
+National Land Records Modernization Programme (NLRMP)
+
+
+
+A Project for Computerization of Land Records (CLR) was launched in 1988-89 with the intention to remove the inherent flaws in the manual system of maintenance and updation of Land Records. In 1997-98, the scheme was extended to tehsils to start distribution of Records of Rights to landowners on demand. The focus of the entire operation has always been to employ state of the art information technology (IT) to galvanize and transform the existing land records system of the country.
+
+
+
+Integrated Mission Mode Projects
+
+
+
+e-procurement
+
+
+
+Ministry of Commerce & Industry (Department of Commerce) has been nominated as the Nodal Ministry for implementation of e-Government Procurement (e-GP) Mission Mode Projects (MMP). The vision of the e-Procurement MMP is “To create a national initiative to implement procurement reforms, through the use of electronic Government procurement, so as to make public procurement in all sectors more transparent and efficient”.
+
+
+
+e-Courts
+
+
+
+The e-Court Mission Mode Project (MMP) was conceptualized with a vision to transform the Indian judiciary by making use of technology. The project had been developed, following the report submitted by the e-Committee under Supreme Court on national policy & action plan on implementation of information communication tools in Indian judiciary.
+
+
+
+A clear objective – to re-engineer processes and enhance judicial productivity both qualitatively and quantitatively to make the justice delivery system affordable, accessible, cost effective, transparent and accountable.
+
+
+
+e-Biz
+
+
+
+The e-Biz Mission Mode Project, being executed by Department of Industrial Policy and Promotion (DIPP), Ministry of Commerce and Industry, Government of India, was conceptualized with the vision. Its vision is “To transform the business environment in the country by providing efficient, convenient, transparent and integrated electronic services to investors, industries and business throughout the business life cycle”.
+
+
+
+Common Services Centres
+
+
+
+The CSCs would provide high quality and cost-effective video, voice and data content and services, in the areas of e-governance, education, health, telemedicine, entertainment as well as other private services. A highlight of the CSCs is that it will offer web-enabled e-governance services in rural areas, including application forms, certificates, and utility payments such as electricity, telephone and water bills.
+
+
+
+Recent Initiatives
+
+
+
+Direct Cash transfer
+
+
+
+To facilitate disbursements of Government entitlements like NREGA, Social Security pension, Handicapped Old Age Pension etc. of any Central or State Government bodies, using Aadhaar and authentication thereof as supported by UIDAI.
+
+
+
+
+
+
+
+
+
+Aadhar Enabled Payment system (AEPS) :
+
+
+
+AEPS is a bank led model which allows online interoperable financial inclusion transaction through the Business correspondent of any bank using the Aadhaar authentication. This has helped in financial inclusion. The four Aadhaar enabled basic types of banking transactions are as follows:-
+
+
+
+Balance Enquiry
+
+
+
+Cash Withdrawal
+
+
+
+Cash Deposit
+
+
+
+Aadhaar to Aadhaar Funds Transfer
+
+
+
+Digital India program
+
+
+
+
+
+
+
+
+
+This programme has been envisaged by Department of Electronics and Information Technology (DeitY). The vision of Digital India aims to transform the country into a digitally empowered society and knowledge economy. The programme will be implemented in phases from the current year till 2018.
+
+
+
+The Digital India is transformational in nature and would ensure that Government services are available to citizens electronically. It would also bring in public accountability through mandated delivery of government’s services electronically, a Unique ID and e-Pramaan based on authentic and standard based interoperable and integrated government applications and data basis.
+
+
+
+The program aims at providing digital infrastructure as a utility to every citizen as well as high-speed internet as a core utility in all gram panchayats. The overall scope of this program is “to prepare India for a knowledge future”, “to make technology central to enabling change” and “to become an umbrella program covering many departments”
+
+
+
+MyGov citizen portal
+
+
+
+
+
+
+
+Prime Minister launched an online platform mygov.nic.in to engage citizens in the task of “good governance” ( surajya ) as he completed 60 days in office on Saturday. MyGov is a technology-driven platform that would provide people with the opportunity to contribute towards good governance.
+
+
+
+E-Kranti scheme
+
+
+
+This is project for linking the internet with remote villages in the country. This scheme will broaden the reach of internet services to the rural areas in the country. The fundamental features of this scheme will be making the records handy to the government with ease. It also includes Expansion of internet and commencement of IT-based jobs in rural areas. It will also boost the use of mobile phones and computers in rural areas. It will also expand the use of IT in agriculture and retail trade too.
+
+
+
+Digital Cloud for every Indian
+
+
+
+Certificates issued by the government — education, residential, medical records, birth certificates, etc. — are to be stored in individual ‘digital lockers’ and a communication protocol established for government departments to access them without physically having to see the hard copy. The purpose of government is that copies of certificates issued by the government itself not to be carried around by people to government offices for various services.
+
+
+
+M-governance
+
+
+
+
+
+
+
+M-Governance is not a replacement for e-Governance, rather it complements e- Governance. M-Governance, is the use of mobile or wireless to improve Governance service and information “anytime, anywhere”. Mobile applications also rely on good back office ICT infrastructure and work processes. It has potential of using mobile phones as input devices in certain areas where last mile connectivity becomes issues for simple data inputs of critical importance for decision making in government departments.
+
+
+
+M-Governance is not a new concept. The private sector has been greatly leveraging these of mobile phones for delivery of value added services for the following which however are mostly SMS based: Banking, Media, Airlines, Telecom, Entertainment, News, Sports, Astrology, and Movie Tickets Etc.
+
+
+
+M-governance has increased the productivity of public service personnel, improving the delivery of government information and services, increasing channels for public interactions and Lower costs leading to higher participation of people.
+
+
+
+Recent thrust to m-governance is being provided through USSD Services Unstructured Supplementary Services Data (USSD) is a session based service unlike sms which is store and forward service. It can be used by the user to send command to an application in text format. USSD acts as a trigger for the application
+
+
+
+Government initiatives for m-governance
+
+
+
+Mobile Seva
+
+
+
+It aims to provide government services to the people through mobile phones and tablets. It has been developed as the core infrastructure for enabling the availability of public services through mobile devices.
+
+
+
+Mobile Seva enables the integration of the mobile platform with the common e-Governance infrastructure consisting of State Data Centers (SDCs), State Wide Area Networks (SWANs), State and National Service Delivery Gateways (SSDGs/NSDG).
+
+
+
+It enables a government department to integrate both web and mobile based services seamlessly and enhances the access to electronic services tremendously leveraging the very high penetration of mobile phones, especially in rural areas
+
+
+
+A Mobile Applications Store (m-App Store) has also been developed by DeitY as part of Mobile Seva. The Mobile Governance Portal and the m-App Store can be accessed at http://mgov.gov.in/. The m-Appstore currently hosts over 240 live mobile applications. The live applications can be downloaded and installed free of cost on a mobile phone by any person.
+
+
+
+The project, “mobile seva” has won the second prize at the prestigious United Nations’ Public Services Awards in the category “Promoting Whole of Government Approaches in the Information Age” for Asia Pacific.
+
+
+
+A few years ago, Kerala launched ‘Dr. SMS,’ an m-health information system, for providing information on medical facilities available in the locality of the resident.
+
+
+
+Goa followed, with a mobile governance initiative for issuing alerts for receipt of government applications and complaints and status tracking.
+
+
+
+Next came Maharashtra. It adopted a similar traffic management system through mobile alerts.
+
+
+
+A laudable initiative launched by the Greater Hyderabad Municipal Corporation in September tries to use technology in a mobile phone-based Intelligent Garbage Monitoring System enables sanitary supervisors to report the status of cleaning of garbage bins through their GPS-enabled mobile phones. Centralised reports as well as those of individual bins can be generated with the system.
+
+
+
+Advantages of e-governance
+
+
+
+
+
+
+
+Following are the advantages of E-Governance
+
+Speed: Technology makes communication speedier. Internet, Phones, Cell Phones have reduced the time taken in normal communication.
+
+
+
+Cost Reduction: Most of the Government expenditure is appropriated towards the cost of stationary. Paper-based communication needs lots of stationary, printers, computers, etc. which calls for continuous heavy expenditure. Internet and Phones makes communication cheaper saving valuable money for the Government.
+
+
+
+Transparency: Use of ICT makes governing profess transparent. All the information of the Government would be made available on the internet. The citizens can see the information whenever they want to see. But this is only possible when every piece of information of the Government is uploaded on the internet and is available for the public to peruse. Current governing process leaves many ways to conceal the information from all the people. ICT helps make the information available online eliminating all the possibilities of concealing of information.
+
+
+
+Accountability: Once the governing process is made transparent the Government is automatically made accountable. Accountability is answerability of the Government to the people. It is the answerability for the deeds of the Government. An accountable Government is a responsible Government.
+
+
+
+Convenience: E-Government brings public services to citizens on their schedule and their venue.
+
+
+
+Improved Customer Service: E-Government allows to redeploy resources from back-end processing to the front line of customer service.
+
+
+
+Increased access to information: E-Government improves the accessibility of government information to citizens allowing it become an important resource in the making the decisions that affect daily life and so it helps in empowerment of citizens
+
+
+
+Disadvantages of e-governance
+
+Electronic governments also consist on certain disadvantage. The main disadvantage of an electronic government is to move the government services into an electronic based system. This system loses the person to person interaction which is valued by a lot of people.
+
+In addition, the implementation of an e-government service is that, with many technology based services, it is often easy to make the excuse (e.g. the server has gone down) that problems with the service provided are because of the technology.
+
+The implementation of an e government does have certain constraints. Literacy of the users and the ability to use the computer, users who do not know how to read and write would need assistance. An example would be the senior citizens. In general, senior citizens do not have much computer education and they would have to approach a customer service officer for assistance. And also in case of rural people, it gives scope for middle man, who distort the information.
+
+Studies have shown that there is potential for a reduction in the usability of government online due to factors such as the access to Internet technology and usability of services and the ability to access to computers
+
+Even though the level of confidence in the security offered by government web sites are high, the public are still concerned over security, fear of spam from providing email addresses, and government retention of transaction or interaction history. There has been growing concern about the privacy of data being collected as part of UID project. The security of cyber space and misuse of data is still holding back the citizens to full adaptation of Aadhar card.
+
+Challenges in e-governance
+
+
+
+There are large numbers of potential barriers in the implementation of e-Governance. Some hindrance in the path of implementation, like security, unequal access to the computer technology by the citizen, high initial cost for setting up the e government solutions and resistance to change. Challenges identified as trust, resistance to change, digital divide, cost and privacy and security concerns.
+
+
+
+Trust
+
+
+
+Trust can be defined along two dimensions: as an assessment of a current situation, or as an innate personality traitor predisposition. The implementation of public administration functions via e-government requires the presence of two levels of trust. The first is that the user must be confident, comfortable and trusting of the tool or technology with which they will interact. The second dimension of trust pertains to trust of the government].
+
+
+
+There has to be a balance between ensuring that a system prevents fraudulent transactions and the burden that extensive checks can take place on people who are honest.
+
+
+
+Recently, confidential information on military veterans was compromised when a computer containing their personal information was lost. This type of incident can erode trust and user confidence in government systems. Trust, along with financial security, are two critical factors limiting the adoption of e-government services.
+
+
+
+Resistance to change
+
+
+
+The innovation diffusion theory states that over time an innovation will diffuse through a population, and the rate of adoption will vary between those who adopt early, referred to as early adopters and to those who adopt the innovation much later, referred to as ―laggards.
+
+
+
+The resistant to change phenomenon can explain much of the hesitation that occurs on the part of constituents in moving from a paper based to a Web-based system for interacting with government.
+
+
+
+Citizens, employees and businesses can all have their biases with respect to how transactions should be processed. However, government entities and public policy administrators cannot ignore the changes that occur as a result of the implementation of information and communication technology (ICT
+
+
+
+Education about the value of the new systems is one step toward reducing some of the existing resistance. It can also be particularly useful for a leader or manager, to buy into the new system at an early stage in the adoption process
+
+
+
+Digital Divide
+
+
+
+The digital divide refers to the separation that exists between individuals, communities, and businesses that have access to information technology and those that do not have such access.
+
+
+
+Social, economic, infrastructural and ethno-linguistic indicators provide explanations for the presence of the digital divide.
+
+
+
+Economic poverty is closely related to limited information technology resources
+
+
+
+An individual living below poverty line does not afford a computer for himself to harness the benefits of e-government and other online services. As the digital divide narrows, broader adoption of e-government in the public domain becomes possible. Economic poverty is not the only cause of digital divide. It can also be caused by the lack of awareness among the people. Even some of the economic stable people don’t know about the scope of e -governance.
+
+
+
+Awareness can only help to bring users to that service delivery channel once. It cannot guarantee sustained use of the system unless the system is also designed in such a way as to deliver satisfactory outcome. Procedures need to be simplified to deliver concrete benefits and clear guidelines provided to encourage their use by the actual end users and reduce user’s dependence on middlemen/intermediaries
+
+
+
+Cost
+
+
+
+Cost is one of the most important prohibiting factor that comes in the path of e-governance implementation particularly in the developing countries like India where most of the people living below the poverty line. Elected officers and politician don’t seem to be interested in implementing e-governance
+
+
+
+Privacy and Security
+
+
+
+There will be three basic levels of access exists for e-government stakeholders: no access to a Web service; limited access to a Web-service or full-access to a Web service, however when personal sensitive data exists the formation of the security access policy is a much more complex process with legal consideration. With the implementation of e-government projects, effective measures must be taken to protect sensitive personal information. A lack of clear security standards and protocols can limit the development of projects that contain sensitive information such as income, medical history.
+
+
+
+Conclusion
+
+
+
+We have seen how the concept of e-governance and m-governance has evolved in Indian scenario and how much it is required for transparency and accountability on the part of government and at the same time it is also a toll to increase the participation of people in policy making by empowering them with the right information at right time. The penetration of internet, telecommunication services in India has increased in the last decade and this gives a ray of hope to the citizens of India to fight with the long persisting problems of poverty, corruption, regional disparity and unemployment. But at the same time, due to slow pace of project completion, red-tape and resistance from the side of government employees and citizens too has not given the desired result.

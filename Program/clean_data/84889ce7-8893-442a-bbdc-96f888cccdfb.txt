@@ -1,0 +1,117 @@
+Paris
+
+When you walk into École 42, a teacher-less coding school in Paris, a few things leap out at you: a killer collection of provocative street art, including an illustrated condom machine at the front desk; iMacs as far as the eye can see; and a palpable buzz from the roughly 1,000 students bustling around the building.
+
+It is week two of la piscine (the “swimming pool”), a one-month, Hunger Games-like test students must endure to get a place at the school. No degrees or special skills are required to apply, and those who are accepted attend for free for three to five years. Around 80% of students get jobs before they finish the course; 100% are employed by the end.
+
+The school is the brainchild of Xavier Niel, a French billionaire who has so far spent about €48 million ($57 million) on the Paris campus and an additional $46 million on a school in Silicon Valley. Niel founded Free, France’s second-largest internet service provider, among other ventures. He is a serial entrepreneur who is always looking for the best and brightest talent. In 2013, struggling to find it, he declared that France’s education system was broken and set out to fix one part of it.
+
+The result is something unlike any other school in France, or elsewhere.
+
+“We don’t teach anything,” says Nicolas Sadirac, head of École 42. “The students create what they need all the time.”
+
+At 8:42 every morning, students get digital projects to complete. They have 48 hours to complete them, so they are always juggling various projects, sort of like in real life. (The name comes from the “answer to the ultimate question of life, the universe, and everything” in the comedic novel The Hitchhiker’s Guide to the Galaxy. The answer is 42.)
+
+Hard at work. (AP Photo/Thibault Camus)
+
+Since there are no teachers, it is up to students to figure things out. Everything is graded by peers. Students “manage their time how they want,” says Sadirac. “It’s totally self organized.” In education-speak, École 42 is both project-based learning and peer-to-peer learning, on steroids.
+
+The school is 100% merit based: In the most recent batch of students, 64,000 took a basic online logic test to qualify for entry. More than 20,000 passed, but the school only accepted the top 3,000 due to space constraints. Those 3,000 compete in pools of 1,000 for a month to see who best completes the digital projects; the top third of performers are then admitted. Of those, 5-15% drop out.
+
+While the school used to require that students master a set of skills before leaving, it has now ditched that requirement. It used to have year-long groups: it tossed aside that idea too, because students work at different paces.
+
+The curriculum is gamified: Sadirac describes it as World of Warcraft, but where dungeons have been replaced it with digital projects. There are modules (tech integration, algorithms, AI) and languages (Python, C, Java, Docker-tech). According to Wired:
+
+…to get projects corrected, students must spend “correction points” – which they earn by correcting someone else’s project. If there’s a disciplinary breach, they have to spin a wheel to learn their punishment: “Take orders at the coffee machine”, or “Clean the windows with a toothbrush”. Good behaviour earns “wallet points” which can be spent.
+
+And in a twist on the assumption that all great innovations start in Silicon Valley, École 42 launched in France before California—its campus in Fremont opened last year, three years after the Paris flagship.
+
+A day in the life
+
+On a recent Tuesday, the ground floor of École 42 on Boulevard Bessières in the north of Paris is bustling with students—alone, with headphones, in pairs and groups—hovering around iMacs. Many have colds; it is freezing inside and few have slept properly in the past week.
+
+Downstairs, students are strewn about on air mattresses with sleeping bags, trying to catch a nap; dozens of towels hang on railings along the walls.
+
+Catching sleep when they can. (Quartz/Jenny Anderson)
+
+Nicolas, 22, has been working for up to 12 hours a day. “The first week I went fast and tried to do too much,” he says, sitting at his computer alongside Celeste, 25, who used to work in infographics. “The second week I slowed down and tried to think more about what I was doing,” he adds, coughing.
+
+This self-directed approach is the point of the school. I ask Celeste if she wouldn’t prefer a teacher, or at least some guidance. “Sometimes I want a teacher so I can get to the solution faster,” she says. “But when I get the answer myself its more self-gratifying.”
+
+There’s a food truck out back, where students gather and smoke cigarettes. Like everything else at the school, this was organized by the students themselves (orders are placed electronically), along with activities like Game of Thrones screenings and more mundane things, like sleeping arrangements. Even the elevator has not escaped the attention of the assembled hackers; it is like a very cramped nightclub, with hip-hop blaring from the speakers and blue and green lights piercing the darkness. “They hacked it last year so you couldn’t get to any floor,” Sadirac says. “We just fixed it.”
+
+Visitors to the school have included everyone from former French president François Hollande (who walked amidst sleeping students) to PayPal co-founder Peter Thiel and Evan Spiegel of Snapchat.
+
+Who cares about another coding school?
+
+Xavier Niel. (AP Photo/Michel Euler)
+
+Schools around the world, from kindergarten up, are scrambling to figure out what skills kids need to thrive in the future. Disagreement abounds about which skills should be prioritized, and how they should be taught, but opinions coalesce around some mix of collaboration, creativity, critical thinking, communication, and initiative (or agency). While many schools incorporate this into legacy teaching systems, few are built with them in mind from the start.
+
+Niel wanted to address two problems: the lack of coding talent in France and the country’s entrenched inequality, which precludes poor kids who do not attend the country’s Grandes Écoles—elite universities—from the best job opportunities. In addressing those issues, he ended up creating a school built around collaboration, creativity, critical thinking, communication, and agency. In other words, a school for the future.
+
+“Whether you have a criminal record, suck at math, say dumb shit, we don’t give a damn,” Niel told Venture Beat. “We don’t take that into account, we only care about two objective criteria.” Those criteria are logic and motivation.
+
+This school is different
+
+When Sadirac describes École 42, it is easy to forget it is a school he is talking about.
+
+“I would mainly say it’s not about learning.”
+
+“We think we are an art school.”
+
+“Knowledge is un-useful, dangerous, and removes your freedom.”
+
+All of this must be put in the context of programming, and how information technology has changed. École 42 is not about learning because learning has traditionally been about mastering a body of content, or set of skills.
+
+“We should not try to learn and memorize stuff,” Sadirac says. “It’s dangerous, it makes you less agile.”
+
+Getting information to stick in your brain is complicated and hard. Getting it out, to make way for new way things, can be even harder. Sadirac’s previous job, as it happens, involved retraining adults. The biggest impediment to them learning new things was often unlearning what they already knew. Case in point: around 30% of the students in the swimming pool come with coding experience. After one month, those with experience perform no better than those without it.
+
+Around 30% of the students come with coding experience. After one month, they perform no better than those without it. He considers École 42 an art school because programming is more art than science, he says. Two myths that persist about coding is that you have to be good at math and that it is a solitary endeavor. These myths, he argues, are part of what keeps women away from programming. Only 10% of students at École 42 are women; it has started a program to bring in female high-school students during holidays to teach them coding and dispel these ideas.
+
+Knowledge is “dangerous,” Sadirac says, because of the way technology has changed. Companies first applied digital technology to transform existing processes, which required high levels of organization and knowledge, but not a lot of creativity. Today, as companies reinvent themselves around everything digital, it is programming that reinvents processes. That requires people to work together and think broadly about how to solve real-world problems.
+
+How it all began
+
+Before École 42, Sadirac founded Epitech, one of France’s leading programming schools. A foundation approached the school and asked if it would teach coding in some poor areas of Paris.
+
+One of the students from the coding program ended up at Free, Niel’s internet service provider, which Sadirac says is known for being extremely intellectually demanding. The woman wowed everyone and Niel asked her where she went to school. “I was selling hamsters two years ago,” she said. He recognized that too many people were kept from programming because they weren’t born into the right families. Indeed, according to the OECD, French students report some of the lowest levels of belonging in the developed world, thanks to a highly stratified education system.
+
+Nicolas Sadirac. (Ecole 42)
+
+He teamed up with Sadirac to build École 42.
+
+École 42 is one of many innovative institutions cropping up around the world. In the US, there’s Coursera, Udacity, and Udemy; China has 17zuoye; and the Minerva Project, a highly selective university, educates kids around the world.
+
+One question, of course, is whether these new models can scale.
+
+If Niel he can make the École 42 model work in the US—his goal is for the Silicon Valley campus to take in 10,000 students—he will consider opening a branch in China. He told Quartz it’s scalable because it’s a non-profit; he also said starting a school was less stressful than a business, because it is a non-profit.
+
+Other outposts of 42 have cropped up around the world independently, in Romania, South Africa, Ukraine, and Bulgaria (with two more coming soon in Tunisia and the Netherlands). These schools have to ascribe to the philosophy of free tuition and no prior academic requirements, raising enough money to educate more than 150 kids. If they do that, they get access to the school’s curriculum.
+
+Running costs for École 42 in Paris are about €7 million a year, and a bit less than that in the US. Niel says he’ll foot the bill in Paris for a decade; after that, he’s hoping a Mark Zuckerberg-type graduate from the school will take over and pay for things.
+
+So the model is scalable, if someone very rich is behind it.
+
+Kyle Peck, a professor of education and co-director of the Center for Online Innovation in Learning at Penn State, admires École 42, but questions its scope: “They want to compete at the top rather than offering something for everyone.” Peck also wonders whether the model would benefit from more coaching or expert input. “It is novices helping novices,” he says about the peer-to-peer system. “There’s wisdom from experts, and sharing that at appropriate moments” could help optimize learning.
+
+“There is no issue at all for our students to find a job. We could have 10 times more students.” That École 42 is free for those accepted is clearly a plus. But three years is a long time to forego a salary, even if students get internships along the way. In the US, there are around 95 coding boot camps, according to Course Report, where the curriculum is typically much shorter—about 14 weeks—but the cost much higher, at about $14,000. This more traditional model also has its flaws: the report notes that eight coding bootcamps closed this year, including Iron Yard and Dev Bootcamp, both of which had significant financial support. New York Code and Design Academy recently hiked its tuition, but graduates of two of its campuses who don’t get jobs after graduation don’t have to repay the school; those who get jobs pay 8% of their earnings until they settled the $15,000 tuition bill.
+
+The ultimate gauge of success, of course, is jobs. Niel has been described as a cross between Elon Musk and Mark Zuckerberg à la française. In Paris, he is a household name; École 42 is also well known. As a result, companies know to come looking for talent at the school. “There is no issue at all for our students to find a job,” Niel said. “We could have 10 times more students.” In fact, employers submit digital projects for the students to complete: the French culture ministry wants ideas about how to build a digital museum; the French government wants advanced thinking around cybersecurity; and PSA, the parent company of Peugeot, has asked students to imagine how self-driving cars will change our lives.
+
+Coming to America
+
+Last year, Niel opened School 42 in Fremont, California, in the heart of Silicon Valley. A video on the school’s website features a who’s who of Silicon Valley saying it is just what’s needed, including Spiegel of Snapchat, Jack Dorsey of Twitter and Square, and Stuart Butterfield of Slack. “It takes away the walls,” raved Peter Fenton, a partner at Benchmark Capital. “It allows for mobility for people with aptitude and potential and motivation.”
+
+In an interview with Bloomberg’s Decrypted, Niel said a major challenge in the US has been that people distrust anything that is free. “When it’s free they think there’s something behind it; there’s a trick,” he noted. When École 42 opened, 70,000 kids between the ages of 18 and 30 applied; in the US, it was just a few thousand, Brittany Bir, School 42’s COO, told Ars Technica. When I asked Niel how he planned to make deeper inroads, his response was “help us,” a plan which somewhat lacks detail.
+
+There are a few factors, beyond a suspicion of free stuff, that is working against School 42 in the US. It is not accredited and can’t help students with visas. Students tend to be older and already have university degrees, so the lack of accreditation means they can’t put student loans on hold while they’re at School 42. (And American graduates carry staggering debt loads.)
+
+The biggest challenge, though, will come when School 42’s first crop of graduates try to get jobs. Competition in Silicon Valley is fierce, and Niel does not have the clout he does in France, where he is singlehandedly putting Paris on the map as a global tech hub.
+
+But for thousands of young people who have limited options, School 42 offers a wealth of opportunity: an education, a community, and real-life skills that are in high demand among employers.
+
+Back in France, Sébastien Faucher, 25, dropped out of high school and worked in factories around Limoges, earning about €1,100 a month. “My life status was not that good,” he said, smoking a Camel, draped in an oversized parka in Paris in July. He came to the swimming pool in hopes of gaining a place at École 42 as a springboard to his dream career: video-game designer.
+
+It has not been easy. “I wanted to surrender two days ago,” he said. “I cried and cried and cried.” He even went to the train station with a friend, and bought a ticket. But then he realized, “When will I have this chance again?” He went back, and got to work.

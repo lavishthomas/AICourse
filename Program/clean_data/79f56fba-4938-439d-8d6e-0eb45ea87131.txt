@@ -1,0 +1,73 @@
+Your router is the first line of defense against hackers trying to access all the internet-connected devices in your home. Sadly, many of the top Wi-Fi routers are easy to hack. You should be concerned—and also make sure your router is set up properly.
+
+We've talked about the basic settings you should change on your router before—and those things still hold true.
+
+To recap:
+
+Change the default administrator password—and username, if possible
+
+Change the SSID (or name of your wireless network) so your devices don't always accept connections to similarly named networks (e.g. "linksys") and also so you don't give hackers more of a clue to your router model (e.g. "linksys")
+
+Set the wireless security mode to WPA2 and choose a good, long password for it
+
+Hopefully, you've already made these security changes. Beyond those basics, though, there are more things you can do to lock down your network security in these increasingly hacked times.
+
+Install DD-WRT or Tomato If Your Router Supports It
+
+Besides supercharging your router with extra features, open-source router firmware DD-WRT and Tomato are likely more secure than the stock firmware that comes with your router. DD-WRT and Tomato tend not to be as susceptible to vulnerabilities found in many routers, such as the ever-popular issue with WPS (Wi-Fi Protected Setup). They also get updated more regularly, offer more security options (such as advanced logging or encrypting DNS with DNSCrypt), and give you more control over your hardware. Security expert Brian Krebs says:
+
+Most stock router firmware is fairly clunky and barebones, or else includes undocumented "features" or limitations. Normally when it comes to upgrading router firmware, I tend to steer people away from the manufacturer's firmware toward alternative, open source alternatives, such as DD-WRT or Tomato. I have long relied on DD-WRT because it with comes with all the bells, whistles and options you could ever want in a router firmware, but it generally keeps those features turned off by default unless you switch them on.
+
+Check the supported devices pages for DD-WRT and Tomato to see if they'll work for you. Tomato's more user friendly, but DD-WRT is packed with more settings.
+
+Update Your Firmware Regularly
+
+Regardless of whether you're using the stock firmware or a third-party one, it's important to keep your firmware current, because new vulnerabilities are discovered all the time (like the Linksys bug that gave remote users access to the administration console without having to log in, or the backdoor built into a few popular routers).
+
+Advertisement
+
+The actual steps to update the firmware may vary by router, but most will let you check for new firmware from the router control panel. In your browser, enter your router's IP address, log in, and then look in the advanced settings or administration section. Alternatively, you can check your router manufacturer's support web site to see whether new firmware is available.
+
+Some routers also offer the ability to automatically update to the latest firmware, but you might prefer to check what the updates offer and install manually.
+
+Turn Off Remote Administration
+
+On many routers this is already turned off by default, but, just in case, check that remote administration (also known as remote management or enable web access from WAN) is disabled. Remote administration gives access to your router's control panel from outside your home network—so you can see why that would be a problem. Again, this setting is probably under your advanced or administration section.
+
+Disable UPnP
+
+UPnP, or Universal Plug and Play, is designed to make it easier for network devices to be discovered by the router. Unfortunately, this protocol is also riddled with serious security holes, with bugs and poor implementations of UPnP affecting millions of devices connected online. The biggest issue is UPnP doesn't have any sort of authentication (it considers every device and user to be trustworthy). How-To Geek explains some of the problems with UPnP if it's enabled on your router, which include the possibility of malicious applications rerouting traffic to different IP addresses outside of the local network.
+
+Advertisement
+
+GRC's UPnP test can tell you if your devices are insecure and exposed to the public internet, in which case you should disconnect them. (Note: click the red ribbon on the top right of the page to run the actual test; the page you land on via that link is just an example.)
+
+To turn off UPnP on your router, go into the management console and look for the UPnP setting (on many routers, that's under the administration section). Also disable the "Allow user to configure UPnP" option if available. Keep in mind that this doesn't affect your ability to, say, stream videos across your network with UPnP—it only affects things outside your network. That does mean that you may have to manually set up port forwarding for things like BitTorrent to work optimally.
+
+Other Settings That Are Probably Not Worth the Trouble
+
+You might have also heard about other settings like turning on MAC filtering or hiding your network SSID, but for all their hassle, they don't add very much security.
+
+SSID Hiding
+
+At first glance, hiding your router's SSID sounds like a good idea, but it might actually decrease your security. Wi-Fi security expert Joshua Wright explains on Tech Republic:
+
+Question: Joshua, please let me know your thoughts on disabling broadcasting your router's SSID. Joshua Wright: It's a bad idea. I know the PCI specification requires you to do this, and I've told them they need to remove this requirement from the specification. Imagine you are a government base and you don't tell your agents where you are located. They have to walk around and keep asking "Are you the government base?" to everyone the meet. Eventually, some wily hacker or bad guy will say "Heck YEAH I'm your base, come on in and share your secrets with me." This is essentially what happens with SSID cloaking, where you have to ask every AP you meet if their desired SSID is available, allowing an attacker to impersonate your SSID at the airport, coffee shop, in the airplane, etc. In short, don't cloak your SSID, but don't make your SSID something like "sexyhackertargethere" either.
+
+Hiding your router SSID might keep your neighbors from trying to freeload on your network, but it won't stop capable hackers and could even act as a loud beacon telling them, "hey, here I am trying to hide." Besides, if you're trying to keep your neighbors from freeloading, just make sure you have a secure password.
+
+MAC Filtering
+
+Similarly, MAC filtering, which limits network access to only the devices you allow, sounds great and can provide added protection against your average freeloader, but MAC addresses are easy to spoof. Stack Exchange user sysadmin1138 sums it up like this:
+
+For someone who wants your network specifically, encryption (most especially un-broken encryption) will provide vastly better security. MAC spoofing is trivial in most adapters these days, and after you've cracked the network to the point you can monitor in-flight packets you can get a list of valid MAC addresses. SSID is trivial at that point as well. Due to the automated nature of the toolsets available, MAC filtering and SSID hiding aren't really worth the effort any more. In my opinion.
+
+That said, if you don't mind the hassle, turning on MAC filtering won't hurt. Just know that it's not the strong security feature it might seem to be—and it's quite a hassle if you ever get new device, or have a friend come visit.
+
+Static IP Addresses
+
+Finally, there's one more setting you might consider changing: Turning off DHCP, which automatically hands out network addresses to devices that connect to your router. Instead, you can assign static IP addresses to all your devices. The theory is, if DHCP is disabled, unknown machines won't be given an address.
+
+However, both DHCP and static IPs have risks and downsides, as this discussion on Stack Exchage points out; static IPs can be vulnerable to spoofing attacks, while devices that get their IPs via DHCP can be subject to man-in-the-middle attacks from rogue DHCP servers. There's no solid consensus on which is better for security (although a few on Microsoft's community say it doesn't make any difference).
+
+If you've got the security settings mentioned in the above sections down pat, rest a bit more peacefully knowing that you're most likely doing the best you can to secure your home network.

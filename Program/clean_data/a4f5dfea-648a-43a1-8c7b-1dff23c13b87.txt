@@ -1,0 +1,17 @@
+UPDATE: Many readers are asking a valid question about what happens if someone is ordered to decrypt hardware but claims they forgot the passcode. Here is a link to our recent story on that topic.
+
+END UPDATE:
+
+A now-fired Philadelphia cop has been behind bars for almost two years for refusing to decrypt hard drives that authorities found at his residence as part of a federal child-porn investigation. On Thursday, his lawyers are set to ask a federal judge to release him while he appeals the reason for his confinement to the Supreme Court. If the justices take the case, it would be the first time they weighed the constitutionality of whether forcing somebody to decrypt hardware amounts to a Fifth Amendment violation.
+
+The dispute concerns Francis Rawls, who has been serving an indefinite jail term after being held in contempt of court for refusing to unlock at least two FileVault-encrypted drives connected to an Apple Mac Pro. He has not been charged with any criminal offense even though the contempt order (PDF) was issued September 30, 2015.
+
+Both a federal judge and the 3rd US Circuit Court of Appeals did not agree with Rawls' contention that forcing him to unlock the drives amounted to a violation of his Fifth Amendment right against being compelled to testify against oneself. The courts also concluded that it was a "foregone conclusion" that kid porn was on the drives because a forensic examination revealed that the "hash" values of the files have been linked by the authorities to known child pornography.
+
+All of which is why Rawls has been behind bars for longer than anybody who has refused to unlock passcode-protected devices.
+
+"[I]t remains Mr. Rawls' intention to seek Supreme Court review of the Third Circuit’s decision rejecting his Fifth Amendment challenge," Keith Donoghue, a federal public defender, told (PDF) a Pennsylvania federal judge who will entertain the motion Thursday.
+
+Donoghue told US District Judge Cynthia Rufe that federal law only allows his client to remain locked up for a maximum of 18 months on a contempt-of-court violation. Rawls, however, has exceeded that by five months.
+
+Another way for the contempt order to be lifted would be for Rawls to unlock the drives. Doing that, however, might expose him to other legal troubles.

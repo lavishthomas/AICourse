@@ -1,0 +1,109 @@
+Share
+
+tweet
+
+
+
+
+
+“The first generation of the digital revolution brought us the Internet of information. The second generation — powered by blockchain technology — is bringing us the Internet of value: a new platform to reshape the world of business and transform the old order of human affairs for the better.
+
+Blockchain is a vast, global distributed ledger or database running on millions of devices and open to anyone, where not just information but anything of value money, but also titles, deeds, identities, even votes can be moved, stored and managed securely and privately. Trust is established through mass collaboration and clever code rather than by powerful intermediaries like governments and banks.”
+
+– Dan Tapscott, author of Blockchain Revolution: How the Technology Behind Bitcoin Is Changing Money, Business and the World.
+
+Dear fellow lawyers, there is yet another tech term we should become familiar with: blockchain. I know, it’s becoming overwhelming, all the technical terms legal professionals must add to our lexicon.
+
+But if you want to survive, or dare I say thrive, as a 21st century lawyer, you need to know at least three things about blockchain:
+
+What is it? How is it impacting your clients? How it may impact the legal profession?
+
+What Is Blockchain
+
+If you’ve heard of blockchain it’s most likely been in the context of the digital currency bitcoin — blockchain is the technology upon which bitcoin transactions are built. In essence, blockchain is a distributed ledger (or register) made up of digitally recorded and encrypted (cryptographically hashed) data in the form of blocks, which when connected via the distributed network of computers storing the blocks, form the blockchain.
+
+Being distributed across a network of computers, the ledger is not under any single control and thus operates by consensus. This is quite different from a traditional transaction ledger — one that is typically maintained by one entity (e.g. a bank) and audited by another entity (e.g. a trusted intermediary). In a blockchain, all parties have a copy of the ledger and can confirm in real time the status of the transaction.
+
+What Lawyers Need To Understand
+
+blockchain creates a real-time digital record verifying that a transaction containing certain data happened at a certain time and in a certain order.
+
+Further, integrity of the transaction can be trusted due to two of blockchain’s fundamental characteristics: it is immutable and highly hack-resistant. This translates into a very high level of data integrity — once data enters the blockchain, it is resistant to alteration, hacking, or deletion. Let’s explore these two characteristics.
+
+Blockchain Is Immutable
+
+As each block of data is created in the blockchain, the block is time-stamped. A block of data in the chain can be added to the chain only after the time stamp is applied and verified by the distributed computers across the chain.
+
+The practical effect of time-stamping is that a block of data can never be changed retrospectively. This means that each block in the chain creates an accurate, time-stamped record as to that block – when it was added, and in what order it was added. If an attempt is made to change any data in a block already added to the chain, it is rejected by the network of computers connecting the blocks in the chain. The network won’t approve changes to data in a block that has already been verified as to content and timestamp, as this would have the effect of breaking the chain. Thus, the blockchain is immutable.
+
+Blockchain Is Highly Hack-Resistant
+
+To date, a blockchain itself has yet to be hacked. Recall that blockchain is the underlying technology. Systems built on top of blockchain (such as cryptocurrency exchanges) have been hacked. But the blockchain itself has not.
+
+Understanding what makes blockchain resistant to hacking is important from a legal perspective, so bear with me as we delve into just a bit more of the technical minutiae.
+
+Recall that blockchain is a distributed ledger, meaning that the blocks of data comprising the ledger are spread across a network of computers that could be located anywhere in the world. Each computer (referred to as a node) holds all or part of the entire blockchain, and applies the particular blockchain’s computational algorithm to verify a block and permit it to be added to the chain. This is happening simultaneously across the network, making it (theoretically, at least) next to impossible for hackers to attack the chain, since each instance of the data is being held in many places all at one time, and a block may be verified and added to the chain by any number of nodes.
+
+Blockchain also is hack-resistant due to how the data in the chain is stored and transferred. Data added to the chain is cryptographically “hashed,” meaning that a short digest of the data is created. It is this hash of data that is stored in a block and transferred in encrypted form via the blockchain — not the actual, underlying data itself. As a digest, the hashed data can’t be decrypted to reproduce the full underlying document or transaction data. However, within the chain, the hash can verify a copy of the underlying document or transaction existing outside of the blockchain.
+
+What does this mean, for practical purposes? First, if a hack to a block in the chain is attempted, it doesn’t expose the underlying data within the document or transaction because the hashed data is simply a digest and not a complete record of the data. Thus, the underlying data is not exposed to potential hacking.
+
+Second, because the transaction ledger is stored across a distributed network of computers, redundancy is created. The underlying, hashed data is stored simultaneously across multiple machines, making it infinitely more difficult to hack.
+
+These characteristics help ensure both the privacy and authenticity of the underlying data within the blockchain, two properties that are highly relevant to legal transactions.
+
+
+
+CLICK TO ENLARGE
+
+And it’s not just data that can be transferred via blockchain. Cryptocurrencies use blockchain to transfer economic value. How about transferring energy? Music? Real estate titles? It’s either happening, or about to. Time to discuss why lawyers should care about blockchain.
+
+How Will Blockchain Impact Your Clients
+
+It’s disrupting, or has the potential to disrupt, a number of industries that rely heavily on lawyers’ counsel and advice. And this disruption will create opportunities for us to help, as industries wrangle with how disruption impacts everything from operations to regulatory and legal structures. I predict these disruptions will create niche practice areas for those lawyers who choose to understand blockchain (more on that in Part II of this series).
+
+I offer but a few examples of blockchain’s current and potential impact on business and industry:
+
+Finance
+
+One word: fintech. The financial industry is facing immense disruption thanks to fintech, which is the application of technological innovation to traditional activities of the financial industry – ranging from banking to investing to payment processing. Think Bitcoin, PayPal, Robinhood, Prosper, LearnVest — just to name but a very few examples.
+
+There are dozens of blockchain-based fintech companies offering a range of products and services. A few examples of how blockchain in fintech is disrupting the status quo in finance: 21.co wants to build the machine-payable web with bitcoin. Skuchain is building a supply-chain network on a blockchain structure, to govern all phases of trade transactions. T Zero’s tagline is “the trade is the settlement” — it seeks to take the (considerable) friction out of settling securities transactions using blockchain.
+
+Blockchain is a natural fit for the financial services industry for obvious reasons: it self-verifies and authenticates transactions, and it’s hack-resistant. Bitcoin and other cryptocurrencies are among the first to use blockchain to support friction-less financial transactions, but they are far from the last.
+
+Energy
+
+Highly-regulated, the energy industry is being disrupted by startups using blockchain technology such as Transactive Grid, which created a peer-to-peer market for the buying and selling of energy. Other blockchain-based startups in the energy space include Grid Singularity and SolarCoin.
+
+These disruptors will present a challenge for the current regulatory structure. And lawyers who understand blockchain will have the unique opportunity to shape the future of the energy industry.
+
+Music
+
+In the near future, all transactions involving the creation and sale of music may very well take place on a blockchain structure. Consider Resonate, which uses blockchain to create a new kind of music streaming platform aiming to give artists greater control and a greater share of profit. Or Ujo Music, which seeks to build an “open music ecosystem” on the Ethereum blockchain. Pledge Music is a global direct-to-fan platform that allows artists to completely bypasses traditional “friction” in the music industry (record labels, publishers, distributors).
+
+By its very nature, blockchain is uniquely suited to address the piracy, control and monetization issues of music that have become rampant in the digital age. To lawyers representing traditional players in the music industry: your clients need you to understand how startups like Resonate, Ujo Music, and Pledge Music are changing the rules for how music is protected and monetized.
+
+Real Estate
+
+Real estate transactions are ripe for improvement: the mountains of paperwork, lack of transparency during and after transactions, and opportunities for error in public records – all can be addressed vis a vis blockchain. Enter Ubitquity, which is creating a blockchain-based platform to securely record, track, and transfer deeds, to help “real estate, title, and mortgage companies benefit from a clean record of ownership, reducing future title search time, increased confidence, and technology.”
+
+The Midasium Blockchain proposes to be the “blockchain of real estate,” with the goal of creating “a global shared distributed ledger system for securely executing and recording real estate financial transactions over the internet.”
+
+As Midasium’s site notes, blockchain’s characteristics align quite well with the requirements of real estate transactions: durability, transparency, immutability, longevity, and reliability and availability of data. This likely is why the country of Sweden is considering the placement of its entire land registry system on a blockchain.
+
+If you do any legal work for clients involved in any aspect of real estate transactions, you need to understand that things are about to change radically thanks to blockchain.
+
+Healthcare
+
+One clear application of blockchain is its use to manage patient medical data (electronic medical records or EMRs) — for one example see MedRec. Gem, Another blockchain startup, has created Gem Health, which seeks to apply blockchain to a host of healthcare use cases, including EMRs, wellness apps, global patient ID software, and medical inventory management.
+
+The healthcare technology company Pokitdot has created DocChain, the company’s implementation of blockchain for healthcare data. DocChain creates a single and secure network that connects all the stakeholders in a patient’s care — from EMRs, to their medical device sensors, to the pharmacy filling their prescriptions.
+
+Hashed Health, a Nashville-based startup, is creating a consortium of healthcare companies to leverage blockchain technology for the purpose of advancing innovation industry-wide. Hashed Health’s website identifies a number of reasons why blockchain is an ideal technological medium for the healthcare industry: blockchain reduces costs, increases speed, increases security, reduces fraud, and reduces risk. (Remember these five benefits – they are highly relevant to blockchain’s impact on the legal profession, which I’ll cover in Part II of this series.)
+
+These benefits clearly illustrate the disruptive impact that blockchain can have on the heretofore strictly siloed maintenance and transfer of medical data. It’s an industry that has profited mightily from the friction created by middlemen and regulations. The benefits of blockchain clearly illustrate why lawyers serving the healthcare industry owe a duty to their clients to understand this technology and its import for the healthcare industry.
+
+How May Blockchain Impact The Legal Services Industry?
+
+I’m saving the legal industry, and how it will be disrupted by blockchain, for Part II of the blockchain for Lawyers 101 series. The future of blockchain and law is at once imminently disruptive and ripe for opportunity. Stay tuned.

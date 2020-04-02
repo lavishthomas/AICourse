@@ -1,0 +1,77 @@
+Whether or not your child grows up to be the next Zuckerberg, programming is a highly useful skill for him or her to learn. It teaches vital problem-solving, creativity, and communication skills. Plus, it can be downright fun for you both. Here are some of the best tried-and-true apps for teaching kids of all ages how to code.
+
+There's No Time Like the Present
+
+Perhaps there's no better group to teach coding to than children (cue in Whitney Houston song about children and our future). Kids absorb information and use new technologies like they're old hat. (Just ask any parent who's given an iPad to a diapered child or the dad who raised his kids on the command line.)
+
+It's hard to imagine the amazing apps and tools they'll develop when they're older if we get them started learning how to tinker now. But most importantly, when you introduce your child to programming, in the process he/she's not just learning to code, but also coding to learn, as MIT professor Mitchel Resnick writes.
+
+Advertisement
+
+For my part, I think of coding as an interest my daughter already has that I want to foster, the same as for reading or drawing. At 7-years old, she's too young to think of it in terms of "If-then" statements, but the impetus is still the same: she wants to make a game or an animation and doesn't even question that the tools are within her reach. The awesome apps available today engage her curiosity and teach her the fundamentals through exploration and play. In other words, the best way to learn.
+
+Here are the apps we've tried and others that come highly recommended by other Lifehackers/parents. Many of them are iPad-based, simply because that touch interface is more intuitive for young kids, but there are desktop and web-based apps as well for students of all ages.
+
+Programming Games for the Youngest Learners
+
+The best apps for the youngest children are centered more on graphics and simple animations than the actual code itself. While most of these types of game-like educational apps are rated for ages 8+, if your kid is old enough to read, understand cause and effect, and motivated, you can introduce the games below to even pre-K learners.
+
+Advertisement
+
+Daisy the Dinosaur (iPad, free): On a dinosaur kick, Elise discovered this app on her own and we installed it a few years ago. The app prompts kids to manipulate a character, Daisy, through challenges that involve loops, events, and other programming basics (e.g., when touched, move dinosaur forward). It's a very stripped-down, basic program, but the simplicity is a big plus for young kids. There's a free-play version in this app as well, so you can make Daisy jump in the air or walk backwards at will. (The novelty of this, however, wears off as soon as kids discover the stellar kids' animation tool Toontastic, which doesn't teach code logic, but rather storytelling basics).
+
+Move the Turtle (iPhone/iPad, $2.99): Similar to Daisy the Dinosaur, Move the Turtle teaches basic programming concepts by manipulating one graphical object through challenges. Yes, a cute turtle (like Logo back in the late '60s to '80s). This app was recommended by several Lifehacker Twitter followers, but Elise refused to try it because: the concept was the same as Daisy the Dinosaur, you could only do certain things with the turtle, and she wanted to do whatever she wanted with more characters. In other words, she had outgrown single-task-based educational apps. Still, with Move the Turtle, kids can learn a great deal of logical programming concepts, as Wired's Geek Dad asserts. (I prefer Move the Turtle's puzzles and interface over Daisy the Dinosaur, but who am I to argue with a 7-year-old?)
+
+Graphical Tools for Beginners of All Ages
+
+Moving past the simple single-character-manipulation apps, you'll find apps that teach programming through drag-and-drop interfaces with coding blocks. Think LEGO, but with code. In these, your child can pull in code parts to manipulate more than one object (and access more commands, variables, and events) to create animations or games.
+
+Hopscotch (iPad, Free): From the makers of Daisy the Dinosaur, Hopscotch is a visual introduction to programming for kids ages 8-12. Kids can select preset characters or create text objects and manipulate them by dragging-and-dropping method blocks. For example, you can move an object by a set amount on the X-Y axis, change the scale, or repeat actions. The app offers just right amount of controls for kids just starting out. They're very limited in what they can do, but this means kids can play with the iPad on their own and learn how each basic method works. (So, you don't have to feel guilty saying "Find out for yourself" when your kid asks "How do I make the monkey move backwards?") In one week, Elise made eighteen animations on her own on Hopscotch, substituting text blocks for the characters she wanted to animate. Most of those animations were simple explorations of what you can to the objects, but she learned things like how to position objects with math and time events.
+
+Hopscotch HD Introduces Kids to Programming iPad: Teaching kids programming is a bit of a daunting task, but Hopscotch HD is a new app for the… Read more
+
+Scratch (Web, Free): An MIT project specifically designed for kids ages 8 to 16, Scratch has been used by educators and parents around the world to help kids develop animations, interactive stories, and games through drag-and-drop code blocks. It was the first programming tool I introduced my daughter to, when I was taking a programming course a few years ago. I remember saying, "Hey, Elise, isn't this neat? By changing this block I can make this dog meow like a cat." She was hooked ever since.
+
+Advertisement
+
+Scratch remains our favorite programming tool, mainly because it offers so much control. It's like Hopscotch, above, but more robust, and like App Inventor, below, but more user-friendly. In Scratch, there's a huge gallery of objects you can use or customize. (Don't underestimate the importance for a kid of coloring a character just so.) And with the vast array of methods available, you can make them do just about anything. Elise wanted to make a game called "Spider Run" (like Temple Run, but with a mechanical spider chasing you and spikes in the ground that slow you down), and the only tool we've discussed so far that could really pull this off is Scratch. Although they can't be turned into bonefide mobile apps, your kids' creations can be saved and shared on the site.
+
+Stencyl (Windows, Mac, Lunux; Free): Scratch is our favorite so far, but Stencyl, which I just learned about from our own Thorin Klosowski, is next up for us. It "pays homage" to Scratch but specifically designed to create games and can publish to every platform (iOS, Android, Flash, HTML5, Windows, and Mac). Over 12,000 games have been created using Stencyl; I can't wait to try it.
+
+Other suggestions: Robert Hirsch on Google+ had these additional iPad recommendations:
+
+DynamicArt [$2.99] is much like scratch but is more focused on making procedural drawings
+
+[...]
+
+Kodable [Free] is very kiddie-ish and makes kids perform procedural programming to solve puzzles. There is a similar one called A.L.E.X [Free] which does the same thing with robots
+
+
+
+I dont think this is for a 7 year old, but there is Codea [$9.99], a Lua interpreter for the iPad. Lots of cool things have been done with it, but its object oriented and may be tough for a kid to learn unless you happen to know Lua already to help.
+
+More Robust Coding Tools for Older Kids (and the Young at Heart)
+
+The apps below are more advanced, focusing on both on the code itself and visualizing how it works.
+
+Advertisement
+
+App Inventor (Web, Free): Formerly a Google project, now hosted by MIT, App Inventor is much like Scratch with its drag-and-drop coding blocks. It includes, however, every method, function, and other coding element you might use to create an Android app—and for good reason. After fiddling with App Inventor, you end up with an actual Android app.
+
+This makes the online tool really robust, but the interface isn't young-kid friendly. It's probably best for at least junior high school kids or older (e.g., adults), as there are no instructions and the features aren't all that intuitive to use.
+
+Advertisement
+
+Alice (Windows, Mac, Linux; Free): Carnegie Melon's Windows, Mac, and Linux desktop app uses a unique 3D programming environment to teach kids the fundamentals of programming. It's more advanced than other kid-friendly programming tools, though great for older kids. A welcome feature: kids can see the code behind their projects in the software. Not-so-welcome: You need Java runtime to run Alice.
+
+Video Lessons from Pluralsight (Web, Free): Online training site Pluralsight offers three video courses for kids, teaching them how to program in C# using Visual Basic, use Scratch, and use App Inventor. If your kids are old enough to sit through video instructions, these could help supplement the hands-on training they get through play.
+
+Codecademy and Khan Academy (Web, Free): These interactive online tools are better suited for older kids (maybe middle grade and above) and adults. They're one of the best ways to learn to code, though, because you can see the changes as they happen in the split screen. Codecademy teaches web fundamentals, jQuery, JavaScript, Python, Ruby, PHP, and more. Khan Academy's coding environment uses JavaScript.
+
+What We've Learned About Teaching Kids to Code
+
+We've had a lot of fun using the apps above, but I think that's because we've looked at them not from a "let's learn programming" mindset but from a "hey, want to make something? We can use this to do it" mentality. In Sarah Mei's presentation on teaching Ruby to Kids, she talks about setting specific goals when you set out on this adventure, such as "I want Lily to be so excited that she explores things on her own after we're done." For us, learning to program isn't the end result, but making something (through trial and error and learning basic skills in the process) is.
+
+Advertisement
+
+So along the way, I've learned as a parent to bite my tongue. The hardest part is refraining from hovering over my kid's shoulder and stopping myself from saying "no, use this function, not that one." Instead, I'm learning the features in the apps she's using so I can say, "hey, look at what this does" or "what happens if we do this" and we discover together where we can go from there.

@@ -1,0 +1,81 @@
+Earlier this year, physicists had put together a blueprint for how to make and measure time crystals - a bizarre state of matter with an atomic structure that repeats not just in space, but in time, allowing them to maintain constant oscillation without energy.
+
+Two separate research teams managed to create what looked an awful lot like time crystals back in January, and now both experiments have successfully passed peer-review for the first time, putting the 'impossible' phenomenon squarely in the realm of reality.
+
+"We've taken these theoretical ideas that we've been poking around for the last couple of years and actually built it in the laboratory," says one of the researchers, Andrew Potter from Texas University at Austin.
+
+"Hopefully, this is just the first example of these, with many more to come."
+
+Time crystals are one of the coolest things physics has dished up in recent months, because they point to a whole new world of 'non-equilibrium' phases that are entirely different from anything scientists have studied in the past.
+
+For decades, we've been studying matter, such as metals and insulators, that's defined as being 'in equilibrium' - a state where all the atoms in a material have the same amount of heat.
+
+Now it looks like time crystals are the first example of the hypothesised but unstudied 'non-equilibrium' state of matter, and they could revolutionise how we store and transfer information via quantum systems.
+
+"It shows that the richness of the phases of matter is even broader [than we thought]," physicist Norman Yao from the University of California, Berkeley, who published the blueprint in January, told Gizmodo.
+
+"One of the holy grails in physics is understanding what types of matter can exist in nature. [N]on-equilibrium phases represent a new avenue different from all the things we've studied in the past."
+
+First proposed by Nobel Prize-winning theoretical physicist Frank Wilczek back in 2012, time crystals are hypothetical structures that appear to have movement even at their lowest energy state, known as a ground state.
+
+Usually when a material enters its ground state - also referred to as the zero-point energy of a system - movement should theoretically be impossible, because it would require it to expend energy.
+
+But Wilczek envisioned an object that could achieve everlasting movement while in its ground state by periodically switching the alignment of atoms inside the crystal over and over again - out of the ground state, back again, and repeat.
+
+Let's be clear - this isn't a perpetual motion machine, because there's zero energy in the system. But the hypothesis did initially seem unlikely for another reason.
+
+It hinted at a system that breaks one of the most fundamental assumptions of our current understanding of physics - time-translation symmetry, which states that the laws of physics are the same everywhere and at all times.
+
+As Daniel Oberhaus explains for Motherboard, time-translation symmetry is the reason why it would be impossible to flip a coin at one moment and have the odds of heads or tails at 50/50, but then the next time you flip it, the odds are suddenly 70/30.
+
+But certain objects can break this symmetry in their ground state without violating the laws of physics.
+
+Consider a magnet with a north and a south end. It's unclear how a magnet 'decides' which end will be north and which will be south, but the fact that it has a north and a south end means it won't look the same on both ends - it's naturally asymmetrical.
+
+Another example of a physical object with an asymmetrical ground state is a crystal.
+
+Crystals are known for their repeating structural patterns, but the atoms inside them have 'preferred' positions within the lattice. So depending on where you observe a crystal in space, it will look different - the laws of physics are no longer symmetrical, because they don't apply equally to all points in space.
+
+With this in mind, Wilczek proposed that it might be possible to create an object that achieves an asymmetrical ground state not across space, like ordinary crystals or magnets, but across time.
+
+In other words, could atoms prefer different states at different intervals in time?
+
+Fast-forward a few years, and American and Japanese researchers showed that this could be possible, with one major tweak to Wilczek's proposal - in order to get time crystals flipping their states over and again, they needed to be given a 'nudge' every once in a while.
+
+In January this year, Norman Yao described how such a system could be built, describing it to Elizabeth Gibney at Nature as a "weaker" kind of symmetry violation than Wilczek had imagined.
+
+"It's like playing with a jump rope, and somehow our arm goes around twice, but the rope only goes around once," he says, adding that in Wilczek's version, the rope would oscillate all by itself.
+
+"It's less weird than the first idea, but it's still fricking weird."
+
+Two separate teams of researchers, one led by the University of Maryland, and the other by Harvard University, took this blueprint and ran with it, creating two different versions of a time crystal that appeared equally viable.
+
+"Both systems are really cool. They're kind of very different. I think they're extremely complementary," Yao told Gizmodo.
+
+"I don't think one is better than the other. They look at two different regimes of the physics. The fact that you're seeing this similar phenomenology in very different systems is really amazing."
+
+Described in pre-print papers in January, the University of Maryland's time crystals were created by taking a conga line of 10 ytterbium ions, all with entangled electron spins.
+
+Chris Monroe, University of Maryland
+
+As Fiona MacDonald reported for us at the time:
+
+"The key to turning that set-up into a time crystal was to keep the ions out of equilibrium, and to do that the researchers alternately hit them with two lasers. One laser created a magnetic field and the second laser partially flipped the spins of the atoms."
+
+Because the spins of all the atoms were entangled, the atoms settled into a stable, repetitive pattern of spin flipping that defines a crystal, but it did something truly strange to become a time crystal - the spin-flipping pattern in the system repeated only half as fast as the laser pulses.
+
+"Wouldn't it be super weird if you jiggled the Jell-O and found that somehow it responded at a different period?" Yao explained.
+
+The Harvard time crystal instead used diamonds that had been loaded with so many nitrogen impurities, they turned black.
+
+The Harvard diamond. Credit: Georg Kucsko
+
+The spin of these impurities were able to be flipped back and forth like the spin of the ytterbium ions in the Maryland experiment.
+
+It was an exciting moment for physics, but now things are finally official, because both experiments have passed peer-review, and now appear in separate papers in Nature, here and here.
+
+And now that we know these things exist, it's time to make more of them, and put them to use.
+
+One of the most promising applications for time crystals is quantum computing - they could allow physicists to create stable quantum systems at far higher temperatures than can be achieved right now, and that just might be the push we need to finally make quantum computing a reality.
+
+We can't wait to see where the research will lead next.

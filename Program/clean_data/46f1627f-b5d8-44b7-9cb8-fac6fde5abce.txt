@@ -1,0 +1,39 @@
+Amazon today is launching the first Alexa skills specifically aimed at children, which will go live with a new Verified Parental Consent feature in order to operate within the confines of child data protections, like the Children’s Online Privacy Protection Act (COPPA). This move opens the door to larger children’s media brands who have, until now, avoided building apps for Alexa’s voice platform because of potential legal issues.
+
+Out of the gate, two major kids’ brands are launching on Alexa using the new feature. Viacom-owned Nickelodeon is debuting a SpongeBob skill, while Sesame Street has a new Elmo skill.
+
+With Nick’s memory game, The SpongeBob Challenge, kids become a new Krusty Krab restaurant employee tasked with taking increasingly complicated food orders and then relaying those orders to the staff, including SpongeBob, Squidward and Mr. Krabs, says Nickelodeon.
+
+Sesame Street’s skill, meanwhile, lets kids call Elmo, play hide-and-seek with him using audio clues to figure out where he’s hiding, and practice their alphabet.
+
+Amazon is also launching its own Storytime skill that features bedtime stories for kids ages 5 to 12. The collection will include stories read by Aidy Bryant from Saturday Night Live and Tom Kenny, the voice of SpongeBob SquarePants, from the Amazon Rapids library. Audible short stories will be added in the future.
+
+Likely, many brand-name kids’ skills will follow, given the pent-up demand to reach this younger audience through the next-gen computing platform that’s quickly making its way into consumers’ homes.
+
+Adoption of voice-activated devices is up 128.9% over last year, and it’s estimated that 60.5 million U.S. consumers will use a voice assistant at least once per month this year. Of those, 35.6 million will use a voice assistant on a connected speaker – probably an Echo device. Amazon’s devices are winning the smart speaker market at present, with a 70.6 percent share.
+
+According to Amazon, the first time Echo users enable a “kid skill,” Alexa will prompt you to provide parental permission via the Alexa companion app. The verification process will require parents and guardians to either enter a one-time password sent via SMS to their phone, or perform verification by credit card.
+
+However, this parental consent will then apply to all kid skills, so parents will only have to complete the process once. While that’s not necessarily the appropriate way consent should be handled, it’s a savvy move on Amazon’s part. If a parent enables any of these highly visible and sure-to-be-popular kids’ voice skills, they’ll have effectively enabled consent for their kids to use Alexa as much as they want.
+
+FTC, COPPA and Voice Computing
+
+The addition of parental consent tackles a huge problem today’s voice platforms have been facing, Virtual assistants like Siri, Cortana, Google Assistant, and Alexa have been operating in a gray area of U.S. law until now.
+
+An investigation last spring by The Guardian discovered that the way tech companies store voice recordings was in violation of U.S. law. Specifically, they failed to meet COPPA’s standards for parental consent. The law’s guidelines are designed to protect children’s privacy online, and requires companies get explicit, verifiable consent from parents in order to store a child’s personal information if they’re under 13.
+
+At the time, Amazon had told The Guardian that it complies with COPPA because it doesn’t target kids. Asked if the existing skills today will add parental consent, Amazon told us that those launched to date are “for all audiences” and are not exclusive to kids.
+
+But Alexa is already being used by little kids after parents bring home an Echo device. Knowing this, a number of Alexa skill developers have built apps with children in mind, ranging from voice-activated games to joke apps and even things that only kids would love, like a “fart” skill.
+
+On the Alexa Skill Store today, there are 1,607 skills in the “Novelty & Humor” category, for example, which is filled with apps for children, like bedtime stories, funny noises, jokes, gags, fun facts, and more. Meanwhile, many of the now over 5,400 games skills are also clearly aimed at kids, like “Would You Rather?” or “Frozen Trivia” (not from Disney, naturally), for example.
+
+Despite the proliferation of voice computing, the FTC didn’t update its COPPA guidance for businesses until June, 2017 to account for internet-connected devices and toys. Its guidelines now state that online services include “voice-over internet protocol services,” and says that businesses have to get permission to store a child’s voice.
+
+That Alexa now offers Parental Consent is not surprising, given this clarification on the FTC’s part.
+
+Amazon says other kids skills are also arriving today, including an Animal Sounds Quiz, Old McDonald, Silly Things, Zoo Walk, and more. And it’s officially opening the Alexa Skills Kit to developers who want to build skills for children, but didn’t want to get themselves into legal trouble by doing so.
+
+As for the big kids’ brands, more Alexa apps are on their roadmap now that parental consent is available.
+
+“We have several ideas in the works, but nothing to announce yet,” Matthew Evans, Executive Vice President of Digital and New Business at Nickelodeon, told TechCrunch. “Our plan is to learn from The SpongeBob Challenge to inform the next skill we launch.”

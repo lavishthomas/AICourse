@@ -1,0 +1,61 @@
+Donald Trump is now president, and Americans are flooding Congress with pleas and protestations. They're anxious about the fate of Obamacare, the future of the environment, and the president's cabinet nominations. How are they expressing their anger, fears, and hopes? Email. Lots of email.
+
+Take Pennsylvania Democratic senator Bob Casey. He reportedly received 50,000 letters and emails opposing the nomination of Betsy DeVos for secretary of education. But it's not just the election that's driving citizens to press "send." The volume of email sent to Congress has been growing for years. According to the Congressional Management Foundation , constituent correspondence to the Senate increased by 548 percent between 2002 and 2010. Once upon a time, emailing your elected representatives meant navigating a maze of creaky web forms. Today tools like Countable and Democracy.io make it trivial to send a message to your representatives.
+
+It's not that Congress can't hear you. It's that the flood of voices so overwhelms the machine that any one citizen becomes hard to hear.
+
+So, do all these emails and phone calls make a difference? Activists and congressional staffers say yes. But the simplicity of making electronic contact today has created another problem: While it's become easier than ever for the public to contact Congress, it hasn't gotten any easier for congressional staffers to actually do anything with the feedback they receive from constituents. In many cases, it's not that Congress can't hear you. It's that the flood of voices so overwhelms the bureaucratic machine that any one citizen becomes hard to hear.
+
+There's a disconnect between the public's expectations of their communications with their representatives and the reality of how those communications are handled. Research by Zogby found that email is the most common way to contact Congress, and that most people expect a response to their messages. Yet a third of people who email Congress receive no response, and nearly half of those who did receive a response found it lacking, usually because they believed it failed to actually address their issue.
+
+The reason for those dismal results is simple: Members of Congress are only allowed to hire eighteen staffers each. That means that as the volume of email grows, those dozen-and-a-half staffers are stuck with more work, and Congress can't hire more people to help.
+
+And while apps like Countable have made sending email to Congress easy, the software that staffers have to process those emails remains antiquated, says Seamus Kraft, the executive director of the OpenGov Foundation, a non-partisan, non-profit organization he co-founded with US representative Darrell Issa, a California Republican.
+
+What Works?
+
+Poor email responses are only one consequence of the Congressional staffing shortage. Budget cuts have curbed pay raises, which accounting for cost-of-living increases means these staffers are getting paid less each year. Underpaid, overworked staffers don't stick around long enough to develop deep policy expertise, says Lee Drutman, a political scientist at the New America Foundation's Congressional Capacity Project. "If they don't have the capacity to write policy themselves or gather feedback from constituents, Congress members end up making policy that is essentially created by corporate lobbyists," he says.
+
+That's not to say that calling and emailing your representatives isn't worthwhile. "Members care about their constituents," says Drutman. "They want to make sure they're not going to get voted out of office because they're doing something deeply unpopular with their constituents."
+
+For example, in 2012 activists and tech companies managed to kill the controversial intellectual property rights enforcement bills known as SOPA and PIPA in large part by rallying people from across the country to call or email their legislators. More recently, the House of Representatives reversed course on a plan to gut the Office of Congressional Ethics after concerned citizens flooded their representatives' office's phone lines.
+
+The consensus among activists and staffers alike is phone calls are better than email, and that showing up in person to district offices or town halls is better than phone calls. But email and social media make a difference too, as long as those communications are personalized. "I don't want people who are disabled or otherwise unable to make phone calls to feel like their voice doesn't matter, because it absolutely does," says Emily Ellsworth, a former staffer for Utah congressmen Chris Stewart and Jason Chaffetz, whose guide to contacting representatives has gone viral since the election.
+
+The only things that staffers don't spend much time on, says Keith Chu, who works for Oregon Democratic senator Ron Wyden, are online petitions .
+
+The catch is that to have the impact of the SOPA protesters or those opposing the gutting of the House ethics committee, you need to have a huge numbers of people calling or writing. Still, individuals can move the needle, says Ernesto Falcon of the digital rights advocacy group the Electronic Frontier Foundation. "Local people with really compelling stories can really make a difference," he says.
+
+'Congress members end up making policy that is essentially created by corporate lobbyists.'
+
+But those two strategies—overwhelming a congressional office or tugging at someone's sympathies—aren't necessarily all that great for democracy. It's not hard to see how both strategies could be prone to astroturfing by well-funded special interest groups or trolls.
+
+That's not to say that it should be harder for the public to get in touch, he says. Sending feedback to representatives should be easy. "Over the past few weeks, our office has been absolutely swamped with calls," Chu says. "Which is a great problem to have, but it definitely strains our limited staff."
+
+With too few people, it all comes back to the filter problem. "You want to hear from the whole constituency," Kraft says. "Not just the people who are fired up and bothering you." But Congress needs the personnel and resources to keep up with the deluge of feedback coming into their offices. Otherwise, only the loudest voices will get a hearing.
+
+Better Ways
+
+The good news is that Congress's email woes are, for the most part, fixable. The most obvious fix: Hire more people.
+
+"If you think about what a member of Congress is expected to do on a daily basis, they can't do it themselves, they have to have staff," Drutman says. "If people want members of Congress who are not just offices that turn to corporate lobbyists to develop policy, if people want their senators to actually legislate on behalf of the public, they need to give them the resources to do that."
+
+More money for Congress at a time when it is one of the least liked and trusted institutions in the country is a hard ask. But that creates a paradox. The public won't want to give more money to Congress until its performance improves. But Congress can't really improve its performance until it has more money.
+
+'If people want their senators to actually legislate on behalf of the public, they need to give them the resources to do that.'
+
+That's why Kraft thinks that focusing on software is a good place to start.
+
+Staffers would love to reply to more email, but the processes they must follow to craft and send replies, which often involves shuffling printed copies of correspondence around the office for various layers of approval, make timely responses difficult. Software could speed up this process. In fact, for some offices, it already is. Chu says that he and his fellow staffers in Wyden's office already have good tools for handling email. But because each congressional office buys its own software, different offices have access to different tools.
+
+Some tools, however, are off limits because of out-dated rules. Last year Senators Cory Booker and Claire McCaskill penned a letter to the Senate rules and administration committee outlining a number of outdated rules that limit senators' ability to use commercial email newsletter software, open source web publishing tools like WordPress, and social media analytics tools that would make it possible for staffers to evaluate how well their outreach programs actually work.
+
+In other cases, technology could simply make staffers' lives easier. Last year Kraft analyzed the state of Congress's accounting software and found it wanting. A more modern system could free staffers from spending countless hours manually entering expenses and give them more time for the people's work.
+
+Technology won't solve all of Congress's problems. But a few fixes might make a big difference. And the money is already there: the OpenGov Foundation estimates that congress spent at least $288 million on technology in 2014. Some offices might even be paying more than other offices for the exact same software, depending on the negotiating skills of the staffers making the purchases. But it's next to impossible to find out because the system is such a mess.
+
+To solve the problem, the OpenGov Foundation has proposed a "Congressional Digital Service" not unlike the White House's United States Digital Service (USDS), which is already hard at work modernizing government agency websites and technology.
+
+Although Kraft is quick to point out that the current situation is no one's fault in particular, he says House Speaker Paul Ryan and Senate Majority Leader Mitch McConnell could take strides towards solving the problem by spending a relatively small amount. But improving the way the public and Congress interact has never really become enough of a high-profile issue for congressional leaders to risk the political capital needed to make changes.
+
+So what can you do? Should you call your representatives, tell them to give their staffers a raise, and make upgrading their technology a priority? Email a form letter to your senator? Kraft's solution is a more blunt: If your representative doesn't support upgrading Congress's technological infrastructure, you should just vote for another candidate.

@@ -1,0 +1,41 @@
+If you use Dark Sky as your weather app of choice—or just happen to enjoy gloriously rendered maps of weather movement—you should be both gladdened and a little surprised to learn that it’s now available in a new incarnation. Meet Dark Sky, the web site . It should look pretty familiar.
+
+When Dark Sky launched as a mobile app in the App Store a little more than four years ago, it offered a simple, seductive premise: To let you know when, and how long, it was going to rain in your precise location. It’s evolved plenty since then, layering more traditional weather forecast features on top of its base layer of precipitation. Dark Sky is now a full-service weather forecaster. With that comes certain responsibilities, like providing a the best viewing experience no matter what device your users are on.
+
+“We really needed that companion website to Dark Sky,” says Dark Sky co-Founder Adam Grossman. “If you’re on your desktop, maybe you don’t want to pull the phone out of your pocket.”
+
+In truth, Grossman already has a weather website. A few years ago Dark Sky’s creators conjured up Forecast.io , a site that shares at least some Dark Sky DNA. The animations overlap, the layout is nearly as clean, though not identical. It existed as a chance for the Dark Sky team to stretch beyond a simple rain alert.
+
+Dark Sky
+
+“It was really our first foray into providing a general-purpose weather forecast,” says Grossman. “We made it as an experiment.”
+
+As the Dark Sky app became a full-featured weather prognosticator, though, Forecast.io remained relatively unimproved. Its features are stuck somewhere around 2013. It also failed to gain the notoriety of its mobile cousin, which is why DarkSky.net isn’t just improving on Forecast.io. It’s replacing it.
+
+This is more than just a branding play, though. There are real improvements afoot. The layout has been overhauled to give you the most relevant information in the order in which you might want it.
+
+Still Raining, Still Dreaming
+
+The temperature sits boldly at the top of the page, sandwiched by wonkier details like wind, humidity, barometric pressure, and more above, and a 24-hour forecast (in both word and image) below. Scroll a little further, and you hit the richly rendered maps for which Dark Sky is known. Just below that, the weekly forecast, where you can expand each day to get an hourly breakdown of temperature and precipitation. One more click takes you to an in-depth daily breakdown, including simple black and white charts of practically anything you might need to know. Back at the main page, you can search for historical weather by date.
+
+(This will take you back and forward in time as far as you have the patience to click, but at a certain point you’ll just get an error message.)
+
+Some additions that are downright clever. Whereas Forecast.io only showed a precipitation map, the Dark Sky site’s maps are situationally aware. If you head there on a potentially snowy day, for instance, it will automatically know to serve you an accumulation map. Even the precipitation maps have gotten more refined. If it’s going to rain soon, you’ll get a detailed radar view. If there’s rain nearby potentially heading your way, Dark Sky will load a bigger picture view.
+
+Dark Sky
+
+These are also features that, noticeably, you won’t find in the Dark Sky app. That’s on purpose.
+
+“It’s a lot easier to experiment with new things on the web site, new ways of presenting data,” says Grossman. “It’s a much bigger canvas.”
+
+The Dark Sky site, for instance, shows microclimates in fine detail; zoom in on the Grand Canyon, and you can see how the temperature changes as you descend. That’s a feature that may wind up in the Dark Sky app someday, but for now, the site gives developers a sandbox to play in. The differences work the other way as well. The Dark Sky app is known for its notifications, which you won’t find on the web. They’re less reliable there, locations harder to pin down. Best leave them to smartphones.
+
+High Visibility
+
+There’s no shortage of weather websites in the world, but Dark Sky offers a compelling alternative, and not just because of its well-regarded app. Or rather, not in the way you might think.
+
+Grossman acknowledges that the site doubles as a way to promote the app, which retails for $4 on the App Store, or a $3 annual subscription on Google Play. That also, though, helps keep DarkSky.net free of clutter. There are no ads here, other than one unobtrusive link that tells you where to download the app. There are no tricks to drive engagement, no barely relevant articles, no shrill headlines. Because DarkSky.net is essentially an experiential ad for its app equivalent, it can remain happily unencumbered by the ephemera that can make other weather sites, well, a little gross.
+
+“If you go to other big weather websites, they’re filled with ads top to bottom, and crusty links to other articles,” says Grossman. “The whole point is to get you to stay on the website and display these ads, because that’s how they make money.”
+
+Strip all that away, and what you’re left with is the weather. Turns out that’s all a weather site really needs.

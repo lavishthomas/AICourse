@@ -1,0 +1,87 @@
+We all make bets about the future, whether we call them that or not. We select a career based on perceptions about its prospects; we take on projects based on what we think we can accomplish; we hire employees based on how we predict they will perform. We don’t have an option not to make predictions in our work lives, but we do have an option to try and make better ones. At Twitch, employees have worked to create a culture of forecasting based on the research of Philip Tetlock. Although employees were skeptical at first, most have come to embrace the practice of making frequent numerical forecasts.
+
+In Silicon Valley, everyone makes bets. Founders bet years of their lives on finding product market fit, investors bet billions on the future value of ambitious startups, and executives bet that their strategies will increase a company’s prospects. Here, predicting the future is not a theoretical superpower, it’s part of the job.
+
+But our approach to prediction seems stuck in the past. Most business forecasts fail to include measurable outcomes and are not recorded, so it is hard to know if we are even getting better at them.
+
+Research from organizational psychologist Philip Tetlock, the co-author of Superforecasting, suggests an alternative. Studying forecasting tournaments where anonymous experts predicted future events, Tetlock found that some forecasters could consistently predict better than others. Rather than possessing some innate talent, so-called “superforecasters” demonstrate what Tetlock describes as a “growth mindset,” or a willingness to learn from past mistakes and continually update their theoretical priors. Our ability to predict, like any other skill, can improve with practice.
+
+At Twitch, a subsidiary of Amazon, we saw the promise in this research. If an individual can gain a predictive edge, so can a company. We created a program that teaches all our employees to become better forecasters regardless of their quantitative background, organizational role, or area of expertise.
+
+Taking a cue from machine learning, Twitch employees train their forecasting powers against real world historical data. Our staff are encouraged to predict quickly and are given immediate feedback so that their forecasts become more accurate. Our goal is to leverage forecasting in order to make the “high-quality, high-velocity” decisions Jeff Bezos calls for in his 2017 letter to shareholders. Through forecasting, we are better equipped to serve the millions of gamers that use our platform every day, while staying ahead of the competition.
+
+We’ve learned a lot from our experiences at Twitch, and discovered some best practices for how organizations may implement their own forecasting training programs, create a culture of forecasting, and better anticipate the future.
+
+The Arc of Forecasting at Twitch
+
+Numerical predictions offer a range of benefits for large, innovation organizations like Twitch. They are both precise and concise, and easy to communicate across work teams. Making predictions in terms of mathematical probabilities forces employees to quantify their own uncertainties about future events. Multiple predictions for the same event can be aggregated and averaged, and therefore help managers understand what entire teams or divisions are thinking. These numerical predictions clarify decisions, motivate employees, and help teams communicate concerns.
+
+My belief in forecasting was cemented when I saw its power in a project I ran. Twitch is a platform for broadcasting video games. We have a product called host mode, which gives a broadcaster the ability to host another channel’s live broadcast on his or her own channel page. I wanted us to improve host mode, by making it easy for streamers to build and manage a list of channels to automatically host whenever you’re offline.
+
+So like basically everyone, I had an idea for a feature that I was convinced was extremely important but that I lacked the direct authority to prioritize. Most people never get the buy-in they need at this point. So I decided to make a prediction:
+
+If we build auto host I’m 70% confident that, within 8 weeks, 15% of our partners (our largest influencers) will be auto-hosting.
+
+Then I gathered supporting evidence to make the prediction convincing. We ran an auto-host study and the result was overwhelmingly positive. Almost half of participants saw 10% increases in their viewership. And what we need to build was extremely simple and cheap. Our lead engineer Jixuan Wang made his own prediction: he was 70% confident he could build the feature in eight engineering weeks. These two predictions about both the value and the cost of the feature helped me convince the stakeholders we needed.
+
+A team was allocated to work on auto host, and I solicited predictions from everyone to verify we had buy-in. Our engineer was at 75% confidence we’d hit our goal, and our lead from partnerships was at 70%. My executive mentor was a little more cautious, at 50%, but for the most part we all believed, and we knew we all believed. And when big decisions came up, we used our existing predictions as a starting point for those conversations. For instance, we asked: Should we make the push to launch for TwitchCon? It’s seemed like the perfect place for partners to make cross promotional agreements, but a lot of other things were launching there and we risked getting lost in the noise. Our partnerships lead, Steve Lin, was confident that launching at TwitchCon would increase our chance of hitting our goal by 10%. Based on that prediction, our entire team agreed that launching at TwitchCon would substantially increase our chance of success. Because of our predictions, our team was completely aligned.
+
+Today, the feature is a success. Over half of our partners are auto-hosting, and channels that get 10 of their peers to auto-host them grow 10% on average.
+
+At the same time, I was helping other leaders make forecasts. But the growth of forecasting at Twitch had generally been limited by my efforts to facilitate, teach, and evangelize. Today, the training we’ve developed is allowing us to surpass that limitation and scale up forecasting throughout the company.
+
+We extend the training to product managers, engineers, executives, researchers, designers, business development — basically anyone who wants to influence the Twitch product. Though not everyone is accustomed to numerical forecasting, the training we offer makes it easy for anyone to get comfortable.
+
+We first train employees not by predicting future, but by estimating past Twitch metrics. Understanding these numbers is not only essential for understanding Twitch’s business, but also helps employees become accustomed to estimating. For instance:
+
+How many concurrent viewers did Twitch average last year? How much did viewership grow year-over-year in 2016? What percent of our viewership comes from mobile?
+
+Rather than provide a single number for these questions, we ask our staff to give us their 80% confidence interval, meaning a high and low estimate that they believe contains the correct answer 80% of the time. In other words, if I ask you for your 80% confidence interval in five different questions, the right answer will be within your range four out of five times. If the right answer is within your range fewer than four times, you’re overconfident. If it’s within your range all five times, you’re being too conservative and making your intervals too wide.
+
+Here’s how Tetlock himself described these “confidence quizzes” in a Harvard Business Review article last year:
+
+“Participants are asked for range estimates about general-interest questions (such as “How old was Martin Luther King Jr. when he died?”) or company-specific ones (such as “How much federal tax did our firm pay in the past year?”). The predictors’ task is to give their best guess in the form of a range and assign a degree of confidence to it; for example, one might guess with 90% confidence that Dr. King was between 40 and 55 when he was assassinated (he was 39). The aim is to measure not participants’ domain-specific knowledge, but, rather, how well they know what they don’t know. As Will Rogers wryly noted: “It is not what we don’t know that gets us into trouble; it is what we know that ain’t so.” Participants commonly discover that half or more of their 90% confidence ranges don’t contain the true answer.”
+
+Here’s another example you can try: What’s your 80% confidence interval for how much Amazon Web Services revenue grew in 2016? For the answer and more examples, you can view a publicly available training that I put together as an overview of Silicon Valley.
+
+Over multiple rounds of questions, individual confidence intervals adjust to match their personal level of uncertainty. Risk management expert Douglas Hubbard — a pioneer in decision science — has shown that it takes seventy questions to calibrate probability assessment such that estimates participants believe are 90% likely to occur actually occur 90% of the time.
+
+As we ask employees to make these assessments, we immediately provide the correct answers, so the Immediate feedback can help employees calibrate their assessments. Our staff quickly learns if their estimates are either over- or under-confident.
+
+Better calibration means that employee estimates are more grounded in reality and leads to lower resistance to probabilistic thinking and forecasting in general. Of the employees who have participated in this training, 96% of participants say they would recommend it to a colleague. The training program has been so successful, we believe, because a better grasp of these fundamental numbers is useful when evaluating ideas, navigating resource contention, and setting expectations.
+
+Once Twitch staff have calibrated their predictions by practicing with some metrics, we ask them to make predictions that should impact their work. An easy place to start is asking them to predict how much a new project will cost to complete, in terms of either time or money. In the Standish Group’s 2016 Chaos report, they found only 16% of software projects were completed to the original specifications on time and on budget. Improving employees’ ability to estimate project completion dates and the resources required to achieve these goals helps our company stay on track.
+
+Here is a real conversation between a Twitch manager and an employee that incorporates our use of forecasting:
+
+Employee: I’ll get Project X done this quarter. Manager: How surprised would you be if it wasn’t done by the end of the quarter? Employee: Actually not that surprised. Project Y is my top priority and projects like X have taken a full month in the past. Manager: So it’s unlikely to be done this quarter. When are you 80% sure it’ll be done by? Employee: I feel 80% confident I can deliver it by the end of June. Manager: That sounds right. Let me know if that changes.
+
+This sort of approach changes how you think about your work. Whenever I tell anyone I’ll do anything, I ask myself: am I least 80% sure I’ll actually do that? If the answer is yes, great. But if it’s no, I immediately reset expectations and say something like: “I’m sorry but realistically I’m going to need three weeks to get that to you, rather than one.”
+
+Forecasting Challenges
+
+Incorporating flash forecasting at Twitch is an iterative and improving process. Despite the promise of prediction and enthusiastic responses from our employees, we encountered three major problems while implementing forecasting training:
+
+Skepticism that forecasting does not work and that predictions cannot be accurate. Employees’ fear that they do not possess enough foresight to make predictions or that their predictions will be misinterpreted by managers or colleagues and used against them. Belief that there is not enough evidence to make predictions.
+
+After successfully providing forecasting training to over 200 of our staff, we have developed several best practices to ensure the smoother roll out of future installments of the program.
+
+Whenever I talk about predictions I ask: “Do you agree it’d be really valuable if we were 20-30% better at predicting how impactful your work would be and how long it’d take?” No one has ever disagreed.
+
+I follow that question with the evidence such improvements are possible. Philip Tetlock found in a randomized controlled experiment that participants’ forecasting abilities could improve over 14% in under an hour by reading his instructions.
+
+That’s typically enough to get people excited to do the hour of calibration training I’ve prepared, and the training does the rest. Hubbard has given this training to over 1,000 people at a variety of companies and industries and this is what he’s observed:
+
+Calibration seems to eliminate many objections to probabilistic analysis in decision making. Prior to calibration training, people might feel any subjective estimate was useless. They might believe that the only way to know a [confidence interval] is to do the math they vaguely remember from first-semester statistics. They may distrust probabilistic analysis in general because all probabilities seem arbitrary to them. But after they’ve been calibrated, I have almost never heard them offer such a challenge.
+
+Some Twitch employees were concerned that forecasting training could reveal to their colleagues their lack of foresight. Others thought that their predictions could be misused by management. We make it explicit that predictions are a tool to make good decisions and have more impact. Being right is not the core metric for any team here.
+
+Our calibration training is anonymous, because we don’t want people to be embarrassed by the predictions they make before they are calibrated. But we can’t rely on anonymity for the actual projects we’re pursuing, because the most important predictions are from the people closest to the project since they have the best information.
+
+We are actively trying to build a culture that promotes “psychological safety,” defined as “a sense of confidence that the team will not reject or punish someone for speaking up.” Google found safety was the most important predictor of successful teams, and Harvard Business School professor Amy Edmondson has found it’s essential for team learning. We teach leaders to make the first forecast, explain their reasoning, and solicit forecasts from their team. The hope is that the value of the information that comes out of those conversations makes it clear that speaking up is everyone’s job.
+
+The final objection I’ve heard is that there isn’t enough evidence to make a good forecast. But at Twitch we believe that if there is enough evidence to consider moving forward with a plan, there should be enough evidence to predict its success. Of course, not all predictions need to be rigorous and formal. We encourage employees to review the evidence they do have and make the best forecasts possible, combining both data and intuition. Being able to lean heavily on intuition is key for making quick decisions, and quantifying that intuition in the form of prediction helps us stay accountable.
+
+Remember: we all make bets about the future, whether we call them that or not. We select a career based on perceptions about its prospects; we take on projects based on what we think we can accomplish; we hire employees based on how we predict they will perform. We don’t have an option not to make predictions in our work lives, but we do have an option to try and make better ones. Individuals can get better at forecasting, and so can entire organizations.
+
+The author thanks Lauren Wagner, who provided expertise that greatly contributed to this article.

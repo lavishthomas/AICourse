@@ -1,0 +1,135 @@
+So, not long to wait now. Spring 2017. Sub 2 hours for the marathon! The (short) wait shall be ended.
+
+At least, that’s if you’re willing to set aside the rules, and a fair amount of belief in credibility and legitimacy, or physiology, in response to the latest announcement of this sub-2 hour campaigning that has afflicted the marathon since about 2011, when the world record was being nudged ever closer to the 2:03 barrier.
+
+Yep, 2:03. That’s a full three minutes off the 1:59:59, but that didn’t stop people from getting excited about it. When the record went under 2:03 in 2014, some were in raptures. Imminent, they said. I suppose it depends what “imminent” means.
+
+Now Nike has committed to making it (sort of) immediate. With an ambitious plan, not quite discussed or revealed in any detail, they have managed to get three high profile runners – Kipchoge, Desisa and Tadese – to miss out on Spring marathons in 2017 to give this barrier a real shot.
+
+You can read all about the attempt while learning nothing it here. Nike plays its cards close to its chest, letting imaginations do its PR work, which is I suppose a brilliant strategy.
+
+And you can get some insight from this brilliant, funny and incisive piece by Sarah Barker on her skepticism of the sub-2 projects. She nails it.
+
+Top Unpacking performance at a physiological level
+
+But my focus is on the physiology, and so I thought I’d talk through two ways that this might be achieved through course design and product, and use that to show the physiological challenge of finding the 177 seconds needed to crack the 2-hour marathon.
+
+So when I first read the announcement, I thought “They’re going to do this with a downhill course”. Later in the day, for various reasons, my thinking changed, and I now think that they’ll rely on shoe technology, like a shoe with springs.
+
+However, the concept that both this methods would use is similar – it reduces the overall physiological cost of running, which then allows the runner to go faster at the limit of their physiological capabilities. How does this work? Let’s look at these one by one.
+
+Top Running shoes: The Pistorius effect
+
+Since about 2007, I’ve wondered about the capacity of shoes to make a large impact on performance. That’s because it was in 2007 that Oscar Pistorius began his campaign to run in able-bodied races, and that forced me to think about advantage through technology.
+
+It was fairly obvious to me that he had an advantage (very large, as it turned out, according to the research by Weyand and Bundle), and so the idea that shoes for able-bodied athletes might do the same was realistic and viable.
+
+At the Footwear Science conference in 2014, a paper was presented showing that the adidas Boost cushioning material resulted in a 1% reduction in the oxygen cost during normal running. Now, you might dismiss this as marketing, but I can see it being possible that a cushioning material that does not dissipate energy to the extent of others would have this effect. I do wonder what the impact of this would be on performance, because of how it is achieved, but that’s another matter. The point is that it’s not inconceivable that the property of the shoe can result in changes in the cost of running, and thus potentially performance.
+
+Back to Pistorius, when he was tested in Cologne, in the first part of that protracted drama, what was found is that he sprinted using 25% less oxygen than able-bodied sprinters running at the same speed. For a 400m, the relevance of this is questionable, and in the end, it wasn’t important for the case arguing that he had an advantage. However, it showed that the right material – in that case extremely stiff carbon fiber that would not deform upon landing and which was shown to return 92% of the energy on every footstrike – could have a large impact on energy cost.
+
+Energy cost for the marathon runner is important. Let me illustrate the concept of how that would play out.
+
+We get a measure of the “cost of running” by looking at oxygen consumption at a range of different speeds. An elite marathon runner might have an oxygen cost of 185 ml/kg/km. Note that this is measured PER KILOMETER, and that expressed this way, is pretty constant across different speeds. What changes is the oxygen cost PER MINUTE, as we shall discover.
+
+So let’s take an elite runner, who runs a kilometer using 185 ml/kg of O2. If that runner is going 2:04 marathon pace (around 4% slower than LT, so this is valid), then they are using 63 ml/kg/min
+
+The assumption you’d now make is that this represents that athlete’s maximum sustainable oxygen consumption for the marathon. If they could go any faster, then they would, and their VO2 would increase to say 65 or 66 ml/kg/min, but they don’t.
+
+This is not to imply that VO2 is the only thing that limits them, or that VO2 is DIRECTLY limiting performance. Rather, VO2 is a measure that responds to intensity; think of it as a proxy for the physiological cost.
+
+In effect, it’s the thermometer for the physiological demand. Things like glycogen availability, lactate/H+ ions, body temperature, mechanoreceptor input etc all influence the athlete’s perception of effort, physiological function and thus pace.
+
+Think of it this way – our runner could speed up, but then they’d get to or beyond LT, their body temperature might increase, the energy demand might exceed the supply, and they’d slow down. Thus, they’re ‘constrained’ and VO2 is a measurable indicator of this constraint or ceiling.
+
+So the point is, if any of these many inputs cause the athlete to slow down, then the VO2 will drop. Conversely, if the athlete can go faster for any reason (cooler, more energy etc) then VO2 will go up, because of this relatively stable cost of running per kilometer.OK, so now we have our elite athlete running 2:04 pace, using 63 ml/kg/min. That’s in effect a physiological limit, or as I’m at pains to point out, a measurable output of the physiological limit.
+
+So what we need, in order to reverse engineer a 1:59:59 marathon , is to find a way for our elite athlete to continue to run at a cost of 63 ml/kg/min but at a pace that is significantly faster than 2:04 for the marathon.
+
+, is to find a way for our elite athlete to continue to run at a cost of 63 ml/kg/min but at a pace that is significantly faster than 2:04 for the marathon. Our elite athlete runs a kilometer using 185 ml/kg. Assuming this stays the same (valid across this small range of speeds), then at the pace required for a 1:59:59 marathon, our athlete will be using 65.1 ml/kg/min. Recall that at 2:04 pace, they were using 63 ml/kg/min, so the cost of increasing pace by 6 sec/km (to go from 2:04 to 1:59:59) is 2.1 ml/kg/min.
+
+But that would push our runner beyond the limit, for whatever physiological reason (cardiorespiratory, thermoregulatory, mechanical, energetic etc). So what we need to do is to reduce the physiological cost by that difference, 2.1 ml/kg/min, or 3.4%. If we do this, then the physiological cost of running 2:50/km will drop to 63 ml/kg/min, and we know this is sustainable for the marathon. This can be done using shoes. In theory
+
+Let’s say we could make a shoe with a stiffer material, or a spring, so that less energy is lost on compression of the material and the runner gets more return (remember, for instance, that carbon fiber blades lost only 8% of their energy compared to the able-bodied limb losing 54% of its energy – this illustrates the concept that drives a reduction in the O2/physiological cost).
+
+That reduces the oxygen cost of running. If it can do so to the tune of 3.4%, then the sub-2 hour time would be possible, in theory, anyway.
+
+Is this conceivable? As I mentioned, I’ve seen a scientific study at a conference showing a 1.1% reduction (which is worth 2s per kilometer in my example). 3.4% is enormous, so I have my doubts that a normal cushion, or anything you’d fail to notice as really obvious, could achieve three-times the change.
+
+It would take springs in the shoes, like Pistorius benefitted from, except the product to deliver those springs would be constrained, unlike long carbon fiber prosthetic limbs.
+
+Take home message – springs in shoes, which reduce the physiological cost of running by around 4%, could be enough to help a runner go from a 2:04 to a sub-2 hour marathon.
+
+Please note that in this model, VO2 is a proxy for physiological cost, and the assumption is that all the other variables that influence performance limits – things like lactate, temperature, mechanical load, energy – track VO2 in a linear manner. That may be true for many of them over the very narrow range of paces I’m using, but I do allow for it being an assumption.
+
+Further, what remains unknown in this theoretical example is how such springs might influence other aspects of the mechanics, as well as the physiological demands. It’s possible, for instance, that springs on shoes increase the muscular work done per stride, which might reduce the oxygen cost, but increase the muscular cost of running. More eccentric load, for instance, as a result of a slight increase in stride length, could count negatively towards the end of the race, when this mechanical input becomes a potential limiter.
+
+There may be other knock on effects too – the whole muscle tuning hypothesis of Benno Nigg is that the muscle stiffness is adjusted neurally when the stiffness of the shoe material or ground is altered, and this requires different levels of muscle activation. Might this increase the cost, offsetting any reduction that comes directly from the shoe?
+
+My point is that a theoretical reduction in oxygen cost of say 4% would not necessarily translate to the performance improvement, as you might just pass the physiological limit from one system to another. You might need even more improvement, but then it means potential downsides elsewhere in the complex system of physiology and performance.
+
+However, that all said, if I were a betting man, I’d say that this is where Nike are looking, and not only because it would give them a product to sell. I suspect they’ll find a way to build springs into shoes, and that’s if they haven’t already. Someone should check out the shoes that Bekele wore in Berlin and the USA marathoners wore in Rio! OK, that’s sort of tongue in cheek, but I’m curious to know how far along this technology might be, because I’d say it is the cornerstone of this sub-2 promise.
+
+Top Downhill running – same concept
+
+The other way you could achieve the sub-2 is by running it downhill. The concept is identical to that described above, so I won’t labour the point.
+
+But basically, you’d be taking that elite runner, with his economy of 185 ml/kg/km, running a 2:04 marathon and using 63 ml/kg/min, and trying to find a way that he could run 6 sec per kilometer faster at the same physiological cost.
+
+Research has shown that the VO2 is lower by about 4 to 5% for every 1% decrease in gradient. That’s in sub elite runners, and my experience is that elite runners get less benefit, relatively, because they’re already closer to their ceiling. But let’s work with that finding, and say that the oxygen cost can be reduced by 4% if the gradient is lowered to -1%.
+
+Our elite runner could now run 1:59:59 pace at an oxygen cost of 62.5 ml/kg/min, which is achievable, at least if you make the assumption (shakier, in this case) that the total physiological cost is measurable as VO2.
+
+So, a 1% downhill gradient could achieve basically the same outcome, in theory, as a shoe with springs that reduces the cost of running by 3.5 to 4%.
+
+The problem with downhill running is this – we know that it reduces the metabolic and cardiorespiratory load, but it very definitely increases the eccentric load on the muscles and joints. And those are significant in the marathon. If you consider that an elite athlete running 2:50 per kilometer is likely taking just over 11,000 strides to complete the marathon, then you have an increase in eccentric load, repeated 11,000 times per leg, and that is significant.
+
+I would predict that a sub-2 hour marathon with a downhill gradient of 1 to 2% is possible from a cardiorespiratory point of view, but the cumulative load on the joints and muscle would limit the athlete, making sub-2 unattainable this way. It would be fun to watch though. A lot of cramps and muscle seizures in the final 5km maybe…
+
+Top Conclusion and conceptual thoughts
+
+Anyway, those are two illustrations that if you can bend the regulations and use technology to change the game by a large enough margin, you can shift the limits to performance enough to find the performance improvement required for the sub-2 hour marathon.
+
+Are these changes achievable? A 4% reduction in oxygen cost in an elite athlete already at or near the limit of physiology is a mighty tough ask. You don’t need to get bogged down in physiological measurables to see this, by the way – just look what happens when an athlete goes out too hard in the marathon. 30 s too fast for the first half and the race is messed up. That’s a margin for error of about 1 to 2s per kilometer. Tiny. That tells you what you need to know, which is why I think these sub-2 claims at this stage are so unrealistic.
+
+Anyway, it’s a fun topic, and this Nike campaign doesn’t take itself quite as seriously as the previous one. My overall objections to these things are:
+
+a) that they make unreasonable promises that ultimately oversell and thus devalue sports science;
+
+b) they seem to me, anyway, to devalue the athlete at the expense of the support crew. I think Sarah Barker makes that point very well in her great article
+
+c) they create an unhealthy preoccupation with times. In this case, you see that directly because pulling Kipchoge from the spring marathons means we won’t see him race Bekele in London, and that would have been a great race given the way they both ended 2016. Oh well.
+
+More thoughts below, but that’s the analytical piece done.
+
+Top The Nike attempt and what it means
+
+The announcement yesterday was really short on details, but we do know the following:
+
+Nike themselves have said that the record will NOT be run on a record-eligible course or race. Whether that means a downhill course (someone told me no, this is not it), or whether it means using a huge group of fresh pacemakers for segments of the race, nobody knows.
+
+I’ve seen a press release issued by Nike, issued for “reactive use only” (I know what my reaction was), and it is heavy on the vagueness. They have a ‘window’ for the race, rather than a set date in order to wait for optimal conditions, for instance. Whether this means waiting for a roaring tailwind like Boston had, or just for still air and cool temperatures, I don’t know.
+
+They openly acknowledge that it’s “not about chasing the record; it is about changing the game”. If changing the game means gaming the system and ignoring the regulations that make performances legitimate, they seem OK with that. Their motivation?
+
+“To challenge the perception of what’s possible in sport, reset the expectations of product and garner incredible insight into the sport of running. These learnings can be applied across everything we do, from product to services, to ultimately serve runners to be better”
+
+Nike are promising that they’re going to do this by “unpacking performance at a molecular level”. I don’t know about that, but I’ve offered a few examples of how it’s pretty straightforward to unpack it at a physiological level in order to understand how this might be achieved, illegitimately. Turning this theory into practice, that’s another issue, because performance physiology is not linear and simple. It’s interconnected, and complex, and messy. But still, the physiological concept is not rocket science.
+
+Linked to all this, not surprisingly, is what Nike are calling “a complete product system” for the race, including footwear, apparel and socks, which together will help the runners with temperature regulation, aerodynamics, and propulsion, among other traits.
+
+No word yet on the doping issue. They do acknowledge it with the usual vacuous anti-doping stance. From their release:
+
+“We believe in clean and ethical approach to sport. We also believe in unlocking human potential to inspire athletes everywhere. Nike does not condone the use of performance enhancing drugs in any manner. We will be using an independent third party to follow the same protocol that is used by the major marathons.”
+
+What’s interesting about this is that they’ve apparently been working secretively on this project since 2014, and still haven’t done anything to show this intent. I would not hold my breath on it happening now.
+
+Is this a good thing, this preoccupation with the sub-2? In some respects, yes. It makes marathon running more mainstream than it would otherwise be. However, given that I don’t think we can see a legitmate sub-2 hour for least three or four generations of athlete, I think the hype doesn’t help.
+
+If we do see a sub-2, I think it will have been achieved with, at best, questionable means related to product and course design, and at worst, nefarious, illegal means. I still don’t like the arrogance of sports science going into east Africa like a knight on a white horse, and finding “lab rats” with over-hyped science (gene testing and manipulation, if you believe Hermens in this interview. Quite incredible claims).
+
+I wrote about this, and my objections to it, about two years ago now, and I feel the same today.
+
+Ok, that’s all for now. Let’s see what Spring 2017 holds. More springs, would be my guess.
+
+Ross

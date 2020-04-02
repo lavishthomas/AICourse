@@ -1,0 +1,339 @@
+We recently analyzed 1 million Google search results to answer the question:
+
+Which factors correlate with first page search engine rankings?
+
+We looked at content. We looked at backlinks. We even looked at site speed.
+
+With the help of Eric Van Buskirk and our data partners1, we uncovered some interesting findings.
+
+And today I’m going to share what we found with you.
+
+Here is a Summary of Our Key Findings:
+
+1. Backlinks remain an extremely important Google ranking factor. We found the number of domains linking to a page correlated with rankings more than any other factor.
+
+2. Our data also shows that a site’s overall link authority (as measured by Ahrefs Domain Rating) strongly correlates with higher rankings.
+
+3. We discovered that content rated as “topically relevant” (via MarketMuse), significantly outperformed content that didn’t cover a topic in-depth. Therefore, publishing focused content that covers a single topic may help with rankings.
+
+
+
+4. Based on SERP data from SEMRush, we found that longer content tends to rank higher in Google’s search results. The average Google first page result contains 1,890 words.
+
+5. HTTPS had a reasonably strong correlation with first page Google rankings. This wasn’t surprising as Google has confirmed HTTPS as a ranking signal.
+
+6. Despite the buzz around Schema, our data shows that use of Schema markup doesn’t correlate with higher rankings.
+
+7. Content with at least one image significantly outperformed content without any images. However, we didn’t find that adding additional images influenced rankings.
+
+8. We found a very small relationship between title tag keyword optimization and ranking. This correlation was significantly smaller than we expected, which may reflect Google’s move to Semantic Search.
+
+9. Site speed matters. Based on data from Alexa, pages on fast-loading sites rank significantly higher than pages on slow-loading sites.
+
+10. Despite Google’s many Penguin updates, exact match anchor text appears to have a strong influence on rankings.
+
+11. Using data from SimilarWeb, we found that low bounce rate was associated with higher Google rankings.
+
+We have detailed data and information of our findings below.
+
+New Bonus Section: Get access to a free search engine ranking factors bonus section. This section includes a PDF checklist, a step-by-step case study, in-depth tutorials, and more. Click here to get access to the bonus section.
+
+The Number of Referring Domains Has a Very Strong Influence on Rankings
+
+You may have heard that getting backlinks from the same domain has diminishing returns.
+
+In other words, it’s better to get 10 links from 10 different sites than 10 links from the same domain.
+
+According to our analysis, this appears to be the case. We found that domain diversity has a substantial impact on rankings.
+
+Google wants to see several different sites endorsing your page. And the more domains that link to you, the more endorsements you have in the eyes of Google.
+
+In fact, the number of unique referring domains was the strongest correlation in our entire study.
+
+Key Takeaway: Getting links from a diverse group of domains is extremely important for SEO.
+
+Authoritative Domains Tend to Rank Higher in Google’s Search Results
+
+
+
+Not surprisingly, we found that a website’s overall link authority (measured using Ahrefs Domain Rating) was strongly tied to Google rankings:
+
+In fact, a website’s overall authority had a stronger correlation to rankings than the authority of the page.
+
+In other words, the domain that your page lives on is more important than the page itself.
+
+Key Takeaway: Increasing the number of links to your site may improve rankings for other pages on your site.
+
+Publishing Comprehensive, In-Depth Topical Content May Improve Rankings
+
+In the early days of SEO, Google would determine a page’s topic by looking strictly at the keywords that appeared on the page.
+
+If the keyword appeared on the page X number of times, Google would determine that the page was about that keyword. Today, thanks largely to the Hummingbird Algorithm, Google now understands the topic of every page.
+
+For example, when you search for “who was the director of back to the future”…
+
+…Google doesn’t look for pages that contain the keyword “who was the director of Back to the Future”.
+
+Instead, it understands the meaning of the question, and provides an answer:
+
+As you might expect, this has a significant impact on how we optimize our content for SEO. In theory, Google should prefer content that covers a single topic in-depth.
+
+But does the data agree with that assumption?
+
+To find out we used MarketMuse to analyze 10,000 of the URLs from our data set for “Topical Authority”.
+
+And we discovered that comprehensive content significantly outperformed shallow content.
+
+This is interesting. But how do you write content that Google considers comprehensive?
+
+Let’s look at two examples from our data set to find out.
+
+First, we have this article on the Daily Press about the Busch Gardens fun card:
+
+This page has many of the traditional metrics that result in first page rankings. For example, the page uses the keyword in the title tag and the H1 tag. Also, the domain (Dailypress.com) is very authoritative (Ahrefs Domain Rating of 64).
+
+However, this page ranks only #10 for the keyword: “Busch Gardens fun card”.
+
+This low ranking is partly due to the fact the content on the page has a very low Topical Authority score.
+
+On the flip side, we have this page about making Balinese satay sauce.
+
+This page provides a wealth of information on satay sauce. This piece of content covers the history of satay sauce in Indonesia, how the sauce is used, a recipe, and even provides nutrition facts.
+
+Even though this page doesn’t use the term “Indonesian Satay Sauce” anywhere on the page, it ranks on the first page for that keyword:
+
+Part of the explanation for that ranking is that this page has a high Topical Authority for the topic: “Indonesian Satay Sauce”.
+
+Key Takeaway: Writing comprehensive, in-depth content can help you rank higher in Google.
+
+Long-Form Ranks Higher in Google’s Search Results Than Short-Form Content
+
+
+
+Does long-form content outperform short, 200-word blog posts?
+
+We turned to our data set to find out.
+
+After removing outliers from our data (pages that contained fewer than 51 words and more than 9999 words), we discovered that pages with longer content ranked significantly better than short content.
+
+In fact, the average word count of a Google first page result is 1,890 words.
+
+Previous search engine ranking factors studies found that longer content performed better in Google.
+
+This correlation could be due to the fact that longer content generates significantly more social shares. Or it could be an inherent preference in Google for longer articles.
+
+Another theory is that longer content boosts your page’s topical relevancy, which gives Google a deeper understanding of your content’s topic.
+
+Also, long-form content’s ranking advantage could simply reflect site owners that care about publishing excellent content. This being a correlation study, it’s impossible for us to pinpoint why longer content performs so well in terms of search engine rankings.
+
+However, when you combine our data with what’s already out there, it paints a clear picture that long-form content is best for SEO.
+
+Key Takeaway: Long-form content ranks higher in Google’s search results than short-form content. The average word count of a Google first page result is 1,890 words.
+
+HTTPS is Moderately Correlated with Higher Rankings
+
+
+
+Last year Google called on webmasters to switch their sites over to secure HTTPS. They even called HTTPS a “ranking signal“.
+
+What does our data say?
+
+Although not a super-strong correlation, we did find that HTTPS correlated with higher rankings on Google’s first page.
+
+Does this mean you should make the switch to HTTPS today? Obviously, the decision is yours. But switching your site to HTTPS is a serious project that can cause serious technical headaches.
+
+Before you make the plunge to HTTPS, check out these guidelines from Google.
+
+Key Takeaway: Because the association between HTTPS and ranking wasn’t especially strong — and the fact that switching to HTTPS is a resource-intensive project — we don’t recommend switching to HTTPS solely for SEO. But if you’re launching a new site, you want to have HTTPS in place on day one.
+
+There is No Correlation Between Schema Markup and Rankings
+
+
+
+There’s been a lot of buzz about Schema markup and SEO.
+
+The theory goes something like this:
+
+Schema markup gives search engines a better understanding of what your content means. This deeper understanding will encourage them to show your site to more people.
+
+For example, you can use the <name> structured data tag to let Google know that when you use the word “Star Wars”, you’re referring to the original movie title…not the franchise in general:
+
+Or you can use Schema to show ratings for products on your ecommerce site:
+
+All of these things should help with your rankings. In fact, Google’s John Mueller hinted that they might use structured data as a ranking signal in the future.
+
+However, according to our analysis, the presence of structured data had no relationship with Google rankings.
+
+Key Takeaway: Feel free to use structured data on your site. But don’t expect it to have an impact on your rankings.
+
+Shorter URLs Tend to Rank Better than Long URLs
+
+I typically recommended that people use short URLs for the sake of better on-page SEO.
+
+Why?
+
+There are two reasons:
+
+First, a short URL like backlinko.com/my-post is easier for Google to understand than backlinko.com/1/12/2016/blog/category/this-is-the-title-of-my-blog-post.
+
+In fact, according to Google’s Matt Cutts, after 5 words in your URL:
+
+“[Google] algorithms typically will just weight those words less and just not give you as much credit.”
+
+And our data supports the use of shorter URLs.
+
+Fortunately, this guideline is easy to put into practice. Whenever you publish a new piece of content, make the URL short and sweet.
+
+If you use WordPress, you can set your permalink structure to “post name”:
+
+Then, whenever you write a post, modify the URL to include a few words:
+
+Quick word of warning: make sure the new permalinks only apply to future posts. If you change the permalinks for older posts it can cause serious SEO-related issues.
+
+For example, the URL for my post: 21 Actionable SEO Techniques You Can Use Right Now is simply my target keyword:
+
+Second, a long URL tends to point to a page that’s several clicks from the homepage. That usually means that there’s less authority flowing to that page. Less authority means lower rankings.
+
+For example, this URL to an iPad product page on BestBuy.com represents a page that’s far removed from the site’s authoritative homepage:
+
+Key Takeaway: Use short URLs whenever possible as they may give Google a better understanding about your page’s true topic.
+
+Content With At Least One Image Ranks Higher Than Content That Lacks an Image
+
+(But Using Lots of Images Doesn’t Make a Difference)
+
+Industry studies have found that image-rich pages tend to generate more total views and social shares.
+
+This suggests that including lots of images in your content can boost shares, which should therefore improve Google rankings.
+
+To measure the impact of image use on rankings we looked at the presence or absence of an image in the body of the page (in other words, in the content of the page).
+
+According to our data, using at least one image in your content is significantly better than having no image at all.
+
+However, when we looked at the link between the total number of images and rankings, we didn’t find any correlation.
+
+This suggests that there’s a point of diminishing returns when it comes to image usage and rankings.
+
+Key Takeaway: Using a single image is clearly better than zero images. Including lots of images doesn’t seem to have an impact on search engine rankings.
+
+Using An (Exact) Keyword in Your Page’s Title Tag Has a Small Correlation With Rankings
+
+
+
+Since the early days of search engines the title tag has been (by far) the most important on-page SEO element.
+
+Because your title tag gives people (and search engines) an overview of your page’s overall topic, the words that appear in your title tag have long had a significant impact on rankings.
+
+However, we wanted to see whether or not Google’s move towards Semantic Search has made the title tag any less important.
+
+We found that title tag keyword usage still slightly correlates with rankings. However, it had a much smaller relationship than we anticipated.
+
+This finding suggests that Google doesn’t need to see the exact keyword in your title tag to understand your page’s topic.
+
+For example, here are the top six results for the keyword “list building”.
+
+Note how three of the top six results (including the #1 result) don’t contain the exact keyword “list building” in their title tag.
+
+This is a reflection of Google moving away from exact keyword usage to Semantic Search.
+
+Key Takeaway: Including your target keyword in your title tag may help with rankings for that keyword. However, because of Semantic Search, the impact doesn’t appear to be nearly as great as it once was.
+
+Pages On Fast-Loading Websites Rank Significantly Higher than Pages On Slow-Loading Websites
+
+Since 2010, Google has used site speed as an official ranking signal.
+
+But we were curious:
+
+How much does site speed impact rankings?
+
+We used Alexa’s domain speed to analyze the median load time of 1 million domains from our data set. In other words, we didn’t directly measure the loading speed of the individual pages in our data set. We simply looked at the average loading speed across the entire domain.
+
+And we found a strong correlation between site speed and Google rankings:
+
+Again, this is simply a correlation. Could it be that site owners that optimize for speed also optimize for SEO? Sure.
+
+But having a fast-loading site certainty won’t hurt your SEO. So it makes sense to speed things up.
+
+Key Takeaway: Fast-loading websites are significantly more likely to rank in Google.
+
+More Total Backlinks = Higher Rankings
+
+
+
+There’s been a lot of buzz about new ranking signals (like social signals) that search engines use today. Many have even gone on to say that backlinks are becoming less important.
+
+We were curious to see whether or not Google still used the sheer number of backlinks as an algorithmic ranking signal.
+
+To measure this, we used the Ahrefs API to determine the total number of backlinks pointing to each page in our data set.
+
+We found that pages with the highest number total backlinks tended to rank best in Google.
+
+Even though Google continues to add diversity to its algorithm, it appears that backlinks remain a critical ranking signal.
+
+Key Takeaway: Pages with more backlinks tend to rank higher than pages with fewer backlinks.
+
+Google Rankings Are Closely Tied to a Page’s Overall Link Authority
+
+
+
+In addition to total backlinks, we wanted to answer the question:
+
+Does a page’s overall authority influence rankings?
+
+Most SEOs agree that backlink quality is just as important as backlink quantity.
+
+In other words, it’s typically better to get a single link from an authoritative page than 100 links from 100 low-quality pages.
+
+And our data supports this:
+
+According to Ahrefs’s measure of link authority (URL Rating), authoritative pages outrank pages with little link authority. However, this correlation wasn’t as strong as the impact of the total amount of referring domains.
+
+Key Takeaway: The overall link authority of your page matters.
+
+Exact Match Anchor Text Significantly Correlates With Rankings
+
+
+
+Since Google released its Penguin update in 2012, many SEO professionals have advised against building backlinks with exact match anchor text. However, several search engine ranking studies have found that anchor text is still important.
+
+That’s why we wanted to investigate whether or not anchor text remained an important ranking signal.
+
+Our research shows that exact match anchor text strongly correlates with rankings.
+
+In the early days of SEO, building backlinks with exact match anchor text was a very effective approach. For example, if you wanted to rank for the keyword “online flower delivery” you would make sure your links had anchor text like this:
+
+However, Google has likely cracked down on this practice, starting with the initial Penguin update. For that reason, we don’t recommend building links that use exact match anchor text, despite the fact that it appears to have a strong impact on rankings.
+
+Key Takeaway: Backlinks with exact match anchor text robustly correlate with rankings. However, because of the risk in exact match anchor text links, we don’t advise utilizing exact match anchor text as an SEO tactic.
+
+Low Bounce Rates Are Strongly Associated With Higher Google Rankings
+
+
+
+Many people in the SEO world have speculated that Google uses “user experience signals” (like bounce rate, time on site and SERP click-through-rate) as ranking factors.
+
+To test this theory, we pulled 100,000 websites from our data set and analyzed them in SimilarWeb.
+
+Specifically, we analyzed three user experience signals: bounce rate, time on site and SERP CTR.
+
+We discovered that websites with low average bounce rates are strongly correlated with higher rankings.
+
+Please keep in mind that we aren’t suggesting that low bounce rates cause higher rankings.
+
+Google may use bounce rate as a ranking signal (although they have previously denied it). Or it may be the fact that high-quality content keeps people more engaged. Therefore lower bounce rate is a byproduct of high-quality content, which Google does measure.
+
+As this is a correlation study, it’s impossible to determine from our data alone.
+
+Key Takeaway: Google may use bounce rate as a ranking signal. Or it may be a case of a correlation not equaling causation.
+
+Conclusion
+
+Special thanks to our data partners: SEMRush, Ahrefs, MarketMuse and SimilarWeb for making this study possible.
+
+I also want to thank Eric Van Buskirk of ClickStream (Project Director), Zach Russell (Lead Developer), and Qi Zhao (Head Data Scientist) for their contributions.
+
+Also, if you’d like to learn more about how we collected and analyzed our data, here is a link to our study methods.
+
+And if you want help implementing these findings, then make sure to get access to the free search engine ranking factors bonus section.
+
+Click the image below and enter your email to get access:

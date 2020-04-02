@@ -1,0 +1,395 @@
+by on
+
+As an expert SEO, you have to be a jack-of-all-trades.
+
+You need to understand link building, marketing, public relations, psychology, and technology.
+
+At a certain point, there’s just not enough time in the day to do everything you’d like to do.
+
+But you can save quite a bit of time and effort on small things by using browser extensions.
+
+You can install them with one or two mouse clicks and access them with ease to the right of your address bar.
+
+They will help you:
+
+analyze website performance quickly
+
+examine code behind websites
+
+build links better
+
+save time by improving your task efficiency
+
+I’ve put together a list of 28 browser extensions I consider to be the best. I encourage you to give a few of them a try.
+
+Download this cheat sheet of 28 browser extensions that make an SEO’s life easier.
+
+A quick heads-up: most of these extensions are for Chrome, but many also have a Firefox version. Only a few of them will work on less popular browsers such as Internet Explorer, Safari, or Opera.
+
+Analyze websites and backlinks with the click of a button
+
+SEOs have to analyze websites constantly.
+
+The extensions in this section will give you a quick glance at the number of backlinks and social shares a page has as well as its basic on-page SEO.
+
+1. Mozbar. Mozbar was the first of its kind. Even though there are now solid alternatives, the Mozbar remains a popular choice among SEOs.
+
+You can use this extension in two main ways.
+
+The first is when you search for a keyword in Google. It will display statistics below each search result:
+
+You can quickly see the page authority (PA) and domain authority (DA) of the pages to assess the competition. You can also use the button beside the Google search bar to get a keyword difficulty score.
+
+The second way in which you can use Mozbar is when you land on a web page. When you click on the Mozbar icon, you’ll see a bar pop up with the page’s overall stats.
+
+Again, it gives you the PA and the DA scores as well as social sharing stats.
+
+You can also dig deeper by clicking the magnifying glass icon on the left side of the bar, which will expand into a new panel.
+
+In the panel, you can see the page’s:
+
+meta text
+
+alt text
+
+headings
+
+page speed load
+
+markup
+
+and more
+
+You can see most of this with a free account, but if you want full access, you will need a PRO account with Moz.
+
+It’s a beautiful and useful extension, but it has lost a lot of its popularity because it relies solely on Open Site Explorer (OSE) data. Compared to other leading link databases, OSE is smaller (contains less data) and updates slower.
+
+2. Ahrefs SEO Toolbar. This is one of Mozbar’s competitors I mentioned. It is made to fulfill much of the same functionality but with data from the superior Ahrefs database instead.
+
+When the bar is active on a page, it’s very thin at the top and shows you both link and social information of that specific URL as well as the overall domain stats.
+
+You’ll find basic information such as:
+
+backlinks and referring domains
+
+Ahrefs URL rating and domain rating
+
+social shares from the main networks
+
+the same info for the root domain
+
+All basic features are free, but if you have an Ahrefs subscription, you can dig deeper.
+
+When you click the down arrow in the top left corner, a panel with more information will expand. You’ll be able to see a graph for the recent backlink growth (or decline) to the page or domain. There is also a handy link to go to the actual Ahrefs site explorer if you’d like to take a closer look.
+
+Finally, you can also activate the plugin when you search for something on Google. You’ll get a small information-packed bar under each URL:
+
+It shows linking and social data for both the URL and domain.
+
+3. Majestic SEO Toolbar. This is the other main competitor of Mozbar. Again, it has all the essential features of an SEO toolbar.
+
+When you activate it on a web page, you can see the:
+
+number of links
+
+number of root domains
+
+trust flow and citation flow
+
+link profile chart
+
+and more
+
+All the information is drawn from the Majestic SEO database, of course. The information in the main “summary” tab is free. If you’d like to use the other tabs, such as the detailed backlink analysis or anchor text, you’ll need a paid account.
+
+The only potential problem is that, unlike the other SEO extensions here, it does not analyze search results. So if you’re looking for a quick keyword competitor analysis, one of the other tools might be a better option.
+
+4. SEO & Website Analysis by WooRank. This plugin is one of the best all-in-one SEO plugins. The three extensions we’ve looked at so far all focused on backlinks and page authority, but this extension is more focused on on-page SEO and technical aspects.
+
+Click its icon while you’re on a page, and a panel will pop out of the left side. Let it run for about 20-30 seconds (depends on the page):
+
+The first thing you’ll notice is an overall score out of 100. This indicates how many of the basic best practices the page follows.
+
+The real power of this extension is in the small tabs along the top. Each tab will give you different information about the page and site:
+
+basic SEO: title tags and meta information
+
+title tags and meta information mobile optimization: a mobile friendly score and previews on different devices
+
+a mobile friendly score and previews on different devices usability: page load metrics and how easy it is to access content
+
+page load metrics and how easy it is to access content technology: what plugins and CMS are being used
+
+what plugins and CMS are being used social: basic social sharing statistics
+
+basic social sharing statistics visitors: estimate of traffic level
+
+The great thing about this toolbar is that almost all of this information is free. There are a few advanced options that require a premium account.
+
+5. Check My Links. If you ever do broken link building, you need this extension.
+
+When you’re on a page, just click the extension icon, and it’ll quickly test all the links to see if they’re working.
+
+Working links are highlighted in green, while the broken ones will be highlighted in red with the error code beside them.
+
+The only thing that could be improved here is having a shortcut to quickly copy the URLs and anchor text of the broken links, which could then be pasted into an email or spreadsheet. Still, this is the best broken link checker I’ve used.
+
+6. Domain Hunter Plus. This extension can also be used to identify broken links. However, it was made for a very specific purpose: to find expired domains that already have backlinks and authority.
+
+It’s very simple to use. Go to a high authority page with a lot of links, and click on the extension’s icon to scan the page. It will find all the broken links on the page and show them to you in its little panel.
+
+The cool thing is that it also shows you how many links are pointing to the broken URL as well as how many links point to the domain. Finally, it shows you if the domain is available to register.
+
+If you’re looking to pick up a cheap domain that already has some decent authority, spend a few hours with Google and this extension, and you can probably find what you’re looking for.
+
+7. SEO Quake. Some SEOs don’t want an extension associated with a premium link tool or need something a little more customizable.
+
+SEO Quake is a little more basic than other extensions, but it still gives you the essentials. It’s also one of the few available for all major browsers (including Opera and Safari).
+
+It is designed, just like Mozbar and Ahrefs, to work with search engine result pages (SERPs). With it, when you search for something on Google, you’ll get a bar beneath each result.
+
+It gives you quick estimates of the number of links to the page and domain, page age, alexa rank, and links to whois info. One really cool feature is the ability to save the SERP data and results as a CSV file (spreadsheet).
+
+When you use the extension on a web page (other than a search engine), it will open up a new tab with the results. It’s not pretty, but it does contain:
+
+basic meta information
+
+basic social shares
+
+keyword density
+
+backlink information
+
+Be aware that the link data comes from publicly reported Google and Bing/Yahoo links, which aren’t necessarily the most up-to-date or accurate.
+
+Finally, I mentioned that you could customize this extension. It’s possible to add your own parameters if you need non-standard metrics and are not afraid to learn a bit about regular expressions.
+
+8. Meta SEO Inspector. This extension is extremely basic but clearly shows you the meta information of a page. When you click the icon, you’ll get something like this:
+
+The information includes the basic meta tags (title, description, keywords) and open graph tags (important for social media), and it highlights if any important ones are missing.
+
+Most SEOs won’t need this very often, but it might be nice to have if you find yourself needing to find and copy down meta information once in a while.
+
+9. NoDofollow (Firefox) or NoFollow (Chrome). These two extensions aren’t made by the same creator, but they are the leading options for this function for the corresponding browsers. As their names suggest, when the extensions are active, they identify all links as “dofollow” or “nofollow.”
+
+With NoDofollow (pictured above), the good links (dofollow) are highlighted in blue, while nofollow links are highlighted in red.
+
+There may be some value in having nofollow links in your link profile, but typically you want to focus your effort and resources on obtaining high quality dofollow links.
+
+Here is when these tools would be useful: (1) when you’re trying to decide if you should comment on a site or (2) if you’re wondering if links from a new social media site have any SEO value. A quick click of the button gives you an easy answer.
+
+Extract useful information from the web
+
+When it comes to SEO research, most is done on the web. Instead of wasting your time doing everything manually, use the extensions in this section to speed things up.
+
+10. Scraper. If you’re an SEO, chances are that you need to copy down links and written content from pages on a fairly regular basis. Scraper is designed to work on most pages.
+
+When you come across a chart or table you’d like to scrape, you can highlight a few cells/rows and then right-click on the selection and choose “scrape similar.” The tool will find data in the rest of the table, giving you the ability to open it as a spreadsheet.
+
+Watch this short video to see how it works:
+
+One final note about Scraper is that it isn’t going to work 100% of the time. It’s designed to be lightweight and intuitive, which means that it sacrifices the complexity to make it robust enough to handle all situations.
+
+That being said, I think you’ll find it useful in a large percentage of the situations that need a quick scrape.
+
+11. Link Grabber. The first thing you’ll notice about Link Grabber is that it’s extremely fast. When you have a web page open and click the icon, a new tab will open almost immediately with a complete list of links.
+
+These links are clickable, and you could also copy/paste them into a spreadsheet:
+
+Unfortunately, there’s no option to see only external links. If you’d like to only see those, right-click the icon and click on options. Then, you can add the domain you’re on to the blocked domains list so that it won’t show up. It’s not the most elegant solution, but it will work in a pinch.
+
+This plugin is useful if you’re trying to quickly collect a list of sites that a particular domain links to. You can analyze the results together in a spreadsheet to find the most popular linked-to sites and see if you can devise a strategy to get links too.
+
+Additionally, sometimes you just need a quick link count or want to examine the internal linking of a site.
+
+Find out what lies beneath the surface of a web page
+
+Remember that Google doesn’t see what we see when we’re surfing the web—its bots see code. Not all code is visible on a web page itself. SEOs need to be able understand the basics of HTML, CSS, and even Javascript.
+
+These extensions will help you find out what’s behind a particular page.
+
+12. Firebug. This extension is a must for any SEO or developer using Firefox. It allows you to right-click on an element of a page to see its HTML and CSS.
+
+Additionally, you can edit the HTML/CSS to see what the page would look like with different parameters. Developers can use Firebug to debug websites, but SEOs typically don’t need to worry about that.
+
+There’s no way I can show you all the features of the tool in this post, so watch this quick video if this sounds like something you could use:
+
+Chrome has a pretty great built-in code inspector already. However, if you like Firebug on Firefox, there’s also a lite version of it for Chrome. It can do almost everything the Firefox version can minus Javascript debugging and a few other features.
+
+13. User Agent Switcher. Your website’s visitors use all sorts of browsers, devices, and software. In many cases, certain visitors have trouble seeing your website as intended.
+
+If you’re a smart SEO, you’ll dig into your analytics every once in a while to see if a certain subset of users has abnormally poor user metrics (high bounce rate, low time on page, etc.).
+
+Unless you own 20 different phones, laptops, and tablets, it isn’t easy to investigate the issue.
+
+With this extension, you can set your browser to tell any website that it’s a specific browser, device, or operating system. You can even pretend to be a search engine spider.
+
+So when you have a problem with low conversion or poor engagement, you can find the cause and then use User Agent Switcher to confirm that you’ve fixed the issue.
+
+14. Browsec. Depending on the sites you work on, your site may display different content to users in different countries. Alternatively, you may want to access some content that you can’t from your country’s IP address.
+
+Browsec is a simple free VPN that allows you to spoof your IP address and makes websites think you’re located somewhere else. The free version of Browsec has a limited set of options but good enough for most situations:
+
+15. Wappalyzer. I love finding a new tool that helps improve conversion rate or engagement before it gets too popular. One of the best sources of new tools is other websites you frequently visit.
+
+If you visit a website one day and see a new plugin, widget, or other feature that you love, chances are that it’s a WordPress plugin. Sometimes there will be a label on it, but not always.
+
+You can use Wappalyzer to find a ton of information about a website, including:
+
+widgets being used
+
+the operating system
+
+any special fonts
+
+web server information
+
+frameworks
+
+Just click the extension icon, and you’ll get a list within seconds.
+
+16. Page load time. Having a fast-loading website is essential not just for search engine rankings but also for marketing in general. If your visitors can’t load a page quickly, more often than not, they’ll leave.
+
+This extension is very simple. It shows how long it took you to load a page in your browser toolbar.
+
+You can expand the results to see a more detailed breakdown:
+
+You can see if any redirects are taking too long to load or if your server response time is too long, among other things. You can use this to see if you need a content delivery network (CDN) or a faster host.
+
+17. Redirect Path Checker. Redirects are an important part of the Internet. As pages and sites get updated or transfer ownership, redirects can ensure that backlink authority is passed through and that visitors can still find you.
+
+This extension will show you all the redirects from the URL you entered to your final URL:
+
+This simple extension can come in handy in a number of ways.
+
+For example, if you’re analyzing your competition, it’s important that you know exactly what you’re up against. You can search for a page in Google and filter out all new results so that any links to that page from these results link to the original URL (if it’s different from the present one).
+
+You can then use the plugin to follow the redirect chain and then find all the backlinks pointing to each URL along the way.
+
+Additionally, you can use this to find any redirect problems you’re having with your own site.
+
+18. Ghostery. This extension tracks all scripts on a page and shows them to you in an attractive little pop-out panel (when clicked).
+
+First, this tells you which widgets, plugins, and other scripts (like advertising networks) are being used on the page.
+
+Additionally, you can block any of these scripts with the click of a button. If you’re running a lot of scripts on your website, this tool can let you test the effect they have on page speed as well as the appearance of your website to visitors.
+
+Stay up-to-date with minimal effort
+
+Many parts of your job as an SEO require you to stay up-to-date. Whether it’s information about SEO, your niche, or social media activities, there are extensions that can help.
+
+I’ve collected them here for you.
+
+19. Mozcast. Here’s another extension from Moz. It quickly shows you what the current Mozcast is in a little bubble on your browser’s toolbar. This can alert you to any big shifts in the SERPs so that you can look into any issues.
+
+If you visit the Mozcast website regularly, you may prefer to use this extension instead to save time. When you click it, a pop-out will show you a graph of the temperatures for the last 30 days.
+
+20. Buffer. Buffer is an amazing tool for scheduling social media sharing. You can set it to share a certain number of posts per day at specific times automatically.
+
+This extension allows you to add posts to share to your personal queue. Instead of having to go back to the main Buffer site, you can just click this extension icon when you come across something worth sharing and add it to your queue:
+
+The share will automatically be populated with your current URL and its title, but you can change it if you need to.
+
+Another great feature of this plugin is that it adds a little Share Image button to the bottom right of all pictures.
+
+Including images in social media shares typically increases your engagement rate. When you click this button, it brings up the same pop-up as before, but it also includes the image you picked.
+
+21. Pocket. In a field such as SEO, you always have to stay up-to-date if you want to be seen as competent. That means you have to read a ton of content on a regular basis.
+
+Pocket allows you to save articles, images, and videos for later. By using this extension, you can quickly “put content into your pocket.”
+
+Note that you can install Pocket on just about any operating system or device. That means you can save content from your computer and read it later on your mobile device when you have free time.
+
+Be a more efficient and effective SEO
+
+Who doesn’t want to free up some time?
+
+These extensions will help you complete common SEO tasks faster and better.
+
+22. Evernote Web Clipper. Evernote is primarily a note-taking software, but it has since become well known for its image editing software Skitch. Skitch lets you quickly annotate images, and it’s a tool I often use to annotate images for blog posts.
+
+This web clipper extension is essentially Skitch for your browser. You can select a full screenshot, an email, or a full page of content or select a specific part of a webpage.
+
+It will open your selection in a new tab and let you edit it before saving it to your Evernote account:
+
+While there are only a few options for editing and annotating, it’s all you need 95% of the time.
+
+23. TechSmith Snagit. If you’re not a fan of Evernote for some reason, no worries—I have you covered.
+
+Snagit is a very similar tool, and in some ways, it’s even a bit better (and a bit worse in others).
+
+I use it sometimes to create images for blog posts, so I don’t think you can go wrong with either option. Snagit is often a bit quicker just because you can download an image directly after editing it instead of going to your notebook and downloading it.
+
+Once you make your selection, it will appear in a new tab so that you can edit it:
+
+It has a few different options when it comes to shape and color, but it doesn’t have the advanced tools such as the marker, blurring, or highlighting.
+
+24. Bit.ly. A big part of your job as an SEO revolves around links. Bit.ly is arguably the most popular link shortener service. It lets you shorten URLs quickly, and it even lets you track stats such as the number of clicks a link got.
+
+Another cool feature is that if you enter a URL to shorten it, if someone has already done it with Bit.ly, you can see how many people clicked it in the past.
+
+When you click this extension icon, it will automatically give you a shortened URL to use. You can also share it directly from the pop-up with your social profiles:
+
+25. LastPass. How many accounts do you have on different websites? For most SEOs, it’s a ridiculous number.
+
+Instead of having messy and unsecured spreadsheets or text files of user names and passwords, you can use LastPass.
+
+It lets you save user names, passwords, and notes for any site you visit, and it will automatically fill them in (securely) when you come back in the future.
+
+Instead of trying to remember 1,394,293 (or however many) passwords, you only need to remember one password for your LastPass account. You can access your data from any computer/device.
+
+Here’s a brief overview of the free tool:
+
+I only talked about convenience, but this is good for security too. You won’t need to reuse passwords since you can create a strong unique password for every account you own.
+
+26. Momentum. If you find yourself getting off track during the day, Momentum could be a useful extension for you. It works by creating a custom “new tab” screen that you see every time you open a new tab.
+
+First and foremost, Momentum shows you your main goal for the day. It also lets you create a handy to-do list.
+
+In addition, the backgrounds are gorgeous, and you can see your local weather as well.
+
+It’s a nifty little tool to brighten up your day and keep you focused.
+
+27. ShareMetric. If you don’t want to use a full SEO bar like I showed you earlier but you still need to know how a specific page has performed on social media, you can use this extension.
+
+When you click the icon, this tool will show you any page’s stats for all major social networks:
+
+Facebook
+
+Twitter
+
+LinkedIn
+
+Google+
+
+Reddit
+
+StumbleUpon
+
+Pinterest
+
+In addition, it shows you some basic SEO stats. It includes both Open Site Explorer and Ahrefs stats for URL and domain rank as well as linking root domains to the page.
+
+28. iMacros. Automation is a powerful thing. It’s how blackhat and greyhat SEOs dominated search engine results for years. Now that Google has caught up, automated link building has died out for the most part. However, that doesn’t mean that automation can’t help you in other aspects of SEO.
+
+If you’re doing anything on a daily or weekly basis and it’s the exact same procedure every time, it can be automated.
+
+The power of automation is that even if it’s a small task, saving a few minutes on a regular basis will save you hours of time by the end of the year.
+
+iMacros features full-fledged paid versions, but its extensions are free and good enough for most basic SEO tasks.
+
+Here’s an overview of how the iMacros extension works:
+
+Yes, this is a fairly technical thing to learn, but it’s worth it in the long run. Plus, most SEOs that I’ve talked to find it kind of fun.
+
+If you want to start learning about automating tasks with iMacros, start with this tutorial.
+
+Conclusion
+
+I’ve shown you 28 browser extensions that can make any SEO’s life easier.
+
+I doubt you need them all, but I hope you found at least a few extensions that will help you in the future.
+
+While many of them have a learning curve, I recommend trying them out for a week at a time to find out which ones are really useful to you.
+
+I know that I’ve probably missed some great extensions—don’t yell at me! Instead, leave me a comment below and let me know which extension(s) is your favorite.

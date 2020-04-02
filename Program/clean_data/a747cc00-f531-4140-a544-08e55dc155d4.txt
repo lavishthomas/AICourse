@@ -1,0 +1,99 @@
+It seems as though any time you hear about Web design these days, you can’t help but come across the term “flat design.” While the flat Web design trend has been emerging in recent years, it seemed to have exploded in popularity thanks to large companies and organizations changing their design aesthetic to that of flat design.
+
+But where did flat design come from? And why are we seeing it on the Web? As with anything in design, knowing where a style or technique came from and the history behind it can help you make more educated decisions when it comes to the use of the design aesthetic.
+
+Let’s walk through what flat design is, its influences from previous design periods, and how flat design became so popular today.
+
+What exactly is “flat design?”
+
+For those of you who haven’t heard of the term, “flat design” is mainly the term given to the style of design in which elements lose any type of stylistic characters that make them appear as though they lift off the page.
+
+In laymen’s terms, this means removing stylistic characters such as drop shadows, gradients, textures, and any other type of design that is meant to make the element feel three-dimensional.
+
+Designers today have seem to gravitate toward flat design because it feels crisp and modern, and allows them to focus on what is the most important: the content and the message.
+
+By removing design styles that can easily date their design (or that could quickly cause their design to become outdated), they are “future-proofing” their designs so that they become relevant for longer periods of time. Not to mention, flat design seems to make things more efficient and cuts out the “fluff.”
+
+It isn’t quite fair to have a discussion of what flat design is without discussing the opposite of flat design. The term often given for the opposite of flat design is “rich design,” which is best described as adding design ornaments such as bevels, reflections, drop shadows, and gradients. These things are often used to make elements feel more tactile and usable to users who are navigating the website or using an application.
+
+It is important to note that rich design isn’t Skeuomorphism. Skeuomorphism is the act of making things resemble their physical counterparts to deliberately make them look familiar.
+
+Next: Where did flat design originate from?
+
+Where did flat design come from originally?
+
+Most anything we see on the Web or digital world today has origins from its print and art ancestries. While it is difficult to determine the exact start of flat design today or where its origins started, there are a few periods of design and art in which flat design takes inspiration from.
+
+Swiss Style of Design
+
+The Swiss style (sometimes called the International Typographic Style) of design is the main period of design that come to mind and deserves attention for any discussion on the history of flat design. The Swiss design style was the dominant design style throughout the 1940’s and 1950’s from which it originated in Switzerland.
+
+Swiss design mainly focused on the use of grids, sans-serif typography, and clean hierarchy of content and layout. During the 40’s and 50’s, Swiss design often included a combination of a very large photograph with simple and minimal typography.
+
+With typography being a major element in Swiss design, the beloved Helvetica typeface was also created in Switzerland in 1957, and was heavily used on just about everything during the time.
+
+Just like how flat Web design today was around for a while before Microsoft and Apple made it popular, the Swiss style of design can be traced as far back as the 1920’s in Germany, but it was the Swiss who made it explode in popularity and earned the namesake (for the Art History buffs, the Bauhaus school in Germany focused on architecture and typography, and the typography has similarities to Swiss design but where practicing this design style before the Swiss took claim).
+
+Minimalist Design
+
+Another heavy influence of today’s flat Web design can be found in the history of Minimalism. The term “minimalism” is sometimes used interchangeably with today’s flat design, but minimalism was popular way before the Web was even a thought. Minimalism has its history in architecture, visual art, and design.
+
+Minimalism has an extensive history and covers various mediums, but where flat design takes its influence from is mainly the design and visual art expressions of minimalism. Minimalism is well known for the act of removing everything in a piece, leaving just the necessary and needed elements. Geometric shapes, few elements, bright colors, and clean lines dominate most minimalism style design.
+
+Probably one of the most popular art pieces from the Minimalism period is Yves Klein’s The Blue Epoch (seen below).
+
+It’s safe to say that a mixture of Swiss Design and Minimalism heavily influenced what we see today in the digital world and have named “flat design.”
+
+Next: The Microsoft and Apple flat design eras
+
+Emergence of flat design in the digital world
+
+History repeats itself, and the same holds true with the current flat design trend. As we seen above, flat design can be traced back all the way to the 1920’s and have influenced our current adaptation of flat design.
+
+While many designers have worked their way to flat design when creating websites and other design pieces, it is safe to say that the likes of Microsoft and Apple made flat design pretty popular over the last several years.
+
+Microsoft and Metro Design
+
+Microsoft’s dabbing in flat design started before the current “Metro” design aesthetic was dubbed Metro. In trying to compete with Apple’s extremely popular iPod, Microsoft released the Zune media player in late 2006.
+
+With Zune came a unique design style that focused on large, lower-case menu typography and background imagery (imagery was displayed based on the song or content loaded). The Zune desktop software that came paired with the Zune also followed the same design style, creating a fully integrated experience.
+
+The design of the Zune operating system on Zune devices was drastically different than most of Microsoft’s other software availabilities at the time (namely Windows). When Microsoft released Windows Phone 7 in October 2010, it took what the company learned from the design of Zune and applied it plus more to the look and feel of the Windows Phone 7: large, bright, grid-like shapes, simple sans-serif typography and flat icons dominated the style on the Windows Phone 7.
+
+This design would soon be called “Metro” design by its creator, Microsoft.
+
+The design became so popular that Microsoft kept with the Metro design style and introduced it in its Windows 8 operating system, keeping with a strict grid of blocks of content, sharp edges, bright colors, sans-serif typography, and background images. This same design style is still used by Microsoft in nearly all of its software and devices such as the Xbox 360 and its current website (though the Metro name has technically been discontinued).
+
+Apple Shakes Skeuomorphism
+
+While Microsoft was working on its flat design style, Apple had something else up its sleeve. Apple started hinting at moving away from its use of Skeuomorphism, and then completely abandoned the perfected Skeuomorphism in favor of a more flat design with the release of iOS 7 in the summer of 2013.
+
+Since Apple has a pretty strong following with a rather large group of early adaptors of new devices and technology, the design of iOS 7 seemed to have made flat design even more popular than it was before practically overnight.
+
+Apple’s design aesthetic often heavily influences design of websites and apps because most designers feel that the design is appealing and modern. Thus, when Apple switched to a more flat design style, Skeuomorphism seemed to become almost instantly outdated and sites and apps that used the design style quickly found that they needed a redesign.
+
+This is most evident in the different apps that have been updated to work well with iOS 7 — they all follow the flat design aesthetic that users of iOS 7 have become accustomed to throughout the OS.
+
+Responsive Design
+
+It is important to note too one of the reasons flat design has become so popular in recent years as well is the development of responsive design. As more devices are connecting to the Web, with various screen sizes and browser constraints, designers are finding that their tried-and-true design styles that relied heavily on textures, drop shadows, and fixed imagery don’t translate as well when you have to shrink those designs into smaller and smaller viewports.
+
+Flat design allows for Web design to become more efficient. Without extra design elements in the way, websites can load much faster and are easier to resize and form around the content it holds.
+
+This also goes hand in hand with our screens becoming more high-def and the need to display crisper imagery. It is much easier to display crisp boxes and typography than it is to make several different images to accommodate all the various devices and features out there.
+
+Next: The future of flat design
+
+The future of flat design
+
+While no one has a crystal ball, it is safe to say that flat design will eventually run its course and will be replaced with something even more new and exciting, just like various other design styles did before it (take Skeuomorphism for example).
+
+There are obvious flaws to flat design in the digital world (such as removing the visual clues that is needed to determine if something is clickable or not), but as designers experiment, test, and learn, flat design will evolve and eventually a new style will emerge that will leave flat design in its dust.
+
+One clue that we may have to what the future holds for flat design (or even after) is the current design work of Google (mainly in their mobile apps). While Google’s applications are showing signs of flat design, it does not seem to be removing elements such as drop shadows; it also still uses gradients in subtle ways. The company seems to be taking the best of flat and rich designs and integrating both in a way that just works. Maybe Google have figured out something we haven’t?
+
+While flat design seems new and exciting, and is a fastly growing trend, it isn’t nothing new in the course of design history. With influences from Swiss design and Minimalism, flat design is just a reincarnation of its print ancestry in our digital lives.
+
+This post is part of our contributor series. The views expressed are the author's own and not necessarily shared by TNW.
+
+Read next: Inside OnCue: The story behind Verizon's Internet TV acquisition

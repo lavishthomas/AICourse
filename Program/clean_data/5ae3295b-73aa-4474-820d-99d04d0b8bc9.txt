@@ -1,0 +1,45 @@
+During its teenage and young adult years—what is now referred to as its “classical” period—physics made a lot of mistakes.
+
+In the old physics, mass and energy were separately conserved; particles’ positions and momenta could be arbitrarily specified; gravity acted instantaneously at a distance; the equality of gravitational and inertial mass was just a coincidence; and there was no speed limit. All these ideas and assumptions are now known to be in some way untenable. They're either inaccurate or theoretical dead-ends.
+
+To put it plainly, classical physics is wrong. As such, there's really only one thing to do—physicists have since abandoned the old, mistaken ideas, right? It's reminiscent of how doctors discarded the system of humors, chemists chucked out phlogiston, and astronomers turned away from astrology and geocentrism.
+
+Not quite. Classical physics in fact survives as the foundation for most of engineering. At human scales, when velocities are not too close to the speed of light, distances are less than astronomical, and particles are not too small, modern physics reduces to classical physics, which provides an excellent approximation under such conditions. (Experts may grumble here that I’m not quite technically correct. Where I refer to particle size I should really speak of quantum number, remembering the phenomena of superfluidity and superconductivity. Also, precise measurements sometimes make the nonclassical nature of reality apparent even at human scales. For example, the effect of gravity on the speed of light means that we have to use general relativity in the design of the GPS navigation system.)
+
+However, the practical utility of classical physics is not what this story is about. You see, the incorrect hanger-on we call classical physics remains a vibrant arena of active research. Its foundations and the fundamental problems posed by several of its subfields still engage the imaginations of thousands of physicists throughout the world. And like all areas in active development, it attracts contention and controversy to this very day.
+
+What was old is new again
+
+Physics is vast. In the first decades of the last century, a physicist could keep up with all the relevant research by browsing a couple of journals. Now, due to the unabated exponential growth in publications since WWII, most physicists can barely hope to keep up with progress in their sub-subfield. Additionally, these subfields have become so specialized that it's nearly impossible to glean more than a superficial understanding of a paper outside of one’s specialty.
+
+The enormous scope and range and the proliferation of sub-specialties may lead to the impression that physics is not a unified, nor even coherent discipline. At first glance, the study of groundwater flows seems to exist in a different universe from the investigation of stellar evolution. But what defines physics is not the subject matter so much as the set of tools and general outlook one brings to bear upon the problems of the physical world.
+
+Physicists are all brought up with a similar body of knowledge—techniques of applied mathematics and computation and a similar approach to the root subjects within the field (mechanics, electrodynamics, thermodynamics, quantum mechanics, etc.). Physics students tend to learn this canon from a fairly small and stable set of classic texts. So if you’re currently near the beginning of your graduate school career and taking a course in electrodynamics, there is an excellent chance that you’re using the same thick, red book that was intimidating students 30 years ago. More than a catalog of subjects and problems, therefore, physics is a culture.
+
+Public domain
+
+NASA/Bill Ingalls
+
+Public domain
+
+This culture has adopted a consensus view of its own history and development according to which there is a major division of physics into classical and modern. Classical physics had precursors as far back as Archimedes. Its first powerful, compendious theories were consolidated in the 17th century work of Newton, whom Neil deGrasse Tyson calls “The smartest person ever to walk the face of this earth." (The quote continues: "The man was connected to the Universe in spooky ways. He discovered the laws of motion, the laws of gravity, the laws of optics. Then he turned 26.")
+
+Classical physics advanced rapidly over the next couple of hundred years, acquiring conservation laws, thermodynamics, and the various laws of electromagnetism, eventually bound together as a coherent theory by Maxwell in the 1860s. Of course it wasn’t called “classical physics” at the time—"Natural Philosophy" at first, then plain physics.
+
+What eventually became modern physics had its first stirrings when Maxwell’s equations got a careful examination. The period had its real beginning in 1905, with Einstein’s miraculous papers on special relativity and quantum mechanics. Special and general relativity (the modern theory of gravity) and quantum theory, accompanied by the surviving notions from classical physics, remain the foundations of modern physical theory and all of its specialties, from astrophysics to superconductivity.
+
+As mentioned above, classical physics retains considerable utility as an excellent approximation in most situations of practical interest. Neither relativity nor quantum theory is required to build bridges or design cellphone antennas. While this provides a good reason to teach the subject to engineers, it doesn’t explain why the classical versions of physical science continue to excite the imaginations of physicists, or why they are still capable of generating controversy and debate.
+
+A survey of the current issues of physics research journals leaves no doubt about the vibrant status of classical physics. There are entire top flight journals devoted almost solely to classical subjects: Fluid Mechanics, Physics of Fluids, Archive for Rational Mechanics and Analysis, Physics of Plasmas, etc. Not to mention, there's a proliferation of more specialized journals that also concentrate on classical subjects.
+
+Physical Review Letters is the most prestigious venue for publication of cutting-edge physics research, at least in the US. Articles are required to possess timely importance that advance the state of the art, and the topic must be important enough to be of general interest to physicists. Narrowly focused papers that would only be read by specialists are not accepted.
+
+We took a census of the four most recent issues of PRL, which publishes weekly. The 207 articles in that sample have been sorted into the categories listed below, based on the titles and abstracts of the articles:
+
+Out of the 207 total papers, 71 percent treat subjects that exist within the frameworks of either quantum mechanics or relativity, meaning they are part of modern physics. The other 29 percent make no use of these modern developments; they are part of classical physics.
+
+The categories used in the table were a natural fit for the particular journal issues surveyed, and a different set of papers from another month of PRL would probably lead to a somewhat different categorization. For example, although it is possible to have a paper in relativistic fluid dynamics, all of the fluid dynamics papers in this set happened to be classical; therefore the fluids category could be placed under the classical heading. Likewise, a biophysics paper that treated the quantum physics of photosynthesis would have to go under modern physics, but all the biophysics papers in this set happened to be classical. Someone else, it must be acknowledged, would be likely to categorize a few of these papers slightly differently. But the general conclusion, that roughly a third of current, state-of-the-art physics research is in fact some form of classical physics, would survive.
+
+Ultimately, physicists pursue problems that are interesting, beautiful, puzzling, and seem, in some way hard to define, important. They seek out questions that get at the crux of how the universe works. So aside from its immense practical utility, classical physics survives as a major part of real physics because it still presents problems that tug at all the urges of a pure scientist. There are some of us who are irresistibly drawn to the hypnotic intricacies of swirling liquids, who are inspired by the challenge of taming a turbulent plasma with a succinct equation, or who burn to understand how dragonflies fly so well.
+
+We plow these fields with the best tools available, with the full knowledge that they are incomplete, and in some senses faulty models of nature, because they are nevertheless the appropriate levels of description. Well crafted tools are a pleasure to wield. We do not, however, tolerate the occasional misguided complaint that classical physics is not “fundamental,” especially if the complainer seeks to reserve that elusive quality to whatever happens to be at the vanguard of physics at the moment.

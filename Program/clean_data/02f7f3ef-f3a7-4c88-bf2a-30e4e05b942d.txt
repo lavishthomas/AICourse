@@ -1,0 +1,15 @@
+Instagram is blaming a bug in its API for the partial breach of verified users' accounts.
+
+All verified users have been notified that some of their profile data – email address and phone number – could have been viewed by one or more attackers.
+
+The Facebook-owned organisation isn't explaining any details of the API flaw, which it says has been patched. It's not clear, for example, whether the API only leaked verified members' details, or that attackers only dug into verified accounts because they're more likely to be celebrities.
+
+The notice to users says the malicious activity “was targeted at high-profile users,” and added extra vigilance, particularly if anyone encountered “unrecognised incoming calls, texts, and e-mails”.
+
+As entertainment industry bible Variety has reported, someone recently hijacked actor Selena Gomez's account to post Justin Beiber nudes.
+
+While it's feasible that Gomez was tricked into giving her credentials to an attacker who'd obtained her e-mail or phone number through the API bug, there's nowhere near enough information to definitively link the two events.
+
+The New York Daily News says Instagram confirmed to it that only one attacker had tried to exploit the bug.
+
+The Register notes that the API lets developers see profile information, which is why Instagram and Facebook both had to change their terms of service in March to prevent developers mining data for surveillance purposes. ®

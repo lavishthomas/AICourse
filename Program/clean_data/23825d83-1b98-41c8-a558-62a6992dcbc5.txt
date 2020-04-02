@@ -1,0 +1,29 @@
+Have you ever used an app or website and wondered if you could create something like that yourself? If you learn how to program, you can! In fact, you can benefit from learning the basics of programming even if you don’t develop fully-fledged software. In this post I’ll go through some questions and answers to help you get started with programming.
+
+Why Should You Learn Programming?
+
+Learning programming is a good idea, since you can use the knowledge in many different areas. You can obviously use it to create apps and websites, but you can also use it to accomplish many other things. For example, you can write macros to automate tasks in Microsoft Office, or you can write a script to calculate problems in business. To learn programming, you will need some patience, attention to detail, and the ability to solve problems. Since programming can be hard, it will help if you have a specific project that you want to build in the end. Working towards a goal will help you overcome the difficulties you encounter. In addition, if you know what you want to build, you’ll be able to decide which language you should learn.
+
+Which Language Should You Learn?
+
+All the popular languages share the same fundamentals, so you shouldn’t worry too much about which language you learn first. It still makes sense to learn the language that fits your goals best, so check out this flowchart for some quick help:
+
+The “Compiled Languages” (on the right) have more rules to help prevent errors. People normally use special software (known as an IDE) to program in them, which has features to help with coding. These languages are popular in big companies and large websites. Microsoft created C# and provides tools for coding in it, while Java is used in Android apps and is taught in many colleges.
+
+Advertising
+
+Advertising
+
+The “Interpreted Languages” have fewer rules and you can write short programs more quickly with them. Programmers often use a lightweight text editor to code in these languages. These languages are used by many startups and websites. PHP was very popular a decade ago, and there are still many scripts and sites that are written in PHP. However, many people consider PHP to be messy and inconsistent, so you should probably pick a different language if you’re creating a site from scratch. Ruby and Python are similar languages. Ruby is used in the very popular website framework Ruby on Rails, while Python is used both on the web and in other software. Javascript (which isn’t related to Java) is the only language that can run within a web browser, so all visual effects on the web are written in it. Recently, it has also begun being used to create entire websites. Whatever language you pick, the important thing is to get started learning it!
+
+What Resources Can You Use to Learn Programming?
+
+The best way to get started with programming is to use an online interactive tutorial. Codecademy and Learnstreet are popular sites for learning the scripted languages, and you can learn Java on Learneroo, a site that I recently created. It is also a good idea to get a book or reference so you can learn more when you’re done with the beginner tutorials. If you like video courses, check out 20 places to learn online, which lists sites that offer both general and computer science courses.
+
+Advertising
+
+Advertising
+
+You’ll then be ready to create your own project without a text that tells you exactly what to do. This means you need to know where to look for help. To find out more about a programming language, you should first check the official documentation for that language. When you run into difficulties, a well-placed Google search can provide you with information on most issues. If you cannot find your exact issue online, you can ask it on StackOverflow, the programmer Q&A site. If you ask a specific question clearly and show that you’ve done your research, random people online will often quickly help you out for free! If you need more help, you can consider going to programming meetups, finding a mentor, or going to a full-fledged programming bootcamp.
+
+Good luck learning to program!

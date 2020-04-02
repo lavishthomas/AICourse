@@ -1,0 +1,39 @@
+It's a bad time to be a physicist.
+
+At least, that’s what Oscar Boykin says. He majored in physics at the Georgia Institute of Technology and in 2002 he finished a physics PhD at UCLA. But four years ago, physicists at the Large Hadron Collider in Switzerland discovered the Higgs boson, a subatomic particle first predicted in the 1960s. As Boykin points out, everyone expected it. The Higgs didn't mess with the theoretical models of the universe. It didn't change anything or give physcists anything new to strive for. "Physicists are excited when there's something wrong with physics, and we're in a situation now where there's not a lot that's wrong," he says. "It's a disheartening place for a physicist to be in." Plus, the pay isn't too good.
+
+Boykin is no longer a physicist. He's a Silicon Valley software engineer. And it's a very good time to be one of those.
+
+Boykin works at Stripe, a $9-billion startup that helps businesses accept payments online. He helps build and operate software systems that collect data from across the company's services, and he works to predict the future of these services, including when, where, and how the fraudulent transactions will come. As a physicist, he's ideally suited to the job, which requires both extreme math and abstract thought. And yet, unlike a physicist, he's working in a field that now offers endless challenges and possibilities. Plus, the pay is great.
+
+If physics and software engineering were subatomic particles, Silicon Valley has turned into the place where the fields collide. Boykin works with three other physicists at Stripe. In December, when General Electric acquired the machine learning startup Wise.io, CEO Jeff Immelt boasted that he had just grabbed a company packed with physicists , most notably UC Berkeley astrophysicist Joshua Bloom. The open source machine learning software H20, used by 70,000 data scientists across the globe, was built with help from Swiss physicist Arno Candel, who once worked at the SLAC National Accelerator Laboratory. Vijay Narayanan, Microsoft's head of data science, is an astrophysicist, and several other physicists work under him.
+
+It’s not on purpose, exactly. "We didn't go into the physics kindergarten and steal a basket of children," says Stripe president and co-founder John Collison. "It just happened." And it's happening across Silicon Valley. Because structurally and technologically, the things that just about every internet company needs to do are more and more suited to the skill set of a physicist.
+
+The Naturals
+
+Of course, physicists have played a role in computer technology since its earliest days, just as they've played a role in so many other fields. John Mauchly, who helped design the ENIAC, one of the earliest computers, was a physicist. Dennis Ritchie, the father of the C programming language , was too .
+
+But this is a particularly ripe moment for physicists in computer tech, thanks to the rise of machine learning, where machines learn tasks by analyzing vast amounts of data. This new wave of data science and AI is something that suits physicists right down to their socks.
+
+Among other things, the industry has embraced neural networks, software that aims to mimic the structure of the human brain. But these neural networks are really just math on an enormous scale, mostly linear algebra and probability theory. Computer scientists aren't necessarily trained in these areas, but physicists are. "The only thing that is really new to physicists is learning how to optimize these neural networks, training them, but that's relatively straightforward," Boykin says. "One technique is called ‘Newton's method.’ Newton the physicist, not some other Newton."
+
+Chris Bishop, who heads Microsoft's Cambridge research lab, felt the same way thirty years ago, when deep neural networks first started to show promise in the academic world. That's what led him from physics into machine learning. "There is something very natural about a physicist going into machine learning," he says, "more natural than a computer scientist."
+
+The Challenge Space
+
+Ten years ago, Boykin says, so many of his old physics pals were moving into the financial world. That same flavor of mathematics was also enormously useful on Wall Street as a way of predicting where the markets would go. One key method was The Black-Scholes Equation, a means of determining the value of a financial derivative. But Black-Scholes helped foment the great crash of 2008 , and now, Boykin and others physicists say that far more of their colleagues are moving into data science and other kinds of computer tech.
+
+Earlier this decade, physicists arrived at the top tech companies to help build so-called Big Data software, systems that juggle data across hundreds or even thousands of machines. At Twitter, Boykin helped build one called Summingbird , and three guys who met in the physics department at MIT built similar software at a startup called Cloudant . Physicists know how to handle data—at MIT, Cloudant's founders handled massive datasets from the the Large Hadron Collider—and building these enormously complex systems requires its own breed of abstract thought. Then, once these systems were built, so many physicists have helped use the data they harnessed.
+
+In the early days of Google, one of the key people building the massively distributed systems in the company’s engine room was Yonatan Zunger, who has a PhD in string theory from Stanford. And when Kevin Scott joined the Google's ads team, charged with grabbing data from across Google and using it to predict which ads were most likely to get the most clicks, he hired countless physicists. Unlike many computer scientists, they were suited to the very experimental nature of machine learning. "It was almost like lab science," says Scott, now chief technology officer at LinkedIn.
+
+Now that Big Data software is commonplace—Stripe uses an open source version of what Boykin helped build at Twitter—it’s helping machine learning models drive predictions inside so many other companies. That provides physicists with any even wider avenue into the Silicon Valley. At Stripe, Boykin works alongside Roban Kramer (physics PhD, Columbia), Christian Anderson (physics master's, Harvard), and team leader Kelley Rivoire (physics bachelor's, MIT). They come because they're suited to the work. And they come because of the money. As Boykin says: "The salaries in tech are arguably absurd." But they also come because there are so many hard problems to solve.
+
+Anderson left Harvard before getting his PhD because he came to view the field much as Boykin does—as an intellectual pursuit of diminishing returns. But that's not the case on the internet. "Implicit in 'the internet' is the scope, the coverage of it," Anderson says. "It makes opportunities much greater, but it also enriches the challenge space, the problem space. There is intellectual upside."
+
+The Future
+
+Today, physicists are moving into Silicon Valley companies. But in the years come, a similar phenomenon will spread much further. Machine learning will change not only how the world analyzes data but how it builds software . Neural networks are already reinventing image recognition, speech recognition, machine translation, and the very nature of software interfaces. As Microsoft’s Chris Bishop says, software engineering is moving from handcrafted code based on logic to machine learning models based on probability and uncertainty. Companies like Google and Facebook are beginning to retrain their engineers in this new way of thinking. Eventually, the rest of the computing world will follow suit.
+
+In other words, all the physicists pushing into the realm of the Silicon Valley engineer is a sign of a much bigger change to come. Soon, all the Silicon Valley engineers will push into the realm of the physicist.

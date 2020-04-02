@@ -1,0 +1,73 @@
+But what was their purpose? In 2007, researchers at Danisco, a company that supplies bacterial cultures used in making cheese and yogurt, confirmed hypotheses that Crispr protects bacteria from viruses.
+
+It is part of an adaptive immune system — one that remembers a pathogen so it is ready the next time that same invader appears. The human adaptive immune system is why people get measles only once and why vaccines work. But it was not imagined that single-cell organisms like bacteria had such systems.
+
+Here is how it works. The repeated DNA sequences in the bacterial genome are separated from one another by other sequences. These “spacers” are excerpts from the sequences of viruses that have attacked the bacterium or its ancestors. They are like genetic mug shots, telling the bacterium which bad guys to watch for. The Crispr defense system will slice up any DNA with that same sequence, so if the same virus invades again, it will be destroyed.
+
+If a previously unseen virus attacks, a new spacer, a new mug shot, is made and put at the end of the chain.
+
+That means the Crispr region “is like a tape recording of exposure to prior invaders,” said Erik J. Sontheimer, a Northwestern University professor who helped unravel the mechanism.
+
+And it provides a way to tell two bacterial strains apart, because even two strains from the same species are likely to have encountered different viruses. This is already being used to identify sources of food-poisoning outbreaks.
+
+Cheese and yogurt companies can examine Crispr regions to see if their bacterial cultures are immunized against particular viruses that could slow production.
+
+More Reporting on Gene Editing
+
+“Now you can extend the shelf life of that great strain,” said Rodolphe Barrangou of North Carolina State University, who previously worked at Danisco and was the lead author on the 2007 paper. “That has changed the game quite a bit for the dairy industry.”
+
+Advertisement Continue reading the main story
+
+The real frenzy, however, started in 2012, when a team led by Emmanuelle Charpentier, then at Umea University in Sweden, and Jennifer A. Doudna of the University of California, Berkeley, demonstrated a way for researchers to use Crispr to slice up any DNA sequence they choose.
+
+Scientists must synthesize a strand of DNA’s chemical cousin RNA, part of which matches the DNA sequence to be sliced. This “guide RNA” is attached to a bacterial enzyme called Cas9. When the guide RNA binds to the corresponding DNA sequence, Cas9 cuts the DNA at that site.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+The cell tries to repair the cut but often does so imperfectly, which is enough to disable, or knock out a gene. To change a gene, scientists usually insert a patch — a bit of DNA similar to where the break occurred but containing the desired change. That patch is sometimes incorporated into the DNA when the cell repairs the break.
+
+Would this work in organisms besides bacteria? “I knew it was like firing a starting gun in a race,” Dr. Doudna said, but sure enough, by early 2013 scientists had shown it would work in human cells, and those of many other animals and plants, even though these species are not known to have Crispr-based immune systems.
+
+“I don’t know any species of plant or animal where it has been tried and it failed,” said George Church, a professor of genetics at Harvard Medical School. “It allows you to do genome engineering on organisms that are very hard to do otherwise.”
+
+In the past, making an animal with multiple genetic changes usually required creating separate animals with single changes and then crossbreeding them to produce offspring with multiple changes. With Crispr, multiple genetic changes can be made in one step, by putting multiple guide RNAs into the cell.
+
+Science Times The Fetching Trilobite, Rewriteable DNA, Neil deGrasse Tyson on the ‘Cosmos’ We’re still learning new and fascinating things about a class of fossils, long gone but not short on character; a new technique allows a kind of chromosomal editing; the astrophysicist and head of the Hayden Planetarium talks about hosting the new-old series “Cosmos.” Audio
+
+“It just completely changes the landscape,” Dr. Doudna said. Berkeley scientists used to farm out that work to specialized laboratories or companies. Now, she said, “people are able to make mice in their own labs.”
+
+There are other techniques that can do what Crispr does, though Crispr is “the easiest by far,” Dr. Church said.
+
+Advertisement Continue reading the main story
+
+RNA interference, for instance, can silence particular genes. It is similar to Crispr in that it also uses RNA that matches the gene to be silenced.
+
+But RNA interference works by inhibiting messenger RNA, which translates a gene into a protein. That usually provides only a partial and temporary disabling of the gene, because the cell can make new messenger RNA. Crispr disables the gene itself, potentially a more complete and permanent inactivation.
+
+There are also already ways to change genes, namely zinc-finger nucleases and transcription activator-like effector nucleases, or Talens. The biotechnology company Sangamo BioSciences is already conducting a clinical trial of a treatment for H.I.V. that uses zinc fingers to alter patients’ immune cells to make them resistant to the virus.
+
+Both techniques use proteins to guide where the DNA is cut; it is more difficult to develop a protein that binds to a specific DNA sequence than it is to make a piece of RNA with the matching sequence.
+
+With zinc fingers “it might take you months or years to get something to work well for one gene,” said Dr. Gersbach at Duke. With Crispr, “it takes days to weeks.”
+
+Photo
+
+Quick is not always accurate, however. While Crispr is generally precise, it can have off-target effects, cutting DNA at places where the sequence is similar but not identical to that of the guide RNA.
+
+Crispr “may not yet have adequate specificity to completely displace” the older techniques, Dana Carroll, a biochemistry professor at the University of Utah, wrote in a commentary in Nature Biotechnology in September.
+
+Still, scientists are already figuring out how to make Crispr more specific.
+
+Another obstacle for treating diseases will be the delivery of the genetic changes to all the cells in the body that need it.
+
+Advertisement Continue reading the main story
+
+For some diseases, it may be possible to extract blood stem cells from the body, alter them using Crispr, and put them back. If that is not possible, the DNA needed to make Cas9, the guide RNA and the corrective patch might be put into a disabled virus. This technique is used for gene therapy, but does not always work well.
+
+It is likely to be a few years before Crispr is tested in people. For now, there is a lot more to learn about it.
+
+Chase L. Beisel at North Carolina State reported that Crispr could be used to kill one strain of bacteria in a mixture of strains, by targeting a sequence unique to that strain. That might one day lead to antibiotics that can kill the bad bugs without also killing the good ones.
+
+David S. Weiss of Emory University found that some bacteria use Cas9 to silence one of their own genes, rather than that of a virus, to help them evade detection by their host’s immune system.
+
+The pace of new discoveries and applications is dizzying. “All of this has basically happened in a year,” Dr. Weiss said. “It’s incredible.”

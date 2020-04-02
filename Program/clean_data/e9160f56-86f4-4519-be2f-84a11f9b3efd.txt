@@ -1,0 +1,49 @@
+Programming is changing. The PC era is coming to an end, and software developers now work with an explosion of devices, job functions, and problems that need different approaches from the single machine era. In our age of exploding data, the ability to do some kind of programming is increasingly important to every job, and programming is no longer the sole preserve of an engineering priesthood.
+
+Over the course of the next few months, I’m looking to chart the ways in which programming is evolving, and the factors that are affecting it. This article captures a few of those forces, and I welcome comment and collaboration on how you think things are changing.
+
+Where am I headed with this line of inquiry? The goal is to be able to describe the essential skills that programmers need for the coming decade, the places they should focus their learning, and differentiating between short term trends and long term shifts.
+
+Distributed computing
+
+The “normal” environment in which coding happens today is quite different from that of a decade ago. Given targets such as web applications, mobile and big data, the notion that a program only involves a single computer has disappeared. For the programmer, that means we must grapple with problems such as concurrency, locking, asynchronicity, network communication and protocols. Even the most basic of web programming will lead you to familiarity with concepts such as caching.
+
+Because of these pressures we see phenomena at different levels in the computing stack. At a high level, cloud computing seeks to mitigate the hassle of maintaining multiple machines and their network; at the application development level, frameworks try to embody familiar patterns and abstract away tiresome detail; and at the language level, concurrency and networking computing is made simpler by the features offered by languages such as Go or Scala.
+
+Device computing
+
+Look around your home. There are processors and programming in most every electronic device you have, which certainly puts your computer in a small minority. Not everybody will be engaged in programming for embedded devices, but many developers will certainly have to learn what it is to develop for a mobile phone. And in the not so distant future cars, drones, glasses and smart dust.
+
+Even within more traditional computing, the rise of the GPU array as an advanced data crunching coprocessor needs non-traditional programming. Different form factors require different programming approaches. Hobbyists and prototypers alike are bringing hardware to life with Arduino and Processing.
+
+Languages and programmers must respond to issues previously the domain of specialists, such as low memory and CPU speeds, power consumption, radio communication, hard and soft real-time requirements.
+
+Data computing
+
+The prevailing form of programming today, object orientation, is generally hostile to data. Its focus on behavior wraps up data in access methods, and wraps up collections of data even more tightly. In the mathematical world, data just is, it has no behavior, yet the rigors of C++ or Java require developers to worry about how it is accessed.
+
+As data and its analysis grow in importance, there’s a corresponding rise in use and popularity of languages that treat data as a first class citizen. Obviously, statistical languages such as R are rising on this tide, but within general purpose programming there’s a bias to languages such as Python or Clojure, which make data easier to manipulate.
+
+Democratized computing
+
+More people than ever are programming. These smart, uncounted, accidental developers wrangle magic in Excel macros, craft JavaScript and glue stuff together with web services such as IFTTT or Zapier. Quite reasonably, they know little about software development, and aren’t interested in it either.
+
+However, many of these casual programmers will find it easy to generate a mess and get into trouble, all while only really wanting to get things done. At best, this is annoying, at worst, a liability for employers. What’s more, it’s not the programmer’s fault.
+
+How can providers of programmable environments serve the “accidental developer” better? Do we need new languages, better frameworks in existing languages? Is it an educational concern? Is it even a problem at all, or just life?
+
+There are hints towards a different future from Bret Victor’s work, and projects such as Scratch and Light Table.
+
+Dangerous computing
+
+Finally, it’s worth examining the house of cards we’re building with our current approach to software development. The problem is simple: the brain can only fit so much inside it. To be a programmer today, you need to be able to execute the program you’re writing inside your head.
+
+When the problem space gets too big, our reaction is to write a framework that makes the problem space smaller again. And so we have operating systems that run on top of CPUs. Libraries and user interfaces that run on top of operating systems. Application frameworks that run on top of those libraries. Web browsers that run on top of those. JavaScript that runs on top of browsers. JavaScript libraries that run on top of JavaScript. And we know it won’t stop there.
+
+We’re like ambitious waiters stacking one teacup on top of the other. Right now, it looks pretty wobbly. We’re making faster and more powerful CPUs, but getting the same kind of subjective application performance that we did a decade ago. Security holes emerge in frameworks that put large numbers of systems at risk.
+
+Why should we use computers like this, simultaneously building a house of cards and confining computing power to that which the programmer can fit in their head? Is there a way to hit reset on this view of software?
+
+Conclusion
+
+I’ll be considering these trends and more as I look into the future of programming. If you have experience or viewpoints, or are working on research to do things radically differently, I’d love to hear from you. Please leave a comment on this article, or get in touch.

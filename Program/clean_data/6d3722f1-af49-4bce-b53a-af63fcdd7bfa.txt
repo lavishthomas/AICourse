@@ -1,0 +1,161 @@
+Mechanical keyboards are all the rage among gamers and writers. Most people who try them love the increased response and tactility of mechanical switches… and some people really, really like them. Communities like Reddit’s /r/MechanicalKeyboards board and the GeekHack forum are great places to really dig into the myriad options and technologies available to enthusiasts—but they’re not very easy to understand for beginners.
+
+If you’re confused by all the keyboard jargon filling up those communities, we’re here to help. Here’s a near-exhaustive list of all the terms you’re likely to see, and what they mean. Bookmark this page and come back whenever you see something you’r not familiar with. You’ll be an expert in no time.
+
+Terms Related to Key Switches
+
+The biggest difference between a mechanical keyboard and its cheap, traditional counterparts is the mechanical switch on every key. But there are many types of switches, and you’ll see a lot of terms thrown around to describe them.
+
+Actuation force: the amount of pressure needed to depress a key and register a keypress. Different key switch designs allow for different levels of actuation force, measured in grams. Heavier switches take more force to press down.
+
+Alps switch: an alternative switch style that dates back to the 1980s. Like the more popular Cherry MX switches, many different actuation and tactility options are available in Alps style, and many “Alps-like” and “Alps-clone” switches have been made. Alps uses a rectangular stem incompatible with other keycaps.
+
+Bottom out: the act of pressing a key to its full depth. Mechanical keys actuate before bottoming out, meaning it’s possible to type faster and with less force (though some heavy typists still do so). Rubber dome keys usually require a full bottom out to activate.
+
+Buckling spring switch: a relatively simple and old-fashioned spring switch first designed by IBM, and made famous by the Model M keyboard. Buckling spring switches inspired modern key switch designs, but are not actually used on most keyboards, except the legacy models still sold by Unicomp.
+
+Cherry clone: a switch designed to match the Cherry MX style, but manufactured by another company. Cherry-style switch manufacturers include Gateron, Kailh, and Zeal PC (Zealio).
+
+Cherry MX switch: the de facto standard key switch type for modern mechanical keyboards, developed by German company Cherry in the 1980s. Cherry MX switches are available in different “colors” which correspond to different switch features and resistances. Many companies have copied the Cherry switch design and use the same cross-shaped stem to make keyboards and keycaps interchangeable.
+
+Clicky: the audible “click” sound made from a switch. Not to be confused with tactile switches; some switches are both “clicky” and “tactile,” but not all tactile switches are clicky. Switch designs without this extra audible feedback are described as “non-clicky.”
+
+Electrostatic capacitive switch: an alternative “semi-mechanical” switch that uses a rubber or plastic dome over a spiral-shaped spring that rests directly on the keyboard’s circuit board. Topre is the most common electrostatic switch, and similar designs are often called “Topre clones” and “Topre-like.” Electrostatic capacitive switches produce a distinctive “thonk” feeling when pressed, and are available in different spring strengths and with different key stems.
+
+LED: light emitting diode. Most modern switch designs are offered with optional LEDs built in, allowing for simple backlighting or more elaborate multicolor “RGB” lighting.
+
+Linear: a key switch design with a smooth motion from top to bottom and actuation, with no “click” or tactile feedback. Linear switches are generally preferred by gamers thanks to their superior speed for multiple rapid presses.
+
+Tactile: a key switch design with a distinct “bump” in the actuation, as opposed to the smooth motion of linear. Tactile switches are generally preferred by typists for their actuation feedback.
+
+Topre: A Japanese corporation famous for their titular electrostatic capacitive switches. Topre switches are rarer than Cherry-style switches and are used on the company’s own Realforce brand keyboards as well as the Happy Hacking Keyboard family. Authentic Topre switches use a circular stem that is not compatible with Cherry-style keycaps, though adapters can be installed.
+
+Key switch colors: similar key switches are offered in different “colors,” with each color corresponding to different aspects of the switch design itself: clicky versus non-clicky, tactile versus linear, and different actuation forces. Key manufacturers use different color codes for their various switches, but most roughly follow the Cherry style of color coordination:
+
+Black: linear switch with no click and a strong 60g activation.
+
+Blue: tactile switch with “clicky” audio feedback and a strong 50g actuation. Favored by typists.
+
+Brown: tactile switch with no click and medium 45g actuation. Very common as a lower-volume alternative to blue switches.
+
+Green: tactile switch with “clicky” audio feedback and a very strong 70g activation. For extremely heavy typists.
+
+Clear: tactile switch with no click and a very strong 65g actuation.
+
+Red: linear switch with no click and a medium 45g actuation. Very popular for “gaming” mechanical keyboards.
+
+Romer-G: A Logitech key and stem design with a fast actuation. The square stem is incompatible with most keycaps.
+
+Rubber dome: a standard non-mechanical keyboard design that uses a sheet of rubber to cover electrical switches, which are then activated when the key is depressed. Most inexpensive keyboards use this switch design.
+
+Scissor switch: a low-profile switch design often used in laptop keyboards that uses plastic or metal hinges to support the key. Scissor switches are technically mechanical in operation, but usually aren’t implied when talking about mechanical keyboards, as they lack a spring action and don’t support custom keycaps.
+
+Spring: the metal spring inside each mechanical key that offers resistance, depressing as it’s pressed and returning the key up as it’s released. Stronger springs require more actuation force, resulting in “harder” more forceful typing.
+
+Stem: the plastic part that connects the switch directly to the keycap. The type of stem determines what type of keycaps can be used on the keyboard. Cherry MX-compatible stems, with a cross-shaped stem, are the most common.
+
+Terms Related to Keycaps
+
+Artisan keycap: a customized, specially-made single keycap. Many artisan keycaps are created with elaborate casts and custom-painted, designed more for aesthetic appeal than functionality. A robust aftermarket economy can make rare or sought-after artisan keys incredibly expensive.
+
+ABS plastic: Acrylonitrile butadiene styrine. Most inexpensive keycaps are made from this material. It’s thinner and lighter than other plastics, with a smoother texture.
+
+Cherry profile: a keycap design similar in shape and size to OEM profile, but slightly shorter.
+
+DSA profile: Similar to SA profile, but approximately half the height (and shorter than OEM profile). Uses a spherical dip in the top.
+
+G20 profile: A very low, flat profile with curved sides, manufactured and sold by Pimp My Keyboard.
+
+Key profile: the shape of the keycap that sits above the stem. This is the portion of the keycap that you directly press with your finger.
+
+Keycap set: a full or partial set of replacement keycaps, offered in a variety of colors, profiles, and printed legends.
+
+Legends: the printed or otherwise applied text on a keycap.
+
+Novelty keycaps: one or more caps printed with a theme, often relating to pop culture or video games. Usually easier to find and less expensive than artisan keycaps.
+
+OEM profile: The standard keycap profile for most sets and keyboards. Has a flat top with a slight cylindrical bow and slant to accommodate the curve of the fingertip. OEM and similar keycaps use slightly different heights and angles for different keyboard rows.
+
+PBT plastic: Polybutylene terephthalate. A more expensive, durable plastic used for premium keyboards and keycap sets. Has a rough, grainy texture preferred by many enthusiasts.
+
+POM plastic: Polyoxymethylene. A more rare type of plastic with high density like PBT, but a smoother finish like ABS.
+
+SA profile: Very tall keycaps with a spherical dip in the top.
+
+Terms Related to Keycap Legends and Printing
+
+Backlit keycaps: Keycaps that allow light from an LED to pass through the cap to illuminate the legend. Backlit caps can be manufactured by painting over translucent plastic and laser-cutting the legends, or by using opaque plastic over translucent plastic with a doubleshot moulding process (see below).
+
+Blank: keycaps with no printed or moulded legends. Favored by enthusiasts, but not recommended for beginners.
+
+Doubleshot moulding: Keycaps with legends physically cut out from the upper layer of plastic with a contrasting lower layer filling in the gaps. Doubleshot keycaps are more expensive than printed options, but the legends never wear out, since they’re separate physical pieces rather than any sort of printing. Also known as dual-injection or insert moulding.
+
+Dye-sublimation: a heat treatment process that permanently dyes legends into the plastic of a keycap. Dye-sublimated keys do not wear off, but have limited color options.
+
+Front printed: keycaps with any kind of printing applied to the front side of the cap (facing the user) instead of the top. This method gives keyboards a semi-blank look and also helps prevent wear on the legends.
+
+Laser printing: keycaps with legends cut via laser then laser-printed with infill. This design is less susceptible to wear than standard pad printing.
+
+Pad printing: keycaps with legends printed using a standard pad process. Legends are very susceptible to wear.
+
+Terms Related to Other Keyboard Parts
+
+Case: the plastic or metal enclosure that surrounds the PCB, plate, and switches. Some popular mechanical keyboard designs, like the Poker or Happy Hacking Keyboard, have cases that can be replaced or upgraded with aftermarket parts.
+
+Feet: rubber or plastic parts used to elevate the case above the desk. Some cases have extendable feet that allow for an angled typing position.
+
+Insert: small plastic parts with integrated stems and clips that connect to a stabilizer.
+
+Keycap: the plastic cover connected to each switch. Available in various shapes and styles, and easily replaced by the user.
+
+PCB: printed circuit board, the part that registers key presses and sends electronic signals across the cable to your computer.
+
+Plate: a metal or plastic part that sits on top of the PCB to protect and reinforce it. Key switches can be mounted either on the plate or directly to the PCB.
+
+Stabilizer: extra stems and/or bars added to larger keys, like the space bar and Enter key, for linear stability. Stabilizers can be mounted above the plate and user-accessible (“Costar style”), or beneath the plate for easier keycap removal and replacement (“Cherry style”), among other, rarer implementations.
+
+Terms Related to Keyboard Layouts
+
+40% layout: An extremely small layout that removes the number row (and sometimes more) from the 60% format. 40% keyboards are rare and usually hand-made by enthusiasts, requiring many modifier combinations for standard typing. Popular designs include the Minivan and Vortex Core.
+
+60% layout: a compact design that removes the top function row (including the Escape key), the 10-key number pad, and the arrow keys and the columns above. The 60% layout is very popular among mechanical keyboard enthusiasts, but requires key modifier combinations for some common keys like the function row and delete. 60% is also known as 61-key (ANSI) or 62-key (ISO).
+
+75% layout: an expanded 60% keyboard that’s smaller than a tenkeyless design, sometimes including the function row, arrow keys, page up and page down, or any combination thereof. “75% layout” is a loose definition with no standard, and many varieties exist between manufactured and custom-made designs.
+
+ANSI: The standard key format for the United States. The majority of keyboards, even those sold in countries where English is not the primary language, use ANSI. ANSI stands for “American National Standard Institute,” and is not the same thing as QWERTY.
+
+Bottom row: the lowest row on the keyboard, including the space bar. Some manufacturers, like Corsair, use non-standard sizes for the space bar, modifiers, and Windows/super key, making custom keycap replacement difficult. The standard bottom layout uses three 1.25-size keys on the left, a 6.25-size space bar, and four 1.25-size keys on the right.
+
+ErgoDox: A split keyboard design with a custom ergonomic layout. The design is open source and a popular option for do-it-yourself builds, but assembly kits and full pre-assembled keyboards are also available for purchase.
+
+Full size layout: the standard full-sized keyboard design, including a full function key row and 10-key number pad on the left. Also known as 104-key (ANSI) or 105-key (ISO).
+
+Happy Hacking Keyboard: a modified 60% design with a custom layout based on older Unix systems. The “HHKB” layout is a favorite among Linux users and programmers. The HHKB is a commercial product from Japan available in various models using Topre-brand electrostatic capacitive switches.
+
+ISO: an alternative key format recognized by the International Organization for Standardization. ISO-format keyboards have a distinctive double-row Enter key and a smaller left Shift key. ISO keyboards are popular in the United Kingdom and other European countries.
+
+Ortholinear: a keyboard with straight up-and-down key columns and rows, instead of the more ergonomic staggered layout found on most keyboards. Ortholinear designs are usually very small and often custom-designed and assembled. The Planck keyboard is a popular option.
+
+QWERTY: the standard key layout for most English keyboards. Alternatives, like Dvorak, are rare. Non-English keyboards may use the QWERTY layout with other characters superimposed, or use an alternative layout, like AZERTY (French) or QWERTZ (German).
+
+Tenkeyless layout: a more compact design that cuts off the 10-key number pad on the right side of a full-sized keyboard, but leaves the arrow keys and above intact. Popular with gamers, this design is often abbreviated as “TKL.” Also known as 87-key (ANSI) or 88-key (ISO).
+
+Accessories and Other Terms
+
+Backlighting: LED lights mounted to individual switches. Backlighting can be used for functional purposes, to light up key legends, or as decoration.
+
+DIP switches: manual dual-inline package electrical switches that can modify the layout of a keyboard without any extra software or programming. Not to be confused with key switches, DIP switches are almost always found on the bottom of a keyboard so as not to be accidentally tripped.
+
+Ghosting: keys failing to register when pressed simultaneously. See also “key rollover” below.
+
+Key rollover: the ability for a keyboard to handle multiple simultaneous key presses and correctly input them in sequence for the computer. The more rollover keys a keyboard can handle, the faster the user can type without errors.
+
+Key tester: A frame with switches from different manufacturers mounted in place for testing the differences in feel. A key tester is not a keyboard, and aside from the key switched themselves, has no electronic components.
+
+Keycap puller or keycap tool: a small tool with looped tongs or clips to make removing keycaps easier. These tools are also less likely to break keycaps and stems thanks to pulling directly upward on the keycap instead of to the side.
+
+N-key rollover: sometimes abbreviated “NKRO.” This means a keyboard can input every single key simultaneously. The feature is highly sought by gamers.
+
+O-ring: a small plastic ring placed on the key stem to dampen sound and adjust feel. O-rings can be installed onto any Cherry-style key stem.
+
+RGB: red-green-blue. RGB refers to LED lights that can be customized to almost any color by the end user, either directly on the keyboard or with accessory software.

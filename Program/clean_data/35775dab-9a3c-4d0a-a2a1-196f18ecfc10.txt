@@ -1,0 +1,133 @@
+There’s an acronym out there: KPI. It stands for Key Performance Indicators.
+
+It’s a fancy way of saying “the most important metrics for tracking your business.”
+
+But if you research KPIs and try to figure out which metrics are the most important ones for your business, you will find HUNDREDS of these things. I regularly stumble across blog posts with headlines like “The 50 KPIs You Need to Be Tracking Right Now.”
+
+Guess what? Those posts are a complete waste of time.
+
+Here’s the deal: you need to carefully select the key metrics you will use to measure the success of your business.
+
+In fact, you should avoid tracking more than 10 at a time. Limiting yourself to a few key metrics will make it a lot easier to keep track of how your business is progressing.
+
+It’ll also be a lot easier to pull out the insights that will help your business grow. When you’re tracking dozens of metrics at once, it’s nearly impossible to focus on the most important trends and act on them. There’s just too much going on. So help yourself focus, by limiting what you track from the beginning.
+
+Now, different business models will need to track a completely different set of metrics. An ecommerce site will need metrics like average order value, while an agency might track the length of a contract.
+
+I’m definitely NOT an expert in every business model out there.
+
+But there’s one business type I’ve gotten to know very well during the time I’ve been working at KISSmetrics.
+
+KISSmetrics is a SaaS (software as a service) company. We offer our software for a monthly subscription. And today I’m going to break down the metrics we pay the most attention to while growing our own business.
+
+Even if you don’t have a SaaS business, notice how we stick to a small number of metrics that, when combined, give a deep and comprehensive view of how the business is performing. Your goal is to select the few key metrics that will do the same for your business.
+
+1. Monthly Recurring Revenue
+
+For a SaaS business, all the investment is upfront. Before you can acquire your customers, you need to have built the product and spent the money it takes to acquire those customers. Even worse, your customers don’t pay you upfront like a normal software business. You’ll be collecting monthly subscriptions at much smaller amounts. In the long run, you’ll have a steady cash flow from your monthly subscriptions. But you have to survive long enough to make it that far.
+
+We need to ensure that we’re building a business that’s sustainable.
+
+This is why we track monthly recurring revenue instead of just monthly revenue. Monthly recurring revenue is the amount of revenue you’re adding (or losing) that you expect to receive every month. It really doesn’t matter if you have a record-breaking month for revenue. The real question is “Will that revenue be here tomorrow?”
+
+You’ll need to dive into your finances to pull this number. But it’s the most important number you should be tracking if you have a SaaS business, and it will serve as your primary benchmark for progress.
+
+The major takeaway: monthly recurring revenue is the single most important metric that a SaaS business should be tracking.
+
+2. Churn
+
+How many of your customers keep coming back? Retaining customers for the long haul determines whether or not you’ll survive. And churn measures the percentage of people who leave every month.
+
+If you have a high churn (double digits) for your SaaS business, there’s something fundamentally wrong with your product. So don’t worry about growth or marketing at all. Instead, get back into your product and fix the problem. And to figure out what the problem is, start talking to your customers.
+
+You’ll need to reach out to your customers directly. Get in touch with people who have left and ask them why. Also get in touch with people who have been around the longest. What’s keeping them here? And start talking to customers who are thinking about buying. What do they need the most? It’s time to understand every last detail of your customers so you can fix your product. Getting your churn rate under control is the first critical step toward building a sustainable SaaS business.
+
+Don’t make this more complicated than it needs to be. Talk to customers one-on-one and get a better feel for their main problems. Then you’ll be able to build a product they truly love (and get control of your churn). And to stay connected to your customers over the long run, use these 5 methods for getting customer feedback.
+
+For other business types, churn will take on a different flavor. You’ll need to match your churn to a standard re-purchase cycle.
+
+For SaaS, it’s easy. Customers repurchase every month, so we build churn around that. But you might have a customer base that purchases only 2-3 times per year. In that case, you’ll want to look at annual churn rates. Out of all the new customers you acquired in 2011, what percentage of them also purchased in 2012?
+
+3. Cost Per Acquisition
+
+Marketing can get expensive. And the wrong channels can quickly DESTROY profit margins. The only way to avoid this is to track the cost per acquisition of campaigns.
+
+To start, simply add up all of your expenses for marketing and sales last month. Divide that number by the total number of customers you acquired in the same period. This will give you the average amount that you spend for each new customer. The figure isn’t nearly as detailed as we would like (averages hide all sorts of insights), but it’s a quick check on the health of your business.
+
+If you’re spending more money to acquire customers than you’ll receive, you have a problem, my friend.
+
+The next step is to get the cost per acquisition for individual marketing campaigns. Unfortunately, this gets a lot trickier. Not only do you have to pull data on how much you’ve spent (which is usually in a bunch of different places), you need to track those campaigns over the long term to see which ones actually bring you customers. For any hope of getting this to work, you really need to have customer analytics. Regular web analytics won’t show you where customers originally came from, only were they came from most recently. And when a customer makes multiple purchases over time, there’s no way to know. But customer analytics ties all that data back to the customer so that you can see which marketing brings you the most profit.
+
+4. Average Revenue Per Customer
+
+This one’s pretty straightforward. It’s the average revenue you’ve already received from your customers.
+
+Once you’ve gotten your churn rate under control and have a reliable way to acquire customers, the keys to increasing the revenue you’re receiving are up-sells and cross-sells.
+
+Take a look at the pricing page for Dropbox:
+
+An up-sell moves the customer to a more expensive version of your product. When Dropbox convinces me to move from a 100 GB plan at $99 to a 200 GB plan at $199, that’s an up-sell.
+
+Cross-sells are extra features you sell with your products. For Dropbox, this is the “Packrat” unlimited undo history for an extra $39/year.
+
+Annual plans are another way to increase the average revenue per customer since they lock customers into a longer billing cycle. (They can also help you reduce churn.)
+
+The goal is to build systems that steadily increase the revenue you’re receiving from customers, and this metric will tell you whether or not you’re succeeding.
+
+Ecommerce businesses should place a lot more focus on average revenue per ORDER. As any ecommerce pro will tell you, getting people into the order checkout is never easy. So you want to make the most of it by playing the up-sell and cross-sell cards every time.
+
+5. Lifetime Value
+
+By combining the average revenue per customer and the churn rate, we can figure out how much revenue we expect to receive in the future from our customers. Be careful not to confuse this with your average revenue per customer:
+
+average revenue per customer = revenue you’ve already received
+
+lifetime value = a prediction of the revenue that you’ll receive in total
+
+Now, there are a bunch of different formulas for lifetime value out there. You can include your cost per acquisition, the cost to service your customers (support and retention programs), and profit margins. Some of them get pretty intense, and you’ll need your finance team to help you with this.
+
+But when you’re grabbing this metric for the first time, start with the simple version. For a SaaS business, take your average subscription length and multiply it by your average monthly revenue per customer. Ideally, you’d want to factor in support and acquisition costs to see if the customer is profitable in the long run. Don’t let this deter you, though. Grab the simple version first and evolve your formula over time.
+
+Other businesses will follow the same template. Take the average revenue you receive from each sale and multiply it by the average number of sales per customer.
+
+When you have the lifetime value of different customer groups, you’ll know exactly where to focus your time to grow you business the fastest. Let’s say you serve several different industries. Which one gives you the best lifetime value? And which traffic sources give you the most valuable customers? Lifetime value cuts through all the clutter and tells you exactly where your most valuable customers are.
+
+The Funnel
+
+Every business also needs to track its marketing funnel. Here’s what one looks like for a SaaS business:
+
+Visit Your Site
+
+Freemium or Free Trial Sign up
+
+Activation (use the core feature of your product for the first time)
+
+Upgrade to Paid Plan
+
+Here’s what it should look like:
+
+For your own business, make sure you’re tracking the number of people who move through each step it takes to become a customer. This will help you understand which part of your marketing system needs to be improved the most.
+
+Want more detail on how funnels work? Check out this post that’ll show you how funnels give you more customers with the same amount of traffic.
+
+How Do We Get Metrics Like These?
+
+KISSmetrics tracks average revenue per customer, lifetime value, churn, and your funnels. Once you’ve set up the events to track your funnel and send us revenue data, we take care of the rest.
+
+Simply head to your revenue report and you’ll have your average revenue per customer, lifetime value, and churn. You can even break down the report by traffic source, search term, marketing campaign, or customer type to see how these metrics differ among customer groups.
+
+And the funnels? Track each step by sending event data when customers sign up, activate, and purchase. (KISSmetrics tracks site visits automatically.) Then create a new funnel report and pick each event for the steps of your funnel. We’ll show you how many people made it through each step so you know which step of your marketing needs the most improvement.
+
+To see what KISSmetrics can do first hand, check out our 14-day free trial:
+
+Right now, KISSmetrics doesn’t track monthly recurring revenue or cost per acquisition. Not yet anyway ;). So you’ll need to pull these numbers by hand.
+
+Bottom Line
+
+Instead of getting overwhelmed with dozens of KPIs, make sure you limit your key metrics to a select few. And for a SaaS business, these are your top contenders:
+
+Monthly Recurring Revenue Churn Cost Per Acquisition Average Revenue Per Customer Lifetime Value
+
+Did I miss one of your favorite metrics? Tell us in the comments!
+
+About the Author: Lars Lofgren is the KISSmetrics Marketing Analyst and has his Google Analytics Individual Qualification (he’s certified). Learn how to grow your business at his marketing blog or follow him on Twitter @larslofgren.

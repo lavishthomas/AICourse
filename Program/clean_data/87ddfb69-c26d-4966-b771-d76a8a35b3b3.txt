@@ -1,0 +1,25 @@
+You may have heard the phrase, "data is the new oil." It's actually a pretty good metaphor because oil doesn't have any value on its own, it has to be refined into something like gasoline or plastic. Similarly, we're all inundated with a ton of data, but that data has to be refined into business insights in order to have real value. As a result, we're going to look at how big data drives digital transformation.
+
+As a phrase, big data gets overused and abused by marketers. It's not just about having a ton of data. Big data is about combining structured data with unstructured data to get new insights that were never possible before.
+
+Special Feature Special report: Turning big data into business insights This ebook, based on the latest ZDNet/TechRepublic special feature, looks at how businesses are using the data they collect to stay competitive, save money, boost profits, and power digital transformation. Read More
+
+Structured data is all of the stuff that fits in traditional spreadsheets and databases--your P&L, your customer list, information about your products and business processes, etc. Unstructured data is all of the new stuff that's often too big to fit into a database--the raw Twitter firehose, Google Trends data, public APIs from governments, and feeds from Internet of Things sensors. When you layer unstructured data on top of structured data, that's where the magic happens.
+
+Let's dive into one quick example.
+
+One century-old company went to its data team and asked it to use big data to find a smarter way to do sales forecasts. For decades, the company just looked at how many products it sold the previous month and how many products it sold a year ago in the month and used that to make its forecasts.
+
+But the data team started doing sentiment analysis on Twitter and looking at what people were saying about its products and brands. It also looked at Google Trends to see which products and brands people were searching for the most. Then it correlated that data with its actual sales to see if it was predictive, and it found that it absolutely was.
+
+So now, when it makes its sales forecasts, it takes that structured data (how many cars it sold last month and a year ago this month) and layers on unstructured data (sentiment analysis from Twitter and Google Trends) and it has a much smarter forecast. And if it wanted to get even smarter, it could do sentiment analysis on all of its competitors' brands and products as well. The bottom line is that this use of big data enables the company to be a lot more effective when planning sales, promotions, and marketing campaigns.
+
+Read the special report
+
+To learn more, read our full special report "Turning Big Data into Business Insights." You can read all of the articles on ZDNet or you can download them in one PDF on TechRepublic, available for free to registered users.
+
+ZDNet Monday Morning Opener
+
+The Monday Morning Opener is our opening salvo for the week in tech. Since we run a global site, this editorial publishes on Monday at 8:00am AEST in Sydney, Australia, which is 6:00pm Eastern Time on Sunday in the US. It is written by a member of ZDNet's global editorial board, which is comprised of our lead editors across Asia, Australia, Europe, and the US.
+
+Previously on Monday Morning Opener:

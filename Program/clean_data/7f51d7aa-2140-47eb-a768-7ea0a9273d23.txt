@@ -1,0 +1,159 @@
+Update May 4, 2017: We’ve found two more free and open source BIM software tools since this article was first posted. The list now includes eight tools.
+
+It will only be a matter of time before your construction business (no matter how small) will start using building information modeling, otherwise known as BIM.
+
+While BIM advocates will be quick to tell you all about its advantages, certain clients, notably in the public sector, aren’t simply relying on carrots to persuade you to become a BIM shop. Governments across the world are making BIM and BIM software a mandatory part of bidding for contracts and undertaking building projects.
+
+Your choice will not be if, but how you use it.
+
+In the world of construction management software, there are always solutions that are available for free or that use open, non-proprietary code to help you avoid being locked into a particular software supplier.
+
+BIM is no exception. The challenge is in choosing a free and/or open source BIM application that fits your needs.
+
+Before we jump into these open source and free BIM software options, we’ll take a look at some of the advantages of using a BIM tool and the different types of BIM tools with varying degrees of complexity. Then we’ll look at some specific options for each type.
+
+What is this “BIM” anyway?
+
+Building information modelling is a process to help manage complexity and improve performance in construction projects. Using BIM as a software application gives users the following advantages:
+
+3D visualization of buildings. Your construction team can work better together, as well as with customers and subcontractors. Spot and correct errors in 3D designs before they happen in real life, or fix them faster afterward.
+
+Change management. Alterations to building structures and furnishings can be automatically checked, conflicts identified, and quality improved.
+
+Construction simulation. Try out different designs and optimize for the best cost-performance ratio while ensuring overall construction soundness and safety.
+
+Data management. Attach different kinds of project data (schedules, photos, scans of handwritten notes) to be able to find it all again in one place.
+
+Operational management. Check building performance (energy consumption for example) over the lifetime of a building and improve efficiency in remodels and extensions.
+
+Many users and software developers stop at the first benefit. They consider BIM to be a kind of glorified computer-aided design (CAD). Yet BIM can go well beyond a static 3D drawing on a screen to help to reduce costs and accelerate construction schedules. And there are free and open source BIM applications that offer some of the advantages listed above.
+
+Reasons for considering free or open source BIM software
+
+At first glance, it seems obvious. “Free construction software” should help you save money. However, as any IT manager will tell you, initial software costs are often a small proportion of the real cost of using software, including staff time and effort to learn and use it. “Free” should be interpreted with caution!
+
+BIM applications built on open source software offers their own set of benefits:
+
+Open source software typically uses open standards in its design and interfaces. This can make the exchange of BIM data with customers, partners, and suppliers easier.
+
+Open source software also allows you to modify the program itself (if you want to). You could, for example, change the user interface, add your own special functions, or make the program interact in new ways with other parts of your IT architecture.
+
+Construction manager or software geek?
+
+Software applications increasingly drive construction management and building work in general. But does that mean you have to know what goes on under the hood? Commercial BIM applications often take pains to shield users from this and charge you for it accordingly. The business logic is that you should get more value, faster, for your construction company because you don’t have to worry about the inner workings of your software platform.
+
+Vendors of free software, on the other hand, may not have the same business perspective. Depending on how deeply you want to get into the software itself, you may prefer to pay for a packaged, user-friendly solution. Or perhaps you want to make the effort required to exploit the power and flexibility of certain free or open source solutions.
+
+To help you decide, we’ll categorize options for free and open source BIM software into the following types:
+
+Free BIM viewer. Although BIM advantages can go much further (see above), an application to view 3D models of buildings can help to get workers and customers into the mode of using BIM .
+
+Standard office application-based BIM. Business information modelling may sound complicated, but sometimes a standard spreadsheet is all you need.
+
+BIM as a bolt-on for CAD software. While purists argue that BIM software should be designed and built separately, this can be a pragmatic way of getting into building information modelling.
+
+The BIM software toolkit. A software toolkit can be adapted or used to build a variety of BIM solutions, including extensions to existing applications. However, that means possessing or having access to the relevant software programming skills.
+
+BIM from the start . In this case, the BIM software has been built expressly for building information modelling. Instead of trying to twist 2D or 3D drawings into BIM, this kind of BIM application gives you digital building blocks from which to make adaptable, purpose-built BIM projects.
+
+Free BIM Viewer
+
+BIMx from Graphisoft is available free of charge for Android and iOS devices.
+
+As an interactive 3D communication and presentation tool, it lets users upload a 3D drawing and explore it. Construction companies can take advantage of BIMx to:
+
+Show customers what they will get , and why they should sign that contract (now!)
+
+Show workers on site what the end result will be and therefore how each intermediate step should contribute to that result
+
+Get precise feedback from workers and supervisors about any problems in the construction process by indicating where in the drawing the issue is occurring.
+
+An iPad or Android tablet offers mobility, as well as a camera for taking pictures of problems and the ability to attach accompanying notes (although the website says that the free app is for viewing only and mostly intended for clients). BIMx also won a mobile Product of the Year Award as a testimony to its quality and user friendliness.
+
+Another option is BIM Vision, a freeware IFC model viewer that allows the user to view virtual models created by systems such as Revit, Archicad, Advance, DDS CAD, Tekla, and Nemetschek VectorWorks, just to name a few. IFC stands for “Industry Foundation Class,” which is another kind of data model for describing building and construction industry data.
+
+The software allows for lots of tweaking of the 3D model, including coloring elements based on the type, setting the transparency level for creating cross-sections, and comparisons of models to show the geometry changes and element properties. You can also load multiple IFC files in one view for side-by-side comparisons.
+
+BIM Vision works on a PC or tablet with Windows 7 or newer, so Apple users are out of luck.
+
+Standard office application-based BIM
+
+Do Microsoft Excel and the free OpenOffice Calc qualify as BIM software? According to initiatives such as COBie (Construction Operations Building Information Exchange), the answer is yes.
+
+COBie is a data format designed for the capture and recording of important building project data.
+
+The data can be recorded in a spreadsheet, which can then be used as input for other software applications. In June 2011, the UK government set out a five-year plan to bring 3D BIM in for all its construction projects (PDF). The requirement for the first year was COBie: a “spreadsheet containing as much information about a building in as complete and as useful form as possible.”
+
+COBie and similar data formats also highlight another interesting point. BIM isn’t only about 3D drawings. In fact, BIM can also exist without any such drawings at all as information in a COBie spreadsheet.
+
+BIM as a bolt-on for CAD software
+
+BIM and engineering CAD software are two different approaches to building design.
+
+In a perfect world they would stay separate. However, in the real world, compromises are sometimes necessary in order to get building projects done. FreeCAD offers such a compromise. It is a CAD program that offers BIM functionality as an extension to help users handle BIM as a process.
+
+In particular, FreeCAD offers “IFC compatibility.” FreeCAD also states that its functionality can be activated and driven by other software programs written in Python. Python is reputed for its relative user-friendliness, but for most people, it’s “geek-speak” all the same.
+
+In summary, FreeCAD offers a way for users already familiar with CAD to get a head start along the road to BIM, but those without any software programming knowledge may find it tough going.
+
+The BIM software toolkit
+
+The phrase “software toolkit” instantly indicates a need for some serious software engineering capability in order to get any further. The challenge is to make the connection between the software constructs and terminology and a practical solution that helps your construction business. Unfortunately, some free toolkits or platforms seem to get stuck at the software stage.
+
+xBIM (eXtensible Building Information Modeling) makes an effort to help users cross over the chasm and get to business value. While created as a software development toolkit, it offers practical examples of use in real life building contexts. It may take a software engineer to figure out the references to middleware and APIs (application programming interfaces), but other aspects are easier to understand:
+
+xBIM makes it relatively easy to manipulate the IFC building elements. You can work with beams, panels, doors, windows, teams, processes, and other “real life” entities to make a BIM representation of your construction project.
+
+xBIM offers the ability to create new functions to extend the possibilities of commercial BIM tools such as Autodesk Revit
+
+Sample applications based on xBIM are available. For instance, the iCIM ( Interoperable Carbon Information Modeling ) online tool lets designers assess the carbon impact of their design decisions throughout the lifecycle of a building.
+
+Another option is BIMserver, which was created on the premise that no two construction projects are the same, and therefore construction managers need focused applications that can do one thing very well.
+
+BIMserver is a platform that allows you to build a niche application perfectly suited for your project, although you’ll need some programming expertise to get started. The software is published under the GNU Affero GPLv3 license, so it’s free to use and modify. You can use this software to create your own BIM tool from the ground up, or modify other tools out there to fit your unique situation.
+
+BIMserver’s core features include storing all revisions, open BIM standards, cloud capabilities, lots of interfaces, and a plug-in framework for easier fine-tuning, to name a few.
+
+BIM from the Start
+
+An intuitive free BIM offering in this category is “B-processor.”
+
+B-processor has been created from the start for BIM, and not as an add-on to a CAD software product. The 3D modeling of a building is relatively simple to learn. As spaces (such as rooms) and structures (such as walls) are put into place, users add further information (“tags”) to each element to describe its properties and function. These tags can then be used to provide total cost information, cost breakdowns, carbon footprint data, alerts about design conflicts, and more.
+
+B-processor also keeps manipulation of each model simple too, with the possibility to define:
+
+“Modelers”: tools for repetitive tasks and the creation of detailed elements
+
+“Evalors”: tools for processes such as calculating areas, energy consumption, and structural properties.
+
+Another BIM project, 4BIM, offers similar “native” BIM functionality, this time as an online software service. As an open source solution, it too has its sights set on practical functionality to help designers and builders.
+
+An online viewer for 3D BIM models with access from a standard web browser. Construction project members are able to use the 3D BIM models without any significant learning effort.
+
+An online review system for the data attached to a BIM model, following the IFC model of standard data formats and constructs.
+
+Collaborative teamwork functions to view, merge and further process multiple BIM files, with tracking of changes in models and alerts about such changes being made.
+
+A reporting system to pick out useful information now and in the future, such as the information for a bill of quantities or the highlighting of project conflicts.
+
+A facilities management handover service to make relevant information available to clients or other parties, using the standard COBie 2 (see above for COBie) data format.
+
+A mobile application for Android and iPhone/iPad device users to access and interact with BIM data in a project.
+
+4BIM offers most or even all of the BIM benefits listed at the beginning of this article, without making builders jump through any software engineering hoops.
+
+Meanwhile, back at the commercial vendors ranch…
+
+Credit where credit is due; commercial CAD solution vendors such as Autodesk and Nemetschek (maker of Graphisoft, among other products) have also actively promoted common building data formats. This makes it easier to exchange such data between different programs.
+
+The initiative to define the Industry Foundation Classes (IFC) started in 1994 when Autodesk formed an industry consortium on the subject. The consortium then became a nonprofit industry-led organization to develop and maintain IFC specifications, and is now called buildingSMART, the eight tool in our list.
+
+Independently of how commercial vendors view free and new solutions such as 4BIM, open standards to help interworking are in everybody’s best interest.
+
+Conclusion
+
+Building information modeling is increasingly part of any and all construction activities. While some clients choose to make it mandatory, BIM offers benefits to all players in the construction industry, whether they are architects, designers, engineers, or builders. This is as true for smaller companies as it is for larger ones.
+
+Free and open source BIM software must be selected with care however. In this case, the size of the user’s organization does matter. Smaller construction companies may not have the internal software skills or resources to work with some of the more complex open source BIM programs or toolkits. Even larger companies will need to size up the effort required to put such programs to practical use. On the other hand, other free and open source solutions such as BIMx, B-processor, and 4BIM offer real possibilities to become part of the BIM scene and to do better business because of it.
+
+Are there any other free BIM software options that I missed? Leave your thoughts in the comments below and be sure to leave a review!

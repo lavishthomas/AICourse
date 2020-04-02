@@ -1,0 +1,201 @@
+If you’re obsessed with growth, you know how important it is to have a super detailed growth strategy. You and data are BFFs, right? Great, but you also need to understand the context that surrounds that data.
+
+I know that sounds a little dense, but bear with me. What I mean is that information alone isn’t enough. Yes, in data we trust. Sure, lots of metrics are all well and good, but if you can’t leverage that data, there’s no point to it. Think about it. Who makes the growth happen? You might think it’s you, but in the end, it’s actually your audience.
+
+How your users respond to your tactics will decide how successful your growth strategy is. So take a step back and look at your audience. Do you really understand them? Be honest with yourself. Most growth hackers think they understand their customer base, but they only know raw data. Knowing demographics doesn’t mean you understand your audience.
+
+This is where I drop my bomb of a topic. Behavioral analytics, folks.
+
+Understanding and applying behavioral analytics can be incredibly useful for growth strategies. In fact, it could be the energy and edge that your brand has been missing.
+
+Want viral growth? Say hello to behavioral analytics. These analytics give you a look into the minds of your users so you can put yourself in their shoes. You’ll be able to build targeted campaigns that better suit your audience, create messages that reach the right users at the right time, and attract entirely new user bases.
+
+I realize that “behavioral analytics” doesn’t sound all that sexy, but you’re going to discover just how powerful it is. Let’s take a look at some fundamental concepts of behavioral analytics that you absolutely need to know and then explore some actionable strategies you can use.
+
+If you’ve been sleeping on behavioral analytics, it’s not too late. Read this article. Do what it says, and your brand will grow.
+
+What Psychographics Are (and how you get them)
+
+When it comes to behavioral analytics, psychographics are vital.
+
+Psychographics provide a foundational understanding of why your customers behave the way they do.
+
+Demographics are the who. Psychographics are the why.
+
+Each psychographic is a data point that tells you something about your users’ behavior.
+
+Here’s a more comprehensive list of psychographics:
+
+These go way above and beyond demographics to give you a fuller picture of your audience.
+
+Psychographics clue you in to your users’ behaviors. For example, if you know that most of your audience is composed of parents of 5-11 year olds, you’ll understand why those kid-sized T-shirts are flying off the shelves.
+
+Although you can’t get any super specific data like number of clicks, you still need psychographics to get a general idea of how your audience acts and why they do what they do.
+
+Psychographics will often reveal what’s important to your users.
+
+Do you understand now why psychographics are so important? They help you see your customers as people and not just information from your analytics software.
+
+Speaking of analytics software, you can find some basic psychographic information in GA by heading over to Audience > Interests > Overview.
+
+You’ll see three categories: Affinity Category, In-Market Segment, and Other Category.
+
+The Affinity Category shows you different lifestyle categories. Google compares these groups to TV audiences.
+
+This category points to specific interests that your users have. Even if you just look at this section of GA, you can get a pretty good understanding of what your audience likes.
+
+The In-Market Segment shows you what types of products your users have shown interest in.
+
+Basically, your customers are looking to buy products or services within these categories.
+
+The Other Category offers a narrower view of your audience.
+
+If you want to go even deeper, Google has a handy guide on using this psychographic info in conjunction with other analytics.
+
+There are many other ways to grab psychographics, from surveys to focus groups. Use as many of these methods as you want. Too much psychographic data is never a bad thing.
+
+Still, psychographics are just that––data. You need to use them in a creative way.
+
+With that in mind, let’s look at some growth techniques that depend on psychographics and other behavioral data.
+
+Data-Driven Customer Personas
+
+Creating an imaginary friend might sound a little childish to you, but that’s essentially what you need to do with psychographics.
+
+Right, I know, it’s not exactly an “imaginary friend.”
+
+I’m talking about creating a fictional person who is a representative of your audience base and not just some creature you made up. These representatives are otherwise known as customer personas.
+
+You’re probably familiar with the idea of the customer persona, but if you’re not, don’t worry. Here’s a brief rundown.
+
+A customer persona (also called user or buyer persona) takes aggregate data and uses it to create a fake person. This person is your average customer.
+
+His or her demographic and psychographic information is representative or your audience (or a segment of your audience).
+
+Here’s what an example customer persona might look like:
+
+Image Source As you can see, you can get really detailed with personas. The more detailed they are, the better you’ll understand your users. By definition, a customer persona is chock full of behavioral analytics. They help you describe the persona in detail. Once you have all of your behavioral analytics together, you can take a couple of different approaches to creating a persona. The approach you take will depend on what you want to accomplish with your personas. Do you want to create better email sequences? Do you want to improve your Facebook ads? Think about your objectives as you create your personas.
+
+
+
+Specifically, you can use certain analytics based on the results you’re after. Let’s look at some examples of this idea in action.
+
+Let’s say you want to redesign your CRM software to attract more leads. In terms of analytics, you’d want to look for business-related psychographics.
+
+These might include the user’s role at work, how much time they spend at their job, or even the search terms they use to get to your site.
+
+So an example persona for that would look like this one (the one on the right side):
+
+This persona is great for SaaS because it uses analytics that relate to work. There’s little personal information here, but there’s enough to give you an idea of who the persona is.
+
+But that type of persona isn’t ideal for every sort of situation.
+
+Another example: Say you’re the head of growth at an ecommerce apparel startup.
+
+You’d be more concerned with personal behavioral analytics and not so many work-related data. So a persona for you might look something like this:
+
+The types of analytics you use should all depend on your goals and the kind of product or service you’re selling.
+
+It doesn’t hurt to get as many data points as possible, but you’ll want to refine them to zoom in on your average customer.
+
+Creating a persona doesn’t take much time, but it can change how you see growth. That said, you have to make sure your personas are as accurate as possible.
+
+If you get the wrong analytics, well, your entire customer journey might just go down the drain.
+
+But if you get it right, your customers will feel like you really know them.
+
+This is a perfect example of how behavioral analytics can make all the difference in your growth strategy.
+
+Remember, you’re not simply looking at a bunch of random numbers. This information has real uses that you can take advantage of starting today.
+
+Let’s take a look at another one of those advantages.
+
+Customer Segmentation
+
+You’re segmenting your users…right?
+
+Okay, maybe you’re not. That’s okay. But you totally need to be.
+
+Some marketers and growth hackers see their audience as one big mass, so every campaign gets sent out to everyone.
+
+But not everyone has the same needs and wants. Your customers are all different.
+
+So if you group people into similar segments, you can deliver more accurate, targeted messages and have better results.
+
+That’s why segmentation is part of every good marketer’s (and growth hacker’s) playbook.
+
+And––you guessed it––behavioral analytics can help you segment better.
+
+The basic idea is to create segments using one or more behavioral attributes.
+
+If you group generally according to behavior, you’ll get an inside look into what different types of customers are looking for.
+
+Just this basic behavioral segmentation already gives you a much better understanding of the different kinds of users you have.
+
+All you need to do is a little behavioral research to get started with this. In GA, you can go to Behavior > Behavior Flow to see an overview of the average user path on your site.
+
+While this isn’t incredibly comprehensive, it can prep you for actual segmentation later on. Odds are the trends you see on Behavior Flow will reflect your audience as a whole.
+
+This type of segmentation is flexible and can be used in a variety of ways.
+
+Take email marketing. You can see what emails people open, which people almost never open your emails, and maybe even how long a user spends reading your email.
+
+You probably look at data like this all the time:
+
+But have you considered that you can use this information to tap into your subscribers’ brains?
+
+All of those are behavioral analytics in their own right, and they’re great for segmentation.
+
+There’s a lot you can do with these analytics. You can send a special discount email to the loyal subscribers who regularly open your emails, or you can send more targeted emails to people who tend to open one type of email.
+
+And your results are almost guaranteed to improve.
+
+The possibilities are endless.
+
+And if you’re using Kissmetrics, you don’t have to worry about any of this because the behavior-based delivery feature does it for you.
+
+Still in doubt? I know it sounds like a lot of work, but it really isn’t, and it can pay off big time.
+
+MailChimp found that segmenting subscribers by interest made every metric soar:
+
+If you’re willing to get even crazier with segmentation, get ready.
+
+You can also use behavioral analytics to group your customers by their place in the customer journey.
+
+This concept is a little more advanced than the techniques we’ve gone over, but it packs a serious punch.
+
+The typical customer journey is more or less like this:
+
+By using behavioral analytics, you can find out what stage of the customer journey a user is going through.
+
+Behavior Flow can often show this. If someone has checked out lots of your product pages but hasn’t made it to the checkout, he or she is in the consideration stage.
+
+Once you’ve found out where someone is in the customer journey, you can place him or her into an appropriate segment.
+
+This approach is a growth hacker’s dream. Not only can you segment your customers, but you can also get a better grip on the customer lifecycle.
+
+It’s awesome, isn’t it?
+
+If you’re serious about converting and growth, you should strongly consider this advanced tactic. It’s one of the best ways to hyper-focus your messages, and you’ll reach the right users at the right time.
+
+Conclusion
+
+Growth is all about people.
+
+And by people, I mean your users.
+
+A good growth strategy has to be centered around your customers. Otherwise, your strategy will fall flat on its face.
+
+If you’re focused on sheer volume and ignore your customers in the process, you’re going to get nowhere fast.
+
+Analyzing and leveraging your users’ behavior is one way to enhance your current strategy.
+
+If you understand your users’ behavior, you can more easily determine what kind of content they want and what kind of messages are best to send to them.
+
+Like I said, it’s all about people. We want to be understood, and we want our needs to be taken care of.
+
+As a growth nut, it’s your job to make sure that happens.
+
+So if you need to step up your game, behavioral analytics can give you a fresh perspective and boost your results.
+
+About the Author: Daniel Threlfall is an Internet entrepreneur and content marketing strategist. As a writer and marketing strategist, Daniel has helped brands including Merck, Fiji Water, Little Tikes, and MGA Entertainment. Daniel is co-founding Your Success Rocket, a resource for Internet entrepreneurs. He and his wife Keren have four children, and occasionally enjoy adventures in remote corners of the globe (kids included). You can follow Daniel on Twitter or see pictures of his adventures on Instagram.

@@ -1,0 +1,37 @@
+Bloomberg Businessweek has devoted an entire issue to a single article: Paul Ford's "What is Code?"
+
+I read the whole thing online this afternoon, and it's remarkable. I could see it being taught in journalism classes years from now, like Gay Talese's "Frank Sinatra Has a Cold" or John Hersey's "Hiroshima."
+
+It takes something both very important and hard to understand, and makes it understandable to an audience of smart but nonexpert readers. It does this incredibly well. It mostly feels like fun, not work.
+
+It also contains the best use of interactive elements in a story that I've ever seen. The demos aren't just there to show off. They're embedded in the story and make it better — anybody who lived through desktop computing in the 1990s will laugh out loud at the Java "demo."
+
+But it's long! 38,000 words or so. It took me 82 minutes to read. (Yes, the article keeps track of your activity and tells you how long it took you to get through it.)
+
+You should read the whole thing anyway. But if you don't have time right this second, here are some highlights.
+
+At the lowest level, all computers work the same way. They take a pair of numbers, perform a calculation on them, and then use the output of that calculation as an instruction to do another calculation. They do this billions of times a second. The writer, Paul Ford, calls a computer "a clock with benefits."
+
+They take a pair of numbers, perform a calculation on them, and then use the output of that calculation as an instruction to do another calculation. They do this billions of times a second. The writer, Paul Ford, calls a computer "a clock with benefits." Software runs everything . It's not just Windows or Flappy Bird. Software runs the ATM, the elevator, your washing machine — almost everything. While the software developers we read about are usually young coding stars working for Google or the hot startup of the moment, most software developers have more mundane jobs with nonsoftware companies.
+
+. It's not just Windows or Flappy Bird. Software runs the ATM, the elevator, your washing machine — almost everything. While the software developers we read about are usually young coding stars working for Google or the hot startup of the moment, most software developers have more mundane jobs with nonsoftware companies. The purpose of most software is to manage data. Data is digital stuff — images, sounds, email addresses. Most data lives in a database, a kind of software program invented specifically for the purpose. Most other software adds data, changes data, takes data out for some purpose, and so on.
+
+People make software by creating code. This is most often a string of characters on a screen, but can theoretically be almost anything. In the old days, it was a bunch of holes on a punch card. There are children's apps that let them create code by moving images around. All code is then run through a software program called a compiler , which turns it into instructions for the computer you want to run it on.
+
+This is most often a string of characters on a screen, but can theoretically be almost anything. In the old days, it was a bunch of holes on a punch card. There are children's apps that let them create code by moving images around. All code is then run through a software program called a compiler You're probably using the word "algorithm" wrong. An algorithm is a set of instructions that solves a specific problem. There's no such thing as "Google's algorithm" or "Facebook's algorithm" — it's just software.
+
+An algorithm is a set of instructions that solves a specific problem. There's no such thing as "Google's algorithm" or "Facebook's algorithm" — it's just software. There are at least 1,700 different programming languages, and developers get religious about them. There's C, which lets developers give instructions directly to the hardware — powerful and dangerous, "like a shotgun that can blow off your foot." It's used today mostly to build programs that run on devices like printers. There are "object-oriented" languages like Java, which help you organize and file code into reusable chunks. Java has become a corporate language, used in a lot of big companies to build big complicated programs. There's C++, C#, Python, JavaScript (which has nothing to do with Java), PHP, Ruby, COBOL ... they're all explained. Often hilariously.
+
+You might have heard of "frameworks" — what are they? For each language, there are multiple "frameworks," which let programmers do specific tasks without having to rewrite the exact same code over and over again. So, for instance, you might use a framework to create graphics, or build web pages, from a particular programming language.
+
+For each language, there are multiple "frameworks," which let programmers do specific tasks without having to rewrite the exact same code over and over again. So, for instance, you might use a framework to create graphics, or build web pages, from a particular programming language. Microsoft's skill is translating computer science into business. The essay touches only very briefly on Microsoft, claiming the company has lasted so long because it knows how to "take the sheer weirdness of computer ideas and translate them for corporations, in the language of Global Business Leadership."
+
+Programmers are angry. Because the industry is changing so fast, their skills may already be outdated by the time they finish learning them. Also, because all code is mostly wrong and requires a ton of redoing and testing and debugging. Imagine if every time you spoke, there was a nontrivial chance that some of the words would come out slightly wrong and as a result the other person wouldn't understand you at all and you'd have to stop and fix it and say it again. That's programming.
+
+
+
+The 10x programmer may be a myth. There are some programmers who are noticeably more productive than others, but some studies have suggested the "10x" programmer — one who can do ten times the work of another in the same period — is probably not real. Even if they do exist, they're probably running their own company or at a big software-first company like Google. They're not working for you, unless you're a 10x kind of manager at a 10x kind of company.
+
+There are some programmers who are noticeably more productive than others, but some studies have suggested the "10x" programmer — one who can do ten times the work of another in the same period — is probably not real. Even if they do exist, they're probably running their own company or at a big software-first company like Google. They're not working for you, unless you're a 10x kind of manager at a 10x kind of company. The best programmers are artists, not stenographers. Anyone can learn to write code. Creating the code is the easiest part of it. The best programmers see the big picture better — they're quicker to see their mistakes, and understand the broader consequences of what they're doing before they have a chance to screw anything up too badly.
+
+There's so, so much more to it, though. Now go read the whole thing-->

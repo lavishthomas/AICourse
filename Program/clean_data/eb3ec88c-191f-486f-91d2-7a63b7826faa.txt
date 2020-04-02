@@ -1,0 +1,101 @@
+This information in this article applies only to web tracking. The calculations don’t apply if you’re collecting data using an Analytics SDK for a mobile OS. Learn more about app sessions.
+
+The concept of a session in Analytics is important to understand because many features, reports, and metrics depend on how Analytics calculates sessions.
+
+Overview
+
+A session is a group of user interactions with your website that take place within a given time frame. For example a single session can contain multiple page views, events, social interactions, and ecommerce transactions. Learn more about the different request types in Analytics.
+
+You can think of a session as the container for the actions a user takes on your site.
+
+A single user can open multiple sessions. Those sessions can occur on the same day, or over several days, weeks, or months. As soon as one session ends, there is then an opportunity to start a new session. There are two methods by which a session ends:
+
+Time-based expiration: After 30 minutes of inactivity At midnight
+
+Campaign change: If a user arrives via one campaign, leaves, and then comes back via a different campaign.
+
+
+
+Time based expiration
+
+How long does a session last?
+
+By default, a session lasts until there's 30 minutes of inactivity, but you can adjust this limit so a session lasts from a few seconds to several hours. Learn more about adjusting session settings.
+
+When a user, say Bob, arrives on your site, Analytics starts counting from that moment. If 30 minutes pass without any kind of interaction from Bob, the session ends. However, every time Bob interacts with an element (like an event, social interaction, or a new page), Analytics resets the expiration time by adding on an additional 30 minutes from the time of that interaction.
+
+Example
+
+Assume Bob interacts with your website at the following intervals:
+
+After event 2, the session expiry is set to 14:34
+
+When Bob first arrives on your site, the session is set to expire at 14:31. As Bob continues through your site, viewing pages and triggering events, each of these additional requests moves the expiry ahead 30 minutes.
+
+What happens if during a session to my site, Bob leaves open a page while he takes a 31-minute lunch break, then returns to continue browsing the site?
+
+In this scenario, the first session that was opened when Bob arrived on the site ends 30 minutes into his lunch break. When he returns from lunch and continues browsing the website, then Analytics sets a new 30-minute expiry, and a new session begins.
+
+Bob was half way through a product purchase when he left your site and went for lunch. He later returned to complete the transaction. The landing page of the new session is the add-to-cart page.
+
+What happens if Bob leaves open a page on my site, but only takes a 29-minute lunch break before he continues browsing?
+
+When Bob returns, the session that was open continues from the last page he was viewing on your site (provided he doesn’t return via another campaign source -- a bit more about this below). As far as Analytics is concerned, he never left your website.
+
+Bob was half way through a product purchase when he left your site and went for lunch. The difference this time is that because he returned in under 30 minutes, the old session remains open. It’s worth noting that his time on page for pageview 2 (product) is 29 minutes, since time on page is calculated as the difference between the initiation of successive pageviews: pageview 3 - pageview 2 (14:31-14:02 = 00:29).
+
+End of day expiry
+
+Bob opens your website at 11:50 PM on the 14th of August and leaves your website at 12:10 AM on the 15th of August.
+
+The first session ends at 11:59:59 PM on the 14th of August, and the second session begins at 12:00 AM on the 15th of August.
+
+End of day is determined by your view timezone settings.
+
+Campaign based expiration
+
+Every time a user's campaign source changes, Analytics opens a new session. It’s important to point out that even if an existing session is still open (that is, less than 30 mins have elapsed), if the campaign source changes mid-session the first session is closed and a new session is opened.
+
+Let’s say Bob opens your website in the following order:
+
+Analytics stores campaign source information. Each time the value of the campaign is updated, Analytics opens a new session. In the example above, Bob first arrives at your website via the Google organic keyword Red Widgets, then later returns via the Google paid keyword Blue Widgets.
+
+Each search term updates the campaign, so each keyword corresponds to a new session.
+
+What causes updates to the campaign?
+
+Generally speaking, the campaign updates anytime the user arrives at your site via a search engine, referring website, or campaign-tagged URL. Direct traffic, however, never updates or replaces an existing campaign source such as a search engine, referring site, or campaign-tagged information.
+
+AdWords autotagging
+
+In the case of AdWords autotagging, each click generates a unique campaign value (a gclid value). Because each click has its own gclid value, each click is treated as a separate campaign and creates a new session.
+
+Referrals
+
+A new campaign is created every time a user clicks a link to your site from a referring site.
+
+If Bob visits a.com and clicks a link to your site, he starts a session attributed to a referral from a.com. If he immediately visits b.com and clicks a link to your site, he starts a new session attributed to a referral from b.com.
+
+You can use referral exclusions to prevent referrals from specific sites from creating new sessions.
+
+Campaign Tags
+
+The best practice is to use autotagging instead of manual campaign tags, but let’s assume that you manually tagged your AdWords campaigns with a destination URL like this:
+
+http://www.example.com/?utm_source=google&utm_medium=cpc&utm_campaign=camp1&utm_term=keyword&utm_content=content
+
+Bob clicks your ad, which registers a new session for the first click. However, unlike autotagging, where multiple clicks on the ad can generate multiple corresponding sessions, manually tagged campaign parameter values remain the same for every click so the campaign isn’t updated for each click. This makes it possible to have multiple ad clicks and only one session.
+
+If you advertise on third-party ad networks and use manual campaign tags, you should be aware that each click from a single user on those networks might not generate a corresponding session (if additional clicks happen within the 30-minute time frame). This is a common cause of data discrepancies between Analytics and other product reporting.
+
+Direct traffic
+
+Finally, a quick word about direct traffic in Analytics. Direct as a campaign source never overrides an existing known campaign source like a search engine, referral, or campaign source would.
+
+Direct traffic that interacts with your content within the 30-minute session window has the same effect as leaving your website for less than 30 minutes. The existing session opens and continues from where it left off.
+
+Note that the Multi-Channel Funnel reports handle direct traffic differently than other Analytics reports.
+
+Metric calculations: Sessions and New Users
+
+It's possible for the value of the metric Sessions to be less than the value of New Users. The reason is that Sessions is not incremented in cases where a session only consists of non-interaction events. In contrast, New Users is always incremented when a new-user session occurs, even if the session only consists of non-interaction events.

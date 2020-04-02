@@ -1,0 +1,61 @@
+In times past, choosing the best PC storage option required merely selecting the highest-capacity hard drive one could afford. If only life were still so simple! The fairly recent rise of solid-state drives and hybrid drives (which mix standard hard drives with solid-state memory) have significantly altered the storage landscape, creating a cornucopia of confusing options for the everyday consumer.
+
+Yes, selecting the best drive type for a particular need can be befuddling, but fear not: We’re here to help. Below, we explain the basic advantages and drawbacks for each of the most popular PC storage options available today. Tuck away this knowledge to make a fully informed decision the next time you're shopping for additional drive space.
+
+Hard-disk drives
+
+Hard-disk drives have been the default storage component in desktop and laptop PCs for decades. As a result, the term "hard drive" is now the common descriptor for all storage hardware—the digital equivalent of "Q-Tip" or "Band-Aid." Although modern hard-disk drives are far more advanced and higher-performing than their counterparts from yesteryear, on many levels their basic underlying technology remains unchanged. All hard-disk drives consist of quickly rotating magnetic platters paired with read/write heads that travel over the platters’ surfaces to retrieve or record data.
+
+HDD interiors almost resemble a high-tech record player.
+
+The technology is mature, reliable, and relatively inexpensive compared with other storage options; most hard-disk drives can be had for only a few cents per gigabyte. Hard-disk drives are available in relatively high capacities too, with today’s largest drives storing up to 4TB of data. Usually hard drives connect to a system via the ubiquitous SATA (Serial ATA) interface, and they don’t require any special software to work properly with current operating systems.
+
+In other words, traditional hard drives are spacious, simple, and comparatively dirt-cheap.
+
+Hard-disk drives don’t perform nearly as well as solid-state drives or even hybrid products do in most situations, however. Today’s fastest hard drives can read and write data at more than 200MB per second with sub-8ms access times, but those numbers are significantly worse than the speeds of even some of the most affordable solid-state drives (which I'll cover in a bit). The faster the platter rotation speed, the faster the hard drive. For example, a 7200-rpm drive outperforms a 5400-rpm drive.
+
+Hard-disk drives are best suited to users who need vast amounts of storage and aren’t as concerned about achieving peak system performance. If you're an everyday PC user who sticks mostly to email, Web browsing, and basic document editing, a standard hard drive should suit you fine. Just don't tinker around with someone else's SSD-powered PC, because once you've gotten a taste of a solid-state drive's blazing read/write speeds, it's hard to go back to even the speediest of traditional hard drives.
+
+Solid-state drives
+
+Several manufacturers offer SSDs. The HDD market is much more condensed.
+
+On many levels, solid-state drives are similar to hard drives. They usually connect to a system by way of the SATA interface (though PCI Express-based drives are also available for ultrahigh-performance applications), and they store files just as any other drive does. SSDs, however, eschew the magnetic platters and read/write heads of hard-disk drives in favor of nonvolatile NAND flash memory, so no mechanical parts or magnetic bits are involved.
+
+By ditching the relative slothfulness of moving parts, solid-state drives deliver much better performance. They're the fastest storage option available. And not only can SSDs read and write data much faster than hard drives with most workloads, but they can also access the data much more quickly as well.
+
+Whereas the fastest hard drives can read and write data at about 200MB per second and access data in a few milliseconds, the fastest solid-state drives can achieve 550-MBps (or higher) transfers that essentially saturate the SATA interface, and their typical access times are a fraction of a single millisecond. In a nutshell, SSDs make for a much snappier, much more responsive system, with lightning-fast boot times, application launch times, and file-transfer speeds.
+
+Another huge SSD advantage is durability. Because they have no moving parts, solid-state drives aren’t susceptible to damage or degraded performance from vibrations or movement. Drop a system or laptop containing a traditional hard-disk drive, and you have a very real chance of corrupting your data. But a solid-state drive won’t—can't—skip a beat.
+
+Solid-state drives aren't without disadvantages, though. For one, SSDs are much more expensive than hard drives in terms of cost per gigabyte. Good, consumer-class solid-state drives run about $0.70 to $1.00 per gigabyte, whereas hard drives cost only a few cents per gigabyte. Solid-state drives don’t offer anything near the capacity of hard drives, either: The most popular SSDs have capacities of about 120GB to 256GB, with 512GB to 1TB models reserved only for those with gargantuan budgets.
+
+OCZ's Vector SSD is one of the fastest around.
+
+SSD performance also varies depending on how full the drive is, or if it has been purged of data. Idle garbage collection or a feature called TRIM can help restore the performance of a “dirty” SSD, but that requires driver and OS support. (Windows 7 and 8 support TRIM.) Because the capacity is relatively small and performance is affected by how full the drive may be, many SSD users find themselves regularly moving less-performance-intensive data (such as documents or media collections) off their solid-state drives and onto traditional hard drives.
+
+Another concern: When SSDs fail, they tend to do so without warning. Hard drives, however, will usually start to show signs of failure by throwing a S.M.A.R.T. error or suffering from a few bad blocks. In our experience, SSDs simply die without waving many—if any—red flags.
+
+Solid-state drives are best suited to savvy PC users who seek high performance. If you don’t mind managing multiple volumes and you have the budget, pairing a fast SSD with a high-capacity hard drive will result in the best of both worlds. The SSD can hold the OS and your most frequently used applications, while the hard drive can handle the bulk-storage duties. Managing multiple storage volumes can be a bit of a pain for casual PC users; if you know your way around a PC, however, combining a fast SSD and large hard-drive storage is a great, high-performance approach with minimal compromise.
+
+If you're considering making the jump to a solid-state drive, check out PCWorld's ultimate guide to SSDs, which reviews seven of the top SSDs on the market today.
+
+Hybrid hard drives
+
+Hybrid hard drives blend HDD capacity with SSD speeds by placing traditional rotating platters and a small amount of high-speed flash memory on a single drive.
+
+Hybrid storage products monitor the data being read from the hard drive, and cache the most frequently accessed bits to the high-speed NAND flash memory. The data stored on the NAND will change over time, but once the most frequently accessed bits of data are stored on the flash memory, they will be served from the flash, resulting in SSD-like performance for your most-used files.
+
+Some of the advantages of hybrid storage products include cost, capacity, and manageability. Because only a relatively small solid-state volume is required to achieve significant performance gains, a large investment in a high-capacity SSD isn’t necessary. Hybrid drives tend to cost slightly more than traditional hard drives, but far less than solid-state drives. And because the cache volume is essentially hidden from the OS, users aren’t required to cherry-pick the data to store on the SSD to prevent it from filling up. The hybrid storage volume can be as big as the hard drive being used, and can serve as a standard hard drive. Boot times also see some improvement.
+
+OCZ The OCZ RevoDrive Hybrid.
+
+Where hybrid products falter is with new data. When writing new data or accessing infrequently used bits, hybrid products perform just like a standard hard drive, and new hybrid drives have a "break-in period" while the software learns which data to cache. Due to the fact that hybrid products rely on caching software, they can also be somewhat more difficult to configure.
+
+For users who don’t want the responsibility of managing multiple volumes or who don’t constantly work with new data, a hybrid drive can be a great option to improve system performance—all without having to give up any capacity or having to deal with the headaches of using separate solid-state and hard-disk drives.
+
+DIY hybrid storage configurations
+
+That being said, some people create DIY hybrid storage configurations by linking a standard hard drive and an SSD with specialized caching software. (This is not the same as simply plopping both an SSD and an HDD into your PC.) Solid-state cache drives often ship with proprietary caching software included, though you can also take advantage of Intel's Smart Response Technology if you want to use an SSD that isn't specifically marketed as a cache drive.
+
+Functionally, the setup performs the same as a typical hybrid drive, though stand-alone SSD caches often come in larger capacities than the paltry flash storage you'll find on most self-contained hybrid drives—meaning more of your data will receive an SSD-powered speed boost. On the other hand, you'll have to buy both a hard-disk drive and a solid-state drive, which can get pricey. You'll also need to configure the setup manually, whereas self-contained hybrid drives are much more of a plug-and-play option.

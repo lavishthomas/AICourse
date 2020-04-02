@@ -1,0 +1,35 @@
+Something unusual happened earlier this month at the annual conference of the International Legal Technology Association — the seemingly ubiquitous buzz about artificial intelligence in law was somewhat muted by talk of another rapidly emerging technology, blockchain.
+
+In fact, at one ILTACON event, Bob Craig, CIO at Baker Hostetler, predicted that blockchain, more than any other technology, will drive the next wave of legal innovation and transform the business of law. And, according to a report on another ILTACON blockchain program, “the panel all agreed that blockchain might be the most important addition to the legal infrastructure since William the Conqueror gave rise to common law.”
+
+A few days after those ebullient endorsements were delivered at ILTACON, Daniel W. Linna Jr., director of The Center for Legal Services Innovation at Michigan State University College of Law, unveiled the first phase of his Legal Services Innovation Index, his attempt to create an index of innovation in legal services delivery. It appears to bear out that law firms are jumping on the blockchain bandwagon.
+
+One part of Linna’s index, the Law Firm Innovation Index, measures law firm innovation based on Google advanced searches for indicators of innovation on the websites of the world’s largest law firms. The category that garnered the greatest number of hits was blockchain, with more than double the average number of hits than AI.
+
+This makes sense, as Bill Henderson points out at his Legal Evolution blog, because blockchain directly affects the core businesses of large law firms’ corporate and financial clients. Yet that connection to core clients may also be precisely why blockchain has the potential to change the business of law more dramatically than AI.
+
+Baker Hostetler’s Craig was at ILTACON to announce the formation of the Global Legal Blockchain Consortium, a group that will work to drive the adoption and standardization of blockchain in the legal industry. Founding members include the law firms Baker Hostetler and Orrick, IBM Watson Legal, and the newly formed company Integra Ledger, which is hoping to become the ledger used throughout the legal industry for blockchain digital identities.
+
+“Blockchain technology will align law firms, clients and technology companies to transform the business of law,” Craig told the ILTACON audience that had assembled to hear the announcement.
+
+“We are just at the dawn of the blockchain era,” Craig said. “The more you invest yourself in what blockchain is and the possibilities it enables, you see that the world will be different because of it, and we believe the legal world will be different because of it.”
+
+Just a day earlier, another legal blockchain initiative was announced. The Enterprise Ethereum Alliance (EEA), a cross-industry collaborative blockchain consortium aiming to leverage open-source Ethereum technology for enterprise solutions, announced the launch of its Legal Industry Working Group.
+
+Members of that group include Cooley, Debevoise & Plimpton, Goodwin, Hogan Lovells, Holland & Knight, Jones Day, Latham & Watkins, Morrison & Foerster, Perkins Coie, Shearman & Sterling, Cardozo Law School, Duke Center on Law & Technology, and the Department of Legal Studies and Business Ethics at the University of Pennsylvania’s Wharton School. Other EEA members that also joined the legal group include BNY Mellon, ConsenSys, ING, and JPMorgan Chase & Co.
+
+“Lawyers are poised to serve as the catalysts for blockchain technology, and the Legal Working Group will serve as a neutral space to explore blockchain-based legal technology, develop standards for ‘smart’ legal agreements, support emerging enterprise use cases, and tackle important policy issues raised by this new impactful technology,” Aaron Wright, chair of the working group and co-director of Cardozo Law School’s Blockchain Project, said in the announcement.
+
+And, just a few weeks before the announcements of those two legal blockchain initiatives, the smart-contracts company Clause joined forces with the Linux Foundation’s Hyperledger, the International Association for Commercial and Contract Management (IACCM), and practice-management company Clio to launch the Accord Project to develop open source technology and standards for computational contracting, including via blockchain.
+
+“Recent developments in technology have facilitated a smart contract-enabled future,” the project explains on its website. “The Internet of Things, distributed ledgers, the API economy, and artificial intelligence are just a few of the technologies that will power the contracts of tomorrow — and the Accord Project will be at the forefront to coordinate the collaboration required to bring out fundamental change.”
+
+At the announcement of the Global Legal Blockchain Consortium, it was also announced that the MIT Media Lab will host a two-day event, the MIT Legal Forum on AI + Blockchain, in Cambridge, Mass. on Oct. 30 and 31. Details have yet to be announced, but pre-registration information is available here.
+
+Why all the buzz about blockchain? At the consortium event during ILTACON, one of the speakers, Drummond Reed, chief trust officer at Evernym, the company that has developed the world’s first publicly available distributed ledger dedicated to managing digital identities, Sovrin, said that the key feature that makes blockchain a breakthrough technology is its ability solve the “global root of trust problem” in digital identification.
+
+“With a blockchain, every transaction is digitally signed, every transaction is chained together, and it’s replicated on hundreds of computers around the world with digital signatures,” Reed said.
+
+We may be at just the dawn of the blockchain era, as Baker Hostetler’s Craig said at the consortium event. But as this chain of recent developments indicates, blockchain is quickly emerging as legal technology’s new black.
+
+Robert Ambrogi is a Massachusetts lawyer and journalist who has been covering legal technology and the web for more than 20 years, primarily through his blog LawSites.com. Former editor-in-chief of several legal newspapers, he is a fellow of the College of Law Practice Management and an inaugural Fastcase 50 honoree. He can be reached by email at ambrogi@gmail.com, and you can follow him on Twitter (@BobAmbrogi).

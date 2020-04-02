@@ -1,0 +1,123 @@
+I’m sure everyone here knows that segmentation is probably the most important tool that we have in our analysis toolbox. And with the updated Google Analytics segments you can slice and dice your data in some really creative ways.
+
+Let’s take a look at the updated advanced segmentation tool, discuss how it’s changed and how you can use it to analyze your website or app.
+
+What’s new with Google Analytics Segmentation?
+
+There are three major changes coming to segmentation:
+
+1. True User Segmentation The big news is that advanced segments now support true user segmentation. This means that Google Analytics will actually segment people visiting a site or using an app. It also means we’ll be able to do things like cohort analysis.
+
+I should note that there is a limit to user segments. You can only apply a user segment over a 90 day period. Remember, the segmentation tool is literally reprocessing the data in real time, which is a lot of work.
+
+2. Sequence Filters. This is actually really big too! Now that we have true user segments we can track the behavior of users across multiple sessions. For example, you can create a segment of all the people who visited from a campaign and then bought a product some time after seeing the campaign.
+
+3. A refreshed interface. The segmentation tool has a cleaner, more logical look. Some power users may think that it’s overly simplistic. But all the functionality is still there. The new format will make it easier to create more common segments.
+
+Here’s a quick look.
+
+Let’s dive in and learn a bit more about how the segments work.
+
+Understanding User, Visit and Hit Segments
+
+User segments will return all of the data associated with a user. This means all of the visit data that the user generated during your time frame. You can apply a condition to the user, the visits or the hits.
+
+For example, I can create a user segment based on revenue. In this case I want to see all users who generated $500 in revenue. The metric in this condition, revenue is applied to the user. So the segment will total up revenue based on each individual user.
+
+It could be that a user generated $500 over multiple visits while another generated $500 over one visits. Analytics does not care. As long as the revenue for the user is greater than $500.
+
+Visit segments will return all of the data from all of the visits that meet your criteria. This is the same functionality that exists today.
+
+Let’s look at the same revenue example but now from a visit perspective. If we create a visit based segment $500 revenue per visit, analytics is going to look at all of the visits that matched criteria and return that data.
+
+Finally, there are Hit level segments. These, in some way, are also similar to what we have in Analytics today. You can apply a hit-level condition, like a pageview or an event, and Google Analytics will return all of the data from the entire visit – not just the HITS that match the condition.
+
+Creating Simple Segments
+
+Now that we know the difference between the types of segments let’s create some simple segments.
+
+The left part of the navigation has a list of dimension groups. Within each group you’ll find the most common dimensions or metrics in that group. For example, in the Ecommerce group you’ll notice both metrics (like revenue) and dimensions, like Product and Product Category.
+
+You’ll also notice that there is conditional logic for each metric or dimension. If you’ve used segmentation in the past then these will look familiar. And there’s a place to enter the value you want to evaluate in the segment.
+
+For some metrics, you have the option to apply a condition to a user OR to a session. That’s represented with a small drop-down next to the appropriate metric.
+
+Let’s go ahead and create a simple segment for User Revenue greater than $500. First I specify that I want this applied to users. Then all I need to do is choose the right conditions and enter 500 into the revenue field.
+
+Notice that when add a condition I get an indicator in the summary pane on the right.
+
+If I want to add additional conditions to this segment I need to navigate to another dimension group and add the condition. Let’s try that.
+
+I want to add a location condition to this segment. So I click on the Demographic group and I’m going to create a condition that includes people from Massachusetts.
+
+Now I have a segment of users, located in Massachusetts, that have spent more than $500 dollars with my company.
+
+I can apply this segment to any date range less than 90 days.
+
+One other thing to notice. Use the Options link to add this segment to any other profile that you commonly use.
+
+Create Advanced Segments
+
+Now that we have the basics mastered let’s move on to more complex segments. Using the Advanced section I can create segments that include multiple user conditions, multiple visit conditions, or a combination of the two.
+
+This lets you measure the impact of a single session behavior on the long-term behavior of a user. For example, you might want to understand how reading your blog impacts the long-term value of a user.
+
+Let’s build that segment.
+
+First, create a user filter based on the value of the user. Then add a visit filter to match viewing blog content.
+
+The filters are applied in two stages.
+
+First Google Analytics selects users based on the user filter (and includes all their visits).
+
+Then Google Analytics selects visits from the resulting set of data from the user condition.
+
+This very simple setup can help answer the age-old question of, “does my blog content help drive more sales and revenue?”
+
+All the content marketing fans are drooling over this segment :)
+
+Creating Sequence Segments
+
+Another advanced feature in the segmentation tool is the ability to create a sequence segment. A sequence can be between visits or it can be within a single visit. This is very similar to the sequence segments used in the Remarketing Feature.
+
+A sequence filter could be used to segment user who viewed two-consecutive pages in a row. Like two steps in a shopping cart.
+
+Here’s a segment that’s interesting. People who started a checkout process but did not purchase. It uses a page condition to represent adding something to cart. Then we evaluate if transaction were equal to zero during the session.
+
+Sequence segments are really useful when you need to see how two actions, either concurrent or separate, impact behavior.
+
+Creating Cohorts in Google Analytics
+
+I wrote a post last year about creating cohorts in Google Analytics. It was a code-based method and, needless to say, a bit hard to implement. But we can now create basic cohorts in Google Analytics.
+
+A cohort is basically a segment that includes some type of date condition. For example, I might want to look at all of the people that first visited my site in January. What have they done since January?
+
+First, you can create a cohort based on a user’s first visit to the site. There’s literally a new dimension called Date of First Visit. This means that you simply specify the date range, or a single date, for the first visit.
+
+NOTE: The date range for the cohort can not be more than 31 calendar days.
+
+You can also use the date of first visit dimension when creating other segments. For example, if I am a commerce company, I might want to combine the segmentation of first visit with total revenue for the user.
+
+I would combine the Date of First Visit condition with the E-commerce condition.
+
+The resulting data would look something like this:
+
+Reminder, user-based segments can only be apply over a 90 day period. So any cohorts you create using this method can only be applied for the last 90 days.
+
+Here’s another example. If I’m a publisher, I might want to evaluate how people who visit for the first time in a given month perform over time. I can create a segment for each month (first time user cohort) and see how each performs over time.
+
+If you’d like to look at cohorts over a timeframe longer than 90 days check out this other method for tracking cohorts with Google Analytics.
+
+Something important to know here. We can not yet create cohorts around a conversion. There are no dimensions in Google Analytics that contain the date of conversion. We only have a dimension for First Visit Date.
+
+Making it easier to Manage Segments
+
+We’ve covered most of the changes, but there are a few more changes that will make life easier for segmentation users. It’s now a LOT easier to manage all your segments.
+
+You can quickly filter all your custom segments from the pre-made segments. As well as search for segments and identify your favorite segments with a star.
+
+If you want to edit a segment click on the little gear icon that appears when you hover over the segment.
+
+Wrapping up
+
+This was a really, really long post. But I think this is one of the most important changes ever made to Google Analytics. The ability to do user segmentation really changes the way that people with use GA. And, as we move into the world of Universal Analytics where we have more data, the ability to segment users more effectively will be important.

@@ -1,0 +1,241 @@
+For over seven years, I’ve used keyword research to consistently bring myself and clients valuable, targeted long lasting traffic. It can be one of the biggest land grab opportunities in SEO – if you know the tools to use and how to use the tools.
+
+For this piece I’m going to not only share 12 of the best keyword tools out there – but ways to use them I’ve never shared anywhere else before. I’ve used one of the methods below to help a client grow their blog traffic 20 times in just six months – all by knowing where to look for opportunities (assuming of course you can execute 10x content worthy of ranking).
+
+It’s not magic. It takes work, experience, persistence and great content. But it starts with the tools and knowing how to use them. So here’s 12 keyword research tools and a way to use each one of them.
+
+Tools for topic and long tail keywords
+
+1. Google keyword planner plus Wikipedia pages
+
+Cost: Free
+
+Helpful for: Fast keyword ideas when you don’t know an industry very well
+
+Tool URL: https://adwords.google.com/ko/KeywordPlanner/
+
+Use case: This method uses a hack of Google’s keyword planner landing pages report. Let’s say you’re researching around the cloud storage industry, but maybe need fast ideas to find the ‘unknown unknowns’. Here’s the steps:
+
+Find the wikipedia page of the industry topic. Plug it into the ‘Landing Page’ area in the Keyword Planner. Use filters to drill down further for niche ideas.
+
+In this example, I’ve found some interesting keyword ideas, with a low CPC and good search volume:
+
+2. SEO book keyword density analyzer plus Wikipedia
+
+Similar to above, we’re going to combine a tool with Wikipedia pages for even more topics.
+
+Cost: Free
+
+Helpful for: Fast, tangent topic ideas
+
+Tool URL: http://tools.seobook.com/general/keyword-density/
+
+Use case: The method is similar to above, but with slightly different results. Instead of getting keyword suggestions, think of them more like topic suggestions – generally useful for content ideas.
+
+Find a wikipedia page about your industry/topic. Plug it into the keyword density tool. Scan results for interesting topics you hadn’t thought of.
+
+If you want to get a little more advanced, click the “links” filter. This will show you words used as links within the Wiki page. Since Wiki commonly links out to related topics, these ideas will be nice related topics.
+
+3. Google AutoSuggest
+
+Cost: Free
+
+Helpful for: Keyword/topic inspiration you know people are searching for.
+
+URL: Google.com
+
+Use case: I realize this method is nothing shocking or new. However, it’s all in how you use the tool creatively. One thing you probably don’t know, is that you can see up to ten suggested keywords in Autosuggest:
+
+Now that you’ll get more suggestions, here’s a little trick. You can place the cursor in-between words to get suggestions that fill in the blank:
+
+You can add letters for further suggestions:
+
+And of course, if you’re looking for a complete list of all suggest terms you can try Ubersuggest or Keywordtool.io.
+
+Off the path keyword tools
+
+The next set of tools are those often not mentioned. Or when they are, it’s just quickly in passing without much explanation of how to leverage them.
+
+4. Google Correlate
+
+So many mention Google Correlate but so little show ways to leverage it. You need to use it for its strengths which are search trends that correlate over specified time periods.
+
+Cost: Free
+
+Useful for: Seasonal/trending marketing, business, content, PR and advertising ideas.
+
+URL: http://www.google.com/trends/correlate/
+
+Use case: Let me make the power of this tool concrete. You sell a seasonal item like winter coats. You want to know what people search for two weeks before glove searches peak.
+
+Why?
+
+Because not only might you create content – but you can ride the trends that peak just before your product peaks and get on your customer’s radar just before they need your product.
+
+So here’s exactly the type of products and topics you could leverage one month prior to your peak coat sales:
+
+There’s all sorts of campaigns you could run. Perhaps some that never would have seemed relevant (like “fresh apple”) – but perhaps you sell coats to a similar demographic that would be looking for fresh apples (I imagine for fall baking etc).
+
+5. Answer The Public
+
+Answer The Public doesn’t do much earth shattering in terms of information. But it deserves to be on the list in 2016 because of how it displays the search suggest results. Most SEO keyword tools are pretty ugly, but this one incorporates some great UX and design.
+
+Cost: Free
+
+Useful for: Search suggest questions with a beautiful display. Great when you need to show something fancy to clients, in a blog post or report.
+
+URL: http://answerthepublic.com/
+
+Use case: The power of this tool really is the display, which you can download as one complete image file. However the data isn’t much different than what you’d get from other keyword suggest tools:
+
+6. Bing webmaster tools – keyword tool
+
+Poor Bing. Everyone pays attention to Google but ignores the search engine that still has about 20 percent market share (numbers can vary).
+
+To put it into perspective though, a lucrative keyword like “crm software” gets about 3,000 searches per month in Bing. That’s still a valuable place to be visible.
+
+Cost: Free
+
+Useful for: Keyword suggestions and search volumes for a search engine that still gets sizeable volumes, depending on your industry.
+
+URL: https://www.bing.com/webmaster/diagnostics/keyword/research
+
+Use case: Bing’s tool is better than Google’s in some ways, because they provide exact search volume for the time period you set:
+
+Data-driven keyword tools
+
+Although some of the tools above have “data”, the value of these tools below is driven by the data you can get – in most cases very unique to your situation. This brings a more customized and advanced look to your keyword research process.
+
+7. Google Search Analytics
+
+I’m still shocked to hear that some folks don’t use Google Search Console and Search Analytics. Perhaps they don’t see how it’s different than Google Analytics. Well, go set it up right now because there’s a whole wealth of data in there you’re missing.
+
+Cost: Free
+
+Useful for: New content ideas based off of your existing content. Also nice to make sure you existing content aligns to user expectations, and for updating existing content.
+
+URL: https://www.google.com/webmasters/tools/
+
+Use case: Search Analytics is the perfect tool for a process Cyrus Shepard wrote about this extensively on Moz. He even called it his “Single Best SEO Tip”. Essentially it’s about flipping around the traditional “keyword research” process. Sure, you can find a keyword and then write about that topic (and of course I fully advocate for that approach as well). But you you can – and should – be retroactively optimizing after you hit publish as well.
+
+Here’s a perfect, actionable example of the insight you can find in Search Analytics:
+
+Over two years ago, I created the most complete comparison of Yoast SEO and All In One SEO on my site. If you look careful at the above screenshot, users are telling me, it’s time to update your post. They have been looking for a 2016 comparison of Yoast and All In One, as evidenced by the fact they add “2016” to many searches now.
+
+If you dig through your Search Console data, you’re bound to find opportunity.
+
+8. Google Analytics internal site search
+
+Cost: Free
+
+Useful for: Finding gaps in content users are looking for on your own site.
+
+URL: https://analytics.google.com/analytics/web/
+
+Documentation: https://support.google.com/analytics/answer/1012264?hl=en
+
+Use case: This tool best answer: “what are users looking for on my site, but I’m not readily providing”? First you must quickly set it up (it takes two minutes in most cases), then you can find this report by going here:
+
+Once in there you’ll see a list of keywords users have been typing into your search bar. Here’s an example of an analytics account I have access to.
+
+That site should either:
+
+Create content to fulfill what people are looking for.
+
+And when they have the content, make it more easily accessible (by adding links to the navigation perhaps).
+
+9. Moz toolbar SERP overlay
+
+Cost: Free or Full data with Moz Pro (starts at $99/mth)
+
+Useful for: Analyzing search results for competition and opportunity.
+
+URL: https://moz.com/tools/seo-toolbar
+
+Use case: The MozBar doesn’t help you discover keywords rather it helps you analyze them right in Google’s search results.
+
+This tool is best applied when trying to evaluate if you can go after a particular keyword or topic.
+
+For example, I was researching topics for a client. One possibility that came up, was content for “healthy energy drinks”. By searching that in Google, the MozBar helps us see quickly how competitive the ranking sites are from a link authority standpoint:
+
+10. Authority Labs Now Provided
+
+I’m a huge fan of Authority Labs. They have been my number one choice in SEO rank trackers for over three years now. Here, I’m talking about a feature within their tool called “Not Provided”.
+
+For those unaware, Google started blocking keyword referrers passing from organic search to Analytics, and called this “not provided” (as in “your keyword is not provided”).
+
+Although there can be no true solution to get keyword data back, Authority Labs’ feature is one of a few out there that do give you a certain level of keyword data back.
+
+Cost: Starts at $99/month (and you get all the other rank tracking features)
+
+Useful for: Uncovering “unknown unknown” keywords with opportunity
+
+URL: https://authoritylabs.com/now-provided/
+
+Use case: As noted, this tool is great for uncovering those “unknown unknowns” – keywords you may not have known to look for to begin with.
+
+The below shows a sample of keywords driving traffic to a specific page within a website:
+
+What’s even better, is you automatically get all the metrics and trends without even having to go to a separate tool. And you can start tracking the rankings with one click.
+
+Advanced/Power keyword research tools
+
+11. Moz Keyword Explorer
+
+This is the new tool from Rand Fishkin and Moz, which they launched in May 2016. No joke, it’s one of the most powerful topic discovery tools I’ve ever used.
+
+Cost: Free trial or Moz subscription for ongoing use.
+
+Useful for: Keyword and Topic Discovery on Steroids.
+
+URL: https://moz.com/explorer
+
+Use case: Let’s say you’re trying to quickly get “out of the box” ideas, and come up with tangentially related topics to write about. Moz’s tool gives you keyword suggestions like none other.
+
+For instance:
+
+Input “team building”:
+
+Set to “based on broadly related topics and synonyms”
+
+Group keywords with “medium lexicon similarity” (you can play with those settings)
+
+And check out the related topics you get back.
+
+Keyword Explorer does a LOT more, but I think this is one of the strongest features by far.
+
+12. SEM Rush
+
+SEM Rush is one of those few tools where I truly feel like I have a secret weapon. If you spend some time with it, learning all the different ways to use it, SEM Rush never fails to deliver.
+
+Cost: Starts at $69.95 per month
+
+Useful for: Advanced keyword research, topic discovery, opportunity analysis, content ideas
+
+URL: https://www.semrush.com/
+
+Use case: For the use case, I’m going to tell you exactly how I came up with the idea and opportunity for this article. Given the opportunity to write for a publication like The Next Web, because of their high domain authority (93) in theory if the content is good and relevant to their audience – it could rank in Google for almost anything.
+
+Here’s the steps to identifying a topic with an opportunity gap:
+
+Identify a similar site or site that writes about what you want to write about. Enter their root domain into SEM Rush Go to the Organic Research -> Pages report Sort by Keywords Run filters to get blog/article only content (can only do if “blog” is in the URL etc)
+
+Here’s what I get when doing this on Search Engine Land:
+
+If you get where I’m going with this, yes, we’re basically looking for traffic to “steal” from another site – based upon the fact they have already vetted the fact you can get traffic and rankings from a particular topic.
+
+But we need to find content on Search Engine Land that is some mix of old, low quality, incomplete – basically content that we can do a much better job of creating.
+
+I found this article “Three Free Keyword Research Tools” which is old, not super packed with info – and in general – needs a better/newer version.
+
+My theory – if I create something better, post it on TNW with it’s domain authority of 93 – we have a good shot at stealing all that traffic (and I look good to TNW. Fingers crossed).
+
+Here’s some of the keywords we can possibly overtake:
+
+As noted, with some practice, this is all pretty quickly accessible within SEM Rush.
+
+Zooming out, we can see that if we displace this one article, we stand to gain a lot of potential traffic:
+
+Have any questions? Feel free leave a comment.
+
+Read next: Samsung leak hints at Galaxy S8 with iris scanner and almost bezel-less screen

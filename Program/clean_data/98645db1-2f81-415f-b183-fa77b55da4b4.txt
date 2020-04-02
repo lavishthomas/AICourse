@@ -1,0 +1,179 @@
+Trello is a terrific tool for project management and task management. The visual Kanban boards are flexible, shareable, and let you pack a ton of detail into each card. But Trello isn't just for work. You can use it to organize just about anything, perhaps your entire life.
+
+As Trello co-founder and Stack Overflow CEO Joel Spolsky explains:
+
+Some people saw Trello and said, “oh, it’s Kanban boards. For developing software the agile way.” Yeah, it’s that, but it’s also for planning a wedding, for making a list of potential vacation spots to share with your family, for keeping track of applicants to open job positions, and for a billion other things. In fact Trello is for anything where you want to maintain a list of lists with a group of people.
+
+Spolsky says he uses about 30 Trello boards regularly with everyone in his life. Once you get into Trello, you might too.
+
+If you're wondering what else you can use Trello for besides managing work projects, take a look at these inspiring example boards and suggestions.
+
+Organize Your Day
+
+Your days are filled with all sorts of to-dos for all areas of your life. Having these tasks all in one place is essential to getting things done. Unlike traditional to-do apps, with Trello you can collect your tasks into lists while still getting a bird's eye view of your entire day. That makes is a perfect tool for planning what to do next.
+
+Ross Rojek, CTO of GoLocalApps, has a board set up where he organizes tasks based on the time each takes.
+
+Alternatively, you could use lists for time blocks during the day, say, Pre-work (6 to 8), Morning (8-12), Early Afternoon (12-3), and so on. Then you can move tasks around as needed throughout the day and quickly identify the type of task it is using labels (for example: family, work, household, etc.).
+
+Track Your Time Automatically
+
+Time tracking isn't just for people who need to invoice by time spent or fill out timesheets for their boss–it's one of the best ways to increase your personal and professional productivity.
+
+Unfortunately, the manual entry required for most time tracking methods can give you a headache. Here's an easy solution: Connect Trello with RescueTime via Zapier so that every time you drag a card to your "Done" list that event will be highlighted in RescueTime.
+
+Robby Macdonell writes:
+
+Now I’m tracking events on different boards for my work and personal to-dos. Reviewing my highlights helps me see what I’m getting done and how balanced I’m being. Am I spending too much effort on work at the expense of personal tasks I need to get done? Or is it the other way around? That used to be a really hard question for me to answer and now it’s so much more visible. It also keeps me more organized because I know that if I use Trello, I’ll save myself some typing later when manually updating my highlights list. The two systems compliment each other really well.
+
+You can use this yourself:
+
+Save Recipes and Plan Your Meals
+
+I don't know about you, but the most trying part of my day is usually when dinnertime is approaching and I have no idea what I'm going to cook. Meal planning is the key to avoiding the stress of thinking "What's for dinner?" and, with a meal plan, you'll save both time and money.
+
+Trello makes it dead simple to both organize your favorite recipes and plan out a week's worth of meals–or even months' worth of meals, if you prefer.
+
+Create a recipe board where you can customize each card with a photo of the dish, a checklist of ingredients, and cooking instructions. For inspiration, see Serious Eats' J. Keni López-Alt's recipe board and Mark Bittman's recipes board. Both are public, so you can copy them to your own account. Just click on the "Show Menu" link at the top right of any Trello board, click "More," and then choose "Copy board."
+
+Then, to create a meal plan, simply add a date to the recipe card you want to make. If you go into the Trello board's calendar view (enable it under Settings > Power-Ups), you can then see your meal plan by week or month:
+
+Organize Your Reading List
+
+Got an ever-growing list of books you want to read? We're with you. You could simply keep a vertical running list of book titles in a note–or add more organization by creating cards for each book in Trello.
+
+Then, as software engineer Juvoni Beckford shares, you can track and manage every aspect of your reading life–from storing book recommendations to maintaining a reading queue to writing up book reviews for personal use. Check out his post for complete instructions on his system or grab his Trello board template to start using it yourself.
+
+Even better, share your books board with family and friends or co-workers to start a book club.
+
+Plan All the Media You Want to Consume in a Personal Dashboard
+
+Besides books, you likely have a ton of other types of media you want to get to soon. There are games to play, TV shows to binge on, new music to listen to, and movies to see. With all of that stuff, you could probably use a system to prioritize the media you're going to consume.
+
+Developer Jeff Ruberg built his media-tracking system in Trello. It uses a familiar Soon, Next, Queued Up, Currently Doing, and Done lists structure; labels for type of media; and checklists with metadata, such as links to related articles. Copy his public Trello media board.
+
+If your media list needs aren't that extensive, you could simply have one list for the books, movies, games, and so on that you want to get to in a broader personal dashboard, as Zapier Support Lead Micah Bennett does.
+
+Pro tip: With Trello's custom fields power-up, you can add star ratings to your cards. Learn how.
+
+
+
+Plan a Vacation
+
+Planning a trip usually involves a lot of juggling and decision making. (For some trips, like a visit to Disney World, planning is like having a part-time job.) Trello makes it easy to capture all the details–from your reservation confirmations to your packing list to each day's activities–so you can relax and actually enjoy the vacation.
+
+I use this for both short trips and long, packed ones, since it's easy to drag-and-drop cards to move plans around, staying flexible, but still organized.
+
+Run a Blog or Website
+
+Running a blog or website is an ongoing project that involves juggling a lot of tasks. It's a commitment, and to keep that site up and running without wasting time and energy, you need the right tools.
+
+Vicky Cassidy shares how she organizes her award-winning blog, Things I Made Today, with Trello, prioritizes blog-related tasks with Todoist, and automates what she can with Zapier. Trello in particular serves as her hub for ideas (that is, recipes to share) and captures ideas from around the web on the fly using Zapier:
+
+Cassidy also uses Trello to plan content, with lists for "Scheduled," "To Schedule," "To Make," and more.
+
+Like many other organizations, here at Zapier we use Trello for our blog editorial calendar as well as our shared ideas board. It's handy to see posts on the Calendar view and move cards around as needed.
+
+Neat Trello tool: Besides organizing your blog with Trello you can literally turn your Trello cards into published blog posts with Websites for Trello.
+
+
+
+Hunt for a Job
+
+Searching for a job could take months or even years. Along the way to your perfect next job, you'll need to keep track of the companies you want to work for, the ones you've applied to, interviews you've had, and things you need to do, such as update your resume, polish your LinkedIn profile, and follow up on job applications.
+
+Take it from Trello content marketing manager Lauren Moon, who used Trello in her job hunt to land her job at Trello. As she says, it helps to get organized: "I recently went through an arduous, months-long job search. I found, however, that the process really streamlined after I adopted Trello into my workflow."
+
+Copy Trello's job search sample board to customize it for your own job hunt.
+
+Manage Your Money and Personal Budget
+
+How do you track your money and follow a budget? A spreadsheet? Paper? If you're already using Trello to organize other areas of your life, you might appreciate using it for personal money management too.
+
+Create a financial plan, such as a plan based on Dave Ramsey's 7 baby steps, to track your progress achieving financial goals like building an emergency fund or paying off debt. Trello's Kanban view will help you see at a glance where you are in the process and nudge you along.
+
+MakeUseOf also offers a step-by-step guide to managing a budget in Trello. Set up cards for your paychecks and each bill you expect each month, track bills with labels, and see money left over with a separate card. Sure, it's more manual than using an app like Mint, but if you enjoy a hands-on approach to tracking your finances, Trello could be the tool for you.
+
+Cool Trello Tool: Trello doesn't have a way to automatically calculate list totals for your cards, but the Points for Trello Chrome extension can do it for you. Use it to add up your expenses, calculate total income, or create list totals whenever you want to see them in Trello. (h/t Bernie J. Mitchell)
+
+
+
+Track Tax Paperwork and Charitable Donations
+
+Tax season is a stressful season. Forms start flying in. Receipts seem to go missing. The filing deadline approaches rapidly. I'm particularly affected by tax stress syndrome, having mortgage- and investment-related forms, 10 freelance forms and W2s, childcare-related expenses, and business receipts to track down and gather. It's a lot of paperwork!
+
+A Trello board is a useful place to keep all those moving parts together–and share with your accountant. Trello's Stella Garber shares how she stays organized when filing taxes and a sample tax board you can copy. Similarly, if you donate items throughout the year, keep track of those donations on a Trello board to make sure you never miss a deduction.
+
+Manage Real Estate
+
+Finding a new place to live and moving into it is always an ordeal, and it's 100 times more stressful when you're trying to sell a home or buy a property (or both at the same time!). Trello can at least can help you stay organized throughout the process.
+
+Your board can contain lists of properties you're looking at and critical tasks, such as getting a mortgage approved and finding house movers. Management consultant Damien Saunders shares his Trello board template for buying a house, which you can adapt for selling a home.
+
+Trello also offers a house hunting template, which has lists for "Craigslist," "Potential," "Contacted," and "No"–which would be suitable for finding a place to rent too.
+
+Maintain Your Home or Organize a Home Improvement Project
+
+Owning a home is a ton of work that never ends. There's always something to take care of, whether it's updating old appliances, getting your kitchen remodeled, repairing a leaky faucet, or simply cleaning out the gutters. It's a little easier when you have a board dedicated to tracking home-related projects.
+
+Developer Gavin Rehkemper and his wife do just that, with a house maintenance Trello board that contains lists for each area of their house and cards for each task or project.
+
+Got one big project you want to stay on top of, such as remodeling a bathroom? You could create a board with lists such as Budget, Contractor Estimates, Products You Like, and so on.
+
+Pro Tip: Add attachments and photos to each card to better visualize your design choices and options.
+
+
+
+Plan a Wedding or Other Big Event
+
+If you have a big day planned with lots of guests involved, you'll probably want to plan out the details far in advance so the day goes smoothly and just as you picture it.
+
+Macy Volpe writes on To Travel & Beyond about how her Trello wedding board saved her countless times when she was planning her wedding, particularly when she needed access to information from her phone:
+
+I saved contracts, photos, notes, and more into each card, then I kept my planning timeline updated by moving things around as needed. As usual, but took a little bit for me to figure out how Trello could work for me in this specific way, but in the end it was the only things keeping everything together.
+
+Her tips for using Trello card include adding team members to the board to help with tasks (brides-to-be, delegate to your bridesmaids and fiancé!) and creating a weekly checklist for yourself based on the monthly tasks.
+
+Record Children's Milestones
+
+From the time they're born to the day they move out of your home, children go through so many changes–most of which you'll probably want to record to look fondly back on when they're older.
+
+Start with the baby's first year with this baby milestones Trello board. It has cards to record milestones by month in one list, but you could create individual lists for each month.
+
+Then create lists as they get older to record your kids' report cards, achievements, and other notable events.
+
+Share the board with family members so they too can enjoy these memorable times.
+
+Bonus idea: You could use Trello to track and share pregnancy milestones as well.
+
+
+
+Organize Your Hobbies and Personal Collections
+
+Many hobbies involve a collections of items and ideas for projects. If you're a painter, you'd have a collection of brushes, paints, and canvases. If you're a photographer, you might have more than one camera, a bunch of lenses, filters, and other accessories–plus locations or subjects to shoot and techniques to try. Or you just might be an avid collector of fountain pens, vinyl records, Funko toys, expensive whiskeys, etc.
+
+Trello's there to help you organize your collection and hobby. The tool's flexible enough to adapt to whatever interest you want to track visually.
+
+Gotham Quilts shares this quilt organizer Trello board, for example, while Portuguese software developer Guilherme Ferreira shows how to use Trello to manage your wine cellar.
+
+Organize Your Creative Writing
+
+Back before there were tools like Trello, both budding and experienced authors used index cards to organize their ideas, plot changes, character notes, and more into flexible lists. People still do use paper index cards, but Trello can be used the same way–only it's digital, searchable, and easily shareable.
+
+Word Wielders points out several ways you can use Trello to get a better handle on your writing. From a general writing board that contains lists by genre to a board that tracks stages of development for short stories (brainstorming, outlining, drafting, etc.), you'll find lots of examples for capturing your writing process and progress.
+
+If you're writing a screenplay in particular, you might enjoy this script outline example from Moviestud.io.
+
+Plan a Dungeons & Dragons Campaign
+
+I saved the best for last–if you're a D&D fan, that is. The fantasy role-playing game Dungeons & Dragons–especially if you're the Dungeon Master–can get very involved. You're immersed in an ongoing story with ever-evolving characters, plot twists, fictional locations, and random details.
+
+You guessed it: You can plan and organize a D&D campaign with Trello. Here's the D&D board template you can totally geek out.
+
+If you think about it, a Trello board is basically a bunch of lists laid out horizontally on one page. The beauty of Trello, however, is how the app is both easy to use and flexible, with checklists, attachments, labels, due dates, sharing, and drag-and-drop ease. You can use it to organize and track just about anything.
+
+For more ideas, check out our Trello Everything guide or see how the Trello team uses Trello.
+
+
+
+How do you use Trello outside of work?

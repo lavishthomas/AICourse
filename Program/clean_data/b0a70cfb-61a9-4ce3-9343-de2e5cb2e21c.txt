@@ -1,0 +1,13 @@
+Some people say you should jump in and just start trying to make an app or whatever it is you want to make when you're interested in learning to code. Others recommend a "bottom-up" approach, learning the basics first and slowly building over time.
+
+Semmy Purewal, a programmer at Netflix who previously taught computer programming, defines on O'Reilly the differences between the two approaches:
+
+Top-down approaches are informed by the opinion that it's better to be thrown in the middle of an application or a framework which encourages the learner to piece together knowledge in that context. Many books and online tutorials use an explicit top-down approach, often starting with the basics of a popular methodology, framework or technology. The most visible example of this are books on Ruby on Rails — they almost always inevitably begin with a description of the Model-View-Controller design pattern, but defer the incredible number of non-obvious ideas that make it up (Object-Oriented Programming, for instance). On the other hand, a bottom-up approach starts with the basics/fundamentals of programming and then slowly builds your knowledge over time. In contrast to top-down approaches, bottom-up approaches try to minimize the number of these non-obvious ideas that the learner has to take for granted. Khan Academy and Code Academy are two examples of online sites that use a bottom-up approach to teaching programming. For the most part, they completely leave out any specific framework and focus on fundamentals of programming.
+
+He recommends most beginners use the bottom-up approach, because it builds a more solid foundation, from which more meaningful learning can happen. After memorizing the basics, it'll be more natural and easier for you to use those building blocks for more advanced programs. It's like learning the most common words in a foreign language before you write a novel in that language.
+
+Advertisement
+
+Agree or disagree, Purewal makes a compelling case and also offers an eight-step plan for learning web application development.
+
+A concrete approach to learning how to program | O'Reilly

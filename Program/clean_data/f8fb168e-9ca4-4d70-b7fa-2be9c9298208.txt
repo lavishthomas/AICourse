@@ -1,0 +1,69 @@
+The 9 Marketing Disciplines of Great SaaS Companies
+
+Bill Macaitis, the former CMO of Zendesk, articulates how a SaaS marketing team should operate better than anybody else I’ve met. At a recent Point9 conference, Bill outlined the 9 marketing disciplines of great SaaS companies and how they fit together to create a marketing powerhouse. I’ve copied my notes from Bill’s talk below.
+
+Ops & Analytics Team
+
+The operations and analytics teams is the first marketing team every SaaS company should build because this team erects the experimental infrastructure for determining which marketing tactics are viable. Over time, it also becomes the largest team.
+
+Zendesk employed a combination of products to build this infrastructure including Convertro, Google Analytics, Infer, Optimizely and DemandBase. This team employed sophisticated attribution models to understand precisely how many impressions and the types of impressions were required to catalyze a conversion to paid event.
+
+In addition to managing the experiments of performance marketing, the Ops and Analytics team measures qualitative metrics like net promoter score, aided and unaided recall, and sentiment analysis of the brand. These qualitative analyses provided Zendesk insight into the top five reasons users recommended product and the top five reasons users didn’t convert to customers, informative data for adjusting marketing tactics and guiding the product roadmap.
+
+Customer Evangelism
+
+Zendesk’s strong brand enabled its efficient growth. Bill’s team built the brand by investing in long term initiatives like customer evangelism and content.
+
+Bill tasked the customer evangelism team with three goals. First, to identify evangelists; second, to nurture relationships with them; and third to leverage their enthusiasm for the product to drive awareness and ultimate conversions.
+
+For example, this team would mine the results of the net promoter score surveys for people who self identified as evangelists. The customer evangelism team would build a relationship with them and eventually ask them to write reviews, speak, or for customers on the company’s behalf, creating a huge library of positive reviews all over the web.
+
+Content
+
+Bill frames the value of the brand incredibly well. In his words, “A brand is the sum total of all interactions a customer has with the company. I never want a customer’s first interaction with a product to feel like visiting a used car salesman. In SaaS, that means the first visit is the pricing page.”
+
+To ensure this didn’t happen, Bill and his content team devised a content marketing strategy that mimicked the buying process of their target customer. The team created content (text, audio and video) for the top, middle and bottom of the funnel. Top of the funnel content focuses on industry questions like the Top 5 Trends in Customer Support, or the Top 10 Interview Questions for Support Teams. Top of the funnel content identifies Zendesk as a helpful resource in the ecosystem to future customers.
+
+Middle of the funnel content introduces the company and some of the key value propositions that solve tactical challenges for customers. Bottom of the funnel content focused on a specific features in the product that would trigger a conversion to paid event.
+
+Creating content at scale is challenging. So, much of the inspiration for the content came from interviews with different team members within the company. In addition, content is the second largest marketing team at Zendesk.
+
+Paid
+
+The third largest team is paid acquisition. Many SaaS companies equate paid acquisition to marketing. In Bill’n view, this is short-sighted. Paid is just one part of the nine disciplines of marketing.
+
+Zendesk used paid acquisition to target and saturate a particular vertical, geography, customer segment, or company. The Ops and Analytics teams’ infrastructure enabled the company to quickly determine which channels worked to drive leads and which built brand equity.
+
+Zendesk used video frequently because it was less competitive than SEO/SEM. They also advertised on the search “Zendesk alternatives” by creating a fictitious alt rock band called Zendesk Alternative. The video went viral, further bolstering the brand.
+
+Website/Conversion Team
+
+Known better as growth hacking, the Website/Conversion team is a group of front-end and back-end engineers optimizing the various funnels potential users may go through, by creating referral programs, testing new designs on the website and experimenting with incentives.
+
+Product Marketing
+
+Zendesk’s product marketing team focuses on understanding customer needs, segmenting the market and developing pricing plans to meet their needs.
+
+When Zendesk moved into the enterprise, the company tested substantially higher price points. Like other Veblen Goods, Zendesk’s product increased in demand as the team increased the price point. The higher price conferred a greater perception of value and quality to enterprise customers accustomed to paying large amounts for software.
+
+Lifecycle Nuturing
+
+The typical enterprise customer will have 10-30 interactions with a company before buying software. And because of upsell and cross-sell after the sale, more than half of the customer’s revenue potential occurs after the customer starts to pay. The lifecycle team strengthens the companys’ relationship with the customer throughout this lifecycle.
+
+Zendesk marketed to existing customers most effectively by building an internal messaging platform within their product that allowed very granular targeting and segmentation of their users. For example, if a user checks the reports tab frequently and a new advanced reporting feature were released, they might receive free access for 30 days to the advanced reports.
+
+Comms
+
+The marketing communications team is a PR team managing the brand strategy, brand narrative and the public relations of the company.
+
+International
+
+Zendesk structured their international team differently than most companies. They hired native speakers of their target countries to work at headquarters in San Francisco. Keeping these marketers at HQ enabled them to stay connected to the company and feel empowered rather than isolated.
+
+The field marketing teams complemented the HQ-based marketing teams. But these field marketing teams focused more on user activation, sales enablement and training, rather than feature announcements and content.
+
+–
+
+Bill has built marketing teams at four very successful companies. It’s plain to see why. He has mastered the structure, organization and management of large scale marketing teams that balance performance advertising and brand building, top and bottom of the funnel, product marketing and growth hacking.
+
+Published 2014-10-22 in Marketing SaaS Startups

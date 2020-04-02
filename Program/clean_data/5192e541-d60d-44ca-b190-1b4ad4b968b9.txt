@@ -1,0 +1,123 @@
+The uncertainty principle says that you can’t know certain properties of a quantum system at the same time. For example, you can’t simultaneously know the position of a particle and its momentum. But what does that imply about reality? If we could peer behind the curtains of quantum theory, would we find that objects really do have well defined positions and momentums? Or does the uncertainty principle mean that, at a fundamental level, objects just can’t have a clear position and momentum at the same time. In other words, is the blurriness in our theory or is it in reality itself?
+
+Case 1: Blurred glasses, clear reality
+
+The first possibility is that using quantum mechanics is like wearing blurred glasses. If we could somehow lift off these glasses, and peek behind the scenes at the fundamental reality, then of course a particle must have some definite position and momentum. After all, it’s a thing in our universe, and the universe must know where the thing is and which way it’s going, even if we don’t know it. According to this point of view, quantum mechanics isn’t a complete description of reality - we’re probing the fineness of nature with a blunt tool, and so we’re bound to miss out on some of the details.
+
+This fits with how everything else in our world works. When I take off my shoes and you see that I’m wearing red socks, you don’t assume that my socks were in a state of undetermined color until we observed them, with some chance that they could have been blue, green, yellow, or pink. That’s crazy talk. Instead, you (correctly) assume that my socks have always been red. So why should a particle be any different? Surely, the properties of things in nature must exist independent of whether we measure them, right?
+
+Case 2: Clear glasses, blurred reality
+
+On the other hand, it could be that our glasses are perfectly clear, but reality is blurry. According to this point of view, quantum mechanics is a complete description of reality at this level, and things in the universe just don’t have a definite position and momentum. This is the view that most quantum physicists adhere to. It’s not that the tools are blunt, but that reality is inherently nebulous. Unlike the case of my red socks, when you measure where a particle is, it didn’t have a definite position until the moment you measured it. The act of measuring its position forced it into having a definite position.
+
+Now, you might think that this is one of those ‘if-a-tree-falls-in-the-forest’ types of metaphysical questions that can never have a definite answer. However, unlike most philosophical questions, there’s an actual experiment that you can do to settle this debate. What’s more, the experiment has been done, many times. In my view, this is one of the most underappreciated ideas in our popular understanding of physics. The experiment is fairly simple and tremendously profound, because it tells us something deep and surprising about the nature of reality.
+
+Here’s the setup. There’s a source of light in the middle of the room. Every minute, on the minute, it sends out two photons, in opposite directions. These pairs of photons are created in a special state known as quantum entanglement. This means that they’re both connected in a quantum way - so that if you make a measurement on one photon, you don’t just alter the quantum state of that photon, but also immediately alter the quantum state of the other one as well.
+
+With me so far?
+
+On the left and the right of this room are two identical boxes designed to receive the photons. Each box has a light on it. Every minute, as the photon hits the box, the light flashes one of two colors, either red or green. From minute to minute, the color of the light seems quite random - sometimes it’s red, and other times it’s green, with no clear pattern one way or another. If you stick your hand in the path of the photon, the light bulb doesn’t flash. It seems that this box is detecting some property of the photon.
+
+So when you look at any one box, it flashes a red or a green light, completely at random. It's anyone's guess as to which color it will flash next. But here’s the really strange thing: Whenever one box flashes a certain color, the other box will always flash the same color. No matter how far apart you try to move the boxes from the detector, they could even be in opposite ends of our solar system, they’ll flash the same color without fail.
+
+It's almost as if these boxes are conspiring to give the same result. How is this possible? (If you have your own pet theory about how these boxes work, hold on to it, and in a bit you'll be able to test your idea against an experiment.)
+
+“Aha!” says the quantum enthusiast. “I can explain what’s happening here. Every time a photon hits one of the boxes, the box measures its quantum state, which it reports by flashing either a red or a green light. But the two photons are tied together by quantum entanglement, so when we measure that one photon is in the red state (say), we’ve forced the other photon into the same state as well! That’s why the two boxes always flash the same color.”
+
+“Hold up,” says the prosaic classical physicist. “Particles are like billiard balls, not voodoo dolls. It’s absurd that a measurement in one corner of space can instantaneously affect something in a totally different place. When I observe that one of my socks is red, it doesn’t immediately change the state of my other sock, forcing it to be red as well. The simpler explanation is that the photons in this experiment, like socks, are created in pairs. Sometimes they’re both in the red state, other times they’re both in the green state. These boxes are just measuring this ‘hidden state’ of the photons.”
+
+The experiment and reasoning spelt out here is a version of a thought experiment first articulated by Einstein, Podolsky and Rosen, known as the EPR experiment . The crux of their argument is that it seems absurd that a measurement at one place can immediately influence a measurement at totally different place. The more logical explanation is that the boxes are detecting some hidden property that both the photons share. From the moment of their creation, these photons might carry some hidden stamp, like a passport, that identifies them as being either in the red state or the green state. The boxes must then be detecting this stamp. Einstein, Podolsky and Rosen argued that the randomness we observe in these experiments is a property of our incomplete theory of nature. According to them, it’s our glasses that are blurry. In the jargon of the field, this idea is known as a hidden variables theory of reality.
+
+It would seem the classical physicist has won this round, with an explanation that’s simpler and makes more sense.
+
+The next day, a new pair of boxes arrives in the mail. The new version of the box has three doors build into it. You can only open one door at a time. Behind every door is a light, and like before, each light can glow red or green.
+
+The two physicists play around with these new boxes, catching photons and watching what happens when they open the doors. After a few hours of fiddling around, here’s what they find:
+
+1. If they open the same door on both boxes, the lights always flashes the same color.
+
+2. If they open the doors of the two boxes at random, then the lights flash the same color exactly half the time.
+
+After some thought, the classical physicist comes up with a simple explanation for this experiment. “Basically, this is not very different from yesterday’s boxes. Here’s a way to think about it. Instead of just having a single stamp, let’s say that each pair of photons now has three stamps, sort of like holding multiple passports. Each door of the box reads a different one of these three stamps. So, for example, the three stamps could be red, green, and red meaning the first door would flash red, the second door would flash green, and the third door would flash red.”
+
+“Going with this idea, it makes sense that when we open the same door on both boxes, we get the same colored light, because both boxes are reading the same stamp. But when we open different doors, the boxes are reading different stamps, so they can give different results.”
+
+Again, the classical physicist’s explanation is straightforward, and doesn’t invoke any fancy notions like quantum entanglement or the uncertainty principle.
+
+“Not so fast,” says the quantum physicist, who’s just finished scribbling a calculation on her notepad. “When you and I opened the doors at random, we discovered that one half of the time, the lights flash the same color. This number - a half - agrees exactly with the predictions of quantum mechanics. But according to your ‘hidden stamps’ ideas, the lights should flash the same color more than half of the time!”
+
+The quantum enthusiast is on to something here.
+
+“According to the hidden stamps idea, there are 8 possible combinations of stamps that the photons could have. Let’s label them by the first letters of the colors, for short, so RRG = red red green.”
+
+RRG
+
+RGR
+
+GRR
+
+GGR
+
+GRG
+
+RGG
+
+RRR
+
+GGG
+
+“Now, when we pick doors at random, a third of the time we will pick the same door by chance, and when we do, we see the same color.”
+
+“The other two-thirds of the time, we pick different doors. Let’s say we encounter photons with the following stamp configuration:”
+
+RRG
+
+“In such a configuration, if we picked door 1 on one box and door 2 on another, the lights flash the same color (red and red). But if we picked doors 1 and 3, or doors 2 and 3, they’d flash different colors (red and green). So in one-third of such cases, the boxes flash the same color.”
+
+“To summarize, a third of the time the boxes flash the same color because we chose the same door. Two-thirds of the time we chose different doors, and in one-third of these instances, the boxes flash the same color.”
+
+“Adding this up,”
+
+⅓ + ⅔ ⅓ = 3/9 + 2/9 = 5/9 = 55.55%
+
+“So 55.55% is the odds that the boxes flash the same color when we pick two doors at random, according to the hidden stamps theory.”
+
+“But wait! We only looked at one possibility - RRG. What about the others? It takes a little thought, but it isn’t too hard to show that the math is exactly the same in all the following cases:”
+
+RRG
+
+RGR
+
+GRR
+
+GGR
+
+GRG
+
+RGG
+
+“That leaves only two cases:”
+
+RRR
+
+GGG
+
+“In those cases, we get the same color no matter which doors we pick. So it can only increase the overall odds of the two boxes flashing the same color.”
+
+“The punchline is that according to the hidden stamps idea, the odds of both boxes flashing the same color when we open the doors at random is at least 55.55%. But according to quantum mechanics, the answer is 50%. The data agrees with quantum mechanics, and it rules out the ‘hidden stamps’ theory.”
+
+If you’ve made it this far, it’s worth pausing to think about what we’ve just shown.
+
+We just went through the argument of a groundbreaking result in quantum mechanics known as Bell’s theorem . The black boxes don’t really flash red and green lights, but in the details that matter they match real experiments that measure the polarization of entangled photons.
+
+Bell’s theorem draws a line in the sand between the strange quantum world and the familiar classical world that we know and love. It proves that hidden variable theories like the kind that Einstein and his buddies came up with simply aren’t true 1 . In its place is quantum mechanics, complete with its particles that can be entangled across vast distances. When you perturb the quantum state of one of these entangled particles, you instantaneously also perturb the other one, no matter where in the universe it is.
+
+It’s comforting to think that we could explain away the strangeness of quantum mechanics if we imagined everyday particles with little invisible gears in them, or invisible stamps, or a hidden notebook, or something - some hidden variables that we don’t have access to - and these hidden variables store the “real” position and momentum and other details about the particle. It’s comforting to think that, at a fundamental level, reality behaves classically, and that our incomplete theory doesn’t allow us to peek into this hidden register. But Bell’s theorem robs us of this comfort. Reality is blurry, and we just have to get used to that fact.
+
+Footnotes
+
+1. Technically, Bell’s theorem and the subsequent experiment rule out a large class of hidden variable theories known as local hidden variable theories. These are theories where the hidden variables don’t travel faster than light. It doesn’t rule out nonlocal hidden variable theories where hidden variables do travel faster than light, and Bohmian mechanics is the most successful example of such a theory.
+
+I first came across this boxes-with-flashing-lights explanation of Bell's theorem in Brian Greene’s book Fabric of the Cosmos . This pedagogical version of Bell’s experiment traces back to the physicist David Mermin who came up with it. If you’d like a taste of his unique and brilliant brand of physics exposition, pick up a copy of his book Boojums All the Way Through .
+
+Homepage Image: NASA/ Flickr

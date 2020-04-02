@@ -1,0 +1,39 @@
+The day my app (AutoCAD WS) crossed one million downloads on the App Store, the first question that crossed my mind was how did I ever end up doing marketing? I was a techy product manager and never imagined myself in marketing, until my app was in a life or death situation.
+
+The startup I co-founded (which was later acquired by Autodesk) developed a CAD B2B app for engineers. After launching our product, we started marketing it by the book – crafting our positioning and working with a PR agency to approach bloggers. This didn’t work. We went at it a second and third time – tweaking our positioning and web site once again, adding more product features and writing to more bloggers. Didn’t work – again.
+
+I gradually came to an understanding that when competing with hundreds of thousands of other apps for attention, marketing is not just another ingredient in an app’s success. It’s the main one. We were a small team with a very limited marketing budget, so we declared war the only way we knew how – as engineers and UX designers. The following months we left what we knew about traditional marketing behind and started exploring new and creative ways to reach new users, and like the engineers we were – measuring each step along the way, down to the last click. These days the product is celebrating 10M downloads worldwide with customers from dozens of Fortune 500 companies.
+
+Here are some non-traditional tactics that helped us get there.
+
+Making a Vertical App Horizontal (or in other words, making a boring app interesting)
+
+Our product seemed to us like the most exciting app – changing the way engineers and designers work together. Sadly, not many writers shared our excitement. We were classified by the press and media as a ‘niche’ app and were having a hard time getting coverage.
+
+The first big marketing step for a vertical app to admit that it is one. Your killer aquarium manager, Classical music SongPop or wood chopping app won’t interest the average person, but to get to your vertical users you’ll have to use mainstream channels. We managed to get out of our ‘niche’ by working hard on creating funny, quirky and even touching content. Instead of trying to pitch our product and new features, we tried to make people laugh and feel something about it.
+
+Here’s one example where we worked hard to make our app more interesting: when launching our Android version we decided to use the one thing we knew Android users love best – Android. We created ‘Andy the Engineer’ as our mascot, and the video we created for the app showed an architectural version of Andy with plenty of ‘Andy’ jokes. That video got over 1M views, an amazing number considering we’re talking about a video for a CAD app. Those kinds of materials got us into the main Android blogs and got Android fans to tell their designer friends about us.
+
+Getting Customer Stories and Testimonials – The Guerilla Way
+
+From day one we heard beautiful stories about how users were using our app – from building theme parks to oil rigs. But every time we approached companies asking them to write their story – Legal and ‘what’s in it for me’ got in the way. I decided that instead of contacting users I’ll try going the other way around and work with those who contacted us.
+
+When receiving support requests over email from users coming from interesting companies, I actually picked up the phone and rang them. Yes, imagine sending your feedback and having the founder of the app call you 10 minutes later. After talking to users about their request and learning how they were using our app and how it helped them be more productive, I asked their permission to write about it.
+
+In less than two weeks we had amazing stories about designing mines in Brazil, a new children’s hospital, musical theater hall and many more. Small tip: the sooner you call the more likely you are to get good cooperation. I had the “One hour” rule, calling users no later than an hour after receiving their email.
+
+Create a Direct Channel to Your Users – You’ll Be Thankful During Your Next Cloud Outage
+
+Every successful startup has its downtimes, broken versions and awful bugs, and that’s exactly when you’ll want to directly communicate with your users. Requesting users to sign-up using their email was one of the hardest product decisions I ever made. We lost about 10% of users during sign-up. It paid off though – we had one long downtime following a new release and another one when Amazon had an extended outage. At that point a lot of users don’t check your blog or twitter account, but instead go directly to the App Store – to rank your app with a one star. Using email and in-app messages we were able to share the problem with our users directly. Unexpectedly, not only were most users supportive, we even saw a pickup in usage after notifying users that everything was back to normal. Watching your 4.5/5 star rank you’ve worked so hard for sink in just a few days due to a tech problem is every app developer’s nightmare.
+
+Turn On All Engines, We’re Going Global!
+
+It doesn’t matter if it’s a free or paid app – when playing in the mobile arena it’s a numbers game. Every download counts, whether it’s coming from NY or from a village in China too small to be shown on Google Maps. Localizing the app was the first step, but the 2X increase we saw in our numbers came from localizing our marketing. We started by localizing every pixel of content on our app store page.
+
+It’s not enough to translate the app description – we wanted a Russian user to see a screenshot with a Russian user name in it, a Brazilian user to see drawings in Portuguese and a Chinese user to see the app’s contact list with Chinese service email addresses. We worked on different marketing kits for each country – sending local bloggers a summary in their own language, images of the app relevant to their readers and full download numbers for their own country. Small tip : we stored each device’s language to send users newsletters in their own language.
+
+[Some of the imagery used on our international campaigns – straightening the leaning tower of Pisa for our Italian launch and pulling out our app from a Matryoshka for our Russian version]
+
+Marketing is all about telling your product’s story, and it’s difficult when that story is a bit more complicated than photo-sharing. Our app has always been an outsider – taking a 30 year old desktop product to mobile and into the cloud doesn’t make you the most popular kid at school (neither the mobile school nor the CAD one). We fought our own battle with what we felt was right for us and achieved the results we wanted.
+
+With hundred of thousands more of these “outsider” apps finding their way in the App store, I hope to see even more marketing wars fought in unique ways and with stories told in their own voices. And downloads, lots and lots of downloads.

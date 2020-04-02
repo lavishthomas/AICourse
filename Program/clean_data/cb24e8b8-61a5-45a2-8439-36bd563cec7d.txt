@@ -1,0 +1,47 @@
+Big Data and the ever-growing access we have to more information is the driving force behind artificial intelligence and the wave of technological change sweeping across all industries.
+
+But all the data in the world is useless – in fact it can become a liability – if you can’t understand it. Data visualization is about how to present your data, to the right people, at the right time, in order to enable them to gain insights most effectively.
+
+Luckily visualization solutions are evolving as rapidly as the rest of the tech stack. Charts, videos, infographics and at the cutting edge even virtual reality and augmented reality (VR & AR) presentations offer increasingly engaging and intuitive channels of communication.
+
+Here’s my run-down of some of the best, most popular or most innovative data visualization tools available today. These are all paid-for (although they all offer free trials or personal-use licences). Look out for another post soon on completely free and open source alternatives.
+
+Tableau
+
+Tableau is often regarded as the grand master of data visualization software and for good reason. Tableau has a very large customer base of 57,000+ accounts across many industries due to its simplicity of use and ability to produce interactive visualizations far beyond those provided by general BI solutions. It is particularly well suited to handling the huge and very fast-changing datasets which are used in Big Data operations, including artificial intelligence and machine learning applications, thanks to integration with a large number of advanced database solutions including Hadoop, Amazon AWS, My SQL, SAP and Teradata. Extensive research and testing has gone into enabling Tableau to create graphics and visualizations as efficiently as possible, and to make them easy for humans to understand.
+
+QlikSense
+
+Qlik with their QlikSense tool is the other major player in this space and Tableau’s biggest competitor. The vendor has over 40,000 customer accounts across over 100 countries, and those that use it frequently cite its highly customizable setup and wide feature range as a key advantage. This however can mean that it takes more time to get to grips with and use it to its full potential. In addition to its data visualization and data exploration capabilities Qlik offers powerful business intelligence, analytics and enterprise reporting capabilities and I particularly like the clean and clutter-free user interface. There is also a strong community and there are plenty of third-party resources available online to help new users understand how to integrate it in their projects.
+
+Microsoft Power BI
+
+Microsoft also competes strongly in this space with its Power BI tool. Power BI is a powerful suite of business analytics tools with great data visualisation capabilities. A big advantage that come with Power BI is the intuitive user interface which users of any Microsoft product will be familiar with. Power BI also comes with a large support eco system and a myriad of supported data sources. In terms of data visualisation, Power BI offers a large range of standard data visualisation formats anyone would expect as well as the ability to create customized and user-defined visualizations as well as sophisticated 3D maps. Finally, it is very competitively priced.
+
+Fusion Charts
+
+This is a very widely-used, JavaScript-based charting and visualization package that has established itself as one of the leaders in the paid-for market. It can produce 90 different chart types and integrates with a large number of platforms and frameworks giving a great deal of flexibility. One feature that has helped make FusionCharts very popular is that rather than having to start each new visualization from scratch, users can pick from a range of “live” example templates, simply plugging in their own data sources as needed.
+
+Highcharts
+
+Like FusionCharts this also requires a licence for commercial use, although it can be used freely as a trial, non-commercial or for personal use. Its website claims that it is used by 72 of the world’s 100 largest companies and it is often chosen when a fast and flexible solution must be rolled out, with a minimum need for specialist data visualization training before it can be put to work. A key to its success has been its focus on cross-browser support, meaning anyone can view and run its interactive visualizations, which is not always true with newer platforms.
+
+Datawrapper
+
+Datawrapper is increasingly becoming a popular choice, particularly among media organizations which frequently use it to create charts and present statistics. It has a simple, clear interface that makes it very easy to upload csv data and create straightforward charts, and also maps, that can quickly be embedded into reports.
+
+Plotly
+
+Plotly enables more complex and sophisticated visualizations, thanks to its integration with analytics-oriented programming languages such as Python, R and Matlab. It is built on top of the open source d3.js visualization libraries for JavaScript, but this commercial package (with a free non-commercial licence available) adds layers of user-friendliness and support as well as inbuilt support for APIs such as Salesforce.
+
+Sisense
+
+Sisense provides a full stack analytics platform but its visualization capabilities provide a simple-to-use drag and drop interface which allow charts and more complex graphics, as well as interactive visualizations, to be created with a minimum of hassle. It enables multiple sources of data to be gathered into one easily accessed repositories where it can be queried through dashboards instantaneously, even across Big Data-sized sets. Dashboards can then be shared across organizations ensuring even non technically-minded staff can find the answers they need to their problems.
+
+I will be updating this list at least on an annual basis so let me know if you know of any other great tool you would include here. Let me know if you would like to see any other tool included.
+
+Thank you for reading my post. Here at LinkedIn and at Forbes I regularly write about management, technology and Big Data. If you would like to read my future posts then simply join my network here or click 'Follow'. Also feel free to connect on Twitter, Facebook or Slideshare.
+
+Also, you might like to know that my brand new book 'Data Strategy: How to Profit from a World of Big Data, Analytics and the Internet of Things' is out now.
+
+And if you want something to read now, then you could check out my my new and free ebook 'Beyond The Big Data Buzz: How Data Is Disrupting Business In Every Industry In The World'.

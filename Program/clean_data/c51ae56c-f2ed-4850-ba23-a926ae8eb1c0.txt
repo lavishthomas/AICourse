@@ -1,0 +1,95 @@
+By David Harper
+
+(Contact David)
+
+
+
+
+
+In this section, we try to answer the question, "what earnings number should be used to evaluate company performance?" We start by considering the relationship between the cash flow statement and the income statement. In the preceding section, we explained that companies must classify cash flows into one of three categories: operations, investing, or financing. The diagram below traces selected cash flows from operations and investing to their counterparts on the income statement (cash flow from financing (CFF) does not generally map to the income statement):
+
+
+
+
+
+Many cash flow items have a direct counterpart, that is, an accrual item on the income statement. During a reporting period like a fiscal year or a fiscal quarter, the cash flow typically will not match its accrual counterpart. For example, cash spent during the year to acquire new inventory will not match cost of goods sold (COGS). This is because accrual accounting gives rise to timing differences in the short run: on the income statement, revenues count when they are earned and they're matched against expenses as the expenses are incurred.
+
+
+
+Expenses on the income statement are meant to represent costs incurred during the period that can be tracked either (1) to cash already spent in a prior period or (2) to cash that probably will be spent in a future period. Similarly, revenues are meant to recognize cash that is earned in the current period but either (1) has already been received or (2) probably will be received in the future. Although cash flows and accruals will disagree in the short run, they should converge in the long run, at least in theory.
+
+
+
+Consider two examples:
+
+
+
+Depreciation - Say a company invests $10 million to buy a manufacturing plant, triggering a $10 million cash outflow in the year of purchase. If the life of the plant is 10 years, the $10 million is divided over each of the subsequent 10 years, producing a non-cash depreciation expense each year in order to recognize the cost of the asset over its useful life. But cumulatively, the sum of the depreciation expense ($1 million per year x 10 years) equals the initial cash outlay.
+
+
+
+- Say a company invests $10 million to buy a manufacturing plant, triggering a $10 million cash outflow in the year of purchase. If the life of the plant is 10 years, the $10 million is divided over each of the subsequent 10 years, producing a non-cash depreciation expense each year in order to recognize the cost of the asset over its useful life. But cumulatively, the sum of the depreciation expense ($1 million per year x 10 years) equals the initial cash outlay. Interest Expense - Say a company issues a zero-coupon corporate bond, raising $7 million with the obligation to repay $10 million in five years. During each of the five interim years, there will be an annual interest expense but no corresponding cash outlay. However, by the end of the fifth year, the cumulative interest expense will equal $3 million ($10 million - $7 million), and the cumulative net financing cash outflow will also be $3 million.
+
+Major Category: For Example: Specific Implications: 1. Recognizing Revenue Too Early Selling with extended financing terms. For example, the customer doesn\'t pay for 18 months. Revenue recognized in current period but could be "reversed" in the next year. 2. Delaying, or "front loading" expenses to save them in future years Capitalizing expenditures that could be expensed
+
+Slowing down depreciation rate of long-term assets
+
+Taking big write-offs (also know as "big baths") Only part of the expenditure is expensed in the current year - the rest is added to future depreciation expense
+
+Depreciation expense is reduced in current year because total depreciation expense allocated over a greater number of years
+
+Saves expenses in future years 3. Overvaluing Assets Underestimating obsolete inventory
+
+Failing to write down or write off impaired assets As obsolete (low-cost) inventory is liquidated, COGS is lowered and gross profit margins are increased
+
+Keeping overvalued assets on the balance sheet overstates profits until losses are finally recognized. 4. Undervaluing Liabilities Lowering net pension obligation by increasing the assumed return on pension assets
+
+Excluding stock option expense A lower net pension obligation reduces the current pension cost.
+
+Avoids recognizing a future transfer of wealth from shareholders to employees
+
+
+
+1. Operating Income Before Depreciation and Amortization (EBITDA)
+
+Sprint does not show EBITDA directly, so we must add depreciation and amortization to operating income (EBIT). Some people use EBITDA as a proxy for cash flow because depreciation and amortization are non-cash charges, but EBITDA does not equal cash flow because it does not include changes to working capital accounts. For example, EBITDA would not capture the increase in cash if accounts receivable were to be collected.
+
+The virtue of EBITDA is that it tries to capture operating performance, that is, profits after cost of goods sold (COGS) and operating expenses, but before non operating items and financing items such as interest expense. However, there are two potential problems. First, not necessarily everything in EBITDA is operating and recurring. Notice that Sprint\'s EBITDA includes an expense of $1.951 billion for "restructuring and asset impairments." Sprint surely includes the expense item here to be conservative, but if we look at the footnote, we can see that much of this expense is related to employee terminations. Since we do not expect massive terminations to recur on a regular basis, we could safely exclude this expense.
+
+Second, EBITDA has the same flaw as operating cash flow (OCF), which we discussed in this tutorial\'s section on cash flow: there is no subtraction for long-term investments, including the purchase of companies (because goodwill is a charge for capital employed to make an acquisition). Put another way, OCF totally omits the company\'s use of investment capital. A company, for example, can boost EBITDA merely by purchasing another company.
+
+2. Operating Income After Depreciation and Amortization (EBIT)
+
+In theory, this is a good measure of operating profit. By including depreciation and amortization, EBIT counts the cost of making long-term investments. However, we should trust EBIT only if depreciation expense (also called accounting or book depreciation) approximates the company\'s actual cost to maintain and replace its long-term assets. (Economic depreciation is the term used to describe the actual cost of maintaining long-term assets). For example, in the case of a REIT, where real estate actually appreciates rather than depreciates - where accounting depreciation is far greater than economic depreciation - EBIT is useless.
+
+Furthermore, EBIT does not include interest expense and, therefore, is not distorted by capital structure changes. In other words, it will not be affected merely because a company substitutes debt for equity or vice versa. By the same token, however, EBIT does not reflect the earnings that accrue to shareholders since it must first fund the lenders and the government.
+
+As with EBITDA, the key task is to check that recurring, operating items are included and that items that are either non-operating or non-recurring are excluded.
+
+3. Income From Continuing Operations Before Taxes (Pre-Tax Earnings)
+
+Pre-tax earnings subtracts (includes) interest expense. Further, it includes other items that technically fall within "income from continuing operations," which is an important technical concept.
+
+Sprint\'s presentation conforms to accounting rules: items that fall within income from continuing operations are presented on a pre-tax basis (above the income tax line), whereas items not deemed part of continuing operations are shown below the tax expense and on a net tax basis.
+
+The thing to keep in mind is that you want to double-check these classifications. We really want to capture recurring, operating income, so income from continuing operations is a good start. In Sprint\'s case, the company sold an entire publishing division for an after-tax gain of $1.324 billion (see line "discontinued operations, net"). Amazingly, this sale turned a $623 million loss under income from continuing operations before taxes into a $1.2+ billion gain under net income. Since this gain will not recur, it is correctly classified.
+
+On the other hand, notice that income from continuing operations includes a line for the "discount (premium) on the early retirement of debt." This is a common item, and it occurs here because Sprint refinanced some debt and recorded a loss. But in substance, it is not expected to recur and therefore it should be excluded.
+
+4. Income From Continuing Operations (Net Income From Continuing Operations)
+
+This is the same as above, but taxes are subtracted. From a shareholder perspective, this is a key line, and it\'s also a good place to start since it is net of both interest and taxes. Furthermore, it excludes the non-recurring items discussed above, which instead fall into net income but can make net income an inferior gauge of operating performance.
+
+5. Net Income
+
+Compared to income from continuing operations, net income has three additional items that contribute to it: extraordinary items, discontinued operations, and accounting changes. They are all presented net of tax. You can see two of these on Sprint\'s income statement: "discontinued operations" and the "cumulative effect of accounting changes" are both shown net of taxes - after the income tax expense (benefit) line.
+
+You should check to see if you disagree with the company\'s classification, particularly concerning extraordinary items. Extraordinary items are deemed to be both "unusual and infrequent" in nature. However, if the item is deemed to be either "unusual" or "infrequent," it will instead be classified under income from continuing operations.
+
+
+
+
+
+
+
+In theory, accrual accounting ought to be superior to cash flows in gauging operating performance over a reporting period. However, accruals must make estimations and assumptions, which introduce the possibility of flaws.The primary goal when analyzing an income statement is to capture normalized earnings , that is, earnings that are both recurring and operational in nature. Trying to capture normalized earnings presents two major kinds of challenges: timing issues and classification choices. Timing issues cause temporary distortions in reported profits. Classification choices require us to remove one-time items or earnings not generated by ongoing operations, such as gains from pension plan investments.Most timing issues fall into four major categories:Premature revenue recognition and delayed expenses are more intuitive than the distortions caused by the balance sheet , such as overvalued assets. Overvalued assets are considered a timing issue here because, in most (but not all) cases, "the bill eventually comes due." For example, in the case of overvalued assets, a company might keep depreciation expense low by carrying a long-term asset at an inflated net book value (where net book value equals gross asset minus accumulated depreciation), but eventually the company will be required to " impair " or write-down the asset, which creates an earnings charge. In this case, the company has managed to keep early period expenses low by effectively pushing them into future periods.It is important to be alert to earnings that are temporarily too high or even too low due to timing issues.Once the income statement is adjusted or corrected for timing differences, the other major issue is classification. In other words, which profit number do we care about? The question is further complicated because GAAP does not currently dictate a specific format for the income statement. As of May 2004, FASB has already spent over two years on a project that will impact the presentation of the income statement, and they are not expected to issue a public discussion document until the second quarter of 2005.We will use Sprint's latest income statement to answer the question concerning the issue of classification.We identified five key lines from Sprint's income statement. (The generic label for the same line is in parentheses):In theory, the idea behind accrual accounting should make reported profits superior to cash flow as a gauge of operating performance. But in practice, timing issues and classification choices can paint a profit picture that is not sustainable. Our goal is to capture normalized earnings generated by ongoing operations.To do that, we must be alert to timing issues that temporarily inflate (or deflate) reported profits. Furthermore, we should exclude items that are not recurring, resulting from either one-time events or some activity other than business operations. Income from continuing operations - either pre-tax or after-tax - is a good place to start. For gauging operating performance, it is a better starting place than net income, because net income often includes several non-recurring items such as discontinued operations, accounting changes and extraordinary items (which are both unusual and infrequent).We should be alert to items that are technically classified under income from continuing operations but perhaps should be manually excluded. This may include investment gains and losses, items deemed either "unusual" or "infrequent" and other one-time transactions such as the early retirement of debt.

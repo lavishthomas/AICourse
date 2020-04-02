@@ -1,0 +1,51 @@
+The Food and Drug Administration on Wednesday approved the first-ever gene therapy in the US.
+
+The drug, called Kymriah, is a highly personalized cancer treatment called CAR T-cell therapy (CAR is short for chimeric antigen receptor).
+
+It's a type of cancer immunotherapy, which harnesses the body's immune system to take on cancer cells. In this case, the therapy removes a person's cells, reengineers them, then puts them back in their body to attack cancer cells.
+
+The FDA approved Kymriah to treat pediatric acute lymphoblastic leukemia in people up to age 25.
+
+The one-time treatment isn't cheap: Novartis, which makes Kymriah, on Wednesday said the price would be $475,000, which is lower than many expected. Only about 600 people a year could get this treatment, based on Wednesday's approval. Even so, the approval has industry experts and cancer doctors excited.
+
+"This approval will open the floodgates for these kinds of therapy to be used in many different leukemias, lymphomas, solid tumors, myelomas," Dr. Prakash Satwani, a pediatric hematologist-oncologist at Columbia University Medical Center, told Business Insider. "I think this is just the beginning of a new era of gene therapy."
+
+How Kymriah works
+
+Kymriah isn't your run-of-the-mill pill — or even a biologic drug, like insulin — that can be mass produced. Since the therapy is made from a person's own immune system, the process can take about three weeks.
+
+To start, a doctor removes some white blood cells, the part of our body's immune system responsible for combatting infections and foreign substances, from a patient. In a healthy body, the immune system can recognize abnormal, cancerous cells, but for people with cancer, it doesn't recognize that the cells are spreading.
+
+Then the cells are taken to Novartis' manufacturing facility in New Jersey, at which point the cells are reengineered to recognize cancer cells and wipe them out.
+
+Those reprogrammed cells are sent back and administered to the patient.
+
+While that's a one-time process, it's not the end of the road. About half of the patients in a Kymriah study got cytokine-release syndrome, a response to the reprogrammed cells running loose in the body. It can cause high fevers and flu-like symptoms, and it can be life-threatening. If they get it, patients need to be admitted to intensive-care units, which can bring additional costs. (The FDA on Wednesday expanded the approval of Actemra, a rheumatoid-arthritis drug that can also treat cytokine-release syndrome.)
+
+Other severe side effects can pop up and require hospitalization. Satwani — who hasn't delivered the CAR-T therapy but is heading up the program at Columbia, one of the 32 sites Novartis will use — said patients would need to be monitored closely for about a month, meaning they'd need to be less than a two-hour drive from their hospital.
+
+But while the treatment is complex, it offers huge rewards.
+
+"We have to keep in mind that patients will get cured of leukemia," Satwani said. "It's a great accomplishment."
+
+In a trial of 63 patients treated with Kymriah, 83% were in remission after three months, and 64% were still in remission after a year.
+
+"Patients who get this therapy basically have no chance to survive," Satwani said. "Obviously, this will change the lives of many patients and their families and the field."
+
+'A big new field of medicine'
+
+Kymriah is the first CAR-T cell therapy to get approved, and several more are in the works. Kite Pharma, Juno Therapeutics, and Bluebird Bio are among a growing group of biotech companies working with CAR-T. Kite, which was recently acquired by Gilead Sciences, is expected to hear back from the FDA about its treatment for aggressive B-cell non-Hodgkin lymphoma by November.
+
+"We're at the very beginning of what's going to be a big new field of medicine," said David Epstein, who helped license Kymriah from the University of Pennsylvania while at Novartis.
+
+Epstein left Novartis in 2016 as CEO of its pharmaceuticals divisions. He's now the executive chairman of Rubius Therapeutics, a biotech firm that's also working with cell therapy to develop treatments like Kymriah that don't have to be as personalized. The hope is that one day doctors will be able to prescribe a cell therapy and use it that same day instead of waiting weeks to get it back.
+
+Epstein said he envisioned cell therapies having much shorter life cycles than traditional drugs. Instead of getting a better, updated therapy for a disease every decade or so, we might begin to see second-generation cell therapies in a few years.
+
+Those updates could increase the number of patients that cell therapies can treat. The 600 or so people a year eligible for Kymriah now could become tens of thousands, but it would require some major changes, Epstein said.
+
+For one, the treatments would have to treat more types of cancer than the one Kymriah was approved for on Wednesday.
+
+They'd also have to be less toxic so that more people could consider it, instead of only those who have very few other options. CAR-T's side effects can be deadly. In May, Kite disclosed that one person had died in a clinical trial for its late-stage CAR-T therapy from cerebral edema, a condition in which excessive fluid causes the brain to swell. And last year, Juno said five people in its clinical trials had died, all from cerebral edema.
+
+And to affect more people, the cell therapies would need to go beyond blood cancers. Right now, that's where most of the big successes have come from, but that could one day include solid tumors and maybe even autoimmune diseases like Type 1 diabetes, Epstein said.

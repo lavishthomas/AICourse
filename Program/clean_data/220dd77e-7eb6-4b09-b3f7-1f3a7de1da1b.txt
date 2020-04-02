@@ -1,0 +1,37 @@
+Loading the player...
+
+What is the 'Enterprise Value (EV)'
+
+Enterprise Value, or EV for short, is a measure of a company's total value, often used as a more comprehensive alternative to equity market capitalization. The market capitalization of a company is simply its share price multiplied by the number of shares a company has outstanding. Enterprise value is calculated as the market capitalization plus debt, minority interest and preferred shares, minus total cash and cash equivalents. Often times, the minority interest and preferred equity is effectively zero, although this need not be the case.
+
+EV = market value of common stock + market value of preferred equity + market value of debt + minority interest - cash and investments.
+
+BREAKING DOWN 'Enterprise Value (EV)'
+
+Enterprise value can be thought of as the theoretical takeover price if the company were to be bought. In the event of such a buyout, an acquirer would generally have to take on the company's debt, but would pocket its cash for itself. EV differs significantly from simple market capitalization in several ways, and many consider it to be a more accurate representation of a firm's value.
+
+The value of a firm's debt, for example, would need to be paid by the buyer when taking over a company, thus enterprise value provides a much more accurate takeover valuation because it includes debt in its value calculation.
+
+Enterprise Value As an Enterprise Multiple
+
+Enterprise multiples that contain enterprise value relate the total value of a company as reflected in the market value of its capital from all sources to a measure of operating earnings generated, such as EBITDA.
+
+EBITDA = recurring earnings from continuing operations + interest + taxes + depreciation + amortization
+
+The Enterprise Value/EBITDA multiple is positively related to the growth rate in free cash flow to the firm (FCFF) and negatively related to the firm's overall risk level and weighted average cost of capital (WACC).
+
+EV/EBITDA is useful in a number of situations:
+
+The ratio may be more useful than the P/E ratio when comparing firms with different degrees of financial leverage (DFL).
+
+EBITDA is useful for valuing capital-intensive businesses with high levels of depreciation and amortization.
+
+EBITDA is usually positive even when earnings per share (EPS) is not.
+
+EV/EBITDA also has a number of drawbacks, however:
+
+If working capital is growing, EBITDA will overstate cash flows from operations (CFO or OCF). Further, this measure ignores how different revenue recognition policies can affect a company's CFO.
+
+Because free cash flow to the firm captures the amount of capital expenditures (CapEx), it is more strongly linked with valuation theory than EBITDA. EBITDA will be a generally adequate measure if capital expenses equal depreciation expenses.
+
+Another commonly used multiple for determining the relative value of firms is the enterprise value to sales ratio, or EV/Sales. EV/sales is regarded as a more accurate measure than the Price/Sales ratio since it takes into account the value and amount of debt a company has, which needs to be paid back at some point. Generally the lower the EV/sales multiple the more attractive or undervalued the company is believed to be. The EV/sales ratio can actually be negative at times when the cash held by a company is more than the market capitalization and debt value, implying that the company can essentially be by itself with its own cash.

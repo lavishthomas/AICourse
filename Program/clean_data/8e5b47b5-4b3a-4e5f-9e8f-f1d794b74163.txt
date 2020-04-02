@@ -1,0 +1,91 @@
+The web provides us with a firehose of data and information. The data captured includes: How many visitors to your blog or website, the number of social media shares, what country they visited from and the list goes on and on and on and on!
+
+This explosion of data extends into a murky horizon of thousands of data points.
+
+But the secret to success online isn’t the data itself but the insights it provides you and and what you do with it. All bloggers, online stores and big brands need to finetune their digital platforms to ensure that they maximize sales.
+
+So you need web analytics tools.
+
+What web analytics tools dominate?
+
+In all the years Google Analytics has been around it has provided a ton of actionable metrics for businesses of all sizes. In fact, if you thought of Google Analytics as a vendor and pit it against competition, Google Analytics simply dominates.
+
+Analytics tool trends data from Builtwith reveals that Google Analytics still remains far above the rest in terms of usage. But other than the ten biggest, 43% of the market is still captured by smaller players. It’s a very splintered market beyond the top 10.
+
+For most practical purposes and general data, the metrics you glean from Google Analytics is more than sufficient.
+
+But businesses need more than just aggregated, general data. They need specific metrics that tell a story. Metrics help with decision-making and the numbers ought to get as precise as possible. Plus, there are many specific use cases that require data Google Analytics can’t provide.
+
+
+
+To help you obtain important insights here are 5 website analytics tools to consider using to optimize your success online.
+
+1. Rankwatch
+
+Mitch Briggs of Digital Relevance writes that keywords and SEO optimization are still important and very much alive.
+
+They certainly are. Researching and targeting keywords remain the basic foundation for your search strategy.
+
+That’s not hard to grasp, but the constant research, continuous tweaking, developing content, and tracking results off your efforts is hard. Tools like RankWatch make it easy to manage your SEO efforts.
+
+Using RankWatch, you are armed with a single dashboard that shows your Google ranking metrics relating to your keyword performance, competitor analysis, backlink audits, and easy-to-understand reports.
+
+RankWatch also has triggered emails that will notify you instantly when your rankings move up or down. This is something that Google Analytics is not built to do. Further, RankWatch’s USP, if you ask me, would be the “Hidden Opportunity” feature which tells you keywords for which you rank on page 2 or 3.
+
+2. KissMetrics
+
+What happens when a visitor arrives at your website for the first time versus the same individual visiting your website for the 6th time?
+
+If the first visit was assumed to be just “Checking you guys out,” the 6th visit could be “I want to find out more about your Product X.”
+
+Your visitor’s behavior changed over time. She trusts your website more and probably follows you on social networks. She might also be subscribed to your newsletter and the 6th visit might have been a result of “intent to purchase”.
+
+But how would you know that if you just used Google Analytics which only tells you how many people visited your site, and from where? How would you make any sense of your “bounce rate”? Are customers leaving to come back later or are they leaving to never return again?
+
+It’s hard to get a grip of what’s happening on your website. KissMetrics, however, makes it easy to track individual visitor metrics, behavior over a period of time, typical and recent referrals, and a “timeline view” of how the behavior of each visitor changes with time on your website.
+
+Those patterns aren’t random. They could possibly mean potential opportunities for your business.
+
+3. Wistia Video Analytics
+
+How many people click, play and watch your explainer video, online demo, or any of your marketing videos? How many viewers actually dig your “video tutorial bank”? If all you did was upload videos on YouTube and Vimeo, you only get to know your subscriber count and total number of views.
+
+The total views of your video is a little like vanity metrics on social media – it massages your ego and makes you feel good but there isn’t anything in these numbers that make sense.
+
+Video analytics is surprisingly rare given the popularity of videos online.
+
+Wistia is a video self-hosting service that also provides video analytics that dig deeper than just “views” – Wistia’s analytics helps you to figure out how long your viewers watch the video, and to what extent, and the number of times an individual watches the same video.
+
+It also tells you how many viewers converted (using Wistia’s Turnstile for collecting email addresses within the video).
+
+4. ClickTale
+
+ClickTale gives you web analytics, in-ecommerce store analytics, and real-time feedback on customer experience in your web properties designed for conversion. While traditional analytics (read Google Analytics) provide only page-to-page data, ClickTale provides “in-site” data allowing you to optimize your site and boost profits.
+
+ClickTale has multiple products but the notable features are “Playable videos of users’ browsing experiences” or session playback and “in-page analytics”. ClickTale also captures tablet and mobile specific input methods such as taps, zooming, double-taps, pinch, scroll, and many others. Other notable features are form analytic, a website visual optimizer, and a heat map suite.
+
+5. Zapbi
+
+All of the above tools are great if you have an ecommerce site.
+
+What if you have an ecommerce site (using Google Analytics in combination with any of the above or others) and also a real, brick-and-mortar store? How do you get data then?
+
+What if you wanted analytics for your merchandising and loyalty programs? If you had questions about your own inventory or about how your products sell over periods of time, Google Analytics isn’t going to help.
+
+It’s time for Zapbi to take over – it provides online retailers with data and metrics on displays, merchandising, loyalty programs, and your physical POS terminals.
+
+It’s a comprehensive suite of analytics tools for retailers including “store operations” analytics such as staffing, operating expenses, store reports, and more.
+
+Over to you
+
+What else do you think Google Analytics can’t do? What are some of the areas Google Analytics has the potential to grow?
+
+Tell me what you think.
+
+Author: Pratik Dholakiya is the co-Founder and VP of Marketing of E2M, a digital marketing agency and MoveoApps, a mobile apps development company. He’s a “must follow” SEO expert according to Search Engine Watch and has been named one of the top content marketing influencers by Onalytica.
+
+Listen to this post as a podcast
+
+
+
+Podcasting provided by Odovox.com

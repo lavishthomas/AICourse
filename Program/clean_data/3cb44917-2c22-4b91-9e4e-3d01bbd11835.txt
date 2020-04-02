@@ -1,0 +1,13 @@
+For someone getting major dental work or reconstructive surgery, it can be hard to visualize what they’ll look like afterwards. You can do casts and make wax molds, but that’s a bit… 19th century, isn’t it? A Swiss startup brings the, in retrospect, obvious solution of augmented reality to the problem, giving patients a virtual view of the smile they could soon have.
+
+The company, Kapanu, is a spin-off of Swiss technical university ETH Zurich; CEO Roland Mörzinger collaborated with Disney Research to create an augmented reality engine for medical purposes, and dentistry was chosen as a good first application.
+
+It works by matching a 3D scan of the person’s mouth cavity (a procedure many dentists do already) to scans of known sets of good teeth already used for this kind of thing. Once the software locks onto the user’s mouth and teeth, it overlays the improved teeth — and that’s where the fun starts. There are options the user can then tweak: how close the teeth are, various shapes and spacing and so on. All the changes are visible live.
+
+Once the patient has customized their teeth and given them a preview in the AR “virtual mirror,” the final model is sent off for manufacture wherever it is replacement teeth are made.
+
+The system was shown at the International Dental Show in Cologne last winter, and apparently they were mobbed. It clearly impressed the big players in this corner of the health world: this June Kapanu was acquired by Ivoclar Vivadent. No word on the terms, but the company is operating independently.
+
+It’s a nice success story for augmented reality, which often is relegated to applications that are little more than toys. A real business with everyday applications that tangibly benefit people — imagine that!
+
+Featured Image: Kapanu

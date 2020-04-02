@@ -1,0 +1,207 @@
+I'm a collector of perspectives. I think each perspective we have within reach is another option we have to solve problems. We should all learn as many as possible. Each one increases the number and quality of solutions we can create.
+
+Programming paradigms are different perspectives on solving a problem with software. Each of the paradigms is valuable. But they seem so hard to define. People will discuss endlessly what each paradigm means, trying to be inclusive of what they consider important and what they don't. To take an example, we get definitions of functional programming which are satisfying to the definer but not to everyone. And we get people pointing fingers, saying "that's not real object-oriented programming". These discussions are unsatisfying because they rehash the same tired ideas and never reach any firm conclusions.
+
+I'd like to take a broader perspective and try to shed some light on why they are so hard to define. That might help me understand how to define them well.1
+
+What is a programing paradigm?
+
+paradigm a philosophical and theoretical framework of a scientific school or discipline within which theories, laws, and generalizations and the experiments performed in support of them are formulated Merriam-Webster paradigm a) a framework containing the basic assumptions, ways of thinking, and methodology that are commonly accepted by members of a scientific community.
+
+b) such a cognitive framework shared by members of any discipline or group: the company’s business paradigm. Dictionary.com
+
+Most of the time, programming paradigms are described in terms of their features or constraints. I think this is a useful perspective. Languages associated with a paradigm often share many features. For instance, functional languages typically have first-class functions.
+
+But there is a much better way to think of the paradigms that doesn't reduce them to lists of features. Each of the major paradigms is a wholistic approach to solving problems with code. The paradigms are frameworks containing basic assumptions, ways of thinking, and methodology. To define a paradigm in terms of the features of a language (OO is encapsulation, FP is no state) is to ignore the definition of paradigm as a way of thinking. It is a totally mental thing, which is why you can program any paradigm in any language.
+
+I'd like to go through the three predominant paradigms (procedural, object-oriented, and functional) and describe both their features and their wholistic methodologies. Along the way, we'll explore why the definitions of the paradigms are so hard to define.
+
+Procedural Programming
+
+Procedural Programming is a very solid programming paradigm that has proven its viability in industry. It doesn't get as much credit as it deserves these days.
+
+The features
+
+Procedural Programming is characterized by statements which each have an effect. For instance, the effect could be setting the value of a variable or it could be printing a line to the terminal. You often see procedural languages have subroutines (sometimes called functions) which contain other statements. Subroutines allow you to build your own effects from other effects, give them names, and call them like any another statement. You get reuse and abstraction.
+
+The methodology
+
+The Procedural Programming approach to solving problems with software is to treat any solution like a series of steps to be performed. Each step could actually be a complex subtask that includes many smaller steps. I really like this approach to solving problems. It corresponds so well to a very common way of describing a solution: a list of steps to take to arrive at the solution.
+
+It's very much like the grade school exercises of describing in detail how to make a sandwich. It's a very complex procedure if you try to write it out. Let's assume you are only allowed to give instructions in terms of gross body movements like "pick up", "grasp", and "turn your arm". You could painstakingly describe every action that you needed to perform to make a sandwich. In order to make it more tractable, you'd probably want to break down common actions as subroutines and name them appropriately. It's the only way to manage the number of steps.
+
+Many everyday solutions are given in terms of steps to accomplish. Recipes in cookbooks. Furniture assembly instructions. Directions to the library. Any How-To material. It's something we all are very familiar with.
+
+A lot of people associate procedural with global variables and unrestrained mutable state. However, I don't think that's central to the paradigm. It's simply that most procedural languages don't provide any other good ways of managing state. The paradigm itself makes perfect sense and combined with powerful tools, it could be great. A quick example: Communicating Sequential Processes. Adding a channel abstraction to procedural (sequential) code makes it work pretty well for concurrency.
+
+Some good examples of languages that are clear examples of being really well-suited to procedural programming are Python and Basic.
+
+The paradox
+
+Another reason I like Procedural is that the language features map so well to the paradigm. Statements in series (on subsequent lines) mean sequential steps. Subtasks are defined and named with subroutines. Repeating steps are done with loops. And that's basically it. Any other features of the language are just niceties on top.
+
+And this close match between language features and metaphor is actually another feature. Tasks and subtasks match so well with statements and subroutines. You can teach the features and the paradigm in one go!
+
+There is such a correspondence between them that it can feel like there is no paradigm at all. And this is what I'll call the Procedural Paradox. When your language is so well-suited to the paradigm that you can't distinguish between them, you're winning, yet the paradigm is invisible. The Procedural Paradox gets us used to talking about features, not metaphors and thought processes. It becomes difficult to talk about paradigms that aren't as well-matched to the language.
+
+Object Oriented Programming
+
+I really like Object Oriented Programming. I studied it a lot at University and I tinkered with different ways of setting up solutions to problems. I explored Design Patterns.
+
+After I got out of college, though, I started to read more about it. I came across the work of Alan Kay, the inventor of Object Oriented Programming. He talked about Object Oriented Programming in a way that none of my professors had. And I learned that Alan Kay does not consider Java to be Object Oriented. It was the language I used the most in my OO Design classes. That caused a deep rift in my soul that I've tried to mend since. If Java isn't OO, then what is?
+
+Of course the answer is Smalltalk. Apparently Smalltalk was so glamorous that other languages took on some of the features of Smalltalk to call themselves OO. Those languages became what people learned instead of Smalltalk. So now we refer to Java and C++ and others as Object Oriented, even though they're not.
+
+I've watched a lot of talks by Alan Kay. Some several times. I recommend them, though he's a deep thinker and doesn't lay it all out for you. I had to log many hours of Kay's talks to really start to understand what he was talking about. Well worth it, though. I'll make reference to his work because I think he's good at distinguishing the thought process from the features. If you want to get into Alan Kay talks, start with The computer revolution hasn't happened yet. That's the gateway talk.
+
+The features
+
+Many people have tried to decipher what Alan Kay actually meant by the term OOP. Luckily, he pops up on the internet every now and then to answer questions like these. There's an email where he lists the features of OO as he sees it:
+
+Message passing Encapsulation of local state Late binding
+
+Late binding is easy to explain. A common compiler trick is to figure out exactly what instructions need to be called so you can optimize. So you do lookups as soon as possible, sometimes as soon as compile time. You might see a compiler building a table of all functions and their names. Then it might even inline those functions if it guesses it's faster code. For example, Java will inline method calls. Late binding means you can't do that. You have to wait till the message is received to look up the method definition, because it could change its meaning at any point.
+
+Encapsulation is the idea that an object can maintain its own state and keep it internally consistent. The only way to read or change the state is by sending a message. Java actually does this as a feature.
+
+Message passing is interesting. A message sent must be received and decoded on the other side. I believe this features is absent in Java and many other OO languages. Methods in Java are little more than functions executed inside of the object's scope. There is no receipt of a message which must be interpreted. That interpretation step is very important because it allows different objects to interpret the message in different ways--not just the standard way objects typically interpret messages by looking them up in a vtable . For instance, it could have a method missing method that does something else. The message has to exist for this to work.
+
+So those are the features. What's the approach to solving problems?
+
+The methodology
+
+The approach to solving problems is a little harder to decipher. We have some clues, like that Java is not it. And I have watched a lot of talks and read everything I could from Kay. It turns out that the email I mentioned before has a lot of clues.
+
+1. Cells/network of computers
+
+When Alan Kay was trying to create a new programming system, he was inspired by cells in a body. The number of cells is huge. The number of faults is huge (cells die or misbehave all the time). Yet the organism is surprisingly resilient (though also not perfect). Cells in our body are self-contained and send chemical signals to each other. It's an interesting metaphor for both the size of the object (cells are tiny) and the scale we can achieve (trillions of cells). Likewise, another metaphor he brings up often is individual computers on a network. Each computer sends and receives messages.
+
+So we're looking at an approach to solving a problem which breaks the problem down into objects that send each other messages. If you wanted to find an analogue in the real world, you'd probably have to look to org charts or other diagrams of communication. For instance, the restaurant guest tells the waiter what she wants to eat. The waiter tells the cook. Then the cook tells the waiter when the food is ready, etc. Each of those steps is a message passed.
+
+From The Early History of Smalltalk:
+
+The last thing you wanted any programmer to do is mess with internal state even if presented figuratively. Instead, the objects should be presented as sites of higher level behaviors more appropriate for use as dynamic components.
+
+2. Getting rid of data
+
+At the time Smalltalk was conceived, much of Computer Science and programming had to do with data structures. That basically meant algorithms for walking pointers and keeping things organized in memory. For instance, you would write a loop that traversed a linked list by following the next pointer. He saw the object as a way to avoid having to organize things so intricately. Objects managed their own, small states and knew how to access them to provide a high-level interface.
+
+However, doing encapsulation right is a commitment not just to abstraction of state, but to eliminate state oriented metaphors from programming.>
+
+-- The Early History of Smalltalk
+
+This idea of avoiding state-oriented metaphors is very reminiscent of the Tell-Don't-Ask principle that we hear about a lot in the Ruby community.
+
+3. Algebras
+
+Alan Kay had a degree in Mathematics. Very briefly, an algebra is a set of elements and the operations on those elements. So an object could belong to many such sets, and so belong to many algebras. Just as a simple example, a String could belong to the algebra of text and also the algebra of lists (of characters).
+
+Kay was trying to provide a means of expressing generic behaviors that objects could participate in. We see an attempt at this with Java-style interfaces. But a more sophisticated version is Ruby's pervasive Duck Typing.
+
+The most obvious example of this kind of OO programming in a language is Smalltalk. But Erlang might be a better fit since it's more cleanly about message passing. It doesn't have the classes, methods, and inheritance--features which people often conflate with OOP.
+
+The problem
+
+I should say I really like the paradigm as espoused in Smalltalk and Alan Kay's work. The torch is carried on, at least partially, by the Ruby community. But even there, it is touch-and-go. Why is that?
+
+I think the reason is the Procedural Paradox. The supporting features of the paradigm do not map well with the assumptions and thought processes of the paradigm. Sure, the features support that kind of thinking, but they don't correspond one-to-one. In procedural programming, the methodology of "procedural abstraction" (breaking a task into subtasks) corresponds so well with "use more subroutines". However, no imperative in the OO methodology corresponds to a simple imperative to use the features. I can't say "use more late binding" and expect more algebras to develop. In order to learn "OO Design", we need books to describe Tell-Don't-Ask, Command-Query-Separation, and many of the Design Patterns which explain how they map down to features of the paradigm.
+
+Alan Kay talks about some of these failings of OO, which were evident way back in 1993, in The Early History of Smalltalk. What was clear was that just borrowing the features without the methodology was not going to get you Object Oriented Programming, though many people still call it that.
+
+Four techniques used together—persistent state, polymorphism, instantiation, and methods-as-goals for the object—account for much of the power. None of these require an "object-oriented language" to be employed—ALGOL 68 can almost be turned to this style—an OOPL merely focuses the designer's mind in a particular fruitful direction. -- The Early History of Smalltalk
+
+Perhaps aligning the features with the techniques will help programmers do "real OOP" more often and we can dispense with the arguments about OO Design. For instance, maybe we could call methods "goals" and interfaces "algebras".
+
+Sandi Metz, a veteran Smalltalker, is one person carrying the "message passing" torch in the Ruby community. In Nothing is Something, she shows Rubyists how pervasive message passing is in Smalltalk: even conditionals were done with message passing. She's a great teacher and highly respected. However, this talk shows how far non-Smalltalk programmers stray from the paradigm. We'll see that functional does not fare much better.
+
+Not real OOP
+
+Alan Kay himself said that when he used the term Object-Oriented, he didn't have Java or C++ in mind. So how is Java not object-oriented? Obviously, since you could use the message-passing paradigm in any language, that applies to Java, too. But what often happens in Java is that classes are used to merely bundle state and operations on that state into one place. Great! Except then all of the state is exposed through property accessors (also known as getters and setters). You've basically recreated structs with functions. There's no abstraction into algebras.
+
+One of the problems with OOP, in my opinion, is how tenuous this line is between "abstract computer" that I can send messages to and "smart structs" (merely bundling functions with data). On one side of the line, we see the beautiful flourishing of high-productivity, low line-count, highly abstracted systems. On the other, a proliferation of giant classes, all tightly coupled. Sandi Metz presents some simple rules that seem to help in this talk. Fred George talks about this also in The Secret Assumption of Agile.
+
+So what is the paradigm of Java? I don't know if it has one clear, essential paradigm. If I had to pick one, I'd say that it's a top-down modeling paradigm. Remember, we're talking about an approach to solving problems. And my overwhelming experience is that in Java, you are encouraged to model the entities in a problem using classes and their behaviors using methods. I've given a talk about the problems with OOP education called Lies my OO Teacher Told me, and in it I discuss the dangers of trying to model the world this way. The talk goes into more depth, but just briefly: when you're programming a school registration system, do you really want a Student class and a Course class? Do they have a register method? If you take a step back, what you're really simulating is the book the school uses to keep track of which students are in which courses. And that book has clear properties (for instance, it probably has a first-come-first-served discipline for registering for courses).
+
+Inheritance
+
+A lot of people associate OOP with inheritance, a class hierarchy, and is-a relationships. That's probably due to how OOP is taught in school. I don't think this class hierarchy can actually get you any computation without the message passing. It's essentially a static notion, not one that can result in computation. Smalltalk had inheritance, but it was debated within the Smalltalk group itself and was not considered central to the language. I think the excessive focus on a class hierarchy is a legacy of trying to marry the static type system with inheritance.
+
+Functional Programming
+
+Functional Programming is old but it's finally getting a lot of attention in industry. People are really curious about it, there's plenty of hype, and there's plenty of confusion as people try to pin down just what exactly FP is.
+
+The features
+
+The features of Functional Programming are easily apparent:
+
+Immutable data First-class functions Lexical closures Pure functions ...
+
+Not all functional languages have all of these features, just like not all OOP languages have classes. They're just more commonly used in functional languages.
+
+The methodology
+
+The approach to problem solving is less mapped out. There have been many attempts and I will try my hand here. Whereas procedural programming expresses a solution as a series of steps, and OOP expresses a solution as communicating objects, Functional Programming expresses solutions as data, calculations, and effects.
+
+1. Data
+
+Data goes back to the very beginnings of writing where people would mark down how many cattle they traded. They would draw a picture or tie a knot for each head. The number was permanently recorded in the medium--hence we want data to be immutable.
+
+Data plays a similar role in computer programs. You record something, such as user input, or you fetch a stored record, say from the database, and it is passed around and used in calculations. Most programs use data in some way, but it is not explicitly called out in the paradigm like it is in Functional Programming.
+
+2. Calculation
+
+Functional Programming makes a distinction between effectful operations and pure calculation. Calculations take data as input and return data as output. I like to think of them as "thinking" separated from "acting". You can think about what you need in the store as you are shopping. Or you can take some time to calculate what you need before you go to the store.
+
+3. Effects
+
+Effects are the reasons we run programs. We run programs for their effects, generally. That means we want to see something on the screen or send an email or do something in the world.
+
+By separating out these three ideas, we decompose a problem. For instance, serving up a web page may look something like this:
+
+Query DB => Data => Render HTML => HTML => Send response Effect Data Calculation Data Effect
+
+Why separate things along these boundaries? Well, it's because of how they compose. For instance, two effects can be composed either in series (one after the other) or in parallel (same time), but the composed thing is a new effect. Let's write this very roughly as Effect + Effect => Effect .
+
+Two calculations can be composed in a similar way. I can take two functions and chain them in series ( function (x) { return f(g(x)); } ). Or I can run them both and return both answers ( function (x) { return [f(x), g(x)]; } ). In either case, I get a new calculation. Calculation + Calculation => Calculation .
+
+And, just to be complete, there are many ways to combine data (hashmaps, lists, tuples, etc.), but I always get data out. Data + Data => Data .
+
+The interesting thing is when we combine two things from different groups. I can compose a calculation, like uppercasing a string, with an effect, like printing. function (s) { println(uppercase(s)); } . In the FP paradigm, that would be seen as a new effect. So Calculation + Effect => Effect .
+
+Similarly, I could combine data with a calculation. This makes what's called a closure, which is just another kind of calculation. Data + Calculation => Calculation .
+
+If let's say I make a new thing that always prints (Effect) "Hello" (Data) (e.g., function() { println("Hello"); } ), that new thing would be an Effect, Data + Effect => Effect .
+
+These are just some examples of how things can compose.
+
+But then it really gets fun ... because you can make everything first class. You can have effects in your data, calculations as arguments to other calculations, etc. A function is just data until you call it. And applying a function to complex data is akin to interpreting code in a language. Remember these ideas are all in your mind.
+
+And of course, if you can compose, you can decompose. Making code more functional usually involves separating out parts of your code along these three boundaries. Take an Effect and pull out some Calculation from it. Pull out some Data from your Calculation, etc.
+
+State (a thing that varies with time) may deserve a place among those three. But as some people have said, you can always create State from Effects, so we'll just bundle it in there for now.
+
+The problems
+
+One of the problems is that many functional languages lack a strict correspondence between language features and these three key concepts. For instance, in Clojure there really is no distinction between Calculations and Effects. We use fn s for both. Haskell does it the best with its IO type which marks a clear and useful line around what it considers an Effect. However, the distinction between calculation and effect is made for you arbitrarily. I do believe that the correspondence is slightly better than in OOP. In general, making something "more functional" means moving more of your code from effects into calculations and data.
+
+Another problem is that I can't find anyone else who breaks things down this way. People often talk about a lack of state or a lack of side-effects, but this is clearly not what defines FP. Functional programs are run for their side effects just like programs from other paradigms. And the fact that these things "problematic" features are called out goes to show how important they are to the approach. Some people talk about programming with first-class functions, which hints at the idea of combining calculations, but that leaves out the other two ideas.
+
+Notice also that the FP perspective fruitfully distinguishes calculations from effects, but that doesn't mean that distinction isn't also fruitful in the other paradigms. It's more that it's not part of the definition. Applying the FP analysis to the other paradigms can definitely be valuable and another example of the value of multiple perspectives.
+
+Discussion
+
+It may be a fool's errand to even attempt to classify the paradigms. Do they even exist? I think they exist in our minds, which is where much of our work happens. We need these kinds of classification structures to help us do our work and talk about it.
+
+The nice thing about these paradigms is that if you notice, none of them are pure. Sure, computers sending messages to each other is a great metaphor, but you still have to program each of those computers somehow. In Erlang, that programming tends to be done in a functional way, but in Ruby, it's procedural. And when programming our effects in FP, they tend to be done in a procedural way (in Haskell using the do notation or in Clojure just by sequencing effects). This is definitely not an either-or thing. It's more like complementary approaches. You can see them happening at different levels of architecture.
+
+However, having said that, there is the conflict between Alan Kay's goal of "getting rid of data" and FP's enthusiastic use of data. I have to say this is a big discussion in itself. To touch on it briefly, look at Smalltalk's insistence that "everything is an object". Even numbers are message receivers. Contrast this with Erlang which distinguishes data (numbers, arrays, tuples, hashmaps, etc) and processes (which receive messages).
+
+In a way, they're both getting rid of some of the worst parts of data--that is, the arbitrary use of blocks of bytes to represent data structures and the corresponding code to walk those data structures. Erlang made a practical decision to not allow new types of data and so could guarantee that they could all be efficiently handled by the VM and you don't get the chance to make arbitrary data structures in memory. On the other hand, Smalltalk's goal of "getting rid of data" (data being inert encodings of facts that need to be interpreted by the receiver) was never realized and is still an ongoing thought experiment in the mind of Alan Kay.
+
+Conclusions
+
+We need to distinguish between the features and the methodologies. When we argue, we need to be aware that it doesn't make much sense to argue about which features define a paradigm. The paradigm is mental and often hard to express, which is why we talk about "real OOP" and doing "FP in my language".
+
+There is perhaps hope to break the curse of the Procedural Paradox. Can we make the languages a better expression of the paradigm? Or, more generally, what does starting with the paradigm tell us about how to design languages? There is no doubt that all of these paradigms are useful and that they are not mutually exclusive. They are simply different perspectives on the same thing--solving problems with code. A language and its features should be more clearly framed as support for expressing our thinking, regardless of paradigm.
+
+If you're into exploring this kind of thing, you should subscribe to the free PurelyFunctional.tv Newsletter. It's ten links to deep stuff that I'm reading and watching, mostly about Clojure and Functional Programming.

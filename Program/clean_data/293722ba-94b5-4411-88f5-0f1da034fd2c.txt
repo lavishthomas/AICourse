@@ -1,0 +1,167 @@
+If you think Americans have a love affair with cars now, just wait until people begin to treat them not merely as a means of transportation but as smartphones on wheels — or robot servants.
+
+Automobiles are more wired than ever. But experts say the late-model cars on the road today are just a precursor to truly connected cars. In the near future this next generation of cars — loaded with sensors and screens, feeding back to third parties huge amounts of data on vehicle performance and even driver behavior — will communicate with other devices, be loaded with apps and even make their own decisions.
+
+While for now the smart car is lagging behind the smart home, automobile manufacturers, technology firms, ride-hailing companies and financial institutions are on course to integrate automobiles into the burgeoning Internet of Things. In the process they intend to revolutionize transportation and the fabric of people's daily lives.
+
+"The car is going to be an extension of who you are, just like the phone is," said Suresh Ramamurthi, the chairman and chief technology officer of CBW Bank, a small bank in Weir, Kan., that has attracted a national client base of fintech startups.
+
+In the more distant future, the car may become something greater still: an autonomous agent that can carry out tasks and authorize payments without requiring its owner's input. It may even have its own bank account.
+
+The revolution in automotive technology and mobility services will be a financial revolution as well. From frictionless payments to improved underwriting models, connected cars will rewrite the rules for how and where banks interact with their customers and change the way people manage and spend their money.
+
+As in the days when mobile banking came into vogue, ignoring the trend is not an option, said Jeremy Carlson, a principal analyst at IHS Automotive. "Technology overall is changing everything about our lives very, very quickly. And the car, and transportation, and mobility, are part of that."
+
+The new mobility landscape ushered in by connected cars will produce both winners and losers — among financial institutions as well as automakers. What is an opportunity for a forward-looking bank such as CBW may be a risk to others that are slow to adapt.
+
+What follows are four areas in which the connected car looks set to impact, if not outright transform, the world of finance.
+
+Five to seven years from now, cars and gas pumps will be able to communicate with each other, says Brett King, the chief executive of the mobile banking startup Moven.
+
+1. Payments
+
+This is the big one, the one everybody thinks of. If the car becomes a smartphone, then it's a no-brainer to bring mobile — truly mobile-payments to everybody's morning commute. Ramamurthi predicts that cars in the near future will store profiles of their drivers, mapping their routines and streamlining everything that requires a payment along the way, whether it's paying a toll or buying a cup of coffee at a drive-thru.
+
+Five to seven years from now, cars and gas pumps will be able to communicate with each other, said Brett King, the co-founder and chief executive of the mobile banking startup Moven and the author of "Augmented: Life in the Smart Lane." The car will negotiate the payment for you; no more pulling out plastic or fumbling for spare change. The same goes for toll roads and parking garages.
+
+"The ability to lower the friction by having the car talk to that environment and make a payment on your behalf is a fairly obvious use case," King said.
+
+Banks are working on just this sort of technology. In December 2016, at a U.S. Bancorp hackathon devoted to applications for the Internet of Things, one of the teams conceptualized a smart-vehicle capability that would allow a car to pay automatically for drive-thru orders. U.S. Bank's chief innovation officer, Dominic Venturo, had no trouble seeing the benefits. "From an issuing perspective, the more places we enable customers that have a payment card with us to use their card, the better for" U.S. Bank, he said.
+
+While the hackathon version used the phone as a bridge to the car to demonstrate the potential, the idea is that the payment credentials ultimately would be stored in the car itself. When it's time to pay, a message might pop up on the navigation system: "OK to pay $12.95?"
+
+This would be quite an improvement from mobile payments today, when trying to use Apple Pay at a drive-thru usually requires an employee to "literally hand you a point-of-sale device through the window," said Venturo.
+
+While Carlson cautions that such solutions won't appear overnight — or be universal right from the start — some companies are already working on multipartner solutions. A case in point is the BuyWay platform being developed by the payments technology firm FIS and SAP, the German software multinational, to allow consumers to pay for gas from their connected cars.
+
+Once all fuel pumps have been made "more addressable," FIS and others will be free to build a variety of apps and mobile wallets that interact with the pumps, said Doug Brown, the head of FIS Mobile. Some consumers may be loyal to BP, for instance, and will opt to use the BP app and earn loyalty rewards. Others would rather use their in-car bank app for every refueling and will visit gas stations simply based on price or convenience.
+
+Unlike many initiatives from banks and payments companies, BuyWay is no mere proof of concept. The go-to-market version is slated to roll out sometime this year. Brown said that some major fuel providers have already gotten on board, though he declined to name names.
+
+When Accenture partnered with Visa in 2015 to develop a proof of concept for connected-car payments, refueling was one of three key use cases — along with quick-service restaurants and parking — chosen to demonstrate how they might work. The demo used onboard diagnostics and Bluetooth beacons to allow an in-car app to communicate with a gas pump, which together determined the amount of fuel needed and enabled payment with a touch on the dashboard.
+
+The success of that demonstration led Visa to begin working in earnest, alongside partners such as Accenture and Samsung, to integrate Visa payments into Internet of Things devices, including automobiles.
+
+While much of the technology to make such payments a reality exists, "it's not just about the technology," said Richard Meszaros, the connected-commerce lead at Accenture. "It's about the ecosystem that needs to be part of this user experience. The car may have the technology, but if the car can't talk to the fuel pump it doesn't matter. There is a network effect [that has to happen] here."
+
+Ramamurthi is already working on even more sophisticated car-based payments. With connected cars providing "intimate feedback" about driver behavior as well as the location and condition of the vehicles themselves, he said, it will be possible to contextually determine a payment across multiple dimensions, including location, time, amount and frequency.
+
+"You could say, 'I'm only going to let my daughter eat ice cream once a week,'" he said. "I can do crazy things. Once you control four or five dimensions, the intersection of those dimensions is a particular use case."
+
+The owner of a fleet of trucks who has a partnership with Shell Oil, for instance, could ensure that his drivers only filled up at Shell gas stations. The bank that enables that kind of contextual payment will get the business, Ramamurthi said. His other company, Yantra Financial Technologies, has developed a digital platform that allows client banks to design products and services involving contextual payments.
+
+Driverless cars will likely bring even more radical changes — and such vehicles are no longer the stuff of science fiction. Uber began ferrying passengers in self-driving cars as part of a pilot program in Pittsburgh in September, though the vehicles still had humans at the wheel who could take over driving if needed.
+
+A fully autonomous vehicle equipped with its own payment credentials could pick up and pay for groceries independently. It could earn money as a taxi while its owner was at work. If it ran on electric power — as most do — it could take itself to a recharging station when it was low on energy and pay the fee.
+
+"It sort of gives a new meaning to the term automobile, because it truly is automated," said Dave Schwab, an executive in the Accenture's connected-commerce practice. "As they become autonomous, they become agents that can go do valuable things for us."
+
+Anthony Levandowski, who leads Uber's driverless-car team, recently told the Financial Times that a human driver is still necessary as a fail-safe because its technology "is effectively not good enough to be an autonomous vehicle yet." But once the technology has been perfected, and people begin to cede control to driverless cars — not only over their mobility but over their finances — it could be the beginning of a new era for payments.
+
+With much of consumers' payment activity automated, and with intelligent agents conducting commerce on people's behalf, "the current value of payment systems — rewards and points and miles — kind of breaks down," said King. "Banks will need to have a very different view of the way they enable those experiences." They may get only one shot to win over a customer-at the point when the customer is selecting the payment method that will underlie his autonomous vehicle's transactions.
+
+Banks, then, will have to create new payment products that offer compelling reasons for why they should be linked to customers' cars. Whatever form such a product takes, King said he feels certain that "it's not going to be plastic. It's not going to be a credit card."
+
+Soon enough drivers will be able to check their balances, pay their bills, move money and perform other simple transactions in the car, says Brian Pearce, the head of business development for Wells Fargo Virtual Channels.
+
+2. Banking on the go
+
+Connected cars will allow drivers for the first time to manage their finances from behind the wheel. Brian Pearce, the head of business development for Wells Fargo Virtual Channels, has dedicated himself to anticipating, as he puts it, "the next mobile banking, the next tablet banking, the next Apple Watch banking" — and he says banking from one's car is the next big thing. Drivers will be able to check their balances, pay their bills, move money and perform other simple transactions.
+
+The nature of American society makes this not only possible but practically inevitable. The U.S. is a car country, as observers both foreign and American have long noted. The Census Bureau found that 86% of U.S. workers commuted to work by car in 2013, and some 75% of them drove alone.
+
+"We know that customers spend a lot of time in their cars," Pearce said, "and we know that a lot of those trips they're actually by themselves." The question, then, is what sort of banking app they would want to use behind the wheel.
+
+Wells Fargo has spent the past couple of years trying to find the answer. Pearce says his team acquired some early versions of in-dash software kits and has done some prototyping, though it isn't ready to announce anything yet.
+
+There are challenges to developing an app for connected cars. Banking while driving has to be not only hands-free but eyes-free, allowing drivers to stay focused on the road. "When we got the software it came with a pretty thick binder of rules and regulations" regarding what sort of app his team could and couldn't build, Pearce said.
+
+The solution likely will involve a voice-activated interface and perhaps a "smart assistant" along the lines of Amazon's Alexa or Apple's Siri. Just as such virtual assistants are finding a place in people's homes, so King believes artificial intelligence will be a core component of the connected car.
+
+FIS's Brown agrees. Auto, he said, is "just another extension" of the Internet of Things, "a new place where people will want to access and manage money."
+
+Ford in early January announced that it would become the first automaker to integrate Amazon's Alexa into its cars. While banking with Alexa is not yet possible, the virtual assistant will be able to provide the weather forecast and search for nearby gas stations on command. Consumers who have an Amazon Echo smart speaker at home will even be able to turn their cars' engines on or off or check their battery levels from indoors.
+
+As a next step, Brown wants carmakers to open up their application program interfaces so that a voice biometric can be developed — a way of authorizing and authenticating transactions with your voice alone, without giving out sensitive information. "You can't be saying a PIN or something out loud while someone else is in the car," he said. And then, too, it shouldn't be the case that just anybody who gets into the car — your child, a valet — can ask about your account balance.
+
+Wells Fargo is likewise applying lessons from the connected home to automobiles. Brown's concerns about privacy were studied by Pearce and his team in an experiment with smart-television technology. The issue was how to display a low-balance alert on a customer's TV while ensuring that others don't see it.
+
+Context matters too, Pearce said. Is the car parked? If so, a touchscreen interface would be viable. Are other people in the car? The way a car owner wants the app to function when commuting or running errands by herself might be very different from how she wants it to function when driving a carful of kids to a weekend soccer game.
+
+The advent of fully autonomous vehicles may eliminate some of these concerns, such as the need not to distract drivers. Once drivers become passengers, they will be free to perform more complicated transactions or digest more information during their ride. Venturo gives the example of a corporate client who wants his cash position reported to him while his autonomous car drives him to work.
+
+Deva Annamalai, the director of innovation at Fiserv, sees other possibilities. "More advanced interactions like videoconferencing with a bank loan officer or investment adviser may require the help of an autonomous car, where the car takes over most of the driving functions," he said. "But as long as a car has a screen and appropriate connectivity, these types of interactions are not out of the question."
+
+For now, banks and other companies are focused on improving the experience for human drivers. It may be a while before they get it right. Pearce points out that when smartphones first appeared, banking and finance apps were not part of the first wave of apps to be developed.
+
+"They came along once people started to realize the capabilities that were available, and then customers started to demand: 'I love having my smartphone to play games and do these other things; I wish I could do my banking on this device,' " he said. "And suddenly we have this urgent need to deliver banking. I think the connected-car space will evolve very similarly."
+
+The inflection point for banking while driving is probably still a year or two away, Pearce estimates. Apple and Google have both launched operating systems for in-dash players. Some manufacturers even offer after-market options to retrofit customers' vehicles with a dashboard interface — a sign that such technology is beginning to go mainstream.
+
+"You're just now seeing those dashboards become more open ecosystems and you're just now seeing people start to have experiences where they're putting apps on their dashboards," Pearce said. "Now that the major phone operating systems have established a sort of beachhead in the connected-car market, I think we're going to see a bunch of innovation in this space over the next two years."
+
+A car that can pay for drive-thru orders automatically is one use case that interests U.S. Bank's chief innovation officer, Dominic Venturo. Trying to use Apple Pay at a drive-thru today usually requires an employee to "literally hand you a point-of-sale device through the window," Venturo says.
+
+3. Underwriting and financing
+
+As consumers' relationships to their vehicles change, banks will need to rethink how they work with vehicle owners. "Today," said Venturo, "we think of a car as a 'one human, one vehicle' thing," and auto finance reflects this quintessentially American attitude: 95% of loans and leases go to consumers.
+
+That has been a plush business model for banks, captive auto lenders and dealers alike. According to Experian, the average auto loan topped $30,000 for the first time in the first quarter of 2016.
+
+But the future may lie in shared mobility resources. As the popularity of ride-hailing and ride-sharing services continues to grow, and the auto industry edges ever closer to truly autonomous cars, the belief that nearly every American is going to own a car someday is beginning to break down.
+
+As a result, automakers are experimenting with new ownership models. Ford launched a pilot program in Austin, Texas, one year ago allowing groups of three to six people to lease a vehicle together. Hyundai announced in late 2016 that it would offer drivers 24- or 36-month "subscriptions" as a way of owning the company's new Ioniq electric car. And in January, Cadillac launched a program in New York City that gives members on-demand access to the company's full slate of cars as an alternative to owning at all. The company already has plans to expand the program to other cities.
+
+At the same time, Volkswagen, which sunk $300 million into an Uber competitor called Gett last May, is launching a new ride-hailing service in Rwanda — a market that Uber has not yet penetrated.
+
+"Large auto-tech companies are recognizing that they need to get in the game of innovation," said Matt Trotter, the managing director of San Francisco-based Silicon Valley Bank, which serves dozens of startups focusing on the future of transportation.
+
+This sea change — from full vehicle ownership to joint custody, from driving oneself to hailing a ride — could hit lenders hard. A report from Deloitte last year predicted that the $116 billion-a-year auto financing market could, in the next 10 to 15 years, shrink by as much as 50%, with 35% of the remaining financing going to commercial vehicle fleets rather than consumer automobiles.
+
+Indeed, there are early signs of such a shift. Uber created a leasing company as a wholly owned subsidiary in 2015, and it now accounts for double-digit percentages of total sales at some dealerships — enough to have its own showrooms, according to CNBC. Uber's financing is fueled by a $1 billion credit facility provided by Goldman Sachs, Citigroup, JPMorgan, Deutsche Bank, Morgan Stanley and SunTrust.
+
+For drivers who want to own, Uber is able to tap its partnerships with major carmakers to secure discounts of as much as $5,000.
+
+"In the coming years," Tim Russi, the head of auto lending at Ally Financial, said last February, "we might be supporting the mobility services industry [rather than] the auto industry."
+
+But while that may hurt lenders' bottom line, the future of transportation also could provide new business opportunities. For instance, while most new car loans and leases today are originated through dealerships, a connected car with a touchscreen interface could allow customers to arrange financing through the vehicle itself on the dealer floor, said Accenture's Meszaros. That would let banks interact directly with customers to provide information on their offerings, rather than being so reliant on a dealership's finance office.
+
+What's more, the arrival of fully autonomous vehicles may actually prop up private car ownership — at least to some extent — because it would mean that "owning an automobile has finally become a good investment opportunity rather than a bad one," Annamalai said. Banks could provide loans to buy self-driving cars, which could then be used for ride-sharing services — earning money for their owners when the owners weren't using them.
+
+"In fact, the next generation of customers [does] not even have to have full ownership in a car," he added. "More than a few people can share joint ownership of the car and use it as needed. ... Banks can facilitate this sharing-economy model and lease a fleet of vehicles among their customers, thereby providing a value-added service."
+
+The underwriting of car loans also appears poised to change dramatically. For now, many automakers want to own the data provided by cars' onboard sensors, but that could soon change. It will be established that customers own the data on their driving habits, and they will be able to share — indeed, may be required to share — that data with banks and insurance companies.
+
+As a result, underwriters will get a much better idea of which customers are greater risks than others. "The dynamic use of that sensor data is going to be far more powerful" than current underwriting practices based on age and demographics, said Moven's King.
+
+He expects companies to transition away from paper-based underwriting models to ones based on driver behavior by the end of the decade. When that happens, hidebound institutions will suffer.
+
+"Insurers that don't have access to sensor data are quickly going to be judged by the market as taking on more risk than they should," King said.
+
+4. Startup financing and advisory services
+
+Another opportunity for banks may lie in financing innovation itself. Social media startups, app makers and other software businesses have traditionally relied mainly on venture capital for funding, since their costs remain relatively modest even as their user bases grow exponentially.
+
+Not so with connected-car startups, said Silicon Valley Bank's Trotter. Companies such as Faraday Future, an intelligent-car startup in San Francisco that unveiled its first production vehicle at the Consumer Electronics Show in Las Vegas in early January, are distinct from the disruptive tech startups of old, he argues, because the costs of hardware manufacturing increase in direct proportion to the size of the business.
+
+Consequently, said Trotter, many of these startups "need their bank to step up in a much larger way to help them scale." Silicon Valley Bank began lending capital to early-stage, venture-backed companies long before most financial institutions would have felt comfortable doing so. Today the San Francisco bank serves about 50 companies in the future-of-mobility space, and has given loans to some of them. "These companies are going to need debt capital to survive," Trotter said. "And it's on us to understand these industries as well as we possibly can, and differentiate between real risk and perceived risk."
+
+Beyond making loans, Silicon Valley Bank strives to play a "connector role" in the startup ecosystem — for instance, introducing client companies to the venture capital arms of GM and Ford, which Annamalai says tend to show interest in connected-car startups. "The goal for us is we want to be more than a bank; we want to add strategic value to the CEOs that we work with," said Trotter.
+
+Still, as with any startups, these companies have no guarantee of success.
+
+"Many banks typically shy away from early-stage funding due to the risks involved," Annamalai said, adding that banks in Silicon Valley may be best suited to making these sorts of investments.
+
+But while Trotter acknowledges that not every bank will want to take a chance on such businesses, Silicon Valley Bank's commitment to engaging with companies on the technological frontier shows how forward-thinking institutions can join their fortunes to that of the pioneers. "We're very deep in the innovation economy, and the health of that ecosystem is what drives our growth," he said.
+
+Another option is for a bank to set up a small-business investment company. Unlike banks' internal venture arms, these funds are exempt from the Bank Holding Company Act, which limits financial institutions to controlling no more than 5% of an outside company.
+
+Propel Venture Partners, the $250 million SBIC backed by BBVA, pursues mainly equity financing, but it has lent money to startups since launching earlier this year. Jay Reinemann, a managing partner of Propel, was quick to mention, however, that the loans have always taken the form of convertible notes — a kind of short-term debt that converts to equity upon the startup reaching some benchmark, usually a major venture funding round.
+
+Lending to early-stage companies requires specialized skills that most banks lack, Reinemann said. It is very different than lending to real estate developers or farmers.
+
+What's more, he added, even many hardware startups are served sufficiently by venture capital firms — and by the few institutions, such as Silicon Valley Bank, that specialize in venture debt — and have no need for traditional banks. The loans involved may also be too small to interest some large commercial banks.
+
+Even so, Reinemann says the onus is on banks to embrace this new business line. Technology is continuing to "eat the world," he said, and lenders outside of Silicon Valley need to start hiring experts who know how to work with promising startups.
+
+"Regardless of where they are in the country, banks have got to start acquiring some skills to underwrite their local technology companies," he said.

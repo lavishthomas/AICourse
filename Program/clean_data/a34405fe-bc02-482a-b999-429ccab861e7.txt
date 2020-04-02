@@ -1,0 +1,41 @@
+Mapzen Search: The World Is Yours
+
+Mapzen Search is a search engine for places worldwide, powered by open data. It turns addresses and place names into geographic coordinates, and turns geographic coordinates into places and addresses. With Mapzen Search, you’re able to turn your users’ place searches into actionable geodata and transform your geodata into real places.
+
+Not only is Mapzen Search completely powered by open data, but it is available to everyone, and importantly open to all to make better. Powered by Mapzen’s open source geocoding project, Pelias, we’re building it in the open using Node.js and Elasticsearch. It is open to collaboration from all to make searching our world better and smarter.
+
+We think open data, open source, and open strategy win over proprietary solutions at any part of the stack and we want to ensure the services we offer are in line with that vision. We believe that an open geocoder improves over the long-term only if the community can incorporate truly representative local knowledge.
+
+Sign up for an API key and let us know if you want to help!
+
+Features
+
+Autocomplete
+
+Watch places fall into place with autocomplete. Mapzen Search is built from the bottom up to support autocomplete, so when your users search for somewhere, they’ll have found it before they’re finished typing.
+
+Search globally, find locally
+
+Break out of the bounding box to provide a local search that combines the best nearby search results with the best matches from around the world.
+
+Focused search brings together local knowledge and worldly experience, so your users’ searches will bring back the best matches, whether those results around the corner or around the world. By prioritizing local results, your users can see nearby places they know when they search for addresses, businesses, and neighborhoods while still searching globally.
+
+Open Data + Open Source: Better Together
+
+Mapzen Search brings together the best open data sets in the world with the best of open source. Mapzen Search is powered by Pelias, Mapzen’s open-source geocoder; designed to leverage the local knowledge of open contributors from across the world. When you search with Mapzen, you’re searching the expertise of a global network of contributors to OpenStreetMap, Pelias, and OpenAddresses. And if you don’t need everything, you can choose the dataset that works best for your needs.
+
+Get Started
+
+Let’s Do This
+
+Sign up for an API key to start searching today.
+
+If you’re looking to use Mapzen Search with a Leaflet map, check out the geocoder options in the Mapzen JavaScript SDK.
+
+Contribute
+
+Mapzen Search is built entirely using the experimental, open-source geocoder Pelias and open data. We want Pelias to see the world through everyone’s eyes. We welcome contributions from all! If you’re interested in contributing, you can read more about our philosophy of how open source and open data can come together to change the world.
+
+Talk to Us
+
+Questions? Comments? Drop us a line: open a GitHub issue, or write us at search@mapzen.com.

@@ -1,0 +1,261 @@
+Becoming an entrepreneur is like stepping onto the most intimidating roller-coaster in the world. There are ups, there are downs and there are unexpected turns. Sometimes you feel a little sick afterwards and sometimes you’re just inexplicably happy. No matter how many times you ride the coaster (or how many people have rode it before you), each go-around feels a little different.
+
+The unpredictability and the risk are what drive many entrepreneurs to the startup life. Fortunately, they can find some comfort in startup analytics. They’re logical, they’re rational and they make sense of this yo-yo lifestyle.
+
+So, why do so many entrepreneurs find startup analytics intimidating? There are a lot of unanswered questions, a lot of blanks and a lot of gray areas. Throw in terms like “growth hacking” and “lean startups” and it’s enough to confuse any beginner.
+
+It’s time to demystify this world of analytics! It’s not as daunting as it looks. Let’s start from the very beginning…
+
+Why Metrics Matter
+
+Would you buy a house in a country you’ve never been to without looking at some pictures first? Would you buy a junk car for a big, championship race because “you had a good feeling about it”? Metrics are what ground startups in facts and logic.
+
+First and foremost, metrics help startups set goals. And, as we all know, goals are just dreams with deadlines. Without metrics, it would be next to impossible to set goals and measure our progress towards them. They’re what allow us to be constantly improving, constantly pushing forward.
+
+Metrics also help entrepreneurs make smart, informed decisions about their startups. They can identify trends and patterns, problem areas and successes, and potential next steps. Before making major decisions (e.g. product iterations and raising capital), startups can consult their metrics. Is now the right time? Will investors take you seriously?
+
+Of course, there are a number of other reasons why metrics matter. Progress is the number one factor that motivates us at work. Sharing updates with your team keeps them motivated, informed and focused. Startup launches are losing their PR power, and more and more tech journalists are gravitating towards stories based on growth/success metrics.
+
+Without metrics, we don’t know how far we have or have not progressed. We don’t know when our startups are in trouble until it’s too late. We don’t know how to make decisions based on anything other than “entrepreneur intuition”, which definitely doesn’t have a high success rate.
+
+What Metrics Matter
+
+What are the five metrics every startup should measure? That’s a popular question, but the truth is that there is no universal right answer. There are a lot of potential answers that hinge on a lot of variables.
+
+Let’s start with a basic fact. Startups are typically at different stages. One startup might be 15 people strong, scaling to 1 million paid users. Another startup might be 2 co-founders looking for their first 100 free users.
+
+“The most important metrics depend on the stage of your product. Prior to product/market fit, I would usually focus on engagement metrics and qualitative feedback from users. This might mean DAU/MAU or churn, depending on your product category. The better your engagement, the better you set yourself up for growth later on. After your product is working and growing slowly, then my focus would be primarily on growth metrics like signup percents, invite rates, etc.,” wrote Andrew Chen in an email interview.
+
+In the beginning, focus on engagement metrics and feedback from users. You’re still seeking validation and perfecting your product. In the later stages, focus on growth metrics. You’ve got a product people love, now it’s time to scale and spread the word. Seems simple, right? Still, many new entrepreneurs skip right to those growth metrics and many experienced entrepreneurs are stuck on their engagement metrics.
+
+Growth metrics get the most attention, especially thanks to the rise of the term “growth hacking”. But what growth metrics are most popular? What growth metrics should your team be focusing on? Once again, the answer is relative. It really does depend on what your goals are and what you’re trying to accomplish in 1, 3, 6, 12 months.
+
+“Growth metrics are relative depending on what you are trying to accomplish, so that’s a tougher one. I think a better way of putting it would be: Figure out what your most important metric for growth is and focus on that. Don’t listen or judge yourself on other people’s,” wrote Ryan Holiday in an email interview.
+
+At the end of the day, there are no five metrics that are relevant to every startup. It’s impossible. Every startup is different, every entrepreneur is different. We all have different goals and different plans for achieving those goals.
+
+The Importance of Analytical Context
+
+Entrepreneurs are famous for their scrappiness and willingness to take risks and trust their guts. So, when does context come into play with startup analytics? The simple answer is often.
+
+“A somewhat counterintuitive comment on analytics: I see people make decisions that are backed by the numbers, but violate common sense. If your ad is working (getting clicks), but it’s boring, you have a problem. Because as soon as you stop running the ad, the clicks will stop,” wrote Holiday.
+
+Sometimes the numbers are pulling you in one direction when your gut or common sense is pulling you in the opposite direction. Who should you let win?
+
+“You have to think about analytics in context. I hear people talk about how a landing page may be ugly ‘but it converts’. Ok, well then you need to figure out how to make it look better without ruining the conversion rate–because your image matters too. You might not be able to track the true consequences of being associated with crap design as easily, but that doesn’t mean they don’t exist,” wrote Holiday.
+
+At the end of the day, there are some things you can’t track. Startups are bound to operate in the intangible sometimes. Your branding and public image is just one example. You can’t measure the value of having a website that doesn’t look like it’s from 1996 (unless you’re Space Jam), but you know it’s important nonetheless.
+
+Measure the tangibles and act on the analytics, but have the intangibles in the back of your mind at all times. Just because you can’t see them on a dashboard doesn’t mean they don’t exist. Sometimes you just have to trust your gut and ignore the numbers in favour of common sense.
+
+Always, always, always look at your numbers in context.
+
+How to Use Google Analytics
+
+Google Analytics is the tool that will show you what happened. It’ll provide detailed information about events and goals as well as the basic website metrics you’d expect.
+
+1. Installation and Setup
+
+Setting up Google Analytics is really quite simple. First, you’ll need a Google Analytics account and you’ll need to add your site to that account as a property.
+
+To create an account, just head to the Google Analytics website and click “Access Google Analytics”. Then follow the instructions to setup your account.
+
+Now that you have an account, you’ll need to add your site as a property. Click “Admin” at the top of any page. Under the “Property” column, click the menu and then click “Create new property.” Let’s assume, for the sake of simplicity, you’re setting up a website and not an app.
+
+Select a tracking method, either Universal Analytics or Classic Analytics. If you’re just getting started, Classic Analytics is a safe bet. Then enter the website name, enter the URL, select the category that best reflects the content of your website and select the time zone you prefer.
+
+Note that the time zone you select affects the day boundary for reports. If you select Eastern Time, the start and end of a day is determined by Eastern Time.
+
+Finally, click “Get Tracking ID”.
+
+Once you’ve got your tracking info sorted and you’ve copied the code snippet, you can simply insert the snippet into your website. Just place the snippet before closing the </head> tag.
+
+To make sure everything went smoothly, you’ll want to verify that your tracking code matches your intended property ID. Remember, your property is your website.
+
+2. Advanced Segments
+
+Don’t let the name fool you. Advanced Segments are very straightforward and they’re easy to setup. Essentially, they allow you to isolate specific types of traffic. Let’s say you only want to see data from visitors arriving from Facebook or you only want to see data from visitors who have made a purchase.
+
+Advanced Segments are the easiest way to segment your visitors and the data they generate. To apply an existing Advanced Segment, click the drop-down menu to the left of “All Visits”. Select the segment you want to apply and you’re good to go!
+
+You can also setup custom segments by selecting the “Create New Segment” button within the drop-down menu. You can set all of the conditions and parameters for the segment on the screen that follows.
+
+3. Goal Flows
+
+Goals are the backbone of startup analytics. Your metrics tell you how you’re progressing towards your overall goals. So, it only makes sense that Google Analytics allows you to setup goals.
+
+To get started, click the “Admin” button. Under the “View” column, select “Goals”. Then go ahead and click the “Create a Goal” button. From there, you’ll be taken through a series of steps. Just input the basic info.
+
+Google Analytics deals with four types of goals: revenue, acquisition, inquiry, and engagement. You don’t need to setup goals for every category. Focus on the 1-2 categories that make the most sense for your startup right now.
+
+For best results, establish values for your goals. You don’t need to run an ecommerce startup for this feature to be relevant. Find the lifetime value of a free user signup, for example. What’s that worth to your startup? Assign a value based on your calculations.
+
+4. Event Tracking
+
+If you want to track something simple like CTA clicks or page exits, setup some events. Events are tied to how visitors interact with your content. Unlike goals, events don’t depend on a funnel or a page load.
+
+If you aren’t the technical co-founder (hah), you might need some help setting up event tracking. Let’s say you’re going to track the number of people who click on your download button. You’ll just need to add a bit of code to the button. Event reports won’t work until event tracking is successfully setup for at least one event.
+
+The code you add depends on whether you chose Universal Analytics or Classic Analytics.
+
+This requires a bit of extra work to setup, but it’s well worth it. It’s a great way to help Google Analytics deliver the data you really care about. Some events you’d like to record might not be default for Google Analytics. This is the solution.
+
+How to Use KISSmetrics
+
+If Google Analytics is the tool that will show you what happened, KISSmetrics is the tool that will show you who did it. Where Google Analytics is focused on the “what”, KISSmetrics is focused on the “who”. You need both to really get started with startup analytics.
+
+1. Installation and Setup
+
+Setting up KISSmetrics is fairly straightforward. What you’ll want to do is install one of their libraries and then setup a custom event. Each library is essentially a language-specific API. If you use the JavaScript library, you shouldn’t have any issues with Google Analytics running on your website at the same time.
+
+To ensure everything is working properly, use the KISSmetrics Live feature, which lets you monitor your own activity as you perform the very events you’re tracking.
+
+It takes approximately 2-6 hours from the time an event is triggered for the data to become available in the KISSmetrics reports. If you don’t see the data within that timeframe, check with the KISSmetrics team to ensure you’ve set everything up correctly.
+
+2. Tracking Campaign URLs
+
+If you’re putting serious effort towards marketing your startup, chances are you have some campaign URLs setup. Whether they’re email campaigns, AdWords campaigns or simply referral links you have control over, it makes sense that you need to manage your campaign URLs.
+
+There are three solutions: UTM variables, URL API, and custom solutions.
+
+If your links are already tagged with Google-style UTM variables, the KISSmetrics JavaScript library will read the URL and trigger an event. It’s incredibly easy to setup because many ads are already tagged this way, but all UTM-tagged URLs are treated the same, making segmentation and separation difficult (e.g. you might want to separate email newsletters from your paid ads).
+
+KISSmetrics has a URL API that lets you tag a link so that anyone who follows that link will trigger an event. The process is very similar to the UTM variables mentioned above.
+
+If you do happen to be the technical co-founder, your last option is DIY. You can build a custom solution from the ground up. This method has the fewest limits, but is also the most time-consuming and difficult to setup.
+
+3. Integrating with External Tools
+
+What’s great about KISSmetrics is that external integration is extremely easy. You can add data from other sources, including: Marketo, Stripe, Salesforce, Recurly, Qualaroo, Optimizely, MailChimp, Chargify, and many more. All of the integration processes are unique, but they’re all very simple, even for beginners.
+
+With KISSmetrics, you can bring all of your efforts together. This is particularly helpful to SaaS and ecommerce startups, which often have to rely on multiple platforms.
+
+Top 3 Startup Analytics Mistakes
+
+1. Playing in Success Theatre
+
+Eric Ries famously coined the term “success theatre”. It’s the mistake startups are warned of over and over again, but never seem to fully avoid.
+
+When you deal in vanity metrics, you’re playing in success theatre. You’re seeing every aspect of your startup through rose-coloured glasses. More Twitter followers? Social media must be working. Lots of unique visitors? Money in the bank.
+
+Startup analytics just don’t work like that. Entrepreneurs can only afford to deal in metrics that help them make decisions about their startups, metrics that lead all the way down to the bottom-line.
+
+The number of Twitter followers you have is all but completely irrelevant. The amount of unique visitors you receive can be useful, but only if you understand where they’re coming from and why they’re increasing/decreasing.
+
+The problem with vanity metrics is that they’re the easiest to spot and the easiest to measure. So, many entrepreneurs fall into the trap and end up playing in success theatre. It’s all smooth sailing until the tidal wave you didn’t see coming hits – hard.
+
+2. Focusing Too Much on the Long-term or Short-term
+
+One of the most common questions entrepreneurs have about startup analytics is whether they should focus on the long-term or the short-term. The short answer is both, but it’s more complex than that (it always is).
+
+Let’s say your goal is to increase product signups 30% month over month for three consecutive months. Do you sit in your analytics dashboard for twelve hours every day? Do you check in on your progress bi-weekly?
+
+The trick is balancing the short-term with the long-term.
+
+Accept that your metrics will be down one day, two days, three days, four days of the month. The sky isn’t falling; short-term fluctuations are normal. When you’re too focused on the short-term, you make snap judgments in an attempt to fix problems that don’t really exist.
+
+Similarly, accept that you can’t simply roll the dice and check on your metrics twice a month. You need to know the pulse of your startup and, if you’ve done it right, your metrics will show you.
+
+So, check your metrics every single day. Take time to understand what is changing and why. Don’t make snap decisions; wait for a small trend to emerge, but have an immediate plan of action ready.
+
+If you get too caught up in the long-term, you won’t see the tidal wave until it’s right in front of you. If you get too caught up in the short-term, you’ll create your own tidal wave. Balance is key.
+
+3. Collecting Data and Neglecting Action
+
+Collecting data is a great idea for startups at any stage. Hoarding data or neglecting action is not. There’s a very big difference between collecting data for the sake of saying you’re collecting data and collecting data to help you make informed decisions and take action.
+
+Since the popularity of big data, it seems that some startups believe the more data the better. That’s just not true and it’s not practical for entrepreneurs.
+
+Think about all of the data you’re collecting right now. Sift through your Google Analytics dashboard and your KISSmetrics dashboard. Now, ask yourself how much of that data you’ve used to make a decision or take an action in the last month. I’m willing to bet most entrepreneurs will say somewhere between 50-60%.
+
+If you’re not using it, get rid of it. Collecting data you’re never going to use just bogs you down. You have to focus on the metrics and the data that’s impacting your startup, that’s making you a smarter entrepreneur.
+
+Collecting is smart. Collecting without eventually acting is a waste of resources.
+
+Startup Analytics Best Practices
+
+1. Embrace Lean Startup Analytics
+
+You’ve heard of lean startups. Well, a major part of being a lean startup is embracing lean analytics. Trim the fat! Select a few high impact metrics and focus on them. Move them forward at all costs. Tunnel vision. No unnecessary distractions.
+
+“I see a lot of startups who go to one of two extremes on data: data-phobia where they collect zero data or data-hoarding where they collect too much. I’m not sure which one is worse, to be honest,” wrote Chen.
+
+Once again, we’re forced to find a happy medium. Startup analytics aren’t black and white. There’s an incredible amount of grey area and it’s a constant balancing act.
+
+“The startups that collect zero data miss important, objective information about what’s going on with their product. They often end up overemphasizing things like trendy designs, over-vocal early adopters or the founder’s flavor-of-the-week idea,” wrote Chen.
+
+First, you have the collectors who hesitate to act, just like you read about above.
+
+“The startups that collect too much data are often doing it because they think it’s important, but they don’t have a strategy in place,” wrote Chen.
+
+Second, you have the entrepreneurs who rush to act without any data whatsoever. They avoid collecting data, they avoid interpreting data and they follow their gut 100% of the time.
+
+Once you find the happy medium and perfect the art of lean startup analytics, you’ll understand one very important lesson.
+
+“Your data is just a reflection of the strategy you have for your product. Data is yet another form of information that helps you validate that your strategy is working. So you want to focus on a few key metrics and make sure you’re doing a good job there – and mostly ignore everything else,” wrote Chen.
+
+2. Go from Big Picture to Small Picture
+
+Ok, lean analytics make sense. But what analytics should you choose? How do you go about eliminating the metrics that don’t really matter?
+
+The easiest way to narrow in on the metrics you should be measuring is to work from big picture to small picture. Let’s say you’re in the early stages and your primary goal is to get free user signups. Everything you do and everything you measure has to tie directly back to getting more free user signups – or it’s out.
+
+Day-to-day, you’ll want to think small picture. Constantly thinking about the big picture of startup analytics is just exhausting. That’s why it’s vital that the “snapshots” connect to form the big picture. You have to know that everything in the small picture impacts the big picture or the system won’t work.
+
+Unique visitors? Relevant. Conversion rate? Relevant. A/B testing results? Relevant.
+
+What’s important to remember here is that sometimes great metrics that other entrepreneurs swear by just aren’t relevant to you right now. They don’t fit into your big picture.
+
+You’ll often see new entrepreneurs mimicking the setup of larger startups. The problem is the larger startups are envisioning a multi-million dollar acquisition and the new entrepreneurs are envisioning their first thousand users.
+
+You can’t take someone else’s small picture if you don’t share the same big picture.
+
+3. Follow Dave McClure’s Startup Metrics for Pirates (AARRR)
+
+Dave McClure created an amazing deck in 2008 called Startup Metrics for Pirates (AARRR) and it’s still incredibly relevant today (not surprising). Essentially, McClure broke startup analytics down into five categories: acquisition, activation, retention, referral, and revenue.
+
+The acquisition category includes anything related to how visitors come to your site. The activation category includes anything related to how visitors experience your site for the first time. The retention category includes anything related to visitors returning to your site after that first visit. The referral category includes anything related to visitors telling others about your site. The revenue category includes anything related to the monetization of your site.
+
+Now, that’s obviously a very simplified explanation and I suggest you read through the entire deck.
+
+You can focus on one of three things:
+
+A. Get users (acquisition and referral).
+
+B. Drive usage (activation and retention).
+
+C. Make money (revenue).
+
+To entrepreneurs, those are familiar goals. Choose your big picture goal and then select metrics from the corresponding categories.
+
+4. Only Deal in Significant Numbers
+
+This goes hand-in-hand with the perils of having a short-term focus. Significant numbers, by definition, are related to precision. Even after we’ve been convinced of the importance of collecting data and acting on data, we have to determine what data to act on.
+
+We definitely can’t act on all of our data. The percent change in bounce rate over the past hour isn’t actionable. It’s not a significant number. A significant number clearly indicates a trend and the need for action.
+
+For example, a three day decline in free user signups is a significant number if your goal is 5% week over week growth at minimum. It indicates that you are trending negatively, that you are moving further away from your goal and that you need to take action immediately.
+
+Alternatively, if your goal is 15% month over month growth, those three days aren’t as significant. They don’t have as big of an impact on your goal.
+
+Only act on significant numbers. The risks of acting on insignificant numbers are too high.
+
+5. Test Everything. Seriously.
+
+I know, I know. You’ve heard this a million and one times, but it’s true. There is literally no limit to how much you could be testing. It’s all about the better, faster, stronger mindset.
+
+Your landing page could always be converting more visitors. Your retention rate could always be higher. Your onboarding process could always be more user-friendly. Even when you think you’ve perfected it, the smallest alteration could change everything.
+
+Start with a few multivariate tests and choose a winner. Then, scale down and start running A/B tests. A/B test the obvious items (the CTA, the headline, the picture, etc.) first. Once you have winners, test the most insignificant things you can think of. You’ll surprise yourself.
+
+When you think you’ve tested everything you possibly can, test some more. It sounds ridiculous and it’s a lot of work, but these are the most actionable metrics you’ll find.
+
+Test an alternate pricing option to a segment of your audience. Are they rushing to the option you were testing? Roll it out to everyone.
+
+Remember, the vanity metrics are the easy to find and measure metrics. It’ll take some elbow grease, but testing is invaluable to a startup. Seriously.
+
+Conclusion
+
+When you’re at the top of the roller-coaster and you’re waiting for the drop, you want to be sure the coaster is well-built, well-oiled, and well-maintained. That’s where startup analytics come into play. In an up and down world, they help you make informed predictions. They help you ensure you’re moving forward. More importantly, they help you avoid the types of drops that startups just don’t recover from.
+
+About the Author: Shanelle Mullin is the Director of Marketing at Onboardly, a company focused on helping funded tech startups gain visibility and acquire more customers. They do this through content marketing, startup PR and social media. You can subscribe to their blog here.

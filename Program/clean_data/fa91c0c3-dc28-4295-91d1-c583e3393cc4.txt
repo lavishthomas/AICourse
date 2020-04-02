@@ -1,0 +1,29 @@
+Watercolour paintings are a hugely popular art style that can be incorporated into your design projects, but you don’t need to be a master artist to create such imagery when Adobe Photoshop can produce realistic watercolour effects with a cocktail of built-in filters. In today’s tutorial I take you through a range of settings that will convert any photograph into a hand-made watercolour style painting.
+
+The effect we’ll be producing in this tutorial mimics the aesthetics of a hand painted picture using watercolour paints. A range of Photoshop filters will produce the foundations of the effect, then the addition of a paper texture and deformation with watercolour Photoshop brushes add an extra level of realism to produce a convincing effect.
+
+Open your chosen image in Adobe Photoshop. I’m using this photograph of the Golden Gate Bridge by Patrick Tomasso from Unsplash.com. Right click on the background image layer and select Convert to Smart Object.
+
+Head to the Filter menu and select Filter Gallery. Navigate to the Artistic category and select Dry Brush, then change the settings to 10 Brush Size, 10 Brush Detail and 1 Texture. Click OK to apply the effect.
+
+Select the Filter Gallery menu option again, making sure not to choose the option at the top, which would reapply the same effect. This time select the Cutout filter and configure the settings to 5 Number of Levels, 4 Edge Simplicity and 1 Edge Fidelity.
+
+In the Layers panel, double click the tiny settings icon next to the top Filter Gallery entry. Change the blending mode to Pin Light.
+
+Click the Filter menu again, this time go to Blur > Smart Blur. Enter the settings of 5 Radius, 100 Threshold and change the Quality to High.
+
+Double click the settings icon and change the blending mode of the Smart Blur effect to Screen and reduce the opacity to 50%.
+
+Head to Filter > Stylize > Find Edges. Edit the Blending Options and change the blending mode to Multiply to render this layer’s background transparent, this will leave just the details of the find edges effect to represent pencil sketch lines.
+
+Find a free paper texture, such as this Ivory Off White Paper Texture. Copy and Paste the texture into the Photoshop document and scale it to size to fit over the canvas. Change the blending mode to Multiply.
+
+Download and install this free set of Watercolor Photoshop Brushes. Add a Layer Mask to the Background layer, then use the ALT+Backspace shortcut to fill the mask with black, which will effectively erase the entire photograph. Select the Brush tool and choose one of the watercolour brushes.
+
+Switch the foreground colour to white in the toolbar, then use the square bracket keys to adjust the size of the brush. Click around the canvas to restore the photograph with watercolour style bleeding around the edges.
+
+After a few clicks, change the brush to an alternative watercolour option and continue restoring the image with a range of watercolour tones to avoid repetition.
+
+Since all the effects have been set up as part of a Smart Object, then watercolour painting effect can be applied to an alternative photograph by editing the contents of the Smart Object layer. Double click the Smart Object layer’s thumbnail to open the .PSB file. Paste in a different image then save and close the file. Return to the main document to find all the effects have been instantly applied to the new picture.
+
+Download this file

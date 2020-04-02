@@ -1,0 +1,256 @@
+Although wireless is simpler for a lot of people, due to multimedia sharing, bandwidth on a home network, and paranoia about wireless security, you may want to use a hard wired solution for home networking. Having a wired network at home allows you to have a private, high-speed network for internet access, file sharing, media streaming, online gaming, IP security cameras, and much more.
+
+This post is republished from Instructables.
+
+
+
+Here’s a step-by-step guide to wiring your home with Cat5e or Cat6 ethernet cable. (If you’re not sure of the difference between the two, check out this post.)
+
+Step 1: Initial Considerations and Planning
+
+There are certain design considerations that need to be addressed based on your needs.
+
+
+
+
+
+Which room(s) do I want wired? I have a two-bedroom condo so I knew I wanted both bedrooms wired. I also have a TV alcove where my cable TV is, so that seemed like a good location to wire as well (especially for things like video game consoles). Having cable TV in each of these locations, it seemed logical to treat the network the same way. How many ports do I want in each location? With multiple game consoles and a network-enabled Blu-Ray player connected to my TV, I knew I wanted at least three connections behind my TV. Since the wall plates come in 1, 2, 4, and 6-jack configurations (for single gang), I just went with 4. Why run one cable when it’s nearly as easy to run 4, right? Rather than vary the number, I just ran 4 drops to each location to provide maximum flexibility without the need for local (in-room) switches. Three locations with four ports each = 12 ports total. What is a good location for distribution? For me, the logical location was my laundry room because my cable TV already comes into it and gets split to each room. It’s important to note that my internet comes into the house (over the cable) here too, so if I move my cable modem here, it will be able to supply internet access to the entire network. Another thing to consider is the amount of space needed to mount a shelf to hold the network equipment. What path should the cables take? This is probably the most difficult consideration. For me, my condo is on the second (top) floor and I have access to my attic. My cable TV is distributed through the attic, so it seemed like a good solution to run my home network through there as well. For single floor homes with a basement, the basement may be the best path. For multi-story homes you may have to get creative. Outside could be an option, or through an old laundry chute. (I won’t address the specifics of all the possibilities, just my own circumstances.) The other consideration with cable path is cable length. The max cable length for up to gigabit speeds over copper UTP cabling is 100 meters (~300 feet). This should provide plenty of flexibility for most home applications, but it is good to be aware of this limit. What network speed do I need? This will mainly play a part in what kind of switch to get. I used a 10mbps switch because I got it for free, and it’s still faster than most everyone’s home internet connection (you can probably pick up a really cheap one—possibly even free—at a used computer store). But, if you’re going to be doing anything over the network—like playing games, transferring files between computers, or anything like that—we definitely recommend getting a gigabit switch. If you’re buying a new switch, these aren’t that expensive these days, so there’s little reason not to go gigabit.
+
+
+
+
+
+Next up, tools and materials!
+
+Step 2: Required Tools and Materials (and Costs)
+
+Your tools and materials (and costs) can vary a lot based on your needs and what you already have. I borrowed a lot of the following tools, but here’s a very basic, estimated breakdown:
+
+
+
+Tools
+
+Ethernet crimping tool (only if you’re putting plug on the ends). Cost: $13 on Amazon.
+
+Drill (primarily for drilling through wall top plates, but makes screwing faster too). Cost: varies (I already had one).
+
+Paddle bit or hole saw (size will vary by how many cables you’re running). Cost: usually around $20.
+
+Pointed hand saw (this makes it easy to cut holes for the gang boxes/wall plates). Cost: usually around $15.
+
+Strong string or a fish tape. Cost: $30 on Amazon.
+
+Label maker (optional).
+
+Pencil.
+
+Sharpie-type marker.
+
+Ruler.
+
+Stud finder. Cost: $13 on Amazon.
+
+Punchdown tool (optional). I used a small screwdriver instead.
+
+Laptop or cable tester (to test each drop). I used my laptop.
+
+Materials
+
+1000' spool Cat5e or Cat6, Cat6 recommended (more or less based on your need). Cost: $105 on Monoprice.
+
+Single Gang Retrofit Boxes (the kind that clamp to the drywall, open back). Cost: $0.25 each.
+
+RJ45 Jacks and plates (get what you need, maybe an extra or two). Cost: $0.35/plate; $14 for 12 jacks.
+
+RJ45 plugs (optional). Cost: $5 for 10.
+
+Plastic grommet (optional, makes the cabling look professional). Cost: $0.60.
+
+Patch panel (optional, another professional touch). Cost: $33 and up on Amazon (I dragged it out of the dumpster at work).
+
+Router (optional, may be required by you ISP). I already had one, and most of you probably will too.
+
+Velcro strips for cable management (optional). Cost: $3 for a roll.
+
+Short patch cables (optional). Cost: $5, but will vary depending on length.
+
+Now that we’ve (hopefully) got all the stuff we need, lets mount the wall plates!
+
+Step 3: Mount the Wall Plates
+
+Pictured above: The cable and new ethernet cables come down the wall in the same space between studs. Note the extra cable length in case of mistakes!
+
+Advertisement
+
+Since I knew the path my cable TV took and it was in all of the same locations that I wanted my ethernet jacks, I just located my cable TV jacks to start. Using the stud finder I was able to tell which side of the cable jack the stud was located on. Studs are located 16" apart in almost all homes and I knew I wanted my ethernet to go in the same wall cavity as the cable TV.
+
+
+
+Once you’ve decided where to mount the box, you need to draw the lines on the wall to fit the new box and cut the hold with the pointed hand saw. The pointed saw should be able to push through the dry wall pretty easily without the need to drill starter holes.
+
+
+
+Once you have the hole cut in the wall, you can put the single gang box into the hole and screw the clamps with hold it in place by clamping to the back of the dry wall. Repeat this for each location that you want to run to.
+
+Pictured above: A hole to fit the grommet. It’s a nice professional-looking touch.
+
+Advertisement
+
+For now we’ll leave the wall plates off.
+
+
+
+At this time you’ll also want to cut a hole in the wall in the distribution room. Here you want to cut a hole that the plastic grommet will fit into.
+
+
+
+Next: we can run cables.
+
+Step 4: Measure and Run the Cables
+
+Pictured above: Hole drilled in the top plate of the wall. String dropped down with a bolt tied to it so I could pull up the cables.
+
+There are a number of ways to do this. You can estimate, measure from floor plans, run one, etc. I used the run one method. To find the lengths required for each run, I ran one cable to each room from the distribution room, pulled it out, and made three more like it. After that, you can run all four together. You’ll also want to label both ends of each cable with a sharpie. This way you can label the ports on both ends.
+
+
+
+Before you can do this, however, you need to drill through the wall top plates so that you can drop the cables into the walls where you’ve cut the holes. Finding the right place to drill in the top plate (to make sure you get in the right 16" gap between studs) can be tricky. This is another reason I decided to follow the coax cables for cable TV. I traced down the cable TV through that attic and then drilled new holes in the top plate right next to the cable TV holes. You’ll need a powerful drill and either a paddle bit or a hole saw for this. The hole saw is easier but the paddle bit is cheaper. I used a 1 1/4" paddle bit and it was hard to control and strained the drill at times. You can also opt to drill multiple small holes and use one for each cable—although this makes running them a bit harder since you can’t tape the bundle together.
+
+
+
+Once you have the top holes drilled you can string out some cable to measure how much for each run, then cut three more equal lengths per run, and re-run the cables. Be sure to make them long enough that you have some extra from stripping and crimping accidents. It’s always easy to tuck extra length into the wall.
+
+
+
+Next up: making connections.
+
+Step 5: Connect the Wires to the Jacks and Patch Panel
+
+GIF
+
+Pictured above: RJ-45 plug diagram.
+
+Now the we’ve got the cables run we can punch down the the cables to the patch panel and the to jacks. I noted in the materials that a patch panel was optional. You can take the raw cable directly out of the wall, put a RJ-45 plug on it, and plug directly into the switch. But for permanent installation, I feel it’s much more professional to mount a patch panel.
+
+Pictured above: Cables punched down to the back of the patch panel.
+
+
+
+This is pretty easy. Most patch panels and jacks have diagrams with wire color diagrams for the common T568A and T568B wiring standards. To be honest, I don’t know if either would work. I’ve seen “A” used for ISDN before, but in looking at the T568B color guide I recognized it as the same as the tons of patch cables I’ve made before. So I went with it. Make sure you use the same on both ends. You can use the punch down tool or a small screw driver to punch the individual wires.
+
+
+
+Once you have all the cables connected, you can mount the patch panel to the wall and click the jacks into their respective wall plates on the other ends. You can also screw the wall plates into the gang boxes.
+
+Pictured above: Short patch cables up to the switch. The aluminum is the bottom of the shelf that the switch sits on.
+
+
+
+Now we can make sure things work!
+
+Step 6: Test Your Connections
+
+Pictured above: Testing 1,2,3...
+
+Before you start connecting most of the network components, you want to test all of the connections to be sure things are working. This can be done a number of ways. If you actually have a network tester, then you probably know what you’re doing. You’re on your own. The method I used was a little different.
+
+
+
+I plugged a short patch cable from my patch panel to each port on my switch and turned it on. Since it’s a managed switch, I set each port to be “up/up” and “auto negotiate.” Unmanaged switches will not need to configure anything.
+
+
+
+The next step is to take another patch cable and a laptop and plug it into each port in each room. Check the switch after each port and verify the “link” indicator is on. Being able to establish a link tests the physical layer (i.e. no broken wires, all tight crimps, no crossed wires), as well as the data link layer (i.e. negotiation between network card and switch port). No IP addressing or anything needed for testing.
+
+Pictured above: Neat and clean lables for each port actually go where they say they do. MB = Master Bedroom, SB = Second Bedroom, etc.
+
+
+
+This is also a good time to make sure your labeling matches on both ends. For example, you can make sure that “Master Bedroom Port 2" on your patch panel actually goes to the second port in the master bedroom.
+
+
+
+Now, to the internet, and beyond!
+
+Step 7: Connect to the Internet
+
+Pictured above: Cable gets split to: 1. Main TV, 2. Cable Modem, 3. Second splitter. Second Splitter goes to each bedroom. I’m less concerned about signal degradation there but the runs are short enough that I don’t need amplifiers.
+
+Advertisement
+
+Now that we’ve got this fancy network, we want to connect it to the internet right?
+
+
+
+First: the cable modem setup. Since I moved my cable modem from my second bedroom (office) to the distribution room, I needed to change the way my cable was split. Rather than the main cable into the house being split three ways, I split things a little differently. I split the incoming cable with a three-way splitter first: one to the main TV, one to the two-way splitter for TV in the bedrooms, and the other into the cable modem. I connected the splitters using a male-male barrel connector.
+
+
+
+Now that the cable modem is in the right place we can continue with our network setup. Depending on your internet provider some of this setup may vary. (I’m going to discuss the specifics of my environment only, but will provide tips for others when possible.)
+
+
+
+From the cable modem ethernet port I plugged into the “Untrusted” port on my router/firewall. From the “Trusted” port, I connected to the first switch port on my switch. If your switch has one, plug into the port labeled “Uplink” instead. Depending on the switch or cable modem and/or router, you may need (or already have) crossover cables for these connections. With my router/firewall set up as a DHCP server I can now provide each port access to the internet. In addition, my entire network is protected from outside access by the firewall.
+
+Pictured above from top left: Firewall, Cable Modem, Wireless Access Point, 24 port managed 100 megabit switch, cable management and patch panel.
+
+
+
+Although it’s not integral to this instructable, I also plugged a wireless access point into my switch so that I can have wireless access as well. Since my wireless is both encrypted and has MAC filtering, I feel comfortable with it on the “trusted” side of my firewall. If for some reason I wanted to provide open wireless access but still protect my network, I would need a different configuration of connections. (I won’t go into detail about these changes but I wanted to note them depending on what your network goals are and how they might incorporate wireless access.)
+
+
+
+In summary, my firewall receives my single, static IP from my ISP cable modem. It also acts as a router and provides DHCP IP addresses to all other hosts on my private network via the switch and cabling we just installed.
+
+
+
+What the hell do we do with it now?!? NEXT!
+
+Step 8: Make Your Geek Friends Drool with These Cool Options
+
+There are some cool additions that you can make to your home network that will make your geek friends jealous.
+
+
+
+1. File server or NAS. I added and mounted a 1U file server in the distribution room that holds all of my multimedia. This includes a mirrored RAID with 1TB of storage for music, movies, TV shows, etc. (RAID is not a backup, but I feel better about not losing my media if a hard drive takes a dump) With this I can stream media to any computers on my network! A SOHO NAS device such as Netgear’s ReadyNAS also works well here, but I’ve found that their network performance (of NAS devices, NOT specifically the ReadyNAS which I’ve heard is tha’ bomb) doesn’t approach the gigabit speeds their network interfaces can negotiate. *Editor’s note: Learn how to turn an old computer into a NAS here.
+
+Advertisement
+
+
+
+2. XBMC. I have both of my Xboxes (yes the originals, no 360 yet) soft modded with XBMC loaded on them. They’re also configured with the DVD remote receivers for Xbox so I can control them from the Harmony. This allows me to stream all the multimedia on my server to either of my TVs! No more is watching Hulu or other media limited to just my computer screens.
+
+*Editor’s note: Find out everything you need to know about building a seriously kickass XBMC media center here.
+
+
+
+3. Gigabit switch. I touched on this before, but upgrading to a gigabit switch allows super fast file sharing between machines on your home network. It’s probably overkill but so is a Bugatti and we all want one of those. If you can’t afford one with enough ports for your entire network, you can segregate two networks. With the patch panel, you could plug port one and two from each four-port location into the gigabit switch and the other two into the slower switch. But come on, you might as well blow the money and get the whole shebang!
+
+
+
+4. DVR anywhere. With a file server set up, you can also install a bunch of DVR cards in it. Each card can record different shows from your cable and store them on the file server. You can then watch your recorded shows on any TV in your house with XBMC. Assuming you set up the routing and or VPN access, you can access those shows from a laptop with decent bandwidth anywhere.
+
+*Editor’s note: Not sure what TV tuner is right for your DIY DVR? We can help.
+
+
+
+5. IP phones. Some manufacturers are making IP-based telephones that can connect to the internet. Who still has a home phone!?! But if you need one, at least you can skip the phone company bill.
+
+
+
+6. IP Cameras. You can put security cameras in any room that you’ve run network drops to and record them to your file server. No more worrying if the babysitter is shaking your kids or snooping in your bedroom.
+
+Advertisement
+
+*Editor’s note: Need some help setting up your surveillance system? Everything you should know is here.
+
+
+
+7. Be creative!
+
+How to Wire Your House With Cat-5 (or 6) For Ethernet Networking | Instructables
+
+Instructables is a place that lets you explore, document, and share your creations. The seeds of Instructables germinated at the MIT Media Lab as the future founders of Squid Labs built places to share their projects, connect with others, and make an impact on the world.
+
+Image remixed from AptTone (Shutterstock).
+

@@ -1,0 +1,43 @@
+Many software engineers who develop software as a hobby often have side projects. The sad thing is, those software engineers often have the tendency to over-engineer their side projects, put all of their effort into mundane and, let’s be honest, pointless tasks and burn out before they’ve even finished their MVP.
+
+Now, I don’t want to sound like a broken record, so I’m not going to preach ‘ship often’ to you, but I’m hoping that by reading this post you’ll be able to see the mistakes I used to make (and stop yourself from making them!).
+
+Mistake 1 – Project managing
+
+So, you have a great idea and a view of how you’re going to go about completing it. Logically, you will try to put together some sort of plan of approach. However, focus too much on this initial plan and you risk falling down the ‘project management’ rabbit hole: writing user stories, creating backlogs and finding tools for a project that you haven’t even started, let alone need copious amounts of rigid management for.
+
+Solution: don’t try and project manage a non-existent project. Note down ideas and rough timelines – that’s it. If you start predicting what you’ll be doing in 2 months on the project, you’re not in Kansas anymore Dorothy.
+
+Mistake 2 – Over-architecting infrastructure
+
+You’re so hyped for this project and confident that it will succeed that you start thinking about the future: “how will I scale my application for the millions of users it will have?” “How do I ensure I have multi zoned redundancy?” “How do I keep 100% uptime? ”
+
+“I know: I’ll create a triple zoned redundant architecture with pub/sub database replication, a 32 node Kubernetes cluster and private networking across all regions – that way, I can handle anything!”
+
+Now, reading that – you might think it sounds ridiculous – and you’d be right. Scale the numbers down though and it will probably sound familiar. So many people are guilty of over-architecting their application’s infrastructure before they even have that application in a state for it to be deployed!
+
+Solution: Develop your project. Then, put it on the bare minimum architecture that it can run on (be that a 512MB instance from DigitalOcean or a medium instance on AWS). As you get more users, monitor, and modify the infrastructure appropriately to account for load and redundancy.
+
+Mistake 3 – Worrying about “tech stacks”
+
+The majority of software engineers seem to be under the illusion that potential customers care about the stack they are running. They don’t. A customer will not know or care if you are using Ruby, Go, PHP or any other language as long as what you have written is performant and is fit for purpose (which all modern languages are).
+
+Solution: Write in a language that suits the task at hand and one that you are comfortable/experienced with.
+
+Mistake 4 – Creating custom frameworks
+
+Bootstrap? Too basic. Materialize? Too fat. Foundation? Nah. Better create my own.
+
+A made up statement, but relatively common nevertheless. I have many-a-time started a new project, thought the statement previously and set out writing my own framework. By the time I had completed it, I no longer had any desire to work on the project I had thought of in the first place.
+
+Solution: Use frameworks and customise them – only refactor/build your own when absolutely neccessary (and when you have appropriate metrics).
+
+Mistake 5 – Continuously delivering nothing
+
+Similar to the way you can easily over-architect your infrastructure, it’s extremely easy to over-architect your continuous delivery practices before you have anything to deliver! Jenkins, Drone, Travis are all great tools – but you shouldn’t spend time configuring them until you have a working MVP.
+
+Solution: Build your project first – then worry about continuous delivery.
+
+It’s easy to believe you’re doing the best for your project by doing the above things but you aren’t. The best thing you can do for your project is to market, market, market, and then do a bit of development.
+
+Edit: as many people on HackerNews are pointing out, this article focuses more on side-projects that people wish to use to generate income or turn into successful lifestyle businesses. If you’re working on something personal (with no plan to monetise it in the short term) or just for fun, then as long as you’re happy doing it – who cares!

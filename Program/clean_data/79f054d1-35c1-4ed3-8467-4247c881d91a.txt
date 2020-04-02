@@ -1,0 +1,43 @@
+Programming is one of the most valuable skills you can pick up in these modern times, whether for career prospects or to stretch your brain and create something awesome. If you're just getting started on your coding journey, here are ten tips and resources to set you off on the right foot.
+
+10. Figure Out Why You Want to Learn to Code
+
+The direction you go in will depend in large part on why you want to learn to code in the first place and how much time you have to devote to learning. If you want to be a professional programmer, signing up college courses might be your best bet. (Google has a list of suggested skills and courses for would-be software engineers.) If you want to build websites or games for fun (and possibly profit) in your spare time, interactive tutorials might be better. Bloc has a comparison of course options based on workload, cost, and reason you're picking up programming. And if you're still deciding on a tech career, Switch will recommend one based on your interests.
+
+9. Choose the Right Language
+
+There's no one "best" programming language, and once you've learned one, it's fairly easy to pick up another, so don't get hung too up on choosing your first language. That said, some languages are more beginner-friendly than others. The language you choose to start with might depend, again, on your purpose. (For example, if you want to write an iOS app, you'll need to learn Swift.) There's a case for starting with C if you're serious about programming, although higher-level languages, like Python, are easier to jump into right away. Here's an infographic comparing a few popular programming languages.
+
+8. Start Small (and Be Patient)
+
+No matter which language or learning method you choose, you should start at the very beginning (a very good place to start). When David Sinsky taught himself to code in eight weeks, for example, he spent one weekend getting an introductory grasp of Python and one weekend getting an introductory understanding of Django—going through the tutorial, deleting all of the tutorial code, and working through the tutorial again from scratch. Start with the basics and be patient with yourself as you progress. To take your first coding project from start to finish, break down the project into simple steps. And if one method of learning isn't working for you (e.g., books), try another method before giving up.
+
+7. Try a Kids App
+
+Even toddlers are learning to code these days. That's actually a great thing for all of us. Although many of the programs designed to teach kids to code are very simplistic, many of them, like Scratch, are suitable for all ages. It doesn't matter how old you are; even kids' animation apps can get you started with the basics of programming (edX has a new course on Programming in Scratch, by the way).
+
+6. Use Free Online Training Sites
+
+Free online training sites like Codecademy and other Hour of Code participants can help you write your first computer program. Tutorials from KhanAcademy, Codecademy, Code.org, and many other organizations will introduce you to the basics of programming—all while creating a new game, site, or other project. Find the resources you need according to the language you're learning with Bento. These are good starting points, but you'll need to take the initiative to further or continue your learning after these introductions.
+
+5. Take a Coding Course
+
+Online computer science courses offer a bit more of rounded educational experience compared to online training sites focusing on one language. These courses are designed to teach you fundamental skills over several months in college-level classes. I can't personally recommend Harvard's CS50 (which you can take for free) enough, but there are many others you can take (many listed on our Lifehacker U series). You can even build a college-level computer science education with this selection of fifteen online courses.
+
+Introduction to Computer Science An introduction to the intellectual enterprises of computer science and the art of programming. Read more
+
+4. Grab Some Free Programming Books
+
+When you get stuck on a problem or just need to look something up, reference books come in very handy. There's a huge collection of over 500 free programming books posted on GitHub, and another collection of Ebooks covering 24 programming languages.
+
+3. Play Coding Games
+
+Often the best way to learn is through games. While plenty of coding tutorials have you building simple or complex games yourself, a couple of teaching sites are literally games: Code Combat and CodinGame are two you might have fun with.
+
+2. Get a Mentor (or Teach Someone Else)
+
+The programming community is full of people who are willing to help the next generation of programmers. Hack.pledge() is one site that will connect you to a mentor, or you can sign up to mentor someone else. Even just planning to teach what you've learned can help you retain the information better.
+
+1. Hack Someone Else's Code
+
+When you reverse engineer someone else's code, testing each line to see how it works, you get a better understanding of the big picture. Thanks to tons of open source code, you can learn just about anything—and keep learning through the incremental-hacking cycle. Just remember to share your code back with the community if you improve on a program.

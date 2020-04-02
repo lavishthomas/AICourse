@@ -1,0 +1,59 @@
+I feel like SVG should be 'our thing' in 2016. In purely technical terms, we know how to make it work in most modern browsers.
+
+It's also ridiculously well-suited to the web, giving us tiny file-size, crisp edges and almost infinite scalability. In fact, Google has been indexing SVGs since 2010.
+
+Mainstream graphics apps such as Illustrator, Sketch and Inkscape are getting pretty good at outputting relatively efficient, 'web-ready' SVG graphics. There’s a lot to like,
+
+So, why isn't SVG taking over?
+
+Perhaps one of the main hand-brakes for many of us is the long legacy of pixel graphics we drag behind us. Decades of JPGs, PNGs and GIFs from clients and advertisers. The prospect of converting all those pixel-based logos, icons, diagrams, graphs, charts and who-knows-what-else into vector form is enough to give most of us a migraine, right?
+
+--ADVERTISEMENT--
+
+Converting Pixels to Vector
+
+Vector autotrace is not a new concept. I remember getting really excited when Adobe included a separate auto-tracing application called 'Streamline' with my first copy of Illustrator. I could now create new illustrations in seconds!
+
+The excitement wore off.
+
+It soon became clear that Streamline's generated vector files were, at best, a starting point. By the time you'd cleaned, fixed, straightened and re-organized them into something more useful, you had to wonder if it might have been better to start from scratch.
+
+Eventually, Streamline's autotrace function was integrated into the Illustrator core, but the issues remained.
+
+Smooth letter forms were jaggy
+
+Right angles were bent and corners are actually curves
+
+Thousands of superfluous nodes were added where they shouldn't be needed.
+
+As you can see in this Illustrator 'LiveTrace' example above, elements will almost ALWAYS need to be hand retouched.
+
+This only becomes more important with SVG, where it becomes difficult to attach CSS or JavaScript behaviours to crazily complicated shapes within your SVG.
+
+VectorMagic
+
+I've mentioned VectorMagic in the past, but I find that it's still relatively unknown to most people.
+
+It's been around for a number of years and, the truth is, I'd love to be able to point to an alternative because VectorMagic is pricey.
+
+But on the other hand, I think it's still comfortably the king of pixel-to-vector conversion software.
+
+There are two ways to use VectorMagic. The Desktop edition is the fully-featured edition and it's a one-time $295 payment.
+
+They also offer a browser-based, online version as a subscription service for $8 a month, and I don't think you lose anything significant.
+
+VectorMagic's default settings are very good, but – like most auto-tracers – they also allow you to customize your level of detail and color palette.
+
+However, it's the smart algorithms that you're paying for. Have a look at the shapes that VectorMagic generated from the same 'Star Wars' banner JPEG.
+
+Vector graphics almost always look and perform best when constructed with the fewest possible node points.
+
+As you can see in the example above, the vector shapes that VectorMagic produces are sharp, simple and clean, and elements fit together like a laser-cut jigsaw puzzle. There are almost no unnecessary points that a live human illustrator wouldn’t add.
+
+The truth is, VectorMagic has some seriously impressive mathematical magic going on, and I don’t think anyone else knows how to do it this well. Adobe has labs full of maths geeks working on image technology but, for whatever reason, they haven’t got close to this.
+
+I have to say it: this is a service worth subscribing to. They even provide an SVG download option. However, it is worth noting that they do allow 2 free conversions when you create a new account.
+
+But be warned: it’s hard to go back once you’ve seen the results.
+
+Originally published in the SitePoint Design Newsletter.

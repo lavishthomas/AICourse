@@ -1,0 +1,133 @@
+Disclaimer: opinions are mine, not my colleagues or employers.
+
+I’ve been playing with Docker for the past 2 weeks. Everyone around me seems to believe Docker’s best thing in IT since DHCP so I had to make up my mind.
+
+I have a problem.
+
+At Botify, our infrastructure is based on 2 core principles: immutable servers and, as a consequence, blue / green deployment. Immutable servers means that, once a machine is deployed, you never update it anymore. If you need to change something, you build a new master, trash your running machines and replace them with new ones. Blue / green deployment means building the new infrastructure next to the old one and switch when you’re ready. This is, as far as I know, the best way to rollback without interrupting the service. Indeed, immutability and blue / green deployment work best with virtualization.
+
+Unfortunately, the whole build is slow. Python packaging system is sluggish and it takes Amazon up to 10 minutes to turn a running instance into a useable AMI. Building a complete infrastructure from the ground to addition in the load balancer takes up to 40 minutes. When you need to deploy up to 10 times a day, this is not acceptable and Docker looks like a possible solution to that problem.
+
+If I was still 25, the whole production would most certainly be full dockerized. At 36, I’m more reluctant to change everything for the latest hype. Not that I’ve became old and boring. But I’ve enough experience to think twice before giving myself the opportunity to work 24/7 during 3 days to fix what I’ve just broken.
+
+When you read about Docker, it’s magic. The tutorial makes building and running Docker containers so easy you won’t believe your eyes. Ruby on Rails tutorial made building a blogging engine in 15 minutes possible. I’ve been maintaining that one for almost 8 years, and it’s still perfectible. So I’m cautious with the tutorial WOW effect.
+
+After building my first image, I was all excited at how easy and fun it went. Really, it was as magic as in the documentation. Then, I confronted what I just did with the hard reality of a production environment.
+
+You embed a distro in a distro (or multiple distros in a distro)
+
+Docker promises you to run a process inside a container, isolated from your main system. That’s true. Unfortunately, you’ll most probably carry a more or less minimal Linux distribution inside your container. More often less.
+
+I asked the famous rapper Xzibit his opinion about running Docker on Amazon Web service. He said:
+
+Yo dawg, I heard you like distros, so I put a distro in your distro in your distro so you can boot while you boot.
+
+The minimal Ubuntu 12.02 image is 627MB. Add your own application layer, and your container will most likely weight more than 1GB.
+
+In my scenario, I plan to boot bare Ubuntu instances on AWS, and have an init script (no Systemd, thank you) to download the containers from my own registry. Booting 4 instances of the same kind means downloading at least 1GB, even more if you run multiple containers, which I do.
+
+Hopefully, Docker is smart on that one. If you need 4 containers based on the base Ubuntu system, you’ll only download it once, then you’ll get all the added layers.
+
+Dreaming of a statically build binary
+
+This week-end, I’ve built a Docker container to run Publify. Publify is a Ruby on Rails based publishing engine. It has few dependencies, or at least I thought it had.
+
+I didn’t want to embed a whole Ubuntu into my container, so I decided to go with Docker scratch and static building. I know, I’m probably crazy.
+
+I started with the Ruby interpreter. Being lazy, I used RVM to build a static copy of it:
+
+$ curl -L https://get.rvm.io | bash $ source /.rvm/scripts/rvm $ rvm install 2.1.1 --movable $ rvm prepare 2.1.1
+
+This builds a static version of the Ruby interpreter so you can easily use it somewhere else.
+
+Then I had to build the libsqlite3 so I can use a SQLite database. It was harder than I thought, but I finally made it.
+
+Then, the nightmare started. To have the asset part working properly, Publify needs the full ImageMagick stack. Do you know what building a static copy of ImageMagick means? Nah? You don’t want to know. I don’t want either.
+
+I finally decided I’d go with a minimal Ubuntu based Ruby dedicated container. Most of my Dockerfile was about removing everything I didn’t need. After flattening the whole thing, my base image weighted 320MB. This was before I start to install anything.
+
+The final image is 570MB big. I could not shrink it more unless I remove the whole Python and Perl stack. Since both are necessary for many system dependencies, starting with apt-get , this was not possible. I still need a way I can improve or upgrade my container.
+
+Logging
+
+Logging is a critical part of running an application. It’s often undercooked because it’s been here for so long no one think about it anymore. But trust me, when things stop logging, admins start crying.
+
+And indeed, I started to cry.
+
+There’s no easy way logging with Docker. Or I didn’t find any convenient one that did not involve File.open('/var/log/somefile', 'a') and praying I don’t run into a race condition.
+
+You can log inside your container if you run a syslog daemon. From my point of view it’s stupid. First, it goes against a « 1 container, 1 process » philosophy. Second, you need something else to access / export your logs, hence another process running.
+
+You can send your logs to your host syslog using a network bridge. Manually tuning the network of a Docker environment is competing with Systemd as the biggest admin nightmare. And doing so, you start breaking the container isolation. No good.
+
+You can mount a volume from the host to write your logs. Yeah, once more this is the container philosophy (and security). Once again it’s a no go.
+
+Finally, you can run a syslog daemon to send your logs to a central log server. From my point of view, that’s the most convenient way of doing it, but it still requires a secondary process running inside your container. That’s the way I chose.
+
+Network management
+
+The basic example of a Docker tutorial is wonderful: expose a port in your container, run Docker binding it to your local port, and the magic happens:
+
+$ sudo docker run -d -p 3000:3000 fdevillamil/publify
+
+Then comes the reality: the Docker Network Configuration page starts with a TL;DR. Enough said.
+
+In my ideal setup, I need to connect 2 containers:
+
+a Web server, listening on the port 80.
+
+a Django application server listening on the port 8000.
+
+If I want to keep my containers separated, I can’t have them communicate with a UNIX socket, unless I create a shared volume. Once again it’s a no go for me.
+
+Docker network documentation is full of iptables rules and bridges to allow a container to talk to another one, or to the wider world. Hopefully, they bring you the --link=CONTAINER_NAME:ALIAS , which allows to connect a container with another one.
+
+--link=CONTAINER_NAME:ALIAS — using this option as you run a container gives the new container's /etc/hosts an extra entry named ALIAS that points to the IP address of the container named CONTAINER_NAME. This lets processes inside the new container connect to the hostnameALIAS without having to know its IP.
+
+The way it actually works is so complicated you just want to thank them for that option and pray that no one ask ever you about it.
+
+Provisioning is not perfect at all
+
+Let’s put it this way: as a way of provisioning a container, Dockerfile is a joke. It’s not even as complete as a built ins only shell script can be, and every file you can send to your container at build time must be in the build context (ie. in a subdirectory of your Dockerfile).
+
+Dockerfile lacks templates, inheritance, shared logic… It’s OK to install the prerequisites to run Puppet or an Ansible local in a very dirty way, and add a daemon off at the end of your nginx.conf file. All these limitation requires you to find dirty tricks as a workaround, because Docker was not designed to run this way.
+
+It bothers me a lot.
+
+As I’m looking for a way to build a container without having it host the whole build environment (such as Puppet modules, ssh private keys to the Git repository, etc). So once again I’m forced to build and ensure the Dockerfile cleans the whole thing before I push my container.
+
+And I also don’t want my whole infrastructure to be designed around the container build limitations. This should not happen.
+
+Apparently, the best way of provisioning with Docker is running it with Packer or another third party software. Once again, I’m reluctant with it. It brings another layer in a build that gets more and more complex as we’re getting into it.
+
+Process monitoring? Don’t even think about it
+
+Forget your classic monitoring (unless you want to pull your hair with network bridges). Everything you’ll be able to monitor within the container are ports. That because you run the old school nrpe inside your host, so you won’t be able to check you actually have 8 workers running inside your container. You can probably run 8 containers, each of them with 1 worker, but I didn’t try it.
+
+Porting your application to Docker increases complexity. Really.
+
+Making your application Docker compliant requires you to rethink the way it works. Since a Docker container runs with a single process, forget about your classical UNIX daemons. Your process needs to run foreground. Once you’re used to it, you’ll probably feel OK.
+
+Since Docker CMD can only be used once, you need to find a workaround to run multiple processes in a container, like syslog and your application. A commonly accepted way to do it seems to rely on Supervisor. You can chain daemons and ensure Supervisor won’t give the hand after starting the last one. It also handles process respawn, which can be pretty convenient.
+
+Those are boring operational stuff.
+
+The part that makes me the most reluctant is about building and consistency.
+
+Let’s imagine I’m running a Rails application. This application is served by a Nginx reverse proxy. It also has dependencies. Lots of them. And they’re also used by a backend application I want to run into Docker.
+
+The reverse proxy will run on the host. Or maybe in another container. Let’s just don’t care about it and focus on my application.
+
+I want it to deploy fast, very fast. So I’ll build it using Docker onion skin philosophy.
+
+A Dockerfile to build a container with a basic Ruby stack. A Dockerfile from #1 to build the deps: checkout the application on Github, install the packages, run bundle install , then remove the application. I’ll be able to share this container with both applications. Big win! A Dockerfile from #2 to download the application from Github, then setup everything. So my dependencies are already installed, and it goes fast every time I don’t need to update them.
+
+The the tag nightmare begins. If I update my application and add new deps, I’ll have to update container #2. Unfortunately, how will I know I have to do that? And do I really want #3 to use the latest #2 and a tag? I’m sure you probably have a headache.
+
+That’s where a well designed orchestration starts and Jenkins enters the dance.
+
+Every time your application is updated, check the Gemfile md5 and see if it’s different from the latest build (idea courtesy of @ggregl). If so, run docker build for container #2 before building #3.
+
+And here we are. From my point of view, Docker is probably the best thing I’ve seen in ages to automate a build. It allows to pre build and reuse shared dependencies, ensuring they’re up to date and reducing your build time. It avoids you to either pollute your Jenkins environment or boot a costly and slow Virtualbox virtual machine using Vagrant.
+
+But I don’t feel like it’s production ready in a complex environment, because it adds too much complexity. And I’m not even sure that’s what it was designed for.

@@ -1,0 +1,15 @@
+A US District Court judge in California dismissed a class action lawsuit against Uber by a former Lyft driver over the company’s “Hell” program, which it allegedly used between 2014 and 2016 to track drivers of the rival service.
+
+The “Hell” program was first revealed by The Information back in April. With it, Uber allegedly created fake Lyft rider accounts that then let them track how many drivers were available on the service in different areas. Uber was then able to use this information to deploy its own drivers to areas underserved by Lyft on a real-time basis.
+
+Uber also allegedly used “Hell” to find Lyft drivers who split their time driving for Uber, and used that information to offer those drivers incentives to drop Lyft altogether.
+
+The lawsuit, filed in April by Michael Gonzales, accused Uber of violating the Electronic Communication Privacy Act, the California Invasion of Privacy Act, and California’s Unfair Competition law. The plaintiff alleged that Uber was using “intercepted” communications to drive the “Hell” program.
+
+Uber claimed that the case was poorly argued, and the judge seems to have agreed
+
+But Uber filed a motion to dismiss the lawsuit earlier this summer, arguing the plaintiff didn’t make a proper case that Uber “intercepted” that information, which it also claimed was “readily accessible to the general public.” Uber also argued that it didn’t violate CIPA because Lyft drivers consent to giving up their location data when they use the app.
+
+The company’s legal team also insisted that Gonzales didn’t properly allege loss of money or property to justify the Unfair Competition law. Judge Jacqueline Scott Corley granted Uber’s motion today with “leave to amend,” so Gonzales will be able to amend his complaint and file another lawsuit. Uber declined to comment.
+
+“Hell” was reportedly discontinued at the end of 2016, and it was one of a few notably aggressive internal tools used by Uber in its push to dominate the ride-hailing market. It was similar to the infamous “God View” mode that the company used to track its own drivers (and a journalist). Both of those programs came on now-former CEO Travis Kalanick’s watch, whose willingness to put growth before everything else eventually led to his resignation earlier this summer. Of course, Uber still has plenty of other problems for its new CEO, former Expedia chief Dara Khosrowshahi, to deal with when he starts next week.

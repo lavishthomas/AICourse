@@ -1,0 +1,191 @@
+Take my hand and come with me on a mystical journey into baseball's future. MLB commissioner Rob Manfred has imposed every single one of his ideas on the game—the good ones and the bad ones. He’s announced expansion into Montreal and Mexico City and codified pitch clocks for all pitchers. Every extra-inning game now starts with a runner on second base. Every time three or more triples happen in one game, each team’s bench coach must consume 10 bags of Fun Dip while reciting the Cyrillic alphabet backwards.
+
+Oh, and there’s one more new rule: Every team in baseball must now declare every player available for trade.
+
+Welcome to the fifth annual edition of my MLB Trade Value series. The premise of these columns is exactly that: If every player affiliated with an MLB organization at the big league and minor league level suddenly became available for trade, who would fetch the most in return? The most important deciding factor is skill (you won’t see any .185 hitters on this list), but the analysis delves much deeper than that. The player’s age is important; so, too, is his health record. Contract status is pivotal, since teams would pay the most for an elite, young player who can’t test free agency for several more years.
+
+We love statistical analysis in Trade Value Land, so this column leans heavily on those tools. That means we adjust offensive stats for park factors, consider the concept of age curves, examine success and failure rates for pitching injuries, and even try to account for track record when it comes to contract decisions (a Scott Boras client, generally speaking, is less likely to re-sign rather than testing free agency). But this is still just one writer’s list, so there will be subjective calls, too. Would you rather have Nolan Arenado for the next three years or Bryce Harper for the next two? Do you want Corey Kluber for five seasons or Chris Sale for three?
+
+To gain additional perspective, I polled a bunch of general managers, assistant general managers and other talent evaluators, then re-crunched the numbers and contracts, considering thousands of possible permutations. The result is a list of the 50 most valuable players currently employed by MLB organizations (again, minor leaguers were considered; players in Japan, Cuba, college, high school and elsewhere are not), as well as some honorable mentions who just missed the cut. As we did last year, we split the rankings into multiple parts: Today, we'll hit the players who fell off last year's list and the honorable mentions; starting tomorrow, we'll dive into this year's top 50, beginning with Nos. 50–31, then hitting 30–21 on Thursday and the top 20 on Friday.
+
+Before we get to the rankings, a quick look at the rules.
+
+1. Contracts matter
+
+Joey Votto was a better hitter than Anthony Rizzo last year, but the Reds owe Votto $179 million over the next seven years (or $192 million over the next eight, if they pick up their club option for the year in which Votto turns 41), and the Cubs owe Rizzo just $44 million over the next five years, assuming they pick up their two club options that would take him just past his 32nd birthday.
+
+2. Age matters
+
+Putting aside speed, defense and durability, Milwaukee's Ryan Braun and Boston's Mookie Betts put up very similar offensive rate-stat numbers last season, but the former is 33 years old and the latter is just 24. Based on what we know about age curves, Braun is likely past his prime (and likely to decline from here), but Betts’s best years might still be ahead of him.
+
+3. It’s all relative
+
+If every team started shopping every player as a trade candidate, which players would attract the biggest return from any of the other 29 clubs? For instance, if we’re comparing the trade value of Manny Machado and Jose Altuve, we’re not concerned that the Astros have a terrific third-base prospect in Alex Bregman, or that the Orioles’ Jonathan Schoop is a promising 25-year-old second baseman coming off a 25-homer season. Instead, we want to know this: If every team were allowed to bid on Machado and Altuve, which player would net the greater return?
+
+4. Positional scarcity matters
+
+If a catcher and first baseman put up comparable offensive numbers, the catcher is the more valuable player, since it’s much tougher to find someone with the defensive chops to squat for 130 games a season than one who can man first. That’s already accounted for in the Wins Above Replacement metric, which you’ll see referenced occasionally here, but it bears repeating.
+
+5. Defense, park factors and other variables not immediately apparent in superficial stats matter
+
+These are not fantasy baseball rankings, so a player who hits 30 home runs isn’t necessarily more valuable than one who hits 20, or even five.
+
+6. The list runs in reverse order
+
+If Odubel Herrera is No. 35 on this list, it means the Phillies likely wouldn’t trade him for anyone ranked 36–50, but they would have to at least consider swapping him for the players ranked 34–1.
+
+With all that laid out, onto the players who missed the cut and this year's honorable mentions.
+
+All contract figures from Cot's Contracts; all WAR figures from baseball-reference.com.
+
+(Thanks as always to Bill Simmons, who came up with the idea to rank all NBA players by trade value many years ago and urged me to start an MLB Trade Value series. Special shoutout to FanGraphs’ Dave Cameron, who’s been doing his own MLB rankings for the past several years.)
+
+Gene J. Puskar/AP
+
+Missing The Cut
+
+Before we get to this year’s list, here’s a quick rundown of the players we ranked in the top 50 before last season (Part 1, Part 2, Part 3) but who fell off this year's list.
+
+Salvador Perez, C, Royals (50)
+
+Perez’s strong defensive reputation in media circles isn’t matched by what many in the game say about him (several talent evaluators I spoke to rated him as one of the worst defensive catchers in the majors) or by pitch-framing metrics (Perez finished dead-last in all of MLB last year in that category). One of the most prolific hackers in the league, Perez’s on-base percentages over the past three seasons have been .289, .280 and .288. He’s still a plus player, but those drawbacks overshadow his power and durability enough to knock him out of the top 50.
+
+Rougned Odor, 2B, Rangers (49)
+
+He’s a 23-year-old second baseman who just smashed 33 home runs, but like Perez, Odor never walks (his 3% walk rate last season was the lowest for any qualified hitter in the majors) and is a subpar defender (he was 11, 7 and 9 runs worse than the league-average second baseman in the past three seasons, ranking 34th, 31st and 35th at his position according to Baseball Info Solutions’ Defensive Runs Saved). That, plus an incredibly deep field of recent major league call-ups, leaves Odor just off our list.
+
+Taijuan Walker, SP, Diamondbacks (48)
+
+Of the 106 pitchers with 130 or more innings pitched last season, only three gave up home runs at a more prolific pace than Walker. He’s still just 24 years old, and the Diamondbacks just traded a lot of talent to acquire him, so he’s still a valuable asset.
+
+Carlos Carrasco, SP, Indians (47)
+
+From one baseball mind I greatly respect:
+
+“Here’s one I’m toying around with. Would you trade Gerrit Cole for Carlos Carrasco? Carrasco’s last three seasons: 95 games (69 starts), 464 innings, a 3.22 ERA, a 134 ERA+ and a 4.8 strikeout-to-walk rate. He’s making $14.5 million the next two seasons, then has two options combined at $18.5 million, so that’s four years at less than $35 million. Cole’s last three years have him at 462 innings, a 120 ERA+ and a 3.7 strikeout-to-walk rate (to be fair, he didn’t spend any time in the bullpen). Both seem to get hurt every year. But with Carrasco, you get an extra year and the guy who, at least per that quick look, has pitched better statistically.”
+
+He’s right. Cole, who I had all the way at No. 19 last year, doesn’t make the list this season, but I also have Carrasco just short, because of the injury risk and because he’ll be 30 years old by Opening Day.
+
+Tyler Glasnow, SP, Pirates (44)
+
+There are just so many talented, young pitchers with two or fewer years of major league service time. I basically flipped a coin and landed with Glasnow ranked more or less at No. 51. I’m already regretting that ranking.
+
+Spring box score line du jour: Pirates phenom Tyler Glasnow vs Bal - 2 IP 1 H 6 K. It went: K, K, K, K, K, 1B, K vs Orioles' "A" lineup. Wow — Jayson Stark (@jaysonst) February 26, 2017
+
+Carlos Rodon, SP, White Sox (42)
+
+The talent is jarring, and his slider’s already one of the best in the league. He’s a slight command improvement away from becoming an All-Star.
+
+Lucas Giolito, SP, White Sox (41)
+
+Arguably the top pitching prospect in baseball entering the 2016 season, Giolito struggled to find the plate in both Double A and his 21 1/3-inning MLB cameo. Scouts grade both his fastball and hammer curve as potential 70 pitches on the 20–80 scouting scale, so the potential for stardom is still very much in play.
+
+A.J. Pollock, OF, Diamondbacks (39)
+
+Arguably the most underrated player in baseball, Pollock just misses the cut because he offers just two years of controllable service time and because of health questions after missing all but 12 games last season with an elbow injury.
+
+Jake Arrieta, SP, Cubs (38)
+
+He’s a free agent at the end of this season, and you wonder if the analytically oriented Cubs will pay full fare to extend a pitcher into his late-30s.
+
+J.P. Crawford, SS, Phillies (36)
+
+I had Crawford in my top 50 initially. This is what one AL exec said in reply:
+
+“Having a tough time with J.P. Crawford. He clearly did not dominate the level last year and is probably not ready to step in today as an impact player. It’s probably seven years of an above-average shortstop but just short of star-level shortstop. If I were running a club and someone offered me Chris Archer for him, I’d really have to think about it. That’s five seasons of an ace who helps me today. I guess it depends on my winning window, etc. But again I think the industry is generally going to value the now contribution, particularly with significant control, ahead of the good upper-level prospects without monster ceilings.”
+
+I heard similar sentiments about a bunch of other preliminary rankings, so you’ll see some preference shown toward players who are already very good (and controllable) over players with limited track records.
+
+Felix Hernandez, SP, Mariners (35)
+
+He hasn’t been an elite pitcher in three years, and last season was the worst showing of his 12-year career. Hurling 2,415 2/3 innings can take a nasty toll on a pitcher’s arm. Mariners fans would gladly sit through an even heavier workload if it would mean reaching the playoffs for the first time in King Felix’s fantastic career.
+
+Marcus Stroman, SP, Blue Jays (34)
+
+He’s 25 years old, owns a worm-burning 58.2% career ground-ball rate and just completed a season in which he fired 221 2/3 innings (including playoffs), extinguishing any lingering health concerns after his 2015 knee injury. The top 50 is an exclusive club, so we’ll nitpick about Stroman’s league-average strikeout rates and wonder if we should’ve found a way to sneak him in anyway.
+
+Jose Fernandez, SP, Marlins (30)
+
+Jose Fernandez's girlfriend, Maria Arias, delivered their baby girl Friday night. The baby's name: Penelope. — clarkspencer (@clarkspencer) February 25, 2017
+
+Matt Harvey, SP, Mets (29)
+
+In the three seasons that he’s stayed healthy, Harvey has been one of the five best pitchers on the planet. Unfortunately, he’s mixed two injury-plagued seasons in with those three gems, including a 2016 campaign that ended with thoracic outlet surgery.
+
+Giancarlo Stanton, OF, Marlins (28)
+
+The biggest contract in baseball history might also be on the verge of becoming untradeable. Stanton is owed $91.5 million over the next four seasons and can either opt out after the 2020 season or make another $218 million guaranteed after that. That’s a hefty deal for a player who’s topped 123 games played just once in the past five years.
+
+Dallas Keuchel, SP, Astros (27)
+
+We’ll probably never see anything close to a repeat of his Cy Young-winning 2015, but Keuchel will remain one of the top groundball pitchers in the game, and the de facto ace of a Houston team that will lean far more heavily on its lineup and bullpen than its slightly suspect rotation.
+
+Miguel Sano, 3B/DH, Twins (25)
+
+A player with Sano’s profile—no speed, no real position—needs to hit an absolute ton to make a major impact on his team. Sano batted .236/.319/.462 last season, in line with less-than-dominant hitters like Nori Aoki by advanced metrics. He also struck out more frequently than any hitter in the majors and looked so out of sorts at one point that there whispers about possibly demoting him to the minors. He dropped 15 pounds this off-season and may well turn into a perennial 40-homer guy, but as we saw with sluggers like Chris Carter this winter, tape-measure power alone isn’t nearly as valued as it once was.
+
+Jose Abreu, 1B, White Sox (24)
+
+Here are Abreu’s wRC+ figures and his American League wRC+ rank, by year:
+
+2014: 167 (2nd)
+
+2015: 129 (14th)
+
+2016: 118 (28th)
+
+Clayton Kershaw, SP, Dodgers (21)
+
+He’s still the best pitcher on the planet, but Kershaw has a clause in his contract that says he can become a free agent at the end of any season in which he’s traded, assuming the trade happens in-season. He’d still have a ton of value as a rental—just not top-50 value.
+
+Sonny Gray, SP, Athletics (20)
+
+Of the 65 AL pitchers with as many innings as Gray had last season, only three posted an ERA more bloated than his 5.69. He’s a good candidate to bounce back, but you can’t justify him staying in our top 50.
+
+Gerrit Cole, SP, Pirates (19)
+
+Cole has had two of his past three seasons significantly shortened by injuries, something the do-it-on-the-cheap Pirates can’t afford if they hope to make it back to the postseason.
+
+Andrew McCutchen, OF, Pirates (10)
+
+No omission made me sadder. We’ll always have this, Cutch.
+
+Otto Greule Jr./Getty Images
+
+Honorable Mentions
+
+In addition to players like Odor, Glasnow and Stroman who barely fell out of the top 50 after being there last year, here are a few other players who just missed the cut but are still worth highlighting.
+
+Kyle Seager, 3B, Mariners
+
+Jason Kipnis, 2B, Indians
+
+Seager will be paid handsomely over the next five seasons, banking $85 million, but he’s worth every penny and then some as the second-best hitter among AL third basemen last year and the third-best defender in baseball at that position. Seager is 29 years old and tantalizingly close to the top 50. If he were a year younger, he might’ve eked his way onto the list.
+
+You could say the exact same thing about Kipnis: He’s a terrific all-around player and has a very affordable contract ($53.5 million over the next four years, assuming Cleveland picks up his 2020 option), but he’s turning 30 on Opening Day, suggesting that his performance might taper off and decline as he gets deeper into that deal.
+
+Gleyber Torres, SS, Yankees
+
+One of the top prospects in baseball, Torres is the crown jewel of an impressive (and ongoing) reloading effort that’s seen the Yankees reel in and develop a slew of exciting young players (ESPN’s Keith Law rates their farm system as the best in the AL). Torres will debut in Double A this season at the tender age of 20 and has a chance to be a fixture at shortstop in the Bronx for years to come.
+
+David Dahl, OF, Rockies
+
+A polished hitter in the mold of Christian Yelich, Dahl hit the ground running upon his call to the Show last season, batting .315/.359/.500 in 63 games—numbers that still play well after adjusting for Coors Field. Dahl’s presence on the roster makes the gigantic contract given to extreme ground-ball hitter Ian Desmond even more puzzling, since Desmond must now man first base with no outfield (or other infield) spots open. On the plus side, GM Jeff Bridich deserves some credit from his days as director of player development for the emergence of Dahl as well as third baseman Nolan Arenado, outfielder Raimel Tapia and pitchers Jon Gray and Tyler Anderson.
+
+Nomar Mazara, OF, Rangers
+
+Despite some difference of opinion on methodology, the prevailing thought in baseball is that players are peaking earlier now than they did a generation ago. The decline in performance-enhancing drug use since the installation of the Joint Drug Agreement a decade ago likely explains much of that shift but an unusually great current crop of 25-and-under players helps, too. Mazara cooled off considerably after a torrid start to last season, but he’s just 21 years old and has already proven he can hold his own in the big leagues. That counts for a lot.
+
+Jameson Taillon, SP, Pirates
+
+Julio Urias, SP, Dodgers
+
+Taillon and Urias are two more players with less than one year of major league service time who have a chance to become impact players. On the other hand, Taillon not long ago missed two whole seasons to injury (Tommy John surgery, then an inguinal hernia). He’s not quite there yet.
+
+Urias might have the better future of the two. He’s just 20 years old, whiffed 25% of the batters he faced in his 77-inning MLB debut and comes with a huge pedigree. The Dodgers have an absolutely jaw-dropping amount of lefthanded talent in their rotation.
+
+Jonathan Villar, SS, Brewers
+
+The Brewers have scooped up multiple talented speedsters for next to nothing over the past couple years, none better than Villar. Just 25 years old, Villar is coming off a huge offensive breakout in which he hit .285/.369/.457, cracked a career-high 19 homers and 38 doubles, walked a career-high 79 times and stole an MLB-best 62 bases. Per Defensive Runs Saved, he’s a tick above average with the glove, too. All that, and Milwaukee controls his rights through 2020. Man, this is a tough year to crack the top 50!
+
+Coming up tomorrow: We begin the countdown with players 50–31.

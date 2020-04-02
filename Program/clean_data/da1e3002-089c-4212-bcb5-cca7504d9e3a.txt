@@ -1,0 +1,31 @@
+One of the challenges of understanding climate change is that both the expected change in temperature and the effect that will have vary depending on the location. So Oregon's climate won't change in the same way Georgia's will. And, even if it did, the impact of those changes will be different, since the two states start off with different climates and economies. So understanding the regional impact of climate change has been a real challenge.
+
+But the challenge is worth tackling since most of the planning for how to deal with climate change will have to occur at the regional level (especially in the US). Now, a group of researchers has built a model that tracks many of the economic outcomes of climate change, and it does so for every single county in the US' contiguous 48 states. The results show that the overall impact on the country as a whole will happen near the end of this century. But the model also shows that problems won't be evenly distributed, and the poorest counties are likely to bear the brunt of the damage.
+
+Getting empirical
+
+To generate the future temperatures, the researchers worked with the IPCC's emissions scenarios. They then used a set of simplified climate models to produce temperature and precipitation estimates for each month at the end of this century. Each day in that month had some weather variability added in order to make 10 different potential scenarios. These provide the raw material for estimating economic impacts, along with a range of possible outcomes.
+
+Specific issues, like hurricane damage, were handled by a combination of wind-speed and storm-surge models, both of which were fed data from historic storm tracks. The outcome of these models was then analyzed in light of a comprehensive list of coastal properties; damage was estimated using engineering models. This gives you a good sense of the analysis' complexity and level of detail.
+
+Here, the authors turned to a series of empirical measures of how various things change with the temperature, ranging from agricultural yields to crime levels. The reliance on empirical studies is probably the greatest strength of the study, but it also is a limitation. If nobody has found an empirical relationship between an economic activity and the temperature, that activity isn't included. So, while the study included mortality due to temperature extremes, it didn't track the healthcare costs of non-fatal problems—given health care costs, those are likely to be substantial. Worker productivity and biodiversity changes were also unaccounted for.
+
+The authors also acknowledge that their analysis assumes the population will largely stay in place. In reality, if a county gets unbearably hot or regularly floods, chances are good a large portion of its population will relocate, reducing the impact of these events. (Of course, relocation has its own costs.)
+
+Brace for impacts
+
+The pattern of changes is largely what you would expect: some beneficial effects come to the northern US, but they're largely offset by problems elsewhere. The exception to this is coastal damage, which is heavily concentrated along the relatively low-lying Gulf and Eastern Seaboards.
+
+So, while there are fewer deaths in the northern half of the US due to extreme cold, that benefit is more than offset by greatly increased mortality in every state east of Texas and south of Kentucky. Energy costs, driven by the need for air conditioning, mirror the issues with mortality. Similarly, the fertilizing effect of CO 2 will help agriculture in places like Montana and the Dakotas, but most of the states along the Mississippi River will be slammed.
+
+Oddly, studies show that people don't like to commit property crimes when it's cold, whereas hot weather does affect property crimes. So expect an overall increase there. By contrast, violent crime simply goes up with the heat. As a result, the economic cost of crime will go up pretty much everywhere.
+
+Overall, the initial bit of warming has a relatively minor impact; the first 1 degree Celsius of warming only drops the national GDP by 0.6 percent. But as temperatures continue to rise, the impacts become more severe, with the difference between 5 degrees Celsius and 6 degrees Celsius being 1.7 percent of the US GDP. Not great, but not terrible.
+
+The problem is that the impacts are worst in the counties that are the poorest. The Northeast and West Coast, which are the wealthiest parts of the US, have relatively minor problems in this analysis. The hardest hit are the states along the Gulf of Mexico. As a result, the authors conclude, "warming causes a net transfer of value from Southern, Central, and Mid-Atlantic regions toward the Pacific Northwest, the Great Lakes region, and New England."
+
+And the poor counties get hit hard. The best case scenario for a county in the poorest third of the US is a two-percent loss of GDP. In the worst cases, counties lose more than 20 percent of their GDP by the end of the century. By contrast, some northern regions will see a net gain from climate change.
+
+This paper clearly isn't the last word on this analysis—the authors are effectively inviting other researchers to provide additional empirical measures of climate impacts so those can be plugged into this model. But the authors note that their estimates are in line with those that analyze the country as a whole. And the key message is unlikely to change: as it will in the rest of the world, climate change is likely to exacerbate wealth disparities that are already considered problematic.
+
+Science, 2017. DOI: 10.1126/science.aal4369 (About DOIs).

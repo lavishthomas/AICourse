@@ -1,0 +1,31 @@
+For the first time, the Food and Drug Administration has approved a therapy that involves genetically engineering a patient’s own cells, the agency announced Wednesday.
+
+The therapy, called Kymriah (tisagenlecleucel) by Novartis, will be used to reprogram the immune cells of pediatric and young adult patients with a certain type of leukemia, called B-cell acute lymphoblastic leukemia. During a 22-day out-of-body retraining, patients’ immune cells—specifically T cells that patrol the body and destroy enemies—get a new gene that allows them to identify and attack the leukemia cells.
+
+Further Reading First-of-their-kind gene-edited cells treat baby’s leukemia Such therapies, called CAR-T therapies, have shown potential for effectively knocking back cancers in several trials, raising hopes of researchers and patients alike. But they come with severe safety concerns—plus potentially hefty price tags.
+
+Nevertheless, the FDA announced its approval with fanfare and optimism, calling it a “historic action.” In the announcement, FDA Commissioner Scott Gottlieb said:
+
+“We’re entering a new frontier in medical innovation with the ability to reprogram a patient’s own cells to attack a deadly cancer. New technologies such as gene and cell therapies hold out the potential to transform medicine and create an inflection point in our ability to treat and even cure many intractable illnesses. At the FDA, we’re committed to helping expedite the development and review of groundbreaking treatments that have the potential to be life-saving.”
+
+Like all CAR-T therapies, Kymriah involves reprograming body-guard T cells to contain a gene that codes for a protein called chimeric antigen receptor or CAR. This protein allows the T cells to recognize and attack cells that have a protein called CD19 hanging off them—which leukemia cells do.
+
+In the Kymriah procedure, researchers first harvest T cells from a patient and then send them to a manufacturing center. There, researchers insert the CAR gene into the immune cells using a virus. The process takes 22 days, Nature reported.
+
+“A new era”
+
+In an earlier trial, 52 of 63 participants (82.5 percent) achieved overall remission after undergoing the therapy. The trial is unpublished and lacked controls, so it’s not possible to determine Kymriah’s influence. But trials of other CAR-T therapies have shown similarly high rates of remission. And the early results were enough to sway an external panel of FDA scientific advisors in July. In a unanimous vote on July 12, the panel recommended that the FDA approve Kymriah.
+
+“This is a major advance and is ushering in a new era,” panel member Malcolm Smith, a pediatric oncologist at the US National Institutes of Health in Bethesda, Maryland, told Nature at the time.
+
+Further Reading Treatment saved ~90% of terminal cancer patients, but it has scary side effects But, the story isn’t all rosy. CAR-T therapies are known to cause life-threatening immune responses called cytokine storms or cytokine release syndrome (CRS). This can lead to systemic full body inflammation, with organ failure, seizures, delirium, and brain swelling. Several trials of therapies similar to Kymriah have reported deaths.
+
+In the Kymriah trial, 47 percent of patients experienced some level of CRS, but none died. Novartis reported that it was able to manage all the cases of CRS.
+
+The FDA noted the risk in today’s announcement and also revealed that it had expanded the approved use of a drug called Actemra, which treats CRS, so it can be used in patients who receive CAR-T therapy. The FDA also approved Kymriah with a “risk evaluation and mitigation strategy” or (REMS). This involves additional safeguards such as extra training and protocols for healthcare providers.
+
+For now, though, Kymriah is only approved for use in patients aged 25 or younger who have failed conventional therapies or relapsed since undergoing those therapies. Of the roughly 3,100 patients aged 20 or younger who are diagnosed each year with acute lymphoblastic leukemia, about 15 to 20 percent will fail treatment. For these patients, Kymriah may be a literal life-saver, as there are few alternatives.
+
+But along with the frightening side effects, gene therapy may also come with a hefty price tag. UK experts have appraised one round of therapy at $649,000. It’s still unclear what the actual cost will be and what patients will end up having to pay.
+
+In a press release, Novartis announced that it’s working with Centers for Medicare and Medicaid Services to come up with “outcomes-based pricing.” Also in the release, Bruno Strigini, CEO of Novartis Oncology, added:

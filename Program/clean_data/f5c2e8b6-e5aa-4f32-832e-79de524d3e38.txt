@@ -1,0 +1,21 @@
+The remark that she found so funny was this, “You can solve the problem any way you like as long as you get the right answer. That’s the great thing about math, it isn’t cultural.”
+
+She was amused by the contrast between my situation, and her own experience teaching social sciences, where everything is cultural and there is rarely any universally accepted truth. She was, at that moment, a bit jealous of my situation. She needn’t have been.
+
+When math meets real-life applications, everything changes.
+
+Put biased data into an unbiased equation and you get biased results.
+
+Those biased results may then influence the courts, child welfare systems or your business. Mathematician Cathy O’Neil explored this issue in detail in her book, Weapons of Math Destruction: How Big Data Increases Inequality and Threatens Democracy. In it, she explains the how biases reflected in Big Data influence your credit, insurance, job search and work, even what advertising you see. It’s a powerful read.
+
+You might think, “Who cares what ads I see?” Yet, consider these examples and how they might affect a job search:
+
+An online ad for “$200k+ Jobs - Execs Only” is shown to 1816 men, but only 311 women.
+
+Ads suggestive of arrest (“Trevon Jones, Arrested?...”.) are far more likely to show up on searches for names associated with blacks, such as DeShawn, than on searches for names associated with whites, such as Geoffrey.
+
+Gendered language in advertising subtly hints at employers’ gender biases.
+
+Perhaps you are qualified for an executive job, but if you’re a woman named Imani, ad servers are working against you and in favor of a man named Cole.
+
+Math doesn’t cause bias, and Big Data is only partly to blame. The biggest source of bias in data analysis is and always will be people, both technical and business people, failing to admit that bias exists, failing to look for it, and failing to do anything constructive about it.

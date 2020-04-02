@@ -1,0 +1,229 @@
+Have you started the year off on the right foot? I hope you had a worthwhile end of 2014 and are looking at 2015 with excitement and anticipation!
+
+Today I wanted to share with you an exercise that I do on my blogs at the end of every year that helps me to grow my blogs in the year that follows.
+
+I find that it both inspires me to get moving on the new year of blogging but also gives me some starting points for direction for the new year.
+
+It’s an exercise that I do over the last week of 2014 and the first week of 2015 but is also something you could spend just 10 minutes doing and still get some value from.
+
+It all starts for me in Google Analytics (the tool I use to track how my blogs are performing). You may use a different tool which will get you the same results (and if you’re not using something please do).
+
+Note: I know the mention of ‘analytics’ is enough to put some of you off reading on any further. I get that – I’m not really an analytical guy. In fact anything with numbers or statistics elevates my blood pressure and makes me want to run screaming into my happy place. But bear with me – the numbers are just the starting point for this exercise and not the main thing!
+
+I’m going to break this post down into three main sections which are based upon the three main categories in Google Analytics – ‘Audience’, ‘Acquisition’ and ‘Behaviour’.
+
+I should say that there’s a HEAP more we could drill down into than what I’ll cover in this post but my hope is to give you some starting points to do some analysis in.
+
+Note: Google Analytics also has ‘Real Time’ and ‘Conversions’ sections. I’ve previously touched on Real Time stats and it’s not as relevant for the type of analysis we’re talking about today. The ‘conversions’ area of analytics is something I’m still relatively new to so won’t be touching on today.
+
+OK – grab a cup of your favorite beverage and make yourself comfortable – this will take a little while but I hope will be well worth your time!
+
+Audience
+
+Audience Overview
+
+Firstly I log into Google Analytics and head to the ‘Audience Overview’ and plug in the dates for the full year to get a quick overview of how the year was. I usually look at things first in a ‘daily’ view to see where the spikes were and get a sense for the weekly cycle of traffic.
+
+Note: all the screenshots in this post are stats from my main blog Digital Photography School (dPS). They are stats just for the ‘blog’ area of that site and not the forum or sister sites.
+
+You can see in the above chart that there’s some regular patterns to traffic on dPS. Each week there is a spike (related to the day we send our newsletter) and a lull (weekends). There were also a few great spikes where we had posts go viral (this is something to investigate and take note of – we’ll touch on it later).
+
+From this chart I immediately can begin to see that there wasn’t huge growth in the site over 2014 – although things were definitely lower at the start than the end.
+
+To get a better picture of growth I find looking at a weekly and/or monthly view can be helpful. Here is the monthly view.
+
+Now we have a clear picture of the months things did well and slowed down. We can immediately see February was lowest (it always is for dPS – mainly because it has less days) and December was our record month (ever).
+
+Some of these peaks and troughs will be seasonal but others are not. For example July and August tend to be slower months for us as many of our readers are out and about enjoying the Summer of the Northern Hemisphere.
+
+Compare This Year to Last Year
+
+Another fun chart to look at here is to compare 2014 with the year before.
+
+To do this click on the date section and tick the ‘compare to’ box and plug in last year’s dates like this:
+
+You can again view this by day, week or month. I like monthly as it can show you seasonal impacts. Here’s how mine looked:
+
+You can see here the Feb slump in both years as well as the November and December rise.
+
+I love this comparative view because it shows the real growth we’ve had. While you can kind of get the feeling some of the other views above that we grew over the year it’s a relatively flat line.
+
+This comparison shows that even in November where the lines are closest that we had 31% more traffic than the previous year. April was 82% higher than the previous year.
+
+Note: comparison reports are a lot of fun and can be very motivating. Here’s how I use them during the year to keep my blog growing month to month.
+
+Scroll further down the report and you get more comparative data:
+
+We can see here that overall we were up by 51.58% in terms of traffic, 31.87% in users and 39.03% in page views – all good signs.
+
+Below however we see some areas to work on. Pages viewed per session, time spent on site, bounce rate and new visitor numbers were all down (I’ll dig into the reasons for this below) – something we need to work on improving in 2015.
+
+We had already noticed this and are getting ready to launch an evolution of our design that is all about trying to get visitors to view more pages per visit (which will lift their time on site and decrease bounce rate).
+
+If you scroll down the page further you can also do some comparisons from year to year on other areas including language spoken by visitors, their location, the browser they use, operating system, screen resolution etc.
+
+A couple that interested me:
+
+While numbers of those visiting from the US have growth significantly (62%) as a total percentage of our readers we’ve seen a fall and much faster growth in terms of our readers from parts of Asia.
+
+This is something to keep in the back of our mind as we think about content but also how we monetise the site.
+
+The other big shift from 2013 to 2014 was the growth in mobile use of the site which we can see in looking at operating systems used.
+
+Mobile vs Desktop
+
+While we’re talking about devices lets quickly click the ‘Mobile > Overview’ item in the menu on the left of the page and see the comparison of desktop to mobile and tablet.
+
+As I mentioned just a couple of months ago in a post here on ProBlogger mobile/tablet traffic is now overtaking desktop traffic on many sites. In fact on dPS in December we saw desktop traffic make up only 46.41% of the overall site traffic with mobile getting 39.11% and tablets getting 14.48%.
+
+Thankfully we now have a fully responsive design on the site!
+
+One interesting thing I noticed looking at the breakdown of mobile/desktop traffic is the difference in bounce rate on them.
+
+Mobile traffic has a significant higher bounce rate and lower page views per session/time on site. This is an ever increasing problem with mobile traffic growing and gives me some great information to feed into our site redesign – we obviously need to think about how to get those viewing the site on mobile to view more pages. It’s not the only reason these stats are down though (read on to find out the other part of the issue).
+
+Lets move onto the ‘Acquisition’ section.
+
+Acquisition
+
+OK – so in the Audience section we saw we had some decent growth in traffic to the site. In the Acquisition area we can begin to analyse where that traffic is coming from.
+
+Acquisition Overview
+
+Click the ‘Overview’ item in the menu for a quick top level look at where traffic is coming from.
+
+Obviously organic search is driving a lot of our traffic (44.4%) with social and direct each contributing around another 25%. Email looks small but a lot (in fact most) of the ‘direct’ traffic is actually from our email newsletter. There is also talk lately that some direct traffic is actually mobile traffic from Facebook.
+
+Channels
+
+Drill down further into each of these channels by clicking the ‘channels’ item in the left hand menu. In turn you can begin to look at each channel in turn and look for trends.
+
+We could spend a lot of time digging around in here and it can be well worth doing – but for the purpose of this post here are a few things I found.
+
+Firstly – a lot of the growth to dPS in 2014 can be attributed to social traffic – in particular Facebook.
+
+While I know many publishers have become frustrated with Facebook in the last couple of years I have persisted with it – in fact I’ve put more time and effort into developing a rhythm of posting to our Digital Photography Facebook page (and even started a second Facebook page).
+
+Here is a chart of all social traffic (blue line) with Facebook (orange), Twitter (purple) and Pinterest (green) to show you just how much Facebook is responsible for our social traffic.
+
+This above chart is both simultaneously encouraging (that all my work on our Facebook page is paying off) but also worrying (that perhaps we’re becoming too reliant upon Facebook). It is inspiring me to think about how to grow other social channels in 2015 (something I’ve begun work on with Twitter in the last week).
+
+What I find really interesting looking at social traffic is that it’s this traffic that is dragging down our performance in terms of pages viewed per page, bounce rate, time on site and ‘new users’ that I mentioned above.
+
+Here’s some analysis of our social traffic:
+
+You can see there that Facebook traffic brings in only 23.99% ‘new’ visitors to the site. It’s very much about engaging with regular/loyal readers. This is great for building engagement but given Facebook brings in over 20% of our site’s traffic it has dragged down our overall stats in this area.
+
+The same thing is happening withe ‘bounce rate which is a little higher than the site average’, pages viewed per session and average time on site.
+
+Knowing this gives me a little comfort but also motivates me to work harder on our design to get more pages viewed per visit.
+
+Referral Traffic
+
+Another thing I noticed in the acquisition area is that ‘referral’ traffic only makes up 4.98% of our overall traffic. While this is still 2.3 million sessions its an area that I think there’s room for improvement on.
+
+We did see one really nice day of referral traffic mid year after a mention in a Business Insider post – but other than that it’s been slowish (interestingly that post was syndicated on many other sites also which led to a lot more little trickles of traffic for the months after).
+
+I’ve not really spent much time in the last couple of years working on this. Perhaps it is time to start doing some guest posting or networking with other site owners.
+
+Social Landing Pages
+
+Before we leave the ‘acquisition’ section it is worth looking at the Acquisition > Social > Landing Pages report which will show you the posts and pages on your site that got the most traffic from social media.
+
+This is actually a report that I spend some significant time looking at. Here are the top 10 results for dPS in this report (click to enlarge).
+
+This report is one that can be well worth some real analysis on. Dig deeper than the first 10 items though (you can show as many as 5000 but the top 100 or so will give you some great insights).
+
+By looking it over you’ll identify some great information on what type of content is getting shared, liked and engaged with on social media.
+
+This will hopefully give you some hints for what type of content you might want to create for 2015 but also might give you some hints as to how to engage on social media too.
+
+For example the #1 post in this report is an old post on camera settings that I noticed did well on Facebook back in 2012. I reshared it on Facebook in December and it went wild again. In fact it did so well that it was responsible for our biggest day of traffic ever later in December and is still sending us traffic weeks later.
+
+I can’t emphasise enough how powerful it can be to reshare content that has done well previously. So many bloggers only share their new stuff on social media and forget that there’s gold in their archives.
+
+This report is great for identifying these shareable posts – I’d even go so far as to advise exporting it and using it as a part of your social strategy for the next 12 months.
+
+Note: I’ll write more below on analysing content below in the ‘behaviour’ section.
+
+If you click on any of the landing pages in this report you get taken to a page which shows you where the traffic came from.
+
+For example item 4’s report looks like this:
+
+This can help you to get a sense for where content might be being shared around.
+
+Behavior
+
+This is by far my most favorite section in Google Analytics and I spend a lot of time in here during the year. I particularly love the ‘Site Content’ area – I guess because content is what I’m really most interested in.
+
+All Pages vs Landing Pages
+
+There are two reports here that I find most interesting. ‘All Pages’ and ‘Landing Pages’.
+
+While both show similar data I think it’s well worth looking at both.
+
+‘All pages’ shows how many times pages and posts on your blog have been ‘viewed’.
+
+‘Landing Pages’ shows how many times a page or post was the entry page into your site.
+
+While these might sound similar they can produce quite different results. Lets compare the two for my blog.
+
+First ‘All Pages’.
+
+Now ‘Landing Pages’.
+
+Obviously there are some similarities here but some differences too.
+
+For example our ‘photography tips for beginners‘ page is in both lists but people land on it only 197,669 times in the year but end up viewing it 566,590 times. This is because it is linked to very prominently in the navigation menu. The reason I put it there was that I’d previously noticed it had a very very low bounce rate
+
+You can also see in the ‘all pages’ report that our Cameras page is our 6th most viewed page on the site despite it not featuring prominently as a landing page. This is our category page for cameras on the site and is really useful to see as it’s a page that has not previously had as many clicks on it. Obviously our audience are increasingly interested in knowing more about ‘gear’ – this will inform our posts for 2015.
+
+All Pages
+
+The ‘all pages’ report is really interesting to look at how readers are viewing all posts and pages on your site.
+
+Other interesting findings by looking at this report include that our ‘thank you for subscribing to our newsletter’ page is actually the 22nd most visited page on our blog. I’ve not updated that page in over two years – so this gives me cause to go to it and see if I can optimise it.
+
+Another useful piece of information I found on our ‘all pages’ report were a couple of pages with odd URLS that were appearing in our top 200 pages viewed on the site. Both had /?s= strings.
+
+These pages are search results pages. So over 83,000 people have searched for ‘lightroom‘ and over 63,000 have searched for ‘photoshop‘ in the last 12 months. While in comparison to other pages on the site this isn’t massive traffic – it gives us some hints as to what our readers are looking for and perhaps are not finding enough of.
+
+This is great information for future content planning.
+
+These two results were the most searched for terms on the site but it got me wondering what else people are searching for – so I dug deeper. I plugged in ‘/?s=’ into the search box in the ‘all pages’ report and ran a report on anything with this string.
+
+There were 211,751 results to this search! That’s over 200,000 words or phrases that people have searched for in the last 12 months. Here’s the top results:
+
+These are all single word searches and give us some good broad information on topics people want information on – but dig further down into the search results and you start to get phrases and more specific searches.
+
+This is really useful information. While only 13 people searched for those terms I can already see topics that we could write posts on based upon some of the more common words and phrases being searched for.
+
+You can bet that I’ll be digging further into this report and that it’ll be informing content on the blog in 2015!
+
+Landing Pages
+
+OK – digging into the ‘landing pages’ report is one of my favorite things to do as it gives some great insights into where people are entering your site – great information for thinking about how to grow your traffic further in the next year.
+
+This is one report I regularly export into a spreadsheet to do more in depth analysis on.
+
+How to Export this report – Before you export it scroll to the bottom of the page and choose to show more rows than the default 10. I choose 100 or 500. Then scroll to the top of the page and look for the ‘export’ drop down menu and choose how you want to export it. I usually export as a CSV and then view it as a spreadsheet.
+
+
+
+9 Questions I Ask Myself About Content Reports in Google Analytics
+
+As I work with this report there are a number of questions I’m asking myself including:
+
+what posts you might want to reshare on social at some point? – if it did well once it might do well again (see above for an example of this). what types of posts/mediums get shared most? – for example I notice in our most popular posts this year were a number of cheat sheets and infographics. This gives us hints as to what kind of posts might do well in 2015. what topics are hot? – for example I noticed in our top 100 posts for social that we had a lot of posts on camera lenses that did well. This informs what we might do more of in 2015. what headlines did well? – I noticed in our top 100 posts that we saw a number of posts that talked about ‘mistakes‘ that photographers make doing well. While we don’t want to do these posts all the time they do do well on social so we’ll no doubt do a few more in 2015. what posts could you extend? – some posts that have done well might lend themselves to become a series. For example our post ‘the only three lenses you’ll need for Travel Photography‘ could easily be extended to feature lenses for other types of photography. what posts could be optimised? – if posts are getting decent long term traffic from search or social it can be worth thinking about how to update them either by adding new content or by optimising them for search or social traffic. For example I noticed that our post on ISO settings is ranking well in Google but was not in the top 2-3 results in searches for ISO – so I’ve tweaked the post hoping to help that. what posts that I expected to go well under performed? – a lot can be learned from posts that DIDN’T rank in the most visited post lists. Perhaps they had the wrong headline, perhaps they could be republished at a better time, perhaps they are just a signal that the topic isn’t of interest to your readers. what older posts that need updating are still getting traffic? – this year I’ve noticed a number of 7-8 year old posts still getting significant traffic from Google. While some of them have evergreen content that is still relevant today a couple are very dated and in real need of updating. what posts are generating a lot of extra page views? – some pages stimulate readers to view a lot of other pages. On dPS I’ve developed number of what I call ‘sneeze pages’ that propel readers deep within the site. For example this year I notice that anyone entering our blog on our Portrait Photography Tips page is going on to view over 5 other posts on the blog. These pages that ‘over perform’ are ones to consider adding to menus, side bars, ‘further reading’ on other posts and sharing more regularly on social media.
+
+Other Behavior Reports to Look at
+
+There’s a lot more in the beheavior area of Google Analytics to dig into. Site speed is one to watch and work on. We’ve worked hard in the last 18 months to speed up dPS (although we could do more) as Google seem to be putting more emphasis on the speed of a site when working out how to rank it.
+
+If you use AdSense on the site there’s some good data in Analytics too if you sync them up. Doing some work on working out which posts in your archives are most profitable on that front can certainly help you in working out which posts to keep promoting and what kind of content seems to be converting.
+
+Summing Up
+
+The above description may seem a little overwhelming but I cannot emphasise enough just how important it is to begin to develop this kind of analysis of your blog.
+
+You may choose to only do some of this or might focus on other areas – but the more you know about how your blog has been travelling the better position you’ll be in to plan for future growth!

@@ -1,0 +1,293 @@
+4482 SHARES Twitter Linkedin Facebook
+
+It feels good to be a data geek in 2017.
+
+Last year, we asked “Is Big Data Still a Thing?”, observing that since Big Data is largely “plumbing”, it has been subject to enterprise adoption cycles that are much slower than the hype cycle. As a result, it took several years for Big Data to evolve from cool new technologies to core enterprise systems actually deployed in production.
+
+In 2017, we’re now well into this deployment phase. The term “Big Data” continues to gradually fade away, but the Big Data space itself is booming. We’re seeing everywhere anecdotal evidence pointing to more mature products, more substantial adoption in Fortune 1000 companies, and rapid revenue growth for many startups.
+
+Meanwhile, the froth has indisputably moved to the machine learning and artificial intelligence side of the ecosystem. AI experienced in the last few months a “Big Bang” in collective consciousness not entirely dissimilar to the excitement around Big Data a few years ago, except with even more velocity.
+
+2017 is also shaping up to be an exciting year from another perspective: long-awaited IPOs. The first few months of this year have seen a burst of activity for Big Data startups on that front, with warm reception from the public markets.
+
+All in all, in 2017 the data ecosystem is firing on all cylinders. As every year, we’ll use the annual revision of our Big Data Landscape to do a long-form, “State of the Union” roundup of the key trends we’re seeing in the industry.
+
+Let’s dig in.
+
+High level trends
+
+Big Data + AI = The New Stack
+
+As any VC privileged to see many pitches will attest, 2016 was the year when every startup became a “machine learning company”, “.ai” became the must-have domain name, and the “wait, but we do this with machine learning” slide became ubiquitous in fundraising decks.
+
+Faced with an enormous avalanche of AI press, panels, newsletters and tweets, many people who had a long standing interest in machine learning reacted the way one does when your local band suddenly becomes huge: on the one hand, pride; on the other hand, a distinct distaste for all the poseurs who show up late to the party, with ensuing predictions of impending gloom.
+
+While it’s easy to poke gentle fun at the trend, the evolution is both undeniable and major: machine learning is quickly becoming a key building block for many applications.
+
+We’re witnessing the emergence of a new stack, where Big Data technologies are used to handle core data engineering challenges, and machine learning is used to extract value from the data (in the form of analytical insights, or actions).
+
+In other words: Big Data provides the pipes, and AI provides the smarts.
+
+Of course, this symbiotic relationship has existed for years, but its implementation was only available to a privileged few.
+
+The democratization of those technologies has now started in earnest. “Big Data + AI” is becoming the default stack upon which many modern applications (whether targeting consumers or enterprise) are being built. Both startups and some Fortune 1000 companies are leveraging this new stack (see for example, JP Morgan’s “Contract Intelligence” application here).
+
+Often, but not always, the cloud is the third leg of the stool. This trend is precipitated by all the efforts of the cloud giants, who are now in an open war to provide access to a machine learning cloud (more on this below).
+
+Does democratization of AI mean commoditization in the short term? The reality is that AI remains technically very hard. While many engineers are scrambling to build AI skills, deep domain experts are, as of now, still in very rare supply around the world.
+
+However, there is no reversing this democratization trend, and machine learning is going to evolve from competitive advantage to table stakes sooner or later.
+
+This has consequences both for startups and large companies. For startups: unless you’re building AI software as your final product, it’s quickly going to become meaningless to present yourself as a “machine learning company”. For large organizations: if you’re not actively building a Big Data + AI strategy at this point (either homegrown or by partnering with vendors), you’re exposing yourself to obsolescence. People have been saying this for years about Big Data, but with AI now running on top of it, things are accelerating in earnest.
+
+Enterprise Budgets: Follow the Money
+
+In our conversations with both buyers and vendors of Big Data technologies over the last year, we’re seeing a strong increase in budgets allocated to upgrading core infrastructure and analytics in Fortune 1000 companies, with a key focus on Big Data technologies. Analyst firms seem to concur – IDC expects the Big Data and Analytics market to grow from $130 billion in 2016 to more than $203 billion in 2020.
+
+Many buyers in Fortune 1000 companies are increasingly sophisticated and discerning when it comes to Big Data technologies. They have done a lot of homework over the last few years, and are now in full deployment mode. This is now true across many industries, not just the more technology-oriented ones.
+
+This acceleration is further propelled by the natural cycle of replacement of older technologies, which happens every few years in large enterprises. What was previously a headwind for Big Data technologies (hard to rip and replace existing infrastructure) is now gradually turning into a tailwind (“we need to replace aging technologies, what’s best in class out there?”).
+
+Certainly, many large companies (“late majority”) are still early in their Big Data efforts, but things now seem to be evolving quickly.
+
+Enterprise Data moving to the Cloud
+
+As recently as a couple of years ago, suggestions that enterprise data could be moving to the public cloud were met with “over my dead body” reactions from large enterprise CIOs, except perhaps as a development environment or to host the odd non-critical, external-facing application.
+
+The tone seems to have started to change, most noticeably in the last year or so. We’re hearing a lot more openness – a gradual acknowledgement that “our customer data is already in the cloud in Salesforce anyway” or that “we’ll never have the same type of cyber-security budget as AWS does” – somewhat ironic considering that security was for many years the major strike against the cloud, but a testament to all the hard work that cloud vendors have put into security and compliance (HIPAA).
+
+Undoubtedly, we’re still far from a situation where most enterprise data goes to the public cloud, in part because of legacy systems and regulation.
+
+However, the evolution is noticeable, and will keep accelerating. Cloud vendors will do anything to facilitate it, including sending a truck to get your data.
+
+The 2017 Big Data Landscape
+
+Without further ado, here’s our 2017 landscape.
+
+To see the landscape at full size, click here. The image is high-res and should lend itself to zooming in well. To download the full-size image, click here. To view a full list of companies in spreadsheet format, click here.
+
+This year again, my FirstMark colleague Jim Hao provided immense help with the landscape.
+
+We’ve detailed some of our methodology in the notes to this post. Thoughts and suggestions welcome – please use the comment section to this post.
+
+Is Consolidation Coming?
+
+As the Big Data landscape gets busier every year, one obvious question comes to mind: is the industry on the verge of a massive wave of consolidation?
+
+It doesn’t appear so, at least for now.
+
+First, venture capitalists continue to be happy to fund both new and existing companies. The first few months of 2017 saw a flurry of announcements of big funding rounds for growth stage Big Data startups: Looker ($81M Series D), InsideSales ($50M Series F), DataRobot ($54M Series C), Confluent ($50M Series C), Collibra ($50M Series C), Uptake ($40M Series C), WorkFusion ($35M Series D) and MapD ($35M Series B). Also notable is DataBricks, which raised a $60M Series C in December.
+
+Big Data startups worldwide received $14.8B in venture capital in 2016, 10% of total global tech VC.
+
+It’s worth noting that activity in the space is truly global, with great companies being built and funded in Europe, Israel (e.g. Voyager Labs), China (iCarbonX), etc.
+
+Second, since our 2016 landscape, M&A activity has been steady but not particularly remarkable, perhaps in part because private company valuations have remained lofty. Looking at our 2016 Big Data landscape, 41 companies were acquired (see the Notes at the end of this post for a full list), which is roughly consistent in terms of pace with the previous year.
+
+On the other hand, we’ve seen some big ticket acquisitions in 2017 so far, including Mobileye (acquired by Intel for $15.3B), AppDynamics (Cisco; $3.7B), and Nimble Storage (HPE; $1.2B).
+
+Last year was also dominated by a phenomenon that may not last much longer: large tech companies gobbling up AI startups left and right, particularly those tackling horizontal problems with great teams. Some examples: Turi (Apple), Magic Pony (Twitter), Viv Labs (Samsung), MetaMind (Salesforce), Geometric Intelligence (Uber), API.ai (Google) and Wise.io (GE). While they make horizontal AI startups a tricky category to invest in from a VC perspective, those quick acquisitions probably correspond to a specific moment in time dominated by hype and scarcity of AI engineers.
+
+Third, some of the larger Big Data startups are becoming self-standing, public companies. SNAP arguably led the revival of the IPO market for tech companies, but so far Big Data companies are the ones capitalizing on the opportunity.
+
+While in 2016 Talend was the lone Big Data company to go public, 2017 so far is turning into an IPO bonanza for the space. Mulesoft and Alteryx went out and did very well, both well over the IPO prices. As of the time of writing, Cloudera is about to go out, and the gap between its last private valuation ($4.1B) and revenue ($261M in 2016) will test the “unicorn” valuation phenomenon. MapR, as well as location intelligence company Yext, are lined up as well.
+
+Who’s next? Palantir, after years of being one of the most secretive companies in the industry, expressed an interest in going public (some details here). As Palantir’s most recent private valuation was $20 billion, this could be a blockbuster IPO, if its public valuation landed anywhere near those levels.
+
+Fighting the Cloud Wars
+
+The industry may not imminently consolidate through failure or acquisition, but there are increasing signs of “functional consolidation”, particularly in the cloud. Some of the key players there are gradually building a consolidated “Big Data + AI” offering that covers many bases, both through homegrown products and their own implementations of popular open source compute engines, thereby getting increasingly closer to the “one-stop shop” that many buyers have been hoping for.
+
+Amazon Web Services, in particular, continues to impress by the sheer velocity and breadth of its product releases. At this stage, it offers pretty much all things Big Data and AI, including analytics frameworks, real time analytics, databases (NoSQL, graph, etc.), business intelligence, as well as increasingly rich AI capabilities, particularly in deep learning (see full list here). At this rate, there will soon be an AWS product in almost every infrastructure and analytics box in our Big Data Landscape.
+
+Google, late to the cloud party, has also been aggressively building a wide offering in Big Data (BigQuery, Dataflow, Dataproc, Datalab, Dataprep, etc.), and views AI as a way to leapfrog competitors. Google has had a lot to announce on the AI front over the last year, including: a new translation engine (here), the hiring of two great AI experts, Fei-Fei Li and Jia Li, to lead its newly created Cloud AI and Machine Learning group, a new machine learning API for video recognition (here) and the acquisition of data scientist community Kaggle.
+
+The larger enterprise IT vendors – Microsoft, IBM, SAP, Oracle and Salesforce in particular – are also pushing hard with Big Data (and occasionally, AI) offerings, both in the cloud (most noticeably, Microsoft) and on prem. In addition to homegrown technology building efforts, and some acquisitions, there seems to be an increasing desire to partner, especially between companies that “have the data” (repositories) and companies that “have the AI”. Some noteworthy partnerships are IBM and Salesforce (here) and SAP and Google (here).
+
+Cloud vendors are still small by enterprise IT industry standards, but the convergence between their growing ambitions (including their clear interest to go up the enterprise stack from IaaS to applications) and the gradual move of enterprise data to the cloud opens the door to an all out war with legacy IT vendors for the control of the gigantic enterprise technology market, with Big Data and AI at its core battlefield.
+
+A walk through the 2017 Data Ecosystem Landscape
+
+INFRASTRUCTURE
+
+A lot of themes from last year have continued to play out, such as the ever-increasing importance of streaming, with Spark reigning supreme for now, with interesting contenders such as Flink emerging. In addition, a few interesting themes have kept coming back in conversations:
+
+It’s now official, SQL is back
+
+After playing second fiddle to NoSQL technologies for the last decade, SQL database technologies are now back. Google recently released a cloud version of its Spanner database. Both Spanner and CockroachDB (an open source version of Spanner) offer the promise of a survivable, strongly consistent, scale-out SQL database. Amazon released Athena which, like other products like Snowflake, is a giant SQL data engine that queries directly on data held in S3 buckets. Google BigQuery, SparkSQL and Presto are gaining adoption in the enterprise – all SQL products.
+
+Data Virtualization
+
+An interesting trend related to public cloud adoption is the rapid rise of data virtualization. Whereas older ETL processes required moving massive amounts of data (and often creating duplicates of data sets) and creating data warehouses, data virtualization enables companies to run analytics on data while leaving it where it is located, increasing speed and agility. Many of the next generation analytics vendors now offer both data virtualization and data preparation, while enabling their customer to access data stored in the cloud.
+
+Data Governance & Security
+
+As Big Data in the enterprise matures, and the variety and volume of data keeps increasing, themes like data governance become increasingly important. Many companies have chosen a “data lake” approach which involves creating a central repository where all data gets dumped. A data lake is of no use unless people know what is in it, and can access the right data to run analytics. However, enabling users to easily find what they need, while managing permissions is tricky. Beyond data lakes, a central theme of governance is to provide easy access to trustworthy data to anyone that needs it in the enterprise, in a secure and auditable way. Vendors large and small (Informatica, Collibra, Alation) provide data catalogs, reference data management, data dictionaries and data help desks.
+
+ANALYTICS
+
+Are data scientists an endangered species?
+
+Barely a few years ago, data science was dubbed the “Sexiest profession of the 21st century”. And “data scientist” is still ranked #1 in the Glassdoor’s list of “Best Jobs in America”.
+
+But the profession, just a few years after it appeared, may now be under siege. Part of it is due to necessity – while schools and programs are cranking out legions of new data scientists, there are just not enough of them around, particularly in Fortune 1000 companies that arguably have a harder time recruiting top technical talent. In some organizations, data science departments are evolving from enablers to bottlenecks.
+
+In parallel, the democratization of AI, and the proliferation of self-serve tools is making it easier for data engineers with limited data science skills, or even non-technical data analysts, to perform some of the basic functions that were up to recently the territory of data scientists. Chunks of Big Data in the enterprise, especially the grunt work, may be increasingly handled by data engineers and data analysts with the help of automated tools, rather than actual data scientists with deep technical skills.
+
+That is, unless data science doesn’t end up being handled entirely by machines. Some startups are explicitly positioning their offering as “automating data science” – most notably, DataRobot just raised $54M with that goal in mind (How Data Science is Automating Itself), and Salesforce Einstein claims that it too can generate models automatically.
+
+Not surprisingly, those trends are unpopular and controversial within the data science community. However, data scientists probably don’t have much to fear just yet. For the foreseeable future, self-service tools and automated model selection will “augment” rather than disintermediate data scientists, freeing them to focus on tasks that require judgment, creativity, social skills or vertical industry knowledge.
+
+Making everything work together: The rise of the data workbench
+
+In most large enterprises, the adoption of Big Data started with a few isolated projects (a Hadoop cluster here, some analytical tool there) and some new job titles (data scientists, Chief Data officers).
+
+Fast forward to today: heterogeneity has grown, with a variety of tools used across the enterprise. Organizationally, the centralized “data science department” is giving way to a more decentralized organization in large companies, with cross-functional groups of data scientists, data engineers and data analysts, increasingly embedded in different business units. As a result, the need has become very clear for platforms to make everything and everyone work together – as mentioned in our post last year, success in Big Data is based on creating an assembly line of technologies, people and processes.
+
+As a result, a whole category collaborative platforms is now accelerating rapidly, pioneering a field that some call DataOps (in relation to DevOps). This is the thesis behind FirstMark’s investment in Dataiku (see my previous post, Dataiku or the Early Maturity of Big Data). Other notable financings in the space include Knime ($20M Series A) and Domino Data Lab ($10M Series A). Cloudera just released a workbench product based on its earlier acquisition of Sense. Open source activity in this segment is also strong, including for example Jupyter and Anaconda.
+
+APPLICATIONS
+
+AI-powered vertical applications
+
+We’ve been talking about the rise of vertical AI applications for a couple of years at least (x.ai and the Emergence of the AI-powered Application), but what started as a trickle has now morphed into a torrent. Everyone suddenly seems to be building AI applications – both new startups and later-stage startups betting on AI for their next growth spurt (InsideSales, for example).
+
+As tends to the case in such circumstances, there’s a combination of genuinely exciting new startups and technologies, and some smoke and mirrors, as many companies furiously rebrand to chase the latest buzzword. Anyone that uses some machine learning somewhere is not an AI company.
+
+On the whole, building an AI startup is tricky. Picking a vertical problem is certainly an important start. Beyond a deeply technical DNA, it requires some thoughtful positioning and tactics (Building an AI Startup: Realities and Tactics)
+
+However, it’s hard not to be fascinated by the possibilities, and impressed by the velocity.
+
+In the last year in particular, the clear trend has been to take any data problem, and apply AI to it. This has been the case across both enterprise applications and industry verticals. To reflect that reality, this year we’ve added a number of categories in the Applications section of the landscape, including Transportation, Real Estate (Modernizing Real Estate with Data Science), and Insurance, and split up in two categories areas with particularly strong activity, such as Marketing applications (now B2B and B2C) and Life Sciences (now Healthcare and Life Sciences)
+
+Beyond the areas that still feel somewhat futuristic (like self-driving cars), AI today shines in more pedestrian enterprise categories, delivering tangible results in anything from churn prediction to back office automation to security.
+
+Losing human jobs to AI may not even be on the new US administration’s radar screen, but no profession is immune to thinking how it may be, at a minimum, “augmented” by AI. This includes some of the most established white-collar professions such as doctors (A.I. vs M.D.) or lawyers (A.I. Is Doing Legal Work).
+
+The finance world, in particular, seems to have been thinking about AI a lot. Hedge funds, after a couple of tough years, are on the hunt for alternative data, often to feed it to algorithms (The New Gold Rush? Wall Street Wants your Data). New AI powered hedge funds (Numerai, Data Capital Management, etc), while early, are gaining traction. Some of the most prominent firms on Wall Street are increasingly using AI over human employees (BlackRock, Goldman Sachs).
+
+Bots Backlash
+
+Love them or hate them, 2016 was the year of bots – fully automated, real time conversational agents that live mostly on messaging services. In their short existence, bots seem to have gone through several hype cycles already, from early promise, to Tay disaster, to mini-renaissance, to Facebook’s scaled-back efforts following reports of 70% failure rates for AI bots running on its Messenger platform.
+
+There are many reasons why the excitement over bots may have been premature – see Bradford Cross’ excellent take here, where he rightly points out that people may have derived over-optimistic signals from the rise of bots in Asia or the rapid growth of underlying infrastructure such as Slack. Ultimately, we believe that bots have tremendous potential but, as always, the space needs a lot more time. A significant expectation adjustment needs to occur on both the “producer” side (startups need to focus on very narrow business problems and promise less) and the “consumer” side (we all need to get used to what bots can and cannot do, which Alexa is singlehandedly training us to do!).
+
+For now, the brightest future probably belongs to services that include significant elements of humans in the loop, or actually position away from bots entirely and use AI to augment the capabilities of human agents (the thesis behind our investment in frame.ai).
+
+Conclusion
+
+With the killer combination of Big Data and AI, we’re heading towards the “harvesting” part of the cycle. Beyond all the hype, the possibilities are enormous.
+
+As core infrastructure continues to mature, and the application side, powered by AI, is bursting with activity, in 2017 the Big Data (and AI) ecosystem is firing on all cylinders.
+
+____________________
+
+NOTES:
+
+1) This year more than ever, we couldn’t possibly fit all companies we wanted on the chart. While the general philosophy of the chart is to be as inclusive as possible, we ended up having to be somewhat selective. Our methodology is certainly imperfect, but in a nutshell, here are the main criteria:
+
+Everything being equal, we gave priority to companies that have reached some level of market significance. This is a reasonably easy exercise for large tech companies. For growing startups, considering the limited amounts of data available, we often used venture capital financings as a proxy for underlying market traction (again, probably imperfect). So everything else being equal, we tend to feature startups that have raised larger amounts, typically Series A and beyond.
+
+Occasionally, we made editorial decisions to include earlier stage startups when we thought they were particularly interesting.
+
+On the application front, we gave priority to companies that explicitly leverage Big Data, machine learning and AI as a key component or differentiator of their offering. As discussed in the piece, it is a tricky exercise at a time when companies are increasingly crafting their marketing around an AI message, but we did our best.
+
+This year as in previous years, we removed a number of companies. One key reason for removal is that the company was acquired, and not run by the acquirer as an independent company.. In some select cases, we left the acquired company as is in the chart when we felt that the brand would be preserved as a reasonably separate offering from that of the acquiring company.
+
+2) As always, it is inevitable that we inadvertently missed some great companies in the process of putting this chart together. Did we miss yours? Feel free to add thoughts and suggestions in the comments.
+
+3) The chart is in png format, which should preserve overall quality when zooming, etc.
+
+4) As we get a lot of requests every year: feel free to use the chart in books, conferences, presentations, etc – two obvious asks: (i) do not alter/edit the chart and (ii) please provide clear attribution (Matt Turck, Jim Hao and FirstMark Capital).
+
+5) Disclaimer: I’m an investor through FirstMark in a number of companies mentioned on this Big Data Landscape, specifically: ActionIQ, Cockroach Labs, Dataiku, Frame.ai, Helium, HyperScience, Kinsa, Sense360 and x.ai. Other FirstMark portfolio companies mentioned on this chart include Bluecore, Engagio, HowGood, Payoff, Knewton, Insikt, Optimus Ride, and Tubular. I’m a very small personal shareholder in Datadog.
+
+6) List of acquired companies since the last version of the Big Data landscape:
+
+Target / Acquirer / Amount (if disclosed)
+
+2017 YTD (5)
+
+Mobileye / Intel / $15.3B
+
+AppDynamics / Cisco / $3.7B
+
+Nimble Storage / HPE / $1.1B
+
+Kaggle / Google
+
+Dextro / Taser
+
+2016 (36)
+
+Qlik / Thoma Bravo / $3B
+
+Cruise Automation / General Motors / $1B
+
+Apigee / Google / $625M
+
+OPower / Oracle / $532M
+
+Tapad / Telenor / $360M
+
+Nervana Systems / Intel / $350M
+
+SwiftKey / Microsoft / $250M
+
+Withings / Nokia / $191M
+
+Circulate / Acxiom (LiveRamp) / $140M
+
+Altiscale / SAP / $125M
+
+Viv Labs / Samsung / $100M
+
+Connectifier / LinkedIn / $100M
+
+Recombine / Cooper / $85M
+
+MetaMind / Salesforce / $32.8M
+
+Livefyre / Adobe
+
+TempoIQ / Avant
+
+DataHero / Cloudability
+
+Sense / Cloudera
+
+io / GE
+
+ai / Google
+
+EagleEye Analytics / Guidewire
+
+Attensity / inContact
+
+RJMetrics / Magento Commerce
+
+Placemeter / Netgear
+
+Kimono Labs / Palantir
+
+Tute Genomics / PierianDx
+
+Statwing / Qualtrics
+
+PredictionIO / Salesforce
+
+Roambi / SAP
+
+Visually / Scribble Technologies
+
+Preact / Spotify
+
+Nuevora / Sutherland Global Services
+
+Geometric Intelligence / Uber
+
+Platfora / Workday
+
+Driven / Xplenty
+
+Gild / Citadel

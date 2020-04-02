@@ -1,0 +1,101 @@
+A Post By: Darren Rowse
+
+array(5) { ["name"]=> string(9) "Ruleset 3" ["threshold"]=> string(1) "2" ["paragraphs"]=> string(2) "15" ["days"]=> string(0) "" ["ads"]=> array(8) { [0]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "20" ["screen"]=> string(6) "mobile" } [1]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "50" ["screen"]=> string(6) "mobile" } [2]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "80" ["screen"]=> string(6) "mobile" } [3]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(3) "100" ["screen"]=> string(6) "mobile" } [4]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "20" ["screen"]=> string(7) "desktop" } [5]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "50" ["screen"]=> string(7) "desktop" } [6]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(2) "80" ["screen"]=> string(7) "desktop" } [7]=> array(6) { ["width"]=> int(300) ["height"]=> int(250) ["tag"]=> string(29) "_dPSv5in-post-mobile(300x250)" ["placement"]=> string(10) "percentage" ["placement_value"]=> string(3) "100" ["screen"]=> string(7) "desktop" } } }
+
+“Help me – I’m photographing my first Wedding!… Help me with some Wedding Photography Tips Please!”
+
+It’s a question that’s been asked a few times in our forums over the last few months so while I’m not a Pro Wedding Photographer I thought it was time to share a few tips on the topic of Wedding Photography.
+
+I’ll leave the technical tips of photographing a wedding to the pros – but as someone who has been asked to photograph numerous friends and family weddings – here are a few suggestions.
+
+Wedding Photography Tips
+
+1. Create a ‘Shot List’
+
+One of the most helpful tips I’ve been given about Wedding Photography is to get the couple to think ahead about the shots that they’d like you to capture on the day and compile a list so that you can check them off. This is particularly helpful in the family shots. There’s nothing worse than getting the photos back and realizing you didn’t photograph the happy couple with grandma!
+
+2. Wedding Photography Family Photo Coordinator
+
+I find the family photo part of the day can be quite stressful. People are going everywhere, you’re unaware of the different family dynamics at play and people are in a ‘festive spirit’ (and have often been drinking a few spirits) to the point where it can be quite chaotic. Get the couple to nominate a family member (or one for each side of the family) who can be the ‘director’ of the shoot. They can round everyone up, help get them in the shot and keep things moving so that the couple can get back to the party.
+
+3. Scout the Location
+
+Visit the locations of the different places that you’ll be shooting before the big day. While I’m sure most Pros don’t do this – I find it really helpful to know where we’re going, have an idea of a few positions for shots and to know how the light might come into play. On one or two weddings I even visited locations with the couples and took a few test shots (these made nice ‘engagement photos’).
+
+4. In Wedding Photography Preparation is Key
+
+So much can go wrong on the day – so you need to be well prepared. Have a backup plan (in case of bad weather), have batteries charged, memory cards blank, think about routes and time to get to places and get an itinerary of the full day so you know what’s happening next. If you can, attend the rehearsal of the ceremony where you’ll gather a lot of great information about possible positions to shoot from, the lighting, the order of the ceremony etc
+
+5. Set expectations with the Couple
+
+Show them your work/style. Find out what they are wanting to achieve, how many shots they want, what key things they want to be recorded, how the shots will be used (print etc). If you’re charging them for the event, make sure you have the agreement of price in place up front.
+
+6. Turn off the sound on your Camera
+
+Beeps during speeches, the kiss and vows don’t add to the event. Switch off sound before hand and keep it off.
+
+7. Shoot the small details
+
+Photograph rings, backs of dresses, shoes, flowers, table settings, menus etc – these help give the end album an extra dimension. Flick through a wedding magazine in a news stand for a little inspiration.
+
+8. Use Two Cameras
+
+Beg, borrow, hire or steal an extra camera for the day – set it up with a different lens. I try to shoot with one wide angle lens (great for candid shots and in tight spaces (particularly before the ceremony in the preparation stage of the day) and one longer lens (it can be handy to have something as large as 200mm if you can get your hands on one – I use a 70-200mm).
+
+9. Consider a Second Wedding Photographer
+
+Having a second backup photographer can be a great strategy. It means less moving around during ceremony and speeches, allows for one to capture the formal shots and the other to get candid shots. It also takes a little pressure off you being ‘the one’ to have to get every shot!
+
+10. Be Bold but Not Obtrusive
+
+Timidity won’t get you ‘the shot’ – sometimes you need to be bold to capture a moment. However timing is everything and thinking ahead to get in the right position for key moments are important so as not to disrupt the event. In a ceremony I try to move around at least 4-5 times but try to time this to coincide with songs, sermons or longer readings. During the formal shots be bold, know what you want and ask for it from the couple and their party. You’re driving the show at this point of the day and need to keep things moving.
+
+11. Learn how to Use Diffused Light
+
+The ability to bounce a flash or to diffuse it is key. You’ll find that in many churches that light is very low. If you’re allowed to use a flash (and some churches don’t allow it) think about whether bouncing the flash will work (remember if you bounce off a colored surface it will add a colored cast to the picture) or whether you might want to buy a flash diffuser to soften the light. If you can’t use a flash you’ll need to either use a fast lens at wide apertures and/or bump up the ISO. A lens with image stabilization might also help. Learn more about Using Flash Diffusers and Reflectors.
+
+12. Shoot in RAW
+
+I know that many readers feel that they don’t have the time for shooting in RAW (due to extra processing) but a wedding is one time that it can be particularly useful as it gives so much more flexibility to manipulate shots after taking them. Weddings can present photographers with tricky lighting which result in the need to manipulate exposure and white balance after the fact – RAW will help with this considerably.
+
+13. Display Your Shots at the Reception
+
+One of the great things about digital photography is the immediacy of it as a medium. One of the fun things I’ve seen more and more photographers doing recently is taking a computer to the reception, uploading shots taken earlier in the day and letting them rotate as a slideshow during the evening. This adds a fun element to the night.
+
+14. Consider Your Backgrounds
+
+One of the challenges of weddings is that there are often people going everywhere – including the backgrounds of your shots. Particularly with the formal shots scope out the area where they’ll be taken ahead of time looking for good backgrounds. Ideally you’ll be wanting uncluttered areas and shaded spots out of direct sunlight where there’s unlikely to be a wandering great aunt wander into the back of the shot. Read more on getting backgrounds right.
+
+15. Don’t Discard Your ‘Mistakes’
+
+The temptation with digital is to check images as you go and to delete those that don’t work immediately. The problem with this is that you might just be getting rid of some of the more interesting and useable images. Keep in mind that images can be cropped or manipulated later to give you some more arty/abstract looking shots that can add real interest to the end album.
+
+16. Change Your Perspective
+
+Get a little creative with your shots. While the majority of the images in the end album will probably be fairly ‘normal’ or formal poses – make sure you mix things up a little by taking shots from down low, up high, at wide angles etc.
+
+17. Wedding Group Shots
+
+One thing that I’ve done at every wedding that I’ve photographed is attempt to photograph everyone who is in attendance in the one shot. The way I’ve done this is to arrange for a place that I can get up high above everyone straight after the ceremony. This might mean getting tall ladder, using a balcony or even climbing on a roof. The beauty of getting up high is that you get everyone’s face in it and can fit a lot of people in the one shot. The key is to be able to get everyone to the place you want them to stand quickly and to be ready to get the shot without having everyone stand around for too long. I found the best way to get everyone to the spot is to get the bride and groom there and to have a couple of helpers to herd everyone in that direction. Read more on how to take Group Photos.
+
+18. Fill Flash
+
+When shooting outside after a ceremony or during the posed shots you’ll probably want to keep your flash attached to give a little fill in flash. I tend to dial it back a little (a stop or two) so that shots are not blown out – but particularly in backlit or midday shooting conditions where there can be a lot of shadow, fill in flash is a must. Read more about using Fill Flash.
+
+19. Continuous Shooting Mode
+
+Having the ability to shoot a lot of images fast is very handy on a wedding day so switch your camera to continuous shooting mode and use it. Sometimes it’s the shot you take a second after the formal or posed shot when everyone is relaxing that really captures the moment!
+
+20. Expect the Unexpected
+
+One more piece of advice that someone gave me on my own wedding day. ‘Things will Go Wrong – But They Can be the Best Parts of the Day’. In every wedding that I’ve participated in something tends to go wrong with the day. The best man can’t find the ring, the rain pours down just as the ceremony ends, the groom forgets to do up his fly, the flower girl decides to sit down in the middle of the aisle or the bride can’t remember her vows….
+
+These moments can feel a little panicky at the time – but it’s these moments that can actually make a day and give the bride and groom memories. Attempt to capture them and you could end up with some fun images that sum up the day really well.
+
+I still remember the first wedding I photographed where the bride and grooms car crashed into a Tram on the way to the park where we were going to take photos. The bride was in tears, the groom stressed out – but after we’d all calmed down people began to see some of the funny side of the moment and we even took a couple of shots before driving on to the park. They were among everyone’s favorites.
+
+21. Have Fun
+
+Weddings are about celebrating – they should be fun. The more fun you have as the photographer the more relaxed those you are photographing will be. Perhaps the best way to loosen people up is to smile as the photographer (warning: I always come home from photographing weddings with sore jaws and cheeks because of of my smiling strategy).
+
+Want More Wedding Photography Tips? Check out these Wedding Photography Books:

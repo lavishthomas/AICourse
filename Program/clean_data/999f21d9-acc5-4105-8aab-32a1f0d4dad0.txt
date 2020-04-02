@@ -1,0 +1,51 @@
+IT ALL BEGAN WITH A STRANGE EMAIL
+
+It was late at night in October of last year when the strange email arrived. In fact, I only read it by accident and did not delete it by some miracle of fate.
+
+Before the Euro Crisis erupted in 2009, I was just another economics professor, minding my own little theoretical endeavours, writing obscure papers and esoteric books that only a few hundred nutcases around the world (like myself) would ever read, terribly satisfied in my very own academic cocoon. Back then, I would never even imagine not answering an incoming email.
+
+And then, all of a sudden, as if by the wave of some vengeful wizard’s wand, the tranquility was shattered and I found myself in the midst of an acrimonious Europe-wide debate watched over by millions. (If interested, you may take a look at the blog I have dedicated to these debates here.) It is what, I suppose, happens every seventy years or so when a major economic collapse turns us economists from creatures to be avoided at all cost (especially on TV or around the dinner table) into minor celebrities whose words are eagerly followed by a despairing public. Why me? For two reasons I think. First, because I am Greek and Greece was the canary in the mine (whose death warned the rest of Europe of the impending ‘gas explosion’). Secondly because I am a rather unconventional Greek whose line of argument on the BBC, CNN etc. raised eyebrows – for reasons I shall not bother you with here. Anyhow, my life was transformed overnight.
+
+A side effect of this ‘transformation’ was that my inbox became impenetrable to the human eye, receiving as I did thousands of unsolicited non-spam messages from people with a wide range of fixations – from sharing their world view, to seeking advice on what to do with their investment in some pig farm in the north of Greece, to offering me a share in some far-fetched business venture.
+
+When I read the opening line of the email in question, my finger almost pushed the delete button:
+
+“I’m the president of a videogame company (www.valvesoftware.com).”
+
+I thought to myself: Oh, not another “business proposal” from a crackpot… However, something in my head stopped my finger from pressing DEL while my eyes pondered the next line:
+
+“We are running into a bunch of problems as we scale up our virtual economies, and as we link economies together. Would you be interested in consulting with us?”
+
+I was intrigued. The finger retreated from the keyboard’s right hand side and I read on:
+
+“I have been following your blog for a while… Here at my company we were discussing an issue of linking economies in two virtual environments (creating a shared currency), and wrestling with some of the thornier problems of balance of payments, when it occurred to me “this is Germany and Greece”, a thought that wouldn’t have occurred to me without having followed your blog. Rather than continuing to run an emulator of you in my head, I thought I’d check to see if we couldn’t get the real you interested in what we are doing.”
+
+At that point, I was more than intrigued. I was interested! While the signature did not ring a bell (it read “Gabe Newell, Valve, Seattle, WA USA”), and while I was as ignorant of the world of computer games as one can be (yes, I confess, horror of horrors, that I am not a gamer), the notion that a computer game company has surreptitiously and quite spontaneously created virtual economies that it comprehends as ‘economies’ (which deserve study and regulation) was enough to write back instantly: Yes, I was interested!
+
+By a stroke of serendipity, a few days later, my wife and I were due to embark on a lecture tour of North America, promoting a recent book on the global crisis of 2008. A two-day visit to Seattle was added to the last part of our itinerary. So, after an arduous, albeit satisfying, series of lectures (in various US and Canadian Universities, at the New York Federal Reserve, at Bloomberg etc.), the Valve visit was going to be a two-day relaxing break from normal activities during which to see what these weird computer gamers were up to.
+
+Face to face
+
+Upon arrival in Seattle, Mikael, the driver who picked us up on Valve’s behalf, asked me: “Here for an interview, Sir?” I answered that, no, of course not; that I was just visiting Valve for a couple of days. Little did I know! Upon entering Valve, I was met by a group of mainly young persons, gathered together in a meeting room, presided over by Gabe who took no time before asking everyone to introduce themselves and to explain what they did. Jetlagged and sleepless, and confronted by a wall of information about things that I had no prior experience of (indeed, the last time I had played a computer game was Space Invaders at University in the mists of 1981 or so!), I struggled to keep up. Soon, however, I realised that this bunch of people were not just weird but also wonderful and, to boot, that what they were describing, the digital community they had facilitated into existence, was an economist’s dream-come-true. Think of it: An economy where every action leaves a digital trail, every transaction is recorded; indeed, an economy where we do not need statistics since we have all the data!
+
+Escaping ‘computerised astrology’ – Valve’s allure
+
+For the first time since I switched from mathematical statistics to economics (around 1982), I saw an opportunity for scientific research on some really existing (albeit digital) economy. For let’s face it: Econometrics is a travesty! While its heavy reliance on statistics often confuses us into believing that it is a form of applied statistics, in reality it resembles computerised astrology: a form of hocus pocus that seeks to improve its image by incorporating proper science’s methods, displays and processes. Is this not too harsh a judgment on econometrics?
+
+Not in the slightest. Econometrics purports to test economic theories by statistical means. And yet what it ends up testing is whether some ‘reduced form’, an equation (or system of equations), that is consistent with one’s theory, is also consistent with the data. The problem of course is that the ‘reduced form’ under test can be shown to be consistent with an infinity of competing theories. Thus, econometrics can only pretend to discriminate between mutually contradictory theories. All it does is to discover empirical regularities lacking any causal meaning. To put it bluntly, it is impossible to avoid absurd conclusions such as “Christmas is explained by a prior increase in the demand for toys”. And when we do (avoid them), it is only by accident (or because of a good hunch), as opposed to scientific rigour.
+
+And the reason for this unavoidable failure? None other than our inability to run experiments on a macroeconomy such as rewinding time to, say, 1932, in order to see whether the US would have rebounded without the New Deal (or to 2009 to see what would have happened to the US economy without Ben Bernanke’s Quantitative Easing). Even at the level of the microeconomy, keeping faith with the ceteris paribus assumption (i.e. keeping all other things equal in order to measure, e.g., the relationship between the price of and the demand for milk) is impossible (as opposed to just hard).
+
+In sharp contrast to our incapacity to perform truly scientific tests in ‘normal’ economic settings, Valve’s digital economies are a marvelous test-bed for meaningful experimentation. Not only do we have a full-information set (making sampling superfluous) but, more importantly, we can change the economy’s underlying values, rules and settings, and then sit back to observe how the community responds, how relative prices change, the new behavioural patterns that evolve. An economist’s paradise indeed…
+
+Great expectations?
+
+This is how my relationship with Valve began. While a total ignoramus of the world of video games (as per my confession above), the people at Valve and I discerned a double coincidence of interests. My academic curiosity blended nicely into Valve’s burning desire to serve its gaming community better, through the development of services that are in tune with the community’s needs as gamers but also as traders, developers, participants in something much bigger than just video games.
+
+By studying Valve’s economy, we would have an opportunity to enhance the experience of its customers, in addition to sharpening my own thinking about what makes real economies tick. And as if all this were not enough, there was another incentive thrown into the mix: the opportunity to understand better the remarkable social organisation of production within Valve itself. (But more on this in another post…)
+
+Within hours, an agreement was reached: I would become, in some capacity (that was to be hammered out later), Valve’s economist-in-residence. Valve is not the first video game company to have brought an academic economist on board (e.g. EVE Online were the first to do so, recruiting Eyjólfur Guðmundsson – whom I would like to thank for making my name sound almost easy-going…). My intention at Valve, beyond performing a great deal of data mining, experimentation, and calibration of services provided to customers on the basis of such empirical findings, is to to go one step beyond; to forge narratives and empirical knowledge that (a) transcend the border separating the ‘real’ from the digital economies, and (b) bring together lessons from the political economy of our gamers’ economies and from studying Valve’s very special (and fascinating) internal management structure.
+
+Starting from today, I shall be committing to this blog weekly reports on our projects, experiences and ideas regarding Valve’s various social ‘economies’.
+
+Welcome to VALVE Economics

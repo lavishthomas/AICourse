@@ -1,0 +1,31 @@
+Singapore, the land of many math geniuses, may have discovered the secret to learning mathematics (pdf). It employs a teaching method called productive failure (pdf), pioneered by Manu Kapur, head of the Learning Sciences Lab at the National Institute of Education of Singapore.
+
+Students who are presented with unfamiliar concepts, asked to work through them, and then taught the solution significantly outperform those who are taught through formal instruction and problem-solving. The approach is both utterly intuitive—we learn from mistakes—and completely counter-intuitive: letting kids flail around with unfamiliar math concepts seems both inefficient and potentially damaging to their confidence.
+
+Kapur believes that struggle activates parts of the brain that trigger deeper learning. Students have to figure out three critical things: what they know, the limits of what they know, and exactly what they do not know. Floundering first elevates the learning from knowing a formula to understanding it, and applying it in unfamiliar contexts.
+
+The education ministry in Singapore has given Kapur over $1 million to explore productive failure, including a $460,0000 grant to train teachers for 11th and 12th grade statistics.
+
+He learned the approach firsthand as a student at the National University in Singapore. He spent four months trying to solve a non-linear differential equation in fluid dynamics. His teacher finally let on that the problem was unsolvable with math alone (it required computation). Frustrated, he asked why he had allowed him to waste so much time. It wasn’t wasted, the teacher explained; Kapur now truly understood the problem he was trying to solve. As a teacher himself, Kapur wondered whether this method could be more broadly applied.
+
+He soon designed studies to test it. In one, written up in Cognitive Science (pdf), researchers presented 9th grade students in an Indian private school with the following math problem. The concept is standard deviation, but the kids—who have never been exposed to it before—don’t know that.
+
+One group is asked to figure out how to solve the problem in as many ways as possible. They are given 30-45 minutes and teachers cannot help. After that, the teacher discusses 3-4 of the most common approaches. The teacher then shows the class the standard solution.
+
+A control group is taught standard deviation the traditional way and then asked to do problems. Both groups are then tested.
+
+On procedural knowledge, or applying the formula, there was no difference between productive failure and direct instruction. But on conceptual understanding—understanding what it means and possessing the ability to adapt the information—the productive failure students dramatically outperform their direct instruction peers.
+
+“We are taking the science of human cognition and learning and designing failure-based experiences to help kids learn better,” Kapur tells Quartz.
+
+Kapur started to design quasi-experimental and randomized-controlled studies to test his theories in 2003. The work has been replicated by researchers in the US, Germany, and Australia.
+
+So far, teachers have mixed reactions. They recognize that the approach is good but they worry about efficiency and standardized tests: will kids fall on high-stakes national and international tests?
+
+Kapur uses the research to make his case. Students get more output (deeper learning) for the same input (hours of instruction), which presents another problem: teachers have to get out of the way. “They [teachers] say it’s stressful to teach this way,” he says. “It’s easier to tell them [students] what you know.”
+
+Effective teachers prepare students for the experience, he explains. They are told, “we know you don’t know this, we want you to generate as many ideas right or wrong and the more you generate the more you will learn.”
+
+In fact, Kapur theorizes in one of his studies that direct instruction might close students’ minds. Once a teacher presents a solution, students may no longer see the possibility of other solutions, or more creative approaches.
+
+“We are saying persist, be resilient, struggle a bit,” Kapur says.

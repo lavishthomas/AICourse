@@ -1,0 +1,35 @@
+Peter Jordan/Alamy Stock Photo
+
+It’s an old story. A rich country’s aid agency pours millions into a new industry in a poor country, in the hope of boosting its economy, but it never really works. The factory keeps getting shut down by blackouts or lack of spare parts. Raw materials don’t arrive; workers get sick; engineers emigrate.
+
+Now a new kind of mathematical model describing how such systems behave might help beat this “poverty trap”.
+
+Applying the physics of networks and complexity to economic systems has shown that the key process in “developing” from impoverished to industrialised is adopting more complex production, for example going from subsistence farming, to textiles, to electronics. But more complexity means managing more inputs, from raw materials to labour. The trouble is, in poor countries, supply chains can be unreliable.
+
+Advertisement
+
+To work out how this affects the development of a country’s economy, Charlie Brummitt of Columbia University in New York and his colleagues have created an agent-based model (ABM): a set of mathematical equations that describe the behaviours and interactions of each component of the economy. Then they let it run to see what happened.
+
+A country in a computer
+
+“Our ABM tries to capture the ratcheting way in which an economy manages to become more complex, despite the tendency of complexity to create more opportunities for disruption,” says Brummitt. “It allows us to understand how quick events – such as power outages or changing suppliers – relate to slow events such as changing the complexity of an economy.” Previous kinds of models could not handle such adaptive changes.
+
+In Brummitt’s model, companies and producers adapted to supply disruptions by cutting their complexity, keeping the economy trapped in low-value production – and poverty. But buffers to such disruptions – for instance, large inventories of raw materials – could allow the economy to evolve past this point.
+
+At some point, disruptions fell as complexity grew. Perhaps, Brummitt speculates, managers who don’t have to worry so much about supply chains have more mental “bandwidth” to devote to the industry.
+
+“The intuition of the paper is that in some intermediate step you may get into more complex products by mitigating supply disruptions with inventories,” says Ricardo Hausmann of Harvard University, who in 2011 revealed the role of complexity in development.
+
+Pile it high
+
+However, “the most critical input is knowhow”, Hausmann says. The model could help researchers explore the role of such hard-to-store inputs.
+
+“Do economies develop because they managed to become more reliable, or do they become more reliable because they managed to develop?” asks Brummitt. “We don’t claim to answer that question. Instead the ABM helps us structure our thoughts about these processes.”
+
+For example, it led the team to evidence, buried in economic data, that shoring up supply chains with inventories was exactly what successful developing countries did until they became prosperous.
+
+“Having a model makes it possible to reason more quantitatively,” agrees Doyne Farmer of the University of Oxford, who also uses ABMs to understand economic systems.
+
+The study suggests it is difficult to rapidly increase the complexity of an economy – although not impossible, given that China has successfully done so.
+
+Journal reference: Nature Human Behaviour, DOI: 10.1038/s41562-017-0190-6

@@ -1,0 +1,203 @@
+The U2415’s 1,920×1,200-pixel resolution gives it 11 percent more screen space than a 1080p monitor, and its ultra-thin bezel makes its screen feel bigger and look better than monitors with thicker bezels. Its stand lifts, tilts, pivots, rotates, and swivels, so you can put the screen exactly where you need it. It has HDMI and DisplayPort connections and five USB 3.0 ports, giving you more flexibility than most other monitors for anything you do at your desk.
+
+After spending 50 hours researching 19 different monitors and testing six finalists, we recommend the 24-inch Dell UltraSharp U2415 to most people looking for a large computer monitor right now. It has the best picture quality of any 24-inch display we tested—indistinguishable from perfection thanks to its factory-calibrated IPS screen. 1
+
+You can't go wrong with an UltraSharp, but a few monitors coming out of CES 2013 from good brands like HP could be worth a look. We've listed a few in the "What to look forward to" section below.
+
+Four years ago: According to Anandtech's monitor reviewer, Chris Heinonen, this monitor is still the best OK monitor for most.
+
+For the third year in a row, our favorite 24-inch monitor is the Dell UltraSharp U2412M . Its IPS display has superior viewing angles and offers more screen real estate and adjustability than the 23 other similarly-priced IPS monitors we tested.
+
+We've switched this guide to wait status, as new monitors from either Dell ( UltraSharp U2515H UltraSharp U2415 ) or Asus ( PA249Q ) will replace our current pick once we've finished testing them. Dell's U2412M is still a decent monitor for its extremely low price, but newer monitors have HDMI and USB 3.0—and no PWM flickering, for those bothered by that.
+
+We've finished our testing on new 24-inch monitors, and now know the Dell UltraSharp U2415 will replace our current pick. It has even better picture quality than our last pick, plus an HDMI port, USB 3.0, and no PWM backlight flickering, for those bothered by that. Look out for our full update in the next few weeks.
+
+Our new pick for the best 24-inch monitor is the Dell UltraSharp U2415 , which has the best picture quality of any display we tested. If it’s unavailable, we suggest the UltraSharp U2412M , which has the same 1200p resolution but lacks factory calibration, USB 3.0, and HDMI. If you have more money to spend, we recommend our 27-inch pick, Dell’s 2560×1440 UltraSharp U2715H , and if you’re on a tight budget, we recommend the Asus VS239H-P , which is the cheapest good IPS monitor available.
+
+Our new pick for the best 27-inch monitor is HP’s Z27n , replacing the Dell UltraSharp U2715H. We’ve updated this guide with information on the Z27n as an alternative upgrade pick if you think you might want a 4K monitor
+
+The U2415 is a smaller version of our previous pick for the best 27-inch monitor, Dell’s U2715H. While the U2415’s smaller dimensions give it 37.5 percent lower screen resolution than its sibling, not everyone has room on their desks or in their budgets for a 27-inch monitor. The U2415’s factory calibration, connections, adjustability, and easy setup make it the best 24-inch monitor you can get.
+
+If the U2415 is unavailable, you should get our previous pick, Dell’s UltraSharp U2412M. This 24-inch IPS monitor has the same 1200p resolution as our pick—much better for work, gaming, and Web browsing than a 1080p monitor—and the same adjustability, warranty, and pixel-perfect guarantee. It’s doesn’t have HDMI (just DisplayPort, VGA, and DVI), and it has USB 2.0 instead of 3.0. It also isn’t factory-calibrated, and it’s usually only slightly cheaper than the U2415, but it’s better than any other 1920×1200 monitor if the U2415 is out of stock.
+
+There aren’t any 24-inch monitors that are better than the U2415 for most people. If you get a “professional” 24-inch monitor, you’re paying hundreds more for a picture-quality difference you’ll never see. If you have more money to spend, you should get our 27-inch pick, HP’s Z27n. This 2560×1440 monitor has a bigger screen and more working space than a 24-inch, 1200p monitor. More important, the Z27n doesn’t have the app display-scaling issues of 4K 24-inch monitors like Dell’s P2415Q when connected to a Windows PC.
+
+If you’re on a tight budget, get the Asus VS239H-P. It’s the cheapest good IPS monitor you can get, and the color accuracy of its sRGB preset is far better than that of the vast majority of monitors in its price range. Its default preset is much less accurate, and its 1920×1080 resolution gives you 10 percent less screen space than our pick, but it’s half the price of the Dell. The VS239H-P has DVI, HDMI, and VGA ports, but its stand lacks most articulation: You can only tilt the display. The VS239H-P has no USB ports and its warranty/pixel policy isn’t nearly as good as Dell’s warranty for its UltraSharp monitors. Still, the Asus is the best monitor in its price range.
+
+Table of contents
+
+Why you should trust us
+
+I’ve been reviewing computer components for more than a decade, including reviewing monitors as an associate editor at Maximum PC. I have also tested everything from computer cases to network-attached storage in my career as a tech journalist for PCWorld (formerly a contributing editor), Computer Shopper, PCMag, Laptop Magazine, Tom’s Hardware, PC Gamer, IGN, and HotHardware. I also used to be a business analyst for Stanford University—taking a ton of data and transforming it into recommendations is what I do best.
+
+For this guide, I spent hours poring over monitor reviews from TFT Central, AnandTech, Tom’s Hardware, PCMag, pcmonitors.info, and Amazon. I also worked with Wirecutter writer Chris Heinonen—AnandTech’s former monitor guru—to create a new monitor testing process. (You can read about it a little later.)
+
+Who should get this
+
+A 1920×1200-pixel monitor with a 16:10 aspect ratio gives you more vertical space than a 1080p monitor’s 16:9 proportions.
+
+For most people, a 24-inch monitor hits the sweet spot of size and price. Most 24-inch monitors these days have 1920×1080 screens, but we prefer the slightly less common 1920×1200. A 1920×1200-pixel monitor with a 16:10 aspect ratio gives you more vertical space than a 1080p monitor’s 16:9 proportions. The taller screen makes a big difference for most office work, Web browsing, and gaming. You’ll still have black bars when you watch movies, but you’ll probably have those on a 1080p monitor, too. (Most films are shot in 1.85:1 or 2.39:1, not 16:9 or 16:10.)
+
+Image quality is a monitor’s most important aspect, and monitors that come pre-calibrated by their manufacturers will have better color accuracy than ones that don’t. Since most people don’t calibrate their monitors, out-of-the-box image quality is key. Our pick uses an IPS (in-plane switching) panel, which has more-accurate colors than the TN (twisted nematic) panels found in cheap monitors. It also has better viewing angles—the image doesn’t wash out if you look at it from the side, top, or bottom.
+
+If you do a lot of photo, video, or graphic design work, you should get a larger, higher-resolution monitor. We don’t like resolutions higher than 1920×1200 on 24-inch monitors for Windows users, since you have to use scaling to keep Windows from looking tiny, and some third-party apps still have problems with scaling. Though 4K (3840×2160) is the trendy new resolution for monitors, there are plenty of reasons for Windows users to wait. (Apple’s operating system handles scaling much better, so 4K makes more sense for Mac users.) We have a 24-inch 4K pick below if you absolutely must have one.
+
+If you can spend no more than $200 right now, we suggest you wait and save up to stretch, as the 1080p monitors available below $200 are substantially worse than spending slightly more for our top pick and even our runner-up. If you need a cheap monitor right now, the Asus VS239H-P is a great option, but it won’t look as good as our primary pick, nor will it have the same screen space, features, or connections. A 1080p monitor that looks as good as our pick and has similar features will cost nearly as much as our pick; get the U2415 instead and enjoy its extra vertical space.
+
+Should you upgrade?
+
+If you’re still using a monitor smaller than 20 inches, give your eyes a break by upgrading to our pick. Its 24-inch display and higher resolution will give you a lot more desktop space to work with and a better, less-squinty experience.
+
+If you have a monitor that uses a TN panel, upgrading to our pick can give you more accurate colors and wider viewing angles. (Use Google on your monitor model number to see if it’s a TN panel, or angle your screen and see if the colors wash out.) Our pick also uses LEDs instead of CCFLs for its backlighting. If you have an old monitor you’ve been using for the past five years or so, it’s time to switch to a more energy efficient and better-looking display.
+
+If you already have a 22- or-24-inch IPS display, save up for a monitor that’s both bigger and better. You could also buy our pick and run a dual-monitor setup—if your system supports it—although we prefer using identical monitors to keep images as consistent as possible.
+
+How we picked and tested
+
+We began by determining our requirements for a great 24-inch monitor. Some are absolutes, like great picture quality—no deficiencies you could spot with the naked eye—and at least a 1920×1200 resolution. (As noted above, 1920×1080 is more common, but 1920×1200 is better for desk work, since it provides more vertical space.) Other features are optional, but the best monitors will have most of them: a stand with an array of adjustment options; USB ports via a built-in hub (preferably USB 3.0); DisplayPort and HDMI connections; and an on-screen display for changing the monitor’s settings that’s easy to use.
+
+We combed through the best-reviewed monitors from TFT Central, AnandTech, Tom’s Hardware, PCMag, and pcmonitors.info all the way back to January 2014. We also examined the 20 best-selling monitors on Amazon.com for any models that fit our baseline criteria of 24 inches and 1200p resolution. (We allowed 1080p monitors for our budget pick but set a price cap of $200.)
+
+The Wirecutter’s Chris Heinonen helped us design our monitor testing process, which relies on two measuring devices: a $1,200 i1Pro 2 spectrophotometer from X-Rite and a $170 Spyder4 Pro. We used both because the Spyder4 Pro is better at reading black levels than the i1Pro. We built customized tests in the CalMAN 5 software calibration suite to measure each monitor’s maximum and minimum brightness levels, gamma, color temperature, and color accuracy.
+
+Most people don’t change their monitor settings, and even fewer calibrate their displays, so default performance is critical.
+
+Most people don’t change their monitor settings, and even fewer calibrate their displays, so default performance is critical. We measured each monitor on its default picture mode as well as its sRGB (or “custom color”) mode where applicable. For each test, we adjusted the monitor’s brightness to 140 cd/m²—a good value for everyday use—and set its contrast as high as it could go without losing white details. We left every other setting at the default value. After our testing, we used each of our finalists for a few days to get a feel for their features.
+
+Our pick
+
+Dell’s UltraSharp U2415 is the best 24-inch monitor for most people because it has a color-accurate and factory-calibrated display, 1200p resolution, an ultra-thin bezel, ample display connections, easy setup, lots of adjustability, and a built-in USB 3.0 hub. Other 24-inch monitors have a subset of these attributes, but no other has them all. The U2415 also costs hundreds less than most monitors with comparable display quality.
+
+The U2415 is a big improvement over our previous pick—the Dell UltraSharp U2412M, now our runner-up—because of its factory calibration. While you probably wouldn’t notice any color inaccuracies in everyday use with the U2412M, the U2415 is guaranteed to look practically perfect. We also prefer the slimmer bezel, HDMI and DisplayPort connections, USB 3.0 ports, and improved pixel-response times, the last of which is especially important for twitch gamers. You shouldn’t upgrade to our pick if you already own a U2412M, though—the improvements are nice but not enough to justify replacing your monitor.
+
+Monitor quality
+
+We can’t overstate how good the U2415’s picture quality is. To the naked eye, it’s indistinguishable from perfection, as our expensive testing hardware confirmed.
+
+We tested our pick’s color quality by analyzing its DeltaE 2000 values: how far away a displayed color is from what the color should actually be. A DeltaE value under 1.0 is perfect. Under 2.0 is good enough for print-production work, and you wouldn’t notice a difference if you had a perfect reference to compare against. Ratings above 3.0 mean you’d probably see a difference. We’ll refer to the DeltaE 2000 scale throughout this guide, so remember those numbers.
+
+Our pick’s average DeltaE 2000 value for its grayscales was 1.444. No color crept in from the monitor’s red, blue, or green pixels–maintaining a lovely, neutral gradient from black to white. Equally important, the grayscales stayed below a DeltaE of 2.0 except for the very blackest and whitest points.
+
+On our ColorChecker test, which runs through more than 100 colors, the U2415 had an average DeltaE 2000 value of 0.954, which is practically perfect. Other 24-inch monitors won’t hit these values without calibration. Though our tests showed that our pick’s yellows and reds were slightly oversaturated and its blues slightly undersaturated, you won’t notice. Our pick’s average DeltaE across 10 different saturation levels of RGBCMY—a color’s overall brilliance—was also great at 1.142.
+
+Resolution and bezel
+
+Our pick’s 1200p resolution (1920×1200) provides 11 percent more pixels on your screen than a 1080p monitor. The greater depth translates to a slightly bigger view in your games, more text and images on Web pages before you have to scroll, and six extra rows (174 total cells) in Microsoft’s Excel’s standard template.
+
+We don’t recommend 4K resolutions at this display size. On both Windows and Apple computers, resolutions higher than 1200p on a 24-inch monitor will require you to use scaling to keep the operating system and third-party apps from being too small to use. When you do this, however, your extra space evaporates: A 24-inch 1440p monitor scaled to 125 percent gives you the same number of rows (and only two extra columns) in Excel for Windows. A 4K monitor scaled to 200 percent (which makes third-party apps look the least blurry) gives you two fewer columns and three fewer rows in Excel than our pick. Apple doesn’t use percentages for scaling, and third-party Mac apps usually scale better, but you’ll still need to scale to the equivalent of 1920×1080 or 2560×1440 to make a 24-inch 4K monitor usable with OS X (and macOS Sierra).
+
+We love our pick’s ultra-thin bezel. It’s just one fourth of an inch thick on the top and sides, and three fourths of an inch along the bottom. The slim bezel makes the screen feel bigger than with similarly sized monitors with fatter bezels, and it minimizes the ugly gap between displays in a multi-monitor setup.
+
+Ergonomics and adjustability
+
+The U2415’s stand is one of its best features, since it can articulate like mad. Cheaper monitors have to be stacked on something or attached to a monitor arm to get them to eye level. Our pick can raise and lower approximately 4.5 inches from its lowest position to its highest, swivels about 45 degrees left and right from center, and tilts 21 degrees back and 4 degrees forward. It also lets you rotate the display into portrait mode in either direction, and you can attach or remove the panel from its sturdy base in seconds. With the stand removed, you can mount the screen to a VESA-compatible wall attachment or desktop arm.
+
+Connections and cables
+
+Our pick has two HDMI 1.4 ports and three DisplayPort 1.2 connections, namely one Mini DisplayPort and two full-size DisplayPort; one full DisplayPort connection is for input from your PC, while the other outputs to daisy-chain a second display. Many monitors have the DisplayPort input; few have the output. Dell includes a Mini DisplayPort-to-DisplayPort cable, a power cable, and a USB cable to connect to your computer.
+
+The built-in USB hub lets you connect storage devices, mice, keyboards, and other USB peripherals, reducing unsightly wires if your computer lives under your desk. Since it’s USB 3.0, you’ll get a huge performance bump over USB 2.0 when transferring files among USB 3.0 devices. Some monitors we researched had four USB 3.0 ports, but our pick has five—and one of those can quick-charge devices by providing up to 1.5 A of current, a feature we didn’t see in any other 24-inch monitor we researched.
+
+The U2415 also has an audio jack for connecting your own speakers to the monitor; this requires your computer to support audio over HDMI or DisplayPort. You could connect headphones too, but there’s no direct volume control on the monitor, and Dell officially only supports speakers with that port.
+
+Design
+
+Our pick comes with touch-sensitive buttons on its bottom bezel, a deal-breaking choice for those who prefer physical buttons. We’re the opposite: We love how the buttons blend into the smooth bezel when you aren’t using them. They were also responsive and perfectly mapped to the on-screen display when we tapped them.
+
+Warranty
+
+The U2415 is covered by Dell’s Premium Panel Guarantee, which means that Dell will replace the monitor free of charge (including return shipping) if yours arrives with even one bright pixel defect—it doesn’t cover dark pixels. The monitor also comes with a standard three-year limited hardware warranty and a three-year Advanced Exchange service in which Dell will ship you a replacement monitor first before you send the defective one back. If you want the benefits of the warranty, however, you should buy directly from Dell or from an authorized reseller—Dell might not honor the warranty if you purchase from an auction site, Craigslist, or an unauthorized retailer. (Dell details a number of warranty scenarios on its website.)
+
+Who else likes it
+
+TFT Central’s Simon Baker described the U2415 as a “very nice update to the U2412M,” our previous 24-inch monitor pick. “There’s more modern connectivity options including HDMI offered, the new slim bezel design, USB 3.0 support, factory calibration and touch sensitive buttons on the new model. Dell have also moved to the light [anti-glare] coating instead of the grainy old coating on the U2412M, and also used a flicker free backlight this time which is great news.”
+
+When we wrote this article, our pick was the 14th most popular computer monitor on Amazon; the monitor had earned 4.5 stars (out of five) across 695 total user reviews. Almost three-fourths (72 percent) gave the monitor five stars, and fewer than 10 percent gave it one or two stars.
+
+Flaws but not dealbreakers
+
+Our pick has very few flaws, and none of them would keep us from recommending it or buying it ourselves. The monitor lacks a 16:9 aspect ratio mode (and 1:1 pixel mapping), which means that your picture will stretch a little bit if you hook up a device like the PlayStation 4, the Xbox One, or a Blu-ray player that doesn’t support 16:10 displays. The monitor doesn’t have a VGA or DVI port, but adapters and adapter cables for HDMI and DisplayPort cost less than $10. The U2415 also doesn’t have built-in speakers, but most monitor speakers sound terrible—you should use them only when your real speakers or headphones die, and even then only temporarily.
+
+Runner-up
+
+Dell’s UltraSharp U2412M, our previous 24-inch monitor pick, is now our runner-up—but a distant one. Its default picture quality is better than that of other uncalibrated monitors, and it has some of the same features we love in our primary pick: a 1200p resolution, excellent adjustability, VESA support, and a great warranty and premium panel guarantee. However, it lacks a factory-calibrated mode and HDMI, has USB 2.0 ports instead of 3.0, and uses pulse width modulation to dim the backlight. The U2412M is a great monitor compared to the rest of the competition, but our primary pick lacks all its pitfalls.
+
+That said, while we prefer the U2415’s factory-calibrated preset for picture-perfect colors, the U2412M is good enough for general use—if it’s cheaper than the U2415, which isn’t always the case. (You can always buy or borrow a cheap calibration device to make the U2412M’s picture as good—or nearly so—as our pick’s.) The U2412M also has one DVI port, one DisplayPort, and a VGA port, which covers old and new systems well. (If your system only has an HDMI connection, just buy a cheap adapter cable.) Its four USB ports are handy for connecting keyboards and mice and performing simple file transfers, though they’re USB 2.0 instead of 3.0.
+
+The U2412M, like many older monitors, uses pulse width modulation to dim its backlight. We prefer our pick, which uses direct backlight dimming instead, because pulse width modulation can give some people headaches and eyestrain.
+
+CNET’s Eric Franklin gave the U2412M a four-star review and an Editors’ Choice award in March 2012: “[It] excelled in all of our color tests, showing a propensity for displaying color accurately and smoothly with no unexpected jumps in color scale progression.” PCMag’s John R. Delaney also awarded the monitor four out of five stars in an April 2012 review: “The IPS panel delivered rich colors with very good gradation on the DisplayMate Color Scales test and showed no evidence of tinting in the grayscale.”
+
+On Amazon, the U2412M has a 4.5-star (out of five) rating across 1,313 reviews, and more than 75 percent of those ratings give it five stars.
+
+Budget pick
+
+If you can’t afford the Dell U2415 and need a decent monitor that’s cheap, get the Asus VS239H. It’s a pretty good 23-inch, 1920×1080 IPS monitor that usually costs under $150, but you give up a lot to get there: Its screen has 11 percent fewer pixels than our 1920×1200 primary pick and less accurate colors, and the monitor has very limited adjustability, no DisplayPort connections, no USB ports, and an ugly on-screen display. Still, it looks a lot better than the other monitors in its price range, which tend to use lower-quality TN panels or less-accurate IPS panels.
+
+“You’re not going to find excessive inputs here or extra fancy features — this is a monitor aimed at fulfilling most people’s basic needs, while still giving a decent picture,” wrote CNET’s Craig Simms in his 3.5-star review of the monitor.
+
+The monitor’s default preset showed inaccurate colors in our testing, but when we switched to its sRGB preset, the DeltaE values improved enormously, dropping by half: 3.182 for grayscales, 2.808 on our ColorChecker test, and 2.097 on our saturation test. That’s nowhere near as precise as our pick, but it’s good enough for everyday use. The VS239H was also more accurate than our other 1080p finalist, Acer’s R240HY bidx, which had DeltaE values of 5.235, 4.796, and 3.794, respectively. Remember, a DeltaE of 2.0 is good enough for print production work, while anything above 3.0 is likely to be visible to the trained eye.
+
+The VS239H’s stand suffers from a weakness common among cheap monitors; it can’t be adjusted for height, nor can it swivel or pivot. However, it can tilt 6 degrees forward and 21 degrees back. The monitor’s mix of one HDMI, one VGA, and one DVI port makes it compatible with older and newer systems, though we wish it had a DisplayPort connection. The monitor also has no USB ports, but that isn’t a dealbreaker at this price—nor is the cumbersome on-screen display, a staple among cheap monitors.
+
+The VS239H comes with a three-year warranty, though Asus’s policy regarding stuck or dead pixels isn’t as good as Dell’s policy for its UltraSharps. On Amazon, currently the Asus VS239H has a 4.3-star overall rating (out of five) across more than 8,000 reviews, with about 70 percent awarding it five stars.
+
+What about 4K?
+
+A 24-inch 4K monitor—3,840 by 2,160 pixels—has four times as many pixels as a 1920×1080 monitor and 3.6 times as many pixels as our pick. A higher pixel density results in sharper, more detailed images, which you’ll notice if you sit within a couple feet of your monitor. However, 4K creates issues for games and some third-party Windows apps that don’t yet support UI scaling. If you’re using a Mac running a recent version of OS X or macOS, or if you don’t mind some of these annoyances, Dell’s P2415Q is a great 4K monitor.
+
+The P2415Q’s factory-calibrated picture is slightly less accurate than that of our primary pick, but the difference is imperceptible to the eye. It has the same panel type (IPS), the same display connections, the same audio connection, the same USB 3.0 hub (though with one fewer port), and the same physical adjustability and VESA support.
+
+If you’re an Apple user, the P2415Q makes more sense, since Apple’s operating system handles 4K much better than Windows. According to The Wirecutter’s associate editor Michael Zhao, who has been using the P2415Q with OS X since June 2015, “Everything looks great and scales perfectly. The only things that look blurry/pixelated are the things that look blurry/pixelated anyway on a native Retina Display.”
+
+Windows users will need to scale the OS to 200 percent to make third-party applications look the best, but not all will play along: Steam and iTunes still look fuzzy, Photoshop’s UI is too tiny, Battle.net is too small, Uplay is too blurry, and CrashPlan’s text is way too big. You’ll also have less usable screen space than with our primary pick: two fewer columns and three fewer rows in Excel, for example. Reduce the scaling to increase your onscreen space and you increase app blurriness and fuzziness.
+
+Native Windows elements look great in 4K. Games do, too, but you’ll need a powerful system to run them at full resolution, or you’ll have to pick between two imperfect scenarios. Downscale the resolution to something like 1080p, exactly one-fourth the pixels of 4K, and you’ll improve your frame rates but have fuzzier graphics and text (even at high quality settings). Stay in 4K and you’ll have to reduce the game’s quality settings to get good frame rates, which defeats the point of having a high-resolution screen.
+
+Our 27-inch pick, HP’s Z27n, is a better investment for Windows users than the 4K Dell P2415Q. The HP Z27n costs more than the P2415Q, but you’ll avoid scaling while still getting a lot of screen space (1440p resolution), your third-party apps will look crisp and sharp, and you won’t need to spend a fortune on video cards to game at maximum quality settings. A good video card that gets you almost 60 frames per second in 1440p at top quality settings will cost around $300 to $450. To use a 4K display with the same settings, you’ll have to spend around $600.
+
+Configuration, care, and maintenance
+
+Our pick’s factory calibration is close to perfect, so you don’t need to calibrate it yourself. (Unless you’re a professional photographer, graphic designer, or video editor, you don’t need to buy a hardware colorimeter to calibrate any display.)
+
+We do recommend adjusting your monitor’s brightness and contrast to your liking. If your monitor supports DDC/CI (Display Data Channel Command Interface)—like all four of our picks—you can more easily adjust its settings using a software app instead of its on-screen display. To find the best contrast level, go to Lagom.nl’s white saturation test and adjust your monitor’s contrast to the highest level it will go before you can’t see the difference between higher-numbered values and the all-white background.
+
+If your monitor is too bright, staring at it for hours could hurt your eyes or give you a headache. Too dim, and it’ll just look lifeless and drab—and you’ll lose a little black detail. Without a colorimeter, there’s no real way to set your monitor’s brightness to an exact luminance like 140 cd/m², which we use for our testing, or 120 cd/m², which is typically recommended for monitors in normal conditions. But here’s a tip for finding a good brightness level: The white background of a typical Web page should look white, not gray, without your monitor overwhelming your room (and eyes) with light.
+
+Connecting a second monitor to the DisplayPort output of a monitor that supports daisy chaining (like the U2415) requires version 1.2 of the DisplayPort standard. Some monitors are set to 1.1 by default, so if you’re connecting a second monitor, you’ll need to change that in the first monitor’s settings.
+
+Finally, if your monitor’s screen gets dirty or smudgy, don’t use an ammonia or alcohol-based cleaner to clean it (that means no Windex). A microfiber cloth and some distilled water (not tap water) will work just fine.
+
+What to look forward to
+
+At the 2016 CES trade show, Dell announced two “wireless” monitors (23 and 24 inches) with USB-C ports that can charge your laptop while you use the monitor as a primary or secondary display. The smaller monitor’s base also doubles as an inductive charger for tablets and smartphones that support Qi or PMA wireless charging. Each monitor supports Miracast and Bluetooth streaming from smartphones, tablets, and laptops (thus the “wireless” description) simultaneously, so you can hop between your laptop and your smartphone and control them with the same mouse and keyboard. (The monitors still have power cords and display connectors for use with PCs.)
+
+Dell also launched a 24-inch 1080p monitor at the end of February 2016. This model’s “InfinityEdge” bezel measures just 5.3 mm on the top and sides, and a slightly larger 8.3 mm on the bottom. We love the design and features; we just wish its resolution was 1200p, not 1080p.
+
+We’re also interested in testing a new 24-inch Dell monitor we found when we were wrapping up this article. Dell’s SE2416HX is a sub-$200 1080p IPS monitor that’s the eighth most-popular monitor on Amazon currently. It doesn’t look like it has many display connections, or an adjustable stand, but that’s typical for the price.
+
+Acer’s H7 series monitors come in 25- and-27-inch versions (both 1440p and IPS), with a very of-the-moment gold bezel. They support HDMI, DisplayPort, and USB-C, with the latter letting you charge USB-C laptops over the same connection you use for the display. Acer also has a new class of 1080p monitors with ultra-thin bezels. These R1-series displays also come in a variety of screen sizes: 21.5, 23, 23.8, 25, and 27 inches.
+
+Lenovo’s ThinkVision X24 Pro is a professional-grade display, but it also supports USB-C and wireless charging. (The latter requires an optional accessory.) You can also buy a “WiGig Bar” accessory for sending your screen to the display wirelessly—but there’s no hardware on the market to take advantage of it, so that’s not a plus.
+
+The competition
+
+We think the extra screen space of a 1920×1200 monitor is useful enough that we didn’t consider any 1920×1080 monitors for our main pick.
+
+We think the extra screen space of a 1920×1200 monitor is useful enough that we didn’t consider any 1920×1080 monitors for our main pick. However, if you don’t mind a slightly shorter display, there are many great 1920×1080 monitors out there. Our favorite is the Dell UltraSharp U2414H, which is basically a 1080p version of our pick with one fewer USB 3.0 port. It’s usually $50 to $70 less than the U2415, making it a good pick if you can only afford to spend around $200 and you don’t mind losing some screen space, and you rarely plug in devices (like Blu-ray players and game consoles) that can’t output in 1920×1200.
+
+Dell’s UltraSharp U2515H is an excellent 25-inch 1440p IPS monitor that has the same connections, USB 3.0 support, and adjustability as our pick. However, it costs about $100 more. If you want to spend more money for a 1440p IPS monitor, check out our guide to the best 27-inch monitors. >We think a bigger monitor at the same price makes more sense, unless your desk space can’t fit those extra two diagonal inches.
+
+Asus’s PA248Q, our previous runner-up pick, is a 24-inch IPS monitor with a 1920×1200 resolution. Though it has the same adjustability and almost the same connections as our pick (minus one USB 3.0 port and a DisplayPort output), TFT Central found that its default colors, gamma, and color temperature weren’t as accurate as our pick’s. It can also cost up to $100 more than our pick, depending on current rebates.
+
+Dell’s P2416D, a 24-inch 1440p IPS monitor, was more expensive than our pick, but it has worse color accuracy and USB 2.0 ports instead of USB 3.0.
+
+NEC’s MultiSync EA244WMi is a 24-inch 1200p IPS monitor that was much more expensive than our pick when we researched it, and it has USB 2.0 ports instead of USB 3.0. It earned an Editor’s Choice award for mid-sized business monitors from PCMag, but it doesn’t get nearly as much praise as our pick from Amazon purchasers.
+
+Acer’s H257HU smidpx costs about as much as our pick, but the 1440p monitor has no USB ports and no VESA support, and you can adjust only its screen’s tilt.
+
+Eizo’s FlexScan EV2450, AOC’s i2473PWM, Samsung’s S24E390HL, and Dell’s S2415H were all too expensive to be our 1080p budget pick or unavailable for purchase.
+
+The 4K ViewSonic VX2475Smhl-4K didn’t have great color accuracy when Tom’s Hardware tested it. It also has fewer display connections and limited adjustability compared to Dell’s P2415Q, along with no USB ports.
+
+Dell’s UltraSharp UP2414Q is one of the company’s early 4K monitors, and it doesn’t even support single-stream transport—a must-have feature if you want to run your 4K panel at 60 Hz without issues.

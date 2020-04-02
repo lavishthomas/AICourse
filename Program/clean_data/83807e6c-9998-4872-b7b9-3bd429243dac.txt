@@ -1,0 +1,69 @@
+A zeer pot is an evaporative cooler used in rural Africa and the Middle East to keep vegetables fresh. They consist of two terra cotta pots, one nested inside the other, with the gap between them filled with wet sand. The sand serves as a thermal mass that helps keep the pot cold once it has cooled down, and acts as a wick to spread the moisture up the walls of the pot. When placed in a shaded, breezy location, the evaporation of water off the outer surface chills the pot. If you have a good breeze, or a fan powered by a solar panel blowing the pot, the pot can get quite cold. Imagine that chill you get when you step out of a pool when the wind is blowing. Now imagine that wet wind chill going on all day. That's what the pot feels with a constant breeze.
+
+Unless the air is very dry and the pot is exposed to a constant breeze, they generally do not become as cold as a refrigerator, but they will keep vegetables fresh for a couple of weeks. If you do have cool dry air and a constant stiff breeze, the interior of a zeer pot can chill down to around 40˚F.
+
+Think of it as an open-cycle refrigerator. Conventional refrigerators evaporate a refrigerant in a closed circuit to absorb heat from their interiors, then compress the refrigerant vapor in the coils in back to condense it and to expel heat. The zeer pot simply uses water as its refrigerant, and leaves the condensation to nature.
+
+Zeer pots were re-discovered and popularized in the early 2000s by the Nigerian teacher Mohammed Bah Abba. By manufacturing and mass distributing zeer pots to the poor, he was able to bring refrigeration to tens of thousands of impoverished farmers and home makers, enabling them to extend the usable life of their produce from days to weeks. For his efforts Bah Abba was awarded the Rolex Award for bringing life-changing technology to people in need.
+
+In the under-developed parts of Africa and the Middle East, zeer pots use custom made pots prepared by local potters. Here in the developed world, we need to settle for pre-made pots from the hardware store. There are some drawbacks, but also some advantages afforded by these limitations, as you will see.
+
+What makes this zeer pot practical?
+
+There are other zeer pot instructables out there, but this one is optimized for practicality. If the capacity is too small, the cooling capacity too low, or if it an eyesore or is annoying to use nobody would want to use it. This zeer pot uses a large glass pot lid, has an interior basket divider, and sits on a rolling cart. It even has a layer of decorative pebbles over the sand to make it look pretty. The terra cotta pot legs hold the pot off the rolling cart with enough clearance to let the bottom surface contribute to evaporation; this adds about 10%-15% more evaporative surface. The inner pot is bolted down so that it doesn't float up when you charge the pot with water. Nearly everything I used in this project was purchased at a hardware store, and it can be made in a few hours, plus a day to let the sealants cure.
+
+I will be building a zeer pot array for A Place for Sustainable Living in Oakland (California) based on this design. The goal is to use an array of zeer pots to displace the use of at least one of their refrigerators. The design shown here is the outcome of my experimentation with making zeer pots for them.
+
+(Be sure to read all the notes to all of the photos. Many important details are listed there.)
+
+Parts list with prices
+
+Prices are rounded to the nearest dollar. (I must admit, this is by no means the inexpensive original African zeer pot, which cost $2 to make. You're going to spend well over a hundred dollars on this design. This one is for people are intentionally going out of their way to go off grid or to pursue sustainable options.)
+
+Items are mostly from Orchard Supply Hardware (Berkeley, CA). The pot lid was from Kukje market (Daly City, CA), and the sandwich basket was from Web Restaurant Store.
+
+18" unglazed terra cotta pot— $30 @ Orchard Supply Hardware
+
+terra cotta pot— $30 @ Orchard Supply Hardware 14" terra cotta pot—$15 @ Orchard Supply Hardware
+
+terra cotta pot feet, quantity: 7— $1.79 each, so about $13 @ Orchard Supply Hardware
+
+heavy duty planter caddy with five casters—$30 @ Orchard Supply Hardware
+
+50 lbs of sand; the finer the better, pre-washed — $6 @ Orchard Supply Hardware
+
+4" long 1/2" bolt
+
+2" washers for a 1/2" bolt, quantity: 5
+
+jamb nuts for 1/2" bolt, quantity: 4
+
+Refrigerator thermometer: $8 @ Orchard Supply Hardware
+
+Silicone Sealant—$5 @ Orchard Supply Hardware
+
+13.5" glass pot lid — $8 @ Kukje Market (Korean markets usually have these; wherever you are, if there's a korean market or housewares shop, you're in luck.)
+
+sandpaper
+
+12" diameter sandwich basket— $7 at Web Restaurant Store
+
+8" eyelet or hook bolt and a pair of nuts and washers— about $6 @ Orchard Supply Hardware
+
+Note: won't work as well in high humidity
+
+If you live in a hot and humid area, the zeer pot probably won't work well; high humidity results in much less evaporative cooling. (However, a friend of mine who used a zeer pot to cool water in a humid part of Africa tells me that even with the humidity, it worked surprisingly well, so this is not definitive.)
+
+Note: direct sunlight will cancel out all cooling effects
+
+On the day I was doing the zeer pot seminar at the Place for Sustainable Living, we accidentally left one in direct sunlight. The amount of heat imparted by the sun totally overwhelmed the evaporative cooling effect. The cooling is supposed to come strictly from wind-induced evaporation, not from evaporation due to sun exposure. Sun exposure causes evaporation by imparting heat; wind exposure causes evaporation by lifting away water molecules, which carries away heat proportional to the heat it takes to evaporate the quantity of water carried away. If you do build a zeer pot, make sure you keep it in the shade for best effect.
+
+Note: outer pot must be unglazed clay or terra cotta
+
+At the hardware store, I saw a lot of fake terra cotta pots made of orange plastic. These are not usable for the outer pot of the zeer pot; the zeer pot cools by wind evaporating water that has been wicked through the outer surface. Plastic fake terra cotta is not porous, and will not work as an evaporative surface.
+
+Glazed terra cotta pots also don't work for the outer pot. The inner pot doesn't necessarily have to be made of unglazed terra cotta, but the outer pot must be unglazed because glazed pots won't wick moisture to the outer surface for evaporation.
+
+Note: many medium sized zeer pots work better than one giant zeer pot
+
+The ability of a zeer pot to cool its content depends on the surface area to volume ratio. As you make the zeer pot larger, the volume will increases proportional to the cube of the linear dimensions, but the surface area only increases proportional to the square of the linear dimensions. Because the volume increases much faster than the surface area, one huge zeer pot will actually perform much worse than several smaller zeer pots. The size of the zeer pot in this instructable is about as large as you can make them while having a practical rate of cooling. You can always make them smaller; making them larger is not likely to give you reasonable performance. If you are serious about going off-grid, you would do better to make several zeer pots of this size than to make one huge zeer pot.

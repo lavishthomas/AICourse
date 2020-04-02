@@ -1,0 +1,59 @@
+Business data has existed for ages. But mostly it just sat hopelessly trapped in handwritten ledgers, filing cabinets, and floppy disks, a precious resource untapped. Software from past decades helped only so much. Many such applications could work only with individual databases and were often costly and unwieldy to boot. Until very recently, such data could be used only by the giants.
+
+Now, thanks to falling tech costs and new tools that display complex databases in ways even technophobes could love, smaller companies can unlock many more secrets from data. Your company's databases can be cross-referenced with the expanding galaxy of information drawn not just from the likes of social networks, government databases, and usage patterns on mobile devices, but also from increasingly specialized information sources such as digitized transcripts of call-center interactions and sensors sending updates from various steps within a supply chain, and do so affordably.
+
+Companies ranging from established giants such as IBM, SAS, and Microsoft to startups such as Tranzlogic and Kaggle offer affordable, cloud-based data-crunching services-which can help you get nondigitized data into data-crunchable form-and today virtually anyone can get his or her hands dirty in the great Big Data mud pile.
+
+Businesses successfully mining Big Data are cross-referencing their internal information-pricing histories, customer traffic patterns-with multiple outside sources to increase revenue by understanding customers' behavior better, reducing costs by eliminating inefficiencies and human bias, strengthening client bonds by anticipating clients' needs, enriching service offerings with new knowledge, and giving employees new tools to perform their jobs better.
+
+Should you still think this is for only ultradigitized and data-intensive businesses, consider that two of our success stories involve a zoo and a small-town Realtor. "The history of information systems and business is that the rich tend to get richer," says Tom Davenport, a professor at Babson College and a pioneer in helping companies understand Big Data. "There are big companies that could afford it, and so prospered more than the smaller ones." But now, he adds, "there's nothing that says you can't do this as a small business, too."
+
+Twiddy & company realtors, Duck, North Carolina
+
+A family-owned company in a sleepy seaside village discovers the truth in the numbers.
+
+The famed Blackbeard anchored his pirate ships along the 200-mile-long string of islands known as the Outer Banks, and the Wright brothers staged early flights near the windswept village of Kitty Hawk, but the sandy stretches arcing alongside the Carolina coast retain an appealingly laid-back feel. That makes the Outer Banks a perfect rustic getaway for stressed-out tourists.
+
+Many of those travelers find vacation rentals through Twiddy & Company, a family-owned local enterprise that manages 998 homes on the islands, whether they are simple cottages or 24-bedroom beachfront mansions. Twiddy's dual challenge is to satisfy guests while ensuring homeowners rent their properties as profitably as possible. But don't let the Outer Banks's sleepy feel fool you. Big Data has made a difference here.
+
+Like many companies, Twiddy had amassed years of operational data inside spreadsheets-where it all was buried, really. "We kept running into the same obstacles," says marketing director Ross Twiddy. "Unless we had a good way of looking at the data, how could we make good decisions?"
+
+Twiddy settled on SAS's business analytics tools, which distilled the company's spreadsheets into a customizable format the company could share with homeowners and contractors. Before, Twiddy could tell homeowners the dates when their property was available to rent. Now, the company can offer pricing recommendations pinpointed down to the week, on the basis of market conditions, seasonal trends, and the size and location of a home, among other criteria.
+
+To cite just one example: "We noticed that the week after the Fourth of July saw a dropoff in demand," says Twiddy, and, armed with that knowledge, Twiddy started letting its homeowners tweak prices in January for that week. Since the company began making such recommendations, overall bookings have increased, and more homeowners recommend Twiddy as a property manager. The inventory Twiddy manages has increased more than 10 percent over the past three years.
+
+Twiddy also cut costs 15 percent by comparing each contractor's maintenance charges against the average of its 1,200 other vendors, identifying and eliminating invoice processing errors, and automating service schedules. Those savings alone freed up $50,000 in the company's budget over the past two years. Not bad for an initial investment of $40,000. Twiddy hoped its Big Data spending would pay for itself in three years. The company met that goal in Year One.
+
+"There's truth in numbers, and this software helps you find it," Twiddy says. "When we saw that happen for us, it was like tasting ice cream for the first time. It's something you never forget."
+
+Point Defiance Zoo & Aquarium Tacoma, Washington
+
+A zoo tames the Pacific Northwest's notoriously variable weather.
+
+Every business has gremlins, and for the Point Defiance Zoo & Aquarium, the weather had long been the peskiest. The Pacific Northwest's wild weather fluctuations often make a mockery of any forecast, which means predicting zoo attendance-and therefore staffing-is difficult.
+
+For years, Point Defiance used standard weather reports, with mixed results, and that wasn't good enough. "Zoos live and breathe through their attendance," says Donna Powell, the zoo's business and administration service manager. "We needed to understand how that ebbs and flows, and when and why it shifts."
+
+Working with IBM and analytics firm BrightStar Partners, Point Defiance parsed its historical attendance records against years of detailed local climate data collected by the National Weather Service. This led to new insights that helped the zoo anticipate with surprising precision how many customers would show up on a given weekend. That in turn helped the zoo determine, down to the hour, how many employees should be staffing front gates, carousels, and other positions on peak days.
+
+Some managers were skeptical when Powell put the data to the first big test on Memorial Day weekend in 2013. Typical for the Northwest, it rained on two of the three days, and the temperature never rose above 62. But Powell predicted attendance within 200 people-out of several thousand-and had adjusted staffing accordingly, a crucial flexibility for a zoo that employs 85 to 120 people, depending on how many customers are expected. The information "helped make staffing changes in every department," Powell says. "Some people still thought it was a fluke, but we've done it over and over again." For Memorial Day 2014, the prediction was even more accurate: The zoo's projections were within 113 of actual attendance. And a closer look at the data enabled Point Defiance to boost membership 13 percent in the first quarter of 2014 by targeting discount campaigns to the Zip codes of its most frequent guests. "For a minimal investment of less than $4,000, we sold $60,000 worth of memberships," Powell says.
+
+Powell also focused on when people booked online and was surprised to learn many customers bought tickets in the late evening or early morning, when parents' busy schedules eased and they could finally plan their family's weekends. Knowing this helped Point Defiance pinpoint time-limited deals to increase ticket sales, and the zoo's online ticket sales have risen 771 percent over the past two years. The spike in online sales didn't diminish on-site ticket sales, either. Overall ticket purchases have set records for two consecutive years.
+
+Now Powell is considering looking at the health data of the zoo's animals to improve their care. "If you can do that for humans," she says, "why can't you do that for animals?"
+
+Carvana, Phoenix
+
+A data-driven approach keeps an upstart car marketplace competitive.
+
+The Internet offers huge opportunities for buyers and sellers of used cars, but one truism still holds: Nobody wants to buy a used car sight unseen. That fear of paying for a lemon online has helped keep used-car dealerships in business, despite consumers' distaste for the hard sell long associated with such venues.
+
+But Carvana, a Phoenix-based online car marketplace launched in 2013, saw in Big Data multiple opportunities to better consumers' experience and its business. Among the company's 50 staff members are some you would never find selling cars: It employs five data experts, including a former Wharton professor who oversees Carvana's analytics.
+
+Well before Carvana launched, the company contacted Kaggle, an online community of data scientists who compete and collaborate to solve Big Data challenges submitted by companies such as Merck and Facebook. Carvana wanted a better way to predict if cars purchased at auction would be lemons-"kicks," in used-car parlance-and it anted up $10,000 in prizes for the best solutions.
+
+A system emerged that kicked the kicks and let Carvana make shrewder bids at auctions. "We wanted to determine which cars up for auction didn't meet our quality standards," says co-founder Ernie Garcia. Thanks to the winners of Carvana's Kaggle competition as well as data gleaned from other analytics about regional customer preferences and model availabilities, Carvana found it could sidestep lemons and buy better cars "for $500 below what similar cars would sell for." That edge is helping Carvana meet its goal of offering its customers an average $1,500 discount from market prices.
+
+Carvana also worked with its data-expert staff members to mine customer data and reduce the risk in its financing business. Although many car dealerships simply look up a buyer's credit score, Carvana scans hundreds of variables across several databases-including full credit reports from multiple companies and searches of the LexisNexis legal and news databases-to predict the likelihood of defaults, better tailor interest rates for individual customers, and weed out suspect buyers.
+
+The result, according to co-founder Ryan Keeton, is "meaningfully" fewer defaults and not one car stolen through fraud. (Citing competitive concerns, Carvana executives did not share specifics concerning default rates or total vehicle sales.) Online used-car marketplaces still haven't replaced the banner-strewn used-car lots of yore, but Big Data is helping one such venture find its footing. As it also helps a constellation of other smaller businesses, be they old or new.

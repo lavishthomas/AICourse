@@ -1,0 +1,57 @@
+Overcoming the Hurdles of Big Data in Marketing Look out Marketing Industry, You Ain’t Seen Nothing Yet
+
+The marketing communications industry has always worked with a high level of data. But over the last decade, it’s been transformed by a new degree of granularity — the number of data streams available, new insights, and the ability to take action on those insights. We’re now working with up to 10 to 50 times the amount of data we had access to before, and it has the potential to unleash a new level of understanding, creativity, consumer value, and monetization.
+
+
+
+Of course, there are a few pitfalls, which fall primarily into three categories.
+
+The first has to do with understanding privacy rights: making sure everyone knows how their personal and consumer data will be used. Ideally, marketing creates a value exchange — providing benefit to consumers in exchange for collecting their information for the purposes of targeting media or custom messages.
+
+
+
+This is what online services like Google and Facebook would argue they already do — free services in exchange for data collection and targeting. There is no true corollary for offline media at present, but when you look at the mergers of Time Warner and ATT, and the future direction of Comcast, both companies plan to inject as much data as they can into their advertising delivery and distribution vehicles. Over the Top (OTT) television offerings, and apps which enable a direct to consumer relationship between broadcast companies and consumers are also an example of media companies trying to simultaneously reclaim their relationship with the viewer and inject data into their targeting and sales approaches.
+
+People are smart. As long as privacy terms are clearly outlined, a choice is given to them, and the benefits are compelling, they’ll opt in the majority of the time. The millennial generation goes even farther. They accept that they are giving away their data, and they want bigger and bigger rewards or a special relationship for it. They’ll continue to pursue marketplaces where “cost, value and experience” intersect. If brands and media publishers fail to provide this intersection, millennials will disproportionately turn to ad blocking. It’s not as much a privacy issue, it’s simply that the value exchange isn’t there for them. Put another way, the privacy issue isn’t all about protecting themselves, it’s about transparency and getting the right value for the trade.
+
+
+
+The question then becomes, what’s fair value for the trade? Google and Facebook believe they over deliver on the fair value of the trade. And it’s hard to argue with the market shares in both the search and social markets they dominate. People vote with their feet, and so consumer time spent with both of these platforms indicates people are happy with the experience. However, from an advertiser point of view, the experience has become fraught with complication, transparency and fraud. Bots, fake sites and news articles, ads that are skipped or have less than 5 seconds of viewability are a reality on both Facebook and Google. This has given rise to verification and brand safety services which should be essential to any marketer. It’s hard to believe any publisher can walk away from integrating these services into their platforms, and hard to believe any marketer or agency would not consider them a key measurement tool today and in the future. Once these services are integrated fully into video and social, marketers and agencies will know a lot more about the value of the consumer experience for people, and it may well lead to some shifts in whether consumers feel the trade is fair, in how marketers pay for ads, and what those marketers may consider to be quality and safe placements. It’s interesting to see that since the election, Facebook time spent (minutes) across adults, and specifically for adults 25–49 is down on average 10–16%.
+
+
+
+The second key concern is that big data can still be dumb data. Data in and of itself is not smart, so will bad or poor quality data lead to bad decisions. To marketing and data professionals — whether they are analytics professionals, creatives, planners, brand managers, CMOs or strategists — data is a catalyst for better insight, problem solving and action. On its own, data is not particularly compelling. It’s about bringing together these big and powerful data sets, with brilliant data scientists, with analysts and creators, is where the magic happens.
+
+
+
+Advertising works when messages tailored to the right audience reach that audience at the right time, in the right place, with the right context. It sounds so easy, and in a consolidated, scaled offline media environment of 30 years ago, it was (relatively) easy.
+
+
+
+When matched properly, in real time, across multiple touch points in an omni-channel environment, data will make marketing, targeting, brand context and consumer experience much, much better. It will supercharge the right audience, at the right time, in the right place and context, and hopefully make the advertising experience much, much better for people. But making it all work is exponentially harder than 30 years ago, because the tools needed to collect, inject, structure, analyze and activate big data are so much more sophisticated. And, frankly, most of it is well beyond the reach of key players in the marketing ecosystem today.
+
+
+
+To collect, analyze and take action on big data, companies need to invest in a data platform, and in SaaS-based products, solutions and services to take action across multiple touch points. Up until now, access to Google, Facebook and DMP platforms enabled a basic level of data-driven capability. But largely, the online world has ignored or de-prioritized the offline world. By offline, I simply mean analog or linear media, such as newspapers, magazines or commercial TV you watch at home with commercials in real time.
+
+Yet more and more data is coming online, and as we all need to solve the holy grail of Identity (a unique, real person, with behavior attributes attached to this person), Authentication (the actual process a platform or publisher verifies the person’s identity), and Attribution (the process of understanding the consumer journey and what touch points lead to purchase), the game is changing big time and it’s changing offline, online, in real time. And it’s not just a media or media targeting issue. A marketer or agency’s ability to master the Identity Graph in the coming years will determine the effectiveness of the offer, the message, the placement and the outcome to a larger and larger degree.
+
+As consumer’s expectations for better messaging and context increase, driven in large part from marketers and media companies who master it early, the pressure will only increase for every brand to work off bigger data sets, and activate insights across messaging, placement and audience in real time. To win in the new era of Big Marketing Data, every company must become a data and insight company. And that requires technology, data science, platform activation, capital and operational expenditure to make it real.
+
+I don’t believe the marketing ecosystem is truly ready for this coming reality.
+
+
+
+The third key pitfall is the filter bubble. This debate has been brewing for for much of the last decade, and it’s only gotten louder in the past year. It will continue to grow over the next ten years. It gives rise to an important philosophical and strategic conversations running through every part of the marketing world: do predictive data and analytics limit a consumer’s experience? If an algorithm is deciding what I want to watch or view or click through, am I losing something as a result?
+
+
+
+It would be a mistake to make data the scapegoat in our conversation about the filter bubble. Data isn’t narrowing our list of friends. It isn’t narrowing our information channels or what we can view or spend time with at night. It isn’t forcing us to only talk to the same people or not. Data is neutral. It’s up to people to choose wisely and up to the platform companies to analyze and listen carefully. Despite how smart Netflix is, it still hasn’t figured out that I’ve stopped watching “Orange is the New Black,” and it hasn’t asked me why. If Netflix did, I could give it needed feedback on content, characters and storyline. Maybe it doesn’t care, or perhaps it doesn’t need to know, but it will one day as more services and platforms do listen, incorporate, and adapt to win (win back) market share.
+
+Ultimately, the most sophisticated use of data in the coming years will be in crafting custom experiences and predicting people’s unfulfilled wants and needs as effectively as possible, in real time. The CMO, or agency creative, or media director’s ability to anticipate and predict from data, and translate those insights into action that identify a person’s unique needs and tailor brand offerings to meet and exceed them, is what is exciting about the future of the business.
+
+When Netflix does make a program suggestion correctly, that’s getting it right. When Hyatt anticipates I don’t like down feather pillows and I am allergic to eggs, tailoring a room and menu experience just for me, that’s getting it right. When Airbnb knows I like two bedroom apartments to rent, not studios, that’s getting it right. When Comcast X1 knows I tend to watch college football and searches for games in the fall, that’s getting it right.
+
+Simple examples, but a clear signal of what’s to come. Better consumer experiences, enabled by data, insight and action, in real time.
+
+The future of marketing and brand building is very bright. And companies can win as they face the opportunity of the next decade, rather than become defensive in a crisis. For the marketing ecosystem, investing in and building platforms, software, solutions and services to implement and enable data and predictive analytics is absolutely crucial and clearly vital to those who will win. Failure to invest, failure to think ahead, and failure to reimagine the marketing business and consumer value exchange, will mean you will be left behind.

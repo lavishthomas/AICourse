@@ -1,0 +1,283 @@
+I’m like most SEOs I know. I get excited about advanced SEO tactics — stuff like site framework auditing and data researching via end-user value. It makes me feel smart. Plus, it gets results!
+
+But, there’s one advanced technique that a lot of SEOs completely neglect.
+
+It doesn’t seem that advanced. It might seem kind of boring. And, it doesn’t sound like it gets results.
+
+It’s called internal linking.
+
+The first time I realized the value of internal linking was when I had been blogging for five years. I would faithfully open up my computer each day, write an article and move on.
+
+Write. Publish. Repeat.
+
+Five years!
+
+Over time, I had written hundreds of posts! It occurred to me that if I started linking to my old articles within new articles, I could give my readers more value — more stuff to read, more information to gain.
+
+So, I did it. It started simple. Whenever I wrote a new article, I would just add a link to another article that I had written, creating an internal link.
+
+Guess what. When I started doing that, my site exploded! I watched my engagement metrics hit the roof (organic search engine ranking, low bounce rate, higher session duration, more pages per session). Internal linking was working!!
+
+It was amazing, so I decided to dig in and discover exactly how to improve SEO through internal linking.
+
+Here is a step-by-step guide that you can use to boost your SEO using internal linking.
+
+What is internal linking?
+
+In case you need a quick overview of internal linking, here it is.
+
+An internal link connects one page of your website to another page of your website.
+
+Pretty simple, right?
+
+Every website that has more than one page is connected in this way. It’s a simple issue of site design and architecture and the search engines expect it.
+
+Websites have an overall design and architecture that keeps them structured in a logical way, like this common model.
+
+Most websites have a central home page, and branch out into multiple menus and sub-pages. Some websites are more complicated.
+
+One common SEO technique among earlier websites was to organize content into silos, in an attempt to improve keyword presence for a particular keyword category.
+
+The silo organizational model was popular until recently. Many SEOs still follow the silo model, because it makes logical sense.
+
+Of course, site architecture and structuring can get even more complex.
+
+But, that’s not necessary.
+
+In fact, a lot of the discussions about site architecture and internal linking aren’t helpful. They get way too complicated and spend way too much effort on something that doesn’t achieve real results.
+
+Internal linking can be much simpler! I’ll show you how to perform a simple internal linking method that I’ve created.
+
+First, though, it’s helpful to know why internal linking helps.
+
+Why does internal linking matter?
+
+Internal linking is one of the SEO’s most valuable weapons.
+
+Why? Because it works.
+
+Google’s machine-learning algorithm has come a long way since the early days of SEO. It’s nearly impossible to game the system.
+
+As advanced as the algorithm is, there are still simple things that you can do that will give you an immediate boost in SEO metrics without gaming the search engines.
+
+Internal linking is one of them. It’s not a trick or a gimmick and it’s certainly not hard to do.
+
+Here are some of the benefits.
+
+Internal linking improves the indexation of your website
+
+Google’s crawler follows link paths throughout the internet to find and index websites.
+
+If your website has strong internal linking, the Google crawler has an easier time finding new content that you publish and link to.
+
+Google regularly crawls the web for fresh content. If your content is woven together with multiple internal links, crawling will happen a lot faster.
+
+As a result, indexation will happen faster, too. And, your efforts are rewarded by improved search engine rankings.
+
+Internal linking increases the backlink earning potential of deep content pages
+
+If you take a look of where most of your website’s backlinks are coming from, you’ll probably see that a lot of them are to your homepage.
+
+When you compare the homepage backlinks to deep page backlinks, this is what you’ll often see.
+
+Unfortunately, too many home page backlinks is bad thing for SEO.
+
+That pie chart should be reversed. The majority of your external links should be pointed at deep internal pages, not your home page.
+
+When a website is not actively publishing and promoting new content, their link profile looks like this:
+
+Most of the links on the website go to social profiles or standard pages such as “About” or “contact.”
+
+This provides very little SEO value to the site!
+
+If you create a strong internal linking structure, however, you will be able to boost the link juice earning potential of the internal pages, by creating clear click paths and indexation throughout the website.
+
+Why? Because you are increasing the overall crawl priority throughout the site by better distribution of your links.
+
+Internal linking spreads the strength of the site to internal pages
+
+You’ve probably heard of link juice, right?
+
+It’s kind of an outdated concept, but it goes like this.
+
+When your website receives a link to the homepage, some of the value of that link is passed on to internal pages.
+
+Unfortunately, the concept is too simplistic to be true. It doesn’t work like this:
+
+The algorithm uses a far more complex system of determining value than just “link juice” and how it flows through a site.
+
+It is true, however, that the more tightly-knit a website’s structure (through internal linking), the better the overall site will perform in the SERPs.
+
+Internal linking with anchor text adds content value to an electronic signal
+
+An internal link is a simple string of HTML that links one website page to another. It looks like this:
+
+<A HREF = “http://www.example.com/internalpage“> an article on cat food </A>
+
+When you create an internal link with anchor text as opposed to with an image or navigational text, however, the value of the internal link goes up.
+
+Anchor text improves the value of the link by adding keywords and content to the linking process.
+
+Google isn’t just looking at an A HREF tag. They are also looking at the anchor text that is part of that link.
+
+The days of keyword stuffing anchor texts are long gone. But, there is value in having that anchor text. Anchor text that flows well with the overall content, versus over-optimized anchor text, is best.
+
+Internal linking provides value to the user
+
+This is the most important point of all. Internal linking is an SEO technique, yes. But, it’s more than that.
+
+Ultimately, internal linking is for the value of the user!
+
+I don’t know about you, but when I’m researching a topic, I like to explore other content that reinforces the topic.
+
+If I enjoy reading content from the writer or the website, then I will receive value from seeing other articles that the author has written.
+
+Taking a little time to add internal linking to your site increases the value of each piece of content to the reader, because they can easily find additional resources that you’ve created elsewhere on your site.
+
+That’s why I created an internal link in the second line of this article.
+
+Internal linking can fit within an overall marketing arsenal. While it may not drive conversions directly, it does have a place within the marketing funnel — carrying people to a target destination.
+
+And, as an added bonus, you can help readers want to stay on your site longer and increase their trust in you by using internal linking.
+
+SEO is about user optimization, not just technical tweaks and sneaky tricks.
+
+If you don’t buy all of the technical value of internal linking, fine. But, at least do it for your users.
+
+Techniques
+
+Now, it’s time to get into the nitty-gritty. How do you do internal linking? What’s the best method for creating the biggest value with links?
+
+First, you should make sure that two things are in place:
+
+You have already written content on the site. Even if you have a single article, that’s okay. That’s your starting place. You are continually writing new content for the site. Getting into a regular publishing schedule is important, in order for internal linking to work effectively.
+
+Okay, let’s get into it.
+
+Link from content-heavy pages to other content heavy pages
+
+The best internal links are those that connect one article to another. This creates a strong internal linking structure, deep within the site.
+
+If your website navigation is decent, you’ll have enough linking structure to the site’s main pages, such as the homepage, the About page, the contact page, etc.
+
+You don’t need to link to these pages!
+
+Obviously, if you’re trying to drive conversions using a squeeze page or sales page and the opportunity is right, link to it.
+
+But, for the most part, I recommend creating links in and among long form articles. This automatically spreads your internal linking naturally.
+
+Create text links using anchor text
+
+What kind of links work best?
+
+It’s simple: Links with descriptive anchor text.
+
+What do I mean by descriptive anchor text?
+
+You’re familiar with anchor text, right? An anchor text is the word or words that are linked to another page and they typically appear as blue text to the reader.
+
+This is anchor text.
+
+Your internal links should use anchor text, but not just any anchor text will do. I recommend linking where you are using phrases that describe what the target link is about.
+
+Let me give you some examples:
+
+If I wanted to link to an article about black hat SEO techniques, I would do it this way:
+
+There’s never any value in using black hat SEO techniques today.
+
+If I wanted to link to an article about Google Hummingbird, I would do it this way:
+
+Google’s algorithm has been updated with new machine learning capabilities.
+
+What I’m doing in each of those examples is associating the subject of the link with relevant phrases.
+
+The first anchor text contains “black hat SEO techniques,” which is the subject matter of the article that I’m linking to.
+
+The second anchor text has the phrase, “Google’s algorithm has been updated,” and the article I link to contains information about Google, Hummingbird, algorithms and updates.
+
+Here’s what not to do with your internal linking:
+
+Do not try to create an exact match between the anchor text and the link target. This technique, known as “exact match anchor text” has been associated in the past with SEO penalties via the Penguin update. The search engines are sensitive to regular use of exact match anchor text, because it wouldn’t happen frequently in regular content. It appears unnatural, because it is.
+
+Do not use phrases like “click here.” This adds no value. Anchor text needs to relate, in some way, to the destination article.
+
+Do not link more than one sentence. An entire hyperlinked paragraph is clunky and unsightly. It makes for a poor user experience. Just stick to a few words or a phrase when using anchor text to point to an internal link.
+
+Every time you write an article, link to four or more old articles
+
+When you write a new piece of content, you should include five or more links to old articles. This is really important to your internal linking strategy and how the search engines review and rank your content.
+
+Why?
+
+Websites have a “freshness value” that Google detects and uses as part of its ranking algorithm.
+
+According to Cyrus Shepard,
+
+links from fresh sites [or pages] pass fresh value.
+
+Pinging the old site with a new link helps to boost its likelihood of increasing rank in the SERPs. In the eyes of the search engines, readers who follow your internal links are actually “refreshing” your older content by showing that it’s still relevant.
+
+Update old articles with new internal links
+
+You’ll get the most power from internal linking if you combine it with another SEO technique — updating old content.
+
+When you update old content, Google’s crawler sees it again, indexes it again and most likely increases its ranking in the SERPs.
+
+I recommend updating your old articles on a regular basis. Here is a good process to follow on your old blog articles:
+
+Add a new paragraph of content at the beginning, explaining your updates.
+
+Add several new paragraphs throughout, adding additional or updated information.
+
+And, this is important: Add several new internal links to content that you’ve recently created. Linking isn’t only about linking new content to older content. It’s also about circling back to older content and creating internal links that connect to your newer work.
+
+You’re accomplishing two things by doing this.
+
+First, you’re updating old content, which improves its ranking value. Second, you’re creating an internal link between an old established page on the site and a new not-so-established page.
+
+Add links in places where it’s logical and value-added.
+
+Where should you put these internal links?
+
+It’s tempting to get lazy and throw them in at the end of an article: “For more awesome content click here!”
+
+Don’t do that, please.
+
+Instead, look for areas in the content where the subject matter overlaps. These are logical points of connection to create an internal link.
+
+Remember, internal links that provide value to readers are the goal.
+
+Make sure the links are follow links
+
+This point is simple. Don’t add a nofollow tag to the link. It’s not necessary and probably won’t pass as much value to the link target.
+
+Some evidence shows that no-follow links are less valuable to a link profile. They won’t hurt you, of course, so you shouldn’t worry about them too much.
+
+When given a choice, however, leave off the nofollow tag.
+
+Link to high converting pages
+
+Do you have pages on your website that convert visitors more than other pages?
+
+If so, link to these pages.
+
+I’ve written articles on my blog that have super high conversion rates. For some reason, the content is compelling and the CTAs are so powerful that users convert in droves.
+
+You better believe I’m internally linking to these pages!
+
+This is where internal linking has more than just SEO value. It can have revenue value, too! The more visitors that you can drive to a high-converting page, the more conversions you’ll have!
+
+Conclusion
+
+That’s it. Internal linking is simple.
+
+SEO can get complicated, believe me. There are some deep dive techniques that require insane amounts of work, research and effort to pull off.
+
+But, other aspects of SEO, like internal linking, are easy and effective.
+
+Do this as an experiment. Follow the guidelines above for at least one week and see if your rankings improve.
+
+I’ll bet that simply adding internal links, using related anchor text, will improve your search engine rankings.
+
+Tell me about your experience, and whether you saw an increase or decrease in your site’s SEO.

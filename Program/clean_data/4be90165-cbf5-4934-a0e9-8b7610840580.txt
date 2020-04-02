@@ -1,0 +1,67 @@
+This is Part 3 in a series on the future of news and newspapers. Previously:
+
+Part 1: FiveThirtyEight and the End of Average link
+
+Part 2: The Stages of Newspapers’ Decline link
+
+Newspapers are held up as an irreplaceable tentpole of a free society, especially by the journalists who work at them, but the people who actually started our most august institutions had a rather more pragmatic view: they saw a great opportunity to make money.
+
+Consider the New York Times, widely considered one of if not the best newspaper in the world. According to the History of the New York Times:
+
+One day early in 1851, Jones and Raymond [the founders of the Times] were walking across the Hudson on the ice when Jones observed that he had heard that The Tribune had made a profit of $60,000 — in those days an enormous sum — in the past year. This renewed Raymond’s enthusiasm, and before they reached the other shore he had obtained Jones’s promise to join him, if the re-demption bill passed, in the establishment of a new daily in New York. The bill did pass. Jones closed up his business, and he and his business associate, E. B. Wesley, prepared to put their money, with Raymond’s experience, into the new venture.
+
+And, for 150 years afterwards, newspapers were fantastic businesses, not just for Jones and Raymond. Understanding why, though, explains why the modern newspaper, with a few possible exceptions (such as – hopefully – the Times), is doomed.
+
+Ethical Wall = Value Wall
+
+Journalists pride themselves on an ethical wall between the editorial and business sides of the newspaper. This, in theory, allows the journalist to pursue the “truth”, without concern for undue influence. As far as I know, this is nearly universally accepted as a good thing. It’s also a big red flag, at least if you are someone like me who is interested in how businesses are built.
+
+The problem with this arrangement is a familiar one: the end user is the product, not the customer, no different than advertising-based businesses on the web, such as Google or Facebook. While this sort of division usually inspires concern that the quality of the end-user product will suffer, the opposite is also the case: it doesn’t matter how good the end-user product is if the money-making side of the business isn’t in good shape. This is exactly what is wrong with newspapers, and why, to journalists especially, the demise of newspapers feels like such an intractable problem: the quality of their work is mostly irrelevant to the financial well-being of their employer.
+
+How the Internet has Changed Advertising
+
+In There Are Two Twitters; Only One is Worth Investing In, I explained how the Internet has changed advertising (I’m going to extensively quote from that article; if you’ve read it, you can skip the quote):
+
+Previously, advertising channels like newspapers or television channels were the only means to a captive audience. For example, if you wanted to reach those living in Chicago, the Chicago Tribune or Sun Times were your primary options. This proved highly lucrative for those in the middle; their job was to create compelling content to ensure customers bought their product, which was in turn laden with advertising, from whence they made most of their money. The Internet has changed this in a few fundamental ways: On the Internet, consumers are no longer captive. I have an effectively infinite array of choices for news, entertainment, etc., meaning the content that attracts me must truly stand out
+
+The infinite array of content = an infinite amount of advertising inventory, destroying its worth
+
+The nature of Internet advertising makes it possible to gather much richer data about consumers than was ever possible offline This has made life in the middle much more difficult, particularly for old-school advertising middlemen like newspapers. Commanding top rates depends not only on capturing consumers versus infinitely more competitors, but also knowing more about those consumers than anyone else. Targeting information is the new scarcity in advertising. It is the only way to sustainably increase average revenue per user.
+
+Let me be more blunt than I was in the original article: life is not “more difficult” for traditional newspapers; it’s unsustainable. They don’t have the best content, it’s not personalized, and they really don’t know anything about most of their readers.
+
+“But [Insert Newspaper Name Here] has great journalists! They’ve won Pulitzer Prizes! And our democracy needs newspapers!” Unfortunately, advertisers don’t, and newspapers are paying the price for having long ago divorced the cost of their content from the value readers place upon it. To put it another way, it’s not that “the Internet has unbundled advertising from content creation,” it’s that advertisers (rightly) don’t give a damn about journalistic ideals. It is incredibly tiring to hear newspaper defenders talk as if advertising dollars are their god-given right, and that Google and Facebook are somehow stealing from them, when in reality Google and Facebook are winning in the fairest way possible: providing better value for the advertiser’s dollar.
+
+The Internet Upside
+
+Throughout this series, I’ve been very careful about separating the “news” from “newspapers.” The Internet has killed the latter, but is the impetus behind a new golden age for the former. Crucially, that golden age is not only for readers, but writers, too. The Internet provide three huge advantages over newspapers:
+
+Distribution is, for all intents and purposes, free. WordPress, which powers most blogs (including at many newspapers) is open source, and hosting is extremely cheap. With minimal effort and with no support your writing can be published.
+
+and hosting is extremely cheap. With minimal effort and with no support your writing can be published. The addressable market – everyone with an Internet connection who can read the writer’s language – is multiple orders of magnitude larger than that of any traditional newspaper
+
+The potential reach of any given post is equal to the addressable market, thanks to social networks like Twitter, Facebook, and even email
+
+Remember how the New York Times was started as a means of making money? After the first year the paper had a circulation of 26,000 in a city of over half a million, but had incurred up-front capital costs of $50,000, and first-year expenses of $78,000 (In 1851 dollars; the modern equivalent would be $1.4 million and $2.2 million respectively). Compare that to this blog (which, by happy coincidence, turns one year old tomorrow, making this comparison timely): FiveThirtyEight and the End of Average, the first article in this series, has been read by over 30,000 people; meanwhile, I’ve spent less than $2,000. More readers, way less money.
+
+You may consider the comparison unfair – an entire newsroom putting out a daily edition as compared to a solo blogger posting one article – but the unfairness is the point. No one shared my article because it was from Stratechery, but then again, no one shares an article today just because it’s from the New York Times; all that matters is the individual article and its worth to the reader and potential sharer. As a writer, this is amazing. When it comes to reader attention, I am competing on an equal footing with The New York Freaking Times! Unfortunately for The New York Times, when it comes to making money they’re competing with Google and Facebook. Most distressingly, though, when it comes to costs, they’re competing with the last 150 years. Everything from printing presses to sales and marketing is deadweight if advertising is not a sustainable model.
+
+Business Models of the Future
+
+The reason why I find business models so fascinating is because your business model is your destiny; newspapers made their bed with advertisers, and when advertisers left for a better product, the newspaper was doomed. To change destiny, journalists need to fundamentally rethink their business:
+
+More and more journalism will be small endeavors, often with only a single writer. The writer will have a narrow focus and be an expert in the field they cover. Distribution will be free (a website), and most marketing will be done through social channels. The main cost will be the writer’s salary.
+
+Monetization will come from dedicated readers around the world through a freemium model; primary content will be free, with increased access to further discussions, additional writing, data, the author, etc. available for-pay.
+
+additional writing, data, the author, etc. available for-pay. A small number of dedicated news organizations focused on hard news (including the “Baghdad bureau”) will survive after a difficult transition to a business model primarily focused on subscriptions, with premium advertising as a secondary line of revenue. This is the opposite of the traditional model, where advertising is the primary source of revenue, with subscriptions secondary.
+
+This transition will be a painful one: the number of traditional journalists and newspapers will decrease dramatically. Moreover, those that succeed will need to have a much expanded skillset from journalists of yore, including basic website management, self-promotion, business skills, speaking ability, etc. (teaching these skills is an important opportunity for journalism schools). What is sure to be most frightening – or exciting, depending on your outlook – is that the market will, for the first time in the history of news, be the ultimate arbiter of what writers are worthwhile.
+
+I know that last sentence sent chills down the spine of many a journalist and many a reader; you believe that people only care about the popcorn, not the movie. That no one will cover the local school board, or the Crimea. If you’re nodding your head, then I have a challenge for both of you:
+
+For the journalist, do you believe that your work is valuable? Then start a blog, and start experimenting with business models. Go door-to-door or start a kickstarter. If you think it’s hopeless, then get out now. There will be a few big winners, but it won’t be you.
+
+For the reader, how often do you visit the New York Times or the Wall Street Journal? Do you pay? Do you love tech? Well, then, have you even considered trying out The Information? It’s exceedingly easy to sit on the sidelines laughing at journalists freaking out about the end of the newspaper, but if you always go for free you will, eventually, get exactly what you pay for.
+
+I don’t think the future of news is an easy problem; my solution, such that it is, entails the death of journalism as we know it (i.e. employed by newspapers). But that’s exactly how new business models are born: a thousand new flowers in the burnt-out forest of what no longer works.

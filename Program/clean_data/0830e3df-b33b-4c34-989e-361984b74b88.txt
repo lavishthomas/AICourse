@@ -1,0 +1,69 @@
+One day the AIs are going to look back on us the same way we look at fossil skeletons on the plains of Africa. An upright ape living in dust with crude language and tools, all set for extinction. – Nathan Bateman in Ex Machina
+
+Ex Machina, a Hollywood blockbuster made on a $15 million budget, tells the story of a programmer who is invited by his employer, the eccentric billionaire Nathan Bateman who built a fictional search engine called Blue Book, to administer the Turing test to an android with artificial intelligence, which essentially determines whether a computer can trick a human into believing she is having a conversation with another human.
+
+Mike Murphy, a Quartz reporter covering the future of technology and AI, wrote this his article A search engine could become the first true artificial intelligence at the time the movie came out:
+
+Everything in our online life is indexed. Every idle tweet, status update, or curious search query feeds the Google database. The tech giant recently bought a leading artificial-intelligence research outlet, and it already has a robotics company on its books. So what if Google, or Facebook, or any of the companies we entrust our information to, wanted to use our search histories to create an artificially intelligent robot?
+
+In Ex Machine, Nathan uses Blue Book’s search-engine index (i.e. a massive vault of information about every search query and user data) to create the backbone for his AI robot.
+
+Around the same time (late 2015), Google announced the existence of RankBrain, an artificial intelligence system, which (as of 2015) is processing “a very large share” of “never before seen” search queries made on Google’s various properties.
+
+Not long ago, Google let it slipped that RankBrain is already in the top three of its ranking signals.
+
+A machine trying hard to think like human
+
+Think of Google’s algorithm as a machine trying hard to think like a human, using every possible piece of data – social, user generated, browser footprint, click patterns – at its disposal to match individual searchers to the best answers to their questions.
+
+According to Google, “if RankBrain sees a word or phrase it isn’t familiar with, the machine can make a guess as to what words or phrases might have a similar meaning and filter the result accordingly, making it more effective at handling never-before-seen search queries.”
+
+If you want to get geeky, RankBrain converts the textual contents of search queries into “word vectors,” also known as “distributed representations,” each of which has a unique coordinate address in mathematical space. Vectors close to each other in this space correspond to linguistic similarity.
+
+In more plain English, when people search query – aka a keyword – that’s never been made before, RankBrain attempts to map this query to words – or “entities” (clusters of words) – that have the best chance of matching it. RankBrain attempts to guess what people really mean when they make queries over time, records the results, and adapts results to provide what it sees as better user satisfaction.
+
+Think beyond keywords
+
+RankBrain — plus the more than 600 changes that Google makes to its algorithms each year — is forcing marketers to get much smarter about the content they create and the way they optimize it.
+
+To thrive in this new, machine-mediated world, marketers must think beyond keywords—the traditional building blocks of SEO. They must understand the context in which queries are made. They must create content that provides a satisfying answer that contributes to the perfect, meritocratic library of the world’s information that Google is trying to build.
+
+Here’s what Rand Fishkin, the founder of Moz, had to say about the impact of Google’s RankBrain on marketing in 2016:
+
+RankBrain is a big change for Google internally, but for marketers, this is a continuation of the advanced query parsing and interpretation that Google’s been doing since Hummingbird (and even before). It continues the pattern of Google getting better at identifying the intent behind search queries and serving up content that satisfies that intent rather than just the content that best matches the searcher’s precise keywords. That’s not to say that keyword research and targeting don’t matter — they absolutely still do. It’s more that, when you intelligently target a set of concepts or topics that searchers need, Google will automatically help you rank for a wider variety of phrases that searchers use to access that information.
+
+Credit: Rand Fishkin, Moz’s Whiteboard Friday
+
+Rankbrain looks for patterns between searches that may seem unconnected at first, but in fact are similar and fit together. In my recent post on The Next Web, 7 Google changes that will make or break your SEO, Sam Hurley of Otmim – Eyez brought up a hypothetical example of how RankBrain’s advanced query matching might look like in practice.
+
+The keyword ‘gimme pizza close’ currently returns results for a kids’ TV show. What if all of a sudden, there was an influx of searchers entering this query (for example, due to a marketing stimulus) who wanted takeaway pizza close to their home? RankBrain would measure user behavior, learn from data and alter the results to show just that.
+
+According to a recent post on Search Engine Journal, the biggest difference between the pre-and-post RankBrain universe is that “you can start thinking beyond single keyword phrase optimization.” This sentiment seems to ubiquities in SEO circles.
+
+Rand Fishkin, who recently launched the new Keyword Explorer tool at Moz, explains how the evolution of keyword research affects marketing strategies in practice:
+
+The one thing RankBrain does change (or, more accurately, *kills*) is the need for individual pages targeting multiple, slightly-unique permutations of a keyword term or phrase. E.g. you no longer need four pages targeting 1) kids clothing, 2) childrens clothing, 3) clothes for kids, 4) clothes for children. Google knows all of those mean the same thing, and they return almost exactly the same results for all four, so you’re better off creating one page that serves that intent rather than four different ones.
+
+Death of content for SEO: Long live content for humans!
+
+In his recent takedown of tech culture, Disrupted: My Misadventures in the Startup Bubble, Dan Lyons writes about blogging purely for SEO optimization — basically, great content that is devoid of value but stuffed full of buzzwords to fool Google’s search algorithm.
+
+It’s a funny and probably overblown passage, but it raises a serious point for content marketers; in the past, they’ve had to write around keywords, often at the expense of creating content and telling stories people want to read. The introduction of Google’s Rankbrain could put an end to all this, once and for all.
+
+With it’s honed ability to collect and interpret massive user data from Google.com, Chrome, and Android, Google now allows readers to give feedback — in the form of bounce-backs, click patterns, pogosticking, and click-through-rates — on whether your content piece actually does what it promised to do.
+
+So if you wrote a compelling, educational piece, including a lot of research and diligence, you’re in the clear; but if you wrote a piece that didn’t provide enough value, you could easily lose the top spot if enough readers felt like you were wasting their time.
+
+Evolve or perish
+
+A few caveats — while it has been reported that Rankbrain is now the third most important signal for ranking, there are hundreds of other factors that Google uses to rank webpages. So while its introduction last year and continued refinement is certainly important, it’s not the end of SEO as you know it.
+
+You can just be a little less heavy-handed when it comes to using keywords over and over in the content. And make no mistake, your content still needs a large number of quality backlinks pointing to it.
+
+
+
+In light of RankBrain’s increased influence on Google search results, marketers need to redefine the strategies to craft their winning SEO playbook for 2016.
+
+Ultimately, Rankbrain could be a win for both content creators and consumers, worn out by clicking on links looking for information and finding only a soup of keywords. It’ll force marketers to be smart, but a rising tide of good content will likely lift all boats.
+
+Read next: You can buy the jacket Steve Jobs wore when he flipped off IBM for $4,000 right now

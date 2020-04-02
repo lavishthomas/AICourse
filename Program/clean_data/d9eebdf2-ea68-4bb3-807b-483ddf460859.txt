@@ -1,0 +1,74 @@
+Measuring your startup’s Web analytics seems complicated enough. But with the rise of mobile-only users and visitors, there’s an added layer of complexity for startups to consider.
+
+To figure out which tools are robust enough to handle both, I asked a panel of 9 successful entrepreneurs the following question:
+
+Are you actively measuring mobile analytics? What tools or resources are helping your company analyze mobile vs. overall analytics?
+
+Their answers are below:
+
+1. Segment.io
+
+We use Segment.io so that we can track analytics in a number of tools: Google Analytics, Mixpanel and KISSmetrics. We only have to implement the tracking of events on time from a development perspective this way. We tend to use Mixpanel to segment out the difference in usage between native mobile and Web browser usage across our user base.
+
+– Danny Boice, Speek
+
+2. TestFlight
+
+We use TestFlight’s analytics package to monitor a variety of core mobile behaviors. This varies drastically from what we do on the website.
+
+– Adam Lieb, Duxter
+
+3. Google Analytics
+
+With recent improvements to Google Analytics’ filters and segments, we no longer have any reason to use any other analytics program to track where visitors are coming from and what devices they’re using. For instance, you can filter mobile devices or go one step further and see who is using a tablet because Google Analytics now takes screen size into consideration.
+
+Additionally, manufacturer model and marketing names have become available, so you’ll know exactly who is using an iPhone and who prefers Android. Using both filters and segments allows you to compare mobile to overall visitors.
+
+– Jay Wu, A Forever Recovery
+
+4. Localytics
+
+There is no substitute for Localytics when trying to turn your mobile data into information that will drive your business.
+
+– Brennan White, Watchtower
+
+5. Geckoboard
+
+For a while now, we’ve been using Geckoboard for monitoring a wide variety of analytics. One of our favorites is to monitor sign-up conversion rates from mobile. Although desktop users still sign up three to four times more than those browsing with mobile devices (especially true with smartphones), this trend is changing fast.
+
+By tweaking our mobile experience and monitoring in real time how that affects our conversion rates, we are now able to understand much better which works and which does not.
+
+– Juha Liikala, Stripped Bare Media
+
+6. Mixpanel
+
+At DJZ, we use Mixpanel to track all of our mobile analytics. The formulas and segmentation reports afford an incredibly detailed and granular view of the data.
+
+The ‘people’ function allows you to send push notifications to your users based on actions they have taken within the app. Their customer service representatives are not only highly responsive but also incredibly well versed in best practices for Web and mobile metrics. We learned a lot from them!
+
+– Michael Simpson, DJZ
+
+7. Mobile App Tracking
+
+The best tool we’ve used to measure mobile marketing efforts is Mobile App Tracking by the HasOffers team. It offers a view of mobile marketing across channels and was the only tool that helped offer a clear end-to-end conversion funnel.
+
+– Eric Koester, DCI
+
+8. Contextual Information
+
+Mobile is a top trend in e-commerce, but companies can’t lose sight of how it fits with overall customer engagement. Mobile can be a source of sales or just a first touchpoint. Some companies need a dedicated app. Others require a mobile-optimized version of the main site.
+
+Retailers with a lot of mobile sales should look at transaction conversion rates for mobile versus other segments. If mobile is lower, which aspect of the shopping experience is being lost? If higher, test which aspects of the mobile experience might be effective on more traditional segments.
+
+– Robert Glazer, Acceleration Partners
+
+9. Clicky
+
+All website analytics sites have shortcomings. I have found that setting up conversion goals in both Clicky and Google Analytics provides you with a robust set of tools that can bring powerful insights into your mobile versus Web performance. Don’t rely on any one analytics program. A second opinion is almost always necessary prior to acting on any information you discern.
+
+– Chuck Cohn, Varsity Tutors
+
+The Young Entrepreneur Council (YEC) is an invite-only organization comprised of the world’s most promising young entrepreneurs. In partnership with Citi, the YEC recently launched #StartupLab, a free virtual mentorship program that helps millions of entrepreneurs start and grow businesses via live video chats, an expert content library and email lessons.
+
+Image credit: Shutterstock
+

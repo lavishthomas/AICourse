@@ -1,0 +1,49 @@
+Dear Lifehacker,
+
+I have a long commute. Traffic makes it much longer. It's incredibly boring and I'm sitting down for hours, and I heard somewhere (everywhere) that sitting is going to kill me. How can I make my commute suck less?
+
+Sincerely,
+
+Disgruntled Driver
+
+Dear DD,
+
+Long commutes always suck. Nobody enjoys spending hours in a car every day. That said, you can take measures to improve your situation significantly. All you need is your smartphone, a few apps, and a couple of awesome internet resources.
+
+Outsmart the Traffic
+
+Nothing makes a long commute worse than the horrible surprise of a bad traffic condition. One of our favorite web services, IFTTT (if this then that), can keep you up-to-date on road issues so you know the best route before you start your commute. It works by taking one service (e.g. an RSS feed of traffic updates) and an action (e.g. sending a text message to your phone) and combining them together. In this case, let's use IFTTT's power to warn your about traffic problems before they start.
+
+Advertisement
+
+Note: If you're not familiar with IFTTT and want to learn all about how it works, check out our guide.
+
+To set up a custom traffic, follow these steps:
+
+Find a source of traffic information. There are a variety of useful options, such as traffic RSS feeds and Twitter accounts for specific cities (and sometimes even highways). Feel free to use any source you like that connects with IFTTT. In this example, we'll use the Traffic.com RSS feeds. Choose your city from the options and make note of the URL for later. (The URL will look something like http://cityrss.traffic.com/feeds/rss_losangeles .) Sign into IFTTT (or create an account if you haven't already) and click "Create" from the menu up top. Click the blue, underlined "this" and choose the Feed channel. You now have a decision to make: do you want all updates in the feed or do you want updates that match a keyword or phrase? If you choose all updates, you'll receive a push notification or text message every time there's a new traffic alert. Because this includes so much information—a lot of which is irrelevant—we're going to choose "New feed item matches" for this example. In the "Feed URL" field, paste the URL you found on Traffic.com. In the "Keyword or phrase" field, type a highway you travel during your commute. Be sure to look at the RSS feed to see how it's spelled (e.g. "2 Glendale Frwy"). When you're finished, click "Create trigger." Click the blue, underlined "that" and choose either the SMS, Email, or Pushover channel. SMS will provide alerts via text message, Email via email, and Pushover via a push notification on your smartphone. (If you want to use Pushover, read our guide to learn how to set it up.) In this example, we'll use SMS because it works with all cellphones. If you haven't activated the SMS channel before, you'll need to do that now. After clicking the blue "Activate" button, enter your phone number and wait for the secret PIN to arrive. When it does, enter it in the provided field and click "Activate." Choose your only option, "Send me an SMS." IFTTT will construct a message for you with the title of the RSS feed entry, the name of the feed, and the URL. Because the title of each entry in our feed provides sufficient information, you really only need the "EntryTitle" variable included in your text message. Feel free to delete the rest to save some room. When you're done, save the recipe.
+
+That's all there is to it. If you want to see the recipe we just created with the above steps, you can check it our here.
+
+Beat Your Boredom
+
+Sitting alone in a car for several hours makes any commute dull, but there are a few ways to beat the boredom. Carpooling is one simple solution. Carpools keep you in good company (unless you pick someone you don't like), plus you avoid driving every day. This removes a little frustration from the trip and saves you money. If you want to carpool, all you have to do is find someone in the office who lives nearby and ask.
+
+Advertisement
+
+If you prefer to be alone, podcasts and audiobooks can fill the silence. All you need is a great podcatcher for your smartphone and some good podcasts. You've shared some of your favorites, and we do a podcast every week. Audible is a good (and probably obvious) source for audiobooks. They have a smartphone app, too, so you can still listen even if you forget to sync before you head out. Those of you with Android phones can even have articles read to you if you don't want to pay for content.
+
+You can also beat boredom by getting things done. While you don't want to distract yourself while driving, making a few calls in stop-and-go traffic shouldn't cause any trouble so long as you're paying attention to the road first. Get a good headset or speakerphone and make the calls you feel you rarely have time for. Call your family, catch up with an old friend, or pay your bills over the phone. With a few numbers in speed dial and voice control on your smartphone, there's plenty you can accomplish with just a call.
+
+Solve Your Sitting Problem
+
+You know sitting is killing you, but what can you do about it in a car? You can't get up and move around, but some desk exercises still work. Small movements like alternating your shoulders up and down and lifting your thighs (not feet!) slightly get the job done. It's very important that you do not do anything that will impair your ability to drive, so keep your movements safe. Just don't sit completely still and maintain good posture. A little movement when your car is stationary isn't going to fix every problem that comes from sitting down for too long, but it's a start. When you get home and out of the car, however, you're free to roam around. Take this opportunity to walk a little, even if it's only around the block a couple of times. Proper movement can go a long way when you've already been sitting for a long period of time.
+
+Despite all of this, commutes are going to suck. Hopefully these suggestions will improve your commute a little bit, but nothing solves the problem like convincing your boss to let you work from home. You may not be able to every day of the week, but even one day where you don't lose hours of your time to traffic makes a big difference.
+
+Love,
+
+Lifehacker
+
+Have a question or suggestion for a future Ask Lifehacker? Send it to tips+asklh@lifehacker.com.
+
+Photo by kusuriuri (Shutterstock), Fontana (Shutterstock), Lilkar (Shutterstock), and Nelli Shuyskaya (Shutterstock)..

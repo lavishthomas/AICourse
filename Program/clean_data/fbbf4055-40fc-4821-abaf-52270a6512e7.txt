@@ -1,0 +1,107 @@
+The company expects to have about $2 million to $3 million in revenue this year and has raised around $10 million, including a chunk from Mark Kvamme, a venture capitalist who invested early in LinkedIn. And Gild has big-name customers testing or using its technology to recruit, including Facebook, Amazon, Wal-Mart Stores, Google and Twitter.
+
+Companies use Gild to mine for new candidates and to assess candidates they are already considering. Gild itself uses the technology, which was how the company, desperate for programming talent and unable to match the salaries offered by bigger tech concerns, found this guy named Jade outside of Los Angeles. Its algorithm had determined that he had the highest programming score in Southern California, a total that almost no one achieves. It was 100.
+
+Who was Jade? Could he help the company? What does his story tell us about modern-day recruiting and hiring, about the concept of meritocracy?
+
+PEOPLE in Silicon Valley tend to embrace certain assumptions: Progress, efficiency and speed are good. Technology can solve most things. Change is inevitable; disruption is not to be feared. And, maybe more than anything else, merit will prevail.
+
+But Vivienne Ming, who since late in 2012 has been the chief scientist at Gild, says she doesn’t think Silicon Valley is as merit-based as people imagine. She thinks that talented people are ignored, misjudged or fall through the cracks all the time. She holds that belief in part because she has had some experience of it.
+
+Dr. Ming was born male, christened Evan Campbell Smith. He was a good student and a great athlete — holding records at his high school in track and field in the triple jump and long jump. But he always felt a disconnect with his body. After high school, Evan experienced a full-blown identity crisis. He flopped at college, kicked around jobs, contemplated suicide, hit the proverbial bottom. But rather than getting stuck there, he bounced. At 27, he returned to school, got an undergraduate degree in cognitive neuroscience from the University of California, San Diego, and went on to receive a Ph.D. at Carnegie Mellon in psychology and computational neuroscience.
+
+During a fellowship at Stanford, he began gender transition, becoming, fully, Dr. Vivienne Ming in 2008.
+
+Photo
+
+As a woman, Dr. Ming started noticing that people treated her differently. There were small things that seemed innocuous, like men opening the door for her. There were also troubling things, like the fact that her students asked her fewer questions about math than they had when she was a man, or that she was invited to fewer social events — a baseball game, for instance — by male colleagues and business connections.
+
+Advertisement Continue reading the main story
+
+Bias often takes forms that people may not recognize. One study that Dr. Ming cites, by researchers at Yale, found that faculty members at research universities described female applicants for a manager position as significantly less competent than male applicants with identical qualifications. Another study, published by the National Bureau of Economic Research, found that people who sent in résumés with “black-sounding” names had a considerably harder time getting called back from employers than did people who sent in résumés showing equal qualifications but with “white-sounding” names.
+
+Everybody can pretty much agree that gender, or how people look, or the sound of a last name, shouldn’t influence hiring decisions. But Dr. Ming takes the idea of meritocracy further. She suggests that shortcuts accepted as a good proxy for talent — like where you went to school or previously worked — can also shortchange talented people and, ultimately, employers. “The traditional markers people use for hiring can be wrong, profoundly wrong,” she said.
+
+Dr. Ming’s answer to what she calls “so much wasted talent” is to build machines that try to eliminate human bias. It’s not that traditional pedigrees should be ignored, just balanced with what she considers more sophisticated measures. In all, Gild’s algorithm crunches thousands of bits of information in calculating around 300 larger variables about an individual: the sites where a person hangs out; the types of language, positive or negative, that he or she uses to describe technology of various kinds; self-reported skills on LinkedIn; the projects a person has worked on, and for how long; and, yes, where he or she went to school, in what major, and how that school was ranked that year by U.S. News & World Report.
+
+“Let’s put everything in and let the data speak for itself,” Dr. Ming said of the algorithms she is now building for Gild.
+
+Gild is not the only company now scouring for information. TalentBin, another San Francisco start-up firm, searches the Internet for talented programmers, trawling sites where they gather, collecting “data exhaust,” according to the company Web site, and creating lists of potential hires for employers. Another competitor is RemarkableHire, which assesses a person’s talents by looking at how his or her online contributions are rated by others.
+
+And there’s Entelo, which tries to figure out who might be looking for a job before they even start their exploration. According to its Web site, the company uses more than 70 variables to find indications of possible career change, such as how someone presents herself on social sites. The Web site reads: “We crunch the data so you don’t have to.”
+
+This application of Big Data to recruiting is “is absolutely worth a try,” said Susan Etlinger, an analyst of the data and analytics industries at the Altimeter Group. But she questioned whether an algorithm would be an improvement over what employers already do: gathering résumés, or referrals, and using traditional markers associated with success.
+
+Advertisement Continue reading the main story
+
+“The big hole is actual outcomes,” she said. “What I’m not buying yet is that probability equals actuality.”
+
+Sean Gourley, co-founder and chief technology officer at Quid, a Big Data company, said that data trawling could inform recruiting and hiring, but only if used with an understanding of what the data can’t reveal. “Big Data has its own bias,” he said. “You measure what you can measure,” and “you’re denigrating what can’t be measured, like gut instinct, charisma.”
+
+He added: “When you remove humans from complex decision-making, you can optimize the hell out of the algorithm, but at what cost?”
+
+Dr. Ming doesn’t suggest eliminating human judgment, but she does think that the computer should lead the way, acting as an automated vacuum and filter for talent. The company has amassed a database of seven million programmers, ranking them based on what it calls a Gild score — a measure, the company says, of what a person can do. Ultimately, Dr. Ming wants to expand the algorithm so it can search for and assess other kinds of workers, like Web site designers, financial analysts and even sales people at, say, retail outlets.
+
+Photo
+
+“We did our own internal gold strike,” Dr. Ming said. “We found this kid in Los Angeles just kicking around his computer.”
+
+She’s talking about Jade.
+
+MR. DOMINGUEZ grew up in Los Angeles, the middle child of five. His mother took care of the household; his dad installed telecommunications equipment — a blue-collar guy who prized education.
+
+Newsletter Sign Up Continue reading the main story Please verify you're not a robot by clicking the box. Invalid email address. Please re-enter. You must select a newsletter to subscribe to. Sign Up You agree to receive occasional updates and special offers for The New York Times's products and services. Thank you for subscribing. An error has occurred. Please try again later. View all New York Times newsletters.
+
+But Jade had a rebellious streak. Halfway through high school, Mr. Dominguez, previously a straight-A student, began wondering whether going to school was more about satisfying requirements than real learning. “The value proposition is to go to school to get a good job,” he told me. “Philosophically, shouldn’t you go to school to learn?” His grades fell sharply, and he said he graduated from Alhambra High School in 2004 with less than a 3.0 grade-point average.
+
+Not only did he reject college, he also wanted to prove that he could succeed wildly without it. He devoured books on entrepreneurship. He started a company that printed custom T-shirts, first from his house, then from a 1,000-square-foot warehouse space he rented. He decided that he needed a Web site, so he taught himself programming.
+
+“I was out to prove myself on my own merit,” he said. He concedes that he might have taken it a little far. “It’s a little immature to be motivated by proving people wrong,” he said.
+
+Advertisement Continue reading the main story
+
+He got a tattoo on his arm in flowery script that read “Believe.” He sort of laughs about it now, though he still feels that he can accomplish what he puts his mind to. “It’s the great thing about code,” he said of computer language. “It’s largely merit-driven. It’s not about what you’ve studied. It’s about what you’ve shipped.”
+
+When Gild went looking for talent, it assumed that the San Francisco and Silicon Valley areas would be picked over. So it ran its algorithm in Southern California and came up with a list of programmers. At the top was Mr. Dominguez, who had a very solid reputation on GitHub — a place where software developers gather to share code, exchange ideas and build reputations. Gild combs through GitHub and a handful of other sites, including Bitbucket and Google Code, looking for bright people in the field.
+
+Mr. Dominguez had made quite a contribution. His code for Jekyll-Bootstrap, a function used in building Web sites, was reused by an impressive 1,267 other developers. His language and habits showed a passion for product development and several programming tools, like Rails and JavaScript, which were interesting to Gild. His blogs and posts on Twitter suggested that he was opinionated, something that the company wanted on its initial team.
+
+A recruiter from Gild sent him an e-mail and had him come to San Francisco for an interview. The company founders met a charismatic, confident person — poised, articulate, thoughtful, with an easy smile, a tad rougher around the edges than other interview candidates, said Sheeroy Desai, Mr. Bonmassar’s co-founder at Gild and the company’s chief executive.
+
+Mr. Dominguez wore a vibrant green hoodie to the interview. He asked pointed questions, like this one: Did the company worry that it would be perceived as violating privacy by scoring engineers without their knowledge? (It didn’t believe so, and he didn’t, either. Gild says it uses only publicly available information.)
+
+They asked him some pointed but gentle questions, too, like whether he could work in a structured environment. He said he could. The company made Mr. Dominguez a job offer right away, and he accepted a position that pays around $115,000 a year.
+
+“He’s a symbol of someone who is smart, highly motivated and yet, for whatever reason, wasn’t motivated in high school and didn’t see value in college,” Mr. Desai said.
+
+Photo
+
+Mr. Desai did go to college, at M.I.T., one of those schools that recruiters value so highly. It was there, he said, that he learned how to cope with pressure and to work with brilliant people and sometimes feel humbled. But while one’s work at school isn’t inconsequential, he said, “it’s not the whole story.” He asserts that despite his degree in computer science, “I’m a terrible developer.”
+
+Advertisement Continue reading the main story
+
+David Lewin, a professor at the University of California, Los Angeles, and an expert in management of human resources, said that asking what someone could do was an important question, but so was asking whether the person could accomplish it with other people. Of all the efforts to predict whether someone will perform well in an organization, the most proven method, Dr. Lewin said, is a referral from someone already working there. Current employees know the culture, he said, and have their reputations and their work environment on the line. A recent study from the Yale School of Management that uses Big Data offers a refinement to the notion, finding that employee referrals are a great way to find good hires but that the method tends to work much better if the employee making the referral is highly productive.
+
+For his part, Dr. Lewin is skeptical that an algorithm would be a good substitute for a good referral from a trusted employee.
+
+One of Gild’s customers is Square, a San Francisco-based mobile payment system. Like many other high-tech companies, Square is aggressively hiring, and it’s finding the competition for great talent as intense as it was during the dot-com boom, according to Bryan Power, the company’s director of talent and a Silicon Valley veteran. Mr. Power says Gild offers a potential leg up in finding programmers who aren’t the obvious catches.
+
+“Getting out of Stanford or Google is a very good proxy” for talent, Mr. Power said. “They have reputations for a reason.” But those prospects have many choices, and they might not choose Square. “We need more pools to draw from,” he said, “and that’s what Gild represents.”
+
+Gild’s technology has turned up some prospects for Square, but hasn’t led directly to a hire. Mr. Power says the Gild algorithm provides a generalized programming score that is not as specific as Square needs for its job slots. “Gild has an opinion of who is good but it’s not that simple,” he said, adding that Square was talking to Gild about refining the model.
+
+Despite the limited usefulness thus far, Mr. Power says that what Gild is doing is the start of something powerful. Today’s young engineers are posting much more of their work online, and doing open-source work, providing more data to mine in search of the diamonds. “It’s all about finding unrecognized talent,” he said.
+
+MR. DOMINGUEZ has worked at Gild for eight months and has proved himself a talented programmer, Mr. Desai said. But he also said that Mr. Dominguez “sometimes struggles to work in a structured environment.” His co-workers try not to bug him when he’s sitting at his computer, locked into that work zone.
+
+In meetings, Mr. Dominguez speaks his mind. He’s happier, he said, “as long as I can have a say in how the system is built,” or it’s just another system he would have to conform to. He bristles slightly at the growth of the company, which has expanded to 40 people from 10 in the last six months, adding layers of management and bureaucracy.
+
+Advertisement Continue reading the main story
+
+“The truth is that’s in my nature to do stuff in my own way; inevitably I want to start my own company,” he said, but he’s quick to add: “I do appreciate and the respect the opportunity the company’s given me because I think it’s very clear they hired me on merit. I will always appreciate that.”
+
+Dr. Ming says the young man is both a great find and still an unknown. Of course, he is just a single example, one heralded by the company, but who cannot alone either validate or disprove the method.
+
+“He’s got the lone-wolf thing going on,” Dr. Ming said. “It’s going well early but it could get tougher later on.”
+
+The algorithm did a good job measuring what it can measure. It nailed Mr. Dominguez’s talent for working with computers. What is still unfolding is how he uses his talent over the long term, working with people.

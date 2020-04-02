@@ -1,0 +1,235 @@
+This piece is part of Mashable Spotlight, which presents in-depth looks at the people, concepts and issues shaping our digital world.
+
+When we think about the spectacular collapses of once untouchable Internet properties, companies like MySpace and Pets.com come to mind. The rise and fall of AOL Instant Messenger rivals them all. Once the dominant force in digital messaging and a source of innovations other companies spun off into billions of dollars of businesses, AIM is now mostly dormant. Mashable sat down with three of the early engineers of the program to learn about its origins, why AOL never quite embraced the concept of a free messaging service, getting hacked by Microsoft and the features that never quite made it to users.
+
+The 1990s belonged to America Online.
+
+It had risen above competitors in Prodigy and CompuServe to become the dominant Internet service provider for American households. Millions of subscribers paid AOL monthly for the ability to sign online. Its disks could be found almost anywhere. The "You've got mail" notification became the sound Americans associated with their first email accounts, as well as a movie with Tom Hanks and Meg Ryan.
+
+See also: 11 Reasons Why Pulling Messenger From Facebook Mobile Is a Terrible Idea
+
+Barry Appelman, Eric Bosco and Jerry Harris worked at AOL in the 1990s and early 2000s as engineers on AOL Instant Messenger, known commonly as AIM. They weren't hired to build a messenger. Appelman and Bosco programmed in the Unix operating system. Harris had been a programmer at a small web browser company purchased by AOL.
+
+But together with a group of other engineers they helped take AIM from inception to dominance, then watched it fall into dormancy, unable to convince AOL management that free was the future.
+
+Sitting with them and talking about the program, they exude pride for what they built and how it impacted the Internet. That pride is accompanied by a sense of "what if?"
+
+During our conversation, the term "innovator's dilemma" is thrown around a few times.
+
+Harvard Business School Professor Clayton Christensen coined the term, which is the title of his renowned book. The concept is simple — companies concerned with its current products, profits and customers often fail to recognize and adapt to change even from within.
+
+Whatsapp is not far from their minds. That comes up a couple times as well. The app, which Facebook bought for $16 billion, is essentially what they worked on in the mid 90s — messaging over the Internet.
+
+AOL is still pivoting away from its days as an ISP. Under the leadership of Tim Armstrong it now focuses on video and its ad network. In another life, before a disastrous acquisition of Time Warner, it brought the Internet into the homes of Americans and controlled the program that popularized online messaging without ever really meaning to.
+
+It would be easier to call AIM ahead of its time if it had not become so wildly popular almost immediately after its launch. In many ways, AIM was right in line with the times, just at a company hanging on to a business model that would soon become obsolete.
+
+Image: Bob Al-Greene
+
+The Buddy List
+
+The seeds of AIM began within AOL and the mind of Barry Appelman.
+
+Appelman joined after his time at IBM, where he worked on some of the first standards to connect computers over the Internet (through what are known as Transmission Control Protocol/Internet Protocol or TCP/IP).
+
+Before building a messaging program for the Internet, he created something else that would eventually spawn AIM. Necessity, being the mother of invention, helped lead to what is now a near given on the web — the buddy list.
+
+Appelman remembers it was November 1994. AOL still charged an hourly fee to be logged onto its service.
+
+With most systems of that era, an administrator might be able to tell people were logged on, but they didn't know who.
+
+"They didn't have any central presence information," Appelman said. "They didn't know anything about [the users]."
+
+Not so for AOL. Due to the way its system was constructed, AOL knew not just that people were logged on but which users they were. This allowed for the construction of a location tool that proved extremely popular.
+
+At first, AOL users who logged on were not greeted with a list of fellow friends online. But AOL did have a manual way to search for said friends, if you knew their exact screennames. This function became so overrun with requests that its servers often crashed.
+
+Appelman reasoned that instead of having to ask, the program might as well tell you if your friends were online. Patent US 6750881 B1 "User definable on-line co-user lists" was born, a.k.a, the buddy list.
+
+"It was an ease of use improvement. You didn't have to check whether somebody was on, but it told you," Appelman said.
+
+Far from a giant development product, Appelman discussed it with only his close colleagues, as AOL did not have a great amount of oversight at the time.
+
+"Buddy list was done without telling anybody, because we didn't have any product management then. So I just decided to do it," Appelman said.
+
+Diagrams from the patent that Barry Appelman holds for the buddy list. Image: Screenshot/Google
+
+"They wanted to kill it."
+
+Eric Bosco joined AOL in August 1996. Two months later, AOL would switch from an hourly rate to a flat fee. People could suddenly spend as long as they liked online. AOL’s infrastructure had trouble handling the transition.
+
+"Every single server in production was crashing because of the load," Bosco said.
+
+Bosco bugged his boss to put him on a project. He joined a team that, unbeknownst to AOL executives, had begun to explore the idea of a messenger that existed beyond the "garden walls" of AOL.
+
+"A small group of us, basically four, spent three weeks in a room trying to design what the system would look like," Bosco (below) said.
+
+AOL had become a behemoth in the early days of the consumer Internet. It handled around 180,000 simultaneous connections. Bosco said the goals for AOL's messenger were set much higher: 5 million simultaneous users. Even that number would eventually be much too small.
+
+That requirement meant AOL's messenger would need its own code, particularly as the resources allotted to the project — technically none — would have trouble with that scale. AIM was being developed without any approval from AOL executives.
+
+But if AIM was to be a standalone program, it needed to run off some equipment.
+
+"AIM was sort of the prototypical skunkworks project," Bosco said. “Since it was an unsanctioned project, one of the problems we had was you need to run servers in the data centers.”
+
+Appelman called in a favor to the head of AOL's data centers, who happened to have some old Hewlett-Packard servers he'd planned to ship back to HP. He agreed to "lose" the machines so the AIM team could use them in an unofficial capacity.
+
+"So during the day I was writing code and at night I was configuring the servers," Bosco said.
+
+When the program was finally shown to AOL, management was not pleased. Offering a piece of AOL's system for free to everyone went against the company's entire subscription-based model.
+
+"They wanted to kill it and at some point they wanted to fire me for doing this stunt," Appelman said.
+
+Appelman credits a particularly strong push from the product team for final approval to launch the product.
+
+The company quietly released AOL Instant Messenger, known commonly as AIM, in May 1997.
+
+Image: Bob Al-Greene
+
+Talk is cheap.
+
+AIM's launch saw zero fanfare. The engineers and product team had to fight against executives who recognized no value — perhaps even a losing proposition — in offering a free program.
+
+AIM was unceremoniously put on one of the company's file transfer protocols (FTP), a common way for files to be moved from one computer to another over the Internet. While public, AOL's FTP was not meant to be a consumer-facing platform. But AOL's popularity had made its FTPs closely watched among those in the know.
+
+"AOL was the core of the consumer Internet, and every hacker in the world was trying to bring AOL down, so they knew all of our FTP server addresses," Bosco said.
+
+Without even a webpage from which to download AIM, the program spread rapidly.
+
+"The very first night of the release of AIM, we put the binary executable on the FTP server ... That night we got 900 simultaneous users," Bosco said.
+
+"People found it. People located it. People spread the word," Harris (below) said. "People would camp on that FTP server waiting for the update," which came weekly.
+
+Early success did little to convince AOL management that a free product was of any good to the company. Bosco, who was eventually promoted to a management position and still worked on AIM, had to fight to keep it afloat.
+
+"My biggest job as a manager was to keep AIM alive internally, because every single executive vice president wanted to shut it down and kill it. They could not understand the concept of giving away for free something that was of real value to the paying subscriber base," Bosco said. "It was always AIM versus AOL. They hated us."
+
+AOL might have had its issues with AIM, but that did little to hamper the program's rapid growth. One particular use case the engineers identified was in workplaces.
+
+"AOL was 100% a consumer-focused company, and we realized early on that one of the main constituents of people that was going to use AIM was going to be consumers in the workplace," Bosco said. "And most likely the workplace would not be amused."
+
+Some clever programming within AIM made the program the bane of IT departments. One feature automatically probed for a way to connect if its primary port was blocked; AIM would run through all the available ports until it found one that was not.
+
+This made AIM extremely hard for companies to thwart.
+
+Bosco recounted a call during which the head of IT of a major investment bank screamed at him. The administrator had tried to block AIM, but the program had eventually hopped around until it had attached to something the company couldn't risk interrupting: the port that synchronized time across the entire company's computer system.
+
+"His only choice to block us was to un-synchronize time on all of his computers," Bosco said. "The admins had no clue how to block us. We were like malware from their point of view."
+
+The program blossomed, drawing as many as 18 million simultaneous users. Professionals flocked to it.
+
+"AIM became how all Wall Street communicated," Appelman said.
+
+AIM high.
+
+AIM quickly became the dominant messaging program of the late 1990s and early 2000s.
+
+AOL bought another messaging company, Mirabilis, which operated ICQ, another popular messenger. The popularity of messaging meant other companies began to approach AOL about a way to tap into AIM. Apple's first iteration of iChat was powered by AIM. Microsoft also got in the game with MSN messenger. While it found a solid user base overseas, it lagged AOL in attracting U.S. users.
+
+Microsoft wanted to ensure its MSN program at least allowed for contact with AIM users. Thus, MSN Messenger launched with the ability to chat with AIM accounts.
+
+This meant war.
+
+"We were not amused," Bosco said. "So we were like, 'Well, we've got to try blocking them so they can't do this.'"
+
+Any time another messenger connected with AIM's network, it was required to provide a version type. MSN Messenger identified itself as "MSN Messenger Version 1.0," Bosco said. So they tweaked AIM's system to cut the connection any time this version tried to connect.
+
+Microsoft countered. It released an update to its MSN Messenger program that self-identified as AIM.
+
+AOL blocked the attempt again.
+
+After 21 more Microsoft updates that attempted to connect to AIM, AOL threatened to introduce malicious code into MSN's system. Checkmate.
+
+AOL had triumphed.
+
+Microsoft eventually signed a deal with Yahoo to connect messaging networks.
+
+Image: Jerry Harris
+
+Some of the engineers that worked on AIM. Image: Jerry Harris
+
+Above: one of the easter eggs AOL engineers included in the program and a sharper version of that image. Pictured are some of the engineers that worked on AIM. Back row: Robert Morrison, Rich Bennett, Sue McCarthy, Greg Parsons, Mark DeNyse, Jerry Cotelessa, Jerry Harris, Anna Fang. Middle row (kneeling): Jim Crawford, Alex Brown, Bob Watkins, Kari Ziegler. Front row (sitting): Andy Evans, Bala Nair, Lu Lu Young
+
+The features
+
+AIM was originally designed to exist entirely apart from AOL, but early on in the development process the engineers realized it would need to be able to communicate inside AOL's program as well. AIM became a bridge between the so-called "walled garden" and the wider Internet.
+
+That garden provided AOL users with a buffer. AOL was able to control much of what its users saw and was intentionally designed to be family- and particularly child-friendly. AIM was a window outside the walls, where AOL had no control.
+
+This tension between what AOL could control and AIM's breach of that security haunted the project from the early days, and led to the creation — and suppression — of some of the program's most innovative features.
+
+One of the first was the warning feature, Harris said.
+
+"In order to allow [messaging with AOL users] to happen, we had to develop a feature," he said. "We had to allow people on both AOL and AIM to warn somebody, and if you warn somebody a number of times, the connection got slower and slower until they were cut off for a certain amount of time."
+
+Like with any part of AIM, the warning feature became a battle between the engineers and the rest of AOL.
+
+"The warning feature internally was called 'electronic vilification,' and we wanted to label the button 'evil,'" Bosco said. "The AOL corporate marketing team absolutely refused to let us label the button 'evil.'"
+
+Other features evolved as the engineers sought to solve shortcomings they'd encountered while using the program. Bosco recounted times he would message a coworker with an urgent question and wait for a reply. Was the person there and just not answering? Had he stepped away? When would he be back?
+
+Enter the away message.
+
+"It was almost a corporate need," Bosco said.
+
+With no shortage of feature ideas and a history of operating below the radar, the engineers at AOL often updated AIM without going through the company's bureaucracy, though.
+
+Buddy icons? Launched without approval, Harris said.
+
+"If we could sneak stuff in without telling the product people, it would get in," Appelman said.
+
+The AIM profile, which eventually grew to include a variety of its own features, came out of the fact that the AIM website was out of the control of the engineers. They had no say in what went on the page, which they recount was usually a big "download" button.
+
+They had ideas to make it a social landing page for its users, where people could have a profile, access message boards and generally drive AIM's popularity back to the web. That idea was roundly rejected.
+
+"The only recourse we had was to bake some of the functionality into the client itself," Bosco said. "It would have made a lot more sense to put your profile on a webpage, rather than a client that nobody else could see, but we were not allowed to do it."
+
+AIM added elements that appeared years ahead of other companies. It rolled out voice chat before Skype. It added file transfer. It launched chat bots people could interact with, as well as a stock ticker and a news ticker.
+
+The engineers also began exploring the mobile space just as text messaging was beginning to catch on. AIM introduced the ability to chat with mobile phones.
+
+But with AIM bringing essentially zero revenue and costing money to operate, AOL did little to encourage the exploration of the features and outright blocked others.
+
+Numerous ideas never made it past the development phase. The engineers explored ways to broaden AIM's user base, creating versions for set-top boxes and PlayStation 2 that were never released. AOL squashed those, Appelman said.
+
+Another feature that never made it to users was internally known as "Aimster." After Napster took off, AOL’s engineers figured out a way to make a user’s files searchable. A buddy could check out the files of a friend and select ones to transfer. It was not as functional as Napster, but AIM had many more users.
+
+"We thought with our network it would spread like wildfire," he said.
+
+By that time, AOL had merged with Time Warner, which was not a fan of Napster. AOL killed the feature.
+
+Image: Bob Al-Greene
+
+Ghosttown, USA
+
+Despite the wild success of AIM and the innovations it spawned, AOL kept it at arm’s length.
+
+AOL, at the time, was a subscription business intent on maintaining its revenue as an Internet service provider. It did not help that attempts to monetize AIM were unsuccessful.
+
+Bosco worked on putting ads into the program. Despite a variety of tricks to increase the impact of its ad space — including determining when a person stopped typing so the ad could change with maximum impact — advertisers never bought in. AIM was not compatible with DoubleClick, the dominant ad management service of the time.
+
+Despite the effort, Bosco said they never sold a dollar of ad space and instead just ran AOL promos. To a subscription business, a free program that could not be monetized was worthless. AOL was not about to change its entire business model for AIM.
+
+"AIM was never really embraced by AOL because of the innovator's dilemma, what I call the cash cow dilemma," Appelman said.
+
+Image from WIM's investor reception in the summer of 2012. Barry is chatting with one of the founders of SQL Vision, a WIM portfolio company.
+
+AIM did eventually begin to bring in money, but not in significant amounts. Its grip on the messaging market had loosened, and the rise of social networking sites with proprietary chat functions made it less relevant.
+
+The program had also begun to lag behind other services. AOL shunned outside developers that wanted to create their own features for AIM. Its own innovations had helped keep it on the cutting edge, but it began to fall behind as other services opened up.
+
+AOL's resistance was palpable when Bosco and some colleagues released an open-source messenger for Linux. The company was furious.
+
+"AOL was very much anti-open source," Bosco said.
+
+With AIM's popularity waning, the operation's staff, which had ballooned to around 100 at its peak, was repeatedly cut back. Layoffs started in 2002 and continued yearly through 2005. In 2012, a round of layoffs left the program with only support staff.
+
+Bosco, Harris and Appelman have moved into advertising at ChoiceStream, which works on highly targeted programmatic marketing campaigns.
+
+AIM still functions, the way a ghost town silently weathers on. AOL declined to provide numbers on active users for this story, but a 2011 report said AIM held a 0.7% share of the world messenger market.
+
+AOL is doing reasonably well despite the missed opportunities. It is now the leading video ad server on the web and is working to compete with major players on Internet advertising.
+
+Looking back, Appelman, Bosco and Harris each voiced his own sense of "what if?" but ultimately acknowledged AIM came to fruition in the wrong company at the right time.
+
+"If AOL had 20/20 hindsight, maybe the story would have had a different ending," Appelman said. "They couldn't make that leap where they turned the business upside down ... Companies generally don't do that trick."

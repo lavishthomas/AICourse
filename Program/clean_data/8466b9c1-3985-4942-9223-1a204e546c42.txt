@@ -1,0 +1,57 @@
+What fuels great design (and why most startups don’t do it)
+
+“How can my company become great at design?” Founders ask me this question more than any other. They’re often considering hiring a hotshot designer or expensive design agency. And while those might help, neither will bake design deep into how the company operates. Founders need a way to make great design become automatic, and there’s only one way I’ve found to do that reliably: invest time in listening to your customers.
+
+I’m glad that the startup community has been focusing on design lately. Design is a powerful and often overlooked way to solve problems. But without the right fuel, design is worthless. When designers don’t know which problems to solve, we spin our wheels. We make products prettier when we could be solving customer’s needs and generating real value. So any company that’s serious about design should get equally serious about listening to customers.
+
+You’ve probably heard this advice a hundred times before. Whether you call it “user research” or “customer development” or just “getting out of the building”, we all know that hearing directly from customers is one of the fastest ways to learn and improve our products. But when I ask founders how long it’s been since they’ve watched a real customer (not a family member) use their product, they usually look embarrassed and admit they haven’t tested anything in months.
+
+It’s so much fun to make things that it’s often hard to stop and listen. I’ll admit it — even though I know user research is valuable, I’ve argued against it on many projects. I’ve made one excuse after another to avoid talking with customers, because I’d much rather be building. Luckily, I work with talented and stubborn people who have proven me wrong over and over again. So here are some of the dumb excuses I’ve made, and how I coach myself out of making the same mistakes again.
+
+Excuse: Customers don’t know what they want.
+
+I’m sure you’ve heard the famous Ford quote, “If I had asked people what they wanted, they would have said faster horses.” So what? No one expects customers to design the product for you. That’d be way too easy! But customers can absolutely tell you their goals and frustrations. Customers can show you what they like or dislike about products and you can watch when they get stuck or confused. So if customers say they want faster horses, what you should hear is that getting around is too slow. It’s the team’s job to take all that raw input and build products to delight customers.
+
+Reality: Customers know a lot — if you just know how to ask.
+
+Startups need to stop pitching and start listening. By being thoughtful you can guide conversations with customers and learn much more. Write a script to structure the interview and avoid asking questions that customers can’t answer very well. Humans are remarkably bad at explaining why they did something in the past and even worse at predicting what they’ll do in the future. So skip over all that and get your customers to show you what they do today, what problems they have right now, and watch where products (including yours) are failing them. I guarantee you’ll learn a lot.
+
+Oh, and there’s no record that Ford even said that silly quote anyway.
+
+Excuse: We don’t have enough time for user research.
+
+If your goal is to launch something as fast as possible, user research will absolutely slow you down. But if you want to create great products, research will speed you up. Teams often avoid user research because they believe getting a product into the market is the fastest way to learn.
+
+But launching doesn’t guarantee you’ll learn anything about what your customers need. Sure, you’ll know how many customers are using your product. But you won’t know why they’re using it, what could make them use it more, and how to convince more people to try your product. If you don’t know the deeper reasons for customer behavior, it becomes very hard to know what to do next.
+
+Reality: User research makes you faster.
+
+It feels great to launch fast. But launching also makes future changes much harder. So if you can invest a little energy to learn early, and then fix problems before launch, it ends up saving you a tremendous amount of time later. It also reduces the risk that you’ll launch something truly bad and get stuck backpedaling for weeks.
+
+So replace the startup dogma of “launch early and often” with “learn early and often”. For me, it opened my mind to all the different kinds of ways startups can learn, and how valuable user research can be to the core mission of any startup.
+
+Excuse: We can’t hire a user researcher right now.
+
+None of the early stage startups I’ve worked with over the past four years have had a user researcher on staff. But that didn’t stop us, because almost anyone can interview customers and gather data that will improve your product. It just takes the right personality, a little training, and some practice.
+
+Reality: Your team can learn user research.
+
+Startups are full of amazing, talented people. So find teammates who already work closely with customers, and help them learn user research. Sales teammates can listen more and lead the conversation less. Support teammates can stop trying to solve customer problems and start finding more of them!
+
+The last person I taught how to run a user study was a software engineer. He was nervous at first, but after a day of talking with customers, he told me it was the best day he’d had in months. The interviews helped him see the product through customers’ eyes, and that unlocked a creative streak full of new feature ideas.
+
+So find someone in your team and ask them to read up on user research. Then, get some coaching. Even though it’s easy to learn, there’s no replacement for years of experience designing and running user studies. I enjoy coaching the startups I work with. And founders often find it helpful to hire an advisor to keep them on the right track.
+
+Excuse: It’s not done yet. We’ll test it later.
+
+I’ve used this excuse a lot. I want my work to be perfect, and I hate showing a design that’s half-done. But over time I’ve realized that if I work too long in isolation, I’ll spent a lot of time on the details when the idea really needs fundamental changes. In short: I’ve wasted time polishing a turd. And teams tend to do the exact same thing: they fall in love with a solution and waste time hashing out the details before validating that the idea is any good.
+
+Reality: You need feedback more than you think.
+
+The best way avoid turd-polishing is to inject feedback into your process, whether you’re ready or not. That’s why I like to schedule user studies with customers a week before we’ve even figured out the design. Yes, it’s terrifying! But the beauty of these deadlines is that they keep you completely focused on the next chance to learn, and focused on only making the things that are absolutely necessary to extract that learning.
+
+In my experience, startups don’t need to build much to get good feedback from customers. I’ve relied heavily on very simple prototypes built as clickable mockups in Keynote or Powerpoint. And if your startup doesn’t have a prototype to test, you can always use your competitor’s products as free prototypes. So use deadlines to your advantage. Find some target customers, and schedule your first user study before you think you’re ready.
+
+Let’s stop making excuses
+
+Investing in user research is just about the only way to consistently generate a rich stream of data about customer needs and behaviors. As a designer, I can’t live without it. And as data about customers flows through your team, it informs product managers, engineers, and just about everyone else. It forms the foundation of intuitive designs, indispensable products, and successful companies. So what are you waiting for? Go listen to your customers!

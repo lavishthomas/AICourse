@@ -1,0 +1,61 @@
+The Top Five Accounting Mistakes Analysts Make
+
+Prior to entering graduate school almost 20 years ago, I had a very important phone conversation with an analyst at the Dreyfus Founders Funds, Chuck Reed. That brief phone conversation changed my focus in graduate school — and hence my life. One of the questions I asked Chuck was, “What skills should I acquire that most analysts overlook?” He answered unequivocally, saying, “Most analysts do not understand accounting.”
+
+Shocking as it may seem, I still believe Reed’s two-decade old admonishment to me remains true, even despite the emphasis made by CFA Institute in its CFA charter program. Here are what I believe are the top five accounting mistakes analysts make:
+
+1. Using Generalized Financial Statements
+
+If analysts take the time to actually read financial statements — and I think that few of them actually do — it is likely that they digest them through a third-party provider, such as Bloomberg, FactSet, S&P Capital IQ, Reuters, Yahoo! Finance, etc. The problem with this approach is that each of these services modifies each company’s unique financial statements to fit into a pre-created template. These services do this to ensure comparability across companies, industries, and nations.
+
+However, I would argue that the generalization of these financial statements obscures as much as it reveals. An example is the compressing of one-time items into a single line item which hides the fact that some companies have many more one-time items each year than do other companies. If a company has five “one-time” items each year, as compared with others in its industry that may have infrequent “one-time” items, this is a sign of poor accounting standards or abuses of management accounting discretion and is valuable information about company character.
+
+Additionally, the smearing of categories also hides the unique voice of the CFO, the auditor, and others within the organization who prepare financial statements. Knowing that some companies report a bland “net revenues” while others report “customer sales” tells you something about the culture of the organization. Taken individually, these differences seem inconsequential, but taken as a whole, the financial statements tell you a lot about the culture of a company you may invest in.
+
+Ideally, the unmodified financial statements are examined, and the amounts reported in these statements are matched to the specific narrative of the business as revealed in the management’s discussion and analysis section. Are the two stories — the quantitative and the qualitative — consistent? They better be!
+
+I once caught an arithmetic error in the calculation of gross profit of a huge multi-billion dollar company. I caught this because I was following the numerical narrative of the statements. That I could not get the third number down in the income statement, and the first actual real calculation, to match what they reported was telling. According to their investor relations pro, I was the only analyst to catch this multi-million dollar reporting error on their part; and in fact, the statistical agencies simply had entered the numbers from the statements directly!
+
+2. Not Understanding the Reflexivity/Interactivity of the Three Major Financial Statements
+
+In my experience, few analysts take the time to trace a dollar of capital raised within a company (as shown on the balance sheet) through the income statement, to the bottom line, and then back to the balance sheet again. Nor do they relate changes in the balance sheet accounts to the cash-flow statement to identify huge inconsistencies in either amounts or categorizations. Instead, most analysts analyze the statements in isolation from one another.
+
+A brief example is that few analysts understand in what way a change in accrued liabilities affects operating expenses on the income statement, and, in turn, how this affects cash flows from operations. Ditto for income taxes payable, short-term notes payable, long-term notes payable, and so forth.
+
+Yet, when you trace a unit of capital (rupees, yuan, yen, dollars, euros) through the financial statements, you once more get a sense of how straightforward and how consistent the financial reporting is at a business. This, in turn, is indicative of the character of the people that run the organization.
+
+I once caught a company whose operating cash flows dramatically did not match the number that could be gleaned by doing a comparable calculation using balance sheet numbers to calculate the same! Only by understanding the interactivity of the statements did I catch this error/possible fraud.
+
+3. Not Creating Apples-to-Apples Comparisons in Time
+
+This particular accounting secret is one that I have never discussed publicly. However, understanding this was one of the secrets to my success as a portfolio manager. Specifically, have you ever noticed that the temporal dimension for the income statement, balance sheet, and cash-flow statement are all different?
+
+The income statement is reported quarterly for the first three quarters of the year and then annually, whereas the balance sheet is always reported as a quarterly snapshot — even when it is the fourth quarter. Last, the cash-flow statement is always shown as an amassing of cumulative cash for the year. Each of these is very different from one another, and they only align in the first quarter for any company.
+
+In my experience, companies play games with these time dimension mismatches. Consequently, analysts must put all of the financial statements on the same temporal dimension. I put each of the financial statements of the companies I examine on both a quarterly and annual basis. This means that you must create a fourth quarter income statement by subtracting the first three quarters of the year from the annual income statement. This also means that you must subtract the first quarter cash-flow statement from the second quarter’s, the first two quarters’ from the third quarter’s, and the first three quarters’ from the annual number. When you do this, you can see some of the games companies play.
+
+I once caught a company delaying a payment on a massive capital lease so that the company could report positive operating cash flow in its first quarter. In the second quarter, the operating cash flow barely changed even though it was a steady cash-flow-generating business. The reason was that the second quarter cash-flow statement included the massive lease payment. Only by creating quarterly cash-flow statements could I readily see that they did not match my narrative understanding of how the business should work.
+
+4. Not Adjusting Statements for Distortions
+
+This is a classic problem in financial statement analysis. Despite this fact, most analysts do not modify financial statements to adjust for one-time items, including write-offs, sales of divisions, accounting revisions, and so forth. Exactly what to look for is outside the scope of this post, but most analysts simply do not take the time to do this.
+
+As a brief tip, if you ever see a write-off number that is a bit too round, such as ¥500 million or €75 million, you can bet that the amount is management’s estimate of a loss and not the actual loss. Therefore, you can expect future corrections to this initial write-off estimate.
+
+5. Not Reading the Footnotes
+
+Last, despite all of the warnings to pay attention to the information contained in footnotes, most analysts do not read them. Nor do most analysts take the numbers from the footnotes and put them into the main three financial statements.
+
+An example of this would be to take the detailed property, plant, and equipment figures reported in the footnotes and incorporate these into the analysis of the entire balance sheet. I once caught a company that clearly was playing games with its useful expected lives figure because when I looked at the common-size over assets financial ratios, I could see that one of their property, plant, and equipment numbers had gone down massively on a relative basis. This distortion, in turn, had big ramifications for the reported depreciation and hence net income, operating cash flow, and free cash flow.
+
+While there are many other accounting mistakes analysts make, if you correct those I have highlighted above, I believe you will successfully separate yourself from your analyst peers and improve your returns.
+
+If you liked this post, don’t forget to subscribe to the Enterprising Investor.
+
+All posts are the opinion of the author. As such, they should not be construed as investment advice, nor do the opinions expressed necessarily reflect the views of CFA Institute or the author’s employer.
+
+Image credit: ©iStockphoto.com/xubingruo
+
+Share On
+
+About the Author(s)

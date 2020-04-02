@@ -1,0 +1,263 @@
+September 3, 2016 was just another day for most of the world but to me it will always be memorable as the day that I married my partner.
+
+There are many different aspects to consider while planning a wedding. Food, decor, table fixtures (oh yes these are separate from decor), flowers, accommodation, transportation, entertainment, and location. Whilst there are many unknowns when planning a wedding, I could be sure of one thing. In weddings there are a lot of lists, nested lists, and more lists as far as the eye could see. As I stared at the growing number of items I began to wonder if there was a better way? It all felt so manual and full of inefficiencies. There had to be some aspects that technology could improve.
+
+You may be surprised but inviting people to weddings is expensive (over three hundred and eighty pounds), as you need to send out both ‘Save the date’ cards and a subsequent invite with specifics about the wedding. It is also slow, as you have to send it all via post. It’s time intensive to chase people to see if they received the invite and if they’d like to come to a party with free food and drink – surely an automatic yes? Finally, invites are not environmentally friendly as they are one time use and easily lost or misplaced.
+
+Back to lists. The guest list is split into a few sections:
+
+A list of who you’d liked to come A list of people who have replied to your R.S.V.P A list of people who have replied yes A list of people who have replied yes and selected a food choice
+
+But lists are good. They have predefined requirements and responses which make them a great candidate for automation.
+
+Message In a Bottle
+
+Irrespective of age, I was sure everyone in the wedding list had a mobile phone and that meant it was Twilio time. If you want to skip to the code, you can view the repo on GitHub.
+
+SMS was perfect for my needs. I could configure outbound mass messaging and handle responses quickly and efficiently. While sketching out an MVP and considering a database, I wanted something easy to share and didn’t want to waste time building views. Stumbling upon the gspread python library enabled me to read and write to a google spreadsheet. Whilst not the fastest option, it was certainly flexible enough and provided an easily accessible and readable output.
+
+For the initial R.S.V.P I created a spreadsheet with these columns:
+
+Name
+
+Telephone_number
+
+Confirmation_status
+
+Contact detail status
+
+Message_count (Amount of messages sent to guest, this comes in handy later)
+
+After the main data entry was completed, I used gspread to iterate through the list and send an SMS to each guest that had a mobile number associated with it:
+
+Sheets.py
+
+import json import time import gspread from oauth2client.client import SignedJwtAssertionCredentials from twilio.rest import Client # Message your attendees from a spreadsheet # add file name for the json created for the spreadsheet json_key = json.load(open('.json')) scope = ['https://spreadsheets.google.com/feeds'] credentials = SignedJwtAssertionCredentials(json_key['client_email'], json_key['private_key'].encode(), scope) gc = gspread.authorize(credentials) wks = gc.open("wedding_guests") # add your workbook name here wks_attendees = wks.get_worksheet(0) # attendees worksheet ACCOUNT_SID = 'TWILIO_ACCOUNT_SID' AUTH_TOKEN = 'TWILIO_AUTH_TOKEN' client = Client(ACCOUNT_SID, AUTH_TOKEN) # to iterate between guests, amend this based on your total for num in range(2, 60): print "sleeping for 2 seconds" time.sleep(2) # adding a delay to avoid filtering guest_number = wks_attendees.acell('B'+str(num)).value guest_name = wks_attendees.acell('A'+str(num)).value Message_body = u"\u2B50" + u"\u2764" + u"\u2B50" + u"\u2764" + u"\u2B50" + u"\u2764" + u"\u2B50" + u"\u2764" + "
+
+
+
+" + u"\u2709" +" Save the date! "+ u"\u2709" +"
+
+
+
+Lauren and Thomas are delighted to invite you to our wedding.
+
+
+
+Saturday 3rd September 2016.
+
+
+
+Awesome Hall,
+
+Amazing Town
+
+
+
+The Ceremony begins at 2pm.
+
+
+
+More details will follow shortly!
+
+
+
+Please text YES if you are saving the date and can join us or text NO if sadly, you won't be able to be with us.
+
+
+
+" u"\u2B50" + u"\u2764" + u"\u2B50" + u"\u2764" + u"\u2B50" + u"\u2764" + u"\u2B50" + u"\u2764" if not guest_number: # No mobile number skip this guest print guest_name + ' telephone number empty not messaging' wks_attendees.update_acell('E'+str(num), '0') # set number to 0 else: print 'Sending message to ' + guest_name client.messages.create( to="+" + guest_number, # add the + back to make the number e.164 from_="", # your twilio number here body=message_body, ) wks_attendees.update_acell('E'+str(num), int(wks_attendees.acell('E'+str(num)).value) + 1) # increment the message count row else: # else part of the loop print 'finished' 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 import json import time import gspread from oauth2client . client import SignedJwtAssertionCredentials from twilio . rest import Client # Message your attendees from a spreadsheet # add file name for the json created for the spreadsheet json_key = json . load ( open ( '.json' ) ) scope = [ 'https://spreadsheets.google.com/feeds' ] credentials = SignedJwtAssertionCredentials ( json_key [ 'client_email' ] , json_key [ 'private_key' ] . encode ( ) , scope ) gc = gspread . authorize ( credentials ) wks = gc . open ( "wedding_guests" ) # add your workbook name here wks_attendees = wks . get_worksheet ( 0 ) # attendees worksheet ACCOUNT_SID = 'TWILIO_ACCOUNT_SID' AUTH_TOKEN = 'TWILIO_AUTH_TOKEN' client = Client ( ACCOUNT_SID , AUTH_TOKEN ) # to iterate between guests, amend this based on your total for num in range ( 2 , 60 ) : print "sleeping for 2 seconds" time . sleep ( 2 ) # adding a delay to avoid filtering guest_number = wks_attendees . acell ( 'B' + str ( num ) ) . value guest_name = wks_attendees . acell ( 'A' + str ( num ) ) . value Message_body = u "\u2B50" + u "\u2764" + u "\u2B50" + u "\u2764" + u "\u2B50" + u "\u2764" + u "\u2B50" + u "\u2764" + "
+
+
+
+" + u "\u2709" + " Save the date! " + u "\u2709" + "
+
+
+
+Lauren and Thomas are delighted to invite you to our wedding.
+
+
+
+Saturday 3rd September 2016.
+
+
+
+Awesome Hall,
+
+Amazing Town
+
+
+
+The Ceremony begins at 2pm.
+
+
+
+More details will follow shortly!
+
+
+
+Please text YES if you are saving the date and can join us or text NO if sadly, you won't be able to be with us.
+
+
+
+" u "\u2B50" + u "\u2764" + u "\u2B50" + u "\u2764" + u "\u2B50" + u "\u2764" + u "\u2B50" + u "\u2764" if not guest_number : # No mobile number skip this guest print guest_name + ' telephone number empty not messaging' wks_attendees . update_acell ( 'E' + str ( num ) , '0' ) # set number to 0 else : print 'Sending message to ' + guest _ name client . messages . create ( to = "+" + guest_number , # add the + back to make the number e.164 from_ = "" , # your twilio number here body = message_body , ) wks_attendees . update_acell ( 'E' + str ( num ) , int ( wks_attendees . acell ( 'E' + str ( num ) ) . value ) + 1 ) # increment the message count row else : # else part of the loop print 'finished'
+
+As SMS can look a tad plain, I added in some unicode to spice things up. Here is what the message looked like to the lucky invitees:
+
+Next, I used Flask as my web server and set my Twilio Messaging Request URL to point to a /messages url and created simple if statements to parse replies (yes, no):
+
+hello_guest.py
+
+from twilio.twiml.messaging_response import MessagingResponse @app.route("/messages", methods=['GET', 'POST']) def hello_guest(): resp = MessagingResponse() from_number = request.values.get('From', None) from_body = request.values.get('Body', None) number = from_number body_strip = from_body.lower() if "yes" in body_strip: # We have a keeper! Find the attendee and update their confirmation_status wks_attendees.update_acell("F"+str(guest_confirmation_cell.row), 'Accepted') # update the status to accepted for that guest resp.message(u"\u2665" + "Thanks for confirming, we'll be in touch!" + u"\u2665") # respond to the guest with a confirmation! elif "no" in from_body.lower(): # update the confirmation_status row to declined for that guest wks_attendees.update_acell("F"+str(guest_confirmation_cell.row), 'Declined') # respond to the user confirming the action resp.message("Sorry to hear that, we still love you though!") else: # respond with invalid keyword resp.message("You sent a different keyword, we need a yes or a no, you sent: "+ from_body) return str(resp) 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 from twilio . twiml . messaging_response import MessagingResponse @ app . route ( "/messages" , methods = [ 'GET' , 'POST' ] ) def hello_guest ( ) : resp = MessagingResponse ( ) from_number = request . values . get ( 'From' , None ) from_body = request . values . get ( 'Body' , None ) number = from_number body_strip = from_body . lower ( ) if "yes" in body_strip : # We have a keeper! Find the attendee and update their confirmation_status wks_attendees . update_acell ( "F" + str ( guest_confirmation_cell . row ) , 'Accepted' ) # update the status to accepted for that guest resp . message ( u "\u2665" + "Thanks for confirming, we'll be in touch!" + u "\u2665" ) # respond to the guest with a confirmation! elif "no" in from_body . lower ( ) : # update the confirmation_status row to declined for that guest wks_attendees . update_acell ( "F" + str ( guest_confirmation_cell . row ) , 'Declined' ) # respond to the user confirming the action resp . message ( "Sorry to hear that, we still love you though!" ) else : # respond with invalid keyword resp . message ( "You sent a different keyword, we need a yes or a no, you sent: " + from_body ) return str ( resp )
+
+The first message was sent 8:37am on the 19th February and the first confirmation was received three minutes later at 8:40am. By 9:38am I had received twenty three confirmations, that’s a 32% acceptance rate! Two days after the initial mass message, we had 58% of guests confirmed! In spite of the clear success, my soon to be wife wasn’t completely sold on my SMS as a wedding invite service (SAAWIS?), so I decided to add some functionality to my app.
+
+Statistics! I could calculate the live attendance list and return it on demand, giving a would be bride instant feedback on how the guest list was shaping up. The code was pretty simple as I had already set up some rudimentary counters in the spreadsheet and so it was just a case of grabbing the contents of these cells and adding them to an SMS:
+
+hello_guest.py
+
+# attendance variables guest_confirmed = wks_attendees.acell('C70').value guest_unconfirmed = wks_attendees.acell('C71').value guest_no_response = wks_attendees.acell('C72').value guest_acceptance = wks_attendees.acell('C73').value elif "numbers" in from_body.lower(): # return statistics (total guests, food choices list) resp.message("R.S.V.P update:
+
+
+
+Total Accepted: " + guest_confirmed "
+
+
+
+Total declined: " guest_unconfirmed "
+
+
+
+Total no response: "+ guest_no_response + "
+
+
+
+Total acceptance rate: " + guest_acceptance) 1 2 3 4 5 6 7 8 9 10 11 12 # attendance variables guest_confirmed = wks_attendees . acell ( 'C70' ) . value guest_unconfirmed = wks_attendees . acell ( 'C71' ) . value guest_no_response = wks_attendees . acell ( 'C72' ) . value guest_acceptance = wks_attendees . acell ( 'C73' ) . value elif "numbers" in from_body . lower ( ) : # return statistics (total guests, food choices list) resp . message ( "R.S.V.P update:
+
+
+
+Total Accepted: " + guest _ confirmed "
+
+
+
+Total declined: " guest _ unconfirmed "
+
+
+
+Total no response: " + guest_no_response + "
+
+
+
+Total acceptance rate: " + guest_acceptance )
+
+Here is the resultant SMS message:
+
+
+
+Not exactly pretty, but pretty useful.
+
+The fact that Lauren could now keep track of attendance was a stress reliever. From that point forward it was all systems go and SMS was integrated into as many facets of the wedding as possible. Some were obvious, such as sending a notification SMS when the wedding website (powered by Heroku naturally) went live, sharing of gift lists and others I am still proud of today.
+
+Food, Glorious Food
+
+After setting up the R.S.V.P list, the area that is often most delayed is getting guests food choices confirmed You’d be surprised at how hard it is to get people to choose free food. The first step was to send out another SMS telling those guests that had accepted to visit the website and choose their food options via a Google form. Pretty standard stuff however, the form was set to populate the same workbook as attendees. This meant I now had spreadsheets of accepted guests, and those that had filled out the food selection form. Ordinarily I would then have to wait for guests to slowly choose their meals, but my wedding was powered by Twilio and that meant I could chase people with minimum effort.
+
+The data needed to match both spreadsheets on the guest name and update the guests food choice status if there was a match. This required a little extra work but once the code was sorted I could batch run the script on demand and get the latest status of my attendees choice at the end via SMS:
+
+food.py
+
+import json import time import gspread from oauth2client.client import SignedJwtAssertionCredentials from twilio.rest import Client # add file name for the json created for the spread sheet json_key = json.load(open('')) scope = ['https://spreadsheets.google.com/feeds'] credentials = SignedJwtAssertionCredentials(json_key['client_email'], json_key['private_key'].encode(), scope) gc = gspread.authorize(credentials) wks = gc.open("") # add your spreadsheet name here wks_attendees = wks.get_worksheet(0) # attendees worksheet wks_food = wks.get_worksheet(1) # food responses worksheet ACCOUNT_SID = 'TWILIO_ACCOUNT_SID' AUTH_TOKEN = 'TWILIO_AUTH_TOKEN' client = Client(ACCOUNT_SID, AUTH_TOKEN) # to iterate between 10 to 60 manual hack to ensure no guests not left out for num in range(2, 60): food_guest_name = wks_food.acell('B'+str(num)).value # food choice name column if food_guest_name: attendees_name = wks_attendees.find(val_food_guest_name).value attendees_name_row = wks_attendees.find(val_food_guest_name).row menu_status = wks_attendees.acell("G"+str(attendees_name_row)).value if food_guest_name == attendees_name: print if menu_status == 'Y': # data already matched, move on print('Skipping') else: # user has supplied their choices, update main spreadsheet print ('Food sheet name ' + food_guest_name + 'Attendees sheet name ' + attendees_name) # update menu choices row wks_attendees.update_acell("G"+str(attendees_name_row), 'Y') else: print('nothing found, moving on') wks_attendees.update_acell('E'+str(num), int(wks.acell('E'+str(num)).value) + 1) # increment the message count row else: # send message to the admin that the process has been completed with update stats client.messages.create(from_="", # twilio number here to="", # admin number here body="Finished processing current meal listnnGuest meals confirmed" + guest_meals_confirmed + "
+
+
+
+Guest meals unconfirmed: " + guest_meals_unconfirmed) 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 24 25 26 27 28 29 30 31 32 33 34 35 36 37 38 39 40 41 42 43 44 45 46 47 48 49 50 import json import time import gspread from oauth2client . client import SignedJwtAssertionCredentials from twilio . rest import Client # add file name for the json created for the spread sheet json_key = json . load ( open ( '' ) ) scope = [ 'https://spreadsheets.google.com/feeds' ] credentials = SignedJwtAssertionCredentials ( json_key [ 'client_email' ] , json_key [ 'private_key' ] . encode ( ) , scope ) gc = gspread . authorize ( credentials ) wks = gc . open ( "" ) # add your spreadsheet name here wks_attendees = wks . get_worksheet ( 0 ) # attendees worksheet wks_food = wks . get_worksheet ( 1 ) # food responses worksheet ACCOUNT_SID = 'TWILIO_ACCOUNT_SID' AUTH_TOKEN = 'TWILIO_AUTH_TOKEN' client = Client ( ACCOUNT_SID , AUTH_TOKEN ) # to iterate between 10 to 60 manual hack to ensure no guests not left out for num in range ( 2 , 60 ) : food_guest_name = wks_food . acell ( 'B' + str ( num ) ) . value # food choice name column if food_guest_name : attendees_name = wks_attendees . find ( val_food_guest_name ) . value attendees_name_row = wks_attendees . find ( val_food_guest_name ) . row menu_status = wks_attendees . acell ( "G" + str ( attendees_name_row ) ) . value if food_guest_name == attendees_name : print if menu_status == 'Y' : # data already matched, move on print ( 'Skipping' ) else : # user has supplied their choices, update main spreadsheet print ( 'Food sheet name ' + food_guest_name + 'Attendees sheet name ' + attendees_name ) # update menu choices row wks_attendees . update_acell ( "G" + str ( attendees_name_row ) , 'Y' ) else : print ( 'nothing found, moving on' ) wks_attendees . update_acell ( 'E' + str ( num ) , int ( wks . acell ( 'E' + str ( num ) ) . value ) + 1 ) # increment the message count row else : # send message to the admin that the process has been completed with update stats client . messages . create ( from_ = "" , # twilio number here to = "" , # admin number here body = "Finished processing current meal listnnGuest meals confirmed" + guest_meals_confirmed + "
+
+
+
+Guest meals unconfirmed: " + guest_meals_unconfirmed )
+
+Now that there was a confirmed list of guests and a growing list of food choices, it made sense to make those stats public via the main application. All that was needed was grab the contents of the relevant cells and reply with an SMS:
+
+Hello_guest.py
+
+# respond with the current food totals and the meal choices elif "food" in body_strip.strip(): resp.message("Guest meals decided:" + guest_meals_confirmed + "
+
+Guest meals undecided: " + guest_meals_unconfirmed + "
+
+
+
+Menu breakdown:
+
+
+
+" + starter_option_1 +": " + starter_option_1_amount + "
+
+" + starter_option_2 +": " + starter_option_2_amount + "
+
+" + starter_option_3 +": " + starter_option_3_amount + "
+
+" + main_option_1 +": " + main_option_1_amount + "
+
+" + main_option_2 +": " + main_option_2_amount + "
+
+" + main_option_3 +": " + main_option_3_amount + "
+
+" + dessert_option_1 + ": " + dessert_option_1_amount + "
+
+" + dessert_option_2 + ": " + dessert_option_2_amount) 1 2 3 4 5 6 7 8 9 10 11 12 13 # respond with the current food totals and the meal choices elif "food" in body_strip . strip ( ) : resp . message ( "Guest meals decided:" + guest_meals_confirmed + "
+
+Guest meals undecided: " + guest_meals_unconfirmed + "
+
+
+
+Menu breakdown:
+
+
+
+" + starter_option_1 + ": " + starter_option_1_amount + "
+
+" + starter_option_2 + ": " + starter_option_2_amount + "
+
+" + starter_option_3 + ": " + starter_option_3_amount + "
+
+" + main_option_1 + ": " + main_option_1_amount + "
+
+" + main_option_2 + ": " + main_option_2_amount + "
+
+" + main_option_3 + ": " + main_option_3_amount + "
+
+" + dessert_option_1 + ": " + dessert_option_1_amount + "
+
+" + dessert_option_2 + ": " + dessert_option_2_amount )
+
+This was very handy in keeping the wedding caterers informed of our progress and provided actionable data on who had not made their selection. Chasing guests was another candidate for automation. Simply iterate through the list of attendees and find the naughty guests that had not chosen a meal option and send them a message!
+
+Chase.py
+
+for num in range(2, 72): # manual hack to ensure no guests not left out print "sleeping for 3 seconds" time.sleep(3) # adding a delay to avoid carrier filtering wedding_guest_number = wks_attendees.acell('B'+str(num)).value # grab attendee tel number wedding_guest_name = wks_attendees.acell('A'+str(num)).value # grab attendee name menu_guest = wks_attendees.acell('G'+str(num)).value if not wedding_guest_number: print wedding_guest_name+' telephone number empty not messaging' # output to console that we are not messaging this guest due to lack of telephone number wks_attendees.update_acell('H'+str(num), '1') # increment the message count row for the individual user else: if menu_guest == "N": # guest has not chosen food! CHASE THEM! print 'Sending message to '+wedding_guest_name client.messages.create( to="+" + wedding_guest_number, from_="", # your Twilio number here body="If you have received this message, you have not chosen your food options for Tom & Lauren's Wedding!
+
+
+
+You can pick your choices via the website, no paper or postage required!
+
+
+
+http://www.yourwebsitehere.com/food" ) wks_attendees.update_acell('H'+str(num), int(wks_attendees.acell('H'+str(num)).value) + 1) # increment the message count row for the individual user else: # else part of the loop print 'finished' 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 22 23 for num in range ( 2 , 72 ) : # manual hack to ensure no guests not left out print "sleeping for 3 seconds" time . sleep ( 3 ) # adding a delay to avoid carrier filtering wedding_guest_number = wks_attendees . acell ( 'B' + str ( num ) ) . value # grab attendee tel number wedding_guest_name = wks_attendees . acell ( 'A' + str ( num ) ) . value # grab attendee name menu_guest = wks_attendees . acell ( 'G' + str ( num ) ) . value if not wedding_guest_number : print wedding_guest_name + ' telephone number empty not messaging' # output to console that we are not messaging this guest due to lack of telephone number wks_attendees . update_acell ( 'H' + str ( num ) , '1' ) # increment the message count row for the individual user else : if menu_guest == "N" : # guest has not chosen food! CHASE THEM! print 'Sending message to ' + wedding_guest _ name client . messages . create ( to = "+" + wedding_guest_number , from_ = "" , # your Twilio number here body = "If you have received this message, you have not chosen your food options for Tom & Lauren's Wedding!
+
+
+
+You can pick your choices via the website, no paper or postage required!
+
+
+
+http://www.yourwebsitehere.com/food" ) wks_attendees . update_acell ( 'H' + str ( num ) , int ( wks_attendees . acell ( 'H' + str ( num ) ) . value ) + 1 ) # increment the message count row for the individual user else : # else part of the loop print 'finished'
+
+The big day approached faster than we could imagine. The only thing left to do was send a final SMS to remind guests of the basic details and to arm themselves with an umbrella to ward off the typically rainy British summer time:
+
+In Summary
+
+Weddings are never simple affairs and it can feel like a lot of aspects are outside of your control. Automating certainly made my life easier by providing a direct channel with our guests and a myriad of different ways I could track, nudge and poke them into responding. It helped us become proactive over a notoriously time consuming aspect of the wedding, freeing us to focus on other important areas of the big day.
+
+Building scalable solutions to complex problems is never easy, even in its final form my application was fragile at times. I had planned to build out a more complete solution with data visualizations on progress, voice integration and less reliance on CLI scripts but time got the better of me. Overall I’m happy with how it worked out. No communication system is perfect. You need to implement the channel that best fits your audience, be it SMS, Voice, Chat, Video, or semaphore.
+
+If you want to talk about wedding automation, I’m @seektom on Twitter.

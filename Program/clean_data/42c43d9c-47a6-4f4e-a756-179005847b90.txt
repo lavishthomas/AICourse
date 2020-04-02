@@ -1,0 +1,111 @@
+In recent months, we’ve seen many important technically focused Google announcements, such as an update on JavaScript crawling support, the migration toward mobile-first indexing, the release and extended support of AMP in search results and the expansion of search results features, from rich snippets to cards to answers.
+
+As a result, a number of technical items must be taken into consideration when doing an SEO audit to validate crawlability and indexability, as well as to maximize visibility in organic search results:
+
+1. Mobile web crawling
+
+Google has shared that a majority of its searches are now mobile-driven and that they’re migrating toward a mobile-first index in the upcoming months. When doing a technical SEO audit, it is now critical to not only review how the desktop Googlebot accesses your site content but also how Google’s smartphone crawler does it.
+
+You can validate your site’s mobile crawlability (errors, redirects and blocked resources) and content accessibility (Is your content correctly rendered?) with the following technical SEO tools:
+
+Google page-level mobile validators: Google’s Mobile-Friendly Test and Search Console’s “Fetch as Google” functionality (with the “Mobile: Smartphone” Fetch and Render option) are the simplest and best ways to check how Google’s mobile crawler “sees” any given page of your site, so you can use them to check your site’s top pages’ mobile status. Additionally, Google Search Console’s “Mobile Usability” report identifies specific pages on your site with mobile usability issues.
+
+Google’s Mobile-Friendly Test and Search Console’s “Fetch as Google” functionality (with the “Mobile: Smartphone” Fetch and Render option) are the simplest and best ways to check how Google’s mobile crawler “sees” any given page of your site, so you can use them to check your site’s top pages’ mobile status. Additionally, Google Search Console’s “Mobile Usability” report identifies specific pages on your site with mobile usability issues. SEO crawlers with a ‘Smartphone Googlebot’ option: Most SEO crawlers now offer the option to specify or select a user agent, allowing you to simulate Google’s mobile crawler behavior. Screaming Frog SEO Spider, OnPage.org, Botify, Deepcrawl and Sitebulb all allow you to simulate the mobile search crawler behavior when accessing your site. Screaming Frog also lets you view your pages in a “List” mode to verify the status of a specific list of pages, including your rendered mobile pages.
+
+Most SEO crawlers now offer the option to specify or select a user agent, allowing you to simulate Google’s mobile crawler behavior. Screaming Frog SEO Spider, OnPage.org, Botify, Deepcrawl and Sitebulb all allow you to simulate the mobile search crawler behavior when accessing your site. Screaming Frog also lets you view your pages in a “List” mode to verify the status of a specific list of pages, including your rendered mobile pages. SEO targeted log analyzers: Last year, I wrote about the importance of doing log analysis for SEO and the questions that this would allow us to answer directly. There are log analyzers that are now completely focused on SEO issues, such as Screaming Frog Log analyzer (for smaller log files), Botify and OnCrawl (for larger log files). These tools also allow us to easily compare and identify the existing gap of our own crawls vs. what the mobile Googlebot has accessed.
+
+If you want to learn more about Mobile-First SEO, you can check out this presentation I did a couple of months ago.
+
+2. JavaScript crawling behavior & content rendering
+
+Three years ago, Google announced they were now able to execute JavaScript in order to better understand pages. However, JavaScript tests — like this recent one from Bartosz Goralewicz or this one from Stephan Boyer — have shown that it depends on the way it’s implemented and the framework that’s used.
+
+It’s then critical to follow certain best practices, with a progressive enhancement approach to keep content accessible, as well as to avoid others, such as the former AJAX Crawling proposal, and only rely on JavaScript if it’s completely necessary. Indeed, tests run by Will Critchlow also showed results improvements when removing a site’s reliance on JavaScript for critical content and internal links.
+
+When doing an SEO audit, it is now a must to determine if the site is relying on JavaScript to show its main content or navigation and to make sure it is accessible and correctly rendered by Google.
+
+At the page level, you can verify JavaScript crawling behavior and rendering again with Google Search Console’s “Fetch as Google” functionality, or with Chrome’s DevTools, by checking any page DOM with the elements panel and comparing it with what Google’s shows in its cache version, as shown in the screen shot below.
+
+For site-wide JavaScript crawling validation, you can use SEO crawlers like Sitebulb or Screaming Frog SEO Spider (which supports JavaScript Rendering through the “Spider Configuration”). As also shown in the screen shot above, you’ll be able to see how the content is rendered and if any required resources are blocked. For larger sites, you can use Botify, too, which has an on-demand JavaScript crawling option.
+
+3. Structured data usage & optimization
+
+Google SERPs haven’t been the traditional “10 blue links” for a long time, thanks to universal search results’ images, videos and local packs; however, the evolution took the next step with the launch and ongoing expansion of features like rich snippets, rich cards, knowledge panels and answer boxes. These features, according to SERP monitors like Mozcast and RankRanger, are now included in a non-trivial percentage of search results.
+
+This shift means that attracting more clicks and visits through SEO efforts is now achieved not only through ranking well in organic listings but also by maximizing your site’s page visibility through these SERP features. In many cases, obtaining these display enhancements is a matter of correctly implementing structured data, as well as formatting and targeting your content to answer queries, where even modifiers can generate a change.
+
+It has become critical to understand which of your popular and relevant queries can provide you more visibility through these various SERP features. By understanding which content has the opportunity to gain an enhanced display in SERPs, you can optimize that content accordingly with structured data and relevant formatting. You can identify these opportunities with search competition and keywords tools like SEMrush, Ahrefs and the Moz Keyword Explorer.
+
+Once you identify which of your content you should format and optimize with structured data, you can use Google’s search gallery examples as a reference to do it and verify its implementation with the Structured Data Testing tool (as well as the Google Search Console’s Structured Data and Rich Cards reports).
+
+It’s also important to start monitoring which SERP features you actually start ranking for and their traffic impact, which you can do through Google’s Search Console Search Analytics report with the “Search Appearance” and “Search Type” filters, as well as with rank-tracking tools like SEOmonitor that (as seen in the screen shot below) can look at your competitors, too.
+
+4. AMP configuration
+
+Designed to provide a “simpler” HTML version of your pages using optimized resources and its own cache to serve them faster in mobile search results, AMP has become a must for media websites and blogs, as well as sites with mobile speed issues that don’t have the flexibility of improving their existing pages.
+
+AMP is now required to be included in Google’s news carousel, and its presence has “skyrocketed” in Google news. It’s also given preference over app deep links in search results, continues to be expanded through image results, and now will also be supported by Baidu in Asia.
+
+Many sites (especially publishers) have adopted AMP as a result of these recent developments, so it’s key for your technical SEO audit to check a website’s AMP implementation and verify that it complies with Google’s requirements to be shown in search results.
+
+Sitewide validation
+
+You can configure SEO crawlers to verify your AMP pages’ existence and status code with custom HTML extraction through Screaming Frog, OnPage.org and Botify. Additionally, as shown below, more SEO crawlers directly support the AMP validation with reports directly notifying of its existence, as SEMrush Site Audit functionality does, or even verifying common issues with its implementation, which Sitebulb does.
+
+Page-level validation
+
+It’s also recommended to examine certain pages individually for proper AMP implementation. You should review both your most important pages and those you have identified issues with when validating your overall site with SEO crawlers. This will provide you with more information about the existing errors in them, as well as how to fix them.
+
+You can do this page-level validation by directly testing your code with the official AMP Playground to check if they pass the validation, and you can also use Chrome’s AMP Validator to verify that the current page in the browser has an AMP version and notify of errors.
+
+AMP pages can also be validated at a page-by-page level through Chrome’s DevTools, as well as the Official AMP validator and Google’s AMP Test, which, besides specifying if it passes or not, will also point out any issues and show a preview of how the page will look in mobile search results.
+
+Ongoing monitoring
+
+Once you’ve verified that AMP has been properly implemented and any errors have been fixed, you’ll be able to monitor if there are any remaining issues through Google Search Console AMP report. In addition to noting errors in the AMP pages, it will also mark their level of “severity,” showing as “critical” those errors that will prevent your AMP pages from being shown in Google’s search results, specifying which are pages with the issue and noting which you should prioritize to fix.
+
+Besides correctly setting and monitoring analytics, it’s important to directly monitor the visibility of AMP in Google search results, as well as its impact on your site traffic and conversions.
+
+As shown below, this can be done through the Search Analytics monitor in Google Search Console, via the “Search Appearance” filter. You can obtain more information with rank trackers like SEOmonitor, which is now showing when a query is producing an AMP result for your site.
+
+If you want to learn more about AMP implementation, take a look at the presentation I did about it a few months ago.
+
+5. HTTPS configuration
+
+Since mid-2014, Google has been using HTTPS as a ranking signal; last year, they also announced that to help users have a safer browsing experience, they would start marking HTTP pages that collected passwords or credit cards as “Not secure.”
+
+It shouldn’t be a surprise that HTTPS migrations started to be prioritized as a result, and now over 50 percent of the pages loaded by Firefox and Chrome are using HTTPS, as well as half of page 1 Google search results. HTTPS has already become critical, especially for commerce sites, and not just because of SEO — it’s also essential to providing a trustworthy and secure user experience.
+
+
+
+When doing an SEO audit, it’s important to identify whether the analyzed site has already done an HTTPS migration taking SEO best practices into consideration (and recovered the lost organic search visibility and traffic to pre-migration levels).
+
+If the site hasn’t yet been migrated to HTTPS, it’s essential to assess the feasibility and overall importance of an HTTPS migration, along with other fundamental optimization and security aspects and configurations. Provide your recommendations accordingly, ensuring that when HTTPS is implemented, an SEO validation is done before, during and after the migration process.
+
+To facilitate an SEO-friendly execution of HTTP migrations, check out the steps described in these guides and references:
+
+Here are some of the most important SEO-related validations to make during an HTTPS migration:
+
+Make sure you can migrate all of the content and resources — including images, JS, CSS and so on — that you use in your pages. If you’re using subdomains or other properties for CDNs, you will need to make sure to migrate them to start using HTTPS, too — otherwise you will end up having mixed content issues, as you will be showing non-secure content through your HTTPS pages. Be careful if you’re hotlinking, too, as the images might not be shown through HTTPS.
+
+Audit your web structure before migrating to make sure you consistently link, canonicalize, 301 redirect and refer in Hreflang and XML sitemaps to the original versions of each URL that you will later migrate. Make sure it will be feasible to update all of these settings to refer and link to the HTTPS URLs consistently, as well as to 301 redirect toward them when the migration happens.
+
+Gather your top pages from a visibility, traffic and conversion perspective to monitor more closely when the migration is executed.
+
+Create individual Google Search Console profiles for your HTTPS domains and subdomains to monitor their activity before, during and after the migration, taking into consideration that for HTTPS migrations, you can’t use the “change of address” feature in Google Search Console.
+
+Here are some tools that can be very helpful throughout the HTTPS migration process:
+
+For the implementation To help select the best SSL certificate, check out The SSL Certificate Wizard. To facilitate HTTP implementation in WordPress, use Really Simple SSL WordPress Plugin. To obtain the redirect rules to use in htaccess, use HTTP to HTTPS Redirect Generator.
+
+For validation and monitoring To follow up with Google’s “official” crawling, indexation and organic search visibility information activity between the HTTP and HTTPS domains, it’s a must to use Google Search Console individual properties and sets. For SSL Checking & Mixed Content Issues, you can use SSL Shopper, Why No Padlock? and Google Chrome DevTools. To emulate Googlebot for both desktop and mobile, use SEO crawlers like Screaming Frog, OnPage.org, Botify, Sitebulb, Deepcrawl and SEMrush Site Audit, which features a report about HTTPS implementation showing the most common issues. To verify the direct crawling activity from the Googlebot in your HTTP and HTTPS URLs, use log analyzers like Screaming Frog Log Analyzer, Botify or OnCrawl.
+
+
+
+If you want to learn more about best SEO practices for HTTPS implementation, take a look at the presentation I did about it a few months ago.
+
+Start your audits!
+
+I hope these tips and tools help you to better prioritize and develop your SEO audits to tackle some of the new and current most important issues and opportunities.
+
+Some opinions expressed in this article may be those of a guest author and not necessarily Search Engine Land. Staff authors are listed here.

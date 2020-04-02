@@ -1,0 +1,31 @@
+According to Edward Snowden, people who care about their privacy should stay away from popular consumer Internet services like Dropbox, Facebook, and Google.
+
+Snowden conducted a remote interview today as part of the New Yorker Festival, where he was asked a couple of variants on the question of what we can do to protect our privacy.
+
+His first answer called for a reform of government policies. Some people take the position that they “don’t have anything to hide,” but he argued that when you say that, “You’re inverting the model of responsibility for how rights work”:
+
+When you say, ‘I have nothing to hide,’ you’re saying, ‘I don’t care about this right.’ You’re saying, ‘I don’t have this right, because I’ve got to the point where I have to justify it.’ The way rights work is, the government has to justify its intrusion into your rights.
+
+He added that on an individual level, people should seek out encrypted tools and stop using services that are “hostile to privacy.” For one thing, he said you should “get rid of Dropbox,” because it doesn’t support encryption, and you should consider alternatives like SpiderOak. (Snowden made similar comments over the summer, with Dropbox responding that protecting users’ information is “a top priority.”)
+
+[Update: In a June blog post related to Snowden, Dropbox actually says, “All files sent and retrieved from Dropbox are encrypted while traveling between you and our servers,” as well as when they’re “at rest on our servers,” and it points to other security measures that the company is taking. The difference between Dropbox and SpiderOak, as explained elsewhere, is that SpiderOak encrypts the data while it’s on your computer, as opposed to only encrypting it “in transit” and on the company’s servers.]
+
+[And here’s a more complete Snowden quote, from around 1:04:55 in the video: “We’re talking about encryption. We’re talking about dropping programs that are hostile to privacy. For example, Dropbox? Get rid of Dropbox, it doesn’t support encryption, it doesn’t protect your private files. And use competitors like SpiderOak, that do the same exact service but they protect the content of what you’re sharing.”]
+
+He also suggested that while Facebook and Google have improved their security, they remain “dangerous services” that people should avoid. (Somewhat amusingly, anyone watching the interview via Google Hangout or YouTube saw a Google logo above Snowden’s face as he said this.) His final piece of advice on this front: Don’t send unencrypted text messages, but instead use services like RedPhone and Silent Circle.
+
+Earlier in the interview, Snowden dismissed claims that increased encryption on iOS will hurt crime-fighting efforts. Even with that encryption, he said law enforcement officials can still ask for warrants that will give them complete access to a suspect’s phone, which will include the key to the encrypted data. Plus, companies like Apple, AT&T, and Verizon can be subpoenaed for their data.
+
+Beyond the privacy discussion, Snowden talked about how and why he decided to leak documents bringing the government’s electronic surveillance programs to light. He repeatedly claimed that he wasn’t pursuing a specific policy outcome, but just trying to have an open conversation about these issues:
+
+We can have secret programs. You know, the American people don’t have to know the name of every individual that’s under investigation. We don’t need to know the technical details of absolutely every program in the intelligence community. But we do have to know the bare and broad outlines of the powers our government is claiming … and how they affect us and how they affect our relationships overseas. Because if we don’t, we are no longer citizens, we no longer have leaders. We’re subjects, and we have rulers.
+
+As for why Snowden hasn’t come back to the United States to stand trial, he said that when he looked at how the U.S. government treated whistleblowers like Thomas Drake and Chelsea Manning, he became convinced that he wouldn’t be able to present his case to a jury in an open trial.
+
+“I’ve told the government again and again in negotiations, you know, that if they’re prepared to offer an open trial, a fair trial in the same way that Dan Ellsberg got, and I’m allowed to make my case to the jury, I would love to do so,” he said. “But to this point they’ve declined.”
+
+Snowden acknowledged that there’s some irony in his taking shelter in China and Russia, countries that don’t exactly have spotless human rights or privacy records themselves. He said Russia was supposed to be a transit point on his way to Latin America — but his passport was canceled while he was at the Moscow airport.
+
+The New Yorker’s Jane Mayer ended the interview on a light note, suggesting that Snowden was now free to enjoy some vodka. He replied, “I actually don’t drink alcohol. Little-known fact: I’ve never been drunk.”
+
+Here’s a full video of the interview. The discussion of privacy and consumer Internet services (which, again, consisted of two questions in a row) begins at around 58:30.

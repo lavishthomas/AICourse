@@ -1,0 +1,73 @@
+It was great while it lasted, but I finally broke up with Gmail. Though I had relied on Google’s popular email service for years, my level of satisfaction had been dropping steadily for a while, and changes in the Mavericks version of Mail (about which I’ve ranted at some length) were the last straw. Now I’m returning to a good old-fashioned IMAP server, and I’m not looking back.
+
+Lots of people are blissfully content with Gmail. If you’re one of them, far be it from me to change your mind. But I want to tell you what I found problematic about Gmail—and exactly what I did about it.
+
+What’s wrong with Gmail
+
+Gmail does a great job of filtering spam and searching for content, and Google offers Gmail users a generous 15GB of free storage space (shared with other Google services). If you want to use your own domain name with your Gmail account (a necessity for me), you can sign up for Google Apps for Business, which starts at $5 per month per user and includes various additional features. At one time Google offered a free edition of Google Apps, and users like me who signed up while it was still free got to keep their accounts, for up to 10 users, at no charge. All in all, a pretty sweet deal.
+
+I was never greatly troubled by Google’s use of keyword scanning or the reports of government back doors to data. My main gripes were more practical.
+
+Many people who’ve been turning away from Gmail these days cite privacy as their main concern, but that was a comparatively minor issue for me. I was never greatly troubled by Google’s use of keyword scanning to display targeted ads; as for the reports of government backdoors into Google’s data, I’ve always assumed that I have to encrypt email myself if I want to keep it completely private.
+
+My main gripes were more practical. For example:
+
+Outages: Several extended, widespread Gmail outages have occurred in the past few years, leaving me without email access at critical times.
+
+Nonstandard handling of messages: Many people swear by Gmail’s idiosyncratic approach to processing and labeling email, but it didn’t suit my needs. Instead, I always wanted Gmail to work like a conventional IMAP server. Even though you can access Gmail via IMAP, Gmail’s IMAP implementation is highly nonstandard—and I could never achieve exactly the behavior I wanted.
+
+Limits on simultaneous IMAP connections: Gmail limits the number of simultaneous IMAP connections to 15, which seems like a reasonable number—except that a single copy of Apple Mail uses several connections at once. As a result, I couldn’t have Mail open and connected to my Gmail account on all of my Macs and iOS devices at the same time; when I connected to more than three devices (give or take), I’d start getting error messages.
+
+Problems sending mail: Sending outgoing mail via Gmail from my Web server—which I did, for example, when transmitting online contact forms—produced odd results, such as always including my own email address as the From address.
+
+Buggy implementation in Mavericks Mail: Apple Mail in Mavericks treats Gmail differently than previous versions did; and on paper, that’s a good thing. For example, it can now eliminate duplicate messages that previously wasted disk space and bandwidth. Unfortunately, Mail’s performance with Gmail was so poor and buggy during my first week or so of using Mavericks that I wound up leaving Gmail open in a Web browser the whole time.
+
+Some of my complaints are specific to Apple Mail, and I did consider switching email clients. But I’ve never found one that offers the features I rely on from a combination of Mail and third-party plugins.
+
+Some of my complaints are specific to Apple Mail, and I did consider switching email clients. But though I’ve tried many other clients (such as Bloop’s $2 Airmail, the $10 Postbox, and Google’s $10 Sparrow), I’ve never found one that offers all the features I rely on from a combination of Mail and half a dozen third-party plugins. In any case, even a perfect client wouldn’t solve Gmail’s privacy issues, outages, and wacky IMAP implementation.
+
+How to move to another provider
+
+Once I decided to drop Gmail, I had to settle on an IMAP provider to use instead. I investigated dozens of paid services, including FastMail, Hushmail, and Pobox. Although each provider had its strengths (some are especially good at spam filtering, while others have extra bells and whistles), I settled on a rather obscure choice: EasyDNS. I’ve long relied on this Canadian company to provide DNS services for several of my domains, and its $40-per-year DNSPro package, which I was already using, includes a full-featured webmail/IMAP service called EasyMail. Since my domains were already managed there, setup was extra easy—and switching to EasyMail Apart cost me no extra money.
+
+The steps involved in moving your email from Gmail to another provider vary depending on the type and configuration of the server that the new provider uses, as well as on how you manage your DNS records. But in broad strokes, these are the main steps:
+
+Start with a local copy of everything: I’m assuming that you use IMAP with Gmail, and that your email client is configured (as most are, by default) to store local copies of all your messages. You should also have a backup of all those messages (using the backup tool of your choice), just in case.
+
+If you used a custom domain name, you must change DNS records that used to point at Google so they point at your new provider. EasyDNS automates that entire process.
+
+Change your DNS settings: If (and only if) you used a custom domain name with Gmail, you’ll have to log in to your domain registrar’s or DNS provider’s site and change the records that currently point to Gmail’s mail servers so that they instead point to your new IMAP provider. (Your new provider should be able to tell you what settings to use.)
+
+Set up new mailboxes and aliases: You’ll need one mailbox on your new IMAP server for each user you’re moving. If you used a custom domain, you’ll want the new email accounts to be exactly the same as the old ones. If you had set up any aliases (that is, extra addresses that point to a single account) in Gmail, configure those for the new provider, too.
+
+Forward your Gmail: If you did not use a custom domain—meaning that your address ended in @gmail.com or @googlemail.com—log in to your Gmail account on the Web (just as before), click the gear icon, and choose Settings from the pop-up menu. Click Forwarding and POP/IMAP, and then click Add a Forwarding Address. Type the address of your new account, and follow the prompts to confirm it. By performing this step, you’ll ensure that email sent to your Gmail address will still reach you.
+
+Add a new account in Mail, choose 'Other', and follow the prompts to set up your new IMAP account.
+
+Add the new account in Mail: In Mail, choose Mail > Preferences, click Accounts, and click the plus (+) button. Select Add Other Mail Account and follow the instructions to add an IMAP account with the username, password, and server addresses of your new provider. After you enter your credentials, Mail will attempt to automatically configure the account; if automatic configuration fails (which is likely), Mail will prompt you to enter the necessary details manually.
+
+At this point, you have both your old Gmail account and your new IMAP account set up in Mail. Incoming messages will start flowing into the new account shortly, but you’ll still be able to access your Gmail account. That’s important, because it enables you to perform the next step.
+
+
+
+
+
+
+
+Drag a mailbox to your new IMAP account in Mail's sidebar to copy it. But note that you may also have to drag and drop the contents of the old mailbox into the new one to copy all your messages.
+
+Move your mailboxes and messages: Choose Mailbox > New Mailbox and create a mailbox (any name will do) in your new IMAP account. Doing this forces that account name to appear in Mail’s sidebar. Now you can drag a mailbox from your Gmail account in the sidebar to the new IMAP account label to copy it to the new location.
+
+In some cases, this move copies only the mailbox and not its contents; you may have to go back to the Gmail mailbox, select everything inside it, drag it to the corresponding mailbox on the new IMAP server, and repeat as needed. (I recommend choosing Window > Activity to keep an eye on the progress; it can take a longtime.)
+
+Once you’ve confirmed that all your messages and mailboxes have moved from Gmail to the new account, you can remove the Gmail account from Mail. In Mavericks, you must select the account in the Internet Accounts pane of System Preferences and click the minus (-) button.
+
+Moving from Gmail doesn’t mean you can’t continue using all the other features of your Google account—Google Drive, Google Calendar, and so on.
+
+Odds and ends
+
+Moving from Gmail doesn’t mean you can’t continue using all the other features of your Google account—Google Drive, Google Calendar, and so on. They will keep working with your existing credentials, even with Google Apps for Business. You just won’t receive any more incoming mail in your Gmail Inbox.
+
+Note that if you used Gmail’s server-side filters to process incoming messages, you’ll have to re-create them on your new provider’s website, and you may have to fiddle with rules in Mail (or another client) to make them work correctly with your new account.
+
+But most of the hassle is simply the tedium of the transfer process. Once that’s done, you can relax and join me in enjoying a Gmail-free IMAP experience.

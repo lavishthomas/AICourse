@@ -1,0 +1,59 @@
+Taking digital designs into the real world can be fraught with gotchas and gremlins. We’re so used to the world being digital that we’ve mostly forgotten how to prep our work for poster printing.
+
+If you’re thinking of doing a run of poster designs for a campaign, party, gig or simply to adorn your own walls with, here’s a guide to how to print your work. Follow our tips and you'll soon be poster printing with confidence – and you'll no longer have to worry about that guy in the print shop laughing at you...
+
+01. CMYK or RGB?
+
+Work in CMYK rather than RGB
+
+If you're producing your own poster designs with the intention of taking these to a poster printing shop, then make sure you're working in the CMYK colour space rather than RGB.
+
+In Photoshop you can easily switch to this mode via 'Image > Mode > CMYK color', to give you a more accurate representation of how your colours will print.
+
+02. Converting to CMYK
+
+If you’ve been working in RGB and have converted your work to CMYK, just before you send the file for printing you may notice the greens and blues in your image have become lifeless and dull. You can use Photoshop’s Gamut warning tool ('File > View > Gamut warning') to highlight the colours that will have trouble converting from RGB to CMYK.
+
+The RGB colour space has a greater array of colours than CMYK. Remember: all the computer-specific colours you pick in Photoshop for your poster then have to printed with a selection of real-world inks. Those that can't be replicated will become 'out of gamut', and be printed with what is possible with the available inks.
+
+03. Set the right resolution
+
+Set the correct DPI and your poster won't look too blurry (image: Luke Woodhouse)
+
+Print files are BIG. One of the most common delays in poster printing jobs is work being sent back by the printer because the resolution is too low. Files destined for print should be set to 300 DPI (dots per inch). Simply put, the more dots that make up the image, the higher the resolution. More printed dots in an inch means a higher-quality reproduction.
+
+When resolutions are too low the end result can be a blurred and pixelated poster. In Photoshop you can set the dots per inch on creating a new document by going to 'File > New' and entering 300 in the Resolution box.
+
+04. Set the right size for poster printing
+
+Popular poster printing sizes are A2 (594mm x 420mm), A3 (420mm x 297mm) and A4 (297mm x 210mm). Paper choice and weight can be discussed with your printer but 170gsm Silk or Gloss Art FSC or 150gsm are good choices. GSM stands for grams per square meter and determines how heavy the paper stock is.
+
+05. How to supply your files
+
+Supply your files as PDFs or tiffs with no compression (image: Franz Jeitz)
+
+Supply your print files in the PDF format (print resolution at 300 DPI) or tiffs with no compression at the same DPI. It is possible to send JPGs if they’re high-res enough. So if you just want to print a poster of your pet pooch from a photo on your smartphone you can do this by sending a JPG, but be warned: the edges of the photo will be cut off and the colour will shift.
+
+06. What is litho printing?
+
+A wide variety of mass-produced print items (books, posters, newspapers and so on) are produced using litho printing. Put simply, a litho print involves the printer making a set of 'plates' that are used to press the image to the paper.
+
+Creating these plates comes at a cost and doesn’t offer the immediacy of digital poster printing. The initial outlay can be expensive but if you’re doing a large print run and want to output up to A1, it’s the process that offers a higher quality print and finish than digital printing.
+
+07. Digital vs litho printing
+
+You have two choices for poster printing: digital or litho. (Well, okay you have three: you can always print at home. But chances are you don’t have a printer big enough.)
+
+The choice between digital and litho printing will mostly be dependent on the money you have for the print job and how soon you need it doing. Digital printing with inkjet or laser printers is the cheaper and quicker of the two and good for smaller print runs. If budget is an issue and you’re not being too exacting over the quality, go with digital printing. This is also fine if you're not going above A3.
+
+08. Choose the right poster printing shop
+
+Do your homework and ask around to find the best printer for your needs
+
+Different printers have different levels of expertise, so it's worth doing your homework and getting personal recommendations. Also make sure you tailor the printer to the job at hand.
+
+In the UK, for example, Metroprint is well known for high quality wand specialist work as well as being one of the few places around to use laser light source printers and genuine black and white photographic prints. For high quality crystal clear prints on heavy stock quality Kodak paper these are the people to visit.
+
+However, you might just want to print lots of stuff digitally without a special finish or on the highest grade paper. So don't write off high street poster printing at places such as Prontaprint and Snappy Snaps. There's a reason they're everywhere: they offer a decent, affordable service and will print your photo posters direct from a memory stick, mobile phone, Instagram or Facebook, and can help you enhance your work with a range of photo art effects.
+
+Next page: bleed rules, vectors, and the final checks you should be making...

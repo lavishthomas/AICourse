@@ -1,0 +1,51 @@
+Leading change in any large organization is hard, and the U.S. Department of State is a seriously big bureaucracy. Until early November, I helped lead a relatively small (400-person) bureau within it. My experience as a digital leader in the Obama administration confirmed my optimism that change can come to large bureaucracies.
+
+Witnessing both failure and success in government, I saw three common elements required to realize positive organizational change.
+
+Establish Credibility — with Humility
+
+My first challenge was that I was a political appointee, an interloper coming into a sea of dedicated career government workers. Nobody likes the outsider who comes in saying everyone is wrong, and who is arrogantly convinced that they are the smartest person in the room.
+
+I needed to establish my bona fides and credibility. One thing in my favor was that I grew up the son of a Foreign Service officer. I remember the frequent, unfiltered comments my father made regarding political interlopers. Fast-forward 20 years and I was one of those political appointees. Oh, the irony! So of course I called my father for advice on how not to be one of those guys.
+
+His advice was to recognize that everyone I would meet in my bureau could do their jobs just fine without me; they had done so for years, sometimes decades, and would continue long after my departure. I, on the other hand, could do absolutely nothing without their support. If I listened to my team and provided ample backing, they could do incredible things, and together we could really push the place forward.
+
+And so I got to know all 140 people on my team, one by one, over lunch. I asked them questions and listened to their problems and ideas. There was the woman who had a master’s in journalism and now managed global technology projects; the guy who handled multimillion dollar contracts during the day and was an astrophotographer at night; the pilot in the Air Force Reserve who regularly flew congressional delegations overseas.
+
+I shared with them my strong belief that, collectively, we were responsible for leaving the place better than we found it. And that without strong contributions from many individuals, we would not succeed.
+
+Reduce Risk and Demonstrate Its Value
+
+One would think that getting full buy-in from everyone would be the ultimate goal in organizational change, but government does not work that way, and neither does any large organization. Successful change requires strong leadership, working in lockstep with good people to move the rest of the organization in the right direction.
+
+From the beginning, we saw the similarities to political advocacy campaigns:
+
+Our base of supporters. Roughly 20% of the workforce was enthusiastic for the radical changes we were pushing. These were the groups we found most innovative, collaborative, and receptive to new ideas, as well as to sharing their own ideas.
+
+Our opposition. A small minority of around 10% were cynical and uninterested in changes. Not only that, but a subset of this group was even subversively obstructionist, spreading rumors or disinformation. To them, change was a threat to the status quo with which they had become comfortable.
+
+The undecideds and swing voters. The remaining 70% was the group we needed to convince. They were neither enthusiastically in favor of our ideas nor against them.
+
+Winning our campaign for change required two things: reducing the risk of changing and demonstrating its value. We needed to foster a culture that tolerated risk and encouraged new ideas — concepts not readily found in government.
+
+The strategy was to empower our supporters to serve as change ambassadors and encourage their peers to embrace new work philosophies and concepts, namely that taking some risks to deliver results is fully supported by the leadership. Without this, a zero-failure posture would continue making employees reluctant to change, virtually eliminating the possibility of innovation.
+
+There are critical government services that should not fail, such as processing taxes, military operations, or counting votes. But we should recognize that in many daily situations, failure is not bad — it is a sign that you are trying. Repeating failure is bad. Risk is a necessary ingredient for innovation, and we needed to provide the permission and safe space for people to try new things and, most important, fail.
+
+In the private sector, the value of risk can be quantified by increased revenue. In government, we want to see demonstrably better service delivery, increased productivity and efficiency, and improved employee morale.
+
+Enable People with Technology
+
+Technology enables people and amplifies culture. It seems obvious to say that people need the right tools, and yet it seems to be a point that is consistently missed. Inadequate technology can make even rudimentary aspects of a job difficult, negatively impacting employee morale. Aggregate this across an entire organization and the result is a culture of disappointment and frustration.
+
+Sadly, the government is known for stovepiped, outdated, and over-budget technology projects. The technology environment in which I arrived was bleak. We had no Wi-Fi, Bluetooth was prohibited, employees received a five-year-old Dell desktop, some received a BlackBerry, and most received an RSA token so they could log in from home via Citrix — only to experience intermittent freezing and an intermittent one-second delay per keystroke. I should add that this configuration cost the taxpayer approximately $1,900 per employee, per year, just for maintenance!
+
+This was not enabling our people, nor was it amplifying our culture. We had inherited the inertia of years of bad models when it came to how government acquires, deploys, and supports technology solutions. I was there to help challenge these flawed models. We did not want government-specific technology. We needed the best technology available, period.
+
+We added industry-leading platforms such as Slack, G Suite (formerly Google Apps), and open-source technologies, experimenting with them to assess their value. The process was organic and slow at first, but within several months we had half the bureau using these tools. In parallel, we made sure the tools were used in compliance with critical security policies to ensure the permission structure existed for people to use the tools.
+
+Almost immediately there was a remarkable improvement in the flow of information. Google Docs eliminated the frustration of document version control, and collaboration on ideas exploded. Slack made bureau communications open and transparent. Instead of closed conversation threads in email, we had open channels with senior and junior employees discussing strategies. Managers no longer bothered employees for frequent updates because they could now follow the open conversations. We also liberated people from their desks by giving them mobile devices and installing secure Wi-Fi in the office. People needed access to their work data from anywhere, at any time, using any device.
+
+Leaving the State Department after nearly three years, our bureau is empirically better than we found it. The proof is in the department’s time to launch: A project to modernize the global infrastructure for U.S. embassy websites was initially projected to take four years, but with the right people, culture, and technology, it will be wrapping up in a little over a year. Also, we were able to launch a public diplomacy platform for socially optimized content in just three months.
+
+Changing a large organization is a game of inches. Sometimes it can feel Sisyphean, but the big machine can be moved.

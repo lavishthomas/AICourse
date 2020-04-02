@@ -1,0 +1,55 @@
+“I don’t see…any method…at all.”
+
+By J. W. Mason
+
+I’ve felt for a while that most critiques of economics miss the mark. They start from the premise that economics is a systematic effort to understand the concrete social phenomena we call “the economy,” an effort whose methods unfortunately are unsound. But I don’t see any method at all.
+
+It seems to me that Deirdre McCloskey was right: Economics is not the study of the economy. Economics is just what economists do. Economic theory is essentially a closed formal system; it’s a historical accident that there is some overlap between its technical vocabulary and the language used to describe concrete economic phenomena. Economics the discipline is to the economy, the sphere of social reality, as chess theory is to medieval history: The statement, say, that “queens are most effective when supported by strong bishops” might be reasonable in both domains, but studying its application in the one case will not help at all in applying it in in the other.
+
+A few years ago Richard Posner said that he used to think economics meant the study of “rational” behavior in whatever domain, but after the financial crisis he decided it should mean the study of the behavior of the economy using whatever methodologies. (I can’t find the exact quote.) Descriptively, he was right the first time; but the point is, these are two different activities. Or to steal a line from my friend Suresh, the best way to think about what most economists do is as a kind of constrained-maximization poetry. It makes no more sense to ask “is it true” than of a haiku.
+
+Get Evonomics in your inbox
+
+One consequence of this is that radical criticism of the realism or logical consistency of orthodox economics does nothing to get us closer to a positive understanding of the economy. Another consequence is that when we turn to concrete economic questions there isn’t really a “mainstream” at all. Left critics want to take academic orthodoxy, a right-wing political vision, and the economic policy preferred by the established authorities, and roll them into a coherent package. But I don’t think you can. I think there is a mix of common-sense opinions, political prejudices, conventional business practice, and pragmatic rules of thumb, supported in an ad hoc, opportunistic way by bits and pieces of economic theory. It’s not possible to knock over the whole tottering pile by pulling out a few foundational texts.
+
+More concretely: An economics education trains you to think in terms of real exchange — in terms of agents who (somehow or other) have come into possession of a bundle of goods, which they trade with each other. You can only use this framework to make statements about real economic phenomena if they are understood in terms of the supply side — if economic outcomes are understood in terms of different endowments of goods, or different real uses for them. Unless you’re in a position to self-consciously take another perspective, fitting your understanding of economic phenomena into a broader framework, this is going to mean expressing it as this kind of story, about the limited supply of real resources available, and the unlimited demands on them to meet real human needs. But there may be no story of that kind to tell.
+
+Let’s suppose you’re an intelligent business journalist or policymaker trying to think through what economics tell us about current developments in the world using economics. (Maybe you pull out a good undergraduate macro textbook like Blanchard.) What are some of the major economic phenomena you might want to understand? For the US and most other developed countries, the list might look like:
+
+– low and falling inflation
+
+– low and falling interest rates
+
+– slower growth of output
+
+– slower growth of employment
+
+– low business investment
+
+– slower growth of labor productivity growth
+
+– a declining share of wages in income
+
+These are some of the main things you’d want to explain. What does the orthodox theory tell us?
+
+The textbook says that lower inflation is normally the result of a positive supply shock — an increase in real resources or an improvement in technology. OK. But then what do we make of the slowdown in output and productivity?
+
+The textbook says that, over the long run interest rates must reflect the marginal product of capital — the central bank (and monetary factors in general) can only change interest rates in the short run, not over a decade or more. In the Walrasian world, the interest rate and the return on investment are the same thing. So a sustained decline in interest rates must mean a decline in the marginal product of capital.
+
+OK. So in combination with the slowdown in output growth, that suggests a negative technological shock. But that should mean higher inflation. Didn’t we just say that lower inflation implies a positive technological shock?
+
+Employment growth in this framework is normally determined by demographics, or perhaps by structural changes in labor markets that change the effective labor supply. Slower employment growth means a falling labor supply — but that should, again, be inflationary. And it should be associated with higher wages: If labor is becoming relatively scarce, its price should rise. Yes, the textbook combines a bargaining mode of wage determination for the short run with a marginal product story for the long run, without ever explaining how they hook up, but in this case it doesn’t matter; the two stories agree. A fall in the labor supply will result in a rise in the marginal product of labor as it’s withdrawn from the least productive activities — that’s what “marginal” means! So either way the demographic story of falling employment is inconsistent with low inflation, with a falling wage share, and with the showdown in productivity growth.
+
+Slower growth of labor productivity could be explained by an increase in labor supply — but then why has employment decelerated so sharply? More often it’s taken as technologically determined. Slower productivity growth then implies a slowdown in innovation — which at least is consistent with low interest rates and low investment. But this “negative technology shock” should again, be inflationary. And it should be associated with a fall in the return to capital, not a rise.
+
+On the other hand, the decline in the labor share is supposed to reflect a change in productive technology that encourages substitution of capital for labor, robots and all that. But how is this reconciled with the fall in interest rates, in investment, and in labor productivity? To replace workers with robots, someone has to make the robots, and someone has to buy them. And by definition this raises the productivity of the remaining workers.
+
+Which subset of these mutually incompatible stories does the “mainstream” actually believe? I don’t know that they consistently believe any of them. My impression is that people adopt one or another based on the question at hand, while avoiding any systematic analysis through violent abuse of the ceteris paribus condition.
+
+To paraphrase Leijonhufvud, on Mondays and Wednesdays wages are low because technological progress has slowed down, holding down labor productivity. On Tuesdays and Thursdays wages are low because technological progress has sped up, substituting capital for labor. Students may come away a bit confused but the main takeaway is clear: Low wages are just the natural outcome of economic fundamentals, of structural factors – whatever those may be.
+
+So what’s the right answer? Well, it’s hard to say. And that’s the point. To read many criticisms of economics, the problem is just one key bad assumption, or one key methodological flaw. But that implies the rest of the structure is basically sound – or that understanding the dynamics of capitalist eocnomies would be straightforward if we just took off our ideological blinders. But it’s not straightforward, it’s very hard. And if the kind of formal abstractions developed by economists are not contributing to that work, neither are negative critiques of those abstractions. How is a raven unlike a writing desk? An endless number of ways, and enumerating them will leave you no wiser about either corvids or carpentry.
+
+This article was originally published at The Slack Wire .
+
+2016 July 15

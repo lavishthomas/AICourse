@@ -1,0 +1,269 @@
+Advertisement
+
+Arduino is an open-source electronics prototyping platform, and it’s one of the most popular in the world — with the possible exception of the Raspberry Pi Raspberry Pi: The Unofficial Tutorial Raspberry Pi: The Unofficial Tutorial Whether you're a current Pi owner who wants to learn more or a potential owner of this credit-card size device, this isn't a guide you want to miss. Read More . Having sold over 3 million units (and many more in the form of third party clone devices): what makes it so good, and what can you do with one?
+
+What Is Arduino?
+
+Arduino is based on easy to use, flexible, hardware and software. It’s made for artists, designers, engineers, hobbyists and anyone with the slightest interest in programmable electronics.
+
+Arduino senses the environment by reading data from various buttons, components and sensors. They can impact the environment by controlling LEDs, motors, servos, relays, and much more.
+
+Arduino projects can be stand-alone, or they can communicate with software running on a computer (Processing is the most popular software for this). They can talk to other Arduinos, Raspberry Pis Raspberry Pi: The Unofficial Tutorial Raspberry Pi: The Unofficial Tutorial Whether you're a current Pi owner who wants to learn more or a potential owner of this credit-card size device, this isn't a guide you want to miss. Read More , NodeMCU Meet the Arduino Killer: ESP8266 Meet the Arduino Killer: ESP8266 What if I told you a there's an Arduino-compatible dev board with built-in Wi-Fi for less than $10? Well, there is. Read More , or nearly anything else. Make sure you read our comparison of $5 microcontrollers $5 Microcontrollers: Arduino, Raspberry Pi Zero, Or NodeMCU? $5 Microcontrollers: Arduino, Raspberry Pi Zero, Or NodeMCU? It used to be the case that if you wanted to get a computer, you'd have to remortgage your house to pay for it. Now, you can get one for an Abraham Lincoln. Read More for a thorough comparison of the differences between these microcontrollers.
+
+You may be asking, why choose the Arduino? Arduino really simplifies the process of building a programmable electronics project, making it a great platform for beginners. You can easily start working on one with no previous electronics experience. There are thousands of tutorials available, and these range in difficulty, so you can be sure of a challenge once you master the basics.
+
+Advertisement
+
+In addition to Arduino’s simplicity, it is also inexpensive, cross-platform and open source. The Arduino Uno (the most popular model) is based on Atmel’s ATMEGA 16U2 microcontrollers. There are many different models produced, which vary in size, power, and specifications, so take a look at our buying guide Arduino Buying Guide: Which Board Should You Get? Arduino Buying Guide: Which Board Should You Get? There are so many different kinds of Arduino boards out there, you'd be forgiven for being confused. Which should you buy for your project? Let us help, with this Arduino buying guide! Read More for all the differences.
+
+The plans for the boards are published under a Creative Commons license, so experienced hobbyists and other manufacturers are free to make their own version of the Arduino, potentially extending it and improving it (or just outright copying it, leading to the proliferation of low cost Arduino boards we find today).
+
+What Can You Do With an Arduino?
+
+An Arduino can do a staggering number of things. They are the brain of choice for the majority of 3D printers Ultimate Beginner's Guide to 3D Printing Ultimate Beginner's Guide to 3D Printing 3D printing was supposed to be the new "Industrial Revolution." It hasn't taken over the world yet, but I'm here to talk you through everything you need to know to get started. Read More . Their low cost and ease of use mean that thousands of makers, designers, hackers, and creators have made amazing projects. Here are just some of the Arduino projects we’ve made here at MakeUseOf:
+
+What Is Inside an Arduino?
+
+Although there are many different types of Arduino boards available, this manual focuses on the Arduino Uno model. This is the most popular Arduino board around. So what makes this thing tick? Here are the specifications:
+
+Processor: 16 Mhz ATmega16U2
+
+16 Mhz ATmega16U2 Flash memory: 32KB
+
+32KB Ram: 2KB
+
+2KB Operating Voltage: 5V
+
+5V Input Voltage: 7-12V
+
+7-12V Number of analog inputs: 6
+
+6 Number of digital I/O: 14 (6 of them Pulse Width Modulation — PWM)
+
+The specs may seem rubbish compared to your desktop computer, but remember that the Arduino is an embedded device, with a lot less information to process than your desktop. It’s more than capable for the most electronics projects.
+
+Another wonderful feature of the Arduino is the ability to use what are called “shields”, or add-on boards. Although shields will not be covered in this manual, they are a really neat way to extend the features and functionality of your Arduino The Top 4 Arduino Shields To Superpower Your Projects The Top 4 Arduino Shields To Superpower Your Projects You’ve bought an Arduino starter kit, you’ve followed all the basic guides, but now you’ve hit a stumbling block - you need more bits and bobs to realise your electronics dream. Luckily, if you have... Read More .
+
+What You’ll Need For This Guide
+
+Below you will find a shopping list of the components you will need for this beginner’s guide. All these components should come in under $50 total. This listing should be enough to give you a good understanding of basic electronics and have enough components to build some pretty cool projects using this or any other Arduino guide. If you don’t want to select each and every component, you may want to consider purchasing a starter kit What’s Included In An Arduino Starter Kit? [MakeUseOf Explains] What’s Included In An Arduino Starter Kit? [MakeUseOf Explains] I have previously introduced the Arduino open-source hardware here on MakeUseOf, but you’re going need more than just the actual Arduino to build something out of it and actually get started. Arduino "starter kits" are... Read More instead.
+
+If you cannot get a specific resistor value, something as close as possible will usually work fine.
+
+Electrical Component Overview
+
+Let’s look at what exactly all of these components are, what they do, and what they look like.
+
+Breadboard
+
+Used to prototype electronic circuits, they provide a temporary means of connecting components together. Breadboards are blocks of plastic with holes in, which wires can be inserted into. The holes are arranged in rows, in groups of five. When you want to rearrange a circuit, pull the wire or part out of the hole, and move it. Many breadboards contain two or four groups of holes running the length of the board, along the sides, and are all connected — these are typically for power distribution, and may be labelled with a red and blue line.
+
+Breadboards are excellent for quickly producing a circuit. They can get very messy for a large circuit, and cheaper models can be notoriously unreliable, so it’s worth spending a bit more money on a good one.
+
+LEDs
+
+LED stands for Light Emitting Diode. They are a very cheap light source, and can be very bright — especially when grouped together. They can be purchased in a variety of colors, do not get particularly hot, and last a long time. You may have LEDs in your television, car dashboard, or in your Philips Hue bulbs.
+
+Your Arduino microcontroller also has a built-in LED on pin 13 that’s frequently used to indicate an action or event, or just for testing.
+
+Photo Resistor
+
+A photo resistor (photocell or Light Dependant Resistor) allows your Arduino to measures changes in light. You could use this to turn on your computer when it’s daylight, for example.
+
+Tactile Switch
+
+A tactile switch is basically a button. Pressing it will complete the circuit, and (usually) change from 0V to +5V. Arduinos can detect this change, and respond accordingly. These are often momentary — meaning they are only “pressed” when your finger is holding them down. Once you let go, they will revert back to their default state (“un-pressed”, or off).
+
+Piezo Speaker
+
+A piezo speaker is a tiny little speaker that produces sound from electrical signals. They are often harsh and tinny, and sound nothing like a real speaker. That said, they are very cheap, and easy to program. Our Buzz Wire Game uses one to play the Monty Python “Flying Circus” theme song.
+
+Resistor
+
+A resistor limits the flow of electricity. They are very cheap components, and a staple of amateur and professional electronic circuits alike. They are nearly always required to protect components from being overloaded. They’re also needed to prevent a short circuit if the Arduino +5V connects straight into ground. In short: very handy and absolutely essential.
+
+Jumper Wires
+
+Jumper wires are used to create temporary connections between components on your breadboard.
+
+Setting Up Your Arduino
+
+Before starting any project, you need to get your Arduino talking to your computer. This allows you to write and compile code for the Arduino to execute, as well as providing a way for your Arduino to work alongside your computer.
+
+Installing the Arduino Software Package on Windows
+
+Head over to the Arduino website and download a version of the Arduino software suitable for your version of Windows. Once downloaded, follow the instructions to install the Arduino Integrated Development Environment (IDE).
+
+The install includes drivers, so in theory, you should be good to go straight away. If that fails for some reason, try these steps to install the drivers manually:
+
+Plug in your board and wait for Windows to begin its driver installation process. After a few moments, the process will fail, despite its best efforts.
+
+Click on Start Menu > Control Panel .
+
+> . Navigate to System and Security > System . Once the System window is up, open the Device Manager .
+
+> . Once the System window is up, open the . Under Ports (COM & LPT), you should see an open port named Arduino UNO (COMxx) .
+
+(COM & LPT), you should see an open port named . Right click on Arduino UNO (COMxx) > Update Driver Software .
+
+> . Choose Browse my computer for Driver software .
+
+. Navigate to and select the Uno’s driver file, named ArduinoUNO.inf, located in the Drivers folder of the Arduino Software download.
+
+Windows will finish up the driver installation from there.
+
+Installing the Arduino Software Package on Mac OS
+
+Download the Arduino software for Mac from the Arduino website. Extract the contents of the .zip file and run the app. You can copy it into your applications folder, but it will run just fine from your desktop or downloads folders. You don’t need to install any additional drivers for the Arduino UNO.
+
+Installing the Arduino Software on Package Ubuntu/Linux
+
+Install gcc-avr and avr-libc:
+
+sudo apt-get install gcc-avr avr-libc
+
+If you don’t have openjdk-6-jre already, install and configure that too:
+
+sudo apt-get install openjdk-6-jre sudo update-alternatives --config java
+
+Select the correct JRE if you have more than one installed.
+
+Go to the Arduino website and download the Arduino Software for Linux. You can untar and run it with the following command:
+
+tar xzvf arduino-x.x.x-linux64.tgz
+
+cd arduino-1.0.1
+
+./arduino
+
+Regardless of which OS you’re running, the instructions above assume you have an original, branded Arduino Uno board. If you purchased a clone, you will almost certainly need third party drivers before the board is recognized over USB.
+
+Running the Arduino Software
+
+Now that the software is installed and your Arduino is set up, let’s verify everything is working. The easiest way to do this is by using the “Blink” sample application.
+
+Open the Arduino Software by Double-clicking the Arduino Application (./arduino on Linux). Make sure the board is connected to your computer, and then open the LED blink example sketch: File > Examples > 1.Basics > Blink. You should see the code for the application open:
+
+In order to upload this code to your Arduino, select the entry in the Tools > Board menu that corresponds to your model — Arduino Uno in this case.
+
+Select the serial device of your board from the Tools > Serial Port menu. On Windows, This is likely to be COM3 or higher. On Mac or Linux this should be something with /dev/tty.usbmodem in it.
+
+Finally, click the Upload button on the top left of your environment. Wait a few seconds, and you should see the RX and TX LEDs on the Arduino flashing. If the upload is successful, the message “Done uploading” will appear in the status bar.
+
+A few seconds after the upload finishes, you should see the pin 13 LED on the board start to blink. Congratulations! You’ve got your Arduino up and running.
+
+Starter Projects
+
+Now that you know the basics, let’s look at some beginner’s projects.
+
+Blink an LED
+
+You previously used the Arduino sample code to blink the on-board LED. This project will flash an external LED using a breadboard. Here’s the circuit:
+
+Connect the long leg of the LED (positive leg, called the anode) to a 220 Ohm resistor and then to digital pin 7. Connect the short leg (negative leg, called the cathode) directly to ground (any of the Arduino ports with GND on it, your choice). This is a simple circuit. The Arduino can digitally control this pin. Turning the pin on will light up the LED, turning it off will turn the LED off. The resistor is necessary to protect the LED from too much current — it will burn out without one.
+
+Here’s the code you need:
+
+void setup() { // put your setup code here, to run once: pinMode(7, OUTPUT); // configure the pin as an output } void loop() { // put your main code here, to run repeatedly: digitalWrite(7, HIGH); // turn LED on delay(1000); // wait 1 second digitalWrite(7, LOW); // turn LED off delay(1000); // wait one second }
+
+This code does several things:
+
+void setup(): This is run by the Arduino once every time it starts. This is where you can configure variables and anything your Arduino needs to run.
+
+pinMode(7, OUTPUT): This tells the Arduino to use this pin as an output, without this line, the Arduino would not know what to do with each pin. This only needs to be configured once per pin, and you only need to configure pins you’re intending to use.
+
+void loop(): Any code inside this loop is repeatedly run over and over again, until the the Arduino is turned off. This can make larger projects more complex, but it works amazingly well for simple projects.
+
+digitalWrite(7, HIGH): This is used to set the pin HIGH or LOW — ON or OFF. Just like a light switch, when the pin is HIGH, the LED will be on. When the pin is LOW, the LED will be off. Inside the brackets, you need to specify some additional information for this to work correctly. Additional information is known as parameters or arguments.
+
+The first (7) is the pin number. If you have connected your LED to a different pin, for example, you would change this from seven to another number. The second parameter has to be HIGH or LOW, which specifies if the LED should be turned on or off.
+
+delay(1000): The tells the Arduino to wait for a specified amount of time in milliseconds. 1000 milliseconds is equal to one second, so this will make the Arduino wait for once second.
+
+Once the LED has been turned on for one second, the Arduino then runs the same code, only it proceeds to turn the LED off and wait another second. Once this process has finished, the loop starts again, and the LED is once again turned on.
+
+Challenge: Try adjusting the time delay between turning the LED on and off. What do you observe? What happens if you set the delay to a very small number such as one or two? Can you modify the code and circuit to blink two LEDs?
+
+Adding a Button
+
+Now that you have an LED working, let’s add a button to your circuit:
+
+Connect the button so that is bridges the channel in the middle of the breadboard. Connect the top right leg to Pin 4. Connect the bottom right leg to a 10k Ohm resistor and then to ground. Connect the bottom left leg to 5V.
+
+You may be wondering why a simple button needs a resistor. This serves two purposes. It is a pull down resistor — it ties the pin to ground. This ensures that no spurious values are detected, and prevents the Arduino thinking you pressed the button when you did not. The second purpose of this resistor is as a current limiter. Without it, 5V would go directly into ground, the magic smoke would be released, and your Arduino would die. This is known as a short circuit, so the use of a resistor prevents this from happening.
+
+When the button isn’t pressed, the Arduino detects ground (pin 4 > resistor > ground). When you press the button, 5V is connected to ground. Arduino pin 4 can detect this change, as pin 4 has now changed from ground to 5V;
+
+Here’s the code:
+
+boolean buttonOn = false; // store the button state void setup() { // put your setup code here, to run once: pinMode(7, OUTPUT); // configure the LED as an output pinMode(4, INPUT); // configure the button as an input } void loop() { // put your main code here, to run repeatedly: if(digitalRead(4)) { delay(25); if(digitalRead(4)) { // if button was pressed (and was not a spurious signal) if(buttonOn) // toggle button state buttonOn = false; else buttonOn = true; delay(500); // wait 0.5s -- don't run the code multiple times } } if(buttonOn) digitalWrite(7, LOW); // turn LED off else digitalWrite(7, HIGH); // turn LED on }
+
+This code builds upon what you learnt in the previous section. The hardware button you have used is a momentary action. This means it will only work while you are holding it down. The alternative is a latching action. This is just like your light or socket switches, press once to turn on, press again to turn off. Fortunately, a latching behaviour can be implemented in code. Here’s what the additional code does:
+
+boolean buttonOn = false: This variable is used to store the state of the button — ON or OFF, HIGH or LOW. It’s given a default value of false.
+
+pinMode(4, INPUT): Much like the code used for the LED, this line tells the Arduino that you have connected an input (your button) to pin 4.
+
+if(digitalRead(4)): In a similar way to digitalWrite(), digitalRead() is used to read the state of a pin. You need to provide it with a pin number (4, for your button).
+
+Once you have pressed the button, the Arduino waits 25ms and checks the button again. This is known as a software debounce. This ensures that what the Arduino thinks was a button press, really was a button press, and not noise. You don’t have to do this, and in most cases things will work fine without it. It’s more of a best practice.
+
+If the Arduino is certain you really did press the button, it then changes the value of the buttonOn variable. This toggles the state:
+
+ButtonOn is true: Set to false.
+
+ButtonOn is false: Set to true.
+
+Finally, the LED is turned on off according to the state stored in buttonOn.
+
+Light Sensor
+
+Let’s move onto an advanced project. This project will use a Light Dependant Resistor (LDR) to measure the amount of light available. The Arduino will then tell your computer useful messages about the current light level.
+
+Here’s the circuit:
+
+As LDRs are a type of resistor, it doesn’t matter which way round they are placed — they don’t have a polarity. Connect 5V to one side of the LDR. Connect the other side to ground via a 1k Ohm resistor. Also connect this side to analog input 0.
+
+This resistor acts a pulldown resistor, just like in the previous projects. An analog pin is needed, as LDRs are analog devices, and these pins contains special circuitry for accurately reading analog hardware.
+
+Here’s the code:
+
+int light = 0; // store the current light value void setup() { // put your setup code here, to run once: Serial.begin(9600); //configure serial to talk to computer } void loop() { // put your main code here, to run repeatedly: light = analogRead(A0); // read and save value from LDR //tell computer the light level if(light < 100) { Serial.println("It is quite light!"); } else if(light > 100 && light < 400) { Serial.println("It is average light!"); } else { Serial.println("It is pretty dark!"); } delay(500); // don't spam the computer! }
+
+This code does a few new things:
+
+Serial.begin(9600): This tells the Arduino that you want to communicate over serial at a rate of 9600. The Arduino will prepare everything necessary for this. The rate is not that important, but both your Arduino and computer need to be using the same one.
+
+analogRead(A0): This is used to read the value coming from the LDR. A lower value means there is more light available.
+
+Serial.println(): This is used to write text to the serial interface.
+
+The simple if statement sends different strings (text) to your computer depending on the available light.
+
+Upload this code and keep the USB cable connected (that’s how the Arduino will communicate, and where the power comes from). Open the serial monitor (Top right > Serial Monitor), You should see your messages arriving every 0.5 seconds.
+
+What do you observe? What happens if you cover the LDR or shine a bright light on it? Can you modify the code to print the value of the LDR over serial?
+
+Make Some Noise
+
+This project uses the Piezo speaker to make sounds. Here’s the circuit:
+
+Notice anything familiar? This circuit is almost exactly the same as the LED project. Piezos are very simple components — they make a sound when given an electrical signal. Connect the positive leg to digital pin 9 via a 220 Ohm resistor. Connect the negative leg to ground.
+
+Here’s the code, it’s very simple for this project:
+
+void setup() { // put your setup code here, to run once: pinMode(9, OUTPUT); // configure piezo as output } void loop() { // put your main code here, to run repeatedly: tone(9, 1000); // make piezo buzz delay(1000); // wait 1s noTone(9); // stop sound delay(1000); // wait 1s }
+
+There’s only a few new code features here:
+
+tone(9, 1000): This makes the piezo generate a sound. It takes two arguments. The first is the pin to use, and the second is the frequency of the tone.
+
+noTone(9): This stops producing any sound on the provided pin.
+
+Try changing this code to produce a different frequency. Change the delay to 1ms — what do you notice?
+
+Where to go From Here
+
+As you can see, the Arduino is an easy way to get into electronics and software. Hopefully you have seen that it is easy to build simple electronic projects with it. You can build far more complex projects once you understand the basic ones:
+
+What Arduino do you own? Are there any fun projects you like to make? Let use know in the comments below!

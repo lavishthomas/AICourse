@@ -1,0 +1,31 @@
+Progress in the field of machine vision is one of the most important factors in the rise of the self-driving car. An autonomous vehicle has to be able to sense its environment and react appropriately. Free space has to be calculated, solid objects avoided, and any and all of the instructions we helpfully leave everywhere—painted on the tarmac or posted on signs—have to be obeyed.
+
+Deep neural networks turned out to be pretty good at classifying images, but it's still worth remembering that the process is quite unlike the way humans identify images, even if the end results are fairly similar. I was reminded of that once again this morning when reading about a method of spoofing road signs. It's a technique that just looks like street art to you or me, but it completely changes the meaning of a stop sign to the machine reading it.
+
+No actual self-driving cars were harmed in this study
+
+First off, it's important to note that the paper is a proof-of-concept; no actual automotive-grade machine vision systems were used in the test. Covering your local stop signs in strips of black and white tape is not going to lead to a sudden spate of car crashes today. Ivan Evtimov—a grad student at the University of Washington—and some colleagues first trained a deep neural network to recognize different US road signs. Then, they created an algorithm that generated changes to the signs that human eyes find innocuous, but which changed the meaning when a sign was read by the AI classifier they just trained.
+
+
+
+
+
+
+
+
+
+Evtimov and his co-authors propose two different ways to hack a street sign, either by printing out an altered copy that you cover the existing sign with or by just making small additions with stickers. There's also a choice of those alterations. One is to use subtle perturbations that make the sign look weathered to a human observer. The other is to camouflage the changes so they look like street art: in this case either small black and white strips or blocky text reading LOVE and HATE.
+
+The results were pretty interesting. One test was able to cause a stop sign to be reliably misread as a speed limit sign, and another caused a right turn sign to be classified as either a stop or added lane sign. To repeat: these kinds of attacks worked on the specific machine vision system the researchers trained, and the altered signs in the gallery above would not fool any cars on the road today. But they do prove the concept that this kind of spoofing would work, provided one had access to the training set and the system they were attacking.
+
+Life imitates art
+
+You should be forgiven if your reaction to this study is to wonder "Gee, what took them so long?" Artists and writers have been exploring the idea of exploiting the quirks and vagaries of machine recognition for a while now. Take for an example the "ugly shirt" in William Gibson's Zero History, which renders the wearer invisible to CCTV:
+
+Pep, in black cyclist's pants, wore the largest, ugliest T-shirt she'd ever seen, in a thin, cheap-looking cotton the color of ostomy devices, that same imaginary Caucasian flesh-tone. There were huge features screened across it in dull black halftone, asymmetrical eyes at breast height, a grim mouth at crotch-level. Later she'd be unable to say exactly what had been so ugly about it, except that it was somehow beyond punk, beyond art, and fundamentally, somehow, an affront.
+
+Gibson wrote that in 2010, crediting the idea to friend and fellow author Bruce Sterling. In the book, the "ugly shirt" is dismissed first as myth, then recognized by some as an exploit of the digital world which may be just a little too dangerous.
+
+Since then, artists like Adam Harvey and Simone Niquille have been playing around with ideas like CV Dazzle and Glamouflage to confuse cameras. We're also starting to see it get applied to cars: earlier this year the artist James Bridle's work Autonomous Trap 001 imagines using a salt circle to trap a self-driving car "using no-entry and other glyphs."
+
+The future is sure going to be interesting...

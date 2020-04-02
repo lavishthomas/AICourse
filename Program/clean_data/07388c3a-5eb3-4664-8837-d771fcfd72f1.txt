@@ -1,0 +1,53 @@
+6 links that will show you what Google knows about you
+
+(Photo by Alex Koloskov at www.photigy.com )
+
+Want to find out all the things Google knows about you? Here are 6 links that will show you some of the data Google has about you.
+
+1. Find out what Google thinks about you
+
+In order to serve relevant ads, Google collects data about you and creates a profile. You can control and review the information Google has on you here:
+
+http://www.google.com/settings/ads/
+
+Google also has a tool called Google Analytics, that helps publishers see what pages you have viewed on their website, how many times you have visited it, how long did you stay etc. You can opt out if you don’t want this type of data to be collected:
+
+http://tools.google.com/dlpage/gaoptout
+
+2. Find out your location history
+
+If you use Android, your mobile device may be sending your location to Google. You can see your entire location history here:
+
+https://maps.google.com/locationhistory
+
+3. Find out your entire Google Search history
+
+Google saves every single search you have ever done. On top of that, they record every Google ad you have clicked on. This log is available in Google web history controls:
+
+https://www.google.com/history/
+
+4. Get a monthly security and privacy report from Google
+
+Google offers an Account activity page that tells you about all the Google services you are using. You can even enable a monthly report that will be sent to your email:
+
+https://www.google.com/settings/dashboard
+
+5. Find out all the apps and extensions that are accessing your Google data
+
+The Account activity page also offers a list of all the apps that have any type of access to your data. You can see the exact type of permissions granted to the app and revoke access to your data here:
+
+https://security.google.com/settings/security/permissions
+
+6. Export all of your data out of Google
+
+Google lets you export all your data: bookmarks, emails, contacts, drive files, profile info, your youtube videos, photos and more here:
+
+https://www.google.com/takeout
+
+BONUS
+
+Google also keeps a history of your YouTube searches. You can find it here:
+
+https://www.youtube.com/feed/history/search_history
+
+Source: http://www.google.com/goodtoknow/online-safety/security-tools/

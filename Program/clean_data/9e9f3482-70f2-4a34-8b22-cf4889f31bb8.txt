@@ -1,0 +1,671 @@
+Reader demand for businesses to provide excellent content continues to rise. Seventy five percent of content marketers are increasing their content marketing investment to meet this demand, according to Curata’s 2016 content marketing industry survey. Because of this, the content marketing tools universe has expanded.
+
+Curata has created a map of content marketing tools to help guide you through the many content marketing tools and technologies available to find the one that best fits your needs.
+
+This list has been updated as of February 21, 2017. Of particular note is the continued emergence of the Content Marketing Platform category.
+
+For more on choosing a Content Marketing Platform vendor, check out our eBook.
+
+Why am I Doing This?
+
+There has been major growth in the content marketing tools available to content marketers. While many of these tools existed for years prior to the advent of content marketing—and would normally be deemed as simply internet marketing tools, many of them are rechristening themselves as content marketing tools.
+
+However, many of these tools are quite different from each other and serve vastly different purposes within content marketing. Some technologies may help create content, some may help distribute content, yet others help measure the effectiveness of your content marketing. Having attended dozens of content marketing conferences over the years, I have seen countless marketers and even analysts not know where to start, or how to make sense of the universe of content marketing tools.
+
+Hasn’t This Been Done Before?
+
+A few dedicated folks have attempted to assemble comprehensive collections of content marketing tools. Each of these attempts have arguably fallen short in one regard or another. Some have been limited in the amount of tools they covered, while others have been comprehensive but not grouped the tools together in an intuitive manner.
+
+Regardless, here’s a list of people and organizations who have made honorable attempts in the past:
+
+Everything PR. In January of 2013, Everything PR put together a list of 100 Content Marketing tools. While it’s one of the most comprehensive lists, I have seen, it doesn’t strictly list “tools” in the sense of technologies. Many of the entries are resource sites and blogs such as the Content Rules Blog, or events such as Content Marketing World 2013. While such resources can be helpful for marketers, they are not strictly tools. The list also makes no attempt to organize and group tools together.
+
+Oracle Marketing Cloud. In December of 2012, Eloqua published an infographic called the Social Business Shift. While it’s a nice graphic, it doesn’t strictly focus on content marketing; it instead focuses on tools with a social component such as Kiva and Kickstarter for crowd funding, or Taleo for talent sourcing.
+
+Altimeter. In April of 2013, Rebecca Lieb of Altimeter started a list of 15 content marketing vendors. We were flattered to have Curata included in the initial list. More recently, Altimeter has published a content marketing vendor landscape which includes over 100 content marketing tools. However, the list does not include some of the broader categories we have included here.
+
+Content Amp. Also in April of 2013, U.K.-based content marketing agency Content Amp created an impressive and visually appealing infographic featuring a wide variety of content marketing tools, with an attempt at groupings as well. While this is perhaps the best map of the content marketing vendor set I have seen, it is lacking in the number of vendors and categories covered. For example, it misses content curation tools entirely, and has a confusing category called Curated Content & Forums that includes technologies such as the commenting system Disqus, which has no relevance to curated content. The infographic is not strictly restricted to “tools” and has a category for content marketing agencies.
+
+Disclaimer
+
+I have pieced together this graphic over time, but few could keep up with the rapidly evolving space of content marketing tools. Here are some disclaimers and areas where things could be better.
+
+It’s not comprehensive. For every tool you see in the map, there is a long tail of many other tools that are similar or perform parts of functions of the tool included in this graphic. I have included the content marketing tools I feel stand out the most in their categories. For a further breakdown of some of these categories, check out the following: Content Writing Services: The Ultimate List, Content Promotion Tools: The Ultimate List, Content Curation Tools: The Ultimate List, and Content Marketing Agencies: The Ultimate List.
+
+It’s not as clear cut as it seems. There are many content marketing tools that fall into multiple categories, but I have placed them in the category that best represents them. For example, Marketing AI measures analytics for your content, then helps you better optimize your content. In this case, should Marketing AI fall into the Analytics or Optimization tools group? In this case, I placed them in the Analytics group. However, Parse.ly is a relatively similar tool I decided to place into the Optimization category.
+
+It’s not complete. I am sure there are entire categories missing here. I hope you will recommend and suggest additional content marketing tools for this map in the comments below.
+
+Content Marketing Tools
+
+Website Analytics Tools
+
+Webtrends – Offers tools for measuring and optimizing digital campaigns. Webtrends offers analytic intelligence including customer intelligence and behavioral segmentation, targeting and scoring, and more.
+
+Mixpanel – Instead of measuring pageviews, Mixpanel measures actions such as searches or shares to gain greater insight into user behavior.
+
+Woopra – Uses real-time stats that can be broken down to an individual-level view. Woopra helps brands tracks visitors across multiple devices and build comprehensive timelines for every user.
+
+Kissmetrics – An ecommerce customer intelligence tool. Offers person-centric data in real time, and ties anonymous activity to known activity once a visitor becomes a customer.
+
+Google Analytics – Customize reports, measure the impact of social media and mobile on website traffic, measure conversion rates, and more.
+
+Docalytics – Cloud-based platform that allows departments across a company to view documents, review analytics, and track leads.
+
+Simplereach – Collects real-time data to track the impact of digital content. Offers insights into which direction users should take their created content strategy.
+
+Parse.ly – A predictive analytics tool. Empowers publishers to track the performance of authors or topics, capitalize on web trends, promote in-demand content, and tap into the potential of recommended topics.
+
+Trialfire – A visual editor for analytics. Helps marketers circumvent coding their website in order to put tracking on different pages.
+
+Social Media Analytics Tools
+
+Curalate – Discover which images in Pinterest and Instagram are most engaging for your audience.
+
+Socialbakers – View metrics and statistics for Facebook, Twitter, Google Plus, YouTube, and LinkedIn.
+
+Visible – This social intelligence solution lets users monitor, analyze and engage with topics across social media platforms.
+
+CrowdBooster – Track your company’s social media engagement with information about interactions, follower growth, and more.
+
+Nuvi – Provides real-time data visualizations. Portrays social chatter in a way that is easy to understand and show to others.
+
+Trendspottr – Uses real-time data to identify trending topics across social media platforms before they become popular.
+
+TrackMaven – Gathers information on your competitors from all social media channels into one platform.
+
+Simply Measured – Analyze social media posts across nine different platforms. Create comprehensive reports, such as a competitor comparison analysis.
+
+Crimson Hexagon – Measure the impact of past social media campaigns. Improve future campaigns by backing up changes with data.
+
+Rival IQ – This analysis tool helps optimize content promotion by reporting on past and competitor performance.
+
+Zuum – Get insights into competitor content on social media with this tool that identifies viral content and popular influencers.
+
+SumAll – Measures your social channels, websites and eCommerce. Provides you with a complete look at the success of all online initiatives.
+
+IBM Social Analytics – Analyze and predict customer behavior with this tool from IBM. Also allows you to create custom social media campaigns.
+
+Cafyne – Cafyne offers many tools to help manage your social media including brand protection, employee engagement, and powerful analytics and reports.
+
+Web Analytics Tools
+
+Quantcast – Receive audience insight through geographic and demographic data, in addition to information about interests and related website activity.
+
+Alexa – This web traffic tool provides traffic data and global rankings for commercial websites.
+
+Compete – Gain insight into the competition. Examine which websites and keywords others are using to drive traffic online, compile lists of the top websites based on a variety of metrics. Track online market share by industry.
+
+Funnel Analytics Tools
+
+Full Circle Insights – A marketing performance management tool that gives Salesforce users insight into their overall marketing impact.
+
+Squeeze CMM – Measure the ROI of content with this tool that generates reports and tracks audience activity and interests.
+
+Insight Squared – An all in one analytics software for sales, finance, marketing and support data.
+
+Bright Funnel – B2B Platform that allows CMOs to attribute, forecast, and benchmark their demand generation efforts
+
+SEO Analytics Tools
+
+Raven Tools– Report on all marketing campaigns using metrics that pertain to SEO, PPC and social media.
+
+SEM Rush – Gives users the ability to track keywords across both paid and organic search campaigns.
+
+moz – Enables users to monitor social media, manage SEO campaigns, and more.
+
+BrightEdge – Measure and improve the SEO of your site with this content performance tool.
+
+MarketMuse – Crawls your site to identify gaps in content. Finds prominent keywords, and determines how your site stacks up against competitors.
+
+gShift – Gauge your company’s web presence with this analysis tool. Then use the insights to improve the discoverability of your brand on search and social.
+
+SerpStat – Conducts in-depth competitive analysis based on SEO performance through domain lookup.
+
+Marketing Automation Tools
+
+Pardot – This lead management tool lets marketers and salespeople move prospects through the sales funnel. Create automated, targeted messaging based on prospects’ activity.
+
+Genius – Sales and marketing people can collaborate using this online-sales lead tracking software system. Send personalized campaigns, see who’s visiting the website or opening emails, and assess prospect interest for follow up.
+
+Marketo – A marketing automation platform. Integrates email, social media, offline events, content, and more. Helps sales and marketing teams prioritize prospects based on demographic and behavioral criteria, measure performance of marketing campaigns, and more.
+
+Eloqua – A flexible campaign editor. Offers a whiteboard-like canvas where users can drag and drop elements such as email, segments, actions, and more to create smart marketing campaigns.
+
+Act-on – This cloud-based platform helps marketers organize campaigns, integrate marketing into sales and support systems, and measure results.
+
+HubSpot – An integrated inbound marketing system. Create personalized landing pages, emails, web pages, and more. Plus tap into HupSpot’s vast knowledge base around content marketing best practices.
+
+Bislr – A marketing automation tool. Users can draw collaborative automated campaigns on a whiteboard, listen to prospect behavior, and create database prospects through social media hashtags and keywords.
+
+AutoPilot – Multi-channel marketing automation software for email, SMS and direct mail.
+
+Route – A marketing and sales automation system to convert leads into customers.
+
+Right On Interactive – Lifecycle marketing automation software. Uses a Customer Lifecycle Map™ to help users visualize where their prospects and customers are in their lifecycle/journey with the organization.
+
+SalesPanda – Inbound marketing automation software. Helps you create a strong online presence, enhance your website traffic, and increase lead conversions for your business.
+
+Infusionsoft – An integrated sales and marketing software solution for small businesses. Combines CRM, marketing automation, e-commerce, and payments solutions with a marketplace of apps, integrations, and partners.
+
+PeopleVine – Combined platform for CRM, marketing, sales and operations. Allows users to engage with customers in real time, while building rich profiles for targeted marketing.
+
+Personalization Tools
+
+Monetate – Turn real-time into relevant digital experiences. Take a snapshot of every visitor, create multivariate tests and rules-based product recommendations, and more.
+
+Demandbase – B2B marketing tool. Create targeted, relevant conversations with buyers at every stage. Personalize the web experience, segment and analyze companies and more.
+
+40 Nuggets – Harness marketing automation strategies, audience-analytics, and predictive intelligence. Personally engage with and tailor content to each customer.
+
+Idio – Improve content marketing strategy by examining specific customer interests and increasing the engagement of content.
+
+Evergage – Real-time web personalization solution that empowers marketers to better engage and convert web site visitors without using developers. Personalize content and messages for your audience by using information such as what they’re searching for, clicking, buying and more.
+
+Triblio – Create a personalized, multichannel email and web campaign in 60 seconds. Marketers can personalize messaging, content, and calls-to-action for their multichannel campaigns by persona, account and buying stage. (Account based marketing is a significant feature of Triblio.)
+
+Email Marketing Tools
+
+Constant Contact – Design professional-looking emails, grow and manage your email list, and track results. In addition to email, Constant Contact offers tools for social campaigns, online surveys, and more.
+
+iContact – Create HTML emails and signup forms, send campaigns to customers inboxes, track email campaigns, and more. Also offers social social media marketing tools.
+
+Campaign Monitor – Customize your email template, send campaigns, conduct A/B testing, integrate with your blog, and more.
+
+Vertical Response – This free tool enables companies to send emails and newsletters that are responsive on all platforms.
+
+RapidMail – RapidMail is an email newsletter software that also delivers statistics and insights needed to grow a subscriber base.
+
+Sales Panda – Create better marketing collateral, improve SEO, and share relevant content on social media to build your sales pipeline.
+
+GetResponse – GetResponse is an email marketing software that assists in the design and distribution of content for better consumer engagement.
+
+Emma – This email marketing software offers several different editions, customized for businesses, agencies, non-profits and universities.
+
+MailChimp – Use this email marketing software to create a subscriber base, automate and personalize emails.
+
+Sales Enablement Tools
+
+Seismic – Make sure all your content is up to date and relevant to create polished presentations and forecasts.
+
+Savo – Savo benchmarks users’ sales enablement process against the industry they’re in. Has a set of integrated sales enablement tools to accompany an organization’s existing process.
+
+Docurated – Helps to create presentations with repurposed content and surfaces users’ most relevant content to be included.
+
+Postwire – Post, edit, and share various types of content. Manage relevant content for your sales teams in one spot.
+
+Qvidian – Sales enablement solution. Helps businesses reduce the sales team onboarding time, and allows these teams to collaborate more efficiently.
+
+Jive Software – Enables company-wide collaboration in one workspace. Get collateral out the door quickly, stay organized, and better enable sales.
+
+SalesFusion – Align marketing and sales with lead scoring, marketing automation and much more. Created specifically for mid-sized B2B companies.
+
+Social Media Management and Listening Tools
+
+Sprinklr – Large global companies use this social media management system. Engage with customers, connect with CRM systems, build custom widgets, publish and manage content, and more.
+
+Tweetdeck – Track brand mentions and hashtags, manage multiple Twitter accounts, schedule Tweets, and more, all in a single Twitter platform.
+
+Hootsuite – Manage multiple social media accounts, analyze social media traffic, track brand mentions, collaborate with other team members, and schedule messages and tweets.
+
+Buffer – Add articles, photos, and video. Buffer will automatically post it to your social media accounts throughout the day.
+
+Keyhole – A real-time dashboard shows how many people posted with your hashtag. Also the number of Retweets, Likes, and Impressions your campaign is generating.
+
+Sprout Social – This management tool lets multiple users schedule, publish and analyze social media posts across several platforms.
+
+Social Bro – Follow trends on Twitter and capitalize upon them with this fully functioning twitter listening and publishing tool.
+
+Salesforce Marketing Cloud – Find and analyze what’s being said about your brand, and your competitors. Find out what customers want, which content is working, and how to keep up with the conversation.
+
+Social Mention – Social search engine that searches for and analyzes real-time aggregated content across 100+ social media platforms.
+
+Bottlenose – Track what’s trending in your industry. Get warnings about breaking news stories using advanced topic discovery and NLP (Natural Language Processing).
+
+Spredfast – Creates company-wide social media collaboration and monitoring, and configures social analysis reports.
+
+Meltwater Buzz – A social media marketing SaaS. Combines monitoring and analytics with engagement to give users a complete lifecycle approach to social media community management.
+
+Marketwired Resonate – With this platform, users connect to their industry marketplace in real time through social media and traditional distribution.
+
+CisionPoint – PR software that helps users reach their audiences and manage campaigns across traditional, digital and social media.
+
+Mentia – Helps you find relevant content and schedule social media updates to earn a better ROI.
+
+MavSocial – Free social media platform for managing distribution.
+
+Post Planner – Makes it easy for marketers to find and post content to social media consistently, while getting predictable and measurable results.
+
+ReachPod – This platform helps to monitor and manage web presence and social media accounts
+
+Social Media
+
+Twitter – Boasts over half a billion registered users. Twitter lets users post messages of up to 140 characters, share photos and videos, create custom lists, send direct messages, and more.
+
+Facebook – Has over a billion users. Lets users connect with friends, share links, photos, videos, and events, join groups, and more.
+
+Pinterest – Pinterest users share and tag images and videos on customizable boards, follow brands and individuals, “repin” images, and more. Has nearly 50 million users.
+
+LinkedIn – A business-focused online network. Share links, add connections, join groups, write recommendations, search for connections by company, industry, skills, and more.
+
+Google+ – Google’s social network. Allows users to set up hangouts using video chat, create “circles” of people for organizing contacts and targeting messaging, and more.
+
+For a deeper dive into content promotion tools, consult Curata’s ultimate list.
+
+Blogging and CMS Tools
+
+Percussion – This streamlined CMS offers editable templates, shared assets, versioning, automatic link management, drag and drop editing, and more. Enables content producers to simplify their content editing and publishing process.
+
+Tumblr – Known for its community of content creators and curators and its capabilities for sharing multimedia content. This microblogging platform hosts over 100 million blogs.
+
+WordPress – The world’s most popular CMS and blogging software lets users create custom themes, add plugins, publish content, moderate comments, and more.
+
+Livejournal – With over 63 million journals and communities, Livejournal offers a free, open-source platform for blogging and sharing content.
+
+Drupal – This open-source CMS powers millions of websites and applications. Add-on modules and designs let companies or individuals tailor a site to their needs.
+
+ScribbleLive – Combines content planning and publishing tools to allow marketers to create robust content hubs and websites.
+
+Contentful – Content Management platform helping editors and developers oversee and serve content into mobile and web applications.
+
+Content MX – Platform to help define and implement a content strategy across blogs, social media and email newsletters.
+
+Distribution/Syndication Tools
+
+Brightcove – Cloud content services provider. Offers an online video platform for adding custom video players to websites, social media profiles, and mobile destinations.
+
+PR Newswire – Distribute news releases to a global media database of more than 700,000 journalists and blogger contacts. Monitor traditional and social media, and engage in real time with journalists, bloggers, and other influencers.
+
+SlideShare – Upload and share slide presentations, gain insight into who’s viewing your presentations, collect business leads, and more.
+
+Cadence9 – A unified solution for managing content marketing. Lets marketers plan content using an editorial calendar, assign tasks to team members, manage content creation and publishing workflow, and more.
+
+Papershare – Cloud-based promotional tool for content marketers that distributes to multiple channels. Alerts marketing and sales teams when content is published. Leads are also integrated into salesforce and marketing automation softwares.
+
+PixxFly – Automate the distribution and syndication of all your content with this outbound marketing automation solution.
+
+Influencer Marketing Tools
+
+Traackr – Manage influencer relationships. Traackr lets users discover influencers, nurture relationships, and demonstrate the impact of these relationships.
+
+Little Bird – A social monitoring tool. Users can create lists of peer-validation ranked influencers across social platforms on various topics to stay on top of the conversation in their industry.
+
+Onalytica – Provides influencer marketing software and supporting services. Helps users identify industry influencers and improve relationships with them.
+
+BuzzSumo – A content performance analysis tool. Can identify the influencers who are creating popular, newsworthy content.
+
+Klout – Scores social media users’ influence on a 100-point scale. Takes into account platforms such as Facebook, Twitter, Instagram, WordPress, LinkedIn and more.
+
+Exposely – Pairs brands with influencers willing to sell advertising space on their social channels and other owned platforms.
+
+Tap Influence – Makes it easy for brands to identify and communicate with social media influencers, and collaborate on content creation.
+
+Kred – Users can identify social media influencers with Kred, which measures influence based on Twitter and Facebook output.
+
+Brand24 – Searches for mentions across the web. This is a good way for searching influencers, getting news from your niche, checking opinions, etc.
+
+Dibz – A link building and prospecting tool for independent SEO consultants and full-service marketing agencies.
+
+Advocate Marketing Tools
+
+GaggleAMP – Amplify social media efforts. This tool allows you to create “gaggles” of people who can share company social media updates to their followers.
+
+SocialChorus – Create brand ambassadors out of employees, customers and partners. This tool enables the amplification of social media posts.
+
+Amplifinity – Creates advocacy programs across several mediums such as email, direct mail and social media.
+
+EveryoneSocial – Allow employees and customers to build their own social profiles while simultaneously sharing your company’s created and curated content.
+
+SoAmpli – Encourage employees to become brand advocates. Helps you feed content to employees and reward them accordingly.
+
+Influitive – Create an army of advocates. Fosters a community of customers to share your content across various platforms.
+
+SociaLook – Increase content traffic and conversion rates by sending messages through employees’ social media presence.
+
+Dynamic Signal – Lets employees receive and post company-approved content to their social networks, transforming them into experts, advocates, and contributors. By extending their social media strategies, Dynamic Signal’s clients ignite brand awareness, employee engagement and revenue.
+
+Sociabble – An employee advocacy platform. Enables companies to reach and share more effectively by creating a one-stop information hub for employees.
+
+Social Chorus – A handheld app that connects every employee to a daily digest of work news and content.
+
+Paid Promotion Tools
+
+ContentGain – This widget places links to third-party content on other websites to boost distribution. The original content publisher shares ad revenue with the website sharing the content.
+
+Disqus – This discussion platform helps bloggers and website publisher engage readers through the comment section.
+
+OneSpot – Automatically turns owned or earned content into optimized ads. Also distributes the content across OneSpot’s ad inventory, retargets users, and monitors results.
+
+Gravity – Using algorithms based on users’ reading and sharing history, Gravity enables websites to deliver personalized recommendations.
+
+Limk – Content distribution and discovery platform that helps websites grow traffic while reaching highly engaged audiences.
+
+Outbrain.com – This content discovery tool recommends your content to readers of other premium publishers. Offers a personalized reader experience and exposes your content to engaged readers.
+
+Vocus – Scans for prospects looking for companies like yours. Suggests relevant social conversations, and distributes your press for traffic and search.
+
+Taboola – This promotional tool takes your content and places it on publishing websites, targeting it towards your selected audience.
+
+nRelate – This platform helps content developers and publishers find an easier path to their target audience. Grow your reader-base from your site or elsewhere on the web.
+
+Content Blvd – Connect with brands and publishers to create relevant and rewarding product placements.
+
+Vibrant Media – This native advertising tool places content directly within other editorial content and all triggers are user-initiated.
+
+issuu – Publish content such as magazines, catalogs, eBooks and more on this free platform.
+
+Shareaholic – Implement sharing buttons and advertise content with this all-in-one content amplification platform.
+
+Cooperatize – Promote sponsored content with this tool that connects brands with the most popular bloggers and publishers across the Internet.
+
+Zemanta – This plug-in creates connections between bloggers, content creators, and publishers that publish content on similar topics.
+
+For a deeper dive into content promotion tools, consult Curata’s ultimate list.
+
+Webinar Tools
+
+ReadyTalk – This online conferencing tool offers a single interface for web, audio, and video conferencing. Also features the ability to record and share webinars and integrate with mobile conferencing.
+
+Webex – Using Cisco’s webinar products, users can host or attend meetings using HD video, share files, and more.
+
+BrightTalk – Run interactive live webinars with features including real-time polls, downloads, question and answer, and more.
+
+GoToMeeting – This online meeting platform allows users to host unlimited meetings with up to 25 attendees. Is supported for Mac, PC, iPhone, iPad, and Android.
+
+iMeet – A cloud-based video conferencing platform that allows up to 15 users to talk via webcams.
+
+Event Marketing Tools
+
+CVENT – Offers software solutions to event planners. Includes online event registration, venue selection, event management, mobile apps for events, email marketing and web surveys.
+
+Double Dutch – Mobile event applications, with a unique focus on capturing and surfacing data from live events.
+
+Certain – Designed specifically for marketers and other professionals to easily organize, manage and produce live events.
+
+EventPro – Can be used for all of your event scheduling needs, from booking rooms to catering and beverages.
+
+eTouhes – Helps your whole team collaborate and manage the event planning process from end to end.
+
+Eventbrite – Set up events, control ticket prices and communicate with attendees.
+
+Guidebook – Build and launch branded mobile app guides for corporate meetings, sales kickoffs, trainings, conferences and events.
+
+Digital Asset Management
+
+Widen – Create, manage, distribute and preserve content with this digital asset management system.
+
+WebDAM – Gives enterprise customers the ability to store, organize, find, retrieve and share digital files.
+
+Canto – Simplifies the management of all digital assets within a company, creating smarter workflow processes and organization opportunities.
+
+Razuna – Stores, shares, secures and indexes digital files and then makes them available in a search tool.
+
+Adobe Experience Manager – Companies can create, manage, and optimize digital customer experiences. Works across a number of channels including web, mobile apps and sites, as well as social communities.
+
+IntelligenceBank – Offers four different asset management apps based on your business size and specific needs. Provides features such as file storage, and risk and compliance.
+
+Media Valet – Access and manage your assets from virtually anywhere with this cloud computing software.
+
+Bynder – Cloud-based brand management software that optimizes and automates internal content processes.
+
+Content Audit Tools
+
+Content Insight – Develop a content inventory with this auditing tool that provides you with a summary all existing content.
+
+Blaze Content – Inventory, audit, and analyze your content.
+
+Sources for Content Creation
+
+Scripted – Subcontract writing projects to an online writing team through this online platform. Also offers copyediting and the ability to request pitches from writers.
+
+Textbroker – Assign writing projects including SEO and website localization through this online platform.
+
+Skyword – This content production system allows companies to manage and pay writers, use an SEO scorecard to optimize content, and more.
+
+Brafton – Features in-house search engine optimization and social media marketing expertise. This online agency creates news content, videos, infographics, and other items for businesses.
+
+Zerys – A project management tool and content marketplace. Allows businesses to locate professional freelance writers, assign and review content, export or auto-publish content, and more.
+
+Pulse Point – Technology platform that combines programmatic targeting, distribution and optimization with content marketing.
+
+DOZ – Sources, qualifies and selects the best local marketing professionals to execute marketing tasks.
+
+Contently – Online platform for content marketing. Find and collaborate with high-quality freelance writers, manage payments and assignments, and more.
+
+Copify – Platform that helps users looking to outsource content creation. Marketers can find qualified copywriters by providing details such as topic and format.
+
+Wordsmith – This software enables you to create an unlimited number of articles or reports using data. Upload your data, design your story structure and generate your content. (Wordsmith by Automated Insights)
+
+For a deeper dive into content writing services, consult our ultimate list.
+
+Content Curation Tools
+
+Curata CCS – Easily find, organize and share relevant content for your business. Position your brand as an industry thought leader, increase brand visibility, and generate leads.
+
+Scribit – Search and browse for articles and videos, share content, and track conversions using this content curation platform.
+
+Magnify – This fully customizable platform allows publishers and brands curate and share online videos.
+
+Content Optimization Tools
+
+Scribe – Created by the people behind Copyblogger Media. Scribe helps content creators identify topics relevant to the intended audience, measure social media engagement around content, and more.
+
+Wordy – Pairs professional content editors with users to edit, proof and optimize various forms of written content.
+
+Atomic Reach – This content scoring system analyzes content based on quality and relevance for specific audience segments such as “Specialist” or “Academic.”
+
+Localization
+
+CloudWords – This translation management tool allows you to localize content. Simply upload it to the system and then select a vendor to translate it.
+
+SmartLing – Speak to customers in their native language. Automates the translation process by connecting content producers with translation professionals.
+
+Translationcloud.net – This is a hub for hiring professionals who translate content to a variety of languages.
+
+Phrase App – Translate content that is stored on websites, mobile and desktop applications with this translation management software.
+
+Crowd in – Manage the localization workflow process. This software helps control the process, and also provides tools for translators to work more efficiently.
+
+OneSky – Translate apps or websites into 47 different languages with this translation service platform.
+
+PoEditor – Allows for a hassle free software localization process through a collaborative translation platform.
+
+Content Enrichment Tools
+
+Storify – Collect social media mentions on a chosen topic, trend, or event. Curate the best social media elements in one place.
+
+Silk – Use your company’s data to create structured web pages that automatically draw connections between facts, data, and more.
+
+AcroLinx – Make all content consistent. This tool analyzes each writer’s content for tone of voice, style, SEO, and more to ensure it aligns with a predetermined company standard.
+
+Writing Tools
+
+Byword – This text editor works across desktops, iPads and iPhones. Allows users to compose text with keyboard shortcuts, word counters, and more.
+
+Hemingway – Hemingway brings clarity to your writing. Identifies common mistakes in sentences such as illogical structure, grammatical errors, and overuse of adverbs.
+
+Evernote – A workspace app that syncs across all your devices. Manage notes, ideas, and sketches to create better, more organized writing.
+
+Ulysses – This text editing app lets users focus on writing. Provides the regular features of a word processor without cluttering up the screen.
+
+Quabel – Use Quabel to write distraction-free in full-screen mode. Also keep track of word count and estimated time for someone to read the piece.
+
+Google Docs – Use Google’s online word processor to write, track changes and collaborate with other users.
+
+WriteWell – Online software that helps you write efficiently and effectively with processes and templates.
+
+Content Collaboration Tools
+
+Compendium – Plan your content using Compendium’s calendar-based tool. Create efficiently placed content across multiple channels, and track the effectiveness of each piece of content.
+
+CoSchedule – An all-in-one collaborative editorial calendar for marketing. Allows you to schedule posts, social media, and team tasks, all from WordPress or the web app.
+
+Divvy – This platform combines web-based calendars, content management and online collaboration. Helps global content teams plan, schedule and produce any type of content across an organization.
+
+ProofHub – Project management tool for organization and collaboration with clients, vendors and stakeholders.
+
+Comindware – Delivers Business Operations Management solutions to enable performance and efficiency optimization.
+
+GatherContent – Organize and streamline your website content. Use drag and drop features, create content guidelines, collaborate with a content team, and export content using this online collaboration tool.
+
+Google Drive – Create, store, and share including spreadsheets, text documents, drawings, forms, and presentations.
+
+Kapost – This content marketing platform allows marketers to collaborate, distribute, and analyze all content types within a single platform.
+
+SocialCast – This collaboration tool organizes workflow into a single location accessible from anywhere on any device.
+
+Marketing-AI – With this platform users are able to collaborate with team members in a calendar, build a content strategy using a framework, promote published content, and measure its impact.
+
+Curata – Curata enables marketers to create better content, and finally know what works to grow leads and revenue. The Curata CMP content marketing platform offers strategy, production (e.g., calendaring, workflow) and comprehensive analytics. Curata CCS offers enterprise level content curation.
+
+Beegit – Use Beegit to organize your content marketing workflow across teams and departments. This all-in-one collaboration tool monitors activity, approval, communications and images.
+
+Brightpod – This project management tool is made specifically for digital marketing activities, monitoring project status, task assignment and more.
+
+Contentful – This cloud-based software allows for live collaboration, image uploading and a publishing tool that optimizes content for any device.
+
+Content Launch – Designed specifically for small and medium sized businesses. Helps manage workflow and distributes content with one click.
+
+Trello – Trello is an easy and visual way to manage your projects and organize anything.
+
+Hightail – Cloud platform for creatives to share files, get feedback, and take projects from conception to completion. Share images, videos, PDFs, presentations, and more.
+
+Conversion Optimization Tools
+
+SumoMe – Add a variety of pop-up and opt-in forms to your website to generate leads and grow your subscriber base.
+
+Pippity – Use Pippity to create pop-up subscription forms for your site. Customize when these forms appear and experiment with A/B testing.
+
+BrightInfo – Assess the conversion rate of your existing website. Create more opportunities for conversion with a variety of opt-in form placements.
+
+Convert – Learn the content preferences of your website visitors using A/B testing. Optimize your site to increase conversions.
+
+Optimizely – Track and analyze all conversion opportunities on your site and make appropriate improvements and changes.
+
+Captora – Captora helps marketers scale and optimize digital marketing campaigns to accelerate pipeline and capture new buyers.
+
+Graphic Creation Tools
+
+Easelly – Uses a theme-based approach to creating infographics and visualizations. This online tool lets users drag and drop art into a theme to create shareable graphics.
+
+Visual.ly – Browse infographics and data visualizations. Create your own to drive traffic to your brand’s website and amplify your social media presence.
+
+Adobe Creative Cloud – Sync and organize your creative assets across multiple devices. Track comments, build and publish websites, apps, and more.
+
+Youzign – Create nine different types of graphics, from infographics to flyers, with this free, online graphic design tool.
+
+Pixlr – Edit and create photos for your website and ensure they are optimized for various devices.
+
+Canva – Online image creation tool that also comes with a stock photo library. Create graphics for your blog, social channels, website and much more.
+
+infogr.am – Helps users create interactive infographics. You can edit data, download infographics and share and embed them.
+
+PicsTouch – Free and easy to use tool for cropping and resizing images.
+
+Piktochart – Provides infographic templates for users and helps you create and share compelling content.
+
+TinyPNG – Allows you to compress png files to host on your website.
+
+Snappa – Easy to use graphics design tool with hundreds of ready made templates to choose from.
+
+Placeit – Drop an image into an iPhone, iPad, or Macbook mockup. No photoshop needed.
+
+Image Changer – This online image manipulation tool lets you crop and resize images, make fun faces, and easily generate memes.
+
+Video Creation Tools
+
+KnowledgeVision – Turn presentations and web content into an integrated, interactive online video experience. Does not require special software or app downloads.
+
+Brainshark – Sync up marketing and sales people using a systematic, coordinated approach in this content-centric sales platform.
+
+Camtasia – Helps users create high quality videos without prior experience. This tool records on-screen activity and also allows users to import from HD devices to edit and share video content
+
+Jing – This free tool helps users share images and record videos from their screens. Users are able to quickly share this media to email, social and other various platforms.
+
+Wyzowl – This software helps create engaging visual content such as videos to market a brand.
+
+Animatron – Free HTML5 online animation maker, banner maker, and video maker.
+
+idomoo – Personalized video as a service. Provides scalable, secure mass video production. Video is automatically produced and personalized with each customer’s information and/or relevant offers.
+
+Presentation Tools
+
+Prezi – This presentation tool helps users organize and share ideas by creating visualizations.
+
+eBook Creation Tools
+
+Lookbook HQ – Compiles all the information you want to display to customers into a visually appealing lookbook that’s embeddable and shareable.
+
+Uberflip – Pulls all of your content: articles, social channels, and videos, into a single centralized content hub.
+
+Zmags – This platform helps e-commerce users create and share online catalogs, lookbooks, magazines, etc. to increase consumer engagement.
+
+Audio Creation Tools
+
+Audacity – Record, edit and publish podcasts and interviews with this free software.
+
+Podbean – Share and create podcasts with this tool that also lets you sell podcasts with no transaction fee.
+
+ePodcast Creator – Control and customize every step of the podcast creation process. A full editing studio that creates a professional sound.
+
+Interactive Content Marketing Tools
+
+Wheeldo – Use Wheeldo to create lead-generating quizzes for your website, email list or social channels.
+
+SnapApp – Helps users create interactive content that runs across all platforms and is customized for each device.
+
+ion Interactive – This software transforms existing content into interactive content, such as lookbooks, calculators, infographics and more.
+
+Qzzr – Users can create quizzes to embed on websites, share on social media and eventually generate leads.
+
+Contest Factory – Create surveys, questionnaires, sweepstakes and more with this software and service provider.
+
+StatSilk – Statsilk is a visualization software that enables users to make interactive maps and other types of visualizations.
+
+Votigo – Build content, sweepstakes and other interactive elements across social platforms with this social marketing management tool.
+
+Kuia – Create calculators to better understand your visitors. Create charts and quizzes that get results.
+
+Zembula – Enables enterprise marketers to build and implement interactive content across multiple channels—and measure success.
+
+Content Marketing Platforms
+
+Curata CMP – Is designed specifically for B2B marketers to drive leads and revenue from content. Key components of Curata Content Marketing Platform (CMP) include strategy, production (e.g., calendaring, workflow) and comprehensive analytics.
+
+Newscred – NewsCred helps brands manage the entire content marketing process on one platform. By managing content creation, distribution and measurement, you can scale and streamline the entire customer experience.
+
+Percolate – A social relationship management platform that also offers unique content management capabilities for large B2C companies.
+
+Compendium – A startup company acquired by Oracle in 2013. It has now been absorbed into the Oracle Marketing Cloud under the product name Oracle Eloqua Content Marketing.
+
+Kapost – Kapost’s Content Marketing Platform allows marketers to collaborate, distribute, and analyze all content types within a single platform.
+
+Account Based Marketing Tools
+
+Terminus – Terminus enables B2B Marketers to target best-fit accounts, engage decision makers on their terms, and accelerate marketing and sales pipeline velocity at scale.
+
+Engagio – Engagio helps companies with complex sales to engage target accounts, expand customer relationships, and deepen sales-and-marketing alignment.
+
+Demandbase – Create targeted, relevant conversations with buyers at every stage. Personalize the web experience, segment and analyze companies and more using this B2B marketing tool.
+
+Licensed Content
+
+Newscred – NewsCred helps brands manage the entire content marketing process on one platform. By managing content creation, distribution and measurement, you’ll be able to scale and streamline the entire customer experience.
+
+Scribit – Search and browse for articles and videos, share content, and track conversions using this content curation platform.
+
+Survey Tools
+
+SurveyAnyplace – Offers a variety of responsive design, customizable online surveys, and data analytics.
+
+SurveyMonkey – The industry leader for online surveys.
+
+WuFoo – Online form builder with cloud storage for creating contact forms, surveys and invitations.
+
+QuickTapSurvey – Capture data anywhere, even offline. Use iPads, iPhones, and Android devices to collect data in person, or send surveys online.
+
+Other Content Marketing Tools
+
+list.ly – Allows users to create lists, share them, and add them to other pieces of content (such as blogs). Also enables crowd-sourcing for continuous list building.
+
+Are you ready to start implementing these content marketing tools in your content marketing strategy? The first step is to take a look within your own organization and start scaling your content operations. Download this checklist to:

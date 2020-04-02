@@ -1,0 +1,37 @@
+Programmers: Please don't ever say this to beginners ...
+
+Here's a sample interaction between an experienced programmer and a beginner who is just learning programming:
+
+Programmer: Hey, I hear you're learning programming. Cool, what're you learning?
+
+Beginner: I'm starting with some basic PHP and HTML using TextMate on my Mac.
+
+Programmer: Haha, psssh, PHP is so dumb. You should learn Ruby on Rails, deploy on Heroku, and code in Vim. TextMate is for n00bs. Oh, then move onto some Node.js, that's sweeeeet. non-blocking I/O w000000t.
+
+Beginner: uhhhhh, ok
+
+I want to flip a shit whenever I hear something like this, because it's totally demoralizing to beginners. What a beginner hears is that someone whom they look up to is devaluing their current efforts and making what they're hard at work learning not seem like “real programming.”
+
+If you're a programmer, please don't denigrate what a beginner is currently learning ... unless you're willing to personally invest the enormous amount of time to ensure that they learn what you want them to learn. Just making a snide drive-by remark about how their choice of languages or tools isn't as cool as what you use will likely drain their motivation.
+
+I know it can be hard to resist sliding in a witty zinger dissing PHP or whatever language people love to hate on this year (I've been guilty of this myself in the past!), especially because you know from the bottom of your hacker heart that your given language, framework, library, text editor, hosting environment, ergonomic keyboard, standing desk, etc. is soooo much better than whatever n00b rubbish they're learning. But please resist.
+
+Just let them first learn something (anything!!!) to get hooked onto the potential of programming, and then you can offer to show them the true light later. If what they're learning is truly so terrible, then they will keep getting stuck and ask you whether there's an easier way. Then, and only then, you can unleash your treatise on pure functional programming or hygenic macros or whatever.
+
+Also, you're probably not the only programmer the beginner is talking to. Many programmers (especially in online forums!) are probably making similar snide remarks, except they're saying that their own favorite language/library/framework/text editor/hosting environment is THE BEST EVAHHHHHHH. So now the beginner is really confused. They're repeatedly told that their given choice of tools is somehow terrible, even though they seem to be doing OK with it at the moment. But even worse, every so-called expert is recommending a different set of tools to learn. Who is right?!? What should they do next?!? For more details on this never-ending sense of frustration, read A Cautionary Tale of Learning to Code. My own. (How a reasonably balanced individual nearly went insane).
+
+OK, so here's a more constructive version of the above interaction:
+
+Programmer: Hey, I hear you're learning programming. Cool, what're you learning?
+
+Beginner: I'm starting with some basic PHP and HTML using TextMate on my Mac.
+
+Programmer: Nice, show me something cool when you've got your first PHP app running! Once you're more comfortable with basic web programming, I can show you my favorite framework, Ruby on Rails. Then we can see what it has in common with PHP, and how it differs.
+
+Beginner: Thanks for the encouragement! Will keep you posted.
+
+P.S. Watch this excerpt from the CS Education Zoo interview with Mark Guzdial for another take on the ideas in this article. Skip to 14:16 if the video doesn't start auto-playing at that point.
+
+Created: 2014-11-22
+
+Last modified: 2014-11-22

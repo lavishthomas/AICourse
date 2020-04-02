@@ -1,0 +1,21 @@
+It is widely forecasted that a shortage of skills in data science and analytics will mean a great deal of money is wasted through missed opportunities in coming years.
+
+Traditional academic establishments have begun to move to fill the gap. However, most courses teaching the hot topic skillsets such as machine learning and predictive modelling are graduate level, with a high barrier to entry. This has created an opportunity for online distance learning providers, which can move far more nimbly to adapt to demand.
+
+Although there are a large number of startups in the field, one old name which is once again making waves is IBM . Its Big Data University initiative has now signed up over 400,000 students. Although it doesn’t charge for any of its courses, it takes a business-centric approach to delivery which sets it apart from many other online open course providers.
+
+Students can sign up independently at home and work at their own speed and on their own initiative, just as they can with Coursera and Futurelearn or other similar services.
+
+However, IBM also works with partners to tailor course packages to fill the needs of individual organizations. And it allows (actually, encourages) third party vendors to sell on their free course material, while adding their own value such as custom delivery and support packages.
+
+This parallels the vendor ecosystem which has emerged around distribution of open source software, platforms and services, often said to be “democratizing” access to Big Data technology. Will this democratize access to Big Data education and training in the same way? It appears that’s what IBM is banking on.
+
+“The number one question I get asked,” Leon Katsnelson, IBM’s director and CTO for analytics platform emerging technologies told me, is “Why are you doing this for free? What’s the real reason?”
+
+“I tell them IBM has not turned into a communist or anti-capitalist entity. We are in the business of selling tools and implements for people to use. If people learn from us, they will buy from us.”
+
+So although Big Data University is owned and administered by IBM it is considered a “community” rather than a corporate division and its courses are designed to be fully platform agnostic.
+
+“We very early on discovered that people want to learn technology. They don’t necessarily want to come to us to learn about a specific implementation by a particular vendor.
+
+“We teach people, we help people get skills, we are not there to teach how to use IBM products,” Katsnelson says.

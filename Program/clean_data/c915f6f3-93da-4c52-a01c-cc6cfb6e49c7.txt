@@ -1,0 +1,117 @@
+When the weather is bad I take a bus to work. I’m forever grateful to the person at the bus stop who informed me that you can text New York’s MTA service to find out exactly where the bus is and when it’s going to arrive. Sure, an app that put the bus on a map would be more rich in information, but when I got to texting Bus Time I thought, “Thank god I don’t need to download another f------ app for this.”
+
+In contrast to a GUI that defines rules for each interaction — rules which, frustratingly, change from app to app — text-based, conversational interactions are liberating in their familiarity. There's only really only one way to skin this cat: The text I type is displayed on the right, the text someone else typed is on the left, and there's an input field on bottom for me to compose a message.
+
+The other primary alternatives to the “There’s an app for that” paradigm are Google Now and Siri today. However, I’m skeptical of a future where we communicate with computers primarily by voice. The visions in 2001: A Space Odyssey and the Her portray voice as the most effortless interaction, but voice actually requires a lot more cognitive and physical effort than pointing with a mouse, typing on a keyboard, or tapping on app icon and then navigating the UI. Consider all those times you’ve exchanged a million texts with someone while making plans when voice would have resolved it much more quickly. Text is often more comfortable even if it’s less convenient.
+
+I believe comfort, not convenience, is the most important thing in software, and text is an incredibly comfortable medium. Text-based interaction is fast, fun, funny, flexible, intimate, descriptive and even consistent in ways that voice and user interface often are not. Always bet on text:
+
+Text is the most socially useful communication technology. It works well in 1:1, 1:N, and M:N modes. It can be indexed and searched efficiently, even by hand. It can be translated. It can be produced and consumed at variable speeds. It is asynchronous. It can be compared, diffed, clustered, corrected, summarized and filtered algorithmically. It permits multiparty editing. It permits branching conversations, lurking, annotation, quoting, reviewing, summarizing, structured responses, exegesis, even fan fic. The breadth, scale and depth of ways people use text is unmatched by anything.
+
+Convenient and comfortable as Bus Time may be, this interaction is still suboptimal: The bot’s language is unnatural and, having interacted with it for months, it never learns that this is my bus, even though it’s the only bus I ever ask about. This actually highlights one of the fundamental differences between apps and services: Whereas we view services as mere endpoints for input/output, we expect apps to retain state from session to session. I’m looking forward to the day when the service graduates from service to app and begins to retain state. I take my seat on the bus and the conversation keeps going:
+
+The other obvious problem is that this interaction is as strict as the command line: If I type “23& 8ht 23M” it might not work. Natural Language Processing still isn’t good enough, or ubiquitous enough, to power an app that primarily interacts via messaging.
+
+Until NLP gets there, though, there are a few ways to alleviate its current shortcomings, and we can see a few of them happening right now.
+
+GUI-Aided Chat
+
+Lark for iPhone is a virtual health coach that interfaces with HealthKit on the iPhone. They do an excellent job at weaving free-form chat with GUI.
+
+Lark is also excellent at message design. The tone is natural and the tempo is fast but not so fast as to make you feel like your responses are perfunctory.
+
+Some of these smarts are already built into the iOS Messages app. QuickType, which is new to iOS 8 but not far removed from typing assistants like T9 and Swype, is quite good at turning a prompt (“Send: 1 or 2”) from SMS into a series of one-tap inputs (“1”, “2”, and “Not sure”). This isn’t Photoshopped.
+
+I’m slightly surprised that we haven’t yet seen a chat agent that leverages the convenience of QuickType. The primary obstacle is likely that SMS is slow and expensive, which is why the App as Personae model, via one of the OTT messengers, makes so much sense.
+
+Apps as Personas
+
+Here in Western markets, if you want to interact with a service from your phone, you either visit its mobile website or, more likely, you download the app. In China’s WeChat and other services across Asia, the services you may want to interact with are right there in your messenger. There’s no need to download an app: It’s as if you could just tap on an app in the App Store and start using it within the App Store app.
+
+App-as-Personae is a more elegant solution to the problem I described earlier about Bus Time (i.e., it never retains a state that M23 is my bus). One easy alternative for Bus Time that would be to offer M23 as a unique PTSN that I can message with instead.
+
+The most obvious candidate to become the WeChat of the West is Facebook Messenger, which brought on David Marcus to do something along those lines (“Look East, young man” is the new “Look West, young man”). They also recently purchased Wit.ai, an API provider that helped app developers parse natural language. Perhaps Facebook has already burned developers too badly in the past to even attempt this. Regardless, one can easily imagine our services sitting right alongside our contacts in a messenger experience.
+
+Meanwhile, Path (reportedly an acquisition target for Apple) acquired TalkTo to build a messenger where services and venues sit side by side in the contact list with friends. Kik and Snapchat have eyes on the same market. Arriving on the scene this weekend is Magic, is a virtual assistant that you interact with purely by SMS:
+
+Were an App-as-Personae model to emerge in the West, it would be at least somewhat disruptive to Google (because it could cut away from Search) and Apple (because it could cut away from the App Store). That’s especially true if the rise of cards comes to fruition, and all the content locked in apps and on the web can be quickly consumed from within a chat. Here’s that vision realized with the Wildcard SDK:
+
+Look at how well Luka, which popped up only today on Product Hunt, meshes chat with cards.
+
+You’d think that Apple and Google would see this coming, so it’s likely that they would either 1) Try to stifle Facebook’s efforts to bundle all services inside Messenger (seemingly impractical) or 2) Try to beat them to the punch.
+
+Half the effort in messaging is about smarter clients, and the other half about smarter messages — Benedict Evans (@BenedictEvans) February 7, 2015
+
+The most obvious path for Google and Apple to beat one of the messengers to the punch is to open up their own messengers: Hangouts and Messages. That would entail disrupting their own models to some degree, but there’s yet another alternative that might preempt a runaway messenger: embed services within all text across the OS.
+
+Deeper Semantics
+
+All the examples I’ve shown to this point depict a largely discrete mode of interaction. GUI-aided chat presents the end user with explicit responses, while Apps as Personas merely shifts the origin of the “launch” action from the springboard to the contact list in your messenger. As enumerated earlier, the primary interaction models since the beginning of computing have been very discrete.
+
+What if the next model were significantly more fluid and conversational? Rather than the OS defining the rules of launching an app, users essentially drive their interaction with services according to their needs and context.
+
+We can see the beginnings of this model on the market today. On the desktop, ChatGrape obviates the need to open a separate tab or app to get you to do your data and documents: Just type ‘#’ and then follow it with the data or documents you’re looking for.
+
+Sure, the examples you see here entail opening files within third-party apps, but from here you’re only a hop, skip and a jump from accessing data without ever launching an app. There are tremendous productivity gains to be made by embedding within messaging the data that is currently locked in files.
+
+Perhaps no one has embraced messaging as an input method as well as Slack. In Slack, for example, you never fill out your profile information in what would otherwise be a traditional, dull form. You just chat it out with Slackbot.
+
+The integrations in Slack are also amazing. For example, you can just type /appear and you’ve launched an appear.in video chat.
+
+As before, that launches the appear.in app, but you’re only a hop, skip and a jump from an interaction model that more closely mirrors your omnipresent virtual assistant: You state, in fairly plain language aided by an escape character, that you want to launch a video call, and then you’re in a video call.
+
+It’s not hard to imagine how this works on the phone. In fact, it already kinda does:
+
+Now expand the horizons of the keywords that the OS can identify:
+
+Here the OS recognizes “talk this out” as a keyword for placing a call and immediately initializes a call. This saves one from launching FaceTime, or tapping into the person’s contact view to find that little “Call on Facetime” icon.
+
+Now expand the horizons even further and imagine that apps and services can respond to all kinds of objects: Dates, Actions, Names, Brands and so on. Say the OS knows that I’m a Foursquare user, I could ask Foursquare directly for a recommendation:
+
+Imagine if services could even respond directly to my input:
+
+Or, outside of messengers, services that respond to text selection with semantically relevant content.
+
+What’s intriguing about this is how it shifts the responsibility of explicitly linking content from the content creator to the OS and the services themselves. Or perhaps even, in the example above, the person whose name is highlighted might have some say in the matter. The possibilities are as broad as language itself.
+
+The end of the beginning
+
+Messaging is the only interface in which the machine communicates with you much the same as the way you communicate with it. If some of the trends outlined in this post pervade, it would mark a qualitative shift in how we interact with computers. Whereas computer interaction to date has largely been about discrete, deliberate events — typing in the command line, clicking on files, clicking on hyperlinks, tapping on icons — a shift to messaging- or conversational-based UI's and implicit hyperlinks would make computer interaction far more fluid and natural.
+
+What's more, messaging AI benefits from an obvious feedback loop: The more we interact with bots and messaging UI's, the better it'll get. That's perhaps true for GUI as well, but to a far lesser degree. Messaging AI may get better at a rate we've never seen in the GUI world. Hold on tight.
+
+Thanks to Julien Genestoux, Joel Monegro, Jason Black for their feedback and input on this post.
+
+Additional Reading
+
+For more (and much more refined) reading on this topic, check out these sources:
+
+Some of the interesting apps and services in this space:
+
+Twoodo: Team collaboration tool for the #hashtag generation
+
+Lark: Automated chat-based health app
+
+ChatGrape: Reference all data from your external services right as you type
+
+Appear.in integration for Slack
+
+Dasher: Messaging with benefits
+
+Path Talk: Smart, private messaging
+
+Magic: Text to get whatever you want on demand
+
+Slack: A platform for team communication
+
+Cloe: A text message concierge
+
+Luka: A.I. recommending restaurants in SF in a chat interface
+
+Fantastical: A natural language calendar for Mac & iOS
+
+x.ai: a personal assistant who schedules meetings for you
+
+Glip: Real-time messaging with integrated task management, video conferencing, and shared calendars
+
+Historical precedent:

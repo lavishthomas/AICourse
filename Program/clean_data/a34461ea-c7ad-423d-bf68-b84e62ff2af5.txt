@@ -1,0 +1,9 @@
+Amazon Rekognition, Amazon’s deep learning-powered image detection and recognition service, is getting a little bit smarter today. Amazon says the service can now recognize hundred of thousands of celebrities across a number of categories that include politics, sports, business, entertainment and media.
+
+I tried it with a couple of random images I found on Google (ranging from Conan O’Brien to Justin Bieber and a few random actors and actresses in-between) and Rekognition got them all right. Like similar services from Google and Microsoft, developers use Rekognition by pinging an API, but if you have an AWS account, you also can try the demo here.
+
+Whenever it’s available, Rekognition will also link to that celebrity’s IMDB page (which makes sense, given that the IMDB is an Amazon subsidiary).
+
+This new feature complements existing Rekognition capabilities like being able to detect people’s emotions and demographics, facial recognition based on your own image sets and object and scene recognition.
+
+It’s worth noting that Google’s Vision API doesn’t currently offer a similar celebrity recognition feature, but Microsoft’s Cognitive Services does. Microsoft says its version of this feature can recognize about 200,000 celebrities. In my tests, Microsoft’s service performed just as well as Amazon’s, but with the added benefits of being able to identify additional information about other objects in a scene and being able to create a caption based on this (think: “Justin Timberlake wearing a suit and tie smiling at the camera”).

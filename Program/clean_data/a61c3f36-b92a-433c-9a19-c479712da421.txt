@@ -1,0 +1,29 @@
+If the barrier to precision medicine is data handling, then artificial intelligence (AI) may be the logical solution. Machine learning and deep learning are making inroads in a variety of industries, and seem poised to have a big impact in medicine, a process that is already in motion – and perhaps not a moment too soon.
+
+“Your chance in your lifetime of getting a false diagnosis, if you look at the data, is 100 percent,” said Thomas Wilckens, founder and CEO at InnVentis to the audience at the recently-concluded Precision Medicine Leadership Summit in San Diego. “There’s a lot to improve.”
+
+Wilckens moderated Going Deep in the Fast Lane – the Rise of AI in Precision Medicine, which combined experts from industry and academia to parse this evolving segment. In some cases, these technologies have already arrived, though admittedly in rare silos.
+
+“I started my company in Israel because they’ve had electronic medical records for more than 15 years, like in Estonia,” said Wilckens. “These countries use algorithms to manage diseases, like diabetes. The patient doesn’t even see a doctor until some computer pops out results, which possibly indicate some deterioration. They have algorithms in Estonia from the biobank that are almost spooky in predicting when people will deteriorate.”
+
+One of the underlying issues is whether the data is ready for AI. Atul Butte, who directs the Institute for Computational Health Sciences at UCSF, as well as being the executive director of clinical informatics for the entire UC health system, has some insights into these matters. He points to genomics and electronic health records as excellent sources.
+
+“More data is always good, but I’m a believer we have amazing data right now,” Butte said. “We actually don’t have enough people using the data right now. The real danger is to wait for perfection. That’s where the Voltaire quote comes in: Perfection is the enemy of the good. We are at good right now.”
+
+This includes data from insurance claims, electronic health records, imaging, genotyping, cancer genetics and clinical research – like the Framingham Heart Study.
+
+There’s also the potential to mine massive amounts of plain vanilla online data to get intriguing results.
+
+“The real opportunity of all that data is not the patients who are already sick, it’s identifying and understanding those who are currently not touching the system,” said Nick van Terheyden, founder, and CEO of Incremental Healthcare. “All the invisible patients…that we can identify based on that additional data set…”
+
+A recent paper used Instagram photos to detect juvenile depression. Another study mined Bing search engine data to identify people with undetected cancer.
+
+“Eric’s (Eric Horvitz, senior author) finding was that, based on a consumer’s search patterns, he was able to, with a high degree of accuracy, find people with undiagnosed pancreatic cancer based on their web browsing,” said Simon Kos, chief medical officer at Microsoft.
+
+While data dragnets can find useful, perhaps even lifesaving information, they can also produce unwanted insights and privacy concerns. But there’s also the issue of reciprocal data sharing. How much de-identified data should hospitals be sharing with industry and vice versa. It may not be a level playing field.
+
+“Why doesn’t Microsoft put out a de-identified list of their customers?” asked Butte. “You guys sell Windows to people; you guys sell Office to people. Why can’t I download that data set? I see tech companies always asking us to share data, but they themselves never share data.”
+
+Ultimately, the sector needs to learn to crawl before it can walk. AI in healthcare is being test driven outside of patient care – in finance, for example.
+
+“We’ve done a lot of work around the use of predictive analytics with healthcare providers…to advance AI for precision medicine when it moves into clinical practice,” said Andy Bartley, senior solutions architect for Health and Life Sciences at Intel. “Predictive is where we’re seeing a lot of adoption right now.”

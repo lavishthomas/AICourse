@@ -1,0 +1,93 @@
+List of Free Learning Resources
+
+View the English list
+
+Intro
+
+This list was originally a clone of stackoverflow - List of Freely Available Programming Books by George Stocker.
+
+The list was moved to GitHub by Victor Felder for collaborative updating and maintenance. It grew to become one of the most popular repositories on Github, with over 80,000 stars, over 4000 commits, over 800 contributors, and over 20,000 forks.
+
+The repo is now administered by the Free Ebook Foundation, a not-for-profit organization devoted to promoting the creation, distribution, archiving and sustainability of free ebooks. Donations to the Free Ebook Foundation are tax-deductible in the US.
+
+How To Contribute
+
+Please read CONTRIBUTING.
+
+How to Share
+
+In Other Spoken Languages
+
+Arabic: github
+
+Azerbaijani: github
+
+Bulgarian: github
+
+Burmese: github
+
+Chinese: github
+
+Czech: github
+
+English: github
+
+French: github
+
+German: github
+
+Greek: github
+
+Hungarian: github
+
+Indonesian: github
+
+Italian: github
+
+Japanese: github
+
+Korean: github
+
+Persian/Farsi (Iran): github
+
+Polish: github
+
+Portuguese (Brazil): github
+
+Portuguese (Portugal): github
+
+Romanian (Romania): github
+
+Russian: github
+
+Slovak: github
+
+Spanish: github
+
+Swedish: github
+
+Turkish: github
+
+Ukrainian: github
+
+Free Online Courses
+
+Interactive Programming Resources
+
+JavaScript Frameworks and Resources
+
+Problem Sets and Competitive Programming
+
+Podcast - Screencast
+
+Free Podcasts and Screencasts:
+
+Czech: github
+
+English: github
+
+Portuguese (Brazil): github
+
+Russian: github
+
+Programming Playgrounds

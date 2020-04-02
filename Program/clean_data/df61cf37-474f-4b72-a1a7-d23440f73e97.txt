@@ -1,0 +1,9 @@
+Hyper-Threading has been in Intel's processors for years. It's the main difference between the Core i5 and i7, and that many games don't use it explains why i5s power some serious gaming rigs. If you've been considering an upgrade but you're not sure if you need Hyper Threading, this video from Techquickie will help.
+
+Strictly speaking, Hyper-Threading is best applied to operations and applications where multiple tasks can be intelligently scheduled so there's no idle time on your processor. Tasks like video editing, 3D rendering, and heavy multi-tasking are great examples. Similarly, Hyper Threading can help a CPU push light tasks like background applications or browser windows to one processor, while heavy applications like games or full-screen video goes to another.
+
+Advertisement
+
+On the other hand, operations where tasks have to be done in serial, or where one operation has to take place before another can begin, generally don't benefit from Hyper-Threading. Whether you have a single core or a quad core, Hyper-Threading can optimize tasks that can be conducted in parallel so the whole operation is faster—but it's not the same as or even similar to increasing your number of processing cores. It does come with downsides (heat output and power consumption, for example), but the benefits usually outweigh them. Check out the full video for more detail.
+
+What Is Hyper-Threading Technology as Fast As Possible | TechQuickie

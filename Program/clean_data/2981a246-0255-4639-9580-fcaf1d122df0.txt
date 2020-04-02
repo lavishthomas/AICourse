@@ -1,0 +1,127 @@
+Keyboard
+
+All source files and schematics are available on Github.
+
+Some years ago, I wanted to make a Nixie Tube clock from scratch. PCB manufacture was so expensive that I ended up just making the PCBs by hand. I figured I would give the market another look, and dang has custom PCB manufacture become cheap! The best/easiest service that I found was OSH Park. I'd never had PCBs made professionally before, so OSH Park's user-friendly process really drew me in.
+
+I had recently been interested in purchasing a mechanical keyboard. The closest to what I wanted was the ErgoDox, because it used a Teensy microcontroller board (which I could re-program). However, I figured it would be a lot more fun to try my hand at creating my own design, now that I could afford high-quality custom PCBs.
+
+I can be very, very patient if I feel that it will improve the quality of whatever I'm working on. Therefore, I opted to design my keyboard in very small, deliberate iterations. I had the following three requirements:
+
+· The keyboard had to be relatively inexpensive.
+
+· The keyboard had to use mechanical switches. (I chose Cherry MX Blues)
+
+· The keyboard had to be highly customizable.
+
+
+
+Hardware
+
+I took a bit of inspiration from the ErgoDox; OSH Park charges by PCB area, and only makes PCBs in batches of 3, so it was significantly cheaper for me to make a keyboard out of two identical halves. (Note: OSH Park may not be the best choice for large PCBs.) I figured the simplest route would be to make the halves work independently, but also support a master/slave configuration.
+
+The first step was to get the necessary building blocks for EAGLE, my PCB editor of choice at the time (although I'm trying to move to KiCad). I looked up schematics for the Cherry MX switches, built the component in EAGLE, and ordered a few test boards from OSH Park. They looked like this:
+
+While I waited the 1-2 weeks for those to arrive, I started working on the software and general hardware design. I wrote all the hardware-independent code (keyboard-related datastructures, debouncing code, switch number -> USB keycode mapping functions, etc) on my computer and tested them using simulated hardware. I also started drawing out the circuit I would use. I ended up deciding on a 6x5 matrix, a Teensy microcontroller, and a few other basic considerations.
+
+About 10 days later, my PCBs came in. To my surprise, the keys fit perfectly. There was a bit of eyeballing when it came to tolerances, but I really don't think I could have made the fit any more snug without it being too tight.
+
+On to round two! I wanted to test the basic principle of my matrix design. The circuit looks like this:
+
+Notice that I modified one of the keys to have support for an LED (which it turns out all Cherry MX switches have holes for). I ordered the PCB, and prepared to wait another 1-2 weeks.
+
+While waiting for my PCBs to arrive, I finalized my software and put it on the Teensy. I tested everything as best I could; debouncing seemed to be working, USB seemed to be working, etc.
+
+Finally, my new PCBs came in:
+
+Great!
+
+After putting the keys on and filing the edges a bit:
+
+Plugging it into the Teensy:
+
+The matrix control code running here is the same code I use on the final keyboard.
+
+Alright, so I have a working hardware and software design. Time to bite the bullet and put in the ~$300 for a keyboard and a half. I ordered the final circuit board revision, as well as all the parts. Digikey is fast, so the parts came in first:
+
+100 switches, 100 diodes, 3 teensies, 4 TRRS jacks, yada yadaâ€¦ You can see the full parts list on my Github.
+
+A week or so later:
+
+Great! Notice the spacing on the keys is very tight. I did some research on key spacing standards so that I could minimize area usage without preventing key caps from touching. Now to get to work!
+
+Putting in diodes:
+
+One down!
+
+That took a lot of time and a lot of solder! I probably spent a good 2-3 hours soldering those boards. I wanted to make damn sure I did a good job, because a mistake might put me out $30!
+
+I ran across an interesting issue. When I tried using both boards at once, the whole thing shorted and my computer told me a USB polyfuse had been triggered! I found the source of the problem pretty quickly; the TRRS cable had the mic ring on one end linked to the sleeve on the other! I was afraid that this was standard TRRS practice, and I had messed up my design, but I grabbed a few other TRRS male-male cables I had lying around and they all worked perfectly. A few minutes of (very) careful soldering and heat-shrink-tubing later, and the TRRS cable I wanted to use was up to spec. No more shorts!
+
+Again, much to my surprise, the whole thing worked perfectly the first time I tried it! I think this was honestly the most frustration-free project I've ever done, despite being one of the most complicated projects I've ever done. Being meticulous and deliberate absolutely paid off.
+
+Software
+
+The current software running on the keyboard is the third major revision.
+
+The first major revision was not very well organized, and I won't try to diagram it. Abstraction was not carefully maintained. I had a grasp on the code, but only because I had worked on it recently.
+
+The second major revision looked like this:
+
+The architecture of the program is pretty simple. Each level of abstraction "owns" the level beneath it. So the Key Mapper object had the Push Detector as a member, which had the Debouncer as a member, etc. Each object sends the Button LED (caps lock, num lock, etc.) to the object beneath it, all the way down to the hardware controller (which controls the LEDs). Then back up the chain goes the relevant data, culminating in a list of all keys pressed or released in the last "frame".
+
+The Master Notifier was responsible for telling the master (which was either a PC over USB or another keyboard over I2C) about any key press events. These events are shared in terms of USB keycodes, not physical button numbers. This way, individual boards determine what each of their buttons means, instead of this responsibility belonging to the master keyboard.
+
+The Master Notifier also held a Slave Notifier object. If there was a slave attached, the Slave Notifier communicated with it and returned all of its key press events to the Master Notifier, which would send them along to its master. If there was no slave attached, the Slave Notifier just returned an empty list of key press events.
+
+The program blocks only in one place: communication with the master. The program runs through the main loop, collates all events that happened in the last "frame", and prepares a message to the Master. It then waits until the master asks for those messages. In the case of USB, messages are actually put into a buffer, so it doesn't block immediately. I2C communication blocks immediately.
+
+The fact that I2C communication blocks immediately is important. Button debouncing is done by counting the number of "frames" for which a key is in a certain state. If the master board is doing extra USB and I2C stuff, which takes extra time, it's going to have a slower main loop than the slave. If the slave's main loop takes 1 ms while the master's main loop takes 5 ms, I am sacrificing debouncing accuracy on one board or sacrificing response time on the other. Blocking synchronizes the two boards so that their debouncing behavior is the same.
+
+This design worked well and was very understandable, but it wasn't particularly elegant. The class heirarchy was too deep. And even though abstraction is better than the first revision, it's not great. For example, why is does the Key Manager care about the Button LED Data?
+
+I wish I had diagrammed this better when I was building it, because looking at these neat diagrams I have now, the answer seems more obvious. The solution was to unwrap this tight vertical chain.
+
+This graph may not look much better, but programatically it's better for a lot of reasons.
+
+For one, separation of abstraction is much better. Nothing touches data that it doesn't need to have.
+
+Something that might not be as obvious from this graph is the fact that this allows the program to be re-written as a series of chained functions, which also goes a long way towards flattening the class heirarchy. So instead of having a bunch of nested classes, we can just write this entire thing as something like
+
+ButtonsState raw_state = hardware.update(led_status);
+
+ButtonsState debounced_state = debouncer.update(raw_state);
+
+ButtonsDelta button_changes = push_detector.update(debounced_state);
+
+KeysDelta key_changes = key_mapper.resolve(button_changes);
+
+
+
+KeysDelta slave_key_changes = slave.update(led_status); //If we don't have a slave, this returns a KeysDelta full of zeros
+
+
+
+led_status = master.notify(key_changes, slave_key_changes); //Sends all key press/releases to the USB or I2C master
+
+
+
+which is exactly what MicroMechBoard does!
+
+If we wanted, we could easily re-write this entire thing to be almost purely functional. Any stateful object in this diagram (except for low-level hardware stuff) could cleanly be replaced with a function that takes a previous known state and the new measured state, and returns a new known state. This might be something I'll play with later on.
+
+A few notes:
+
+1. Each board will work fine without the other half.
+
+2. Each half will automatically detect if it is plugged in over USB or I2C.
+
+3. Up to 127 halves could be connected with a few tweaks.
+
+
+
+That's It!
+
+I'm extremely happy with the final product! I use it for my desktop computer, and on my laptop if I need to type a lot of text. It's not 100% perfect (there are a few small aesthetical issues), but it's honestly much better than I expected given that I only did a single version of each design stage!
+
+All of this stuff (including an experimental version of the keyboard with a few new features and fixes) is available at github.com/wyager/micromechboard.

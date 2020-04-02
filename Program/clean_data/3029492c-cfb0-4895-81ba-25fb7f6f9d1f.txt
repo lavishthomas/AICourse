@@ -1,0 +1,309 @@
+In a Q&A after a keynote a couple of years ago, I was asked: "When will traditional business analysis subsume the web analytics silo?"
+
+My reply: "All business will ultimately be digital, so, if anything, web analytics will subsume business analysis!"
+
+That was a half-cheeky reply. But, if you reflect upon the developments in analytics over the last couple of years it is incredible to see that we, web analytics, have moved so quickly towards the aforementioned outcome.
+
+In fact, even the term digital analytics is too stifling. It is all just business analysis – with digital being a dominant factor in influence (marketing, advertising, experiences, connections, relationships et. al.), digital plus real world owning outcomes (of the commerce type) and some facets of influence.
+
+Business analysis. No digital. No web. No offline. No just this or that silo.
+
+And, 15 years later I get to go back to my first job title after graduating from MBA school. Senior Business Analyst! : )
+
+So, in our world, web analytics, what is helping us embrace to this change? Moving us away from our digital only silo? A little something, that Google Analytics calls, Universal Analytics.
+
+It was announced to the world perhaps 24 months ago – in classic Google fashion, with a bold vision that was not fully baked. Gotta love those betas! The team at Google, thanks to that bold vision, has continued to invest time and people, and execute quickly. Universal analytics has been out, in proper fully baked production release, for a little while. It has exciting new features, an exciting cluster of new analyses you can do, and a lot that was impossible before. It allows you to be a full-blooded Business Analyst.
+
+Yet, heart-breakingly, few people understand what Universal Analytics is and the power you have at your disposal. I want to try and fix today. Here's a run-down of what we'll cover:
+
+And get this, even though by the end of this post you'll be crazy insane excited about what you can do today with Universal Analytics… I tend of think of the current stage as iPhone 3. There is so much more to come.
+
+Universal Analytics: Why don't you love it more?
+
+Three important reasons that we (vendors, practitioners, leaders) should internalize:
+
+1. Universal Analytics is an extensible platform that allows you to literally send any data in, take any data out, and get a complete view of your business – inside Google Analytics or outside Google Analytics, your choice. When something is that open-ended and scalable, it is actually hard to understand.
+
+2. There is no Universal Analytics folder in GA. No standard reports you can just go grab once you update your site code to analytics.js . This makes it a bit harder to wrap your head around all the possibilities. Big problem for Google to solve. For example, this Universal Analytics overview is about as exciting as an over-ripe banana.
+
+There is a partial excuse for this. Because you can do anything with the platform's features, how does one show specific reports/possibilities? Still. Notice I said partial. :)
+
+3. Universal Analytics is seeped in technicalese. If you are a regular reader of this blog, : ), then you are more than likely fall in the business side of the house rather than the technology side of the house. A lot of Universal Analytics is technical – see the over-ripe banana above. Not since we started parsing weblog files have we had to take these many code showers . This makes Universal Analytics less accessible.
+
+So, if you've heard of Universal Analytics, and done nothing, don't blame just yourself. It is a tough topic to internalize. But that is what we'll address here.
+
+And, my hope is to do that, by trying to reframe value in a business context, with as little technicalese as possible. Just layout, in simple business terms, what the essence is, and how you can massively benefit from it. My goal is to make you dangerous enough to be specific with the people who will help you (like a GACP: www.bit.ly/gaac).
+
+At the end, I'll link to a few wonderful folks who will help you with deep technical solutions. You I'm not going to leave you dangling on the deep dives.
+
+Universal Analytics: Why does your business need it?
+
+Simple. You had a partial view of your business success in the past. Just what happened on your desktop website. For a while, that was ok.
+
+Now, that partial view has become a partially partial view of digital behavior. And, this trend is massively accelerating. Ouch, ouch, ouch.
+
+First, desktop became desktop and laptop. Still most people picked one. Then desktop and laptop got further fragmented to mobile behavior (via mobile phones, tablets and laptops). Then mobile behavior on mobile devices got further fragmented into m.sites and mobile apps.
+
+The data you have in WebTrends, Google Analytics, Adobe, IBM is a terrible representation of reality. Take just one fact into consideration: For most commercial websites mobile traffic became a majority source this past Christmas, it will never look back. Scary, for when you log into your Adobe Analytics account.
+
+One of the most minor implications: I'm now sixteen Unique Visitors as I engage with the company Adobe across it's digital presence. Regardless of if they are using Adobe Analytics or Google Analytics.
+
+The other big reason for Universal Analytics is this, the column in the middle:
+
+The data is from the Q4 2014 Quarterly Retail E-Commerce Sales from the US Census Bureau. They show, like any other report from anyone else you want to look at, that E-commerce is a small percentage of our commercial activity. And yet, study after study does show that a massive amount of time is being spent on digital channels and lots of influence is shifting away from traditional channels to online.
+
+One of the most minor implications: Your digital behavior is driving out-sized multi-channel impact. You're not getting credit. You're not getting promoted!
+
+There are many other reasons to invest in Universal Analytics (my favourite is to finally get a cohesive view of the consumer journey), but those two are the biggest ones.
+
+Universal Analytics: What the heck is it?
+
+The problem/benefit of being an extensible platform is that you get to be anything anyone can imagine. You basically get a collection of empty boxes. Different people will do different things with them.
+
+But. This is a post about sucking up and being crystal clear. Ignoring the little things and some upgrades to current features, here are three things in simple business terms that Universal Analytics is:
+
+1. It is the acceleration of moving from tracking Visits to tracking People to tracking Customers.
+
+With current web analytics tools, you track cookies. That is why Adobe believes I'm sixteen people across it's digital existence (three different people just on my desktop!). In that scenario, we place an inordinate emphasis on Visits (and atrocious and awful decisions like defining Conversion Rate by using Visits). Not any more. We can understand one person, and that person's behavior uniquely as they become a loyal customer.
+
+#cookiesareforeating #freethecookies!
+
+2. It is the shift from tracking individual device silos to tracking cross-device behavior.
+
+Each instance of your Adobe/Google/IBM code on various types of your digital presence (desktop site, mobile site, mobile app, or even your app on my phone and your app on my Glass) creates a new data silo. Not just because of your code treats that as a unique instance, but also because you might be using multiple tools.
+
+Universal Analytics allows you to standardize on one vendor platform, across devices, and to unify customer behavior tracking across multiple silos.
+
+3. It empowers, finally, the single-view of your online and offline datasets.
+
+You can't compute true profit today. You can't truly do lifetime value calculations. You can now do both.
+
+You can't really track where the person who just redeemed a coupon in your store came from. You can't really take your offline data about me (family person, xx age, loves to buy from your catalog) and optimize my online experience. You can now do both.
+
+There is a lot more. But, the salient point is that you can get the single view of your customers (subject to your prioritization, of course).
+
+To pull all this together with our earlier example: With Universal Analytics first you can shift to tracking people (so for Adobe, I go from sixteen to one!), you can track behavior across all devices (Adobe's multiple properties – desktop or mobile, and their myriad mobile apps etc.) and then you can shift to tracking customers (Adobe can now understand my behavior in the real world and, possibly, their multitude of real world partners!).
+
+Did you just have a datagasm? #omg
+
+It really is that exciting.
+
+Universal Analytics: Talk techie to me!
+
+These three things, Visits to People to Customers, Individual Device Silos to Cross-Device Unified, and Online Silos to Online plus Offline, are enabled by three core Universal Analytics features. For the rest of this post, I'll anchor the abilities of Universal Analytics to revolutionize your digital everything, by focusing on these three features.
+
+They are:
+
+1. User-ID Override – one world with people, not cookies! 2. Dimension Widening – hello sweet simple data from spreadsheets, data warehouses/CRM systems! 3. Measurement Protocol – all your data are belong to us!
+
+For the rest of this post, we'll explore these three features from a business value perspective. We'll throw in just a pinch of technical details (remember, I want you to be dangerous enough).
+
+Universal Analytics: T1: User-ID Override!
+
+This is were cookies die. Perhaps, not for everyone who engages with you digitally. But as many people as you can encourage/guide.
+
+The reason for this feature is simple enough. You'll get it right away.
+
+Reusing our image from earlier in this post… this could represent on person's experience with your brand:
+
+The very first time someone, let's call him Ola Hanø from Oslo, engaged with you, was via a DoubleClick delivered programmatic ad on Ola's tablet. That, at a later point, resulted in Ola visiting your website on his desktop computer. He also buys a product from you a few days later. A couple months later he revisits on his laptop to buy a service you are selling. Your products delight him, and he decides to follow you on twitter, download your app and make merry with you via his phone.
+
+How many people is this in your digital analytics tool?
+
+At least four. Assuming nothing happened on the desktop between Deep Dive and Purchase, in which case it will be five or six or seven.
+
+You start with a Norwegian man and end up with a female swimmer.
+
+I know, a bit melodramatic. But, trust me, the reality inside your digital analytics tool is worse.
+
+But fear no more, me harties! (Did I just switch from a viking reference to pirates? I did! :))
+
+You can take advantage of the Universal Analytics User-ID override feature to combine all the hits from these multiple visits/sessions and identify them with the same person.
+
+With every interaction Ola Hanø has with you, you can send a unique ID that will override other identifiers (ex: Client-ID used in the cookies), and allow you to see this instead…
+
+How sweet is that! You can keep track of Ola throughout his journey.
+
+Think about the deep understanding you can get of your customers, and the profound implications on marketing ROI and where you spend your budgets, content creation, multi-channel touch-points, and everything I'm forgetting.
+
+So, how does this work?
+
+As always, you first enable the feature inside your Google Analytics account:
+
+It is a three step process. Review policy, set up the User-ID, Create a User ID view.
+
+If your web platform is using PHP, the snippet of code you would implement on the site would look like this:
+
+[I'm sorry, I've not yet figured out how to add a snippet of code to WordPress without it getting messed up. I know. Lame.]
+
+Someone in your technical team (or a consultant you hire), or perhaps you, will set up the associated elements to empower GA to collect accurate User-ID across your digital presence.
+
+Here's a detailed guide courtesy of the Google Analytics team: www.zqi.me/gauserid
+
+A couple of important things to be aware of. The User-ID is assigned by you and not by Google Analytics. It is passed into Google Analytics via a User-ID parameter in the tracking code (this part's easy, above code). The User-ID cannot contain any Personally Identifiable Information (no PII!), thus falling into the standard GA TOS. You can use a 64 bit hash key as one of the simpler options for your User-ID.
+
+Simply stated, you and only your company know who the actual person is.
+
+What do you get if you go through the sweet joy of implementing User-ID? Here are some of what you will see:
+
+The ability to look at users/visitors with User-ID, and those without. Overtime, in this case, the blue should grow allowing you to understand customer behavior more optimally. But even if this is all you see, you can use the people in the blue as proxy for other visitors to answer questions you simply can't answer today. I wonder how many people use both our mobile and desktop sites? I wonder if people really do research on their phones and then buy on desktop? I wonder if… other such questions.
+
+[Sidebar]
+
+If you are going to use User-ID you MUST figure out how to incentivize your website visitors to log into the site. It would be criminal not to. Even if you don't do ecommerce, even if your name is not Amazon. This is as much as marketing problem as anything else. You need to use human psychology. If you can't get people to login when they visit your digital presence, this is only and solely and wholly a reflection of your team's inability to be clever. Get help from outside the company if you are in this camp. Do not let this go.
+
+One company that does this well is L'Oreal Paris. They have a wealth of amazing content to get you to come back again and again. Ding! Any article or product you find on the site has a Save button that works even if you don't open an account (but once you save, you want to access it on your mobile phone and don't really want to lose it, so more incentive to open an account). Ding! The products on the site also contain a button called Have, which allows you to get a deeply personalized experience (articles, offers, beauty picks customized to you, etc) which causes you to… login. Ding! And, more ding, ding, ding! Across mobile and desktop. Insanely clever.
+
+Don't be the kind of company that just prays to the Gods to deliver vital information. Step up to the plate. Create reasons for your users to self-identify. In the name of all that is pure and holy, deliver real value to your users!
+
+[/Sidebar]
+
+Back to our story… You can also get reports that answer your burning questions, like how many people experience you digitally across multiple devices:
+
+Just move your mouse and get all your questions answered. In this case, I was surprised that the overlap was so little, most consumption was on a single device all by itself. Usually I see behavior with lots of overlap. But then again, that is why data beats "best practices"!
+
+And, of course if you get the above two, understanding the sequences related to device usage can't be too far away:
+
+This is the simplest view you can look at. You also have the ability to look performance by revenue and transaction rate. You can look at the sequences and understand where people start, what do they do there (content consumption, micro-outcomes) and then their behavior on subsequent devices.
+
+The sky is the limit.
+
+For folks like me who've been advocating / pining for the ability to track people, User-ID is truly an incredible advance. As web analysis moves to business analysis, the lynchpin of your success will be based on understanding people, actual single human beings. Regardless of the tool you use, go invest in this (and don't forget my guidance in the sidebar above).
+
+[Bonus Guide: If you are a bit technically oriented, investing a little time in understanding Session Unification is totally worth it. A User might not immediately identify themselves, this allows you to stitch the earlier hits – with some conditions.]
+
+Universal Analytics: T2: Dimension Widening!
+
+It has a impressively complex name. Don't let that freak you out. It is the simple, but powerful, ability to send data into Google Analytics to enrich your understanding performance.
+
+Your CRM data, information from your corporate data warehouse, or even data from your CMS (content management system), which typically will be in its own silo, can now be inside Google Analytics. You can send hit level data, primarily your refund data (if people return their orders). Or extended data to expand your ability to do interesting things with your user, campaign, product and other types of data.
+
+Let me share a simple example. Remember Ola Hanø? In GA all you might know about him is his ID:
+
+With Dimension Widening, you can extend, literally, the data that is available in GA. For example, you can add his gender:
+
+And, when you have more information, you can further extend the data that is available in GA for Ola (though, note, no PII, so you will never actually send in the name Ola, you'll use an anonymous hashkey):
+
+Makes sense? Extend the data inside Google Analytics. Widen the dimensions! :)
+
+To get going, please log into the Admin section of your GA account, select the property, click Data Import and you'll be looking at your Data Sets page.
+
+You can import data using the Data Import option inside the Admin section, or you can use the Google Analytics Management API. Get a developer to help you set the latter up. The former can be as simple as this:
+
+The reports that you'll see will depend on the the data you've sent into GA. But, if we use the above example, the report would look something like this one that the GA team kindly shared with me:
+
+You can see the secondary dimension allows us to analyze performance on the site, across a whole cluster of our normal metrics, by using the Education Level.
+
+Here's another report that might be used by a travel company who has sent in data into Google Analytics related to the type of traveler:
+
+Imagine how much better both your website (mobile and desktop) content strategy will be with this insight, and the impact of this type of additional data on your online and offline owned, earned and paid marketing strategy!
+
+The team at Google has created a wonderful user guide you can read (or share with your friendly neighborhood developer) to implement dimension widening for your own business: www.zqi.me/gadatain
+
+I'll draw special attention to this page with the list of seven Data Import Examples . For each example, you'll learn implementation step by step using an actual example, and get guidance on how to get the report you'll need to analyze performance.
+
+A lot of our best business data is typically is not a part of any standard, or a god-can-only-understand complex, implementation of Adobe/Google Analytics/IBM or any other web analytics tool. It is sitting in your core business systems. Get it out. Make love to it. Birth smarter insights!
+
+Universal Analytics: T3: Measurement Protocol!
+
+Another scary name. It is a friendly beast. You are going to grow to love it a lot.
+
+Here's the simplest explanation: When offline interactions happen you can then send the event back to Google Analytics through the Measurement Protocol, where it will be combined with the visitor’s original activity.
+
+Now, isn't that special!
+
+Measurement Protocol is perhaps the most complex of the major Universal Analytics features. We've ended the above two UA features with reports you can use, in this case let me start by showing you the awesomeness that awaits you.
+
+Here's one possible report you can create after you complete the necessary implementation using the GA Measurement Protocol:
+
+You'll recognize the first and the second column, the standard Per Visit Goal Value and Conversion Rate metrics. This is all you can usually see in GA.
+
+But, in this case we've done offline integration with our CRM platform. Hence, we are able to get three more metrics that help us understand how the lead progressed through rest of the lead nurturing process. Offline Opportunity, Offline Closed Win and Offline Closed Lost.
+
+Imagine any dimension you would like to for this report. Mobile, Desktop, Tablet. Or, Google, Yandex, Baidu. Or, Display, Email, Search. You can easily see how you get one picture from the first two columns, and a different picture of success from the other three columns.
+
+When I said Universal Analytics is taking you closer to business analysis, this is what I mean more than anything else! Give you a deeper view of success and then make adjustments to both your online and offline strategies based on a report such as the one above.
+
+[ Bonus: I wrote this post to transform your understanding of your business success in May 2013: Excellent Analytics Tip #24: Obsess About Real Business Profitability You can finally do this in Google Analytics with Measurement Protocol! #profitabilityrocks ]
+
+There is little that you can't integrate using the Measurement Protocol. Offline point of sale systems. People walking into Coldplay concert. A kiosk inside your supermarket, or a train station. Every kind of lead gen online to offline life cycle (students applying to your university online to the most long and complex B2B lead to conversion cycle). And so much more.
+
+If you are a tiny bit technically savvy, it is not all that hard to understand the basics. You are given a set of structured empty boxes. Put stuff in it. Send it back to Google Analytics.
+
+Here's a piece of simple code from the GA team:
+
+You can see how simply the structure is laid out. Here's a brief explanation:
+
+ec (category): Will group all offline data (use “ClientOfflineConv” as the value for all hits)
+
+ea (action): The activity that was carried out. Will change as the user changes state in the db.
+
+el (label): The name of the event. Will change as the user changes state in the database.
+
+ev (value): Can be set when there is a value associated with the offline data.
+
+As you scan the code above, you can see that it is not all that complicated to understand what's going on, and how you can quickly adapt it for your business environment.
+
+Perhaps, it is prudent to also to scare you a tiny bit about how complex this really is. But, also excite you about all that's possible when you use Measurement Protocol.
+
+Here's an example from my dear friend, and co-founder of Market Motive and co-teacher of the web analytics master certification course, John Marshall. In this case John's integrating offline sales by making a server-to-server call to Google Analytics.
+
+Tell me you don't find this incredibly sexy….
+
+
+
+
+
+Scared or excited? I'm including it in this post to inspire you by showing how simple and straight forward it can be to take islands of data inside your company and bring them all together in GA to give you a fantastic, cohesive, view of business performance.
+
+Today, you are making your business decisions partly right by just relying on the standard implementation of Webtrekk or comScore or AT Internet or Google Analytics. You need to step outside your digital silo and make mostly right decisions. Leveraging the Measurement Protocol functionality in Google Analytics gets you very far along that path.
+
+As in the other two cases above, here's a wonderful user guide to get you going: www.zqi.me/gamprotocol
+
+This applies to the other two as well, but for Measurement Protocol you definitely need oodles of tech savvy. Find it inside your company, then become BFFs, or find it with an external certified consultant. You can figure this out yourself with enough time, but by then you would mostly be eating your competitor's dust. And, who wants that. Expend love and/or cash to get the help you need to get going yesterday.
+
+Universal Analytics: T4: Bonus Features!
+
+There are some things that Universal Analytics simplifies and makes a million times easier, for example Cross Domain Tracking and yummy things like Enhanced Ecommerce which provide a whole new set of deeper insights into your money-money making efforts. You can read the Dev Guides for all these delicious features: Introduction to analytics.js.
+
+There are other things that Universal Analytics newly empowers you to do.
+
+For example, modify session and campaign timeouts.:
+
+It sounds really fun, but unless you really, really know what you are doing, or are from Mars while the rest of us are from Venus, do not touch this. I know, it sounds harsh. But, really. Don't touch this. It has big implications on many metrics, it throws off any value you might find in things like benchmarking reports. Make sure you really, really know what you are doing. And, you are from Mars.
+
+On the other hand, do leverage features like the ability to add custom dimensions. User Guide: www.zqi.me/gacustomdim
+
+You can also do clever things like Referral Exclusions (eliminate the dreaded self-referrals, for example when you use third-party shopping carts), or not-so-clever things like Search Term Exclusions (don't do it, unless you are from Uranus!).
+
+Universal Analytics: Helpful Deep Dives!
+
+Let me close by sharing some super-valuable examples, if you want to dive deeper into this topic.
+
+My peer, and author of numerous books on Google Analytics, Justin Cutroni has written extensively on this topic. Justin's Universal Analytics posts. Read everything.
+
+Here's a lovely Universal Analytics Cheat Sheet by Nicolas Blexrud with handy references for configuring the code. You, or your developer co-worker/friend, will find this to be extremely handy. Save. Print. Breathe. Live.
+
+The wonderful Simo Ahava writes about this topic frequently, and knows what he is talking about. Simo's Universal Analytics posts.
+
+Speaking of integrating different platforms, Allaedin Ezzedin, has a detailed post on integrating Google Analytics and Salesforce data. Totally awesome.
+
+When you feel you have digested this post, please see the work of our peers above. You'll be glad you did.
+
+Closing Thoughts.
+
+I could not be more excited about leaving the digital part of my job title behind. It is all just business analysis. In my case, primarily in service of earning customer love across See-Think-Do-Care .
+
+The three features outlined above, User-ID Override, Dimension Widening, and Measurement Protocol, allow you unshackle the limitations of your systems to break free from siloed thinking and siloed decision making. Not day after tomorrow, not five months from now, not next year, but now. You can achiever that at this very moment.
+
+I hope you'll seize the opportunity. Not only is there glory and success for your business, there is personal satisfaction and fame for you as well.
+
+And, to think that we are still just at the iPhone 3 stage. So much more is yet to come. You are running out of time. Carpe Diem!
+
+As always, it is your turn now.
+
+Is your business currently using Universal Analytics, or the equivalent version of it from Adobe/Webtrekk/IBM? What barriers do you face inside your company, or clients? Which of the three major game-changing features above have you implemented already? If you've tried User-ID already, what were your challenges, what blew your mind when you received the data? Do you believe we are headed towards unified business analytics?
+
+Please share your answers, feedback, critique, best practices, and helpful guidance via comments below.
+
+Thank you.

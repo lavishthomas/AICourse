@@ -1,0 +1,55 @@
+Fitbit, the digital health company whose wristbands have become synonymous with the whole activity-tracking movement, is trying to bring its health monitoring game to the next level — by focusing on a sleep disorder that affects millions of Americans.
+
+Fitbit has said that it’s working with a combination of optical sensors and machine learning tools in its R&D labs to potentially address a condition in which people stop breathing in their sleep, called sleep apnea. Its new Ionic smartwatch, which was announced earlier this week, has a new kind of optical sensor that Fitbit says is the first step towards gathering the data that would help it accurately identify apnea.
+
+If Fitbit can figure out how to track sleep apnea, it can address part of a market that’s expected to grow to $6.7 billion by 2021.
+
+If Fitbit is able to prove that it can identify and monitor sleep apnea, it has the potential to address part of a market that’s expected to grow to $6.7 billion by 2021. It’s also clearly part of a larger effort by Fitbit to reassure its customers and investors that it can innovate in consumer health, after a year of iterative product launches, slowing sales, and a sinking stock price.
+
+“There’s a vast number of people who go undiagnosed with this condition,” said James Park, Fitbit’s co-founder and chief executive officer, said in an interview with The Verge. “We think we can actually start to surface these issues for people over time, which can have a profound impact on people’s health.”
+
+But detecting or monitoring sleep apnea might be more challenging than it seems for a consumer wearable company like Fitbit, and is more complicated than adding oxygen sensors to a watch and cranking data through algorithms. Right now, diagnosing and treating sleep apnea usually requires an advanced sleep study and a prescribed treatment. This means Fitbit will have to seriously consider whether it goes the FDA approval route, or whether it’s going to attempt to detect sleep apnea with its usual direct-to-consumer devices, which would still require a serious validation process.
+
+There are other obstacles to consider too, like getting people to actually wear a device on a consistent basis — something that Fitbit, and most other wearable makers, have struggled with in the past. Even if Fitbit offers more advanced health tracking than before, it’s still something that would have to be worn on the wrist during a time period when most people want to feel unencumbered, which is bedtime.
+
+Sleep apnea is a term that’s used broadly to describe cessations of breath during sleep. It’s traditionally divided into two terms: apnea and hypopnea. Experts say apneas are complete cessations of 10 seconds or longer, whereas hypopneas can be less specific, but are often defined as a “reduction in ventilation of at least 50 percent,” enough to reduce the oxygen in your blood.
+
+Millions of Americans have some form of sleep apnea, and many more go undiagnosed
+
+At least 25 million Americans have some form of sleep apnea, according to the National Health Sleep Awareness Project. Carl Stepnowsky, the chief science officer for the American Sleep Apnea Association and an associate adjunct professor at the University of California San Diego, estimates a more conservative number than that — somewhere between 18 million and 22 million people — but says apnea affects about 4 percent of the female population and 9 percent of the male population. Sleep apnea can lead to serious health issues, like high blood pressure, irregular heartbeat, stroke, and other cardiovascular problems; not to mention accidents that can occur as a result of daytime drowsiness when a person isn’t getting enough sleep.
+
+Currently, people are tested for sleep apnea by undergoing a sleep study. This involves patients sleeping in a lab overnight while their brainwaves, heart rate, airflow, oxygen saturation, and muscle activity and effort in the abdomen region are recorded through sensors placed all over the body. In many cases, a CPAP (continuous positive airway pressure) machine is prescribed to treat apnea, which includes a mask and pumps a controlled flow of air to help a person breathe.
+
+The whole process can cost anywhere from several hundred dollars to a few thousand dollars. Most insurance companies cover “CPAP,” but in at least one of the plans set forth by US lawmakers in recent months to replace the Affordable Care Act, sleep apnea was listed as a “pre-existing condition” that could potentially lead insurers to raise premiums. (Ultimately, the ACA repeal was voted down in the Senate.)
+
+But over the past five years, the sleep disorder field has moved more to doing studies at home, for “a lot of reasons,” according to Dr. Rachel Salas, an associate professor of neurology at Johns Hopkins Sleep Disorders Center. This includes FDA-approved portable monitoring systems that sleep apnea patients can take home with them, while the data is still being analyzed by a clinician.
+
+“There is a need to do more of these studies quickly to get people treated,” Salas says. “I would say in general my colleagues and I have not been surprised that this [home treatment] movement is going even further. Like, How do we get rid of all the wires? How do we get information without being intrusive?”
+
+Which is where a company like Fitbit could fit in. Fitbit’s wrist wearables have done basic sleep-tracking since 2011. It’s hardly alone in this: almost every popular fitness band maker, from Fitbit to Garmin to the the now-defunct Jawbone and Basis, has listed “sleep tracking” in its feature list. (Apple Watch doesn’t have built-in sleep tracking, and has a battery that only lasts 18 hours, but some wearers still track sleep with third-party apps.)
+
+Earlier this year, Fitbit intensified its sleep tracking efforts. It began offering users more advanced sleep readings, breaking it down into light, deep, and REM sleep stages. It doesn’t use new hardware or sensors for these readings; it instead relies on Fitbit’s current heart rate sensors, proprietary algorithms, and an aggregated five billion nights of sleep data to interpret what your sleep patterns mean.
+
+But Fitbit’s new Ionic watch has a new hardware component to it: it uses a relative SpO2 sensor, or something that senses oxygen saturation. Earlier Fitbit products had sensors that only emitted one wavelength of light: green. This one uses two additional wavelengths, red and infrared.
+
+It’s a combination of this new sensor, along with advanced machine learning, that will make tracking apnea possible in the near future, Fitbit says. Its first challenge, according to Park, the company’s chief executive, and Shelten Yuen, the director of R&D, was determining if it could track oxygen saturation from the back of the wrist. Now it needs to ensure that the data is accurate enough so that the sleep condition can actually be identified. Though that doesn’t mean Fitbit is eager to diagnose sleep apnea.
+
+What’s missing from a wrist-based sleep tracker, doctors say, is a direct measurement of airflow — how you’re breathing
+
+To get approved as a way of diagnosing sleep apnea, Fitbit would have to undergo large and expensive clinical trials. “Diagnostics is a tricky term,” Park said in an interview with The Verge. “But definitely over time we hope to progress from screening in conjunction with a medical professional, to more diagnostics or treatment.” Park said the company is “undergoing trials right now” for sleep apnea monitoring, though these are only internal trials with clinical partners. He declined to say how long the trials have been going on for, what phase of its trials they’re in, or how big the participant group is.
+
+It’s not totally clear what regulatory path Fitbit sees for the tracker. Right now, a Fitbit is a “wellness” device and so it isn’t regulated by the FDA at all. But if it were to make a medical claim — such as that it can diagnose or monitor sleep apnea — that would change.
+
+A spokeswoman indicated a Fitbit might become more of a symptom checker — but she didn’t rule out the possibility of something more clinical. “We’re prepared to work with the appropriate regulators as needed, but again, how this will manifest to consumers has not yet been finalized,” a spokeswoman for Fitbit said in a follow-up email to The Verge, adding that the company still considers sleep apnea tracking to be in its “areas of exploration.”
+
+But the big thing that’s missing from Fitbit’s current description of how it might track sleep apnea, says Stepnowsky, the chief science officer for the American Sleep Apnea Association, is a direct measure of your breathing. This is critical for identifying and monitoring sleep apnea, and it’s not something you’re going to get from a wrist wearable.
+
+To accurately track sleep apnea, “you need airflow and you need some measure of respiratory effort, which is usually a band around the chest and abdomen,” he says. “Supplemental measures can help, but just to track heart rate, movement, and O2 might not necessarily be enough.” And even if algorithms help get a proxy measure of airflow based on heart rate, Stepnowsky says, those algorithmically-divined measurements might not be compatible with how the sleep disorder industry currently scores “breathing events.”
+
+There’s also the question of what form a Fitbit sleep apnea tracker would take. If Fitbit sticks with its current form — wrist wearables — that presents a whole other challenge. About half of people who wear activity trackers don’t wear them to bed, says Philippe Kahn, a longtime Silicon Valley entrepreneur whose Fullpower Technologies group has powered the motion tracking in Nike FuelBand, Jawbone Up, and many more products.
+
+“Even when there were no battery issues and it was a small device, we found that half of the people who have used a wrist tracker just wouldn’t wear it at night, and that’s based on millions of people,” Kahn says. More recently, Kahn has developed something he called the Sleeptracker Monitor and works directly with big-name mattress brands to track respiration, heart rate and sleep patterns from the bed itself.
+
+So while Fitbit knows it wants to get even more serious about sleep tracking, it hasn’t quite figured out how serious it can get — while still making sure it can ship millions of products directly to consumers every quarter. Even if it does manage to reliably steer people to have conversations with their doctors about their sleep, something that could benefit millions of Americans, people in the medical profession are unlikely to take it seriously without more extensive research.
+
+“If a patient walks in with their Fitbit now and shows me data from that, I think it’s helpful in a way,” Dr. Salas says, “particularly if they have insomnia, because I can see from the data that you’re not getting enough sleep or your sleep is variable. But would I ever say, Can I have a copy of that so I can put it in your chart? No, we’re just not there yet. Hopefully we will be, but none of the studies have been done yet.”

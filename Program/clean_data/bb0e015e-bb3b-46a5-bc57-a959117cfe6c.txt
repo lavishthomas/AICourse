@@ -1,0 +1,131 @@
+Note: "Max Sta." is the amount of stamina you can recover if you eat the food that was cooked using as many additional ingredients as possible.
+
+Name Utensil Required Ingredients Additional Ingredients Profit
+
+1 Star to 5 Star Max Sta.
+
+Sautéed Turnips Frying Pan Turnip + ( Butter or Good Butter or Great Butter ) Butter or Good Butter or Great Butter 420 G | 560 G | 700 G | 840 G | 980 G 54
+
+French Fries Frying Pan Potato + Oil (None) 342 G | 456 G | 570 G | 684 G | 741 G 8
+
+Potato Pancakes Frying Pan Potato + Flour + Oil (None) 408 G | 544 G | 680 G | 816 G | 952 G 10
+
+Hash Browns Frying Pan Potato + Flour + Oil + ( Herb Cheese or Herb Butter ) Herb Cheese or Herb Butter 552 G | 736 G | 920 G | 1104 G | 1288 G 38
+
+Boiled Potato Frying Pan Potato + ( Butter or Good Butter or Great Butter ) Butter or Good Butter or Great Butter 516 G | 688 G | 860 G | 1032 G | 1204 G 54
+
+Cabbage Rolls Frying Pan Cabbage + ( Onion or Tomato or Bread Crumbs ) Onion or Tomato or Bread Crumbs 612 G | 816 G | 1020 G | 1224 G | 1428 G 26
+
+Popcorn Frying Pan Corn (None) 264 G | 352 G | 440 G | 528 G | 616 G 10
+
+Corn Cereal Frying Pan Corn + ( Milk or Jersey Milk or Golden Milk ) Milk or Jersey Milk or Golden Milk 396 G | 528 G | 660 G | 792 G | 924 G 52
+
+Boiled Egg Pot Egg (None) 96 G | 128 G | 160 G | 192 G | 224 G 10
+
+Fried Egg Frying Pan Egg + Oil (None) 174 G | 232 G | 290 G | 348 G | 406 G 12
+
+Roasted Mushroom Frying Pan Oil + ( Shiitake or Shimeji or Truffle or Coral Mushroom or Brown Mushroom or Trumpet Mushroom ) Shiitake or Shimeji or Truffle or Coral Mushroom or Brown Mushroom or Trumpet Mushroom 132 G | 176 G | 220 G | 264 G | 308 G 32
+
+Steamed Mushrooms Frying Pan ( Shiitake or Shimeji or Truffle or Coral Mushroom or Brown Mushroom or Trumpet Mushroom ) Shiitake or Shimeji or Truffle or Coral Mushroom or Brown Mushroom or Trumpet Mushroom 62 G | 83 G | 104 G | 125 G | 146 G 32
+
+Sandwich None Bread + Cucumber + Tomato Boiled Egg or Mayonnaise or Good Mayonnaise or Great Mayonnaise 378 G | 504 G | 630 G | 756 G | 882 G 82
+
+Herb Sandwich None Bread + Mint + Chamomile + Lavender Herb Mayonnaise or Good Herb Mayo or Great Herb Mayo 174 G | 232 G | 290 G | 348 G | 406 G 64
+
+Fruit Sandwich None Bread + Yogurt + ( Strawberry or Apple or Pineapple or Banana or Peach or Mandarin or Cherry or Grape or Blueberry ) Strawberry or Apple or Pineapple or Banana or Peach or Mandarin or Cherry or Grape or Blueberry 336 G | 448 G | 560 G | 672 G | 784 G 90
+
+Raisen Bread None Bread + Grape (None) 372 G | 496 G | 620 G | 744 G | 868 G 34
+
+Jelly Bread None Bread + ( Apple Jam or Strawberry Jam or Grape Jam or Blueberry Jam ) Apple Jam or Strawberry Jam or Grape Jam or Blueberry Jam 160 G | 210 G | 270 G | 320 G | 370 G 24
+
+Toast Frying Pan Bread (None) 120 G | 160 G | 200 G | 240 G | 280 G 18
+
+French Toast Pot Bread + ( Egg or Black Egg or Golden Egg ) Egg or Black Egg or Golden Egg 198 G | 264 G | 330 G | 396 G | 462 G 60
+
+Butter Roll Pot Bread + ( Butter or Good Butter or Great Butter ) Butter or Good Butter or Great Butter 300 G | 400 G | 500 G | 600 G | 700 G 66
+
+Croquette Frying Pan Potato + Oil + Bread Crumbs Egg or Black Egg or Golden Egg 396 G | 528 G | 660 G | 792 G | 924 G 42
+
+Cream Croquette Frying Pan Potato + Oil + Bread Crumbs + ( Milk or Jersey Milk or Golden Milk ) Milk or Jersey Milk or Golden Milk 498 G | 664 G | 830 G | 996 G | 1162 G 42
+
+Cheese Croquette Frying Pan Potato + Oil + Bread Crumbs + ( Cheese or Good Cheese or Great Cheese ) Cheese or Good Cheese or Great Cheese 492 G | 656 G | 820 G | 984 G | 1148 G 44
+
+Focaccia Frying Pan Flour + Oil + ( Herb Butter or Good Herb Butter or Great Herb Butter ) Herb Butter or Good Herb Butter or Great Herb Butter 396 G | 528 G | 660 G | 792 G | 924 G 58
+
+Quiche Frying Pan Flour + Pumpkin + Spinach + Potato (None) 1020 G | 1360 G | 1700 G | 2040 G | 2380 G 24
+
+Galette Frying Pan Buckwheat Flour + Egg Cheese or Good Cheese or Great Cheese 252 G | 336 G | 420 G | 504 G | 588 G 60
+
+Fish & Chips Frying Pan Potato + Flour + Oil + ( Bluegill or Black Bass or Large Bluegill or Large Black Bass ) Bluegill or Black Bass or Large Bluegill or Large Black Bass 444 G | 592 G | 740 G | 888 G | 1036 G 34
+
+Honey Toast Frying Pan Bread + ( Honey or Spring Honey or Summer Honey or Fall Honey or Fruit Honey or Rose Honey ) Honey or Spring Honey or Summer Honey or Fall Honey or Fruit Honey or Rose Honey 276 G | 368 G | 460 G | 552 G | 644 G 56
+
+Canapé None Bread + Cheese + Boiled Egg Tomato or Cucumber 348 G | 469 G | 580 G | 696 G | 820 G 56
+
+Arancini Frying Pan Cooked Rice + Oil + Bread Crumbs + ( Cheese or Good Cheese or Great Cheese ) Cheese or Good Cheese or Great Cheese 384 G | 512 G | 640 G | 768 G | 896 G 68
+
+Dolma Frying Pan Cabbage + Cooked Rice + Onion (None) 780 G | 1040 G | 1300 G | 1560 G | 1820 G 22
+
+Roasted Corn Frying Pan Corn + ( Butter or Good Butter or Great Butter ) Butter or Good Butter or Great Butter 468 G | 624 G | 780 G | 936 G | 1092 G 58
+
+Miso Eggplant Pot Eggplant + Miso Oil 408 G | 544 G | 680 G | 816 G | 952 G 34
+
+Roasted Eggplant Frying Pan Eggplant + Oil (None) 228 G | 304 G | 380 G | 456 G | 532 G 10
+
+Baked Yam Frying Pan Yam Butter or Good Butter or Great Butter 120 G | 160 G | 200 G | 240 G | 280 G 54
+
+Egg Custard Pot Egg + ( Shimeji or Truffle or Shiitake or Coral Mushroom or Brown Mushroom or Trumpet Mushroom or Bamboo Shoot ) Shimeji or Truffle or Shiitake or Coral Mushroom or Brown Mushroom or Trumpet Mushroom or Bamboo Shoot 156 G | 208 G | 260 G | 312 G | 364 G 40
+
+Sashimi None ( Tuna or Char or Trout or Masu Salmon or Flounder or Goby or Large Goby or Carp ) Tuna or Char or Trout or Masu Salmon or Any two of the following: or Goby or Large Goby or Carp 96 G | 128 G | 160 G | 192 G | 224 G 44
+
+Fish Paste Pot ( Eel or Flounder or Sea Bass or Small Sea Bass ) Eel or Flounder or Sea Bass or Small Sea Bass 108 G | 144 G | 180 G | 216 G | 252 G 32
+
+Vegetable Stir Fry Frying Pan Oil + Cabbage Green Pepper or Onion or Shimeji or Carrot or Eggplant or Spinach or Bamboo Shoot 540 G | 720 G | 900 G | 1080 G | 1260 G 32
+
+Chop Suey Frying Pan Oil + Cabbage + Carrot + Shiitake Shimeji or Onion or Bamboo Shoot 804 G | 1072 G | 1340 G | 1608 G | 1876 G 28
+
+Steamed Dumpling Pot Onion + Cabbage + Flour Egg or Black Egg or Golden Egg 804 G | 1072 G | 1340 G | 1608 G | 1876 G 50
+
+Pot Sticker Frying Pan Flour + Onion + Cabbage + Shiitake Shimeji 816 G | 1088 G | 1360 G | 1632 G | 1904 G 26
+
+Chinese Dumpling Pot Flour + Carrot + Shiitake + Shimeji Onion or Cabbage 432 G | 576 G | 720 G | 864 G | 1008 G 26
+
+Curry Dumpling Pot Flour + Curry Powder Apple 264 G | 352 G | 440 G | 528 G | 616 G 20
+
+Cheese Dumpling Pot Flour + ( Cheese or Good Cheese or Great Cheese ) Cheese or Good Cheese or Great Cheese 276 G | 368 G | 460 G | 552 G | 644 G 50
+
+Tempura Pot Flour + Oil + Egg + ( Icefish or Smelt or Goby or Yam or Eggplant or Shiitake or Pumpkin or Large Goby ) Icefish or Smelt or Goby or Yam or Eggplant or Shiitake or Pumpkin or Large Goby 300 G | 400 G | 500 G | 600 G | 700 G 32
+
+Spring Roll Frying Pan Rice Flour + Cabbage Shiitake or Shimeji or Carrot 684 G | 912 G | 1140 G | 1368 G | 1596 G 28
+
+Tofu Pot Soybeans (None) 180 G | 240 G | 300 G | 360 G | 360 G 2
+
+Okara Pot Soybeans + Deep-Fried Tofu + Carrot Shiitake 648 G | 864 G | 1080 G | 1296 G | 1512 G 34
+
+Fried Tofu Pot Tofu + Flour Oil 312 G | 416 G | 520 G | 624 G | 728 G 60
+
+Deep-Fried Tofu Pot Tofu + Oil (None) 218 G | 291 G | 364 G | 437 G | 510 G 4
+
+Dried Tofu Pot Tofu (None) 168 G | 224 G | 280 G | 336 G | 392 G 2
+
+Boiled Tofu Pot Tofu + Soy Milk Bonito 600 G | 800 G | 1000 G | 1200 G | 1400 G 14
+
+Cold Tofu None Tofu Seaweed 312 G | 416 G | 520 G | 624 G | 728 G 2
+
+Yuba Tofu Pot Soy Milk (None) 504 G | 672 G | 840 G | 1008 G | 1176 G 6
+
+Dashi Egg Pot Oil + Black Egg (None) 252 G | 336 G | 420 G | 504 G | 588 G 14
+
+Simmered Potato Pot Potato (None) 270 G | 360 G | 450 G | 540 G | 630 G 6
+
+Boiled Pumpkin Pot Pumpkin (None) 492 G | 656 G | 820 G | 984 G | 1148 G 10
+
+Ganmodoki Pot Tofu + Oil + ( Carrot or Potato ) Carrot or Potato 480 G | 640 G | 800 G | 960 G | 1120 G 16
+
+Boiled Daikon Pot Daikon Miso 204 G | 272 G | 340 G | 408 G | 476 G 35
+
+Shredded Daikon Frying Pan Daikon Carrot 210 G | 280 G | 350 G | 420 G | 490 G 17
+
+Tuna Yukhoe None Tuna + ( Egg or Black Egg or Golden Egg ) Egg or Black Egg or Golden Egg 972 G | 1296 G | 1620 G | 1944 G | 2268 G 48
+
+Tteokbokki Pot Rice Candy + Chili Pepper Carrot or Onion 732 G | 976 G | 1220 G | 1464 G | 1708 G 18

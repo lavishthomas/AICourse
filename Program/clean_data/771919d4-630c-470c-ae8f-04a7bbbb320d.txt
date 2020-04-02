@@ -1,0 +1,83 @@
+You’ve read a lot about Google Analytics by now, especially here on KISSmetrics. But if you’re not applying what you’ve read, then you’re not going to get what you really want out of Google Analytics. If you are ready to get actionable metrics out of Google Analytics, then here are the things you need to set up NOW!
+
+Track Goals & Conversions
+
+If you have read any of my other posts on Google Analytics*, you might notice how I continuously mention setting up Goals. This is because Goals are the purpose of your website’s existence. If you aren’t measuring what leads to the completion of goals on your website, then you are missing out on the most actionable metrics on your website.
+
+Goals can be anything you choose. They can be:
+
+The purchase of a product
+
+The completion of an email list sign up
+
+The download of a whitepaper
+
+The click of an external link
+
+To set up a goal, simply go to your website’s profile in Google Analytics and click on the settings wheel icon. Here, you will see a tab for Goals.
+
+Click on the +Goal link to begin adding goals. Enter a short, descriptive name for your goal, then select the goal type. The two most useful types are the URL Destination and Event Type.
+
+The URL Destination Goal Type (as shown above) allows you to tell Google Analytics that a goal has been completed when a visitor on your website lands on a specific page. In the above example, if you have a thank you page for subscribers when they sign up for your mailing list, then that URL would be the Goal URL for a goal showing a completed mailing list signup. The URL Destination Goal Type also works great for a thank you page for a contact form submission.
+
+The Event Goal Type (as shown above) allows you to tell Google Analytics that a goal has been completed when a visitor on your website clicks on a particular link or button. This is used when there is not a final destination URL on your own site. In the above example, if you are selling a product that is not on your website, you would add the bolded portion to the HTML code of the link leading to the offsite sales page as shown below.
+
+<a href=”http://salespage.com/” target=”_blank” onClick=”_gaq.push([‘_trackEvent’, ‘Category’, ‘Action’, ‘Label’]);”>
+
+The parameters in the event tracking script correlate to the Category, Action, and Label needed in the Google Analytics setup. The Event Goal Type also works great for any goals that are completed when a user clicks a button, such as the submit button of a form, download button for a free report, play button of a video, or other action. For a button, you would add the bolded portion to the HTML code of the button.
+
+<input name=”submit” type=”submit” onClick=”_gaq.push([‘_trackEvent’, ‘Category’, ‘Action’, ‘Label’]);” value=”Submit” />
+
+Actionable Data from Goals
+
+Once you have set up goals, you can peruse the following areas of your Google Analytics to discover more about your most treasured people – those that are completing goals and conversions on your website. To see the following metrics based on goal completions, click on the Goal Set you wish to view under the Explorer tab.
+
+Under Audience > Demographics > Location, you can use your Goal Sets to see what countries, regions, and cities lead to the most goal conversions. Use this data to determine what locations to target for online advertising through Google AdWords, Facebook, or other networks.
+
+Under Traffic Sources > Sources > All Traffic, you can use your Goal Sets to see what traffic sources bring the highest converting visitors. Use this data to find out which traffic sources to focus on for the most targeted traffic.
+
+Under Traffic Sources > Sources > Search > Organic, you can use your Goal Sets to see what keywords converting visitors use to find your site. Use this data to choose which keywords your website should be focusing on in your SEO strategy.
+
+Under Content > Site Content > Landing Pages, you can use your Goal Sets to see what landing pages lead to the highest conversions. Use this data to decide what content topics to use on your blog or other pages to lead to more conversions.
+
+Analyze Conversion Funnels
+
+If you have a shopping cart on your website, you can learn about any issues with your checkout system using conversion funnels. These are set up using the URL Destination goal type shown earlier with the exception that you go further by checking the Goal Funnel box. In this section, you will enter the pages that relate to your shopping cart checkout process.
+
+With a conversion funnel, you can visualize the number of people who have started using your checkout system, how far into the process they go, where they exit, and the overall percentage of completions from start to finish.
+
+Actionable Data from Conversion Funnels
+
+Once you have set up a conversion funnel, you can ask the following questions to begin working on an action plan to increase your conversions.
+
+Where do the most amount of people exit during the checkout process? Be sure to test your checkout process carefully. Also consider evaluating specific pages to see what it is that makes people decide to leave. Can this part of the process be made easier?
+
+What pages do people go to when they exit? Be sure to take a look at these pages to see if they instill visitors with confidence in your business which should hopefully lead them back to the shopping cart.
+
+Do people exit the checkout process to visit your return policy page? If so, perhaps adding a short summary of your return policy on the checkout pages might keep people in the shopping cart.
+
+Do people go back to the same product sales page from which they entered the shopping cart? Maybe some additional details about the product should carry over through the shopping cart process.
+
+Use Advanced Segments
+
+Advanced Segments in Google Analytics allow you to see all of your data based on a specific piece of criteria, such as a particular traffic referrer, demographic, or even one piece of content. To create an Advanced Segment, click on the Advanced Segments tab and then the +New Custom Segment.
+
+First, you will enter a short, descriptive name for your segment. Then you can use the dropdowns to select what dimensions of data to include or exclude from your segment. Click on the Preview Segment button to see if you are getting the right data, then the Save Segment to finish.
+
+Actionable Data from Advanced Segments
+
+In our previous article, we talked about using your traffic sources data to find out which online marketing strategies are driving the best traffic to your website. You can take Advanced Segments further to include the following actionable data.
+
+Find out where the highest converting visitors are from using your Goals, then create an Advanced Segment for visitors from those areas using the location dimensions (Continent, Country/Territory, City, or Region). Use this segment to learn more about visitors from those locations including the top traffic sources that bring them to your website, what content they visit the most, and more. Use this data to find out what traffic sources to focus on and what content to create to cater to your most converting audience.
+
+Learn everything about the behavior of visitors who enter your site using a particular keyword by creating an Advanced Segment using the keyword dimension. Create multiple segments for different keywords and view them simultaneously for comparison. Use this data to find out if you are targeting the right keywords.
+
+Have you recently run a huge promotional campaign directed towards one page on your website? Create an Advanced Segment using the Page dimension and the page’s URL (everything after http://domain.com/). Then you can view all of the Analytics data for that page only to see which promotion types (social media, press releases, blogger outreach, etc.) brought in the most traffic. Use this to learn what types of promotion to apply to future campaigns.
+
+Want to know what new visitors to your site do compared to returning visitors? Create two Advanced Segments using the Visitor Type dimension – one containing New Visitor and one containing Returning Visitor. View both segments simultaneously to compare Analytics data. Use this data to see what content new visitors are most attracted to and returning visitors can’t get enough of so you can create more of both.
+
+*Other (and highly recommended!) Google Analytics Posts
+
+What other actionable metrics, data, and analysis do you get out of Google Analytics using Goals, Funnels, and Advanced Segments? Please share your strategies in the comments!
+
+About the Author: Kristi Hines is a freelance writer, professional blogger, and social media enthusiast. Her blog Kikolani focuses on blog marketing for personal, professional, and business bloggers. You can follow her on Google+, Twitter, and Facebook.

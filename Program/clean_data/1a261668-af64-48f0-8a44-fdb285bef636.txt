@@ -1,0 +1,35 @@
+A few weeks ago, I wrote about big opportunities in Little Data. And while my stance on Little Data hasn’t changed, there are also very exciting and very surprising things happening with Big Data right now. A quick look across the business landscape reveals some powerful use cases that may help get your creative juices flowing on how Big Data can work for you.
+
+Less Emergency Room Trips = $4.5 Million Savings
+
+At Caesars Entertainment Corp., Big Data is helping to reduce health care costs for its employees and covered family members. By analyzing data from employee-related health insurance claims, the company found that one property had an unusually low percentage of actual emergencies going to urgent care centers versus higher-cost emergency departments.
+
+The revelation prompted Caesars to launch a campaign to raise employee awareness of urgent care and other, less expensive emergency alternatives. The result? Over the next few years, the number of emergencies being treated at urgent care facilities increased by 6 percent, and the number of people making multiple visits to emergency departments fell by 10 percent. Caesars estimates the shift is worth $4.5 million in health care cost savings.
+
+Big Brown Truck Goes High-Tech
+
+United Parcel Service is using Big Data to streamline its delivery routes and cut fuel costs. The company’s trademark brown vans are outfitted with sensors that monitor vehicle speed, location and more. By analyzing the GPS data as well as information from fuel-efficiency sensors, UPS cut its fuel consumption by 8.4 million gallons and cut 85 million miles off its routes in 2011.
+
+Big Data Is Fashion’s New Black
+
+Big Data opportunities are also emerging in some unexpected places, like the fashion industry. Sure, there are a lot of numbers and metrics and data points available to track and analyze the business side of fashion. But fashion itself as an artistic endeavor is notoriously fickle, driven more by trends and whims than data. “One day, you’re hot…the next, you’re not,” as they say.
+
+It turns out, Big Data can help designers and fashion companies stay hot. Big Data lets the fashion industry predict consumer demand in a way that historical sales data and focus groups never could.
+
+Now, fashion companies have the ability to collect and analyze far more data about their customers and prospects, revealing their preferences much more clearly than ever before. And those Big Data insights can inform art and design as well as production decisions.
+
+When Big Data Goes Bad
+
+Of course, Big Data can backfire, too. Last year, Forbes writer Kashmir Hill reported on how Target figured out a teen girl was pregnant before her father did.
+
+By analyzing a shopper’s historical purchasing patterns, Target can predict future purchases and promote those items to the shopper in the form of coupons and mailers. That’s where Big Data excels. Target wound up sending coupons for baby items to a high school girl whose recent purchases suggested — correctly — that she was pregnant. As Hill’s cautionary tale reveals, Big Data falls short in judgment and discretion.
+
+Life and Death Cases in the News
+
+Beyond business, Big Data is driving some noble causes, such as the fight against human trafficking, which enslaves nearly 21 million people worldwide and generates over $32 billion per year.
+
+Armed with a $3 million Global Impact Award, three anti-trafficking organizations — Polaris Project, La Strada International and Liberty Asia — embarked on a Big Data project that will aggregate and analyze their global data to help more victims escape their situations and to identify larger, global trends that can inform broader strategic intervention.
+
+Is your company doing something cool with Big Data? I’d love to hear about it in the Comments section.
+
+Follow me @rajsabhlok.

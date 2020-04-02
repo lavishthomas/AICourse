@@ -1,0 +1,175 @@
+The industry needs to change; here’s how to manage it.
+
+The construction industry is ripe for disruption. Large projects across asset classes typically take 20 percent longer to finish than scheduled and are up to 80 percent over budget (Exhibit 1). Construction productivity has actually declined in some markets since the 1990s (Exhibit 2); financial returns for contractors are often relatively low—and volatile.
+
+Exhibit 1
+
+Exhibit 2
+
+While the construction sector has been slow to adopt process and technology innovations, there is also a continuing challenge when it comes to fixing the basics. Project planning, for example, remains uncoordinated between the office and the field and is often done on paper. Contracts do not include incentives for risk sharing and innovation; performance management is inadequate, and supply-chain practices are still unsophisticated. The industry has not yet embraced new digital technologies that need up-front investment, even if the long-term benefits are significant (Exhibit 3). R&D spending in construction runs well behind that of other industries: less than 1 percent of revenues, versus 3.5 to 4.5 percent for the auto and aerospace sectors. This is also true for spending on information technology, which accounts for less than 1 percent of revenues for construction, even though a number of new software solutions have been developed for the industry.
+
+Exhibit 3
+
+Technical challenges specific to the construction sector have a role in the slow pace of digitization. Rolling out solutions across construction sites for multiple sectors that are geographically dispersed—compare an oil pipeline, say, with an airport—is no easy task. And given the varying sophistication levels of smaller construction firms that often function as subcontractors, building new capabilities at scale is another challenge.
+
+However, none of this is going to get easier. Projects are ever more complex and larger in scale. The growing demand for environmentally sensitive construction means traditional practices must change. And the shortage of skilled labor and supervisory staff will only get worse. These are deep issues that require new ways of thinking and working. Traditionally, the sector has tended to focus on making incremental improvements, in part because many believe that each project is unique, that it is not possible to scale up new ideas, and that embracing new technologies is impractical.
+
+The McKinsey Global Institute estimates that the world will need to spend $57 trillion on infrastructure by 2030 to keep up with global GDP growth. This is a massive incentive for players in the construction industry to identify solutions to transform productivity and project delivery through new technologies and improved practices.
+
+In this report, we consider five ways the industry can transform itself over the next five years.
+
+Disrupting construction: Five big ideas
+
+None of these five ideas is futuristic or even implausible. All are grounded in innovations that are applicable to the construction sector and that are either being deployed or prototyped. In short, they are practical and relevant. Moreover, they are designed to work together to deliver greater impact (Exhibit 4).
+
+Exhibit 4
+
+Higher-definition surveying and geolocation
+
+Geological surprises are a major reason that projects are delayed and go over budget. Discrepancies between ground conditions and early survey estimates can require costly last-minute changes to project scope and design. New techniques that integrate high-definition photography, 3-D laser scanning, and geographic information systems, enabled by recent improvements in drone and unmanned-aerial-vehicle (UAV) technology, can dramatically improve accuracy and speed.
+
+Photogrammetry, for example, provides high-quality, high-definition images of survey areas but takes time to be converted into a usable format. Light-detection-and-ranging (lidar) technology is much faster than conventional technologies and provides high-quality 3-D images that can be integrated with project-planning tools, such as building information modeling (BIM), as Exhibit 5 shows.
+
+Exhibit 5
+
+Used in conjunction with ground-penetrating radar, magnetometers, and other equipment, lidar can generate above-ground and underground 3-D images of project sites. This is particularly important in dense, environmentally sensitive, or historical project sites, where disturbance needs to be minimized.
+
+These advanced survey techniques are complemented by geographic information systems that allow maps, images, distance measurements, and GPS positions to be overlaid. This information can then be uploaded to other analytical and visualization systems for use in project planning and construction.
+
+Two or more survey techniques are often used together to save time and money. For example, for a survey of river sites for minihydropower plants in Southeast Asia, surveyors used lidar maps for general terrain information and drone-mounted high-definition cameras to focus on specific areas.
+
+Infographic View and download our infographic on how the construction industry is ripe for disruption.
+
+Modern survey technology is more accessible than ever because costs have come down substantially. Lidar and real-time kinematic GPS are now available for about $10,000. High-resolution cameras are small and light enough to be mounted on standard industrial drones; this is faster and cheaper than using helicopter-mounted cameras for aerial surveys. Specialized technology providers offer cost-efficient survey packages, including drone and UAV equipment, data uploading, and processing services, as well as software to manage drone flights, data capture, and dashboards to visualize information. Some government agencies and nongovernmental organizations have started providing free lidar maps.
+
+Next-generation 5-D building information modeling
+
+In the 1970s, major aerospace companies pioneered computer-aided 3-D modeling. This transformed the way aircraft were designed and built and helped to improve sector productivity by up to ten times.
+
+The construction industry, however, has yet to adopt an integrated platform that spans project planning, design, construction, operations, and maintenance. Instead, the industry still relies on bespoke software tools. In addition, project owners and contractors often use different platforms that do not sync with one another. As a result, there is no single source that provides an integrated, real-time view of project design, cost, and schedule.
+
+Next-generation 5-D BIM is a five-dimensional representation of the physical and functional characteristics of any project. It considers a project’s cost and schedule in addition to the standard spatial design parameters in 3-D. It also includes such details such as geometry, specifications, aesthetics, thermal, and acoustic properties. A 5-D BIM platform allows owners and contractors to identify, analyze, and record the impact of changes on project costs and scheduling (Exhibit 6). The visual and intuitive nature of 5-D BIM gives contractors a better chance to identify risks earlier and thus to make better decisions. For example, project planners can visualize and estimate the impact of a proposed change in design on project costs and schedule.
+
+Exhibit 6
+
+One study found that 75 percent of those that adopted BIM reported a positive return on their investment. They also reported shorter project life cycles and savings on paperwork and material costs. Given these benefits, a number of governments, including those in Britain, Finland, and Singapore, mandate the use of BIM for public infrastructure projects.
+
+The use of 5-D BIM technology will be further enhanced through augmented-reality technology via wearable devices. For example, a wearable, self-contained device with a see-through, holographic display and advanced sensors can map the physical environment. Companies are developing BIM-like design and construction solutions for these platforms. In this “mixed reality” environment, users can pin holograms to physical objects and interact with data using gesture, gaze, and voice commands.
+
+Combining 5-D BIM and augmented-reality devices will transform construction, maintenance, and operations. To get the full benefit of BIM technology, project owners and contractors need to incorporate its use right from the design stage, and all stakeholders need to adopt standardized design and data-reporting formats compatible with BIM. In addition, owners and contractors need to dedicate resources for BIM implementation and invest in capability building.
+
+Digital collaboration and mobility
+
+Process digitization means moving away from paper and toward online, real-time sharing of information to ensure transparency and collaboration, timely progress and risk assessment, quality control, and, eventually, better and more reliable outcomes.
+
+One reason for the industry’s poor productivity record is that it still relies mainly on paper to manage its processes and deliverables such as blueprints, design drawings, procurement and supply-chain orders, equipment logs, daily progress reports, and punch lists. Due to the lack of digitization, information sharing is delayed and may not be universal. Owners and contractors therefore often work from different versions of reality. The use of paper makes it difficult to capture and analyze data; that matters because in procurement and contracting, historical performance analytics can lead to better outcomes and risk management. Mismanaged paper trails also routinely spur disagreements between owners and contractors on such matters as construction progress, change orders, and claims management. Finally, paper trails simply take more time.
+
+Owners and contractors are beginning to deploy digital-collaboration and field-mobility solutions (Exhibit 7). A large global construction firm recently announced a joint development agreement with a software provider to develop a cloud-based, mobile-enabled field-supervision platform that integrates project planning, engineering, physical control, budgeting, and document management for large projects. Several large project developers have already successfully digitized their project-management work flows.
+
+Exhibit 7
+
+Digitizing work flows has substantial benefits. In an American tunnel project that involved almost 600 vendors, the contractor developed a single platform solution for bidding, tendering, and contract management. This saved the team more than 20 hours of staff time per week, cut down the time to generate reports by 75 percent, and sped up document transmittals by 90 percent. In another case, a $5 billion rail project saved more than $110 million and boosted productivity by using automated work flows for reviews and approvals.
+
+Crew-mobility solutions will have a similar catalytic effect on productivity (Exhibit 8). It’s long been difficult for central-planning teams and on-site construction teams to connect and share information about progress in real time. Several problems have limited the adoption of such tools by field crews: compatibility issues between mobility solutions and central-planning solutions, a lack of reliable and high-speed broadband connectivity, and nonintuitive designs and user interfaces.
+
+Exhibit 8
+
+The availability of low-cost mobile connectivity, including via tablets and handheld devices, has ushered in a new generation of “mobile first” cloud-based crew-mobility apps that can be deployed, even on remote construction sites, with real-time updates. These are commercially viable for contractors and project owners of all sizes.
+
+In fact, the digital-collaboration and mobility-solutions segment has attracted close to 60 percent of all venture funding in the construction-technology sector. One start-up has developed apps for tablets and smartphones that allow changes in construction blueprints and plans to be relayed in real time to on-site crews; site photos can be hyperlinked to construction plans. This solution maintains a master set of documents with automatic version control and cloud-based access. Other companies offer mobile timekeeping, real-time cost coding, geolocation of workers, and issue logging and tracking.
+
+As frontline users such as project managers, tradespeople, and operators adopt real-time crew-mobility apps, they could change the way the industry does everything from work- and change-order management, time and material tracking, dispatching, scheduling, productivity measurement, and incident reporting.
+
+The Internet of Things and advanced analytics
+
+By measures such as the number of people, the profusion of construction equipment, and the amount of work going on at the same time, project sites are getting denser. They now generate vast amounts of data, a majority of which is not even captured, let alone measured and processed.
+
+The Internet of Things is a reality in many other sectors; sensors and wireless technologies enable equipment and assets to become “intelligent” by connecting them with one another. On a construction site, the Internet of Things would allow construction machinery, equipment, materials, structures, and even formwork to “talk” to a central data platform to capture critical performance parameters. Sensors, near-field-communication (NFC) devices, and other technologies can help monitor productivity and reliability of both staff and assets. There are several potential uses:
+
+Equipment monitoring and repair. Advanced sensors can enable machinery to detect and communicate maintenance requirements, send automated alerts for preventive maintenance, and compile usage and maintenance data.
+
+Inventory management and ordering. Connected systems can forecast and alert site managers when stocks are running short and when orders need to be made. NFC tagging and tracking of materials can also pinpoint their location and movement and help reconcile physical and electronic inventory.
+
+Quality assessment. “Smart structures” that use vibration sensors to test the strength and reliability of a structure during the construction stage can detect deficiencies and then correct them early.
+
+Energy efficiency. Sensors that monitor ambient conditions and fuel consumption for assets and equipment can foster on-site energy efficiency.
+
+Safety. Wearable bands can send alerts if drivers and operators are falling asleep or if a vehicle or asset is stationary or nonoperational for a given window of time during shift hours.
+
+One popular form of NFC technology is radio-frequency identification (RFID). This is used extensively in logistics, retail, and manufacturing environments to collect precise information about a product, place, time, and transaction. Since the 1990s, construction has begun to use RFID for applications such as tracking materials and equipment and developing automated time sheets.
+
+And NFC technology is evolving. Soon, tags will be able to include information on specifications, dates, defects, vendors and original-equipment manufacturers, maintenance records, operating parameters, and other applications. Costs of RFID equipment, including scanners, receivers, and tags, are falling, and new applications are emerging. A British construction company, for example, is using RFID to monitor truck inspection, track tool usage, and train workers at construction sites.
+
+The leadership challenge: Building the future of global infrastructure Read the article
+
+In addition to the opportunities from the Internet of Things, the greater use of digitization in the construction-planning process and on the construction site itself is enabling firms to capture data that paper could not. The insights gained through the adoption of advanced analytics in construction projects can help to improve efficiency, timelines, and risk management.
+
+Advanced analytics helped a major London infrastructure project save time and money when project leaders worked with a data-analytics company to produce a web-based adaptive-instrumentation-and-monitoring system. The system absorbed field-sensor data, construction-progress data, and workforce and vehicle movements. Statistical analysis based on this information helped project teams detect anomalies and identify potential risks—critical information for a dense and historically sensitive city like London.
+
+Other examples abound. For instance, insights from advanced analytics helped an oil and gas giant improve the productivity of its engineering function by 20 to 25 percent by pairing the right teams, appointing appropriate team leads, and modifying their work flows to minimize waste and improve efficiency. In another case, a large Middle Eastern construction firm worked with a software company to build a predictive analytics engine to prevent equipment breakdowns on-site for its fleet of construction vehicles. This saved millions of dollars in downtime, fuel costs, and maintenance expenses. And event simulations, coupled with optimization algorithms, have also helped ship builders optimize construction planning.
+
+Future-proof design and construction
+
+New building materials, such as self-healing concrete, aerogels, and nanomaterials, as well as innovative construction approaches, such as 3-D printing and preassembled modules, can lower costs and speed up construction while improving quality and safety.
+
+Building materials represent a $1 trillion global industry; materials usually account for more than half the total cost of projects. Traditional materials such as concrete, cement, and asphalt make up most of this demand. But new and better construction materials are also required due to several trends:
+
+Green construction. There is an immense push to adopt materials and technologies with lower carbon footprints.
+
+Cost efficiency. Given substantial cost pressures, there is a need for structural change in the choice of materials, in addition to incremental lean efforts.
+
+Supply-chain agility. Transporting heavy materials and equipment has massive implications on supply-chain costs and time, especially because many new projects are located in remote or dense areas.
+
+Improved durability and strength. With capital costs rising and land growing scarce in many markets, owners are insisting that projects have longer commercial lives.
+
+Off-site construction. Assembling lighter, easier-to-handle materials off-site can improve project efficiency, address on-site space constraints, and create the conditions for crews to improve their skills.
+
+There has been a wave of innovation in construction materials over the past few decades, developed with specific uses in mind. There are dozens; here are a few that are particularly interesting:
+
+Self-healing concrete. This uses bacteria as a healing agent to close cracks on concrete; it is currently at the proof-of-concept stage.
+
+Concrete canvas. Take a layer of “concrete cloth,” then add water and allow to set. This innovation typically is used for drains, channels, and passages, and it is now available commercially.
+
+Topmix permeable. This is a cement alternative that can absorb 4,000 liters of water a minute. It is in the early-adoption stage.
+
+Aerogel. This supertransparent, super-insulating material is 99.98 percent air; it is available commercially.
+
+Nanomaterials. These superstrong, ultralightweight materials may eventually be a substitute for steel reinforcement in structures and foundations, though they are still in the research stage.
+
+Some of these “materials of the future” could redefine how projects are conceptualized, designed, and executed. However, adoption has been slow due to a lack of awareness and familiarity within the design and engineering community, a limited supply chain and a lack of availability at scale, and risk aversion among project owners and contractors.
+
+Despite being available for more than 30 years, for example, ethylene tetrafluoroethylene (ETFE) only gained widespread adoption after it was used to build part of the aquatic building for the Beijing Olympics in 2008. ETFE weighed less than 1 percent of an equivalent glass panel and costs 24 to 70 percent less to install.
+
+About 80 percent of all construction work is still done on-site, but many project developers and contractors are deploying new off-site approaches that help them improve predictability, consistency, and repeatability. This is especially critical given the realities of shrinking work space, labor shortages, and more exacting safety and environmental standards. The industry needs to move beyond precasting and prefabricating structures to the next generation of techniques. Several techniques show potential:
+
+Preassembly. Relatively simple structures, such as factories and covered yards, can use in-factory or in-yard assembly for a complete building envelope. This technique can also be adapted for modular buildings, such as hotels and budget condominiums. Complete submodules of a larger building are put together in a factory or nearby yard before final assembly at the construction site. Techniques such as prefabricated, prefinished volumetric construction (PPVC) integrate off-site capabilities to transform the construction site into a manufacturing system. The result: greater efficiency, less waste, and improved safety. In addition, materials such as cross-laminated timber (CLT) are emerging in response to the need for greener construction options. In the United Kingdom, an 80-story timber skyscraper recently received preliminary approval. Companies are responding. A Singaporean property developer is using PPVC for several new residential-building projects, after the government conducted successful pilots (Exhibit 9). And given the success of a CLT-based residential project, an Australian property developer recently announced plans to open a factory in Sydney dedicated to manufacturing prefabricated building components for future developments.
+
+3-D printing. Printing submodules or complete concrete structures before assembly and internal work could transform the industry with respect to design, cost, and time. However, 3-D printing is still in the early stages of its development and cannot yet be deployed at the scale and speed required for large projects.
+
+Robot-assembled construction. Construction projects are inherently unstructured and often unpredictable; they can also be sited in difficult terrains and environments. For these reasons, the use of robots has been limited so far. However, robots are now being selectively used for repetitive and predictable activities, such as tiling, bricklaying, welding and spool fabrication, demolition, and concrete recycling.
+
+Companies that have successfully implemented these approaches have had to dramatically change their internal planning, design, procurement, and construction processes. They will also need to invest in automation and an effective supply-chain backbone to ensure smooth and on-time transportation of materials from factory to site to use. Finally, companies that decide to vertically integrate their supply chains will need to plan for manufacturing-related investments.
+
+Exhibit 9
+
+Recommendations for action
+
+Given the construction industry’s poor track record on innovation and the adoption of new technologies, tools, and approaches, project owners and contractors need to adopt a new mindset. Owners often believe that their responsibility ends when they award contracts, forgetting that they pay the economic costs of delay. For their part, contractors often do only the minimum required to meet contractual terms, leaving substantial value on the table. For the industry to do better, it needs to embrace four principles:
+
+Transparency and risk sharing in contracts. Habits are tough to change, and one habit is to see contracts as adversarial opportunities to hand off risks. Instead, contracts need to be seen as tools that allow fair sharing of risks and rewards and that help both sides succeed. This will happen if contracts clearly outline responsibilities and allow owners and contractors to share equitably the benefits that arise from the adoption of technological and process innovations. During the construction of Terminal 5, for example, Heathrow Airport held all the risks as the project developer, protected by a comprehensive insurance policy. Instead of a traditional client–contractor relationship, Heathrow treated the different partners like team members. It invited them to work together to solve complex issues and to find the technical solutions that worked best for the whole project. This allowed all parties to focus on keeping the project on track.
+
+Return-on-investment orientation. Measuring and communicating how new technology will improve construction—for example, through the positive effects on cost, schedule, and risk optimization—is the surest way to build a compelling case for adoption. One oil and gas major measures, documents, and communicates productivity-related savings as a result of the deployment of an advanced-analytics and visualization solution for its deepwater platforms. This proves the positive financial impact and generates “pull” from other projects.
+
+Simplicity and intuitiveness in the design of new solutions. At the front end, user interfaces need to be “foreman friendly” to encourage usage. At the back end, building in compatibility with existing enterprise solutions mitigates the need to spend more on upgrading existing platforms.
+
+Change management. To move away from business as usual, organizations need a clear change story; top management needs to communicate why these changes are important and what that means for organizational structure, capabilities, and resourcing. Organizations that do not invest in change management will face the same resistance encountered during previous waves of technology deployment and are more likely to fail.
+
+All major stakeholders share the responsibility for the transition to digital technology and innovation. The imperatives for each are different.
+
+Project owners and developers need to mandate and measure. That starts with mandating adoption of digital technologies in contracts and perhaps capitalizing the cost of digitization and technology when setting project budgets. To manage risks, owners should coinvest in technology pilots with contractors and share rewards proportionately. Our experience indicates that megaprojects are often not the best candidates for big technology deployments; instead, starting small and developing capabilities with midsize projects can build confidence. In addition, owners should measure and reward technology adoption across their projects.
+
+It is essential for engineering and construction contractors to reimagine and rewire. To do so, they need to develop digital road maps that identify obvious no-regret moves as well as riskier, bigger bets. Organizational resources need to be reallocated by appointing a chief technology officer or chief innovation officer whose mandate is to think boldly about the digital agenda and to lead the simplification and digitization of internal processes. Companies should also consider acquiring or partnering with technology firms. Of course, it’s important to ensure that project teams have the budgets and authority they need to pilot new technologies. And it’s essential to build the capabilities of project managers so that they become digitally adept.
+
+Industry bodies and regulators should invest and create incentives. They can play a helpful role, for example, by working with contractors, owners, and technology players to define new standards for emerging technologies, develop pilot projects, and showcase success stories. They can create grants, bonuses, or subsidies to nudge owners and contractors toward using digital solutions and help them educate and train the next generation. They can also encourage the adoption of digital technologies, such as 5-D BIM, in public projects, as well as set productivity norms, such as the use of prefabricated components. On the investment side, some industry bodies have established venture-capital funds to help the best start-ups scale up and to connect them to developers and contractors.
+
+Other industries have shown that first movers can build a sustainable competitive advantage. In the construction sector, this is also likely to be the case. Over the next decade, these winners of tomorrow will take the lead in technology innovation and digitization. Resisting change is no longer an option.

@@ -1,0 +1,37 @@
+Beams of light do not, generally speaking, bounce off each other like snooker balls. But at the high energies in the Large Hadron Collider at CERN they have just been observed doing exactly that
+
+Light is useful, versatile and perplexing. We see with it - that is, we make sense of our surroundings (sometimes) using signals that our eyes send to our brains when light impinges upon them. We also use it to “see” far beyond the limits of our own sense organs. We peer deep into space, or – as at the shiny new light source just opened in Hamburg – into the complexities of atoms and molecules.
+
+Often we think of light as a wave, and that is how it often behaves. But we know that light comes in little packets – quanta – called photons. The paper which swung the scientific consensus in favour of the existence of photons was published by Albert Einstein in 1905, and yet in 1951 he wrote to an old friend
+
+These fifty years of conscious brooding have not brought me any closer to an answer to the question: “What are light quanta?” Today the first rascal believes he knows what they are, but he deludes himself. (Albert Einstein to Michele Besso, December 12, 1951; Einstein and Besso 1972, 453)
+
+Whatever Einstein meant by “answering the question”, I’d argue that in the fifty years before he wrote that we certainly did get closer, and in the 66 years since we have got closer still. Perhaps that makes me a rascal, but I’m definitely not the first.
+
+Maxwell's equations: 150 years of light Read more
+
+I think we get closer to answering the question of what photons are when we observe and understand new forms of behaviour they exhibit. This is a pretty general approach among physicists; what something “is” is defined by its properties.
+
+Photons exhibit an incredibly wide range of behaviour, depending upon their wavelength, how densely they are packed together, what materials they are interacting with and what direction they are spinning. Lasers and optical fibre technologies are just two of the more obvious applications that have had an impact on our lives.
+
+This phenomenon is impossible in classical theories of electromagnetism Dan Tovey (University of Sheffield), ATLAS Physics Coordinator.
+
+Some of my first work as a postdoc involved measuring how photons scatter off protons, and we even wrote a programme which could simulate how one photon collides with another producing sprays of other particles. When things break up like that in a particle collision, we call it “inelastic” scattering.
+
+A much more elusive process is the elastic scattering of photons; light bouncing off light, and nothing else being produced. The term “elastic” is used because, as when bouncing a rubber ball, the amount of kinetic energy – the energy of motion of the ball – is conserved. The ball bounces back pretty much as hard as you throw it. (In an inelastic collision some of this energy is distributed amongst the new particles, or lost as heat, or otherwise converted into a different form.)
+
+The first strong evidence for the elastic scattering of photons at high energies has just been reported by the ATLAS experiment (which I work on) at the Large Hadron Collider.
+
+The measurement of this process is made during the periods when the LHC is smashing lead nuclei together, rather than in its usual proton-smashing mode. Because the lead nucleus has a charge 82 times that of the proton, and because electric charge is a source of photons, there is a dense cloud of high-energy photons accompanying the bunches¹ of nuclei. Sometimes nuclei hit each other, sometimes they hit photons, and sometimes – more rarely – photons hit each other and bounce off elastically.
+
+The analysis involves identifying photons in the ATLAS detector in collision events which are otherwise very quiet. The picture at the top of the article shows a representation of the real data from once such collision. The beams come from behind and in front of the picture and collide in the centre of the blue and purple circles. Those circles are the charged-particle detectors of ATLAS, showing almost no activity, because photons carry no electric charge. The green and yellow wedges show the energy deposited by the scattered photons in the calorimeter – the part of ATLAS responsible for energy measurement. A more usual lead-lead collision would be a bit busier, something like this:
+
+Facebook Twitter Pinterest One of the first higher energy (13 TeV) heavy ion collisions recorded by the ALICE detector, on 25 November 2015 Photograph: ALICE/CERN
+
+Elastic light-light scattering is an intrinsically quantum-mechanical process. The fact that it occurs is not unexpected; it makes an essential contribution to the magnetic moment of fundamental particles, for example, and closely-related processes have been observed at lower energies². But this is the first time two high-energy beams of light have been seen scattering off each other.
+
+As Dan Tovey says “this result provides a sensitive test of our understanding of QED, the quantum theory of electromagnetism.” Or to put it another way; experiment, rather than conscious brooding, has brought us a step closer to answering Einstein’s question. Light quanta are things that do this, too.
+
+¹ This is not a colloquialism, it’s jargon. We really call them that.
+
+² See the second paragraph of the ATLAS paper for more details and references

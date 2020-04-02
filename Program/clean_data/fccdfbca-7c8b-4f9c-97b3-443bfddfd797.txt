@@ -1,0 +1,221 @@
+The Joel Test For Programmers (The Simple Programmer Test)
+
+A while back—the year 2000 to be exact—Joel Spolsky wrote a blog post entitled: “The Joel Test: 12 Steps to Better Code.”
+
+Many software engineers and developers use this test for evaluating a company to determine if a company is a good company to work for.
+
+In fact, many software development organizations use the Joel Test as a sort of self-test to determine what they need to work on.
+
+Here is what the Joel Test looks like, in case you aren't familiar:
+
+The Joel Test
+
+Do you use source control? Can you make a build in one step? Do you make daily builds? Do you have a bug database? Do you fix bugs before writing new code? Do you have an up-to-date schedule? Do you have a spec? Do programmers have quiet working conditions? Do you use the best tools money can buy? Do you have testers? Do new candidates write code during their interview? Do you do hallway usability testing?
+
+And here's how it is applied, according to Joel:
+
+“The neat thing about The Joel Test is that it's easy to get a quick yes or no to each question. You don't have to figure out lines-of-code-per-day or average-bugs-per-inflection-point. Give your team 1 point for each “yes” answer. The bummer about The Joel Test is that you really shouldn't use it to make sure that your nuclear power plant software is safe.
+
+A score of 12 is perfect, 11 is tolerable, but 10 or lower and you've got serious problems. The truth is that most software organizations are running with a score of 2 or 3, and they need serious help, because companies like Microsoft run at 12 full-time.”
+
+But what about a “Joel Test” for programmers?
+
+The Joel Test is great for software development shops and for programmers that are interested in quickly evaluating a company's software development environment, but what about a Joel Test for actual programmers?
+
+Several people have asked me lately if I had an idea for a Joel Test to evaluate an actual programmer, rather than a software development organization, so I've decided to put together a list of what I think might be a good equivalent of the Joel Test for evaluating the skills of an actual software developer.
+
+Here is what I came up with.
+
+I'll list them out and then dig a little deeper into each one, just as Joel did in his original post.
+
+The Simple Programmer Test
+
+Can you use source control effectively? Can you solve algorithm-type problems? Can you program in more than one language or technology? Do you do something to increase your education or skills every day? Do you name things appropriately? Can you communicate your ideas effectively? Do you understand basic design patterns? Do you know how to debug effectively? Do you test your own code? Do you share your knowledge? Do you use the best tools for your job? Can you build an actual application?
+
+Obviously, this is a simple test that doesn't incorporate anywhere close to everything that makes a good software developer, but you can use this test to self-score—or perhaps when interviewing a candidate to get a good idea of general aptitude.
+
+For self-scoring, it's of course important to honestly evaluate yourself based on these 12 criteria and only score yourself a point if you can confidently say you meet the criteria for that point.
+
+If you are honestly coming up with a score below an 8, don't lose heart. It just means you have plenty of things to work on.
+
+I would say that anyone with an 8+ score should have a pretty easy time finding a good job in software development.
+
+1. Can you use source control effectively?
+
+(I hate to use the word effectively, but I have chosen to use it throughout this list, simply because it really is one thing to be able to do something and another thing entirely to be able to do it effectively. So, while “effectively” is subjective, I'll do my best to define it as objectively as possible in each description here.)
+
+Yes, just about any developer can check in and check out files from source control, but using source control effectively means more than just understanding the basics of pulling down the source code from a repository and making a commit.
+
+Different source control technologies have different ways of using them, but regardless of what source control technology you use, you should know how to use it to do more than just check out and check in code.
+
+To use source control effectively, you should understand concepts like branching and merging.
+
+You should know how to use your source control system to go back and look at revisions of code to compare them.
+
+You should know how to resolve conflicts when merging and understand how you can use branching or work-spaces to work in isolation or together with teammates when appropriate.
+
+Since source control is so important to just about every software developer, you should really be an expert at using whatever source control technology you are using and understand the basic concepts that apply to just about all source control systems.
+
+2. Can you solve algorithm-type problems?
+
+I'm amazed by how many programmers can't solve fairly simple algorithm problems—especially since these kinds of problems are almost always asked at any major coding interview.
+
+As a software developer, you should be able to solve a basic algorithm problem like:
+
+“Write a function to determine if two words are anagrams of each other.”
+
+And you should be able to solve problems a lot more difficult than that—on a whiteboard.
+
+This is kind of the bread-and-butter for a programmer. Even though most real world problems don't resemble the type of algorithm problems you are often asked at a job interview, the same types of problems do exist in the real world. In fact, the only way to really recognize them is to have some experience solving those types of problems in general.
+
+I've written many times about solving these types of problems and provided many different resources on the topics, so I'm not going to repeat myself here, but take a look at some of these posts, if you are interested in improving your skills in this area:
+
+3. Can you program in more than one language or technology?
+
+The more and more you work in this industry, the more you will realize how pointless it is to be religious about technology and how beneficial it is to be well-versed in more than one programming language or technology stack.
+
+The best programmers are able to use the best tool for the job. They realize that different problems are best solved by different technologies. They don't try and just use what they know, and they don't become married to a particular technology or programming language just because it is what they know.
+
+A really good programmer will try to acquire a broad set of experiences and knowledge by learning more than one programming language and will invest some time in educating themselves in multiple technology stacks.
+
+Sure, specialization is important, but it is also important to be well-versed in multiple areas of technology, even if you don't use that knowledge on a day-to-day basis.
+
+In my mind, the time period in my life when I really transitioned from an average developer to a good or really good developer was when I worked outside of my comfort zone and started doing Java development even though my inclination and most of my experience was in C# and .NET.
+
+After making the transition to a 2nd programming language and a completely different technology stack, I brought a much broader perspective to future projects I worked on and was no longer limited by the tunnel vision that working in a single technology can give you.
+
+4. Do you do something to increase your education or skills every day?
+
+One of the first questions I ask any software developer who I am interviewing is what they do to keep up on technology and how they stay up-to-date.
+
+I've found that programmers who have some kind of self-education plan in place are the kinds of programmers who end up doing the best work, are the kinds of developers I like working with the most and are the most productive overall.
+
+In today's environment of new technologies and advancements coming out literally every day, it is impossible to stay relevant if you do not have some kind of habit in place to keep up.
+
+You should be doing something every day—even if it is small—to advance your skills or learn something new.
+
+Just taking 15 minutes a day to read programming blogs (like this one), reading a technical book or doing something else to improve you skills, makes a huge difference over the course of a few years time.
+
+5. Do you name things appropriately?
+
+One of the most difficult, yet important, parts of your job is to name things.
+
+A good software developer writes clean, and easily understandable code.
+
+It's impossible to write clean and easily understandable code unless you are good at naming variables, methods, classes, and anything else that you create which requires a name.
+
+If I look at your code and see how you've chosen to name things, it tells me a lot about how you think and how much you understand the importance of writing code that, not just does what it's supposed to do, but is easy to understand and maintain.
+
+A good book that will teach you how to name things properly is “Code Complete.”
+
+Another good one is “Clean Code.”
+
+6. Can you communicate your ideas effectively?
+
+You can be the best software engineer in the world, but if you can't effectively communicate your ideas, you won't be very useful to a team.
+
+Communication is a critical skill that affects just about everything we do in the software development world.
+
+From writing emails, to explaining architecture ideas on whiteboards, to communicating with customers and stakeholders, software development involves a whole lot of communication.
+
+One great way to develop your communication skills is to write regularly. My own communication skills increased by leaps and bounds once I started regularly writing on this blog. I know many other software developers who have had similar results.
+
+Check out my free email course on how to create a blog and get started blogging here.
+
+7. Do you understand basic design patterns?
+
+You don't necessarily have to use design patterns very often to be a good software developer, but you should at least understand the most common design patterns that are used in the technologies and programming languages you work with.
+
+The design patterns that are used most commonly with object-oriented programming languages are going to be different than those which are used with functional languages—or rather many of them will be expressed in the use of the language itself—but, you should be aware of at least most of the most common design patterns.
+
+If you haven't already read the gang of four book, “Design Patterns,” do so.
+
+If you want an easier to digest version, try “Head First Design Patterns.”
+
+8. Do you know how to debug effectively?
+
+This is a tricky one. Many software developers think they know how to debug, but what they really know how to do is use a debugger.
+
+Don't get me wrong, you need to know how to use a debugger, but debugging is more than just stepping through lines of code, looking for something that might be wrong.
+
+A good programmer knows that debugging involves starting with a hypothesis of what is wrong and then only using the debugger to prove or disprove that hypothesis.
+
+It's possible to waste hours trying to debug a problem that could have been debugged in less than half the time by taking the right approach.
+
+Since most software developers spend more time debugging their code than writing new code, a developer who can debug effectively is extremely valuable.
+
+9. Do you test your own code?
+
+Quality and testing is not the responsibility of tests and the QA department. Quality is everyone's responsibility—especially a developer's.
+
+A good programmer will take responsibility for the quality of their own code and make sure that they test that code before they hand it over to QA or anyone else.
+
+Someone else should always test your code, but you should test it as best as you can before you hand it over to someone else to test.
+
+I firmly believe part of being a good software developer is being a good tester.
+
+One of my favorite books on testing—that is a bit dated, but still a good read—is “Testing Computer Software.”
+
+10. Do you share your knowledge?
+
+One of the hallmarks of an excellent developer is that they openly and freely share their knowledge.
+
+Not only does it help the team and other developers around them, but I firmly believe that you never really learn something until you teach it.
+
+The best programmers are always sharing their knowledge with others. They aren't afraid of job security or that they might be giving away their secrets.
+
+The most valuable person on any team is the person who makes everyone else on the team more valuable, not the person who knows the most.
+
+Knowing a lot, but not sharing it doesn't do anyone any good but yourself.
+
+11. Do you use the best tools for your job?
+
+A really good programmer will always have a set of tools they use to be more effective at their job.
+
+It doesn't matter what your preference of tools is, but you should have some set of tools that you deem are best for the job you are doing and you should have invested some time in learning those tools.
+
+A developer who really cares about what they do will take the time to find the tools that will help them do it better.
+
+Take Scott Hanselman, for example, he has an excellent list of developer tools (Windows based.)
+
+Your set of tools might be different, but tools are important.
+
+What is it they always say? The right tool for the right job.
+
+You can spend hours trying to turn a gasket on a pipe using different wrenches and pliers in your toolbox, or you can spend a couple of seconds accomplishing the same task by using a monkey wrench. (Trust me, I've learned that one the hard way.)
+
+12. Can you build an actual application?
+
+Being able to write code is not enough.
+
+There are plenty of software developers out there who can make alterations to existing code bases and fix bugs, but there are far fewer software developers who could actually write an entire application from the ground up.
+
+A good software developer might not be able to develop a huge enterprise application or large software suite on their own, but they should be able to write at least some kind of simple application, by themselves.
+
+Being able to create an entire application—even if it is a small one—shows a fundamental understanding about how software works and how it is constructed.
+
+For a large portion of my career, I had no idea how to do this.
+
+I could fix bugs, I could alter some feature in an existing application, I could, perhaps, even add a new feature to an application, but I had no idea how to create my own application from the ground up.
+
+It was only after I had created some small side-projects on my own and actually built a real application that I really understood how all the pieces of a complex software system worked and how to put them together.
+
+Is this list complete? Should you beat someone over the head with it?
+
+No to both.
+
+These are just some guidelines you can use to see where you stand and what you can work on.
+
+(By the way, I cover many of these topics in-depth in my book, “Soft Skills: The Software Developer's Life Manual“.)
+
+Software development is a complex field. There is never going to be a checklist you can use to determine whether you or anyone else is a good developer, but I do believe a general set of guidelines is useful for getting a general idea of where you or someone you are interviewing stands and I believe this list can be used as a quick way to identify any weaknesses you may have that you might want to work on.
+
+If you liked this post and you'd like more career tips for software developers, be sure to sign up for my free, weekly emails.
+
+Also, I've love to hear from you about this test.
+
+Do you think it's useful?
+
+Is there something I missed that I should have included on here?
+
+I had a list of about 30 items and narrowed it down to what I thought were the top 12.

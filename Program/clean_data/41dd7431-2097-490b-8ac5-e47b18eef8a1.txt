@@ -1,0 +1,87 @@
+The Interview
+
+One of the big trends we’ve seen over the last five years is automation. At the same time, we’re also seeing more intelligence built into tools we already have, like phones and computers. Where do you see this process in five years?
+
+In the future, I believe that there will be a co-existence between humans and artificial intelligence systems that will be hopefully of service to humanity. These AI systems will involve software systems that handle the digital world, and also systems that move around in physical space, like drones, and robots, and autonomous cars, and also systems that process the physical space, like the Internet of Things.
+
+You will have more intelligent systems in the physical world, too — not just on your cell phone or computer, but physically present around us, processing and sensing information about the physical world and helping us with decisions that include knowing a lot about features of the physical world. As time goes by, we’ll also see these AI systems having an impact on broader problems in society: managing traffic in a big city, for instance; making complex predictions about the climate; supporting humans in the big decisions they have to make.
+
+Right now, some of those systems can seem very ominous. When an algorithm or a robot makes a decision, we don’t always know why it made that decision, which can make it hard to trust. How can technologists address that?
+
+One of the things I’m working on is that I would like these machines to be able to explain themselves — to be accountable for the decisions they make, to be transparent. A lot of the research we do is letting humans or users query the system. When Cobot, my robot, arrives to my office slightly late, I can say, "Why are you late?" or "Which route did you take?"
+
+So we are working on the ability for these AI systems to explain themselves, while they learn, while they improve, in order to provide explanations with different levels of detail. We want to interact with these robots in ways that make us humans eventually trust AI systems more. You would like to be able to say, "Why are you saying that?" or "Why are you recommending this?" Providing that explanation is a lot of the research that I am doing now, and I believe robots being able to do that will lead to better understanding and trust in these AI systems. Eventually, through these interactions, humans are also going to be able to correct the AI systems. So we’re also doing research trying to incorporate these corrections and have the systems learn from instruction. I think that’s a big part of our ability to coexist with these AI systems.
+
+Why do you think these systems are improving so quickly now? What was holding us back over the last 50 years of AI research?
+
+You have to understand, for an AI system to know what’s a cell phone or what’s a cup or whether a person is healthy, you need knowledge. A lot of [AI] research in the early days was actually acquiring [that] knowledge. We would have to ask humans. We would have to go to books and manually enter that information into the computer.
+
+“It seems that the world reveals itself on the internet.”
+
+Magically, in the last few years, more and more of this information is digital. It seems that the world reveals itself on the internet. So AI systems are now about the data that’s available and the ability to process that data and make sense of it, and we’re still figuring out the best ways to do that. On the other hand, we are very optimistic because we know that the data is there.
+
+The question now becomes, how do we learn from it? How do you use it? How do you represent it? How do you study the distributions — the statistics of the data? How do you put all these pieces together? That’s how you get deep learning and deep reinforcement learning and systems that do automatic translation and robots that play soccer. All these things are possible because we can process all this data so much more effectively and we don’t have to take the enormous step of acquiring that knowledge and representing it. It’s there.
+
+One of the big developments of the last five years has been personal assistants like Siri and Alexa, which are both powered by machine learning. I’m curious how you see those systems changing over the next five years.
+
+You know, I’m a big fan of Alexa. I have one at home, and the amount of things I can talk with Alexa about have become broader. At the beginning it was just, "What’s the weather like?" [Now] I can ask, "What is on my calendar?" Alexa’s learning but I’m also learning what Alexa can do. I’m fascinated by how much better it becomes over time.
+
+I’ll tell you one thing that is interesting: when I leave the house, I tell Alexa, "Alexa, stop." I want to stop whatever music it’s playing, because I’m leaving. But if I tell Alexa, "Alexa, I’m leaving," it doesn’t understand that "I’m leaving" means that it should stop. I have to explicitly say "Stop." So I would envision personal assistants becoming more aware of instructions like "Alexa, when I’m leaving, that means that you should stop playing the music." That kind of instructive command is going to be on the research agenda.
+
+Subscribe to our newsletter so you don't miss the rest of the Verge 2021 interviews. Terms apply. Subscribe
+
+Do you think we’ll get to a point where we can ask personal assistants something like, "Oh, the check engine light turned on in my car, should I take it in?" Or "Google, I just got this job offer, should I take it?"
+
+I think you might. These types of questions are decision-making questions — but suppose you had to decide between health insurance plans and you were confused about all the options. You might tell Alexa as you were going to sleep, "Alexa, why don’t you look at all these health insurance plans, or all these cars I can buy, or these schools my kid can go to," and it could compile a report for you overnight.
+
+"Why are you saying that I should buy that car?"
+
+And a lot of the relevant information is already available online. You can find all the features of the schools, and reviews of the schools by other people. You have blogs about the schools or about other options. You could have an AI system that would gather all the features of these schools, how far they are, what other reviewers they have, [etc.]. You could enter a profile of what you would like from an education, and AI systems can put that information together. They can look at the features, they can learn from past experience, they can process all that information, massage everything that’s available and, with your guidance, with your questions, actually present that information in a way that may be easier for you to digest. Because the information [currently] online is overwhelming and sometimes you cannot handle all that information in real time.
+
+Eventually, you might also want to have the assistant tell you the reasons why it gave you those suggestions. You might ask, "Why are you saying that I should buy that car? I really don’t like that brand." I think it’s a very important step, having AI systems support humans in decision-making, trying to combine and learn from all the information and incorporate feedback you might give.
+
+What could those systems do beyond personal decisions?
+
+You could imagine a version of the same system working on scientific papers. There are so many scientific papers published, and now they’re all online. You can imagine an AI system that helps a researcher digest all that information and finds things that are related to their interests.
+
+The AI systems will still be a product of the information that’s online. A lot of people are working on information — text information, picture information, flow charts, tables — trying to understand what’s online and eventually infer needs from all that information. For example, there’s an area of machine learning called "active learning" in which we infer that there are not enough images of some process and you might want to add more images of that nature.
+
+I envision AI systems capable of identifying what’s missing, to connect the dots of all the information that’s online and request more data when it’s necessary. You could imagine it asking researchers, "If you just tell me more about how these cells will interact with this chemical, I would have a much better model of what’s happening."
+
+Part of that picture is your idea of symbiotic autonomy we see in the Cobots, right? Those robots are loose on the CMU campus right now, navigating through the computer science buildings with a combination of depth cameras, Wi-Fi, and LIDAR. They don’t have arms so they have trouble with a lot of simple navigation tasks, but you made them very good at asking for help.
+
+Yes, it was kind of a discovery for us when we realized that these autonomous robots would have limitations. They would not be able to necessarily open all the doors of the world, they would not be able to understand all the spoken language. Maybe they will become better over time, but I do believe that in the same way that humans have limitations — I speak with an accent, I don’t play squash as well as someone else — that these robots will also have limitations.
+
+"The robot proactively asks for help when there is something they can’t do, they don’t know, or they don’t understand."
+
+It became clear for us that these robots, these AI systems, one of their main features would be to identify what they don’t know, what they can’t do, what they don’t understand, and invoke help from humans. Can you push the elevator button? Can you open the door? Can you put something in my basket? This is what we call symbiotic autonomy. The robot proactively asks for help when there is something they can’t do, they don’t know, or they don’t understand. That’s a very new way of thinking, that we are going to have AI systems around us that are going to ask for our help for part of the tasks.
+
+As these systems scale up, that can happen in much more complex ways. Systems already communicate wirelessly, drawing on data in the cloud, or [are] helped by remote teams. You can think of AI systems in constant symbiosis with everything else, with other information on the web, with other AI systems, with humans next to them, with remote humans. It becomes not a problem of developing self-contained AI systems, but an AI system that can recognize when it does not know, or when it needs more information, or when it thinks something with some probability but it’s not sure. It’s not that it can solve all the problems up front, but it can rely on all these other sources around it. That’s how I envision it.
+
+How do you see that symbiosis changing the AI systems we already use?
+
+So let’s go back to the scenario of asking an AI for help with decisions about the school or decisions about what health insurance to take. I imagine these AI systems might at some point need information that the human did not provide. The AI system might realize that if I had just known this additional feature, it might help in giving you a better decision.
+
+"What’s really interesting is when AI systems can recognize what they’re missing."
+
+What’s really interesting is when AI systems can recognize what they’re missing by themselves. They recognize that if they just had more information, if they were able to do some specific action — for instance, if they could just reserve a room in that hotel that’s not bookable online, they could get you a hotel closer to your conference. I really think that ability is what’s important, because I’m not going to know all the things that the system needs to make a decision.
+
+Currently we enter an address for the destination on Uber or Google Maps or Waze, and that’s enough for the route to be planned. However, Waze could come back to you and ask, "Are you in a hurry? Am I supposed to get you the shortest path? Would you like to just take a divergence and see that beautiful scenery there?" What if the assistant knows that I really love orchids, or that I really love some type of art? If I had just diverged slightly, I could have visited this great museum. It does not know that in its route planning. If it knew that, it would have routed me through that museum path.
+
+A lot of our current AI systems are specialized in specific tasks like recognizing objects or optimizing routes — but that’s resulted in a very siloed kind of expertise. I’m curious what you think is holding us back from a kind of more generalizable intelligence in software.
+
+The General AI problem is extremely challenging. I do think that we have techniques now — deep learning, deep reinforcement learning — that have a flavor of general intelligence. We are also doing a lot of research on trying to understand this concept of transfer learning. How do we have algorithms that, because they can address one particular task, also learn to do something else? We are not done with understanding AI. We don’t know how to do many things. We are still really in the infancy of AI in terms of algorithms and techniques, methods of making generalizations, methods of providing explanations, we’re still waving our hands about a lot of these things.
+
+"We are still really in the infancy of AI... we’re still waving our hands about a lot of these things."
+
+I do think General AI could one day come out of an integration between specialized AI systems, merging them into this Society of Mind that Minsky described. And you could have special-purpose algorithms that solve problems of great complexity, as Herb Simon and Allen Newell predicted in the beginnings of AI research.
+
+So the research on general AI is extremely challenging, but it’s also extremely exciting now because there’s so much data. There are just so many people using digital devices and generating data. More and more, by using computers and cell phones and Alexa and Uber, all of these put us on a very good path to do research on these general AI problems. We still have a lot of research to do. We still don’t know exactly what a general AI system will be, but we are on a good path.
+
+Does that uncertainty ever worry you? Some worry that as soon as artificial intelligence outpaces human intelligence, humanity will be doomed.
+
+I am a complete optimist. I think that the research we’re doing on autonomous systems — autonomous cars, autonomous robots — it’s a call to humanity to be responsible. In some sense, it has nothing to do with the technology. The technology will be developed. It was invented by us — by humans. It didn’t come from the sky from aliens. It’s our own discovery. It’s the human mind that conceived such technology, and it’s up to the human mind also to make good use of it.
+
+I have a lot of trust that this will happen. I’m very optimistic because I really think that humanity is aware that they need to handle this technology carefully. And I am aware, too. But the best thing to do is invest in education. Leave the robots alone. The robots will keep getting better, but focus on education, people knowing each other, caring for each other. Caring for the advancement of society. Caring for the advancement of Earth, of nature, improving science. Solve all these problems. Cure cancer. End poverty. There are so many things we can get involved in as humankind that could make good use of this technology we’re developing.
+
+In some sense, the humanism of AI will eventually be what brings us together. So, I’m optimistic.

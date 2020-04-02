@@ -1,0 +1,919 @@
+I think you’ll agree with me when I say:
+
+There are MORE misconceptions surrounding SEO
+
+…than almost any other aspect of digital marketing.
+
+And, it’s hardly surprising when you consider there are more than 200 ranking factors, but almost all are shrouded in secret.
+
+Since Google do not (and are never likely to) share the inner workings of their algorithm, how do you know what really works?
+
+How do you decipher the SEO myths from the matter and the hear say from the fact?
+
+You turn to science, that’s what!
+
+BONUS: Download every single SEO experiment contained in this post as a handy PDF guide you can print out or save to your computer.
+
+In this post, I’m going to share with you 16 amazing SEO experiments that will challenge what you thought to be true about search engine optimisation.
+
+I’d even go as far as to predict these SEO studies will change the way you do SEO forever.
+
+Are you ready? Because everything is about to change for you. Yes?
+
+Okay, let’s jump in:
+
+1. Click-Through-Rate Affects Organic Rankings (And How To Use That To Your Advantage)
+
+This first experiment is a doozy.
+
+For some time, there has been an opinion in the SEO world that Click-Through-Rate (CTR) may influence search ranking.
+
+Fuelling the opinion were some strong (though not conclusive) clues from inside Google:
+
+And, the Searchmetrics Ranking Factors Studies that have increasingly deemed CTR as one of the most important ranking factors.
+
+(Based on correlation not causation, mind)
+
+The argument as Jamie Richards points out is that a website receiving a higher click through rate than websites above it, may signal itself as a more relevant result and affect Google into moving it upwards in the SERPs.
+
+The idea discussed by WordStream here is akin to the Quality Score assigned to Adwords ads – a factor determined in part by an ad’s relative click-through-rate versus the other ads around it.
+
+This was the idea that Rand Fishkin of Moz set out to test in consecutive experiments.
+
+Number One: Query and Click Volume Experiment
+
+The testing scenario Rand Fishkin used was pretty simple.
+
+Get a bunch of people to search a specific query on Google.
+
+Have those people click a particular result.
+
+Record changes in ranking to determine if the increased click volume on that result influences its position.
+
+To get the ball rolling Rand sent out this Tweet to his 264k Twitter followers:
+
+Care to help with a Google theory/test? Could you search for “IMEC Lab” in Google & click the link from my blog? I have a hunch. — Rand Fishkin (@randfish) May 1, 2014
+
+Based on Google Analytics data, Rand estimates that 175-250 people responded to his call-to-action and clicked on the IMEC result.
+
+Here’s what happened:
+
+The page shot up to #1 position.
+
+This clearly indicates (that in this particular case at least) that click-through-rate significantly influences rankings.
+
+In an attempt to validate this data, what followed was a series of repeat tests which showed an overall upward trend when click volume to a particular result was increased.
+
+Unfortunately, this time, the data was far less dramatic and conclusive.
+
+Why could that be?
+
+Rand was concerned that in response to his public post showing how clicks may influence Google’s results more directly than previously suspected, that Google may have tightened their criteria around this particular factor.
+
+Still he was not deterred…
+
+Number Two: Query and Click Volume Experiment
+
+Inspired by a bottle of Sullivans Cove Whiskey during a break in a World Cup match, Rand Fishkin sent out another tweet:
+
+What should you do during that lull in the World Cup match? Help me run a test! Takes <30 seconds: http://t.co/PxXWNlVdTi — Rand Fishkin (@randfish) July 13, 2014
+
+The tweet pointed his followers to some basic instructions which asked participants to search “the buzzy pain distraction” then click the result for sciencebasedmedicine.org.
+
+Here’s where the target website appeared before the start of the experiment:
+
+Over the next 2.5 hour period following Rand’s initial tweet, a total of 375 participants clicked the result.
+
+The effect was dramatic.
+
+sciencebasedmedicine.org shot up from number ten to the number one spot on Google.
+
+Eureka!
+
+This miraculous event, in turn, set about-about a chain reaction…
+
+Which ended in this celebratory moment for Rand:
+
+So it appears that click volume (or relative click-through-rate) does impact search ranking. Whilst there are some people such as Bartosz Góralewicz who argue against this, I believe this to be true.
+
+There are several reasons why Google would consider click-through-rate as a ranking signal aside mainstream signals like content and links.
+
+This Whiteboard Friday video provides an excellent explanation why:
+
+So the case is compelling, click-through-rate surely does affect Google’s search rankings.
+
+Great, that’s all well and good.
+
+But, how do you use that information to your advantage?
+
+Here are 4 action steps that will show you just that:
+
+(1) Optimise your click through rate – To do this, craft compelling Page Titles and Meta Descriptions for your pages that sell people on clicking your result over those above it.
+
+(2) Build your brand – An established and recognisable brand will attract more clicks. If users know your brand (and hopefully like and trust it too) you’ll have more prominence in the SERPs.
+
+(3) Optimise for long clicks – Don’t just optimise to get clicks, focus on keeping users on your site for a long time. If you get more clicks, but those users just return back to the results, any benefit you got from a greater CTR will be cancelled out.
+
+(4) Use genuine tactics – The effects of sudden spike in CTR (just like Rand’s experiment) will only last a short time. When normal click-through-rates return so will your prior ranking position. Use items 1 and 2 for long lasting results.
+
+2. The Industry Got It Wrong. Mobilegeddon Was Huge
+
+Mobilegeddon was the unofficial name given to Google’s mobile-friendly update in advance of it’s release on April, 21st 2015.
+
+The update was expected to skyrocket the mobile search rankings for websites that are legible and usable on mobile devices.
+
+It was anticipated to sink non-mobile-friendly websites.
+
+Some people were even saying it would be a cataclysmic event larger than Google Penguin and Panda.
+
+For months prior, webmasters scrambled to get their sites in order. As the day drew closer the scramble turned into panic when site owners realised their websites failed the Google mobile-friendly test.
+
+So what did happen on 21st April 2015? Did millions of websites fall into mobile search abyss?
+
+According to most reports, not much at all happened.
+
+Sure, there was a peak of activity around 22nd April according to MozCast, but ranking changes were nowhere near as big as most SEOs thought they would be.
+
+The consensus from experts like this Search Engine Roundtable poll was that results were pretty much unchanged:
+
+But, what did the test results show?
+
+Enter Eric Enge and the Stone Temple Consulting team…
+
+Mobilegeddon Ranking Study
+
+On the week of April 17th, 2015 (pre-Mobilegeddon) Stone Temple pulled ranking data on the top 10 results for 15,235 search queries. They pulled data on the same 15,235 search queries again on the week of May 18th, 2015 (after Mobilegeddon).
+
+They recorded ranking positions, and they also identified whether or not the URLs in the results were designated as Mobile Friendly by Google or not.
+
+This is what they found:
+
+The non-mobile friendly web pages lost rankings dramatically.
+
+In fact, nearly 50% of all non-mobile friendly webpages dropped down the SERPs.
+
+The mobile friendly pages (overall) gained in ranking.
+
+The data that Eric and team gathered in their Mobilegeddon test, clearly goes against the general opinion of the trade press.
+
+Why did the press get it wrong?
+
+It’s likely that because the algorithm update was rolled out slowly over time, it was not immediately obvious that such significant movements were taking place.
+
+Also, there was a quality update released during the same period that may have muddied the effects of Mobilegeddon on search rankings.
+
+So, let’s quickly wrap up on Mobilegeddon with three points;
+
+It was a big deal.
+
+a big deal. If you’ve not ‘gone mobile’ yet, what are you waiting for?
+
+If you are unsure if your website is mobile-friendly or not, take this test.
+
+3. Link Echoes: How Backlinks Work Even After They Are Removed
+
+Credit where credit is due.
+
+The idea of ‘link echoes’ (or ‘link ghosts’ as they’ve also been referred) was first identified by Martin Panayotov and also Mike King from iPullRank in the comments on this post.
+
+The idea is that Google will continue to track links and consider the value of those (positive or negative) even after the links are removed.
+
+If this is the case, does a website that increased in rank after a link was added continue to rank after the link has been taken away?
+
+Well, let’s see.
+
+This particular experiment was performed by the team at Moz and was amongst a series which set out to test the effect of rich anchor text links (see SEO experiment number 8) on search rankings.
+
+But, as so often holds true in science, the experiments brought about some entirely unexpected findings.
+
+The Link Echo Effect
+
+There were 2 websites in this experiment; Website A and Website B.
+
+Before the test, this is how they ranked for the same (not very competitive keyword):
+
+Website A – position 31
+
+Website B – position 11
+
+During the test, links were added to 22 pages on various websites pointing to both Website A and Website B.
+
+Both websites, which received 22 links each, subsequently shot up the rankings:
+
+Website A moved from position 31 up to position 1 (an increase of +30 positions)
+
+(an increase of +30 positions) Website B moved from position 11 up to position 5 (and increase of +6 positions)
+
+In short, both websites increased in ranking considerably when links were added.
+
+But what happened when those same links were removed?
+
+Answer. Very little at all.
+
+Website A stayed in number 1 position.
+
+Website B dropped down slightly to position 6 (a small drop of only 1 position)
+
+This experiment validates the hypothesis.
+
+It does appear that some value from links (perhaps a lot) do remain, even after the links are removed.
+
+Could this experiment have been an isolated case?
+
+Not according to Rand Fishkin:
+
+“This effect of these link tests, remaining in place long after the link had been removed, happened in every single link test we ran, of which I counted eight where I feel highly confident that there were no confounding variables, feeling really good that we followed a process kind of just like this. The links pointed, the ranking rose. The links disappeared, the ranking stayed high.”
+
+But, here’s what is so remarkable…
+
+These higher rankings were not short lived.
+
+They remained for many months after the links were removed.
+
+At the time of this video, the results had remained true for 4.5 months.
+
+Furthermore…
+
+“Not in one single test when the links were removed did rankings drop back to their original position,” says Rand Fiskin.
+
+There are several lessons you can learn from this, but I’ll leave it at these two:
+
+(1) Quality links are worth their weight in gold. Like a solid investment, backlinks will continue to give you a good return. The ‘echo’ of a vote once cast (as proven by this test) will provide benefit even when removed.
+
+(2) The value of links DO remain for sometime. So, before you get tempted into acquiring illegitimate links, consider if you’re ready to have that remain a footprint for months (or even years) ahead.
+
+In short, spend your time focussed on building natural organic links.
+
+Links can either work for you or against you. So, ensure it’s the former.
+
+Short on link building strategies?
+
+Check out this post by point Blank SEO which has dozens of ideas to get you started.
+
+4. You Can Rank With Duplicate Content. Works Even On Competitive Keywords
+
+Full disclosure, what I’m about to share with you may only work for a short while. But, for the time it does work, boy does it work like gangbusters.
+
+First the theory.
+
+When there are two identical documents on the web, Google will pick the one with higher PageRank and use it in the search results.
+
+It will also forward any links from any perceived ‘duplicate’ towards the selected ‘main’ document.
+
+Why does it do this?
+
+Unless there is a valid reason for two or more versions of the same content, only one need exist.
+
+And, what does that mean for you?
+
+It means that if you are creating unique and authoritative content (that attracts quality links and shares) you should come out top. Google will keep your version in the index and point all links aimed at the duplicates to your site.
+
+The bad news (for the good guys at least), this is not always the case.
+
+From time to time a larger, more authoritative site will overtake smaller websites’ in the SERPs for their own content.
+
+This is what Dan Petrovic from Dejan SEO decided to test in his now famous SERPs hijack experiment.
+
+Using four separate webpages he tested whether content could be ‘hijacked’ from the search results by copying it and placing it on a higher PageRank page – which would then replace the original in the SERPs.
+
+Here’s what happened:
+
+In all four tests, the higher PR copycat page beat the origina l.
+
+four tests, the higher PR l. In 3 out of 4 cases, the original page was removed from the SERPs.
+
+His tests go to prove that a higher PageRank page will beat a lower PageRank page with the same content, even if the lower PR page is the original source.
+
+And, even if the original page was created by the Wizard of Moz himself, Rand Fishkin.
+
+(Image: Rand Fishkin was outranked for his own name in Dan Petrovic’s experiment.)
+
+So the question arises, what can you do to prevent your own content from being hijacked?
+
+Whilst there is no guarantee that you can prevent your own hard-earned content from being copied then beaten, Dan offers the following measures which may help to defend you from content thieves:
+
+(1) Add rel=”canonical” tag to your content using the full http:// text.
+
+(2) Link to internal pages on your own website.
+
+(3) Add Google Authorship markup.
+
+(4) Check for duplicate content regularly using a tool like Copyscape.
+
+Plagiarists Beware
+
+Just because you can beat your competitors by stealing their content, it does not mean you should.
+
+Not only is it unethical and downright shady to claim someone else’s content as your own, plagiarism can also land you in trouble.
+
+Shortly after running the experiment Dejan SEO received a warning message inside their Google Search Console account.
+
+The message cited the dejanseo.com.au domain as having low-quality pages, an example of which is ‘copied content.’ Around the same time, one of the copycat test pages also stopped showing in SERPs for some terms.
+
+This forced Dan to remove the test pages in order to resolve the quality issue for his site.
+
+So it seems that whilst you can beat your competitors with their own content, it’s definitely not a good idea to do so.
+
+5. Number One Is NOT The ‘Top’ Spot (And What Is Now)
+
+In this test, Eric Enge and the team at Stone Temple Consulting set out to measure the change in the display of Rich Answers in Google’s search results.
+
+Just incase you are unfamiliar with the terminology…
+
+Rich Answers are the ‘in search’ responses to your queries you’ve probably been seeing more of in recent times. They aim to answer your query without you having to click through to a website.
+
+The are many varieties of Rich Answers such as this one:
+
+Or this carousel which displayed for me when I searched “times zones of australia”
+
+There are literally dozens of variations, many of which are shared by Google here.
+
+Stone Temple Consulting Rich Answers Study
+
+The baseline data for this study was gathered in December of 2014.
+
+In total 855,243 queries were analysed.
+
+Of the total queries measured at that time, 22.6% displayed Rich Answers.
+
+Later in July of 2015, the same 855,243 queries were analysed again.
+
+At that time (just 7 months later) the total percentage of queries displaying Rich Answers had risen to 31.2%.
+
+Because Stone Temple Consulting’s study measured the exact same 855,243 queries, the comparison between these two sets of data is a strict apple to apple comparison.
+
+The data is clear.
+
+Rich Answers are on the rise and the results you see today are a far cry from the ten blue links of the past.
+
+(Source: Quicksprout)
+
+The Changing View in Search Results
+
+When the search engine results pages were just a list of websites ordered according to their relevancy to a query, it was clear why website owners would do anything they could to gain the top spot.
+
+The higher up the ranks, the more clicks you got.
+
+According to this study by Erez Barak at Optify, in 2011 the top ranking website would receive as much as 37% of total clicks.
+
+Even as recent as 2014, Eric Petrescu reported in his research that top ranking sites generate more than double the number of clicks compared to second placed websites.
+
+But, with the growth of Rich Answers, that’s all changing.
+
+The ‘number one’ organic result is being pushed further and further down the page. Click volumes for the ‘top spot’ are falling.
+
+But just how much are Rich Answers affecting click-through-rates?
+
+There are no definitive studies on this (yet).
+
+However, it is clear to see how the inclusion (and removal) of a rich snippet answer can affect overall search traffic to a website.
+
+Here’s one example:
+
+Confluent Forms got a Rich Snippet result listed on their website and this is what happened to their traffic:
+
+It went up once the Rich Answer was added.
+
+It went down when the Rich Answer was removed.
+
+And, remember this…
+
+Rich Answers are intended to solve queries from within the search results. Yet, they can still send additional traffic to your site, just as they did for Confluent Forms.
+
+How To Use Rich Answers to Your Advantage
+
+Rich Answers are generally provided for question-based search queries.
+
+And, according to Eric Enge (who successfully got a Rich Answer listed for his own website) answering questions is the best way to go about it.
+
+If you want to benefit from Rich Answers (and who wouldn’t) then I suggest you take heed of his advice:
+
+(1) Identify a simple question – Make sure the question is on topic. You can check this by using a Relevancy tool such as nTopic.
+
+(2) Provide a direct answer – Ensure that your answer is simple, clear and useful for both users and search engines.
+
+(3) Offer value added info – Aside from your concise response to the question, include more detail and value. Be sure not to just re-quote Wikipedia since that’ll not get you very far.
+
+(4) Make it easy for users and Google to find – This could mean sharing it with your social media followers or linking to if from your own or third party websites.
+
+6. Using HTTPS May Actually Harm Your Ranking
+
+Make your website secure or else.
+
+That was the message Google laid out in this blog post when they stated HTTPS as a ranking signal.
+
+And it would make sense right?
+
+Websites using HTTPS are more secure. Google want the sites people to access from the search engine to be safe. Sites using HTTPS should receive a ranking boost.
+
+But here’s the thing. They don’t.
+
+(That’s if the study by Stone Temple Consulting and seoClarity is anything to go by.)
+
+The HTTPS study tracked rankings across 50,000 keyword searches and 218,000 domains. They monitored those rankings over time and observed which URLs in the SERPs changed from HTTP to HTTPS.
+
+Of the 218,000 domains being tracked, just 630 (0.3%) of them made the switch to HTTPS.
+
+Here’s what happened to the HTTPS websites:
+
+They actually lost ranking.
+
+Later they recovered (slowly) to pretty much where they started.
+
+Hardly a reason to jump on the HTTPS bandwagon.
+
+It appears that HTTPS (despite Google wanting to make it standard everywhere on the web) has no significant ranking benefit for now and may actually harm your rankings in the short term.
+
+My advice: Stay using HTTP unless you really need to change.
+
+7. Robots.txt NoIndex Doesn’t (Always) Work
+
+In another experiment out of the IMEC Lab, 12 websites offered up their pages in order to test whether using Robots.txt NoIndex successfully blocks search engines from crawling AND indexing a page.
+
+First the technical stuff.
+
+How to Stop Search Engines Indexing Your Web Page
+
+The common approach adopted by Webmasters is to add a NoIndex directive inside the Robots Metatag on a page. When the search engine spiders crawl that page, they identify the NoIndex directive in the header of the page and remove the page from the Index.
+
+In short, they crawl the page then stop it from showing in the search results.
+
+The code looks like this:
+
+On the other hand, the NoIndex directive placed inside the Robots.txt file of a website will both stop the page from being indexed and stop the page from being crawled.
+
+Or at least it should…
+
+As you can see from the results, not all web pages were removed from the index.
+
+Bad news if you want to hide your sites content from prying eyes.
+
+What’s more, Google did not remove any of the pages immediately despite the website’s Robots.txt files being crawled several times per day.
+
+And, if you think that’s because Google needs to attempt a crawl of the page itself too, that’s not true either.
+
+In the case of the website that did not get its page removed from the Index, the target page was crawled 5 times:
+
+So what’s at play here?
+
+Well, the results are inconclusive.
+
+But, what we can be sure to say is that (despite Google showing support of Robots.txt NoIndex) it’s slow to work, and sometimes doesn’t work at all.
+
+My advice: Use Robots.txt NoIndex with caution.
+
+8. Exact Match Anchor Text Links Trump Non-Anchor Match Links
+
+If you’ve read a thing or two about SEO, you’ll have learned that exact match anchor text is bad.
+
+Too many links saying the same thing are unnatural.
+
+And could land you with a penalty.
+
+Ever since Google Penguin was released to put a stop to manipulative link building, the advice from experts has been to “keep anchor text ratios low.”
+
+In simple terms that mean, you want a mix of links to your site so that no one keyword rich anchor text makes up more than a small percentage of the total.
+
+Raw links like this: http//yourdomain.com, as well as generic links like “your brand name,” “click here” and “visit this website” are all good.
+
+More than a small percentage of keyword rich links is bad.
+
+A varied and natural link profile will look something like mine:
+
+As you can see, the majority of links are for my brand name. The rest are mostly other anchor text.
+
+With that in mind.
+
+What happens when you point 20 links to a website all with the same keyword rich anchor text?
+
+Your rankings skyrocket, that’s what!
+
+In a series of three experiments, Rand Fishkin tested pointing 20 generic anchor links to a webpage versus 20 exact match anchor text links.
+
+In each case, the exact match anchor text increased the ranking of the target pages significantly.
+
+And, in 2 out of 3 tests the exact match anchor text websites capitulated the generic anchor text websites in the results.
+
+Here’re the before rankings from test 2 in Rand’s series:
+
+And here are the rankings after:
+
+That’s pretty damned conclusive.
+
+Exact match anchor text are considerably more powerful than non-anchor match links.
+
+(And surprisingly powerful overall)
+
+9. Link To Other Websites To Lift Your Rankings
+
+Outbound links dilute your site’s authority.
+
+This has been the generally conceived notion in the world of SEO for some time.
+
+And this despite Google saying that linking to related resources is good practice.
+
+So why are SEOs so against outbound links?
+
+The idea is that outbound links lose you PageRank. The more outbound links, the more PageRank you give away.
+
+And since losing PageRank means losing authority, the outcome of linking out is lower rankings. Right
+
+Well, let’s find out.
+
+Shai Aharony and the team at Reboot put this notion to the test in their outgoing links experiment.
+
+For the experiment Shai setup 10 websites, all with similar domain formats and structure.
+
+Each website contained a unique 300-word article which was optimised for a made up word “phylandocic”
+
+Prior to the test the word “phylandocic” showed zero results in Google.
+
+In order to test the effect of outbound links, 3 full follow links were added to 5 of the 10 domains.
+
+The links pointed to highly trusted websites:
+
+Oxford University (DA 92)
+
+(DA 92) Genome Research Institute (DA 85)
+
+(DA 85) Cambridge University (DA 93)
+
+Once all the test websites were indexed, rankings were recorded.
+
+Here’re the results:
+
+They are as clear as night and day.
+
+EVERY single website with outbound links outranked those without.
+
+This means your action step is simple.
+
+Each time you post an article to your site, make sure it includes a handful of links to relevant and trustworthy resources.
+
+As Reboot’s experiment proved. It will serve your readers AND your rankings.
+
+10. Amazing Discovery That Nofollow Links Actually Increase Your Ranking
+
+Another experiment from the IMEC Lab was conducted to answer:
+
+Do no followed links have any direct impact on rankings?
+
+Since the purpose of using a “nofollow” link is to stop authority being passed, you would expect nofollow links to have no (direct) SEO value.
+
+This experiment proves different.
+
+In the first of two tests, IMEC Lab participants pointed links from pages on 55 unique domains at a page ranking #16.
+
+After all of the nofollow links were indexed, the page moved up very slightly for the competitive low search volume query being measured.
+
+Participants were then asked to remove the nofollow links which resulted in this:
+
+The page moved up quickly to number 6 position.
+
+An accumulative increase of 10 positions, just from some nofollow links. Not bad.
+
+Could this be repeated?
+
+In a second test, this time for a low-competition query, nofollow links were added to pages on 42 unique domains.
+
+(Note – all links were in page text links. No header, footer, sidebar, widget links (or the like) were used in either test.)
+
+After all the links were indexed the page climbed to number 6 position.
+
+An increase of 3 positions.
+
+Then participants were asked to remove all nofollow links. The website then rose another position to number 5.
+
+In both tests, the websites improved their rankings significantly when nofollow links were received.
+
+The first website increased 10 positions.
+
+The second website increased 4 positions.
+
+So yet another SEO theory debunked?
+
+Rand Fishkin points out that the test should be repeated several more times to be conclusive.
+
+“My takeaway. The test should be repeated 2-3 times more at least, but early data suggests that there seems to be a relationship between ranking increases and in-content, no followed links” says Rand.
+
+Well regardless of conclusivity, as Nicole Kohler points out there is certainly a case for nofollow links.
+
+Links beget links.
+
+And (according to this study) nofollow or full follow. They are BOTH of value to you.
+
+11. Fact: Links From Webpages With Thousands of Links Do Work
+
+There is a belief in SEO that links from webpages with many outgoing links are not really worth much.
+
+The theory here is that with many outbound links, the ‘link juice” AKA PageRank from the linking web page is spread so thinly that the value of one link to your site cannot amount to much.
+
+The more outbound links that website has, the less value passed to your site.
+
+This theory is reinforced by the notion that directories and other lower-quality sites that have many outbound links should not provide significant ranking benefit to sites they link to. In turn, links from web pages with few outbound links are more valuable.
+
+This is exactly what Dan Petrovic put to the test in his PageRank Split Experiment.
+
+The PageRank Split Test
+
+In his experiment Dan set up 2 domains (A and B).
+
+Both domains were .com and both had similar characteristics and similar but unique content.
+
+The only real difference was that during the test Website B was linked to from a site which is linked to from a sub-page on http://www.debian.org (PR 7) which has 4,225 external followed links.
+
+The aim of the test was simply to see if any degree of PageRank is passed when so many outbound links exist, and what effect (if any) that has on the ranking of websites it links to.
+
+If the belief of most SEOs is anything to go by, not much should have happened.
+
+Here’s what did happen…
+
+Immediately after Website B was linked to from the PR 7 debian.org (via the bridge website) Website B shot up in rankings, eventually reaching position 2.
+
+And, as per Dan’s most recent update (3 months after the test) website B maintained its position, only held off top spot by a significantly more authoritative PageRank 4 page.
+
+Website A (which had not been linked to) remained a steady position for a while, then dropped in ranking.
+
+So it appears that links from pages that have many outbound links are in fact extremely valuable.
+
+What myth can our list of SEO experiments dispel next…
+
+12. Image Links Work (Really) Well
+
+Like many of the SEO experiments on this list, this one came about because one dude had a hunch.
+
+Dan Petrovic’s idea was that text surrounding a link plays a semantic role in Google’s search algorithm.
+
+But, Dan was never able to ascertain the degree of its influence or whether it has any impact at all.
+
+So he set up this test to find out…
+
+Anchor Text Proximity Experiment
+
+The experiment was designed to test the impact of various link types (and their context) on search rankings.
+
+To conduct the test Dan registered 4 almost identical domain names:
+
+http://********001.com.au
+
+http://********002.com.au
+
+http://********003.com.au
+
+http://********004.com.au
+
+Each of the 4 domains was then linked to from a separate page on a well-established website. Each page targeted the same exact phrase, but had a different link type pointing to it:
+
+001: [exact phrase]
+
+Used the exact target keyword phrase in the anchor text of the link.
+
+002: Surrounding text followed by the [exact phrase]: http://********002.com.au
+
+Exact target keyword phrase inside a relevant sentence immediately followed by a raw http:// link to the target page.
+
+003: Image link with an ALT as [exact phrase]
+
+An image linking to the target page which used the exact target keyword phrase as the ALT text for the image.
+
+004: Some surrounding text with [exact phrase] near the link which says click here.
+
+This variation used the junk anchor text link “click here” and the exact target keyword phrase near to the link.
+
+So which link type had the greatest effect on rankings?
+
+Here are the results:
+
+Unsurprisingly, the exact match anchor text link worked well.
+
+But most surprisingly, the ALT text based image link worked best.
+
+And, what about the other two link types?
+
+The junk link (“click here”) and the raw link (“http//”) results did not show up at all.
+
+The Anchor Text Lessons You Can Take Away From This
+
+This is just one isolated experiment, but it’s obvious that image links work really well.
+
+Consider creating image assets that you can utilise to generate backlinks. The team at Ahrefs put together a useful post about image asset link building here.
+
+But don’t leave it at that, best results will come from a varied and natural backlink profile.
+
+Check out this post from Brian Dean which provides 17 untapped backlink sources for you to try.
+
+13. Press Release Links Work. Matt Cutts Take Note
+
+Towards the end of 2014, Google’s head of webspam publicly denounced press release links as holding no SEO value.
+
+“Note: I wouldn’t expect links from press release web sites to benefit your rankings” – Said Matt Cutts.
+
+In an ironic (and brilliant) move, SEO Consult put Cutt’s claim to the test this by issuing a press release which linked to, of all places….
+
+Matt Cutts blog:
+
+The anchor text used in the was the term “Sreppleasers”
+
+The term is not present anywhere on Cutts website.
+
+Yet still, when you search “Sreppleasers” guess who’s website comes up top?
+
+There has been a lot of discussion about whether Press Release links work.
+
+Is the jury still out on this?
+
+I’ll let you decide.
+
+14. First Link Bias. Proven
+
+First, let me say this..
+
+This experiment is a few years old so things may now have changed. However, the results are so interesting it’s very worthy of inclusion.
+
+The theory for this experiment began with a post by Rand Fishkin which claimed that Google only counts one link to a URL from any given page.
+
+Shortly after that post was published Rand’s claims were debunked by David Eaves.
+
+Opinion was rife in the SEO world as to whether either experiment was sound.
+
+So, SEO Scientist set out to solve the argument once and for all.
+
+The Test
+
+The hypothesis goes something like this…
+
+If a website is linked to twice (or more) from the same page, only the first link will affect rankings.
+
+In order to conduct the test SEO Scientist set up 2 websites (A and B).
+
+Website A links to website B with two links using different anchor texts.
+
+Test Variation 1
+
+The websites were set up, then after the links got indexed by Google, the rankings of site B were checked for the two phrases.
+
+Result: Site B ranked for the first phrase and not for the second phrase.
+
+Here is what the results looked like:
+
+Test Variation 2
+
+Next the position of links to site B were switched. Now the second phrase appears above the previously first phrase on site A and visa versa.
+
+Once Google had indexed the change, rankings were again checked for website B.
+
+Result: Site B disappeared from the SERPs for the new second phrase (previously first) and appears for the new first phrase (previously second).
+
+Rankings switched, when the order of the links switched!
+
+Test Variation 3
+
+To check this was not some anomaly, in the third test variation the sites were reverted back to their original state.
+
+Once the sites were re-indexed by Google, the rankings of website B were checked again.
+
+Result: Site B reappeared for the initially first phrase and disappeared again for the initially second phrase:
+
+The test proved that Google only count the first link.
+
+But, it gets even more interesting.
+
+In a follow up experiment SEO Scientist made the first link “nofollow” and still the second link was not counted!
+
+The lesson from this experiment is clear.
+
+If you are “self creating” links ensure that your first link is to your most important target page.
+
+15. The Surprising Influence of Anchor Text on Page Titles
+
+Optimising your Title tags has always been considered an important SEO activity and rightly so.
+
+Numerous SEO studies have identified the title tag as a genuine ranking factor.
+
+Since it’s also what normally gets shown in the search results when Google lists your website, spending time on crafting well-optimised title tags is a good use of your time.
+
+But, what if you don’t bother?
+
+A few years ago Dejan SEO set out to test what factors Google consider when creating a document title when a title tag is not present.
+
+They tested several factors including domain name, header tag and URLs – all of which did influence the document title shown in search results.
+
+What about anchor text? Could that influence the title shown?
+
+In this video Matt Cutts suggested it could:
+
+But, wanting some real evidence Dan Petrovic put it to the test in this follow up experiment.
+
+His experiment involved several participants linking to a page on his website using the anchor text “banana”.
+
+The page being linked to had the non-informative title “Untitled Document”.
+
+Here it is listed inside Dan’s Search Console account:
+
+During the test Dan monitored three search queries:
+
+http://goo.gl/8uPrz0
+
+http://goo.gl/UzBOQh
+
+http://goo.gl/yW2iGi
+
+And, here’s the result:
+
+The document title miraculously showed as “banana”.
+
+The test goes to prove that anchor text can influence the document title shown by Google in search results.
+
+Does that mean you should not write unique and compelling title tags for each page on your site?
+
+I suggest not.
+
+As Brian Dean points out, the title tag of your page may not be as important as it used to be, but it still counts.
+
+16. Negative SEO: How You Can (But Shouldn’t) Harm Your Competitors Rankings
+
+There is no questioning, negative SEO is possible.
+
+In 2003 Google changed their stance from saying there is nothing a competitor can do to harm your ranking:
+
+To saying there is almost nothing they can do:
+
+Where Google is concerned, a small change like this is a pretty BIG deal.
+
+So the questions arises…
+
+How easy is it to affect a sites ranking (negatively)?
+
+Tasty Placement conducted an experiment to determine just that.
+
+The Negative SEO Experiments
+
+In an attempt to harm search rankings Tasty Placement purchased a large number of spam links which they pointed at their target website Pool-Cleaning-Houston.com.
+
+The site was relatively established and prior to the experiment it ranked well for several keyword terms including “pool cleaning houston” and other similar terms.
+
+A total of 52 keyword’s positions were tracked during the experiment.
+
+The Link Spam
+
+They bought a variety of junk links for the experiment at very low cost:
+
+45,000 Comment links. Anchor text “Pool Cleaning Houston.” Cost: $15
+
+7000 double-tiered forum profile links. Anchor text “Pool Cleaning Houston.” Cost: $5
+
+Sidebar blog links on four trashy blogs, yielding nearly 4000 links. Anchor text “Pool Cleaning Houston.” Cost: $20
+
+Total cost?
+
+A whopping 40 bucks.
+
+Over the course of 2 weeks the cheap junk links were pointed at Pool-Cleaning-Houston.com
+
+First the comment links, then the forum profile links and finally the sidebar links.
+
+Here’s what happened to the rankings for “pool cleaning houston”
+
+The batch of comment links had no effect at all.
+
+7 days later the forum post links were placed, which was followed by a surprising increase in the site’s ranking from position 3 to position 2. Not what was expected at all.
+
+Another 7 days after that the sidebar links were added.
+
+The result…
+
+Kaboom!
+
+An almost instant plummet down the rankings.
+
+Aside from the main keyword, a further 26 keywords also moved down noticeably.
+
+So it seems it’s pretty easy (and cheap) to destroy a competitor’s rankings if you were so inclined, which I know you are not!
+
+Whilst Tasty Placement’s experiment leaves some questions as to the true cause of the ranking drop (repetitive anchor text or links from a bad neighbourhood perhaps?) it does make it clear that negative SEO is real.
+
+And, real easy to do.
+
+Conclusion
+
+These 16 SEO experiments yielded some very unexpected results.
+
+Some even turned what we thought to be true about SEO entirely on its head.
+
+It just goes to prove, with so little actually known about the inner workings of Google’s algorithm it’s essential we test.
+
+It’s only through testing we can be sure the SEO strategies we are implementing will actually yield results.
+
+We end this post up with an explanation of how SEO testing is done so that you too can run SEO experiments and get valid (perhaps even ground-breaking) test results.
+
+A special thanks to Eric Enge for this contribution:
+
+“We invest a great deal of energy in every test we do. This is largely because doing a solid job of testing requires that you do a thorough of removing confounding variables, and that you make sure that the data size of your sample is sufficient. Some of the key things we try to do are: 1. Get a reasonably large data sample. 2. Scrub the test parameters to remove factors that will invalidate the test. For example, if we are trying to test if Google uses a particular method to index a page, then we need to do things like make sure that nothing links to that page, and that there are no Google tools referenced in the HTML of that page (for example, Google Analytics, AdSense, Google Plus, Google Tag Manager, …). 3. Once you have the results, you must let the data tell the story. When you started the test, you probably expected a given outcome, but you need to be prepared for finding out that you were wrong. In short, it’s a lot of work, but for us, the results justify the effort!”
+
+So there you have it…
+
+16 SEO experiments and their unexpected results. What else do you think should be tested?
+
+What SEO experiment result surprised you the most?
+
+Tell me in the comments below.

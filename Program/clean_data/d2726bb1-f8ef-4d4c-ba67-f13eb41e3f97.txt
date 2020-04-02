@@ -1,0 +1,25 @@
+Startup Best Practices 19 - Recognizing the Breaking Points of Your Startup's Management Structure
+
+Last week, I interviewed Tien Tzuo, the former CMO & CSO at Salesforce, and founder/CEO of Zuora. During our conversation, he spoke about one of the major challenges facing fast growing startups. He called it recognizing the breaking points of management.
+
+At the founding a startup, the structure of the company is flat. Everyone is effectively a peer. At about 8 people, a leader must emerge to shepherd the growing team, and so the first management layer is created. Then again, somewhere around 60 employees, the company must add another management layer, and then again when the company reaches a few hundred employees. Marco Zappacosta, founder and CEO of Thumbtack told me once, “As CEO, I changed from a contributor, to a manager, to a manager of managers, to a manager of manager of managers. And each time, I needed to learn again what it meant to be CEO.”
+
+Curiously, this pattern is consistent across companies. When startups approach those employee counts, communication within the company breaks down and the startup can’t effectively coordinate its people. The telltale signs include confusion in the organization, uncoordinated efforts across teams and frustrated employees.
+
+There’s theory underpinning why startups consistently feel these growing pains at roughly the same sizes. Henry Fayol a French mining engineer used empirical data observed in coal mines to prove the notion of span of control.. Span of control is the number of subordinates a person manages. As the number of reports increases linearly, the number of relationships a manager must oversee grows exponentially.
+
+Most companies design teams with a span of control of 7. At Google, I was part of the team that calculated span of control across product, engineering and other teams. And though there were substantial variances depending on the needs of the team, the median was roughly 7. The diagram above depicts the number of management layers, the number of employees managed by each layer and the total number of employees assuming 7 span of control.
+
+In fact, another researcher, V.A. Graicunas developed a formula to describe this phenomenon which considers three types of relationships. First, manager to report. Second, report to report. Third, manager to subsets of reports.
+
+Relationships to Manage = n(2^(n-1) + n-1); n = # of reports
+
+As the table below shows, the theoretical complexity increases massively with each subsequent hire.
+
+Reports Relationships to Manage 2 6 3 18 4 44 5 100 6 222 7 490 8 1080 9 2376 10 5210
+
+While adding management layers to a startup may not seem like the best way to manage, and some companies like Zappos have tried to maintain a flat despite growing to hundreds of employees, there’s a substantial body of empirical evidence and research supporting the notion that fast growing companies need to develop management layers to manage their employees and develop them best, and that these ranges are roughly consistent across companies.
+
+When building your startup, keep these rough employee ranges in mind as pivotal points to consider adding another management layer to the company and re-establish a harmony within the growing team.
+
+Published 2015-10-25 in Best-Practices Sales

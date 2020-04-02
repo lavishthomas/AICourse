@@ -1,0 +1,63 @@
+I am known for being hard to read, to the point that friends complain that they can never tell what I’m thinking by looking at my face. But, says neuroscientist Lisa Feldman Barrett, it’s possible that they might remain confused even if my face were more expressive.
+
+Barrett, a neuroscientist at Northeastern University, is the author of How Emotions Are Made. She argues that many of the key beliefs we have about emotions are wrong. It’s not true that we all feel the same things, that anyone can “read” other people’s faces, and it’s not true that emotions are things that happen to us.
+
+The Verge spoke to Barrett about her new view of emotion, what this means for emotion-prediction startups, and whether we can feel an emotion if we don’t have the word for it.
+
+This interview has been lightly edited for clarity.
+
+You argue that emotions are constructed by our brains. How does that differ from what we knew before?
+
+The classical view assumes that emotions happen to you. Something happens, neurons get triggered, and you make these stereotypical expressions you can’t control. It says that people scowl when they’re angry and pout when they’re sad, that everyone around the world not only makes the same expressions, but that you’re born with the capacity to recognize them automatically.
+
+In my view, a face doesn’t speak for itself when it comes to emotion, ever. I’m not saying that when your brain constructs a strong feeling that there are no physical cues to the strength of your feeling. People do smile when they’re happy or scowl when they’re sad. What I’m saying is that there’s not a single obligatory expression. And emotions aren’t some objective thing, they’re learned and something that our brains construct.
+
+You write about studies where you show someone a face and ask them to identify the emotions, and people consistently get it wrong, like confusing fear with anxiety. But fear and anxiety seem pretty similar to me. Do people also confuse emotions that are really far apart, like happiness and guilt?
+
+It’s interesting that you say that guilt and happiness are far apart. I often show people a picture of the top half of my daughter’s face and people say she looks sad or guilty or deflated, and then I show the whole image and and she’s actually in a full-blown episode of pleasure because she’s at a chocolate museum.
+
+If you were to pit a face against anything else, it will always lose. If you show a face on its own, versus if you pair it with a voice or a body posture or a scenario, the face is very ambiguous in its meaning. There are studies where they actually took people’s whole faces but removed the bodies. People were expressing negativity or positivity, and people mistake all the time without the context. When you take a super positive face and stick it in a negative situation, people experience the face as more negative. They don’t just interpret the face as negative, they actually change how they look at the face when you use eye-tracking software.
+
+The expressions that we’ve been told are the correct ones are just stereotypes and people express in many different ways.
+
+What about things like resting bitch face? That’s a topic you hear about a lot — where people say that they can “tell” someone is a bitch, but women protest that their face is “just that like.”
+
+We’ve done research on this and resting bitch face is a neutral face. When you look at it structurally, there’s nothing negative in the face. People are using the context or their knowledge about that person to see more negativity in the face.
+
+I’m curious what all this means for affective computing, or the startups that try to analyze your facial expression to figure out how you’re feeling. Does this mean their research is futile?
+
+As they are currently pursuing it, most companies are going to fail. If people use the classical view to guide the development of their technology — if you’re trying to build software or technology to identify scowls or frowns and pouts and so on and assume that means anger, good luck.
+
+But if affective computing and other technology in this area were adjusted slightly in their goals, they hold the potential to revolutionize the science of emotion. We need to be able to track people’s movements accurately, and it would be so helpful to measure their movements and as much of the external and internal context as possible.
+
+So we know that emotions don’t have a universal look. Can you explain more about your argument that emotions are constructed? My understanding is that your claim is like this: you have a basic feeling — like “pleasant” or “unpleasant” — and bodily sensations, which are sometimes triggered by the environment. Then we interpret those feelings and physical sensations as certain emotions, like rage or guilt. How does this work?
+
+All brains evolved for the purposes of regulating the body. Any brain has to make decisions about what to invest its resources in: what am I going to spend, and what kind of reward am I going to get? Your brain is always regulating and it’s always predicting what the sensations from your body are to try to figure out how much energy to expend.
+
+When those sensations are very intense, we typically use emotion concepts to make sense of those sensory inputs. We construct emotions.
+
+Let’s back up a bit. What are emotion concepts?
+
+It’s just what you know about emotion — not necessarily what you can describe but what your brain knows to do and the feelings that come from that knowledge. When you’re driving, your brain knows how to do a bunch of things automatically, but you don’t need to articulate it or even be aware of it as you’re doing it to successfully drive.
+
+When you known an emotion concept, you can feel that emotion. In our culture we have “sadness,” in Tahitian culture they don’t have that. Instead they have a word whose closest translation would be “the kind of fatigue you feel when you have the flu.” It’s not the equivalent of sadness, that’s what they feel in situations where we would feel sad.
+
+Where do we learn those concepts?
+
+At the earliest stage, we are taught these concepts by our parents.
+
+You don’t have to teach children to have feelings. Babies can feel distress, they can feel pleasure and they do, they can certainly be aroused or calm. But emotion concepts — like sadness when something bad happens — are taught to children, not always explicitly. And that doesn’t stop in childhood either. Your brain has the capacity to combine past experience in novel ways to create new representations, experience something new that you’ve never seen or heard or felt before.
+
+I’m fascinated by the link between language and emotion. Are you saying that if we don’t have a word for an emotion, we can’t feel it?
+
+Here’s an example: you probably had experienced schadenfreude without knowing the word, but your brain would have to work really hard to construct those concepts and make those emotions. You would take a long time to describe it.
+
+But if you know the word, if you hear the word often, then it becomes much more automatic, just like driving a car. It gets triggered more easily and you can feel it more easily. And in fact that’s how schadenfreude feels to most Americans because they have a word they’ve used a lot. It can be conjured up very quickly.
+
+Does understanding that emotions are constructed help us control them?
+
+It’s never going to be the case that it’s effortless and never the case that you can snap your fingers and just change how you feel.
+
+But learning new emotions words is good because you can learn to feel more subtle emotions, and that makes you better at regulating your emotions. For example, you can learn to distinguish between distress and discomfort. This is partly why mindfulness meditation is so useful to people who have chronic pain — it lets you separate out the physical discomfort from the distress.
+
+I think understanding how emotions are constructed widens the horizon of control. You realize that if your brain is using your past to construct your present, you can invest energy in the present to cultivate new experiences that then become the seeds for your future. You can cultivate or curate experiences in the now and then they become, if you practice them, they become automated enough that your brain will automatically construct them in the future.

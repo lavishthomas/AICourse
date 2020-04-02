@@ -1,0 +1,239 @@
+Podcast cover art is often a potential subscriber's first impression of your podcast. Here are the technical specs and ten elements of great podcast artwork.
+
+UPDATED 9-24-2014: The following has been revised in accordance with Apple's latest specifications. Please note that the minimum is now 1,400 × 1,400 (no longer just a recommendation). But contrary to popular belief, PNG is still a recommended option, as long as it (or JPEG) are in the RGB color space.
+
+Click here to download the Podcast Cover Art Toolbox
+
+The current podcast cover art specs from iTunes
+
+Check back with this post as I'll keep these specs updated on the latest standards from iTunes.
+
+Core requirements
+
+Minimum 600 × 600 1,400 × 1,400 pixels (maximum 3,000 × 3,000)
+
+1,400 × 1,400 pixels (maximum 3,000 × 3,000) RGB color space (not grayscale, CMYK, 8-bit indexed, or transparent)
+
+Hosted on a server that supports HTTP HEAD requests
+
+JPEG or PNG file format (JPEG is more highly recommended)
+
+Here are some things to avoid in your cover art.
+
+Explicit or self-censored explicit language in podcast titles, subtitles, or descriptions
+
+References to illegal drugs, profanity, or violence in the title, description, or cover art
+
+Images or language that could be construed as racist, misogynist, or homophobic
+
+Images depicting sex, violence, gore, illegal drugs, or hate themes
+
+Third-party trademarks without authorization or usage rights
+
+The words “iTunes Store,” “iTunes,” or “Apple Inc.”
+
+iTunes Store logo, Apple logo, or the term “Exclusive” without prior authorization from Apple
+
+Requirements to be featured
+
+Apple has extra requirements for anything they'll consider featuring.
+
+Attractive, original cover art that does not include Apple-branded content. Include a 1400 × 1400-pixel JPEG or PNG file in the RGB color space for your cover art to be eligible for promotion.
+
+A robust and accurate description for the podcast and all related episodes
+
+A clear and complete author listing
+
+Proper tags regarding language, category, and explicit language or content
+
+New episodes being posted regularly The cover art, and all other podcast elements must be original and cannot contain any of the following: Pixelation, artifacts, high-contrast background art, blurry or hard crops (unless stylistic), or other style issues
+
+References to illegal drugs, profanity, or violence in the title, description, or cover art
+
+Images or language that could be construed as racist, misogynist, or homophobic
+
+Images depicting sex, violence, gore, illegal drugs, or hate themes
+
+Third-party trademarks without authorization or usage rights
+
+The words “iTunes Store,” “iTunes,” or “Apple Inc.”
+
+iTunes Store logo, Apple logo, or the term “Exclusive” without prior authorization from Apple
+
+Any visual representation of iPhone, iPad, iPod touch, or any other Apple hardware Note that even with the above elements, promotion is not guaranteed.
+
+<itunes:image> technical requirements
+
+The <itunes:image> tag points to the artwork for your podcast, via the URL specified in the href attribute. Cover art must be a JPEG or PNG file in the RGB color space at a minimum size of 600 × 600 pixels. For best results, and to be considered for promotion in the iTunes Store or the Podcasts app for iOS, cover art must be at least 1400 × 1400 pixels. Note that these requirements are different from the standard RSS image tag specification. UPDATE: Cover art must be in the JPEG or PNG file formats and in the RGB color space with a minimum size of 1400 x 1400 pixels and a maximum size of 3000 x 3000 pixels. Note that these requirements are different from the standard RSS image tag specification. Potential subscribers will see your cover art in varying sizes depending on the device they’re using. Make sure your design is effective at both its original size and at thumbnail size. If the <itunes:image> tag is not present, iTunes will use the content of the RSS image tag, but your podcast will not be considered for a potential feature placement in the Podcasts app and the iTunes Store. We recommend including a title, brand, or source name as part of your cover art. For examples of cover art, see the Top Podcasts section in the Podcasts app or the iTunes Store. If you update the cover art for your podcast, be sure to avoid technical issues by doing the following: change the cover art file name and URL at the same time
+
+verify the web server hosting your cover art allows HTTP head requests The <itunes:image> tag is also supported at the <item> (episode) level. For best results, we also recommend embedding the same cover art within the metadata for that episode’s media file prior to uploading to your host server. You may need to edit your media file via Garageband or other content-creation tool to do so.
+
+10 elements of great podcast cover art
+
+You don't have to be a designer to create decent podcast cover art. Hiring a designer will bring more skills, experience, and resources to your project. But if you want to design your podcast cover art yourself, here are the ten most important elements to include. Download the podcast artwork toolbox to help.
+
+1. Unified branding
+
+If you already have any kind of branding in place (imagery, colors, fonts, etc.), reuse these in your podcast artwork. This will unify the different outlets of your brand.
+
+This doesn't mean you must use your company's logo for the cover art. You could include the logo as a branding banner (like I do with Noodle.mx Network), or just use repeatable elements, such as color or fonts.
+
+2. Highest-resolution or vector foundation
+
+Resolutions and standards can change often. The standard used to be 300 × 300 pixels, then it was 600 × 600, then 1,200 × 1,200 (for a very short time), and then 1,400 × 1,400 for a couple years. 1,400 × 1,400 was probably based on a CD case insert, which was 4.75 × 4.715 inches, or 1,425 × 1,414 at 300 pixels per inch (PPI).
+
+Now, higher-resolution devices are coming out and for podcast album art to look great, the image should be larger. In Fall, 2014, Apple set a maximum recommendation at 3,000 × 3,000.
+
+Keeping up with these sizes can be difficult or costly. There are two ways to future-proof yourself.
+
+For photo/image-based artwork, acquire the largest version possible and design within its dimensions. For color- or illustration-based artwork, design in a vector editor (like Adobe Illustrator) to make artwork that can scale to any size without losing quality.
+
+3. Recognizable concept at small sizes
+
+Many of us have 17″-or-larger screens on our computers and we may create the podcast cover art in full screen. This can lead to design problems as we're looking at the image when it's huge, but most people—especially your potential subscribers—will see it much smaller.
+
+When you design, zoom out so the podcast artwork is about the size of a postage stamp. How well can you read it at this size? Can you still recognize the design elements? Can you still get a general idea of what the podcast is about?
+
+Remember this small size guideline, as it should affect everything else you do.
+
+4. Big, legible text
+
+You need to stand out with your cover art, so make the text as big as possible. This could mean having one word per line.
+
+Just like you can never have too many lights on a Christmas tree, you can never have text that is too big in your podcast cover art, as long as it fits without being cropped.
+
+Again, view the cover art at about the size of a postage stamp. If you can't read the title then, you have some more tweaking to do.
+
+Part of making the text legible is using the right fonts, colors, and especially character spacing. Serif fonts (with “feet”), like Times New Roman, Garamond, or Bodoni, often have thin lines and small details that get lost or blurred at small sizes. Script fonts can be too ornate to be legible, unless they're really big (and never put a script font in all-caps!). Sans serif fonts (“without feet”), like Arial, Myriad Pro, or Futura, work really well with thick or uniform-thickness lines, clear characters, and strong contrasts from the background.
+
+With any font, spacing the letters out a little more (called “character spacing”) can make it more legible at smaller sizes.
+
+5. Few words
+
+Your cover art is not the place for you to explain what the podcast is about, or maybe not even to list who hosts it. Keep this as simple as possible and only include what can be legible at a small size, like 125 × 125 pixels—or remember that postage-stamp size.
+
+The easiest word to remove from your cover art can be the word “podcast,” as it's really unnecessary in your title. My Once Upon a Time podcast is simply titled “ONCE” in its cover art. This Week in Tech doesn't need the “podcast” word, too.
+
+The times this may be more difficult is when you have a “the” based name. For example, “The Ray Edwards Show” wouldn't work as “The Ray Edwards” or even just “Ray Edwards.” Think of “podcast” as the label for your distribution method (which it actually is, technically) and not part of your title unless necessary.
+
+6. Bold contrast
+
+Make sure design elements contrast each other. If you put text over an image, ensure the image is blurred or low-contrast enough that you can easily read the text. Avoid clashing colors or subtle differences (like not-very-light gray text on a not-very-dark background).
+
+If you truly have enough space to include more text, like a tagline, some keywords, or the host name(s), then contrast them from your title by either color, size, or separating them physically.
+
+7. Relevant imagery
+
+Your podcast cover art needs to communicate your content visually. This involves a more psychological process, but here's an easy trick to it.
+
+Think of everything your podcast is about and summarize it into one to three, specific terms. For example, “dog training,” “children,” and “outdoors.” Now, find imagery, such as on Dollar Photo Club, that communicate these keywords. You could be extremely lucky and find (or custom-make) an image that shows a child training a dog outdoors.
+
+The more complicated your concepts are, the harder it will be to find an image that communicates simply. So you may need to pick just one or two of your keywords to portray in the cover art.
+
+For ideas, search a stock-photography website, like Dollar Photo Club, or even try Google Images for brainstorming. But do not use an image without a license!
+
+Show other people the image you're thinking of using, tell them it's for a podcast, and ask them what they think the podcast is about based just on the image. You know you have a winner if they're anywhere close to your keywords. If they don't quite get it, say the name of your podcast (any nothing else) to see if they make the connection then.
+
+For example, a photo of a sitting dog on a leash may convey “dog training,” “owning pets,” or “dog showing.” A photo of just a dog leash may communicate “pet training,” “exercise,” or “losing weight” (it's possible a leash could look like a belt).
+
+Try to use only one or two pieces of imagery in your podcast artwork—and a logo counts as one.
+
+8. A template for episode images
+
+Episode specific images can be a great way to brand your podcast and enhance the uniqueness of each episode. But you don't have to make individual images for each episode.
+
+An easy way to do this is to make your cover art in a way that it could function as a template. This could mean you place a photo each time, or maybe you remove something and place the episode title, or you move and scale items a enough that you have a wide open space for something new.
+
+9. No clichés
+
+Warning: pet peeves and big opinions ahead.
+
+Don't use any clichés in your podcast cover art. For podcasting, this is usually a pair of headphones, a microphone, or the RSS icon. Don't do it! I would only recommend these elements if they actually fit the theme of your podcast, not just fit the distribution method of your podcast.
+
+For example, you usually don't see pictures of books on book covers unless the book is actually about books in some way (writing books, a novel about a book, publishing, etc.). Similarly, you almost never see cameras, lights, and microphones on movie posters unless the movie is actually about movie-making, someone who made movies or was often behind the camera, or other meta concepts.
+
+(Also think about this with your title. This is “The Audacity to Podcast,” but if you want to call it a podcast, you would actually have to say, “the The Audacity to Podcast podcast.” So think outside the box and title your show in a way that doesn't include your medium—even try to do it without “show”!)
+
+There are other clichés to avoid within each industry. For example, a handshake photo is far overused is business marketing. So try your best to avoid that cliché (unless your podcast is actually about handshaking!). I've designed podcast artwork for other clients who listed specific cliché images to avoid—like a dove for the Holy Spirit or blood and needles for diabetes.
+
+But don't be afraid to use something someone may call cliché if it communicates your theme perfectly.
+
+10. Consideration for circle-crops
+
+No, I'm not talking about alien “crop circles.” Some social networks (like Google+) and podcast apps are starting to crop avatars and artwork to circles. First, I think this is generally a horrible decision by those developers, unless you can upload a specific image for that app/network (as you can on Google+). But when a podcast app crops your image to a circle, you most likely can't control it because the podcast album art is being loaded from your RSS feed.
+
+You don't have to design your cover art to fit into a circle, but at least consider it. You could account for this by having your largest word, icon, or focal point of an image in the exact center of the artwork. But fitting your entire cover art into a circle is difficult and often looks awkward on other networks.
+
+Get the toolbox to create your own podcast artwork
+
+4 places to put your podcast cover art
+
+Now you have your podcast artwork, so where do you put it?
+
+Show-level RSS2 <image> tag
+
+This is the oldest part of the podcasting specification. This would be a full <image> tag in your RSS feed to contain a URL to your artwork, as well as the title and website URL. This goes within the <channel> tag, but before any <item> tags.
+
+According to the RSS2 specifications, this image can be, at most, 144 × 400. Yes, it can be a tall rectangle, but most people will simply use a 144 × 144 version of their cover art.
+
+Here's how the RSS would actually look.
+
+<image> <title>PODCAST TITLE</title> <url>URL TO IMAGE</url> <link>WEBSITE URL</link> </image> 1 2 3 4 5 <image> <title> PODCAST TITLE </title> <url> URL TO IMAGE </url> <link> WEBSITE URL </link> </image>
+
+Show-level <itunes:image> tag
+
+Since iTunes has supported podcasting, they have offered an additional RSS tag for podcast cover art. This is where you absolutely must have your larger version of your podcast artwork.
+
+Like the <image> tag, the <itunes:image> tag goes within <channel> , but this show-level image goes before any <item> tags. The RSS looks like the following.
+
+<itunes:image href="URL TO PODCAST COVER ART" /> 1 <itunes:image href = "URL TO PODCAST COVER ART" />
+
+This should be a minimum of 1,400 × 1,400 pixels up to a maximum of 3,000 × 3,000 pixels and I recommend no larger than 512 KB.
+
+Episode-level <itunes:image> tag
+
+The Podcasts app for iOS (now preinstalled and unremovable on all iOS 8 and later devices!) and other apps can display a different image for each episode. This image is pulled from your RSS feed (desktop iTunes currently pulls from the ID3 tags).
+
+You use the same <itunes:image> tag, but this time within the <item> tag, for each episode.
+
+<itunes:image href="URL TO PODCAST COVER ART" /> 1 <itunes:image href = "URL TO PODCAST COVER ART" />
+
+Blubrry PowerPress, LibSyn, and many other podcast-feed generators support this per-episode image, but you may have to enable that feature.
+
+Like the show-level iTunes image, this should be a minimum of 1,400 × 1,400 pixels up to a maximum of 3,000 × 3,000 pixels and I recommend no larger than 512 KB.
+
+Episode-level ID3 tag
+
+As a show-level or episode-level fallback, you can embed an image within the ID3 tags for MP3 and M4A audio files.
+
+This image is best to be 600 × 600 pixels and no larger than 200 KB (some Android and TV set-top devices will have problems with ID3 tags that contain too much data).
+
+Download the Podcast Cover Art Toolbox to take action
+
+Announcements
+
+Send me your questions to ask John Lee Dumas from Entrepreneur on Fire in my 200th episode!
+
+Thank you for the iTunes reviews!
+
+Your written iTunes reviews encourage me and they help other people find the podcast. If you appreciate the podcasting information I share, would you please write your own review on iTunes or Stitcher?
+
+Check out My Podcast Reviews to get your own podcast reviews automatically emailed to you and learn how to grow your audience with reviews!
+
+Need personalized podcasting help?
+
+I no longer offer one-on-one consulting outside of Podcasters' Society, but request a consultant here and I'll connect you with someone I trust to help you launch or improve your podcast.
+
+Ask your questions or share your feedback
+
+Comment on the shownotes
+
+Leave a voicemail at (903) 231-2221
+
+Email feedback@TheAudacitytoPodcast.com (audio files welcome)
+
+Connect with me
+
+Disclosure
+
+This post may contain links to products or services with which I have an affiliate relationship and may receive compensation from your actions through such links. However, I don't let that corrupt my perspective and I don't recommend only affiliates.

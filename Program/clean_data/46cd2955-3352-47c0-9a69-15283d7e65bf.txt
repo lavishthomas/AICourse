@@ -1,0 +1,79 @@
+Less than halfway through her first Olympic games, Simone Biles is already a legend.
+
+The 19-year-old American gymnast is not merely the top athlete on the best women’s gymnastics team in the world, defeating Russia and China in the team all-around by a wide margin on Tuesday, and winning the women’s individual all-around by a solid two points on Thursday. She is not merely better than any other female gymnasts right now. She is quite possibly the best female gymnast ever—dominating on the beam, floor and vault, and absolutely blowing everyone away when it comes to the all-around. She does more complicated tricks and has nearly flawless execution, and she already has a move named after her.
+
+Simone Biles’ namesake trick isn’t the hardest she does, but since she debuted it at the 2013 World Championships, “the Biles” has become her signature, a staple of her floor routine. It’s a double somersault in a fully outstretched “layout” position, combined with a half-twist in midair. Layouts have been a part of gymnastics since at least the early 1900s, when they were first done by men in tumbling routines. After women got their own individual gymnastics competitions in the 1950s, they began incorporating layouts as well.
+
+But, whether the move was performed by a male or female, the physics never seemed to make sense. When you watch someone performing a layout, they look surreal.
+
+Czech gymnast Věra Čáslavská performs in the 1968 Olympics (Olympics)
+
+This is Czech gymnast Věra Čáslavská in her 1968 Olympics floor routine, which won her the gold. Aside from the step-out landing, where her right leg swings forward to hit the ground first, it looks pretty much like the first half of the Biles—Čáslavská’s arms start above her before shifting downward, while her body remains almost entirely straight during the flip. Here’s the thing that makes gymnastics so fascinating: Čáslavská shouldn’t be able to keep her body so straight while flipping. Even the tiniest imprecision in the way she took off from the mat should have sent her body twisting and turn.
+
+Try taking a Barbie or a pencil (or any object, really) and flip it in the air without having it twist at all. It’s basically impossible. But the world’s best gymnasts stay almost perfectly straight. Clearly, scientists thought, these gymnasts have some kinesthetic intelligence that Barbies don’t.
+
+Ciarán McInerney, a gymnastics coach and PhD researcher at the Sheffield Hallam University’s Center for Sports Engineering Research, says Biles is accomplishing the near-impossible. Imagine, he says, what it would be like to lie down on the floor and have a friend lift you feet-first and then shake you, while you try not to bend any part of your body in any direction.
+
+When Biles launches off the mat, she pushes down with her feet, sending her body upwards. It takes a lot more work for heavier gymnasts to manage the same jumps. Biles benefits from having—like most shorter athletes—a muscular build while still weighing relatively little. In other words, Biles has the ideal body type for this kind of trick.
+
+After Biles picks up velocity, she needs to direct all that speed toward her backflip. She needs to take off at the exact right angle, and then she needs to do some blink-of-the-eye adjustments in midair. It comes down to this: throughout the trick, Biles is making herself consistently shorter. She starts with her arms above her head, before moving them downward and then arching her back. In doing so, she can increase her velocity, meaning she’ll somersault faster than if she kept her body outstretched. That gives her time to complete two full flips.
+
+Here’s an experiment: get in a desk chair and start spinning. Now curl yourself into a ball. Do you rotate faster? (You should).
+
+But here’s what makes athletes like Biles unique: when people flip, their bodies are naturally going to shake and lose stability. Olympic gymnasts are strong enough to keep their bodies as stable as rods. Biles is particularly exceptional at holding still. With a firm build and a 4’8” frame, she’s got an amazing strength-to-weight ratio. This not only enables her to hold her body straight, but also lets her jump to about double her actual height. As former Olympic gymnast Mary Lou Retton described, Biles is “so incredibly strong” that “she’s just untouchable.” But that’s untouchable by human competitors.
+
+Enter the nonhuman competition
+
+A “doll” thrown into the air will naturally twist and turn as it somersaults (left). But when you replace its shoulder joints with springs, it can stabilize itself using passive dynamics (MIT Leg Lab)
+
+In 1993, Robert Playter, today the director of Google Robotics, wrote his PhD thesis on “Passive Dynamics in the Control of Gymnastic Maneuvers.” A former college gymnast, Playter discovered that while it might take skill and training for a gymnast to manage a layout, the move doesn’t necessarily depend on heightened senses and preternatural balance. In fact, he found, removing the twist from a layout could be done by replacing a doll’s rigid shoulder joints with springs, so its arms could freely move to stabilize itself.
+
+Playter’s doll was an early version of a passive dynamic machine—which means that its movements don’t require energy. It’s a type of contraption first developed in the 1980s by an engineering professor named Tad McGeer, who created a “passive walker” powered solely on gravity and inertia.
+
+This “passive dynamic” robot, developed by Simon Fraser University professor Tad McGeer around 1990, moves solely using gravity and natural forces. (AMBER Lab)
+
+Check out the GIF to the right and you’ll immediately notice that the walker’s movement is more humanlike than robots that are technologically far more advanced.
+
+It turns out that gravity and natural forces like inertia can outperform hard-wired movement. Because as it happens, robots are really terrible at copying all the little movements that make us human. But by applying an advanced understanding of “passive dynamics” we can get pretty close to manufacturing “organic” motion.
+
+The same year that he made the springy doll, Playter built another robot—one that could somersault. The robot was a sort of passive/active hybrid: it featured a metal frame attached to two “legs” that could shorten and lengthen, depending on feedback provided by sensors. The robot tucked and untucked its legs during the flip to rotate faster. Meanwhile, passive dynamics were used to keep the robot facing forward, without twisting or turning.
+
+This wasn’t a layout somersault—its legs were tucked. But it showed that physics and robotics could potentially be a match for human athleticism.
+
+This somersaulting robot from 1993 uses active control to somersault, and passive dynamics to keep from twisting and turning. (MIT Leg Lab)
+
+Advancing those early prototypes, though, has been challenging. Boston Dynamics, the company that Playter led before Google acquired it, is still making “dynamic balancing” robots, meaning they can adjust their bodies to remain upright when researchers try to knock them down, and can get up after falling. But Alphabet is looking to sell Boston Dynamics, reportedly over concerns that they haven’t been—and won’t be—able to turn out any consumer products.
+
+That’s not to say they haven’t made lots of cool robots. They’ve built ones that walk and carry packages, and that can withstand getting shoved with the business end of a hockey stick. They’ve made a robot that moves like a dog, and another that can run sort of like a cat.
+
+Boston Dynamics’ Atlas robot can pick up packages and balance after being shoved by a researcher. (Boston Dynamics)
+
+But they haven’t built one like Simone Biles.
+
+One reason is that, realistically, there isn’t much practical use for a gymnastics robot. Another though, Playter says, is that they can’t. “You can’t really build robots that have the same strength-to-weight ratios that you get with biological muscle,” says Plater. The problem isn’t necessarily that robots are too weak. It may be that they’re trying too hard.
+
+The benefits of avoiding the math
+
+The most complicated part of Simone Biles’ signature move is the half-twist.
+
+In general, the easiest way to start or stop spinning is to push off from something. But Biles needs to start twisting in midair, meaning she must realign the spin through her own body in a very precise way—which would be challenging even if she weren’t in the middle of a double flip.
+
+The physics behind this is insanely complicated:
+
+Euler’s equations for rigid body dynamics show the (complex) relationship between how Simone Biles positions her body and how she flips, twists and turns.
+
+Of course, Biles does just fine without knowing much about any of those things. “Most of the time your body’s on autopilot,” Biles said in a recent interview with ABC News. “So sometimes even after a floor routine I’m like, Did I really just do that?”
+
+In other words, you could try to apply that math in order to train a robot to do a Biles, but there’s something significant that gets lost along the way. It would basically be working too hard without fully understanding the essence of what it was doing. As Playter describes it, “When you’re in a somersault… there’s a feeling to that that is kind of like pumping a swing. When you pump a swing you wait until you’re at the bottom of the swing and you extend your legs when you feel you have something to push against.”
+
+Basically, there’s a “sweet spot” that athletes like Biles can sense and respond to. If we could figure out how to replicate that understanding in a machine, it might give us a robot that could challenge Biles on the mat—assuming we could also figure out how to construct it to be sufficiently lightweight and strong.
+
+Finding this sweet spot would also provide value to robotics far beyond simply building a bot to challenge Biles. This kind of physical intuition could be applied to basically any situation, with any set of variables. It would also, says Playter, “be the essence of how to make robots self-improve.” That’s a major priority for building bots that can do things humans do, whether it’s double layouts or helping with package delivery. Real life includes lots of factors that aren’t easily accounted for in simulations, and in the spur of the moment, there isn’t always time for an extensive calculation. Quantifying the “sweet spot” that tells humans how to move and when would be a breakthrough.
+
+But in the meantime, gymnasts may actually be improving at a faster rate than robotics. In the 1976 Olympic games, Romanian gymnast Nadia Comaneci scored the first perfect 10. She actually got seven perfect tens to win the all-around gold, as well as two other gold medals. But if you compare her to Biles, they look like they’re competing in entirely different sports. Biles and her teammates can do moves much harder than Comaneci could 40 years ago. It’s not even close.
+
+Since Comaneci, the scoring system been updated so that people are not scoring perfect tens. Instead, they are given two scores, added together: one for execution, where competitors start with a perfect 10 and lose points for mistakes and bad artistry; another for difficulty, calculated by adding point values for each individual move. Now, there is no limit to how high athletes can score, so the system won’t break when future athletes introduce unbelievable moves that don’t even exist yet. And they will—without knowing any of the physics that machines would have to ingest in order to come even close to replicating them.
+
+Simone Biles 1. Robots 0.
+
+August 11: This article was updated with results of the 2016 Olympics women’s individual all-around gymnastics competition.

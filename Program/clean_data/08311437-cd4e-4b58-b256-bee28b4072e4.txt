@@ -1,0 +1,77 @@
+Whenever you say anything about your daily life, a scale is implied. Try it out. “I’m too busy” only works for an assumed time scale: today, for example, or this week. Not this century or this nanosecond. “Taxes are onerous” only makes sense for a certain income range. And so on.
+
+Surely the same restriction doesn’t hold true in science, you might say. After all, for centuries after the introduction of the scientific method, conventional wisdom held that there were theories that were absolutely true for all scales, even if we could never be empirically certain of this in advance. Newton’s universal law of gravity, for example, was, after all, universal! It applied to falling apples and falling planets alike, and accounted for every significant observation made under the sun, and over it as well.
+
+With the advent of relativity, and general relativity in particular, it became clear that Newton’s law of gravity was merely an approximation of a more fundamental theory. But the more fundamental theory, general relativity, was so mathematically beautiful that it seemed reasonable to assume that it codified perfectly and completely the behavior of space and time in the presence of mass and energy.
+
+The advent of quantum mechanics changed everything. When quantum mechanics is combined with relativity, it turns out, rather unexpectedly in fact, that the detailed nature of the physical laws that govern matter and energy actually depend on the physical scale at which you measure them. This led to perhaps the biggest unsung scientific revolution in the 20th century: We know of no theory that both makes contact with the empirical world, and is absolutely and always true. (I don’t envisage this changing anytime soon, string theorists’ hopes notwithstanding.) Despite this, theoretical physicists have devoted considerable energy to chasing exactly this kind of theory. So, what is going on? Is a universal theory a legitimate goal, or will scientific truth always be scale-dependent?
+
+
+
+
+
+Also in Physics Physics Makes Aging Inevitable, Not Biology By Peter Hoffmann The inside of every cell in our body is like a crowded city, filled with tracks, transports, libraries, factories, power plants, and garbage disposal units. The city’s workers are protein machines, which metabolize food, take out the garbage, or repair...READ MORE
+
+The combination of quantum mechanics and relativity implies an immediate scaling problem. Heisenberg’s famous uncertainty principle, which lies at the heart of quantum mechanics, implies that on small scales, for short times, it is impossible to completely constrain the behavior of elementary particles. There is an inherent uncertainty in energy and momenta that can never be reduced. When this fact is combined with special relativity, the conclusion is that you cannot actually even constrain the number of particles present in a small volume for short times. So called “virtual particles” can pop in and out of the vacuum on timescales so short you cannot measure their presence directly.
+
+One striking effect of this is that when we measure the force between electrons, say, the actual measured charge on the electron—the thing that determines how strong the electric force is—depends on what scale you measure it at. The closer you get to the electron, the more deeply you are penetrating inside of the “cloud” of virtual particles that are surrounding the electron. Since positive virtual particles are attracted to the electron, the deeper you penetrate into the cloud, the less of the positive cloud and more of the negative charge on the electron you see.
+
+Then, when you set out to calculate the force between two particles, you need to include the effects of all possible virtual particles that could pop out of empty space during the period of measuring the force. This includes particles with arbitrarily large amounts of mass and energy, appearing for arbitrarily small amounts of time. When you include such effects, the calculated force is infinite.
+
+We know of no theory that both makes contact with the empirical world, and is absolutely and always true.
+
+Richard Feynman shared the Nobel Prize for arriving at a method to consistently calculate a finite residual force after extracting a variety of otherwise ambiguous infinities. As a result, we can now compute, from fundamental principles, quantities such as the magnetic moment of the electron to 10 significant figures, comparing it with experiments at a level unachievable in any other area of science.
+
+
+
+But Feynman was ultimately disappointed with what he had accomplished—something that is clear from his 1965 Nobel lecture, where he said, “I think that the renormalization theory is simply a way to sweep the difficulties of the divergences of electrodynamics under the rug.” He thought that no sensible complete theory should produce infinities in the first place, and that the mathematical tricks he and others had developed were ultimately a kind of kludge.
+
+Now, though, we understand things differently. Feynman’s concerns were, in a sense, misplaced. The problem was not with the theory, but with trying to push the theory beyond the scales where it provides the correct description of nature.
+
+
+
+
+
+There is a reason that the infinities produced by virtual particles with arbitrarily large masses and energies are not physically relevant: They are based on the erroneous presumption that the theory is complete. Or, put another way, that the theory describes physics on all scales, even arbitrarily small scales of distance and time. But if we expect our theories to be complete, that means that before we can have a theory of anything, we would first have to have a theory of everything—a theory that included the effects of all elementary particles we already have discovered, plus all the particles we haven’t yet discovered! That is impractical at best, and impossible at worst.
+
+Thus, theories that make sense must be insensitive, at the scales we can measure in the laboratory, to the effects of possible new physics at much smaller distance scales (or less likely, on much bigger scales). This is not just a practical workaround of a temporary problem, which we expect will go away as we move toward ever-better descriptions of nature. Since our empirical knowledge is likely to always be partially incomplete, the theories that work to explain that part of the universe we can probe will, by practical necessity, be insensitive to possible new physics at scales beyond our current reach. It is a feature of our epistemology, and something we did not fully appreciate before we began to explore the extreme scales where quantum mechanics and relativity both become important.
+
+This applies even to the best physical theory we have in nature: quantum electrodynamics, which describes the quantum interactions between electrons and light. The reason we can, following Feynman’s lead, throw away with impunity the infinities that theory produces is that they are artificial. They correspond to extrapolating the theory to domains where it is probably no longer valid. Feynman was wrong to have been disappointed with his own success in maneuvering around these infinities—that is the best he could have done without understanding new physics at scales far smaller than could have been probed at the time. Even today, half a century later, the theory that takes over at the scales where quantum electrodynamics is no longer the correct description is itself expected to break down at still smaller scales.
+
+
+
+
+
+There is an alternative narrative to the story of scale in physical theory. Rather than legitimately separating theories into their individual domains, outside of which they are ineffective, scaling arguments have revealed hidden connections between theories, and pointed the way to new unified theories that encompass the original theories and themselves apply at a broader range of scale.
+
+For example, all of the hoopla over the past several years associated with the discovery of the Higgs particle was due to the fact that it was the last missing link in a theory that unifies quantum electrodynamics with another force, called the weak interaction. These are two of the four known forces in nature, and on the surface they appear very different. But we now understand that on very small scales, and very high energies, the two forces can be understood as different manifestations of the same underlying force, called the electroweak force.
+
+Scale has also motivated physicists to try to unify another of nature’s basic forces, the strong force, into a broader theory. The strong force, which acts on the quarks that make up protons and neutrons, resisted understanding until 1973. That year, three theorists, David Gross, Frank Wilczek, and David Politzer, demonstrated something absolutely unexpected and remarkable. They demonstrated that a candidate theory to describe this force, called quantum chromodynamics—in analogy with quantum electrodynamics—possessed a property they called “Asymptotic Freedom.”
+
+If we expect our theories to be complete, that means that before we can have a theory of anything, we would first have to have a theory of everything.
+
+Asymptotic Freedom causes the strong force between quarks to get weaker as the quarks are brought closer together. This explained not only an experimental phenomenon that had become known as “scaling”—where quarks within protons appeared to behave as if they were independent non-interacting particles at high energies and small distances—but it also offered the possibility to explain why no free quarks are observed in nature. If the strong force becomes weaker at small distances, it presumably can be strong enough at large distances to ensure that no free quarks ever escape their partners.
+
+The discovery that the strong force gets weaker at small distances, while electromagnetism, which gets united with the weak force, gets stronger at small distances, led theorists in the 1970s to propose that at sufficiently small scales, perhaps 15 orders of magnitude smaller than the size of a proton, all three forces (strong, weak, and electromagnetic) get unified together as a single force in what has become known as a Grand Unified Theory. Over the past 40 years we have been searching for direct evidence of this—in fact the Large Hadron Collider is just now searching for a whole set of new elementary particles that appear to be necessary for the scaling of the three forces to be just right. But while there is indirect evidence, no direct smoking gun has yet been found.
+
+Naturally, efforts to unify three of the four known forces led to further efforts to incorporate the fourth force, gravity, into the mix. In order to do this, proposals have been made that gravity itself is merely an effective theory and at sufficiently small scales it gets merged with the other forces, but only if there are a host of extra spatial dimensions in nature that we do not observe. This theory, often called superstring theory, produced a great deal of excitement among theorists in the 1980s and 1990s, but to date there is not any evidence that it actually describes the universe we live in.
+
+If it does then it will possess a unique and new feature. Superstring theory may ultimately produce no infinities at all. Therefore, it has the potential to apply at all distance scales, no matter how small. For this reason it has become known to some as a “theory of everything”—though, in fact, the scale where all the exotica of the theory would actually appear is so small as to be essentially physically irrelevant as far as foreseeable experimental measurements would be concerned.
+
+
+
+
+
+The recognition of the scale dependence of our understanding of physical reality has led us, over time, toward a proposed theory—string theory—for which this limitation vanishes. Is that effort the reflection of a misplaced audacity by theoretical physicists accustomed to success after success in understanding reality at ever-smaller scales?
+
+While we don’t know the answers to that question, we should, at the very least, be skeptical. There is no example so far where an extrapolation as grand as that associated with string theory, not grounded by direct experimental or observational results, has provided a successful model of nature. In addition, the more we learn about string theory, the more complicated it appears to be, and many early expectations about its universalism may have been optimistic.
+
+At least as likely is the possibility that nature, as Feynman once speculated, could be like an onion, with a huge number of layers. As we peel back each layer we may find that our beautiful existing theories get subsumed in a new and larger framework. So there would always be new physics to discover, and there would never be a final, universal theory that applies for all scales of space and time, without modification.
+
+Which road is the real road to reality is up for grabs. If we knew the correct path to discovery, it wouldn’t be discovery. Perhaps my own predilection is just based on a misplaced hope of continued job security for physicists! But I also like the possibility that there will forever be mysteries to solve. Because life without mystery can get very boring, at any scale.
+
+
+
+
+
+Lawrence M. Krauss is a theoretical physicist and cosmologist, Director of the Origins Project and Foundation Professor in the School of Earth and Space Exploration at Arizona State University. He is also the author of bestselling books including A Universe from Nothing and The Physics of Star Trek.

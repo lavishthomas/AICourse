@@ -1,0 +1,55 @@
+On Monday, a hacking group calling itself the “ShadowBrokers” announced an auction for what it claimed were “cyber weapons” made by the NSA. Based on never-before-published documents provided by the whistleblower Edward Snowden, The Intercept can confirm that the arsenal contains authentic NSA software, part of a powerful constellation of tools used to covertly infect computers worldwide.
+
+The provenance of the code has been a matter of heated debate this week among cybersecurity experts, and while it remains unclear how the software leaked, one thing is now beyond speculation: The malware is covered with the NSA’s virtual fingerprints and clearly originates from the agency.
+
+The evidence that ties the ShadowBrokers dump to the NSA comes in an agency manual for implanting malware, classified top secret, provided by Snowden, and not previously available to the public. The draft manual instructs NSA operators to track their use of one malware program using a specific 16-character string, “ace02468bdf13579.” That exact same string appears throughout the ShadowBrokers leak in code associated with the same program, SECONDDATE.
+
+SECONDDATE plays a specialized role inside a complex global system built by the U.S. government to infect and monitor what one document estimated to be millions of computers around the world. Its release by ShadowBrokers, alongside dozens of other malicious tools, marks the first time any full copies of the NSA’s offensive software have been available to the public, providing a glimpse at how an elaborate system outlined in the Snowden documents looks when deployed in the real world, as well as concrete evidence that NSA hackers don’t always have the last word when it comes to computer exploitation.
+
+But malicious software of this sophistication doesn’t just pose a threat to foreign governments, Johns Hopkins University cryptographer Matthew Green told The Intercept:
+
+The danger of these exploits is that they can be used to target anyone who is using a vulnerable router. This is the equivalent of leaving lockpicking tools lying around a high school cafeteria. It’s worse, in fact, because many of these exploits are not available through any other means, so they’re just now coming to the attention of the firewall and router manufacturers that need to fix them, as well as the customers that are vulnerable. So the risk is twofold: first, that the person or persons who stole this information might have used them against us. If this is indeed Russia, then one assumes that they probably have their own exploits, but there’s no need to give them any more. And now that the exploits have been released, we run the risk that ordinary criminals will use them against corporate targets.
+
+The NSA did not respond to questions concerning ShadowBrokers, the Snowden documents, or its malware.
+
+A Memorable SECONDDATE
+
+The offensive tools released by ShadowBrokers are organized under a litany of code names such as POLARSNEEZE and ELIGIBLE BOMBSHELL, and their exact purpose is still being assessed. But we do know more about one of the weapons: SECONDDATE.
+
+SECONDDATE is a tool designed to intercept web requests and redirect browsers on target computers to an NSA web server. That server, in turn, is designed to infect them with malware. SECONDDATE’s existence was first reported by The Intercept in 2014, as part of a look at a global computer exploitation effort code-named TURBINE. The malware server, known as FOXACID, has also been described in previously released Snowden documents.
+
+Other documents released by The Intercept today not only tie SECONDDATE to the ShadowBrokers leak but also provide new detail on how it fits into the NSA’s broader surveillance and infection network. They also show how SECONDDATE has been used, including to spy on Pakistan and a computer system in Lebanon.
+
+The top-secret manual that authenticates the SECONDDATE found in the wild as the same one used within the NSA is a 31-page document titled “FOXACID SOP for Operational Management” and marked as a draft. It dates to no earlier than 2010. A section within the manual describes administrative tools for tracking how victims are funneled into FOXACID, including a set of tags used to catalogue servers. When such a tag is created in relation to a SECONDDATE-related infection, the document says, a certain distinctive identifier must be used:
+
+The same SECONDDATE MSGID string appears in 14 different files throughout the ShadowBrokers leak, including in a file titled SecondDate-3021.exe. Viewed through a code-editing program (screenshot below), the NSA’s secret number can be found hiding in plain sight:
+
+All told, throughout many of the folders contained in the ShadowBrokers’ package (screenshot below), there are 47 files with SECONDDATE-related names, including different versions of the raw code required to execute a SECONDDATE attack, instructions for how to use it, and other related files.
+
+.
+
+After viewing the code, Green told The Intercept the MSGID string’s occurrence in both an NSA training document and this week’s leak is “unlikely to be a coincidence.” Computer security researcher Matt Suiche, founder of UAE-based cybersecurity startup Comae Technologies, who has been particularly vocal in his analysis of the ShadowBrokers this week, told The Intercept “there is no way” the MSGID string’s appearance in both places is a coincidence.
+
+Where SECONDDATE Fits In
+
+This overview jibes with previously unpublished classified files provided by Snowden that illustrate how SECONDDATE is a component of BADDECISION, a broader NSA infiltration tool. SECONDDATE helps the NSA pull off a “man in the middle” attack against users on a wireless network, tricking them into thinking they’re talking to a safe website when in reality they’ve been sent a malicious payload from an NSA server.
+
+According to one December 2010 PowerPoint presentation titled “Introduction to BADDECISION,” that tool is also designed to send users of a wireless network, sometimes referred to as an 802.11 network, to FOXACID malware servers. Or, as the presentation puts it, BADDECISION is an “802.11 CNE [computer network exploitation] tool that uses a true man-in-the-middle attack and a frame injection technique to redirect a target client to a FOXACID server.” As another top-secret slide puts it, the attack homes in on “the greatest vulnerability to your computer: your web browser.”
+
+One slide points out that the attack works on users with an encrypted wireless connection to the internet.
+
+That trick, it seems, often involves BADDECISION and SECONDDATE, with the latter described as a “component” for the former. A series of diagrams in the “Introduction to BADDECISION” presentation show how an NSA operator “uses SECONDDATE to inject a redirection payload at [a] Target Client,” invisibly hijacking a user’s web browser as the user attempts to visit a benign website (in the example given, it’s CNN.com). Executed correctly, the file explains, a “Target Client continues normal webpage browsing, completely unaware,” lands on a malware-filled NSA server, and becomes infected with as much of that malware as possible — or as the presentation puts it, the user will be left “WHACKED!” In the other top-secret presentations, it’s put plainly: “How do we redirect the target to the FOXACID server without being noticed”? Simple: “Use NIGHTSTAND or BADDECISION.”
+
+The sheer number of interlocking tools available to crack a computer is dizzying. In the FOXACID manual, government hackers are told an NSA hacker ought to be familiar with using SECONDDATE along with similar man-in-the-middle wi-fi attacks code-named MAGIC SQUIRREL and MAGICBEAN. A top-secret presentation on FOXACID lists further ways to redirect targets to the malware server system.
+
+To position themselves within range of a vulnerable wireless network, NSA operators can use a mobile antenna system running software code-named BLINDDATE, depicted in the field in what appears to be Kabul. The software can even be attached to a drone. BLINDDATE in turn can run BADDECISION, which allows for a SECONDDATE attack:
+
+Elsewhere in these files, there are at least two documented cases of SECONDDATE being used to successfully infect computers overseas: An April 2013 presentation boasts of successful attacks against computer systems in both Pakistan and Lebanon. In the first, NSA hackers used SECONDDATE to breach “targets in Pakistan’s National Telecommunications Corporation’s (NTC) VIP Division,” which contained documents pertaining to “the backbone of Pakistan’s Green Line communications network” used by “civilian and military leadership.”
+
+In the latter, the NSA used SECONDDATE to pull off a man-in-the-middle attack in Lebanon “for the first time ever,” infecting a Lebanese ISP to extract “100+ MB of Hizballah Unit 1800 data,” a special subset of the terrorist group dedicated to aiding Palestinian militants.
+
+SECONDDATE is just one method that the NSA uses to get its target’s browser pointed at a FOXACID server. Other methods include sending spam that attempts to exploit bugs in popular web-based email providers or entices targets to click on malicious links that lead to a FOXACID server. One document, a newsletter for the NSA’s Special Source Operations division, describes how NSA software other than SECONDDATE was used to repeatedly direct targets in Pakistan to FOXACID malware web servers, eventually infecting the targets’ computers.
+
+A Potentially Mundane Hack
+
+Snowden, who worked for NSA contractors Dell and Booz Allen Hamilton, has offered some context and a relatively mundane possible explanation for the leak: that the NSA headquarters was not hacked, but rather one of the computers the agency uses to plan and execute attacks was compromised. In a series of tweets, he pointed out that the NSA often lurks on systems that are supposed to be controlled by others, and it’s possible someone at the agency took control of a server and failed to clean up after themselves. A regime, hacker group, or intelligence agency could have seized the files and the opportunity to embarrass the agency.

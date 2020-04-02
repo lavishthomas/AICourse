@@ -1,0 +1,55 @@
+“That sounds horrendous,” says Ben Terrett, the former head of design at the UK Government Digital Service.
+
+GovInsider has just told him about the Indonesian city with a target of 300 mobile apps built by government per year. As citizens increasingly use smartphones, officials believe this is the best way to reach them.
+
+“We banned apps at GDS, I just said no,” Terrett says. The UK GDS was the first government digital service in the world, and is held up as a global pioneer for its award-winning approach. As the founding head of design, Terrett is responsible for creating services that have been mimicked across the world.
+
+Reaching citizens on smartphones
+
+So why did the GDS ban apps? It wasn’t because they weren’t technically savvy enough to build them.
+
+Cost, he says. Apps are “very expensive to produce, and they’re very very expensive to maintain because you have to keep updating them when there are software changes,” Terrett says. “I would say if you times that by 300, you’re suddenly talking about a huge team people and a ton of money to maintain that ecosystem”.
+
+How did the UK reach an increasingly mobile population? Responsive websites, he replies. “For government services that we were providing, the web is a far far better way… and still works on mobile.”
+
+Sites can adapt to any screen size, work on all devices, and are open to everyone to use regardless of their device. “If you believe in the open internet that will always win,” he says. And they’re much cheaper to maintain, he adds, because when an upgrade is required, only one platform needs recoding.
+
+From voter registration to driving license applications, citizens use response sites with simple designs that are easy to follow. According to estimates by the British Treasury, the GDS saved US$8.2bn (£4.1bn) over four years by taking an approach that emphasized simplicity of design and openness of the service.
+
+Design tips from Terrett
+
+Key to the GDS’ approach is designing for user needs, not organizational requirements, Terrett says. “That is how good digital services designed and built these days. That is how everyone does it, whether that’s google or facebook or British Airways or whoever.”
+
+The problem is that public sector agencies tend not to design with citizens in mind. “Things are just designed to suit the very silos that the project sits in, and the user gets lost in there,” Terrett adds.
+
+For example, opening a restaurant might require multiple permits from different agencies. A good digital service should combine them all in one place.
+
+Focusing on user needs also needs officials to cut bad ideas out. Most Ministers might want there to be sharing options on websites so that citizens can easily promote government on Facebook and Twitter. But the GDS tested this, and found that only 0.1% of citizens ever clicked on them. These stats allowed officials to remove them from the design, making the site simpler, cleaner and quicker to load.
+
+Secondly, the GDS has an approach that “Google is the homepage”. They don’t assume that citizens will visit the main government site; instead, they design for them to have come to a page after looking for a search engine. “No one goes there, but the mental model of organisations is to start at the homepage and work your way out,” Terrett says. Each agency will want its own page with its own branding, but citizens just want information presented in a simple way.
+
+A third rule is to strip out all unnecessary questions and steps in a process. For example, he says, every service asked citizens their marital status, but it was only a legal requirement for one application. This approach allowed them to remove half of the 500 steps it required to get an allowance to care for an elderly relative or disabled loved one.
+
+Fourth, the design team removes all unnecessary design. For example, the pages on Gov.UK – the central portal – don’t have any pictures on them. This is because they distract from the information on the page, and user research showed that they reduced the clarity. “We had some quite beautiful icons on the site early on,” Terrett says, but “we did some testing on them couple of months in and we found that very few people recognised the icons are there, no one had any idea what they meant”.
+
+Measuring success
+
+How does Britain measure digital success? It isn’t necessarily the popularity of a digital service, Terrett says. “It’d be nice if they like it, don’t get me wrong, but liking is not really a useful metric.” Instead his team looked to see if users have completed an online transaction, or stopped halfway through. Equally, did they find the information they needed and leave a webpage, or did they have to search for more information?
+
+Understanding user journeys isn’t expensive, he adds, and governments can build that capability in house quite efficiently. “Most of this stuff you can do very quickly, very cheaply and almost always by yourself,” Terrett says. “”The best way to do this stuff is to get a multi-disciplinary team of people in house – designer, user researcher, developer, content person – you’re talking a team of about twelve people”.
+
+Agile then allows this team to quickly build prototypes in a few weeks that they can test out on volunteers and see if it’ll work. Once they’ve gathered feedback, they can quickly scale things up, he adds.
+
+This approach will save significant sums of money, Terrett says. “You’re not spending money on huge IT contracts or huge teams of people, so a team of 12 might be replacing a team of 100. And you’re not building features that no one wants and no one uses and you’re not wasting time duplicating.”
+
+The GDS believed that central controls were crucial for saving money and reducing duplication of service provision. “Some of it you just have to say: ‘Sorry it’s just got to be. I know you all had your own thing, but now we’re going to have one’.”
+
+There were two levers that the GDS had – spending controls, and content controls, he says. By running all content on the Gov.UK site, they had power to delete anything that didn’t meet the standard – ensuring that departments adapted. Equally, they set strict standards for what government could procure from outside, ensuring a change of approach to more agile procurement.
+
+But if Terrett could leave readers in Asia with one bit of advice, it’s this: remember the user needs. Don’t ever let agencies suggest ideas without justifying why it benefits citizens. The temptation is always there for them to meet internal objectives without building a simple service – and sometimes even complicating the citizen experience with an unnecessary app or web page.
+
+“If you build the thing that people want, all the worrying about engagement and driving traffic all goes away because people find it and they come there,” he says.
+
+Ben Terrett was the founding head of design at the Government Digital Service. He now works at the Co-Operative, and is part of public.digital
+
+Image by Paul Downey, licensed under CC BY 2.0

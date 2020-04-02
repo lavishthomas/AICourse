@@ -1,0 +1,35 @@
+The Marketing Math Behind Scaling a SaaS Salesforce
+
+A terrific SaaS VP of Marketing once told me, “If the sales team is focused on hitting this quarter’s revenue target, then the marketing team ought to be focused on next quarter and the following quarter.” In SaaS companies, one of the marketing department’s primary responsibilities is generating sufficient customer interest to enable the company to achieve their revenue targets.
+
+If that’s the case, determining how and when to scale a sales team in a SaaS company is contingent upon the marketing team’s metrics. It would be a mistake to hire a swath of salespeople, assign them quotas and then fail to provide them with enough inbound lead flow to succeed. In that case, marketing would be the limiting factor in the business.
+
+Of course, some startups ask their salesforces to generate their own leads. But after reading Aaron Ross’s Predictable Revenue and seeing the process implemented in several SaaS companies, I believe asking salespeople to generate leads in addition to closing them is be suboptimal in most cases
+
+Most SaaS startups hire a salesperson or two before hiring a marketing team. During the initial phases of discovering the sales pitch and refining the process, this sequence makes sense. But as a SaaS company scales, the company must begin to mechanize the sales process. A sales process is mechanized when the company has a high degree of confidence in the marginal revenue contribution of the new salesperson before hiring him/her. And the prerequisite to sales mechanization is consistently generating a pipeline large enough to feed the sales team.
+
+How big of a pipeline is necessary? The table below sketches out the math for a typical inside sales rep.
+
+Parameter Value Inside Sales Quota ($k) 350 Average Selling Price ($k) 10 Sales per Year 35 Lead-to-Close Success Rate 20% Total Leads Required per ISR 175 Marketing Lead Contribution 50% MQLs per Inside Salesperson per Year 88 MQL Sales Pipeline per ISR per Month ($k) 73
+
+Inside Sales Quota - Quota varies from about $250,000 to $750,000, depending on the product, the sector and many other variables.
+
+Average Selling Price - Also called revenue per customer, this the average amount a customer pays to use the product. There is a large large variance by company and by sector, but 50% of products fall within $5-$100k, across the basket of public SaaS companies I track.
+
+Sales per Year - This a division of the quota by the ASP and is the number of sales at the ASP a salesperson must close to achieve quota.
+
+Lead-to-Close Success Rate - This is a measure of how effective the sales team is at closing leads, and also a metric of how well qualified the leads are before they reach the sales team.
+
+Total Leads Required per ISR - Given the ISR’s quota and the close rate, this figure is an estimate of the total volume of leads a salesperson requires in a year to achieve quota and close the target number of sales per year.
+
+Marketing Lead Contribution - As the Bizo and Oracle research shows, marketing contributes about 20-60% of leads. The remainder are generate by the sales teams’ outbound efforts. I’ve taken the midpoint of the survey estimates for this calculation.
+
+MQLs per Inside Salesperson per Year - Given the marketing contribution, this is the gross lead count for each salesperson to achieve quota.
+
+MQL Sales Pipeline per ISR per Month - The total value of the leads marketing will generate in a month, according to this plan.
+
+For this hypothetical example using approximate data, the marketing team must generate about $900k in pipeline per year per inside salesperson to hit plan.
+
+Before investing heavily in growing a sales team, SaaS companies should understand if the marketing team can generate sufficient leads to feed the sales team’s pipeline, which is the key to salesforce mechanization and repeatable growth.
+
+Published 2014-06-30 in SaaS Sales Marketing Best Practices

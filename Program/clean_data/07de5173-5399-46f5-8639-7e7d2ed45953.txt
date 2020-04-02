@@ -1,0 +1,85 @@
+Here at FiveThirtyEight, we spend a lot of time thinking about how to predict stuff. The science of prediction is pretty hard to get right consistently. But in keeping with the philosophy of exploring other schools of predictive thought, I decided to go to one of the classic sources of predictions — a tarot card reader — to find out what she had to say about the future, and how those predictions would stack up against rigorous statistical analysis.
+
+First, let me come clean: Getting your tarot cards read is really, really fun. My reader, who goes by Angela Lucy, has been practicing for more than 20 years. Her place of business is a kitchen table in an apartment near Union Square in Manhattan. I paid via PayPal half an hour before my reading; Lucy operates by appointment only. According to her business card, the readings are “for entertainment purposes only” — a state law, designed to target unscrupulous mediums, requires this caveat — and they imbue the therapeutic aspects of talking about stuff that’s bothering you with the mystical trappings of supernatural forces.
+
+I had four readings done: about dating, my job, my friends and a more general one. I got two kinds of testable statements from them: inferences about who I am — my past and present — and forecasts about my future. Let’s look at what’s allegedly in store for me, and what the stats have to say about those predictions.
+
+Dating
+
+You want someone who’s confident and stable. You’ve been taking some chances but they haven’t worked out. Even though you’re looking, you’re not going to succeed this summer. People around you think you’re sad and think you need someone. Your friends all think you’re lonely.
+
+So there’s a whole lot to unpack. My situation seems pretty grim. According to the tarot card draw, I’ve recently failed at a relationship, I’ll continue to fail for the foreseeable future, and my friends know it and think I’m miserable. And while it’s not exactly a reach to suppose I’m looking for someone who’s stable — who knows, maybe I’m not past that phase where I seek out an emotionally parasitic arrangement that leaves everyone involved bitter and damaged indefinitely — seeking out a confident person is a pretty good bet.
+
+According to a 2014 paper published in the Universal Journal of Psychology, the most desired characteristic of a romantic partner among both men and women is “loyalty,” which is a pretty reasonable stand-in for stability in a relationship. Going further back, a 2000 paper from the Journal of Psychology and Human Sexuality found that honesty and trustworthiness — qualities that underpin “stability” — were the attributes college students most sought in their romantic partners. And while “confidence” wasn’t looked at explicitly, we can see a few features of confidence among the most desirable attributes, such as being “friendly and sociable,” being “expressive and open” and having an “exciting personality.”
+
+What about the tarot reader’s inferences of my recent and future dating failure? In February, Mike Develin of the Facebook data team analyzed the rates of relationship formation in major American cities. Among the top 50 population centers in the U.S., New York (the metro where I live) ranked third — behind Detroit and Los Angeles — in the percentage of people who were single. New York also had the third-worst relationship formation rate, behind only San Francisco and Washington, D.C.
+
+A New York psychic can probably get a lot of wins by guessing that a single person who sits down at the table has had some dating trouble, since the city is full of single people and boasts an abysmal relationship formation rate. On the other hand, tarot card readers in Memphis or Milwaukee can probably be a little bit more bullish on the relationship front, since there’s a substantially higher rate of new relationships in those cities. A reader in Salt Lake City or Colorado Springs could almost certainly tell her subject some good news.
+
+I was also curious about how confident Lucy could be in her prediction that I would fail on the dating front for the foreseeable future. She said that I’d have a lot of work with no reward at least until the end of the summer, but I may have luck around Christmastime. I had my reading on Aug. 4, and summer’s done Sept. 21. So she was basically saying I wouldn’t be in a relationship in the next 50 days, but maybe I’d find someone between day 115 and day 143. What are the odds I’d prove her wrong?
+
+I emailed Christian Rudder, one of the founders of the online dating site OKCupid, who said it takes the typical person 198 days from joining the site to leaving because he or she finds someone. (There’s an important caveat here: Rudder cited the median time between a person’s join date and his or her most recent quit date, which matters because 14 percent of the time people leave and come back.) This number overestimates the time it takes to find someone, but it’s enough to validate Lucy’s forecast: I probably won’t find someone in the next 50 days, and I might not until after Christmas, either.
+
+Finally, let’s dive into the whole friends thinking I’m miserable thing. That prediction kicked off a whole set of worries, mostly because nobody wants to think that his friends think he’s miserable.
+
+So I decided to ask them. I sent out a quick survey to my friends, asking how strongly they agreed with various statements about my emotional and occupational states — sad, angry, successful, happy, lonely — and 15 responded. They mostly disagreed that I was sad, mostly agreed that I was happy, and were surprisingly split on whether I was lonely.
+
+The moral of the story is that everyone should send a survey to their friends because they will probably feel pretty good afterwards.
+
+Work
+
+You’re not completely comfortable at work. You’re new there. And you’re already wondering if you want to leave.
+
+Wow, this is awkward.
+
+We can find a lot of data about workers’ satisfaction, how much time people in different age brackets have spent on the job, and the percentage of millennials who are ready to leave their current gigs.
+
+So how do we figure out how many reporters like me are “completely comfortable” with their work? A 2007 paper from Tom W. Smith of the University of Chicago found 52.9 percent of editors and reporters were “very satisfied” with their jobs, which means the rest were not. This puts Lucy’s estimation that I’m not completely comfortable at about 50-50. The paper looked at 198 job categories, and ranked them in terms of job satisfaction. Here are the top and bottom five:
+
+Some 35.7 percent of reporters and editors considered themselves “very happy” overall. This puts my profession essentially in the middle of the pack when compared to the rest of the workforce — somewhere between the 50th and 60th percentile according to the study. So all things considered, reporters have it pretty good.
+
+I am new here, and Lucy’s prediction is a sensible one given my age. The Bureau of Labor Statistics has lots of data on job tenure. A report from January 2012 showed that almost half of 20- to 24-year-olds had been in their jobs for 12 months or less (I’m 23). The median tenure was 1.3 years in my cohort.
+
+As for “already wondering if you want to leave,” that goes beyond my personal gig writing words and speaks more to my generation. This prediction makes sense because I am a shiftless millennial who, in the eyes of most older generations, wouldn’t understand loyalty to my employer even if it matched my 401k. Gallup’s 2013 State of the American Workplace study found that more than one in four millennials said they would leave their jobs in the next 12 months if the job market improved, a larger share than of any other generation, according to the report.
+
+Friends
+
+Your friends are going to start getting married, and that’s an obstacle for friendship.
+
+According to the National Center for Family & Marriage Research at Bowling Green University, the median age for women getting married was 26.6 in 2012; it was 28.7 for men. For men and women with a college degree — the vast majority of my friends — the median age of first marriage was 28.4 for women and 29.9 for men. This means that I’ve still got some time before half of my friends that will get married are actually married. Many of my colleagues — some of whom are in their 30s — are probably past the point where most of their friends who will get married are hitched.
+
+For what it’s worth, as part of that survey I sent to my friends, I also asked if they had any intentions of getting hitched in the next two years. Like a dark cloud of marital bliss forming on the horizon, of my 15 friends, one said very likely, two said somewhat likely, one said neither likely nor unlikely, six said somewhat unlikely, four said very unlikely and one said impossible. So that’s 20 percent of respondents giving it better than even odds. Crap.
+
+Oddly, there isn’t a ton of data out there about the effect that marriage has on a person’s relationships with his friends. But anecdotally, I imagine it isn’t great.
+
+Person of interest
+
+You will meet a woman with brown or red hair.
+
+Lucy predicted that I’d meet a person before the end of the year who would have some sort of impact on both my personal and professional life, a woman with brown or red hair. Lucy speculated that she may likewise work in media.
+
+I’m almost certain that this will happen. Here’s how I know: We can get a ballpark estimate of the probability that I’ll meet such a person knowing only a few things. First, how many people I’ll become friends with between now and the end of the year, and second, the probability that I meet someone in New York who has brown or red hair and is also a woman. We can get a pretty solid estimate for the first number by looking over my Facebook activity feed. While it’s hardly perfect, it’s a decent stand-in for the rate at which I meet new people. I had added 17 new friends from the beginning of 2014 to the date of my reading, which breaks down to about 2.4 new friends per month. Assuming I kept up the same social clip, I could expect to add 12 new people by the end of 2014.
+
+So what are the odds that one of those people is a brown- or red-haired woman? New York City is 53 percent women, 47 percent men. For hair color, we need to make a few guesstimates because the statistics are so rough — if we use a liberal definition of “brown or red hair” to include “anything that is not blonde hair,” using the data from this somewhat specious page we’d see that 78 percent of the Northeast U.S. population falls into that category. So non-blonde females comprise a guesstimated 41 percent of the New York City population.
+
+So the probability that at least one of the 12 people I’d meet over the next five months is a member of that population is a whopping 99.8 percent. In fact, even if our assumptions about hair color were dramatically off, I’d still be pretty much guaranteed to meet someone who fit this bill. Even if only 17.5 percent of the New York City population were composed of women with brown or red hair, I’d still meet at least one person matching the prediction 90 percent of the time.
+
+So what?
+
+You don’t go to a tarot card reading to accurately predict your whole future; you go to talk about what’s bugging you. The bonus is that sometimes the reader is right. Moving forward, there’s a chance that some of Lucy’s predictions that stuck with me will register, in retrospect, as hits. This is probably going to be the result of confirmation bias, because I’m human and everybody is susceptible to confirmation bias.
+
+All told, Lucy made some pretty reliable predictions here. Part of it is, probably, that I’m a guy with some pretty basic questions on my mind — she said that almost everyone who walks in for a reading asks about love and work — and another part is probably the interpretation of predictions that are, generally speaking, pretty vague.
+
+So which were Lucy’s most bold predictions, and which were her safest?
+
+On its face, meeting a woman with brown or red hair seemed like a bit of a stretch, but when we looked at how many people out there fit this description and how fast I’m meeting them, it’s a nearly certain bet. Other safe predictions were the looking for confidence and stability in a partner, being unsuccessful at dating in New York, and being relatively new at my current job. And, of course, on a long enough timespan she’ll be right about those weddings.
+
+Other ones were more like 50-50 propositions. Predicting dissatisfaction at work was close to even odds, as was predicting that my friends think I’m lonely. A lot of them do! But on the other hand, a lot of them also pushed back on the idea that I was sad.
+
+The boldest one was thinking that I want to leave my job. Only one in four millennials are eyeing an exit, so that was a bit of a risk. And while the prediction that I won’t find someone to date during the summer was prescient, the idea that I’ll find someone around December may very well not be. It takes a while, we found, to get something going once you start looking. That’s a pretty comforting finding to come out of all of this.
+
+I could even see the effect of confirmation bias in the couple of days after I met Lucy. For instance, when I thought back on the reading, I remembered that Lucy had mentioned I would travel soon. I registered that prediction subconsciously as a hit because I’d planned a trip for the end of September. On the other hand, she also predicted that I would go boating or fishing soon, which does not really stand out on a list of activities I could conceivably do living in Jersey City.
+
+But the main thing with this whole experience is that everyone is basically acting in good faith. “I want my readings to be helpful,” Lucy said. She has a swath of repeat customers: “They do followups, apparently I’ve been accurate. They don’t think I’m just whistling ‘Dixie.’” Whether it’s the angels or just probability, the reading certainly felt helpful. And it’s also worth noting that the vast majority of the reading didn’t comprise concrete predictions, more just advice and thoughts and ideas on how to approach problems, albeit infused with a splash of the metaphysical.
+
+And most of all, the reading never claimed to be immutable. One thing that makes people a little reluctant to get a reading, Lucy said, is that it involves giving up control. But the big advantage comes from what people do afterward. In other words, maybe the success of the enterprise is based on reminding people of events that could probabilistically transpire. Maybe rather than confirmation bias being an argument against the whole process, it’s the thing that makes it work. Lucy told me that things are probably going to suck for a bit for me. If she’s right, I’m prepared for it, and if she’s wrong, then who cares? Even though predicting exactly what’s going to happen is hard, we can broadly predict a lot of things about people and the future with a little bit of reading.

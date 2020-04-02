@@ -1,0 +1,101 @@
+Trello is an awesome project management tool that makes collaboration easy and, dare I say, even fun. But this visual list tool can do so much more, whether you’re organizing work projects, family chores, travel plans, or just about anything else. Here are some ways to put Trello to use for managing your entire life.
+
+How Trello Works (and Why It’s Awesome)
+
+A Trello board is basically a web page containing lists laid out horizontally on the page so you can get a bird’s eye view of your project. Items within the lists, called cards, can be dragged and dropped onto other lists or reordered within lists.
+
+Advertisement
+
+Individual cards themselves can contain checklists, images, attachments, deadline dates, colored labels, and discussion notes from others who share the board. You can have as many boards as you want—one for “House Stuff,” for example, one for “World Domination,” and so on.
+
+You can probably see how this comes in handy. Trello cards are like sticky notes you arrange on a cork board—that is, digital sticky notes that are searchable, shareable, and come with reminders. You can also create cards via email.
+
+Trello works for me because I tend to think very visually, and images and colored labels register with my brain better than plain text. While I’m a big fan of Evernote for managing tons of information, in the past I found myself turning back to individual lists scrawled on paper and even index cards spread out everywhere to get that top-level overview of my days. Trello was a big upgrade; it’s one of those few apps that actually balances both a simple, elegant user interface and powerful, flexible features.
+
+But enough praising. Let me show you how I and other Trello users are getting stuff done with a few example boards.
+
+Use Trello to Manage Projects and Tasks
+
+Perhaps the most obvious and popular way to use Trello is as a projects and tasks manager, both for personal to-dos and team projects.
+
+Implement GTD in Trello
+
+The Getting Things Done (GTD) productivity system fits perfectly on this platform. You could have separate boards for each of your main lists (e.g., a NextActions board with lists for each context, such as @calls, and a Someday/Maybe board with lists for each category) or, as I’m using it (screenshot above), one big tasks board with the appropriate lists.
+
+For example, my board includes:
+
+Big Picture/Projects: I like to keep tabs on which projects I’m juggling, so I create a card for each one on this list, as well as choose a color for each project (so when I see a related task in one of the other lists, I know it’s part of a bigger project). I also add a card describing each colored label, because sometimes I don’t remember whether blue meant personal or green means work or whatnot.
+
+I like to keep tabs on which projects I’m juggling, so I create a card for each one on this list, as well as choose a color for each project (so when I see a related task in one of the other lists, I know it’s part of a bigger project). I also add a card describing each colored label, because sometimes I don’t remember whether blue meant personal or green means work or whatnot. Inbox: Do a brain dump and create cards for each task, then drag them onto the other lists to prioritize and organize them. You can also add due dates, a detailed description, and attach files.
+
+Do a brain dump and create cards for each task, then drag them onto the other lists to prioritize and organize them. You can also add due dates, a detailed description, and attach files. NextActions: Basically, the next things to do
+
+Basically, the next things to do Waiting: Delegated tasks or tasks on hold
+
+Delegated tasks or tasks on hold Someday/Maybe: Tasks I want to do...someday
+
+Tasks I want to do...someday Done: Once tasks are complete, drag the cards here so you can see your progress. Or just archive the card to take it off your board altogether (they’ll still be searchable in Trello)
+
+Any other lists and labels system can work too, such as using one list for “This Week” and another list for “Next Month” or labeling tasks by your “ big rocks,” as Stephen Covey called them (things like family, learning, health, and so on).
+
+Plan Your Weeks with Daily Lists
+
+You can also use Trello as a weekly planner, with lists for each day of the week. For example, in addition to my tasks board, I have a weekly posts board where I can plan out which articles and posts I need to work on for each day the next week. The colored labels relate to each client as well as each kind of writing task (e.g., the main writing focus of the day, researching, or editing).
+
+Advertisement
+
+You can build an even more advanced editorial calendar with Trello or use the weekly planner for non-writing needs: to map out next week’s meals, chores, exercise routines, homework assignments, and everything else you might list by day.
+
+If you enable the Calendar power-up (under the sidebar menu > Power-Ups), you can even see all your cards that have due dates attached to them in a monthly or weekly calendar view and use the iCalendar URL (under Power-Ups > Calendar > Settings) to sync your cards to your external calendar.
+
+Create Recurring Tasks and Log Completed Tasks
+
+If you have repeating tasks and don’t want to keep adding the same cards over and over again, connect Trello to webapp-automation service Zapier and use this recipe to schedule cards for every day, week, and month.
+
+Or you can link Trello, Zapier, and RescueTime to automatically track your time and log all your completed tasks, as RescueTime’s step-by-step directions will show you how to do. Cool, right?
+
+Integrate the Kanban Method to Manage Team Projects
+
+Kanban is a system that organizes workflow visually, often with cards organized into columns (such as “To Do,” “Doing,” and “Done”) on a board. As you can see, Trello gets its inspiration from the Kanban board and is perfect for this way of managing projects. Agile software teams in particular seem to have taken to Trello to prioritize tasks and get a handle on all phases of a project, as well as to record meeting notes and share resources.
+
+Advertisement
+
+Even if you don’t use “sprints” in your projects, you can copy this sample Agile board to your Trello account and adjust the lists (which include Next-up, Questions, Room for improvement, and Awesome Things lists) as you wish for your work projects.
+
+(By the way, the free version of Trello lets you change the background color, but to get fancy photo background support like you see in the screenshot above, you’d need Trello Gold, which is $5 a month or $45 a year.)
+
+Use Trello for Personal and Family Organization
+
+In addition to your to-dos, you can create all kinds of lists in the tool, with the cards being any sort of text. Here are a few examples.
+
+Keep a Small Team or Family Updated
+
+You can also use Trello as a team or family status/message board, as this template demonstrates. With lists for each person, each card can be a simple message from the other members, a schedule reminder, assigned task or chore, or a proposal. (You can turn on a voting power-up to enable vote counts from team members.)
+
+Advertisement
+
+Conversely, instead of a list for each person, you could have a list for each area the team needs to address: e.g., shopping lists, meeting agendas, project ideas, and so on. From the sidebar, you can drag member icons to any card to assign a person to it.
+
+Plan an Entire Vacation
+
+Some trips take a lot of work to plan, with too many details to juggle and things to keep track of. We’re big fans of using TripIt for automatically organizing our travel itineraries via email, but in the planning stage, a tool like Trello comes in very handy. You can have lists for all of your reservations, places you want to eat, sights to see, packing lists, and more. Share the board with someone you’re traveling with, and they can add their own cards as well.
+
+Advertisement
+
+When your trip is a packed one, it relieves some stress to see a day-by-day view of what you have planned to make sure you’ve got all your bases (dining options, transportation, etc.) covered, and with these lists you can easily adjust your itinerary just by dragging cards to another day or moving them up or down the list.
+
+Organize a Home Improvement Project
+
+This example from Trello organizes a remodeling project by the To Do, Doing, Done template, but you could add more specific lists, such as Contractor Estimates, Product Lists, Budget, DIY, and so on.
+
+Plan a Wedding from Start to Finish
+
+Planning the big day is a nother huge project, but Trello can keep your wedding plans visually organized. Tabitha Neal has a great guide on using Trello to plan a wedding, while Trello has a “Wedding Command Center” template that breaks tasks into lists for 12+ months, 10-12 months, 8 months, and so on before the wedding day.
+
+Plan Out a Novel or Screenplay
+
+Using index cards to map out a story line for a novel or screenplay is a classic writing technique. Trello can replace those physical index cards. The template above comes from Reddit user tleisher and you can adapt it to any work of fiction.
+
+Grab Trello Templates
+
+You can use Trello for pretty much anything you would make lists for—especially complex projects. Want even more ideas? Check out this Board of Templates (each card is a template you can copy to your account), some inspiring boards, or these templates from Trello (event planning, freelance and consulting, publishing, recruiting, and software development). Also, here’s how to use Trello like a pro.

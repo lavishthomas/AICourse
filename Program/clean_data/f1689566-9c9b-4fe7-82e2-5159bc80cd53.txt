@@ -1,0 +1,37 @@
+Nature
+
+Michael Frachetti
+
+Michael Frachetti
+
+Gilgit Baltistan Policy Institute
+
+The Silk Road was a series of ancient trading routes that spanned Asia, reaching as far as the Middle East and Europe. Self-organizing and vast, it fell under the control of various empires—but never for long. The polyglot civilizations of traders who lived along its routes are the subject of legends, and more recently the Silk Road lent its name to an infamous darknet market. Historians usually date the Silk Road from roughly the 200s to the 1400s. But a new study in Nature suggests the trade routes may be 2,500 years older than previously believed and its origins much humbler than the rich cities it spawned.
+
+Historical accounts of the Silk Road begin in China in the 100s, when the Han Dynasty used its many routes to trade with the peoples of Central and South Asia. Han soldiers protected the roads and maintained regular outposts on them, allowing wealth and knowledge to flow across the continent. Monks wandering the Silk Road brought Buddhism from India to China, while merchants brought spices, gems, textiles, books, horses, and other valuables from one part of the continent to the other. Great Silk Road cities such as Chang'an (today called Xi'an) and Samarkand grew fat on wealth from the routes that passed outside their walls.
+
+Nomad algorithm
+
+But Washington University in St. Louis anthropologist Michael Frachetti and his colleagues wondered how people traversed the many difficult stretches of the Silk Road that switchbacked through the mountains of Central Asia. Even though these routes weren't urban or under the protection of soldiers, people used them all the time to pass between Asia and the Middle East. We can see where these travelers camped at over 600 archaeological sites in the mountains. Writing in Nature, Frachetti and his colleagues describe how they had to devise a new approach to track the routes people took between these camps.
+
+Further Reading 2,000-year-old toilet paper gives us a whiff of life on the Silk Road in China The problem was that previous scholars assumed people took routes that resembled what a "least cost" algorithm would draw—essentially the easiest path. This is "largely effective in lowland zones where economic networks and mobility between urban centers are consistent with ease of travel," the researchers write in their paper. But those algorithms won't work in the mountains, on uneven terrain that was often barren.
+
+To predict the Silk Road's high-elevation routes, they argue, means following in the footsteps of nomadic peoples who trekked across these mountains with herd animals for thousands of years. "More than 50 years of research concerning nomadic adaptive strategies in Asia's highland elevations suggests that 'ease of travel' was probably not the dominant factor dictating mobility across the mountains," they explain.
+
+To recreate this treacherous part of the Silk Road, Frachetti and his team adapted an algorithm that's used to measure how water flows across landscapes. Focusing on high-elevation parts of a map of mountains in Central Asia, they added satellite data about which areas have the greenest pastures throughout the year. The resulting "pastoralist participation" model assumed that nomads' routes would naturally "flow" into areas with lush vegetation.
+
+The results were encouraging. "After 500 iterations, or the modeled equivalent of 20 human generations, flow aggregations form a near-continuous geography of 'pathways' that discretely connect over 74% of highland Silk Road sites [at 750 m to 4,000 m]." When they compared their algorithmically-generated pathways with a map of 618 known Silk Road camps in the mountains, they had actually joined 74% of the camps with possible routes.
+
+A new history
+
+Over a century ago, the archaeologist Aurel Stein made a similar discovery by retracing the route of a medieval Buddhist monk named Xuanzang. The monk's seventh-century memoir of traveling the Silk Road was the basis for the celebrated novel Journey to the West. Instead of using algorithms, Stein simply brought a small band of hardy companions, including his trusty dog Dash. Together, they walked the same paths that Xuanzang had. Along the way, Stein discovered that the monk's journey was no legend—countless medieval travelers had left ancient Buddhist graffiti along the mountain routes.
+
+But Stein's discoveries, recorded in his bestselling 1904 travelogue Sand-Buried Ruins of Khotan, were of merely one route on a Silk Road that encompassed many, many tributaries and byways. Like other archaeologists, Stein mostly focused on the lost cities of the lowlands.
+
+But Frachetti and his team have done work that sheds light on the earliest origins of Silk Road travel. "At least in the highlands, the early geography of movement, connectivity, and interaction was not solely driven by urbanism," they write. Instead, it was driven by sheep herders. We know from previous research that nomads were roving the mountains of Central Asia with their flocks starting in 2,500 BCE. As their routes became more established, these nomads no doubt began trading with each other and the sedentary communities along their paths.
+
+In all likelihood, these high-country nomads blazed a trail that was later formalized by Silk Road camps we know from recorded histories like Xuanzang's. Perhaps we shouldn't be surprised that one of the world's longest-running, decentralized trade networks was established by nomads. The Silk Road was, in a sense, the exact civilization you'd expect nomads to build. Centered around the ideal of travel, shaped by tribes, nations, and empires from across Eurasia, the Silk Road thrived on movement and change. Like the nomads who founded it, the Silk Road's greatest strength was an orderly flexibility. And it endured longer than most of the world's empires.
+
+Nature, 2017. DOI: 10.1038/nature21696
+
+Listing image by Gilgit Baltistan Policy Institute

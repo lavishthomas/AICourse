@@ -1,0 +1,105 @@
+Adding a solid-state drive (SSD) to your computer is simply the best upgrade at your disposal, capable of speeding up your computer in ways you hadn't thought possible. But as with any new technology, there's plenty to learn. Here's everything you should know about your SSD, whether you're interested in upgrading or just like to know the ins and outs of your hardware.
+
+Blast from the past is a new weekly feature at Lifehacker, in which we revive old, but still relevant, posts for your reading and hacking pleasure. This week, we're updating our complete guide to solid-state drives, making it easier than ever to find everything you need to know about the best upgrade you can make.
+
+What Is a Solid-State Drive (SSD)?
+
+A solid-state drive (SSD) is a data storage device for your computer. In everyday use, it provides the same functionality as a traditional hard disk drive (HDD)—the standard for computer storage for many years. In fact, you wouldn't even know whether you're using an SSD or HDD if it wasn't for the differences in how they operate. HDDs store their data on spinning metal platters, and whenever your computer wants to access some of that data a little needle-like component (called the "head") moves to the data's position and provides it to the computer. Writing data to a HDD works in a similar fashion, where parts are constantly moving. SSDs, on the other hand, don't move at all. They store their data in blocks. When the computer wants some of that data, the SSD just says "okay, here it is." This is a simplified explanation, of course, but you might have noticed that the SSD's process seems a bit more direct and efficient. It is, and speed is the primary advantage of an SSD over a traditional HDD. This makes an SSD the single best upgrade for your computer if you're looking for a way to make it operate faster.
+
+A new SSD can speed up your computer in several ways:
+
+Boot times will be significantly reduced.
+
+Launching applications will occur in a near-instant.
+
+Saving and opening documents won't lag.
+
+File copying and duplication speeds will improve.
+
+Overall, your system will feel much snappier.
+
+SSDs have their downsides, however. For starters, an SSD won't hold as much data per dollar as an HDD. For the same $100, you could buy either a 120GB SSD or a 2TB HDD. That means you're paying around 83 cents for every gigabyte on an SSD versus five cents for every gigabyte on your HDD. That's a huge difference in cost, and the gap only grows as you compare larger drives. Luckily, it's not an all or nothing proposition. In the days of cloud storage and streaming media, SSDs provide plenty of space for most people. For those who need more storage than is affordable with an SSD, SSDs and HDDs can coexist on the same system (and we'll discuss those in depth a bit later), so you can enjoy the speed benefits of an SSD without sacrificing on storage.
+
+Advertisement
+
+In this post, we're going to walk you through everything you need to know about getting started with your first solid-state drive, from buying the one that suits you best to getting it set up and running most efficiently in your computer. We'll even take a look at a few advanced techniques for those of you who are ready to do even more with your super-fast storage device.
+
+How to Choose the Right SSD
+
+Choosing the right solid-state drive for you isn't difficult, but the process can be a little overwhelming with so many brands available. In this section, we'll show you what you want to look for when choosing a drive and offer up a few recommendations that have worked well for us.
+
+Advertisement
+
+All SSDs are fast, and will feel like a great upgrade from a HDD, but when you're spending significantly more money on a drive that provides less storage you want it to be one of the best. You also want a reliably piece of hardware, and these are both fairly hard to gauge if you have little experience with the technology. Here are the qualities you want to look for in an SSD when you're shopping around:
+
+High maximum speeds : Max read speeds are around 400MB/second, and max write speeds are around 300MB/sec (note: that's megabytes per second). These numbers do not have to be exact. A little faster or slower won't make a significant difference.
+
+: Max read speeds are around 400MB/second, and max write speeds are around 300MB/sec (note: that's megabytes per second). These numbers do not have to be exact. A little faster or slower won't make a significant difference. Good real-world speeds : The SSD manufacturers generally will not provide real-world read and write speeds, as they're guaranteed to be slower than the maximums. Fortunately, many online reviews contain speed test results. On Amazon, you can often find users who've posted screenshots of their test results (here's an example). Seeing this data can often be discouraging because the real-world rates are quite a bit lower. If the test results reveal read and write speeds of about 2/3 of the maximum (in the sequential and 512KB block tests) you're good to go. If you apply this to our maximum speeds above, that comes out to read speeds of about 265MB/sec and write speeds of about 200MB/sec. If you want to figure out if a more expensive SSD is worth the money, its real-world test speeds will be higher than 2/3 of its reported maximum capabilities.
+
+: The SSD manufacturers generally will not provide real-world read and write speeds, as they're guaranteed to be slower than the maximums. Fortunately, many online reviews contain speed test results. On Amazon, you can often find users who've posted screenshots of their test results (here's an example). Seeing this data can often be discouraging because the real-world rates are quite a bit lower. If the test results reveal read and write speeds of about 2/3 of the maximum (in the sequential and 512KB block tests) you're good to go. If you apply this to our maximum speeds above, that comes out to read speeds of about 265MB/sec and write speeds of about 200MB/sec. If you want to figure out if a more expensive SSD is worth the money, its real-world test speeds will be higher than 2/3 of its reported maximum capabilities. Multi-Level Cell (MLC) NAND flash memory : When shopping for SSDs, you'll run into two kind of memory: multi-level cell (MLC) and single-level cell (SLC). The primary difference is that MLC memory can store more information on each cell. The advantage here is that it is cheaper to produce, and SLC is often cost-prohibitive for the average consumer. The downside is a higher rate of error, but an SSD with error-correcting code (we'll discuss this momentarily) can help prevent these problems. (You can read more about MLC here.)
+
+: When shopping for SSDs, you'll run into two kind of memory: multi-level cell (MLC) and single-level cell (SLC). The primary difference is that MLC memory can store more information on each cell. The advantage here is that it is cheaper to produce, and SLC is often cost-prohibitive for the average consumer. The downside is a higher rate of error, but an SSD with error-correcting code (we'll discuss this momentarily) can help prevent these problems. (You can read more about MLC here.) SATA III Support : Most SSDs use the Serial ATA (SATA) interface, but not all use the latest version and this can limit the performance of your SSD. This is because SATA I can transfer data at 1.5 Gbps, SATA II at 3.0 Gbps, and SATA III at 6 Gbps. To ensure your SSD has enough bandwidth to transfer data as quickly as possible, you want it to be compatible with SATA III. You'll also want to make sure your computer is SATA III compatible as well. If not, SATA III-capable drives will still work as all versions of SATA are backwards-compatible. Just know that you may not get the most out of your SSD if your computer doesn't support the most recent SATA specification.
+
+: Most SSDs use the Serial ATA (SATA) interface, but not all use the latest version and this can limit the performance of your SSD. This is because SATA I can transfer data at 1.5 Gbps, SATA II at 3.0 Gbps, and SATA III at 6 Gbps. To ensure your SSD has enough bandwidth to transfer data as quickly as possible, you want it to be compatible with SATA III. You'll also want to make sure your computer is SATA III compatible as well. If not, SATA III-capable drives will still work as all versions of SATA are backwards-compatible. Just know that you may not get the most out of your SSD if your computer doesn't support the most recent SATA specification. ECC memory : Error-correcting code (ECC) memory does what the name implies: it provides your SSD with the ability to detect and correct common types of data corruption so you don't end up with unusable data on your drive. An SSD with ECC memory is more reliable. (You can read more about ECC memory here.)
+
+: Error-correcting code (ECC) memory does what the name implies: it provides your SSD with the ability to detect and correct common types of data corruption so you don't end up with unusable data on your drive. An SSD with ECC memory is more reliable. (You can read more about ECC memory here.) A history of reliability: Reliability is a very hard thing to gauge, but there are a few tricks you can employ to get a good idea. First, look for an SSD that is made by a manufacturer who has been in the business for a while (I like OCZ and Crucial). The technology is fairly new, so you don't want to go with just any company who has recently decided to jump on the solid-state bandwagon. Additionally, look at the rating each SSD receives in online shopping reviews. If it is rated a 3.5 out of 5.0 or higher, this is often points to a reliable drive. When the ratings are lower, you may want to look elsewhere. Even reliable companies make unreliable SSDs sometimes, so keep an eye on reviews to avoid buying a lemon.
+
+Which SSDs meet these criteria? This changes over time, so we're going to defer to our friends at the Wirecutter, who will keep their SSD buying guide up to date as things change. It's not an end-all-be-all suggestion, so if you want to shop around and weigh your options, keeping the criteria mentioned in this section in mind will help you find a good, reliable drive.
+
+How to Install Your SSD
+
+Installing your SSD will be different depending on your computer, so we highly recommend looking up a guide for your specific model of laptop or desktop. That said, if you have a desktop, our guide on building a computer should at least steer you in the right direction.
+
+More important is figuring out where all your data will go. Most HDD owners are accustomed to having at least 500GB of storage, if not upwards of 2TB. Downsizing to 120GB or 240GB—the most affordable and popular SSD sizes—can be a tough job. If you're using a desktop, you can use your SSD for your operating system and another hard drive for your data. If you're using a laptop, you can either try to fit everything on the SSD, or use an external drive for the data that won't fit (like music and movies).
+
+Once you've figured out a plan, it's time to actually switch to the SSD. Here are your two options for doing so:
+
+Option One: Start Fresh and Copy the Essentials
+
+When upgrading to an SSD, the most obvious option is starting fresh with a new install of your operating system. While this might require a little more of your time, you'll have everything configured perfectly when you're done. Here are the steps you need to follow:
+
+Install your operating system of choice on the new SSD. Copy the contents of your home folder from your previous HDD to your new SSD. If you can't fit everything, start with the essential system files and settings, then migrate the media you have room for. Go through the list of applications on your old HDD and install them on your new SSD. Run any updates, or save yourself some time by downloading the latest versions from their respective sources. Windows and Linux users can employ Ninite to get the latest versions of popular free software titles for their machines. OS X users can head to the Mac App Store to download the latest versions of their previous purchases. Copy any important documents (or other files) you have room for on your SSD. Put the old HDD in an external enclosure (like these), if you haven't already, and keep it handy for a month or two. This will help you see what files you use often and which ones you don't. If you find you're using something often, copy it to the SSD. If not, leave it on the external HDD for occasional access.
+
+Again, this method requires more work but also handles the task of cleaning up your system at the same time. It may be more tedious, but it is an efficient way to solve two problems at once.
+
+Option Two: Migrate Your Data from Your Old Hard Drive
+
+If you don't want to start with a fresh installation of your operating system, you can always migrate your OS (and other data) to your new SSD. Chances are, however, that you're not going to be able to fit everything. That means you're going to have to start deleting files on your main drive until it is small enough to fit on your SSD. Because you don't want to lose that data forever, start by making a backup of your drive. Once you have a complete backup, you're ready to get started.
+
+Advertisement
+
+Windows users can follow our SSD migration guide for the complete instructions. It comes across as a complex process, but shouldn't take too much time. You also won't have to reinstall Windows. Mac users can follow our MacBook SSD installation guide. While the guide focuses on installing an SSD in a MacBook Pro's optical disc drive bay, if you skip to the second half you'll find instructions on performing a data migration as well.
+
+If You Don't Have a Second Hard Drive: Use an External Drive and the Cloud to Combat Storage Constraints
+
+Regardless of the size of your SSD, it's never going to beat the storage capacity of a HDD. If you don't have a secondary hard drive installed in your computer, you're going to need to store your excess data elsewhere. An external HDD and the cloud are two of the best ways to get around the storage limitations of your SSD.
+
+Advertisement
+
+Unless you have enormous collections, an SSD with a 240GB (or higher) capacity should be able house your operating system, documents, music, and photos without issue. It's when you get into the business of music creation, video editing, professional photography, and other work that produces large files will you regularly run into a storage ceiling. An external drive is often the easiest solution, so you'll want to pick up one with a large-enough capacity to suit your needs. If you're looking for a portable drive, the Seagate GoFlex series is worth a look as it not only works with USB 3.0, but can be connected to other ports like Firewire 800 and Thunderbolt by way of adapter. This also provides you with some assurance of compatibility with future technology.
+
+When an external drive won't do the trick, and you really need to downsize your space-hungry media collection, the cloud can come to the rescue. Most of the best solutions come from Google because they're both simple and free. Google Play Music allows you to upload your entire audio collection, and doing so will allow you to delete any songs you rarely listen to (or at least move them to an archival hard drive) while still maintaining direct access to them from anywhere you have an internet connection. Picasa can do the same thing for your photos. (Personally, I prefer Flickr, but it isn't free.) When it comes to other data, you have plenty of options. Google Drive is great for various files, Simplenote for text, and Evernote for rich text and PDFs. It doesn't matter so much which services you use, but rather that you start making regular use of the cloud if you have heavy data needs that can't be adequately served by an external or secondary internal drive.
+
+Optimize Your SSD for Optimal Performance
+
+For the most part, there isn't much you have to do to optimize your SSD. It's already really fast and should do it's job without any adjustment. That said, you can achieve better performance and longevity with a few adjustments.
+
+Enable TRIM
+
+The very first thing you should do after installing and setting up your SSD is enable TRIM. What is TRIM, exactly? Wikipedia offers a concise explanation:
+
+TRIM is a command [that] allows an operating system to inform a solid-state drive (SSD) which blocks of data are no longer considered in use and can be wiped internally.
+
+Basically, it prevents your SSD from being overused. Just like any component, SSDs have limited lifespans. TRIM helps keep your solid-state disk alive a bit longer, so you want to have it enabled if your drive supports it. Here are instructions on how to find out and enable TRIM in Windows and OS X.
+
+Don't Defragment Your SSD
+
+When data is stored on a drive, it often ends up in various parts that aren't all in the same place. This is called data fragmentation. It slows down HDDs because the drive's head needs to move from place to place to read all the little bits of information. This can be fixed using a process called defragmentation, which is built into recent versions of Windows (7 and higher) and OS X. Because the location of data on an SSD is pretty much irrelevant, as it can quickly access any of it regardless of where it is, defragging a SSD is not only unnecessary but bad for the drive as well. SSDs have a limited lifespan that's determined by how much they're used. While most will last as long as you'd ever need, defragmenting the disk involves reading and writing data unnecessarily and those actions will shorten your SSD's lifespan. OS X and Windows should know when you're using an SSD and turn off defragmenation automatically. That said, it's important to remember not to defragment your solid-state drive. It provides no real benefit and can shorten its life.
+
+Advertisement
+
+For more tricks on getting the most from your SSD, check out our guide to taking full advantage of its speed. Now that you have an SSD, certain things—like Hibernation—are much faster than they once were, and are really worth using.
+
+You should now be well on your way to a better, faster computer with your solid-state drive. Most of us here at Lifehacker have been enjoying the benefits of SSDs for a few years now and can't imagine going back to a traditional hard drive. Despite the limitations and the cost, they're one of the best investments you can make. We hope you enjoy your SSD as much as we're enjoying ours!
+
+Photos by Z-River (Shutterstock), Friedrichan (Shutterstock), and Amazon.

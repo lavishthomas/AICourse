@@ -1,0 +1,35 @@
+An open source search engine that will help you learn pretty much anything
+
+A team of developers just launched an open source search engine that will show you how to learn pretty much anything. It works by clustering resources into “mind maps.”
+
+Here’s part of their mind map for web development:
+
+Their web development map
+
+They have mind maps with resources for learning a wide range of subjects and skills, such as philosophy:
+
+Some of their mind maps are more fleshed-out than others, but all of them are under development by the open source community.
+
+You can check out their live app or star their open source project on GitHub.
+
+Here are three other links worth your time:
+
+Mastering Chrome Developer Tools: next level front-end development techniques (6 minute read) How to scrape websites with Python and BeautifulSoup (8 minute read) Node.js child processes: everything you need to know (13 minute read)
+
+Thought of the day:
+
+“I think it’s a new feature. Don’t tell anyone it was an accident.” — Larry Wall
+
+Funny of the day:
+
+Webcomic by Saturday Morning Breakfast Cereal.
+
+Study group of the day:
+
+freeCodeCamp Sarajevo
+
+Happy coding!
+
+– Quincy Larson, teacher at freeCodeCamp
+
+If you get value out of these emails, please consider supporting our nonprofit.

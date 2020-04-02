@@ -1,0 +1,35 @@
+Advertisement
+
+If you’re a novice programmer, the path ahead of you may seem daunting. Boot camps are tough, and you don’t feel at home in a programmer’s den. But there is one place on the web you can go to try out your developing skills for the sheer fun of it.
+
+Glitch is a playground for coders of all kinds. Through it, you can make your own app or remix any of the existing projects on the site. You can be creative without the fear of breaking anything — and there are veteran coders who are standing by to help you do it.
+
+It’s an open and free collaborative coding site that’s basically a miniature programming school.
+
+Make Your Own Stuff (or Break Something)
+
+Glitch gives you all the tools to instantly create, remix, edit, and host an app, bot, or site. You can invite collaborators who can simultaneously edit the code with you. Right now, the programming sandbox only supports Node.js.
+
+The introductory video highlights some of the key features:
+
+Advertisement
+
+Don’t start your project from scratch. You can begin with a blank slate, but you can also take a copy of a working public app or site and tweak it to your needs.
+
+You can begin with a blank slate, but you can also take a copy of a working public app or site and tweak it to your needs. All the tools are available in one place. There is an online editor and a backend server so you don’t need to download anything. Apps and bots can be deployed from Glitch itself.
+
+There is an online editor and a backend server so you don’t need to download anything. Apps and bots can be deployed from Glitch itself. Collaborate in real time without worrying about version control. The method is a lot like Google Docs. Invite anyone from the community and work together on live projects as Glitch handles all the version control and your project is automatically updated.
+
+The method is a lot like Google Docs. Invite anyone from the community and work together on live projects as Glitch handles all the version control and your project is automatically updated. Import and export from GitHub . You can import any public app on GitHub into Glitch. Also, download your source code as a ZIP file.
+
+. You can import any public app on GitHub into Glitch. Also, download your source code as a ZIP file. Run your app for the world. Turn your practical project into something everyone can use.
+
+Go Beyond “Hello World”
+
+My first impression is that Glitch is a friendly place to learn to code at your own pace. The best thing about it is that it’s not a toy. The team behind it says:
+
+“Glitch isn’t a ‘dumbed down’ version of a real developer environment — your Glitch app runs on the exact same cloud infrastructure and Node.js engine that the best developers use to run their apps. We’ve just made it easier for you to get started.”
+
+It can be an ideal place to create a quick demo project and showcase its potential before you throw it out into the world. The ability to “remix” any project gives you a unique way to practice your coding skills 7 Unique Ways To Practice Your Coding Skills 7 Unique Ways To Practice Your Coding Skills Let's repeat -- there's no age to learning. Once you are on that path, you just have to keep practicing. And today there are more ways than one to sharpen your coding chops. Read More and then there are the collaborators who can handhold you through the early stumbles.
+
+What do you think about Glitch? How does it compare to Treehouse and Codecademy? Is the design enough to remove your fear of coding?

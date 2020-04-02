@@ -1,0 +1,441 @@
+Growth hacking is one of the most talked-about terms in the startup and marketing worlds. Some see it as a revolutionary way of shaping and accelerating startup growth, while others consider it a fancy word for marketing. I used to fall into the latter camp, but Neil Patel’s guide to growth hacking helped me see how a growth hacker’s job differs from a traditional marketer’s job.
+
+Here’s how Patel defines growth hacking:
+
+Growth hackers, using their knowledge of product and distribution, find ingenious, technology-based, avenues for growth that sometimes push the bounds of what is expected or advised.
+
+How does this differ from marketing? While traditional marketers have a broad focus ranging from building out a marketing team to defining an overall marketing strategy, growth hackers focus on one thing and one thing only: growth. But this doesn’t mean that marketers can’t be great growth hackers.
+
+Some say that growth hacking roles render marketers irrelevant to startups because they require technical skills that traditional marketers don’t have––a sentiment that has people buzzing about the need to become a technical marketer.
+
+But marketers who can’t program are perfectly poised to take on growth-centric roles as long as they have a technical mindset; in other words, they should possess a deep understanding of technology––how people interact with it, the latest developments and trends, how different tools and platforms integrate with one another and what data is important for making smart decisions.
+
+These growth hackers will most likely want a programmer on their team, but they don’t need to be one.
+
+Luckily, there are many new tools that empower technically-minded marketers to be less dependent on developers to do complex analyses, link independent tools together or build and test landing pages. Sean Ellis, who coined the term “growth hacker” in 2010, talked about a few tools that are leveling the playing field by allowing marketers to do the work of an engineer without being one themselves. His article inspired me to dig deeper and find more great tools that non-coders can use to generate growth for their company.
+
+So here it is: your epic list of tools for marketers with a technical mindset but limited coding chops.
+
+Traffic Acquisition
+
+Colibri shows you where your customers are engaging online so that you can insert yourself into relevant conversations.
+
+Top Benefits:
+
+Diversify your traffic and improve SEO by participating in the right conversations across the web
+
+Integrates with Google Analytics
+
+Pricing: 14-day free trial, then plans starting at $95/month
+
+Pay With A Tweet allows you to give people access to your content or product once they’ve tweeted or posted about it. This is a great way to go viral in the early stages of a product launch, or to make sure your content or product spreads further across the web over time.
+
+Top Benefits:
+
+Invite people to pay with a post across major social media channels, including: Facebook, LinkedIn, Google+, Xing and Vkontakte
+
+Measure traffic, clicks, sales and geo data
+
+Customization to fit your brand/website
+
+Pricing: Basic free plan, then paid plans starting at $19.99/month
+
+Click to Tweet is a free, easy way to promote and advertise your business or product on Twitter. I used this in a recent product launch by asking new users to share the product on Twitter and got amazing results.
+
+Top Benefits:
+
+Analytics telling you how many times your Click to Tweet link has been clicked, and then how many times the link within your pre-written tweet has been clicked on
+
+Super easy to set up and can be used anywhere (landing pages, emails, websites, social media posts, etc.)
+
+Pricing: Free
+
+Nimble is a relationship management tool that combines all your contacts, email, social signals, activities and follow-ups from everywhere you work so that you can maximize relationships to grow your business.
+
+Top Benefits:
+
+Manage 1000s of contacts seamlessly across multiple channels
+
+Get notified about meaningful events like birthdays and job changes
+
+See who’s talking about you so that you can reach out and engage at the right time
+
+Pricing: 14-day free trial, then plans starting at $15/month
+
+MixRank helps you find new customers by zeroing in on profitable sales leads and traffic sources with real-time intelligence from its digital advertising database.
+
+Top Benefits:
+
+Find thousands of new trafﬁc sources and zero in on the placements that are most likely to deliver your target audience
+
+Monitor the competition’s split tests and see which creatives, ad copy, and landing pages are the most effective
+
+Identify advertisers who are bidding against you and learn from their successful campaigns
+
+Pricing: prices not listed on their site
+
+Twighlighter grown your traffic by making sharing easy. With Twilighter, visitors to your website or blog can easily highlight any part of your content and share it immediately on Twitter.
+
+Top Benefits:
+
+Twilighter highlights the most-shared content on your site/blog so that new visitors see it immediately
+
+Easy, 47-second setup
+
+Pricing: Free
+
+Lead & Customer Acquisition
+
+Hello Bar is a delightfully simple tool that allows you to insert a call-to-action button within a horizontal bar at the top of your site. You create your bar and CTA around one of three goals: drive traffic, collect emails or point visitors to your social media channels.
+
+Top Benefits:
+
+Track the number of clicks each header bar receives
+
+Specify which pages your Hello Bar should/should not be shown on and program the bar to display only during certain dates
+
+Customize the color of the header bar and button so that they fit with your site design
+
+Pricing: Free
+
+Bounce Exchange helps you turn abandoning site visitors into customers by inviting them to convert right before they leave your site.
+
+Top Benefits:
+
+Exit Intent technology lets you capture information from visitors who are about to abandon your site (and possibly never return)
+
+A/B test your CTAs
+
+10 second installation
+
+Pricing: lowest plan offers customized pricing based on visitor volume, then plans start at $3.9K/month
+
+SessionCam allows you to watch recordings of your website visitors (including mobile) so that you can identify problem areas and increase conversion.
+
+Top Benefits:
+
+In addition to session recordings, get access to heatmaps to get more information about user behavior on your site
+
+Build conversion funnels to assess drop-off between form pages
+
+Easily integrate SessionCam with other third party solutions like Google Analytics, Campaign Monitor, CheetahMail and Olark
+
+Pricing: basic free plan, then pricing for paid plans upon request
+
+KISSmetrics gives you deep customer knowledge by connecting all of your data to real people.
+
+Top Benefits:
+
+Identify exactly who’s in each step of your funnel so that you can reach out to them in a more meaningful way
+
+Understand how customer behavior changes over time with cohorts
+
+Super easy setup process
+
+Pricing: 14-day free trial, then plans starting at $150/month
+
+CrazyEgg shows you how visitors are behaving on your website: where they’re clicking, where they stop reading or watching, how specific segments of traffic behave differently and more.
+
+Top Benefits:
+
+Answer your major questions about how users behave on your site without running dozens of a/b tests
+
+Know which messages to make prominent (and which to tweak or get rid of altogether)
+
+Super easy to install
+
+Pricing: 30-day free trial, then plans starting at $9/month
+
+Totango empowers you to drive website visitors and users to experience your product in ways that influence conversion.
+
+Top Benefits:
+
+Identify hot prospects by separating the “true evaluators” from the average free user
+
+Get the information you need to make smart follow-up calls or emails
+
+Send the sales team daily emails with the status of ongoing trials
+
+Pricing: Free trial, then pricing plans available on request
+
+Unbounce is the landing page builder for marketers that lets then build, publish and A/B test landing pages without I.T. Unbounce empowers marketers to act independently from technical teams, improving their efficiency and their ability to generate sales.
+
+Top Benefits:
+
+Produce high-converting landing pages without dealing with I.T. bottlenecks
+
+Drag and drop interface makes it super-easy to customize landing pages
+
+Create a form with no technical knowledge or HTML
+
+Pricing: 30-day free trial, then plans starting at $49/month
+
+Optimizely helps you increase engagement, interactions and conversions on your website by making a/b testing super easy.
+
+Top Benefits:
+
+Conduct a/b and multivariate tests on your website without changing the code yourself
+
+Be able to execute all of your website optimization ideas in a matter of minutes
+
+Track key metrics that tell you how these changes are performing
+
+Pricing: 30-day free trial, then plans starting at $17/month
+
+Like Optimizely, Visual Website Optimizer simplifies a/b testing and makes it possible for non-coders to run tests on their site.
+
+Top Benefits:
+
+Set up conversion goals for each a/b test so that you know exactly which version gets you the results you want
+
+Supports a/b and multivariate testing
+
+Use split URL testing to test different versions of your landing pages
+
+Pricing: 30-day free trial, then plans starting at $49/month
+
+Clicktale is a customer experience analytics tool focused on website optimization, conversion analysis and usability research. People use ClickTale to analyze the performance of their online forms, keep visitors engaged with page content and lead visitors through the conversion process.
+
+Their tagline reads: “Created by marketers for marketers”.
+
+Top Benefits:
+
+Watch session playbacks for individual users on any device, use heatmapping technology to improve customer experience and increase conversion rate with form analytics
+
+Aggregate hundreds of thousands of visitors browsing sessions or zoom in on individual visitor
+
+Easy setup (just copy and paste the javascript code onto your site)
+
+Pricing: Basic plan is free, then premium plans tailored to each company’s needs
+
+Get the most relevant, actionable data from your Google Analytics accounts sent to your inbox daily (no more logging in required!).
+
+Top Benefits:
+
+Reports are automatically generated and emailed to as many inboxes as you want
+
+Works on all devices
+
+Pricing: join the beta for $29/month
+
+Zapier is a great example of a tool that makes it possible for nearly anyone to do a job that traditionally requires developers. It lets you connect the web apps you use, making it easy to automate tedious tasks.
+
+For example, you can use Zapier to create a new Salesforce lead every time someone fills out a form on your website, or you can use it to automatically add Eventbrite attendees to MailChimp.
+
+Top Benefits:
+
+Do work typically relegated to developers in a matter of minutes
+
+Ability to connect 300+ apps
+
+Pricing: free plan, and then paid plans starting at $15/month (depending on how many “zaps” you want to create and how often you want them to run)
+
+Gumroad helps small businesses and creators––including independent writers, designers, game developers, musicians, artists and anyone in between––sell their products online without having to set up a full-blown online store.
+
+Top Benefits:
+
+Easily sell products in the form of a wide range of file types, like: HTML, iBook, PDF and MP4.
+
+Create covers for your products in order to elevate their look
+
+Connect Gumroad to social accounts, including SoundCloud
+
+Pricing: No hosting or setup fees, but they do take a 5% fee plus 25 cents per transaction
+
+Market Research & User Feedback
+
+Qualaroo allows you to survey your website visitors in order to understand what they are looking for and why they take certain actions on your site.
+
+Top Benefits:
+
+Qualaroo reveals the why, not just the what or how––Uncover hidden objections, identify valuable features and improve the conversion rate of site visitors to leads
+
+Survey desktop or mobile visitors
+
+Pricing: 14-day free trial, then plans starting at $63/month
+
+Consumer Barometer gives e-commerce companies the information about online consumers they need to make more informed business decisions.
+
+Top Benefits:
+
+No signup required. Simply go to the website and start clicking
+
+Friendly, attractive user interface with data that you can apply immediately
+
+Pricing: Free
+
+Typeform humanizes online surveys with a beautiful, fun and interactive way to ask and answer questions.
+
+Top Benefits:
+
+A user experience that makes your questions look & feel great everywhere
+
+Make your questions fit your identity and turn them into brand ambassadors
+
+Gain insights with integrated analysis tools and reveal hidden trends and patterns
+
+Pricing: Free plan, then Pro at $25/month
+
+Polldaddy allows you to create polls and surveys so that you can get customer feedback or conduct market research.
+
+Top Benefits:
+
+Collect responses on your website, via email or on mobile
+
+Powerful reporting and filtering capabilities
+
+Highly customizable
+
+Pricing: Basic free plan, and then paid plans starting at $200/year
+
+Olark is a chat application that lets you connect with site visitors. It will tell you who is on your site, including location, what they’re looking at on your site, where they’ve been and time on site so that you can connect with them in a more meaningful way.
+
+Top Benefits:
+
+Targeted Chat lets you set rules to interact only with customers who go to a specific page or perform specific behaviors
+
+Integrates with the major CRMs, including Salesforce, Zendesk, Desk.com and Highrise, so that you can keep track of correspondence with all of your leads and customers
+
+Match your design perfectly with customization features
+
+Pricing: 14-day free trial, then paid plans starting at $15/month
+
+Email Marketing
+
+ListBuilder is a free way to collect the email addresses of your site visitors. It was created by Noah Kagen’s company AppSumo (Noah was the first marketing director at Mint and runs an excellent marketing blog).
+
+Top benefits:
+
+Works on desktop AND mobile
+
+“Smart popup mode” prompts guests to enter their email once you have their full attention
+
+Integrates with other email services like Aweber and Mailchimp
+
+Price: Free
+
+Vero helps you send emails based on people’s behavior on your website. For example, you can send an email a few hours or days after someone abandons their checkout cart. Its value prop is “Personalize and test all your campaigns, without IT.”, so it really is made for a growth hacker who doesn’t code.
+
+Top benefits:
+
+Send highly-targeted emails with segments based on your contact’s past behavior.
+
+A/B test your emails
+
+Create automated, user-triggered email campaigns
+
+Pricing: Free 14-day trial, and then plans starting at $99/month
+
+MailChimp has been one of the most popular email marketing tools for years, especially with companies who are just getting started with list building. Recently MailChimp has integrated more advanced features that make it a welcome addition to a Growth Hacker’s toolkit.
+
+Top Benefits:
+
+Send targeted emails based on website activity
+
+Get recommendations for optimal send-times based on past emails’ performance
+
+Segment your mailing lists
+
+AWeber is an advanced email marketing tool used by over 120k small businesses, bloggers and entrepreneurs around the globe.
+
+Top Benefits:
+
+Over 600 templates that will speed-up your email creation process
+
+Send a sequence of autoresponders to new signups
+
+Access key metrics about your emails’ performance
+
+Pricing: $1 trial, then paid plans starting at $19/month
+
+SendGrid is the world’s largest Email Infrastructure as a Service provider, sending emails for over 150k companies.
+
+Top Benefits:
+
+Highly scalable: send 100s or billions of emails a month without a problem
+
+Actionable real-time analytics for your emails
+
+Maximizes email deliverability so that more of your emails get read
+
+Pricing: Plans starting at $9.95/month
+
+Marketers use sendwithus to manage and track email-driven revenue and engagement.
+
+Top Benefits:
+
+Manage and update transactional emails (emails generated by your application and sent to users) without involving designers or developers
+
+A/B test your transactional emails
+
+Create drip email campaigns
+
+Pricing: Free Hacker Plan, then plans start at $79/month
+
+Customer.io allows you to send targeted messages to website visitors or mobile app users based on what they do (and don’t do).
+
+Top Benefits:
+
+Offers flexible segmentation, comprehensive reporting and a/b testing capabilities
+
+Use an event-triggered email to send a payment receipt or other transactional email.
+
+Track conversions triggered by your messages
+
+Pricing: Free basic plan, then paid plans starting at $50/month
+
+Klaviyo hooks into your customer data to send personalized, automated and effective newsletters and targeted emails.
+
+Top Benefits:
+
+Go beyond opens and clicks to see how emails are converting into actions and purchases — automatically, without any special code.
+
+Create triggered email campaigns with personalized content and smart rules to determine who gets what
+
+Create email campaigns with our drag and drop editor and easy to use list management tools
+
+Pricing: Basic free plan, then paid plans starting at $25/month
+
+Inbound Marketing & Marketing Automation
+
+The only all-in-one automated sales & marketing software built exclusively for small businesses.
+
+Top Benefits:
+
+Keep in touch & follow-up automatically with Email and Social Marketing
+
+Get notified when prospective customers are ready to buy with Lead Scoring
+
+Organize all customers and prospects with CRM (Customer Relationship Management)
+
+Pricing: Prices are not listed on the website, but reviews say that plans start at $199.00/month
+
+HubSpot is inbound marketing software that helps your business excel at inbound marketing and connect it to real business results. From attracting visitors to closing customers, HubSpot brings your entire marketing funnel together.
+
+Top Benefits:
+
+Manage your blogging, social media, landing pages, email marketing, marketing analytics and more all in one place
+
+Get access to an enormous library of top-notch resources on inbound marketing
+
+Great customer support
+
+Pricing: Basic plan starts at $200/month
+
+Marketo offers a suite of tools that cover marketing automation, email and campaign management and analytics.
+
+Top Benefits:
+
+Quickly launch highly-targeted campaigns across your marketing channels in order to generate more revenue with less manual effort
+
+Build automated campaigns that create long-term, personal relationships with consumers across channels.
+
+Simplifies marketing planning, keep teams coordinated and give marketing leaders visibility into everything marketing is doing
+
+Pricing: Pricing varies across Marketo’s four main products
+
+There you have it––43 tools you can use to drive growth for your business. Hopefully the categories will help you hone in on the tools that can fill your company’s needs more quickly.
+
+I’m sure I’ve missed some great tools that empower marketers to focus on growth. What are you favorites? Let us know in the comments below.
+
+About the Author: Chloe Mason Gray specializes in digital marketing strategies for startups. Be sure to say hi to her on Twitter. You also can follow her on Google+.

@@ -1,0 +1,57 @@
+Many executives expect IT will play a growing role in driving business results, according to a new survey. For that to happen, CIOs must broaden their profiles and prove IT’s effectiveness in areas such as digital and innovation.
+
+IT is poised to play a new, more strategic role in companies, one that moves beyond support to create business value through technology-based business innovation and digital initiatives. But according to the newest McKinsey Global Survey on business technology, IT organizations continue to struggle with performance issues, both in conventional IT and in areas that are critical for the future. As a result, technology leaders aren’t often the clear owners of technology-related activities and capabilities, and many respondents—especially on the business side—see their IT organizations as replaceable by third-party providers. For IT and its leaders to become business partners, the results suggest that CIOs must raise their skills and influence within the organization, leverage technology to move the business’s innovation agenda forward, and address the strategic, operating-model, and talent problems that underlie IT’s ineffectiveness.
+
+Stay current on your favorite topics Subscribe
+
+A shifting value proposition for IT
+
+According to the results, many executives—both in and out of IT—expect IT’s value proposition to change meaningfully in the coming years (Exhibit 1). Currently, the largest shares of respondents say IT creates the most value through more traditional business enablement and operational support. But they predict that in the next few years, technology will drive business results. Respondents are most likely to expect that IT will contribute most through innovation and through integrating technology solutions in support of business results—a dramatic shift from IT’s current role.
+
+Exhibit 1
+
+As part of that, respondents also believe that IT should be playing an important role in shaping strategy around digitization. Roughly 80 percent say that business and technology should collaborate on digital strategy, compared with only 55 percent who say they do so now.
+
+Other responses reinforce the merit of IT’s contributions, both current and potential. When technology leaders are involved in shaping business strategy, IT’s ability to create value is greater. As we’ve seen in previous surveys, respondents report greater IT effectiveness when their CIOs are very involved in overall business strategy. With engaged CIOs, digital initiatives do better as well: 43 percent of respondents with very involved CIOs report significant business impact from their digital initiatives, compared with 23 percent of all others who say the same.
+
+IT struggles to perform, and its future is uncertain
+
+Despite this opportunity for IT, this year’s results continue a long-standing pattern of performance concerns in the IT function, even among IT respondents themselves. What’s worse, perceptions are especially negative in the areas that are most critical to IT’s future value proposition (Exhibit 2). Just 12 percent of all respondents say their IT organizations are very effective at leading digital transformations across their business, and only 8 percent say IT is very effective at the design of e-commerce and online experience. When organizations have undergone major IT transformations (the modernization of infrastructure, for example), few business leaders have even noticed. Fifty-one percent of IT respondents report having undergone major transformations in the past two years, while just 36 percent of their business peers say the same.
+
+Exhibit 2
+
+In some of these same capabilities that will be critical to IT’s future, respondents also report a lack of clear ownership. Executives are more likely to say there’s no clear owner for activities such as e-commerce design and technical delivery than they are to say these capabilities are the CIO’s responsibility. With regard to who should be leading these activities, in order for the organization to use technology most effectively, neither the CIO nor the CTO is cited by a majority of respondents.
+
+Moreover, many executives can imagine replacing IT with external vendors or service providers. About one-third of all respondents, including 43 percent of business leaders, describe IT as significantly or fully replaceable by vendors and third-party providers (Exhibit 3). Since the previous survey, the gap between business and IT executives who say technology is substitutable has also grown considerably.
+
+Exhibit 3
+
+And while nine in ten respondents agree that, over the next five years, their central IT organizations will undergo some fundamental changes (for example, a change of 30 percent or more to overall budget or resources), the jury is still out on what, exactly, those differences will be. Respondents are nearly as likely to expect that the IT function’s responsibilities will increase as technology becomes more central to the overall business as they are to predict that the business side will execute most of the work that IT does now.
+
+An imperative to improve
+
+For CIOs and technology leaders to strengthen IT’s value proposition and relevance in the digital era, they must make meaningful contributions to growth and innovation. The results suggest that a greater leadership role for the CIO and improved alignment and ways of working are critical to this success.
+
+First, CIOs need to establish themselves as genuine business leaders and partners. At organizations where CIOs don’t have responsibility for key technology activities, IT and non-IT respondents alike tend to say it’s because the organizational context and culture limit the CIO’s role (Exhibit 4). They are much less likely to say the main reason is a lack of leadership skills or limited knowledge of business processes, though business respondents identify these factors almost twice as often as their IT peers do. What’s more, in several surveys now, we’ve confirmed the importance of CIO leadership. The more involved a CIO is in shaping overall business strategy, the better the IT function performs, both overall and on digital strategy (Exhibit 5). The latest results show that elevating the CIO’s role, both structurally and culturally, could be the key to achieving this. When the CIO reports directly to the CEO, rather than the CFO or other senior roles, respondents are 2.5 times likelier than others to say their CIOs are very involved in company strategy (Exhibit 6).
+
+Exhibit 4
+
+Exhibit 5
+
+Exhibit 6
+
+Second, the root causes of IT’s ineffectiveness must be addressed. According to IT respondents, the most significant problems are a lack of clear priorities for the IT function, weakness in IT’s operating model, and talent issues. In fact, talent has actually grown as a root cause; respondents are twice as likely to cite talent issues now as they were in 2015. With the operating model, the key challenge for CIOs to solve is inefficient governance and work-intake processes. Just after that, IT respondents most often cite weak alignment between business and IT, unclear roles and responsibilities (both of which affect the clarity of IT’s priorities), and lack of a hybrid digital-IT operating model (which is needed for digital initiatives and solutions to work). By addressing these ongoing issues, IT leaders and their organizations will resolve three-quarters of the main reasons why IT isn’t performing effectively.
+
+How CIOs can lead their company’s information business Read the article
+
+Looking ahead
+
+In response to the challenges that the survey results revealed, here are three steps that can help CIOs and IT organizations strengthen their value proposition and contributions to the broader business. These steps are mutually reinforcing, so taking all three together will increase the success and impact of each.
+
+CIOs must rewrite their job descriptions. Despite performance concerns and an uncertain future for IT, CIOs will need to increase expectations for themselves and the IT function. They must also work hard to elevate their role within the organization, developing both their leadership and business muscles while building a more direct reporting line to the CEO. To do so, they will need to write a more ambitious job description that reflects their organizations’ broader aspirations for growth and innovation. This could mean taking on newer responsibilities around customer engagement, such as omnichannel design, design and oversight of analytics, and the centralization and automation of core business functions. CIOs will also need to focus on developing both the functional skills (such as digitization and delivery) and the leadership skills necessary to gain credibility as a true business partner, and they must ensure that the IT organizations they lead are meeting—or even surpassing—expectations.
+
+Address nagging causes of IT ineffectiveness. The results point to three critical areas of IT ineffectiveness—a lack of priorities, operating-model weaknesses, and issues related to talent—on which organizations must make quick progress. The first requires a frank discussion with business leaders to close the gap between perceived and actual priorities. Agreeing on priorities will help IT play a clear, focused role in the organization, ensure visibility and appreciation for the technology-related transformations IT is leading, and let IT leaders shift their time and resources to the areas the business values most, such as innovation and integration. The second—strengthening IT’s operating model—has been a top-two cause of poor performance for two years in a row and is especially crucial for organizations pursuing digital transformations. These organizations will need to move to a more unified and flexible operating model to support large-scale digital efforts that will inevitably span disparate technologies (legacy and next-generation) and delivery practices (agile and traditional methodologies). Finally, the search for top IT talent must include new approaches to workforce planning, attraction, evaluation, and development, as well as the culture of the IT organization.
+
+Integrate technology across the enterprise. Another opportunity for CIOs is the role of integrator. Respondents report a wide variety of technology-leadership roles at their organizations, and that technology is touching upon the work of many business functions. CIOs, then, are in a unique position to observe these activities at their organizations and serve as a central architect to help manage the technology-enabled innovations and capabilities. To do so, they will need to strengthen their own transformation muscles by freeing up change-minded technology leaders from their day-to-day activities and building transformation-leadership capabilities within their teams. They will also need to connect more closely with committed business partners who understand the long-term journey of transformation via technology and are willing to help navigate the organization through potential disruptions.
+
+Stay current on your favorite topics Subscribe

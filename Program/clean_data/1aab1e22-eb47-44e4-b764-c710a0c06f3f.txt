@@ -1,0 +1,59 @@
+The modern Formula 1 car is among the most amazing machines ever made. And when you're going wheel-to-wheel with someone like four-time world champ Sebastian Vettel at 180 mph, you can't take a hand off the wheel to do, well, anything. Every task a driver might need to do, every bit of information he might need to know, is quite literally at his fingertips.
+
+The modern Formula 1 steering wheel is, therefore, the most amazing ever made. It is, in every way, the nerve center of the car.
+
+That's because an F1 car has dozens of parameters that can be adjusted on the fly, but only by the driver. Although telemetry provides a nonstop stream of data to engineers on the pitwall and at team HQ, the driver has sole control over things like differential settings, the air-fuel mix, and the torque curve. All of these settings can change several times during a race, or even a lap. Adjustments must be made while keeping both hands on the wheel and both eyes on the track, which is why a modern F1 wheel might have 35 or more knobs, buttons and switches flanking a small LCD screen introduced this season. Drivers also use small paddles behind the wheel to shift up and down as many as 4,000 times in a race, and a third paddle to engage the clutch.
+
+The PCU-8D LCD screen, made by McLaren Electronics, is 4.3 inches wide with a resolution of 480 x 272 pixels. It can display as many as 100 pages of info and the data–everything from engine RPM and oil temperature to current lap speed and how many laps remain–can be configured by the driver or his engineer. This year marks a transition to the new technology, with some teams–including Infiniti Red Bull Racing–sticking with the older, simpler, PCU-6D for one more season.
+
+So What Do All Those Buttons Do, Anyway?
+
+The photo above shows the steering wheel from the Sauber C33, the cars Esteban Gutiérrez and Adrian Sutil are campaigning this season. Teams are notoriously tightlipped about technology, and none of the teams we reached out to had anything at all to say about them, but Sauber has published a diagram explaining everything the wheel does (we've mentioned the color of each button to help you find it):
+
+Yellow N button: Selects neutral from 1st or 2nd gear.
+
+BRKBAL (brake balance) rotary switch: Adjusts the front and rear brake balance.
+
+Black Box button: Confirms the driver's intention to come to the pits.
+
+Blue and orange S1/S2 buttons: These can be programmed for various funcutions.
+
+Entry rotary switch: This allows the driver to make changes to corner entry settings of the differential.
+
+Orange and green BRK-/BRK+ buttons: These change the brake balance between a programmed position and the current BRKBAL rotary position.
+
+IGN (ignition) rotary switch: Controls ignition timing.
+
+White ACK (acknowledge) button: Acknowledges changes in the system.
+
+PREL (preload) rotary switch: Controls the preload differential offset torque.
+
+Red Oil button: Transfers oil from the auxiliary tank to the main tank.
+
+Black BP (bite point) button: Activates the clutch bite point finding procedure.
+
+DRS (drag reduction system) button, upper left edge of the wheel: Activates the rear wing flap in the DRS zone.
+
+Red PL (pit lane) button: Activates the pit lane speed limiter, limiting the car to the designated pit lane speed limit (typically 100 km/hr).
+
+Black R button: Activates the driver radio transmission.
+
+SOC rotary switch: Controls the state of charge of the ERS energy storage system, whether the system is generating or consuming energy.
+
+Pedal rotary switch: Changes the pedal map dictating how the accelerator pedal responds to inputs.
+
+Fuel rotary switch: Controls the rate of fuel consumption.
+
+Black OT button: Activates configurable performance maps to assist the driver in overtaking or defending.
+
+Tire rotary switch: Tells the ECU and other systems what type of tire the car is running on.
+
+BBal-/BBal+ switches: These are used to make fine adjustments to the brake balance offset.
+
+MFRS (multi-function rotary switch): This allows the driver and engineers to control a variety of systems that don't require a dedicated buttons. They include engine modes (PERF), rev limiter (ENG), air-fuel ratio (MIX), turbo-compressor (TURBO), corner exit differential (VISCO), MGU-K recovery limits (BRK), MGU-K boost limits (BOOST), dashboard options (DASH), cruise control (CC, disabled for qualifying and the race), shift type (SHIFT), and the clutch bite point offset (CLU).
+
+White -10/+1 buttons: These allow quick navigation of maps from the MFRS dial.
+
+That's a lot to process, and it doesn't even include the pages of data that can be relayed through the LCD screen. More information isn't always a good thing, which is why most teams let each driver decide which wheel they prefer– the older style with the simpler display or the new wheel with the LCD. That said, the LCD screens have a distinct advantage, in that the driver knows exactly that's going on, something that saved Nico Rosberg's bacon when his car's telemetry system failed just before the race in China. With no information from the car, engineers had to ask Rosberg for periodic updates on fuel consumption and other information. The Mercedes AMG Petronas driver eventually grew annoyed by the repeated queries and asked his engineers to kindly shut up and let him get on with the business at hand–taking second place behind teammate Lewis Hamilton.
+
+In the video below, Mercedes AMG Petronas drivers Nico Rosberg and Lewis Hamilton explain the steering wheels they used during the 2013 season.

@@ -1,0 +1,109 @@
+3856 SHARES Twitter Linkedin Facebook
+
+In a tech startup industry that loves its shiny new objects, the term “Big Data” is in the unenviable position of sounding increasingly “3 years ago”. While Hadoop was created in 2006, interest in the concept of “Big Data” reached fever pitch sometime between 2011 and 2014. This was the period when, at least in the press and on industry panels, Big Data was the new “black”, “gold” or “oil”. However, at least in my conversations with people in the industry, there’s an increasing sense of having reached some kind of plateau. 2015 was probably the year when the cool kids in the data world (to the extent there is such a thing) moved on to obsessing over AI and its many related concepts and flavors: machine intelligence, deep learning, etc.
+
+Beyond semantics and the inevitable hype cycle, our fourth annual “Big Data Landscape” (scroll down) is a great opportunity to take a step back, reflect on what’s happened over the last year or so and ponder the future of this industry.
+
+In 2016, is Big Data still a “thing”? Let’s dig in.
+
+Enterprise Technology = Hard Work
+
+The funny thing about Big Data is, it wasn’t a very likely candidate for the type of hype it experienced in the first place.
+
+Products and services that receive widespread interest beyond technology circles tend to be those that people can touch and feel, or relate to: mobile apps, social networks, wearables, virtual reality, etc.
+
+But Big Data, fundamentally, is… plumbing. Certainly, Big Data powers many consumer or business user experiences, but at its core, it is enterprise technology: databases, analytics, etc: stuff that runs in the back that no one but a few get to see.
+
+And, as anyone who works in that world knows, adoption of new technologies in the enterprise doesn’t exactly happen overnight.
+
+The early years of the Big Data phenomenon were propelled by a very symbiotic relationship among a core set of large Internet companies (in particular Google, Yahoo, Facebook, Twitter, LinkedIn, etc), which were both heavy users and creators of a core set of Big Data technologies. Those companies were suddenly faced with unprecedented volume of data, had no legacy infrastructure and were able to recruit some of the best engineers around, so they essentially started building the technologies they needed. The ethos of open source was rapidly accelerating and a lot of those new technologies were shared with the broader world. Over time, some of those engineers left the large Internet companies and started their own Big Data startups. Other “digital native” companies, including many of the budding unicorns, started facing similar needs as the large Internet companies, and had no legacy infrastructure either, so they became early adopters of those Big Data technologies. Early successes led to more entrepreneurial activity and more VC funding, and the whole thing was launched.
+
+Fast forward a few years, and we’re now in the thick of the much bigger, but also trickier, opportunity: adoption of Big Data technologies by a broader set of companies, ranging from medium-sized to the very largest multinationals. Unlike the “digital native” companies, those companies do not have the luxury of starting from scratch. They also have a lot more to lose: in the vast majority of those companies, the existing technology infrastructure “does the trick”. It may not have all the bells and whistles, and many within the organization understand that it will need to be modernized sooner rather than later, but they’re not going to rip and replace their mission critical systems overnight. Any evolution will require processes, budgets, project management, pilots, departmental deployments, full security audits, etc. Large corporations are understandingly cautious about having young startups handle critical parts of their infrastructure. And, to the despair of some entrepreneurs, many (most?) still stubbornly refuse to move their data to the cloud, at least the public one.
+
+Another key thing to understand: Big Data success is not about implementing one piece of technology (like Hadoop or anything else), but instead requires putting together an assembly line of technologies, people and processes. You need to capture data, store data, clean data, query data, analyze data, visualize data. Some of this will be done by products, and some of it will be done by humans. Everything needs to be integrated seamlessly. Ultimately, for all of this to work, the entire company, starting from senior management, needs to commit to building a data-driven culture, where Big Data is not “a” thing, but “the” thing.
+
+In other words: lots of hard work.
+
+The Deployment Phase
+
+The above explains why, a few years after many of the high profile startups were launched and the headline-grabbing VC investments made, we are just hitting the deployment and early maturation phase of Big Data.
+
+The more forward-thinking large companies (call them the “early adopters” in a traditional technology adoption cycle) started early experimentation with Big Data technologies sometime in 2011-2013, launching Hadoop pilots (often because it was the chic thing to do) or trying out point solutions. They hired all sorts of people whose job titles didn’t exist previously (such as “data scientist” or “chief data officer”). They went through various types of efforts, including dumping all their data in one central repository or “data lake”, sometimes hoping that magic would ensue (it generally didn’t). They gradually built internal competencies, experimented with different vendors, went from pilots to departmental deployments in production and are now debating (or, more rarely, implementing) enterprise-wide roll outs. In many cases, they are at an important inflection point where, after several years building Big Data infrastructure, they don’t have (yet) much to show for it, at least from the perspective of the business user in their companies. But a lot of the thankless work has been done, and the disproportionately impactful phase where applications are deployed on top of the core architecture is now starting.
+
+The next set of large companies (call them the “early majority” in the traditional technology adoption cycle) has been staying on the sidelines for the most part, and is still looking at this whole Big Data thing with some degree of puzzlement. Up until recently, they were hoping that a large vendor (e.g., an IBM) would offer a one-stop-shop solution, but it’s starting to look like that may not happen anytime soon. They look at something like our Big Data Landscape with horror, and wonder whether they seriously need to work with all those startups that often sound the same, and cobble those solutions together. They’re trying to figure out whether they should work sequentially and progressively, building the infrastructure first, then the analytics then the application layer, or do everything at the same time, or wait until something much easier shows up on the horizon.
+
+The Ecosystem is Maturing
+
+Meanwhile, on the startup/vendor side, the whole first wave of Big Data companies (those that were founded in, say, 2009 to 2013) have now raised multiple VC financing rounds, scaled their organizations, learned from successes and failures in early deployments, and now offer more mature, battle-tested products. A handful are now public companies (including HortonWorks and New Relic which did their IPO in December 2014) while others (Cloudera, MongoDB, etc.) have raised hundreds of millions of dollars.
+
+VC investment in the space remains vibrant and the first few week of weeks of 2016 saw a flurry of announcements of big founding rounds for late stage Big Data startups: DataDog ($94M), BloomReach ($56M), Qubole ($30M), PlaceIQ ($25M), etc. Big Data startups received $6.64B in venture capital investment in 2015, 11% of total tech VC.
+
+M&A activity has remained moderate (we noted 35 acquisitions since our last landscape, see notes below).
+
+With continued influx of entrepreneurial activity and money in the space, reasonably few exits, and increasingly active tech giants (Amazon, Google and IBM in particular), the number of companies in the space keeps increasing, and here’s what the Big Data Landscape looks like in 2016:
+
+To see the landscape at full size, click here. To view a full list of companies, click here. [Note: This is version 2.0 of the landscape and list, both revised as of February 12, 2016]
+
+Obviously, that’s a lot of companies, and many others were not included in the chart, deliberately or not (scroll to the bottom of the post for a few notes on methodology).
+
+In terms of fundamental trend, the action (meaning innovation, launch of new products and companies) has been gradually moving left to right, from the infrastructure layer (essentially the world of developers/engineers) to the analytics layer (the world of data scientists and analysts) to the application layer (the world of business users and consumers) where “Big Data native applications” have been emerging rapidly – following more or less the pattern we expected.
+
+Big Data infrastructure: Still Plenty of Innovation
+
+It’s now been a decade since Google’s papers on MapReduce and BigTable led Doug Cutting and Mike Cafarella to create Hadoop, so the infrastructure layer of Big Data has had the most time to mature and some key problems there have now been solved.
+
+However, the infrastructure space continues to thrive with innovation, in large part through considerable open source activity.
+
+2015 was without a doubt the year of Apache Spark, an open source framework leveraging in-memory processing, which was starting to get a lot of buzz when we published the previous version of our landscape. Since then, Spark has been embraced by a variety of players, from IBM to Cloudera, giving it considerable credibility. Spark is meaningful because it effectively addresses some of the key issues that were slowing down the adoption of Hadoop: it is much faster (benchmarks have shown Spark is 10 to 100 times faster than Hadoop’s MapReduce), easier to program, and lends itself well to machine learning. (For more on Spark, see our fireside chat at our Data Driven NYC monthly event with Ion Stoica, one of the key Spark pioneers and CEO of Spark in the cloud company Databricks, here).
+
+Other exciting frameworks continue to emerge and gain momentum, such as Flink, Ignite, Samza, Kudu, etc. Some thought leaders think the emergence of Mesos (a framework to “program against your datacenter like it’s a single pool of resources”) dispenses for the need for Hadoop altogether (watch a great talk on the topic by Stefan Groschupf, CEO of Datameer, here and learn more about Mesos by watching Tobi Knaupf of Mesosphere here).
+
+Even in the world of databases, that seemed to have seen more emerging players than the market could possibly sustain, plenty of exciting things are happening, from the maturation of graph databases (watch Emil Eifrem, CEO Neo4j here), the launch of specialized databases (watch Paul Dix, founder of time series database InfluxDB here) to the emergence of CockroachDB, a database inspired by Google Spanner, billed as offering the best of both the SQL and NoSQL worlds (watch Spencer Kimball, CEO of Cockroach Labs here). Data warehouses are evolving as well (watch Bob Muglia, CEO of cloud data warehouse Snowflake, here).
+
+Big Data Analytics: Now with AI
+
+The big trend over the last few months in Big Data analytics has been the increasing focus on artificial intelligence (in its various forms and flavors) to help analyze massive amounts of data and derive predictive insights.
+
+The recent resurrection of AI is very much a child of Big Data. The algorithms behind deep learning (the area of AI that gets the most attention these days) were for the most part created decades ago, but it wasn’t until they could be applied to massive amounts of data cheaply and quickly enough that they lived up to their full potential (watch Yann LeCun, pioneer of deep learning and head of AI at Facebook, here). The relationship between AI and Big Data is so close that some industry experts now think that AI has regretfully “fallen in love with Big Data” (watch Gary Marcus, CEO of Geometric Intelligence here).
+
+In turn, AI is now helping Big Data deliver on its promise. The increasing focus on AI/machine learning in analytics corresponds to the logical next step of the evolution of Big Data: now that I have all this data, what insights am I going to extract from it? Of course, that’s where data scientists come in – from the beginning their role has been to implement machine learning and otherwise come up with models to make sense of the data. But increasingly, machine intelligence is assisting data scientists – just by crunching the data, emerging products can extract mathematical formulas (watch Stephen Purpura, founder of Context Relevant here) or automatically build and recommend the data science model that’s most likely to yield the best results (watch Jeremy Achin, CEO of DataRobot here). A crop of new AI companies provide products that automate the identification of complex entities such as images (watch Richard Socher, CEO of MetaMind, here; Matthew Zeiler, CEO of Clarifai, here; and David Luan, CEO of Dextro here) or provide powerful predictive analytics (e.g., our portfolio company HyperScience, currently in stealth).
+
+As unsupervised learning based products spread and improve, it will be interesting to see how their relationship with data scientists evolve – friend or foe? AI is certainly not going to replace data scientists any time soon, but expect to see increasing automation of the simpler tasks that data scientists perform routinely, and big productivity gains as a result.
+
+By all means, AI/machine learning is not the only trend worth noting in Big Data analytics. The general maturation of Big Data BI platforms and their increasingly strong real-time capabilities is an exciting trend (watch Amir Orad, CEO of SiSense here; and Shant Hovespian, CTO of Arcadia Data here)
+
+Big Data Applications: A Real Acceleration
+
+As some of the core infrastructure challenges have been solved, the application layer of Big Data is rapidly building up.
+
+Within the enterprise, a variety of tools has appeared to help business users across many core functions. For example, Big Data applications in sales and marketing help with figuring out which customers are likely to buy, renew or churn, by crunching large amounts of internal and external data, increasingly in real-time. Customer service applications help personalize service; HR applications help figure out how to attract and retain the best employees; etc.
+
+Specialized Big Data applications have been popping up in pretty much any vertical, from healthcare (notably in genomics and drug research) to finance to fashion to law enforcement (watch Scott Crouch, CEO of Mark43 here).
+
+Two trends are worth highlighting.
+
+First, many of those applications are “Big Data Natives” in that they are themselves built on the latest Big Data technologies, and represent an interesting way for customers to leverage Big Data without having to deploy underlying Big Data technologies, since those already come “in a box”, at least for that specific function – for example, our portfolio company ActionIQ is built on Spark (or a variation thereof) , so its customers can leverage the power of Spark in their marketing department without having to actually deploy Spark themselves – no “assembly line” in this case.
+
+Second, AI has made a powerful appearance at the application level as well. For example, in the cat and mouse game that is security, AI is being leveraged extensively to get a leg up on hackers and identify and combat cyberattacks in real time. “Artificially intelligent” hedge funds are starting to appear. A whole AI-driven digital assistant industry has appeared over the last year, automating tasks from scheduling meetings (watch Dennis Mortensen, CEO of x.ai here) to shopping to bringing you just about everything. The degree to which those solutions rely on AI varies greatly, ranging from near 100% automation to “human in the loop” situations where human capabilities are augmented by AI – nonetheless, the trend is clear.
+
+Conclusion
+
+In many ways, we’re still in the early innings of the Big Data phenomenon. While it’s taken a few years, building the infrastructure to store and process massive amounts of data was just the first phase. AI/machine learning is now precipitating a trend towards the emergence of the application layer of Big Data. The combination of Big Data and AI will drive incredible innovation across pretty much every industry. From that perspective, the Big Data opportunity is probably even bigger than people thought.
+
+As Big Data continues to mature, however, the term itself will probably disappear, or become so dated that nobody will use it anymore. It is the ironic fate of successful enabling technologies that they become widespread, then ubiquitous, and eventually invisible.
+
+____________________
+
+NOTES:
+
+1) First and foremost, a big thank you to our FirstMark associate Jim Hao who did a lot of the heavy lifting on this project and was immensely helpful
+
+2) As it became very clear very quickly that we couldn’t possibly fit all companies we wanted on the chart, we ended up giving priority to startups that have raised one or several rounds of venture capital financing – certainly an imperfect criteria (but, hey, we’re VCs…), and we’ve occasionally made the editorial decision to include earlier stage startups when we thought they were particularly interesting.
+
+3) As always, it is inevitable that we inadvertently missed some great companies in the process of putting this chart together. Did we miss yours? Feel free to add thoughts and suggestions in the comments
+
+4) The chart is in png format, which should preserve overall quality when zooming, etc.
+
+5) Disclaimer: I’m an investor through FirstMark in a number of companies mentioned on this Big Data Landscape, specifically: ActionIQ, Cockroach Labs, Helium, HyperScience, Kinsa, Sense360 and x.ai. Other FirstMark portfolio companies mentioned on this chart include Bluecore, Engagio, HowGood, Payoff. I’m a small personal shareholder in Datadog and LendingClub (pre-IPO).
+
+6) Notable acquisitions (of all sizes) include Revolution Analytics (acquired by Microsoft in January 2015), Pentaho (acquired by Hitachi in February 2015), Mortar (acquired by Datadog in February 2015), Acunu and FoundationDB (both acquired by Apple in March 2015), AlchemyAPI (acquired by IBM in March 2015), Amiato (acquired by Amazon in April 2015), Next Big Sound (acquired by Pandora in May 2015), 1010Data (acquired by Advance/Newhouse in August 2015), Informatica (acquired/taken private by a company controlled by the Permira funds and Canada Pension Plan Investment Board (CPPIB) in August 2015), Boundary (acquired by BMC in August 2015), Bime Analytics (acquired by Zendesk in October 2015), CleverSafe (acquired by IBM in October 2015) ParStream (acquired by Cisco in November 2015), Lex Machina (acquired by LexisNexis in November 2015) and DataHero (acquired by Cloudability in January 2016).

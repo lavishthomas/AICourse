@@ -1,0 +1,197 @@
+(part three in a three-part series) On MongoDB
+
+The Marketing Behind MongoDB
+
+Countless NoSQL databases competed to be the database of choice. MongoDB's marketing strategy helped it become the winner.
+
+In 2013, 10gen — the company behind MongoDB — moved into a large 30,000 square foot office in Midtown Manhattan.
+
+The transfer into the former New York Times building capped off a tremendous period of growth: the database boasted 4 million downloads, the MongoDB User Groups already attracted 15,000 members, and ~10,000 people had attended a global event in 2012. Their offices were truly global from London to Sydney to Dublin and Barcelona — and a requisite west coast headquarters in Palo Alto.
+
+Despite the traction, many startups using MongoDB faced their own challenges. One part of MongoDB’s success among startups was because some didn't critically assess 10gen’s marketing message.
+
+As engineers, we often discuss technical attacks (e.g., DDoS, Sybil attacks, security vulnerabilities), but need to spend time debating how to protect ourselves from marketing “attacks”. Today, developer marketing is subtle — third party blog posts, content marketing disguised as engineering lessons, biased talks, and sponsored hackathons — not clearly marked content from vendors. As such, startup engineering decisions can hinge on sources that are not impartial.
+
+A large amount of "engineering" content — even when written by engineers — is actually marketing, rather than thoughtful content whose aim is to help you make the best decision.
+
+Previously, we looked at the hype around NoSQL and common engineering mistakes to see how MongoDB became so successful. Now, let's take a look into 10gen's marketing strategy — as told by their employees.
+
+10gen’s marketing strategy is an increasingly common playbook and understanding it is useful for future developer tool decisions.
+
+Designed by Marco Baccioli from Alzaia Comunicazione
+
+
+
+This work is licensed under a This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License . Feel free to remix or share it.
+
+Get a free sticker
+
+MongoDB Conferences and User Groups
+
+10gen-sponsored conferences/user groupsorganically highlighted benefits without looking like a direct sales pitch, even though they were funded and partially orchestrated by 10gen.
+
+
+
+Like many tool vendors, 10gen explicitly focused on passionate users as they knew it was more likely to influence prospective engineers than direct marketing (bold added):
+
+Creating advocates and brand ambassadors within your community can be incredibly powerful in validating your product. The message about your product is always more powerful coming from another user than coming from a vendor.
+
+Startups are an important early adopter group for young technology tools companies like 10gen, before they can focus on the more lucrative large enterprise segment (today, most of MongoDB's revenue comes from this large enterprise segment).
+
+By mid-2012, there were more than 50 MongoDB user groups around the world that met regularly, built with 10gen's financial, marketing, and logistics support:
+
+Investing in leaders is … an economical marketing tactic [for 10gen]. You can invest a small amount in developing a community leader, and expect a potentially large return from that investment. The most obvious example here is the MongoDB User Group network. With $50,000, we could effectively support 13 user groups with some cash to spare… Our $50,000 investment has reached and engaged 3,900 members of the community across 13 different cities, with each group meeting monthly to discuss our technology. At 10gen, we initially invest a lot of time and money into our user group organizers… The user group leaders build a network of speakers and they identify local companies to sponsor their events. The small investment continues to grow into a large, sustainable user group, often with many more than 300 members. We can then shift our attention and resources to developing user groups in new cities.
+
+There are a few key reasons someone chooses to speak at a tech conference or meetup. 10gen made note of these motivations, including:
+
+increasing the speaker’s network
+
+raising the speaker’s profile
+
+recruiting for the speaker’s company
+
+marketing for the speaker’s company (and co-marketing for Mongo)
+
+For example, 10gen knew that speakers were looking to get new business (bold added):
+
+Being on stage at a conference raises the profile of the presenter and establishes him/her as a thought leader on a particular topic ... [Independent] consultants have established themselves as experts on MongoDB through their speaking engagements [at our conferences and events], and I suspect many have gained business as a result.
+
+When there’s money at stake or other personal gain, it can influence a speaker’s message, while providing valuable allies for a motivated vendor. If you make substantial revenue off MongoDB consulting, how motivated would you be to highlight tradeoffs? How about if you sold MongoDB training materials like an online course or bootcamp?
+
+On the marketing front, David Mytton, CEO of Server Density, highlighted the benefit of giving a talk at a MongoDB event:
+
+[Speaking at an event] also benefited [ServerDensity] on a marketing front as ... we have been able to talk about [our experience] at [MongoDB] conferences and user groups.
+
+Other speakers generally don't highlight this conflict, and might go on to discuss their speaking engagement in blog posts or on social media, driving even greater engagement.
+
+Testimonials and Conflicts
+
+In 2009, Business Insider wrote a post on the benefits of early MongoDB builds in production, after speaking at a 10gen webinar saying "Mongo occupies a sweet spot for powering web apps." Foursquare famously decided to use MongoDB. 10gen also consistently highlighted Etsy’s trial and two engineers at Etsy wrote a three-part blog series on MongoDB.
+
+But all three shared investors with 10gen. They all explicitly noted that this influenced their choice, among other reasons — which is not information noted by many marketers or commonly discussed in HN comments. As successful startups, they were ideal poster children for MongoDB. But their choice — and especially their desire to publicize the choice — was influenced by more than just engineering appropriateness, even though all were engineers.
+
+Coming months after MongoDB 1.0 was released, the Business Insider post misses a number of things you should know before adding MongoDB to your stack (the global lock, issues with sharding, "safe" saves, etc). At the time, MongoDB was still quite raw and the choice was partially made because Business Insider was coded and invested in by MongoDB's founding team (though the author argues that they continued using MongoDB because it was the "best technology"; my own view is that nascent databases often take more than 2 years of development before they become the "best technology"). The post may be written in engineering terms by an engineer, but I'd argue that it's more akin to marketing.
+
+At industry analyst firm Red Monk, James Governor argued in May 2012 that MongoDB was the "SF architect's default database choice" on flimsy evidence — and he would be quoted in multiple MongoDB blog posts. Today, Red Monk counts MongoDB as a customer. Every thoughtful San Francisco engineer I know from 2012 would argue that Governor's view is far too extreme — and you have to wonder how some industry analysts make decisions and the incentives that influence their views. You also have to wonder about the impact of statements like his on the decisions made by junior engineers when it's publicized by others to sell their tech or training products.
+
+At minimum, it's hard to speak poorly of a fellow portfolio company, a friend, your employer, or a future potential customer.
+
+Mongo's strategy — used by many other dev tools companies — has some similarities to astroturfing, where a sponsored message is masked to appear as if it primarily comes through authentic, grass roots support.
+
+Using Beta Software in Production
+
+Like many startups, MongoDB’s early releases were sold as ready for production. This let them get to market faster, and solicit valuable user feedback in real time. But for a number of users, the software was not ready for prime time, echoing the commonly used playbook in "Worse is Better."
+
+To this day, we still see the effects of the poor security defaults they chose, from not requiring a setup login to having SSL off by default in public builds. There was a global lock which seemed to catch too many teams by surprise. “Safe saves” were off by default.
+
+For a product that attracted so many junior engineers with its ease of use and 10gen’s explicit hackathon marketing focus, it was all the more important to provide sensible defaults.
+
+In late 2011, 10gen’s CTO Eliot Horowitz noted in a Hacker News comment:
+
+MongoDB is still a new product, there are definitely rough edges, and a seemingly infinite list of things to do.
+
+The marketing message 10gen perfected (unsurprisingly) ignored many of the technical limitations. In a different world, their engineers would have gotten the time and space to design a mature database, before selling it widely and as a silver bullet. The marketing team might have also had more oversight from the engineering team, so that the marketing message better reflected reality.
+
+10gen's founding CTO's view is that the issues were few and far between, and that even the earliest MongoDB releases were transformational for their users. My view is more aligned with one of their engineers who was concerned that, "we’re building a jet while people are flying with it."
+
+Many commenters online noted how nice Horowitz and other 10gen engineers were, which might have made it hard for some to critique them publicly. In my own view, we should have respectful discussions, but not give anyone a free pass. Bad engineering choices hurt startups, damage careers, and waste investor money.
+
+MongoDB for Everything
+
+10gen consistently argued that MongoDB was useful for an overly broad set of use cases. This led to wide uptake, but also issues.
+
+Vendors and their supporters are rarely incentivized to highlight where their tool is a poor choice. Instead, the task is left to thoughtful engineers. 10gen also had a very different use case in mind in the earliest days (e.g., high volume logging, IOT data), which they learned was the wrong focus over time. This likely incentivized them to keep the positioning broad, as they searched for product-market fit.
+
+In 2012, 10gen's VP of Corporate Strategy Matt Asay would argue "there will remain a relatively small sphere of applications unsuitable for MongoDB ... the majority of application software that developers write will be in use cases that are better fits for MongoDB and other NoSQL technology ... Those functions that really help a company innovate and grow revenue [will be NoSQL]." He would note that we were living in the post-transactional future.
+
+You can draw a fairly straight line between this silver bullet mindset and numerous mistakes that startups made, such as the loss of customer funds at Flexcoin or the other financial startups using early MongoDB versions. Cornell's Professor Emi̇n Gün Si̇rer, who supports his own competing database, would analogize this to blithely selling flammable mattresses, without reflecting too deeply on the inevitable issues this would cause for users. Over time, a number of other parties — from training programs to industry analysts — would parrot 10gen's message.
+
+Sarah Mei highlights the challenges for Diaspora, an ambitious open source social network, after months of development:
+
+The MongoDB docs tell you what it’s good at, without emphasizing what it’s not good at. That’s natural ... But as a result, it took us about six months [and] a lot of user complaints ... to figure out that we were using MongoDB the wrong way.
+
+As a thoughtful engineer, you have to critically question the views of parties that personally benefit and can't use content marketing to make important decisions. As an exercise, try to find the flaws in this piece written by a 10gen engineer that makes the case that MongoDB is a great choice for ecommerce in 2010.
+
+For dev tool marketers, there is a key philosophical question: how much weight will you give to engineering veracity in your sponsored content when it impacts business metrics? How do you tradeoff the trust of your users versus the short-term benefits of growing at all costs?
+
+Even today, 10gen argues that 60-80% of “applications” benefit from using it. Going further, MongoDB's CTO feels that nearly 90% of database installations would benefit from switching to MongoDB. Many engineers I know — who value MongoDB at their own companies — would disagree with 10gen's view. It's not that MongoDB isn't supremely useful today, just that you have to be thoughtful about the value it provides and the needs you have.
+
+MEAN is the new LAMP
+
+Rebranding technologies with new terms and acronyms can drive more interest in developer tools. 10gen was able to ride off the hype of NoSQL and then created one term that would be particularly popular in startup job posts: the MEAN stack (Mongo, Express, Angular, Node).
+
+Valeri Karpov, a 10gen engineer and former intern on the Angular team, coined the MEAN acronym (10gen encouraged their employees — including engineers — to personally evangelize MongoDB).
+
+MEAN was used at startups and hack academies to distinguish their "modern" stacks and curriculums, as they competed to attract students/employees - and create content that would be clickworthy: Free Code Camp Blog Source: Free Code Camp Blog post, 2014 .
+
+
+
+Junior developers I mentored considered MongoDB a prerequisite for becoming a good engineer. It also let MongoDB ride off the explosive growth of Node.
+
+If you read through Karpov's original post on MEAN, it seems crazy to ever consider a SQL database over MongoDB (Karpov calls this being “blissfully SQL free” and would teasingly compare SQL to Cobol). In contrast, look at the nuanced way Vue.js explain how it and its competitors compare.
+
+In reality, thoughtful engineers without skin in the game can see the benefits of relational and NoSQL document databases in different use cases. And even 10gen’s engineers likely realize that good engineering requires thoughtfulness and impartiality when they join another company.
+
+Marketing Attacks
+
+As engineers, we shouldn't rely on motivated vendors and their friends to make the best engineering decisions. Some argue that every successful tech vendor “overmarkets”, but this doesn’t mean we should be content with engineers falling for it each time. A number of great developer-focused companies sell tools without needing to pitch their product as a "silver bullet" for every problem.
+
+While I believe strongly that 10gen has the right to choose any strategy it wants, it's at least important that engineers are aware of how the playbook works. It matters especially when a marketing strategy is consciously directed at junior engineers. The people behind their marketing strategy are now advisors, employees, and investors, and their learnings influence the strategies at other companies.
+
+MongoDB's CTO, Eliot Horowitz, disagrees with my view — and argues that 10gen's marketing message was always thoughtful and fair, and rarely oversold their product. Readers should make their own judgments by looking at 10gen's website and blog in the Wayback Machine.
+
+Critically Assessing Developer Marketing
+
+Much like a good scientist, to make good engineering decisions requires one to be dispassionate and thoughtful.
+
+Exercise: How do you compare to a MongoDB partisan?
+
+Note: The MongoDB partisan line is loosely based on data. By July 2014, 10gen argued that MongoDB was suitable for "60%-80% of the applications being built" (still, suitability is not the same as benefit from replacement). In the summer of 2017, 10gen's CTO Eliot Horowitz argued that 90% of non-MongoDB databases would benefit from being replaced by MongoDB. This graph is for hyperbole and so the curve I've drawn is not backed by much further empirical data. Instead, I'll argue that thoughtful engineers will draw a graph different from that of partisans in the database debates — no matter what side they are on.
+
+First, realize that 10gen’s marketing approach is a common — often winning — strategy. Though false claims and prematurely marketed dev products are much pilloried in engineering circles, the strategy is used because it works. It's critical we understand how developer adoption is done, with companies trying desperately to build network effects, "cross the chasm," and show their investors VC-level traction.
+
+This isn't always pretty and can cause issues (technical and career) for developers and companies. And sadly, this is often the smarter growth strategy, even though it is not how the more thoughtful among us would prefer to see new technology rolled out.
+
+I question whether thoughtful engineering founders can consistently succeed against this strategy. If you're starting your own dev tools company, you should reflect on if you feel comfortable using this playbook, as that’s what it may take to succeed. As RethinkDB — a MongoDB competitor — learned:
+
+[Correct], simple, and consistent software takes a very long time to build. ... To be honest, it hurt. ... It was unfathomable to us why people would choose [MongoDB, a system] that barely does the thing it’s supposed to do (store data), has a big kernel lock, throws away errors at random, implements single node features that stop working when you shard, has a barely working sharding system despite it being one of the core features of the product, provides essentially no correctness guarantees, and exposes a hodge-podge of interfaces that have no discernible consistency or unity of vision ... But over time I learned to appreciate the wisdom of the crowds. MongoDB turned regular developers into heroes when people needed it, not years after the fact.
+
+I sympathize with RethinkDB's team — they did what thoughtful engineers are trained to do. Engineering purity and humility is a tiny part of building a sustainable, venture-backed company. (Realize also that RethinkDB was a competitor and MongoDB's Eliot Horowitz and I both disagree with some of their views; my own previous startup and RethinkDB also were both funded by Y Combinator, though I don't know the founders)
+
+Despite the short-term dislocation, perhaps we are net better off, given the huge engineering and financial investments in MongoDB that 10gen's early traction afforded them. As one commenter on HN noted, in justifying 10gen's tactics:
+
+Yes, they overmarketed a buggy project in 2009. It didn't matter, because they built a product that developers loved ... Sometimes you need to employ aggressive business tactics to get to a point where you have the engineering resources to build a world class project. Moreso [sic] when you need to catch up to millions of man hours spent building Oracle and MSSQL.
+
+As the commenter points out, the danger in demanding more from early database releases is that it'll be difficult for new ones to succeed. It'll especially make it hard to unlock private capital for database research — but it's a debate we should have when innovation comes at a cost.
+
+Second, for engineers, don't use marketing as a primary input into an engineering decision.
+
+You should question the incentives of parties asking you to make a tech choice, as vendors are especially smart about sharing their message through proxies. When reading a blog post or attending an event/meetup, consider what conflicts might be behind each presentation. Beyond vendors, problematic "engineering" content often comes from industry analysts, speakers, and training programs.
+
+A simple rule of thumb is to ask yourself how an author or their company benefits from a post or event — and how it influences their message (try it on this post). Engineers can often act as marketers, and if so, you have to weigh their message more critically. If you're just starting in the industry, you should find someone thoughtful who's seen a few hype cycles that can help you navigate the landscape of new technology choices.
+
+By being aware of this marketing playbook, we can blunt its impact — and incentivize different behavior from vendors.
+
+Third, for senior engineers, there is cause for reflection. If you build a company, hire engineers who objectively assess technology tools and disguised vendor marketing.
+
+If you're an engineer at a high profile company or startup (no matter how junior), the blog posts you write (often, content marketing to recruit engineers and increase your own profile) will likely dictate the decisions of many thousands of engineers. Your friends at dev tool vendors will know that and ask you to do them a favor. When sharing publicly, it's critical to show the nuance of why you chose something — and reflect on when a favored technology is a poor choice. And in 10gen's case, the CTO also wasn't involved in marketing at all, which I believe is important in highly technical products, as engineers and marketers have different objectives.
+
+At its core is a more existential question for our industry: how do we help developers make better decisions? Software engineering or engineering media literacy is rarely taught. Vendor marketing and social networks play a crucial role in decision making, especially in the first years of our career.
+
+Cornell's Professor Si̇rer would echo this:
+
+[Engineers] did what anyone would do after reading one too many astroturf articles on Hacker News. Sure, their system failed, but in a sense, the overall system failed them.
+
+Conclusion
+
+The early growth of MongoDB is a story that should be taught to every software developer. It’s an example of the periodic technical hype cycles that can lead to bad engineering decisions.
+
+Examining our own mistakes will help inoculate us to future ones. It can also teach other database open source projects what the development community values. After all, what industry veteran would have predicted that usability trumps other considerations in databases?
+
+Part of MongoDB’s maturation today is a testament to the many small companies that used it, providing valuable feedback and contributing fixes — which, for some, came at a cost to their own technical roadmap (or their customers' funds). With their support, MongoDB can now focus on the more lucrative large/medium enterprise market.
+
+Despite my tone about MongoDB’s past, I am optimistic about what a mature MongoDB brings to the space. And I’m hopeful that when the next MongoDB comes around, startup developers will consider what their companies need to succeed not just what is personally exciting, well marketed, and easy to get started with.
+
+This essay is based on a several years of discussions, looking through numerous blog posts/presentations, and reading ~3000 HN comments. You can see select comment/blog excerpts and my other thoughts here. I welcome feedback (email mongodb at this domain).
+
+Get a free sticker

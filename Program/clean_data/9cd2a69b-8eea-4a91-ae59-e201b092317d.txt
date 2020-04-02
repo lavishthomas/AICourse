@@ -1,0 +1,139 @@
+There's just too much to learn and not enough time
+
+The code is poorly written
+
+The current abstractions are bad
+
+I would have done this differently
+
+The comments don't make any sense, aren't up-to-date
+
+No documentation about how something was built or why it works this way
+
+The build is slow
+
+The tests are slow
+
+The tests are flaky
+
+There are no tests
+
+Bad frameworks that require a lot of boilerplate, complex code, or confusing tests
+
+Managers want me to sacrifice code quality for development speed
+
+Dependencies change without notice
+
+Differences between local dev, testing, and production
+
+Getting ratholed on a problem or debugging for a long time
+
+Broken or flaky tests that I need to modify but didn't write originally
+
+Bugs or production issues that I have to deal with that other people caused, but they aren't actively trying to fix right now
+
+Having to maintain someone else's crappy code or systems after they leave
+
+Things that aren't automated that should be
+
+Getting interrupted constantly by teammates and my manager
+
+Context switching costs
+
+My manager asks me to work on emergency projects
+
+In code reviews my teammates are assholes and it feels like a personal attack
+
+Other people are late in delivering the functionality that I need to do my job
+
+Other engineers build their features or components too slowly
+
+I have to wait for other people a lot
+
+There are product decisions that I don't agree with
+
+I feel like I'm just getting told what to do
+
+No autonomy
+
+Nobody respects my opinion
+
+I work my ass off and then someone tells me to redo it
+
+Product managers change requirements on me because they're overly reactive to criticism or feedback from other people
+
+Everything in production is broken all the time
+
+Too many emails or documents to read and respond to
+
+Work slips through the cracks
+
+Falling behind on everything
+
+Other people are making technical design decisions that I don't agree with, but I don't have the ability or authority to convince them to change their minds
+
+Implementations that are sloppy or ignore existing best practices
+
+Things coming up that I didn't plan for; late feature requirements that break my assumptions
+
+I can get really stressed out about deadlines and dependencies, which makes it hard to unwind when I'm home from work
+
+Everyone needs more supervision than I expect, no matter how hard I try to explain the details or document the plan
+
+Launching something publicly takes forever and is blocked for bullshit non-technical reasons
+
+Making the difficult choice between time and quality; deliberately shipping known bugs to production
+
+I'm being responsible, why isn't everyone else?
+
+I'm falling behind on my responsibilities and nobody is helping me
+
+I don't understand what my manager does all day, but I don't think it's useful
+
+I don't understand what the product managers do all day, but I don't think it adds value
+
+It feels like other engineers on my team are trying to undermine me by not following the plan we already agreed to; I feel like a tattletale when I talk to their managers about it
+
+Projects I thought would be my responsibility were taken away from me and given to someone else for reasons I don't understand
+
+I don't have enough engineers working on my project to get the work done in a reasonable amount of time
+
+People don't listen when I say how hard something will be and they're unwilling to reduce scope
+
+It's hard to ask or tell people what to do without feeling like an asshole
+
+It feels like everything is an emergency all the time
+
+It feels like everyone is always complaining to me all day long
+
+I have zero time for email
+
+I have zero time for chit chat, even though I feel like an asshole for not being more social
+
+When I get home I feel beaten up; sometimes it can be too much; if my significant other or people close to me are having issues they want to talk about, I can be so burnt out by the time I leave work that I'm unable to listen to their problems anymore.
+
+At all times, some number of my reports are in one or more of these states:
+
+About to quit Upset at someone else on my team Upset at someone else on another team Upset with me Offended by someone for good reason Offended by someone for no good reason Unhappy with the codebase for legitimate reasons Unhappy with the codebase for perfectionist / invalid reasons Unhappy with their project and want to work on something else, even though what they were doing is the most important thing Having personal issues that are affecting their well-being, often causing them to have a negative effect on the morale of those around them Bored; clear they'd take a new job if the right one was offered to them
+
+Other managers do work by scheduling meetings. They can't write code; their only way to influence things is to talk. So I'm pulled into a bunch of useless meetings. And they almost always feel like a waste of time.
+
+Writing less code sucks; it feels like I'm losing my edge. Sometimes it's hard to see how I'm contributing. I have to change my perspective on what I value. Finding satisfaction in helping others become more productive feels unnatural.
+
+I'm going to miss making an important technical decision and things will go terribly wrong
+
+A project is going to fall behind or fail because I delegated it to the wrong person
+
+It feels like other managers are trying to undermine me with politics
+
+My biggest problems are confidential and I can't ask for support or advice from anyone
+
+It's unclear what the CTO/VP of engineering does; they don't seem to add any value; they ask ignorant questions and are generally disrespectful
+
+Some of my best engineers are wasting their time on projects that don't matter, but I don't want to stop them from doing it in fear that it'll push them away from the team and lead them to quit
+
+Everyone disagrees with at least some part of how I'm managing the team
+
+Thanks to Ben Kamens, Rafe Colburn, Katrina Sostek, and Troy Trimble for reviewing the content of this post.
+
+I've been building software professionally for over 10 years now. I love what I do and I hope to be an old programmer someday. But along the way, I've encountered many terrible things that have made me hate my job. I wish that someone had given me a roadmap of what to expect earlier in my career, so when some new and unfortunate awfulness occurred that I wouldn't have felt so alone and frustrated.This post is meant to be such a guide. I have three goals.Thegoal is to look back: To identify experiences we both may have had in the past. These will help us establish some common ground of understanding. They'll serve as reference points to judge other unfamiliar problems.Thegoal is to look forward: To identify new issues that you may have not experienced yet, but likely could in the future depending on your path. I hope these items will help you prepare for what's coming and decide for yourself what's worth pursuing.Thegoal is to help you empathize and have mutual respect for the difficulties your teammates are facing. You may never endure many of the forward looking-items, especially if you're not a tech lead or manager. Similarly, if you are a tech lead or manager, you may have forgotten what it feels like to be an individual contributor; you may be out of touch with the day-to-day realities. I want to help everyone get on the same page.The lists in the sections below are not in order of priority. They include observations that other people have told me about; they're not necessarily things I've experienced directly. So if you and I have worked together in the past, please don't assume that a particular example is about you.It's also important to note that there are other categories of horrible things that this post does not confront at all: racism, sexism, ageism, aggression, and many other factors that contribute to a hostile work environment. I'm not qualified to write about these topics, and they've been described and analyzed thoughtfully elsewhere.My objective in writing this post is to enumerate what follows from the nature of building software in teams. If you think I missed anything, please let me know . I can imagine that many of these points, especially in the lead and manager lists, also apply to other disciplines. And please keep in mind that these roles aren't all bad; my next post on this subject will be about the good things.For an individual contributor who writes code and is directed by a tech lead or manager.For a software engineer who writes code and also leads the design and implementation work of a small group of individual contributors (who are managed by someone else).For someone who manages a group of software engineers. This person may also be the tech lead, or manage tech leads who direct their reports.

@@ -1,0 +1,209 @@
+For the last decade (#omg!), I've consistently complained about a fundamental flaw in Web Analytics tools: They incentivize one night stands, rather than engagements matching customer-intent.
+
+This leads to owners of digital experiences (insanely) expecting all visitors to their websites to convert right away – anything less than that is a failure. Damn the intent the customer is expressing.
+
+[Sidebar] I'm experimenting with sharing short stories via an insightful newsletter. I'd love for you to sign up: The Marketing Analytics Intersect. Thanks! [/Sidebar]
+
+It also results in Marketers obsess about awful things like last-click conversions (die last-click attribution die!). They make silly user experience decisions (Searching for car insurance options? We will remove every single thing from the page except a GET QUOTE button. Ha! Sucks to be you Visitor!). They never consider Think or Care intent, all they obsess about is Do intent (See-Think-Do-Care business framework). Not even all of the Do, just the strongest of commercial intent. The very bottom of the Do! It really is quite crazy.
+
+You'll agree all of this sounds quite insane. Not just insane, so visibly insane that everyone should see through it and fix their minds/reports/strategies. So, why are we still so obviously wrong and still on the insane path?
+
+Simple. It is just how all of the Digital Analytics tools are configured at their very core.
+
+Every standard report in every standard tool is configured off Visits (or in Google Analytics language, Sessions), rather than Visitors (GA language, Users). The specific metric I've been mad about since day one of this blog (May 14th, 2006!) is Conversion Rate. It is measured as Orders/Visits. [Or, its variation Outcomes/Sessions]
+
+Built into that is the mental model that if you visit a website, then every Visit has to result in money for the site owner. Else, it is a failed visit. Scroll up a bit, see that formula again.
+
+This is especially true for an ecommerce website, but it also applies to non-ecommerce websites like this blog, Occam's Razor, that uses Macro and Micro Outcomes to compute Economic Value.
+
+Every visit is not an opportunity to jump into bed with the visitor. Don't be that person. Say hello first. Introduce yourself. Buy them dinner. Get to know them. See if you are a fit. Help people make decisions they want to make. If they are expressing Think intent, deliver that content/answers. If they are expressing Do intent, help them figure out the best, most fit, solution for them. If they want to think about it, give them time. If they want to ask their wife/boss (often the same person :)), give them a convenient way to do that. So on, and so forth. Basic humanity stuff.
+
+If you want to give your organization, your people, the incentive to move away from one night stands to digital engagements that keep pace with our customers and are driven by their intent, you need to make one simple change.
+
+The Conversion Rate formula should be: Orders/Visitors. [Or, it's variation Outcomes/Users]
+
+So simple.
+
+Every single visit by every single visitor is no longer judged as a success or a failure at the end of 29 min (max) session in your analytics tool. Every visit is not a "last-visit", rather it becomes a continuous experience leading to a win-win outcome. Every marketer now has an incentive to focus on the person (visitor, user) rather than a visit (session). This leads to more savvy thinking, like not really caring what the current referrer/source of the visit is, rather obsess about the multiple marketing touch-points leading up to this visit. This forces designers from the awfulness of GET QUOTE, BUY TICKET, and other insane giant red buttons, to Get Quote and another button that says "Identify Best Fit". Or, pairing up Buy Ticket to "Save Research." It brings such deeper care about the customer experience across visits (and then, across devices!).
+
+Outcomes divided by Users.
+
+Shifting the focus to solving for a relationship and giving up on constantly scoring one night stands.
+
+It is something small, and yet something so big. Metrics create incentives, bad metrics create bad incentives. It does drive me bananas that until today IBM, Google, Adobe, and every other major analytics tool still runs off visits, incentivizing bad behavior (sadly, quietly without executives even realizing it most of the time).
+
+While this is a great lesson in the power of defining metrics optimally, why bring this up, one more time, today?
+
+Because now, you don't have to pull data out of your analytics tool's API and do your own calculations with the right formula. You can do it directly inside Google Analytics!!
+
+I love the wonderful decision of the Google Analytics team to give us all control over how we want to see our metrics calculated. An additional benefit is that the team does not have to be create everything for it's users, because it is very difficult for them to understand the needs of all users. Like with the glorious custom reports feature, we can now go in and create the exact view we need.
+
+In this post, let me share how to use this wonderful feature by highlighting a handful of my favourite calculated metrics (staring with my new BFF, people centric Conversion Rate!).
+
+Here is a run-down of the main sections of the post… I recommend reading them in order as I tried to solve for the best learning experience…
+
+I hope you are really excited about what you are going to learn. I am so very excited about this feature, and the cultural shifts in your organization's thinking that you will drive – not just the new data you'll provide them with.
+
+Here we go…
+
+How To Use The Google Analytics Calculated Metrics Feature
+
+The GA team has a wonderful Calculated Metrics User Guide you can read. All in all, a very simple, well designed feature. Here, quickly, are the main bits…
+
+Give the metric a Name. Ignore External Name. You'll have five choices for Formatting Type (Integer, Currency, Time, Float, Percentage). They mean the obvious things, we'll try and use each of them below so you'll know what they are doing. Finally, the magical part, type in the formula.
+
+Marvelously the GA team has made this brain dead easy. Start typing the name of the metric you want, then type in the operator (plus, minus, etc.), and then type in the other metric. Done! You don't need to know all the technical database definitions, just type in the human understood name. You don't even need to worry about the parenthesis etc!
+
+Finally, hit Create.
+
+Go get a Red Bull. You deserve it!
+
+Now, let's look at some of the calculated metrics I find most useful in my day-to-day work as an Analyst.
+
+#1. Real Conversion Rate Per User
+
+This is the baby that started it all! It is a very simple metric to create, it will have a powerful impact on how your company thinks of success. Up and down the chain of command.
+
+It is extremely easy to set up…
+
+Two things to note. I'm using the Formatting Type Percent, as we are going to express the result in percentage terms. Since I'm not using an ecommerce website in this example, I've typed in Goal Conversions in the Formula field. If the above was for an ecommerce website, I would use {{Transactions}} / {{Users}}.
+
+Save your work.
+
+Now what? Here's where things get a bit tricky, for sensible reasons.
+
+In order to see your new and gorgeous calculated metric, you have to create a custom report. [How to: Custom Reports] It is quite easy, here's a very simple one for conversion rates…
+
+For the purpose of demonstration, I've chosen both Sessions (also referred to as Visits sometimes), Users (also referred to as Visitors), the Conversion Rate as GA would show by default (the one night stand version), and the new calculated metric (Conv. Rate Per User).
+
+Let's look at these metrics by the simplest dimension you can possibly use, Source/Medium.
+
+Here's the resulting report…
+
+First thing you'll notice, is that your Conversion Rate Per User is higher than the inferior one. This is simply because not everyone converts on the first visit (#doh). The important bit is that this shift in metric definition will help drive all of the benefits mentioned at the top of the post.
+
+Also notice that the increase is not even, it is +10 percentage points for RSS, but only +4 percentage points for Yahoo!. This will encourage you to understand each cluster of users, and their intent, much more cleverly.
+
+Fun, right? Let's keep going.
+
+#2. "Gross" Calculated Profit
+
+I worry at this point that you'll think complaining is the undercurrent in this post. But. I can't help it.
+
+It has always upset me that we measure success using the metric Revenue. Make not mistake, Revenue is fabulous. But, Revenue by itself does not determine success.
+
+Here's a simple example. You spent $211 on your AdWords campaign cost for keyword Calico Critters. The resulting Revenue was $958. Success? A profitable transaction?
+
+Maybe, maybe not.
+
+At the very minimum, two things are missing. First, the cost of goods sold (how much did the product or service cost you) and associated human costs (you, the company managers, clerks, CEO et. al.). Again, at the minimum Profit = (Revenue) – (Campaign Cost + COGS + Humanity).
+
+While you can't get down to an accounting system level precision in Google Analytics, you can be smarter about if you are making money. Here's the calculated metric for one of my ecommerce sites…
+
+Again, two things to note. I'm using the Formatting Type: Currency (Decimal). In case of this business my COGS plus Human Cost is approximately 70%. Hence, the formula for my Calculated Profit is as you see above. This is not perfect (it certainly won't be the same for every product I sell), but I'm in a much, much, much better position using a swag for gross margin.
+
+As in the case above, I'll create a custom report in order to see my results. Here's that report…
+
+The last column is my new calculated metric.
+
+Now look at the numbers again. I spent $211 making an approximate profit of $287. My net profit is $76.
+
+Here's the quick benefit for your Marketers and Senior Decision Makers from this exercise. At least they won't do this math: $958 – $211 = $747. Hurray! We are making tons of money!!
+
+At least they'll be closer to reality, it's not $747, it's $76.
+
+The campaign is still in black. But you'll discover with this calculated metric that that might not always be the case. You'll also be forced to have the opportunity cost discussions. Maybe that effort in a different area could have yielded more than $76. Oh, oh, oh, and what if for this campaign you were giving a 15% discount via coupons? We did not account for that in our COGS and HC. Did that 15% coupon just wipe out your $76, or worse lose money?
+
+These are questions that Digital Analysts rarely get involved in. Because they are limited to Revenue. In this case, it is not a limitation of the tools we have. But, you can now ensure that your company is not one of those silly ones that does not get closer to understanding profitability of their digital efforts.
+
+Not quite as revolutionary as #1, but I guarantee you that this is going to start very tough discussions inside your company. And, all for the better. I'm ignoring how much more influential you will end up making the Digital Analyst inside your company.
+
+Smart power, of smart metrics. Calculated metrics!
+
+#3. Average Time Per User
+
+Let's say we are running a content website like my beloved New Yorker. [You want your mind blown? The Gene Hackers.]
+
+We care of our Pageviews, our Sessions, and on bright sunny days we care for Time on Site (also called, Average Session Duration).
+
+But, these are session based metrics. I.E. they only tell us what is happening during one visit. That is nice. But, what's marvelous is understanding the time people are spending across all their visits during a given time period.
+
+Shifting from, how much time did Avinash spend during his 17th visit to our website to how much time did Avinash spend in January on our website?
+
+While can't quite get to the Avinash part (at least without using User-ID Override in Universal Analytics), you can get a sense for the average user on your website.
+
+Here's the calculated metric…
+
+We are using the Formatting Type: Time. That's what we are going to express the output in.
+
+We take the Session Duration metric in GA, and flip to focusing on people rather than the visit by dividing by Users.
+
+Quick relevant custom report, and you are in business.
+
+The shift we accomplish here is to move attention away from a transient pageview based world, one where silly, short-term, often lowest common denominator decisions permeate, to looking at what creates loyalty. What sources. What content. What cities. And, so much more.
+
+As in the case of Real Conversion Rate, this calculated metric benefits from a pivot to people. There are many other metrics you can do this with, I'll let you explore them at your leisure.
+
+#4. Combine Results / Metrics Performance
+
+This lovely use of calculated metrics eases the burden quite often.
+
+Here's a simple example, one that was painful for me.
+
+On the right navigation of this blog you'll notice that I proudly display my best selling books Web Analytics: An Hour A Day and Web Analytics 2.0. You should buy them, 100% of my proceeds from both books are donated to charity (thanks to you, roughly $300k thus far!).
+
+As you might imagine, I track the clicks and conversion on all the outbound links including those of the books. The challenge is that I get them reported separately…
+
+I don't want to see the books reported separately. I ten goals. I don't have time! :)
+
+[Ignore the fact that Goal 9 was broken for a while, the cobbler's son not having shoes. Or, that Goal 10 is now broken. I need help cleaning up my Google Analytics implementation. Ironic!]
+
+Well, now I don't have to worry about this problem. Using calculated metrics, I can fix this problem easily…
+
+We are using Formatting Type: Integer. Makes sense.
+
+You don't have to type in all that stuff you see in the Formula field. In my case, I just started typing the name of the book and GA does the rest for me. Brilliant.
+
+Here's the complete formula: {{Web Analytics 2.0 (Goal 8 Completions)}} + {{Web Analytics Hour (Goal 9 Completions)}}.
+
+I now have my lovely Calculated Metric of Total Book Clicks to add to any custom report that I want…
+
+There are so many scenarios where you can apply this simple, but effective, strategy to make your life a little easier (and reduce your reliance on post processing in Microsoft Excel).
+
+I'm using addition in this case, you can of course use division, multiplication, subtraction and even more craziness. Play with it, just make sure you don't end up with the crapification called Compound Metrics (lesson two: social media compound metrics).
+
+#5. Product Views Per Transaction
+
+I'm going to expose how very old I am. I used to use NetInsight. How many of you still remember it? It was a nice tool.
+
+As I was trying to think of new calculated metrics to play with, I thought of a metric that I used to like. Product Views Per Session. How many of views there are on average of your product pages (the thing that hopefully makes you money), during each visit. It was quite cool.
+
+So, here's a metric that is jut as cool. How many product detail pages do people see per transaction that occurs on your website? Product Views Per Transaction…
+
+We use Formatting Type: Float.
+
+The metric begins to help you understand how many products people are comparing, looking at, when they do business with you. Is it a lot? Is it a little? Your UX/UI teams might be quite interested in it.
+
+Of course, you can also do Product Views Per Session. Just change Transactions above to Sessions.
+
+The one gigantic caveat for this calculated metric is that you have to have implemented Enhanced Ecommerce on your website. It is totally, totally worth it for a million other reasons (very smart new metrics, reports, all around sexy fun), but this should give you one more reason.
+
+Closing Thoughts
+
+If you are a user of the standard edition of Google Analytics, at the moment you can only create five calculated metrics. If you have the premium edition, you get 50.
+
+The five ideas above simply scratch the surface of what's possible with calculated metrics in Google Analytics. I have so many, many more I could share with you. I love being able to compute Cost Per Acquisition (a metric I've so wished for in GA). I can convert so many more views to be based on a person, Events and Internal Searches and more. OMG, and it is so much fun to do simple Currency Conversions. I can also sessionize any metric that GA won't sessionize by default.
+
+I hope you'll truly explore all that you can do. It is a lot. And, with every little success you'll end up with just the beautiful metrics you need (ideally in focused custom reports, trust me a datagasmic outcome!).
+
+I can't resist, one more idea. I even have my very own custom dashboard for my Sr. Executives comprised entirely of Calculated Metrics! It is so cool. But, something for another day.
+
+Calculated metrics are about solving computation problems, but, I hope you'll see in every case above, at the end of the day, it really is about changing the culture of your company by having data create better incentives.
+
+As always, it is your turn now.
+
+Which one of the the above five calculated metrics do you love the most? Have you created some of your own, if so would you please share your most useful? Are there clever formulas you've created beyond simplistic one in #4 above? What would you like to do with Calculated Metrics that you are unable to do at the moment?
+
+Please share your clever examples, brilliant ideas, insightful critique and valuable feedback via the comment form below.
+
+Thank you.

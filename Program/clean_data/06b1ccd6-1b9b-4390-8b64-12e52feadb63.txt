@@ -1,0 +1,169 @@
+What a digital organisation looks like
+
+There’s been a lot of work to define what a good digital service looks like (see for example the government’s Digital Service Standard). It’s less obvious what to do if you want to make your whole organisation digital, and there are even fewer success stories to model yourself on.
+
+This lack of clarity breeds indecision, risk aversion and a lack of confidence, which results in poor leadership and bad outcomes for users and sometimes also for society in general. Even when organisations want to become digital, it’s hard to know where to start. We @doteveryoneuk want to try to help fix that.
+
+Here’s where we’ve got to so far in our thinking — we’d love to hear what you think.
+
+Digital is something you are, not something you do
+
+Digital isn’t a list of things to do. It’s about how you think, how you behave, what you value, and what drives decisions in your organisation. Or, to put it another way, it’s about “applying the culture, practices, processes & technologies of the Internet-era to respond to people’s raised expectations” (@tomskitomski’s definition of digital).
+
+Digital isn’t just about organisations that deliver primarily digital products and services, either. A digital organisation is one that can operate effectively in our digital age — which means leaders in all organisations and from all sectors need a basic level of digital competence, curiosity and confidence.
+
+No single individual can make you digital
+
+Becoming a digital organisation is not just about recruiting a digital superhero as your chief digital officer and hoping that will do. Organisations that try this tend to follow a common cycle of failure.
+
+Digital transformation failure cycle
+
+A superhero is a single point of failure — especially if nobody else understands what they are doing. And it’s much easier (and safer) to assign blame to one person instead of a series of interconnected issues. You wouldn’t dream of leaving all considerations about money to the finance director, asking no questions and not wanting to consider options before making decisions. So why do that with digital technology?
+
+To avoid this cycle, the whole leadership team needs to take responsibility for making changes to the organisation’s structure, culture and working practices. It also helps to have other mitigating circumstances, for example a burning platform that forces radical change or a very senior sponsor with a strong mandate and will.
+
+Digital organisations are responsive, open and efficient
+
+Responsive
+
+Digital organisations are able to both understand and respond to people’s rapidly changing needs, habits and expectations. That’s a different thing than, say, having a customer insight team. A lot of organisations think they understand their users, but in many cases they aren’t set up to respond to this understanding in an effective way. That’s because:
+
+even if one part of the organisation knows what’s needed, they can’t get everyone else’s attention (digital marketing teams often find themselves in this position)
+
+evidence isn’t understood or valued in the organisation, with preference given to long-held but untested beliefs instead
+
+people can’t extract, work with or act on data and insight in a timely way because of slow and inadequate technology and ways of working
+
+it’s hard to make quick, effective decisions at the right time and at the right level in the organisation because of excessive or inappropriate bureaucratic and technological controls (ignoring the fact that creative, curious people are going to use their own devices and accounts to do what they want regardless, completely outside the organisation’s control)
+
+Responsive organisations have empowered, multidisciplinary teams who have access to relevant, real-time data about the changing environment and are empowered and equipped to respond. (See for example Spotify’s autonomous squads.)
+
+Open
+
+To be fully responsive, your whole workforce needs to work in an open way, both collectively and as individuals. You can’t be open if you only act as a single, monolithic, internal-facing entity.
+
+Open organisations:
+
+do things that they explicitly label as experiments, including experiments in collaboration with others (like the recently launched Citymapper bus / TfL collaboration)
+
+share what they’re doing, how their thinking is developing, and what they’ve learned (like the Coop Digital blog, or the HackIT blog about digital transformation in Hackney Council)
+
+talk publicly about things that have gone wrong (like the GOV.UK incident reports blog)
+
+take inspiration and ideas from a wide range of sources, and participate individually in communities of practice and interest outside the organisation (for example, ODI Fridays, UK GovCamp and related networks and events)
+
+have visible, accessible leaders (like @claremoriarty, Permanent Secretary at the Department for the Environment, Food and Rural Affairs)
+
+Being open enables you to be more responsive. When everyone behaves in an open way, your organisation has access to much more useful information, insight and support than it would otherwise have.
+
+Efficient
+
+Being digital doesn’t add cost — in fact, done well, it should reduce cost, reduce risk and make you more efficient and resilient.
+
+It’s not just about making your existing processes cheaper by moving them online. (Also, there’s a limit to how many savings you can gain from that.) Taking a digital approach often means completely redesigning the way a business works.
+
+Digital organisations are more efficient when they:
+
+have a clear strategy and goals so that teams can make consistent, effective decisions without having to escalate things for senior attention
+
+so that teams can make consistent, effective decisions without having to escalate things for senior attention have a free, fast flow of information within and between teams — operating as a network rather than a hierarchy
+
+within and between teams — operating as a network rather than a hierarchy use flexible governance methods and and ways of working that support rapid experimentation, learning and iteration
+
+methods and and ways of working that support rapid experimentation, learning and iteration give people trust and responsibility to fix things that they can see are broken
+
+to fix things that they can see are broken see the internet as a non-optional and intrinsic part of the organisation, its products and services, rather than as a separate channel
+
+When you work in an open, responsive and iterative way, you find out much earlier when things aren’t working so mistakes and failures are much less expensive, and your multidisciplinary teams are much better equipped to identify, understand and respond to problems early, before things escalate.
+
+Five aspects of a digital organisation
+
+So if your organisation isn’t responsive, open and/or efficient, how do you change things?
+
+From what we’ve learned so far, we think there are five main aspects of a digital organisation, and you ideally need all of them to be in place.
+
+Environment — understand what changes are taking place Users — put them at the heart of your organisation Workforce — empowered, equipped and organised to work digitally Leadership — bold, open, curious Tech, data and processes — flexible, to serve your organisation’s goals
+
+5 aspects of a digital organisation
+
+1. Understand the environment
+
+You can’t be a responsive organisation if your leadership team as a whole doesn’t understand the changes that you need to respond to, including the changes being brought about by digital technology. These changes apply not just to how services are delivered, but also to how people live their lives in a networked society, and how they therefore expect to interact with organisations.
+
+Leaders don’t need to be technical experts, but they do need to understand the implications of the changes taking place in the world and how to harness the whole organisation, using digital technology, to do a better job for users.
+
+It is somehow still socially acceptable for leaders to say they don’t understand the changes that are being brought into our lives by digital technology, as though it’s some kind of niche topic that only specialists need bother themselves with. Digital technology isn’t niche — it affects most aspects of our lives, and most aspects of the strategy and operations of most organisations.
+
+Simon Wardley has written extensively on how to understand and map your environment, and how to develop strategy on that basis. His work is a good place to start.
+
+2. Users at the heart of the organisation
+
+An understanding of and empathy for users needs to go through the entire organisation so that everyone has the insight they need to make rapid, relevant and effective decisions.
+
+To achieve this deep, universal focus on users:
+
+Everyone should understand users’ needs: relevant, timely data and insight should be available to everyone, and they should all be appropriately empowered and equipped to act on it in the interests of users
+
+relevant, timely data and insight should be available to everyone, and they should all be appropriately empowered and equipped to act on it in the interests of users Everyone should know how the organisation is performing: in response to its users’ needs and expectations (and where in the system any failure is happening) — this information should be up to date (ideally real time) and visible all over the place
+
+in response to its users’ needs and expectations (and where in the system any failure is happening) — this information should be up to date (ideally real time) and visible all over the place Everyone should be responsible for making things better for users: there should be no separate, lofty policy teams, too far removed from users to have any real understanding about them, and everyone should have some skin in the game when it comes to building and operating services that work for users
+
+there should be no separate, lofty policy teams, too far removed from users to have any real understanding about them, and everyone should have some skin in the game when it comes to building and operating services that work for users Everyone should be able to relate to users: sharing stories about individual users can be really powerful for this purpose — see for example this video about Ann, talking about her experience of using the Lasting Power of Attorney service, and the power that had to persuade and inspire people to make government services work better.
+
+3. Bold, open and curious leadership
+
+Digital organisations have an open, collaborative and experimental culture. For this to happen, you need a new style of leadership.
+
+We’ve written a bit about this previously in relation to the civil service, but the point applies much more widely than that. To build and sustain a digital culture and be effective and responsive in a digital environment, different styles of leadership are called for. Leaders need to embrace and celebrate experiments, change and failure. They need to show boldness, empathy and humility while working at a much faster pace than most organisations have been used to or are capable of.
+
+Practically, the types of things that can enable this kind of leadership and make it more effective include:
+
+leadership teams who focus on problems , opportunities and outcomes (rather than specific solutions and programmes)
+
+, opportunities and outcomes (rather than specific solutions and programmes) proportionate and appropriate technological and bureaucratic controls that adapt and become more effective and efficient over time (in place of those built up by layering on more controls in response to every new risk or issue)
+
+that adapt and become more effective and efficient over time (in place of those built up by layering on more controls in response to every new risk or issue) performance and people management systems that value and reward experimentation, insight, openness and collaboration (I like the Netflix Culture Deck as an example of how to build the culture you want through your recruitment, performance management and rules of work)
+
+that value and reward experimentation, insight, openness and collaboration (I like the Netflix Culture Deck as an example of how to build the culture you want through your recruitment, performance management and rules of work) cultures that make explicit through open discussion the social rules of the organisation (like @gilest’s ‘It’s OK to’ list, which was adopted by the Government Digital Service and many others)
+
+that make explicit through open discussion the social rules of the organisation (like @gilest’s ‘It’s OK to’ list, which was adopted by the Government Digital Service and many others) leaders who show the qualities of boldness, openness and curiosity in the way they work, encouraging others in their organisation to do the same
+
+4. A skilled, empowered workforce
+
+Organisations are often tempted to think they need to replace their existing workforce with ‘digital people’, whereas often there are people already in the organisation with the skills and aptitude to work digitally and behave as pioneers — they just haven’t had the mandate, space, permission or tools to do so, yet.
+
+Working digitally is not the preserve of people with a computer science degree or those who are professional software developers. If you want to design and build digital products then you’ll obviously need people with expert skills who know how to do that. But it’s also true that anyone who is curious, smart and engaged can work in a digital culture and use digital ways of working if they’re given the right environment, tools, training and leadership.
+
+If you want your whole organisation to become a digital organisation, you need everyone to get to at least a basic level of digital competence and confidence.
+
+5. Technology, data and processes that serve your organisation’s goals
+
+Too often, organisations are constrained by the technology, business processes and organisation design choices they’ve made in the past, to the extent that these things dictate the organisation’s strategy rather than the other way around.
+
+This situation is frustrating, and it’s tempting to think the answer is to upgrade the tech and hope that will fix everything. Well, it might help, but it won’t fix everything — especially if you don’t also take care of the organisation’s culture and ways of working. Leaders need to avoid looking at tech as a thing on its own, and think of it as a set of things that can either inhibit or enable the organisation in meeting its goals.
+
+Digital organisations have:
+
+Data that is comprehensive, relevant and available so that people can use it to make things better (for example, screens that show real-time data about the performance of services)
+
+so that people can use it to make things better (for example, screens that show real-time data about the performance of services) Processes that are fast, integrated and light (for example, governance and oversight that’s appropriate to the risk and scale of digital investment at any given time, particularly when it comes to rapid experimentation and iteration)
+
+(for example, governance and oversight that’s appropriate to the risk and scale of digital investment at any given time, particularly when it comes to rapid experimentation and iteration) Tech that is interoperable, scalable and flexible (for example, short-term contracts for different, interoperable components of enterprise technology, rather than one long-term contract that’s difficult to change)
+
+Where to start?
+
+There is a lot to do, and organisations often get stuck on the question of where to start. There is no right place to start, but in general it’s more useful to do things and iterate from there than it is to talk about things until you have a perfect plan.
+
+Here are a few ways that organisations can get started:
+
+Find and support your pioneers and troublemakers: find the people in the organisation who are already working on or wants to work on making things work better, and give them space and mandate to do more.
+
+find the people in the organisation who are already working on or wants to work on making things work better, and give them space and mandate to do more. Fix what’s broken: find a source of failure or waste in the organisation and design a small-scale experiment using digital technology to fix it. Repeat.
+
+find a source of failure or waste in the organisation and design a small-scale experiment using digital technology to fix it. Repeat. Align digital and tech to your overall strategy and direction: identify the main things you are trying to achieve and design experiments to see how digital technology could help (rather than starting from the question of what can we do with technology, or how can we use digital tools).
+
+What’s next
+
+We’re going to use this thinking as the basis for creating some content for people who want to make a start in increasing their digital confidence and competence, and as the basis for our work with partners to help develop their leaders’ digital confidence, curiosity and competence.
+
+We’d love to know what you think — what’s missing, what’s not right, what resonates and what doesn’t. Let us know in the comments or at hello@doteveryone.org.uk.

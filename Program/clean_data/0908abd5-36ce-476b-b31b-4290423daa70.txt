@@ -1,0 +1,27 @@
+How much do you trust the reviews you read online? Probably not a lot, right? You know, like most people, that glowing write-ups and five-star ratings can be easily bought. And you might even think you’re pretty good at spotting the difference between fake reviews and real ones. But how well would you fare against reviews written by AI?
+
+As first reported by Business Insider, researchers from the University of Chicago have trained a neural network that can churn out convincing fake reviews. Their research, which will be presented at the ACM Conference on Computer and Communications Security this October, points to a future where the online review system is not just hit and miss, but completely broken. Because although it’s one thing to be able to buy fake reviews from humans online; it’s another when the process can be completely automated, with AI bots churning out super realistic write-ups on Amazon, Yelp, TripAdvisor, and everywhere else you look.
+
+Not convinced? Take a look at this trio of five-star reviews of the same restaurant in NYC, and see if you can spot the real deal:
+
+“I love this place. I have been going here for years and it is a great place to hang out with friends and family. I love the food and service. I have never had a bad experience when I am there.” “I had the grilled veggie burger with fries!!!! Ohhhh and taste. Omgggg! Very flavorful! It was so delicious that I didn’t spell it!!” “My family and I are huge fans of this place. The staff is super nice and the food is great. The chicken is very good and the garlic sauce is perfect. Ice cream topped with fruit is delicious too. Highly recommended!”
+
+The answer: one, two, and three are all fake. They’re the result of a neural network trained on millions of real reviews taken from Yelp.
+
+This is just a small sample, but the researchers tested their bot against a larger group of human recruits using Amazon’s Mechanical Turk. Five fake reviews were generated for 40 real restaurants, with each set given to three individuals. The individuals were asked to rate whether they thought the reviews were real or not, and how useful they thought they were. The researchers say their AI-generated reviews were “effectively indistinguishable” from the real deal, and were given a “usefulness” rating of 3.15 by human evaluators, compared to 3.28 for genuine reviews.
+
+The fake reviews aren’t perfect, of course, and the researchers say they were able to develop techniques that could weed out AI-generated text. (One giveaway was the frequency with which different letters are used in real vs. fake reviews; it turns out the neural network created by the researchers tended to use a less diverse range of characters, which was an easily-spotted tell.) But, future neural networks could be trained to be even more sophisticated, and the end-result might be a game of AI cat and mouse between fake review generators and fake review detectors.
+
+In a statement sent to The Verge, Yelp said that it didn’t believe these sorts of AI fakes would pose much a problem. “While this study focuses only on creating review text that appears to be authentic, Yelp's recommendation software employs a more holistic approach,” said a spokesperson. “It uses many signals beyond text-content alone to determine whether to recommend a review.” Other sites would presumably use similar approaches.
+
+fake reviews will “shake our belief in what is real and what is not”
+
+But for Ben Zhao, one of the researchers behind the project, the implications go much further than just untrustworthy restaurant reviews. Technology like this, he told Business Insider, will “shake our belief in what is real and what is not.”
+
+“So we're starting with online reviews. Can you trust what so-and-so said about a restaurant or product? But it is going to progress ... It is going to progress to greater attacks, where entire articles written on a blog may be completely autonomously generated along some theme by a robot, and then you really have to think about where does information come from, how can you verify.”
+
+The Verge wrote about this topic last year, discussing the many ways AI can be used to manipulate or generate fake videos and imagery. It’s a fast-developing field, though, and since then even more techniques have been created, making it easy to fake video of politicians speaking, or recreate someone’s voice using just a few minutes of speech as sample data.
+
+Fake reviews on Yelp and Amazon might just be the start of a new era in the digital age, where the number one priority online will be working out who’s really human, and who’s not.
+
+Update September 1st, 04:30AM ET: Additional comment from Yelp added.

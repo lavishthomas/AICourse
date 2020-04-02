@@ -1,0 +1,135 @@
+Keeping track of your finances is one of the most important aspects of managing a business, and invoicing tops that list. Producing professional, timely invoices for your clients and customers will ensure that you make a positive impression, and enable you to maintain a firm grip on the financial state of your business.
+
+However, when you're running a business on a tight budget, it can be difficult to find an invoicing tool that has the features you need without breaking the bank.
+
+See also: 9 Data Sets Every Ecommerce Company Should Measure
+
+We handpicked 27 of the best free invoicing online tools to help ease the process of managing your accounting, and simplify getting paid. Note that we've only included tools that provide a dedicated free plan, or are open-source, excluding those that only offer free trials.
+
+Is there a particular free invoicing tool that you would recommend? If so, please share the link with our readers in the comments below.
+
+
+
+Image: Curdbee
+
+Curdbee is a fully featured online billing tool that can be used to send estimates, invoices, track time and expenses, and accept online payments. You can send invoices to an unlimited number of clients with support for PayPal, Google Checkout and Authorize.net.
+
+The tool also lets you set taxes, discounts and shipping costs, and send invoices via email or download them in PDF format. You can customize your invoice template to compliment your branding, and even use your own domain name.
+
+Make Some Time was built for you to create instant invoices with minimal fuss. The beautifully designed interface and dashboard make it easy to use and organize clients, projects and tasks.
+
+You can generate detailed reports and integrate third party sites — for example, you can import projects from Basecamp. An API is also available, which can be be used to extend the capabilities of Make Some Time.
+
+Nutcache is a simple invoicing and time-tracking tool that's easy to learn and fun to use. It allows you to invoice clients, track time and run your small business in the cloud. You can create an unlimited number of invoices, items, clients and taxes, and estimates, all with your own branding.
+
+It's straightforward to convert an estimate into an invoice, and Nutcache includes the option to send your invoice in other formats such as PDF, Microsoft Word, RTF, PowerPoint and CSV.
+
+
+
+Image: Invoice Machine
+
+Invoice Machine aims to produce beautiful, professional invoices simply, with the ability to set options such as currency, taxes, shipping, discounts, language, notes and more. Using the dashboard, you can see which invoices have been sent, paid or are due, and filter them by period, client or status.
+
+Invoices can be sent directly to clients or attached as a PDF to an email. Invoice Machine also comes with a billing timer that will run in the background while you do your work.
+
+Zoho makes it easy to create and send well-designed invoices, effortlessly track time for projects and gain critical insights on your business performance. You can share and collaborate data with team members or even your accountant, with complete control with user based roles. Zoho is integrated with several payment gateways including; Google Checkout, PayPal, Stripe, 2Checkout and Authorize.net.
+
+Ronin lets you manage time, invoices, estimates, payments and clients, acting as an ideal solution for both small businesses and freelancers. Invoices can be customized with your own HTML or CSS, with recurring invoice capabilities and the option to add a convenience cost to cover payment gateway fees.
+
+Ronin is built for teams of one up to large agencies featuring a comprehensive suite of tools including role-based permissions.
+
+Invoiceable will have you creating invoices in seconds, in addition to managing clients in a safe and secure environment. From the dashboard you can view a detailed summary of your business invoices and costs in easy to read charts.
+
+You can send invoices on the go using a mobile device with Invoiceable's iPhone, iPad and Android-friendly platform. There are no limitations on an account except for a "Powered by Invoiceable" link at the bottom of each invoice, which can be removed, if required, for a small, one-time fee.
+
+Simple Invoices is a free, open-source, web-based invoicing system that you can install on your server, or host on one of the recommended marketplace service providers. It features exporting capabilities for PDF, Microsoft Word, Excel or plain text, with multiple invoice types. The invoice preferences enable you to define and customize the wording on invoices with other features including PayPal and inventory support and recurring invoices.
+
+
+
+Image: Paymo
+
+Paymo combines project management, time tracking and online invoicing into a robust tool. It features mobile time tracking on both iOS and Android and an option for converting accepted estimates into invoices.
+
+Setting up recurring invoices is simple, and it's also straightforward to connect Paymo to your preferred payment gateway, with support for Authorize.net, Google Checkout and PayPal.
+
+Timetrack aims to simplify managing time sheets and invoicing with fast data entry, advanced reporting, iCal synchronization, Excel importing and exporting capabilities, multi-user options and role-based access control.
+
+This tool is ideal for small businesses and freelancers alike. You can create invoices based on your time sheets, export as a PDF and customize your invoice template.
+
+FusionInvoice is a simple yet powerful self-hosted online invoicing system built for freelancers and small businesses. It's completely open-source and can be installed on your own server, and allows you to manage your clients, set up recurring invoices, import data and set up filters. FushionInvoice features restricted guest accounts to allow limited access to clients or accountants. It has an efficient quote to invoice lifecycle: Send a quote, get approval and then convert to an invoice.
+
+Harvest is an all-in-one solution featuring fast invoicing, payments and expense tracking. You can enter expenses from anywhere using the iPhone app or Twitter, and store receipts digitally.
+
+Invoices can be completely customized and can even automatically pull in project hours and expenses. Harvest helps you stay on top of your business' financial health by running reports on invoices and payments collected.
+
+InvoiceOcean is intuitive software that allows efficient invoicing, with the option of issuing bills and receipts, creating charts, integrating PayPal and recording company spending. You can issue a wide spectrum of documents, including invoices, bills, receipts, corrections, advance payments, margins, cash accounting invoices, purchase orders, cash register receipts and disbursements.
+
+The software also offers secure SSL protocol encryption with a selection of available currencies and languages.
+
+Invoice Journal makes it easy to create, send and manage all of your invoices, products and inventory from one centralized system. You can customize templates based on your requirements, create estimates and easily convert them to invoices, and filter and track your clients. Invoice Journal supports multiple languages, recurring invoices and features the ability to import both product and client data from other applications.
+
+
+
+Image: Invoice-o-matic
+
+Invoice-o-matic is a free online invoice tool from the FreeAgent team. It's incredibly simple to use — simply enter your details into the invoice template and a PDF will be sent to both your client and your own inbox for record-keeping. It can also send a reminder when the invoice is due, and you have the option to change your currency setting and include sales tax at a specific rate.
+
+Wave's suite of invoicing tools make it easy to bill your clients and get paid, and customization options help you to create branded, professionally designed invoices.
+
+With a "Pay Now" button on each invoice, your clients can pay you by credit card immediately, with a simple setup and flat fee. There are no limits to the number of clients or invoices you create, and recurring invoicing can be set up in just a few steps.
+
+Invoiceto.me is a free online service that allows you to fill in your company’s name, recipient details and a custom introductory message for each invoice in no time. You have the option to download the invoice as a PDF, print it or send it to recipients. You can also specify the percentage of sales tax, and add and delete rows or items.
+
+It's simple and straightforward to use, and it's powered by jQuery.
+
+You may not even realize that you can send professional invoices using PayPal Payments. It allows you to create invoices, save templates, insert addresses from your contact list, manage invoices, and search by customer and date.
+
+Your customers don't need a PayPal account to pay (they can use a credit card). To get started, log in to your PayPal account, click "Request Money," then choose "Create an Invoice," and you're ready to fill in the details.
+
+
+
+Image: Paper Free Billing
+
+Paper Free Billing is an online invoice app that makes it easy to create, manage and track invoices. You can send invoices in just a few clicks, keep track of client payments and set up recurring invoices to be sent out automatically at set intervals.
+
+Templates are both flexible and customizable; you can even upload your company logo. Paper Free Billing features HTML and PDF invoices, partial payment support, multiple currencies, payment reminders and more.
+
+Billable, made by AppFactory and currently in beta, aims to make billing simple. It's supremely easy to use — just double click on any of the text fields to edit the text, and insert your own details.
+
+Billable automatically calculates the price of all the products or items you add, and even includes Tax/VAT onto your final bill, if required. You can either print the final invoice or save it as a PDF. Billable also works on mobile devices, making it easy to create invoices on the go.
+
+Siwapp is an open-source web app for creating and managing invoices. It's built on Symfony to work as a module connected to other business applications through its API.
+
+With Siwapp, you can manage invoices with different serial numbers (as rectification invoices), download invoice PDFs, and save drafts to continue editing the invoices later, all from the dashboard. Installation is straightforward and includes instructions.
+
+
+
+Image: Apptivo
+
+Apptivo provides a suite of apps to help manage your business. The invoicing app allows you to create invoices for products, services, projects and time sheets.
+
+Clients can pay through a range of gateways, including PayPal, Google Checkout and Authorize.net. All the calculations are automated, and you can account for discounts, taxes, reminders and role-based access control.
+
+BoxBilling offers complete client management, billing and support software, featuring automated billing, invoicing, product provisioning, recurring payments and multiple currency support. You can define custom invoice lines, select taxes and track refunds.
+
+BoxBilling has a customizable template system, and a powerful API is also available to extend the software's modules.
+
+Free Invoice Maker is an online invoice generation tool. You fill in your details on the homepage, and then navigate to the next page, where you can input your invoice notes. The final step is to download the invoice in PDF format, which you can then forward to a client.
+
+It's really that simple to use — no sign-up or login is required, and you can create a simple, professional invoice within minutes. You can also add new items, such as taxes.
+
+Invoice Place aims to save you time when billing and make it easy to create invoices, quotes, estimates and receipts. You can email invoices directly to clients, record postage and handling, apply taxes, create products, and maintain inventory.
+
+Invoices can be customized and branded, with the option to insert payment instructions. There's also multi-currency and partial payment support.
+
+Bamboo Invoice is an open-source invoicing tool best suited for small businesses and independent contractors. It is installed on your server, so you are in complete control of your billing software and data.
+
+It's built on the PHP framework CodeIgniter, is easy to use, features multiple languages and degrades gracefully for users who don't have JavaScript enabled.
+
+
+
+Image: Mr. Biller
+
+Designed for small businesses and freelancers, Mr. Biller is an efficient invoice solution that can help you keep your finances organized. It features customizable invoice templates, credit notes and approval, reminders, taxes, and more. There are no complex modules and it's simple to set up.
+
+Image: iStockphoto, Pixsooz

@@ -1,0 +1,19 @@
+We're two races into the Formula 1 season, and Mercedes-Benz has been killing it. Now we know the team's secret (one of them, anyway), and it's brilliantly simple.
+
+This year, the entire grid of 22 cars is running 1.6-liter turbocharged V6 engines with a sophisticated hybrid energy system that scavenges energy from the brakes and turbo. F1 engineers are among the sharpest on the planet, and they have thousands of parameters they can tweak and tricks they can use to make these power units as powerful and efficient as possible. Mercedes' best and brightest found a particularly cool one: they essentially cut the turbo in half.
+
+This is very smart. Here's why.
+
+A turbocharger's job is to shove as much air into the engine as possible. An engine is essentially a giant pump, drawing air and fuel to create power and expelling exhaust. More air equals more power, because the more air and fuel you can mix the more shove you get. A turbo, which mounted to the exhaust side of the engine, uses two turbines to increase the volume of air flowing through the engine. One turbine, which is spun by exhaust gases leaving the engine, draws air in. The other compresses fresh air and forces it into the engine's cylinders, where it mixes with the fuel and explodes, generating power.
+
+It works exceptionally well, but there's a drawback to the design. The exhaust gases create insane amounts of heat because of the high temperatures of the explosion inside the engine. Heat is bad for power, as the engine is happiest when you feed it the densest, coolest air possible. Putting the turbocharger next to the air intake heats the air going into the engine, robbing you of power. You could move the turbo, but that means more plumbing, less efficiency, and more weight–all bad things when you're competing at the top tier of motorsport.
+
+What Mercedes' boffins have done, according to Sky Sports F1 technical guru Mark Hughes, is split the turbo in half , mounting the exhaust turbine at the rear of the engine and the intake turbine at the front. A shaft running through the V of the V6 engine connects the two halves, keeping the hot exhaust gases driving the turbo from heating the cool air it's drawing into the engine.
+
+Aside from getting cooler air into the engine and extracting more power (maybe as much as 50 horsepower), this setup also allows Mercedes to keep drivetrain components closer to the center of the car. It also allowed the team to use a smaller intercooler, which cools off the heated air before going into the engine, compared to the rest of the cars.
+
+And what about those other cars?
+
+Even with Mercedes' secret out, there's not much anyone can do about it. Engine designs are essentially locked down for the season, so the only teams that can benefit from it are the teams using Mercedes-Benz engines. But those teams–McLaren, Williams, and Force India–haven't been testing these new V6s as long as the official factory team. It's rumored that Mercedes has been running a version of this engine in secret for almost two years, and even though it supplies engines to other teams, they are, after all, competitors. And now they're on a steep learning curve as Mercedes continues to dominate the pack.
+
+Mercedes nifty turbo trick is just one of many engineering schemes the teams have come up with to maximize power and boost efficiency. And while it's an advantage for now, Mercedes can't rest on its laurels. Each team is finding new ways of exploiting the new engine/hybrid combo, and we've yet to see what tricks the other teams have up their sleeves.

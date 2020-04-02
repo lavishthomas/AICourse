@@ -1,0 +1,169 @@
+99.9996253% of Web Analytics reports produced are utterly useless.
+
+Partly because of a lack of any tie to business strategy (ensure you have a Digital Marketing & Measurement Model!), partly because they are out of the box standard reports that web analytics vendors create for “average” people (and we both know that you are not average!), and partly because all they do is present data in the aggregate (a punishable criminal offence if there ever was one!).
+
+As a cure to this malaise, I’ve encouraged y’all to switch to using only custom reports (bring just relevant metrics and dimensions into one place, and throw away 90% of web analytics data that does not apply to you). Here’s a blog post: 3 Awesome, Downloadable, Custom Web Analytics Reports
+
+Read the post and go from “OMG there are so many reports and I don’t know what to do with them” to “OMG I can’t believe just five reports give me 90% of what I need!”
+
+My second prescription was to (repeatedly!) pimp the value of advanced segmentation. I can’t even think of two other things that are quite as life altering as segmentation for an Analyst and/or a Digital Marketer. You go from looking at amorphous globs of goop to a crystal clear understanding of people, their sources, onsite behavior and business outcomes. Here’s my most recent blog post (with downloadable segments): 3 Advanced Web Analytics Visitor Segments: Non-Flirts, Social, Long Tail
+
+Read the post and go from “Arrrhhhh this web analytics is so haaaard” to “Awww… being data driven is so much fun!”
+
+Despite the obvious and incredible advantages, precious few in our dear community have their web analytics existence centered on custom reports and segments. Here’s the hashtag: #heartbreaking
+
+If that is due to the lack of a relevant example to enchant you with its native sexiness then let’s fix that problem. Here it is…
+
+Enchanted?
+
+No?
+
+Okay here is a higher resolution version: Page Efficiency Analysis with Long Tail Advanced Segments
+
+Now?
+
+Maybe not yet. Okay let me break down the components.
+
+Enchanting Analysis: Rule 1: Business Context.
+
+Surprised that I am not jumping into telling you about metrics and dimensions and segments and all the other things that bring Analysts goose bumps? Remember all data is secondary. Your primary quest is to understand the business context, which in turn will dictate procurement of data.
+
+Why this Custom Report?
+
+We produce a ton of content on our site. Which content is most engaging? Which subject matter experts should we hire more of? What type of content (videos, demos, pictures, reviews etc.) do visitors value more? Which content delivers business or non-profit value?
+
+These are very important questions to answer, and with content reports fragmented in tools like Google Analytics and, worse, metrics spread out across reports (or outright hidden), it is hard to answer those questions easily. That’s where my Website Content Efficiency Analysis custom report comes in. It hopes to bring all the key metrics into one place (no more hunting and pecking!) and help you analyze site content optimally. Log into Google Analytics and download the report here: Website Content Efficiency Analysis Report. The report you'll download is a V2 version from what you see in this post. It is more improved with a new technical analysis tab!
+
+[If the report opens in a profile other than the one you want the report in, just scroll to the bottom and in the Profiles section you'll see Additional Profiles, click on the drop down, make your choice, hit Save.]
+
+Why this Advanced Segment?
+
+One of the key ways in which we get relevant traffic to our websites is to have them properly indexed by Google / Bing / Baidu / Yandex. Search Engine Optimization is key. But not just SEO or keywords or our brand name. It drives me bananas how much we still talk about words. Few people search with a word or two. People type phrases into search engines – some of them write entire stories – and those phrases and stories account for an enormous amount of traffic to your site.
+
+[rant] It is so horrible that SEOs still get asked: “Can I rank #1 for word x?” Good lord! Wake up! [/rant]
+
+So two relevant questions come up: How are we doing for the head (few, brand) words? How are we doing for the super important long tail search phrases?
+
+Log into Google Analytics and download these two segments: 1-2 Word Search Query Visitors, 3 or More Word Search Query Visitors.
+
+[If the segments open in the old version of Google Analytics simply open the new version in a new browser tab and copy the segment into the new version.]
+
+We are not doing all this analysis because it makes us happy. It is mandated by the business reality described above. Always, always, always be a slave to business strategy/needs. Let that drive analysis. Don’t puke data out of Omniture/WebTrends and go looking for business problems to solve. Please.
+
+Why Apply these Segments to this Report?
+
+With the above two in hand you are now ready to answer the killer question: How are different pieces of site content doing in terms of SEO in driving visitors via head words and tail phrases, and is it delivering business value?
+
+OMG! OMG! OMG!
+
+Yes! Think of all the possibilities. The ability to focus people in your company on the right content creation. The opportunity to balance efforts between head and tail phrases. The chance to understand what is actually driving business value (you know: the thing that pays your salary!).
+
+This is why as little children we told our moms we wanted to grow up and become Web Analysts. :)
+
+Let’s break down various components of this enchanting bit of analysis. . .
+
+Enchanting Analysis: Rule 2: Establish Macro Importance.
+
+It is possible that I was completely wrong about doing this analysis. Before you waste precious hours of your life (and even more precious hours of your management team / client) always look at a 10,000 meter level view to see if there is any there there.
+
+So that is what we do first, and here is that simple, yet absolutely critical, piece of data. . .
+
+First you will notice that I was right!
+
+Back up a little bit. What we are looking for is whether this analysis is important to do. My proxy for that is how much website traffic are we talking about? Often we end up obsessing about a keyword or campaign or xyz without realizing we are talking about 0.05% of the traffic. Sub optimal.
+
+To the being right part… and this is where the Google Analytics UI is simply brilliant…
+
+In a flash and a bang I can see that my first head segment (one or two words typed) accounts for 13% of the site traffic (yowza!) and the long tail segment (three words or more typed) accounts for an awesome 24% of the site traffic (zoowee mama!).
+
+We’ve established that the analysis we are doing is worth doing, that the long tail is worth focusing on, and any insights we can find will have a material impact.
+
+Life Lesson: In life, before you get too deep into any analysis, use a barometer to establish the work is worth doing. How much desirable traffic or desirable outcomes does your report represent? Be explicit about it and your boss will pay attention to your reports / analysis.
+
+Enchanting Analysis: Rule 3: End-to-End view, or Death.
+
+Very early in your analysis you want to establish a view of the dataset that gives you the end-to-end view of performance. The lack of this view is why I am so critical of standard web analytics reports. You can tickle GA, you can twitch Site Catalyst, or you can rub WebTrends just the right way and find the data. But they all conspire to work against you by not giving you want you want.
+
+Why wait for the vendor? Pull all the data you need (and honestly only you know what you need) into one place. Don’t be satisfied with a report that just shows Visits and Bounces or Time on Site and Load Time or Goal Completion or (worse) %Exits or …. one of the many data distractions so liberally available.
+
+Here is how I define end-to-end… Metrics on your report should give you clear understanding of your performance in these three areas: Acquisition, Behavior, and Outcomes.
+
+So often we tend to obsess about acquisition (impressions and clicks and visits and abc), and sometimes we care about outcomes (revenue and conversions and xyz). It is rare that we care about behavior. You need all three.
+
+In this report my acquisition metrics are Entrances and Unique Visitors – how many people came, how many entered on this page, and with a glance at both I get an idea of how many might have come multiple times.
+
+My behavior metrics are Bounces, Pageviews, Avg. Time on Page – how many people choose to leave right away (“I came, I puked, I left”), how popular the page was for all visits, and how long do people stay on the page (if they stay on the site).
+
+Here’s how that part of the report looks. . .
+
+Already you can start to see wonderful patterns in the data, and since you are not looking at the data in aggregate you can start to see how the two different groups behave.
+
+Once more marvel at the approximately 2x more traffic you are getting from your long search queries people type into Google. Because you have behavior here as well you can start to notice the differences between behavior of the two groups (a lot more page views for the smaller head visitors, but significantly less time on site!). You can start to draw conclusions about the value of the tail.
+
+While you are already doing better analysis because you are looking at Acquisition and Behavior together, this picture is of course incomplete. We are missing outcomes.
+
+Should we be even more crazy about the tail folks since they spend so much more time, and there are so many of them? Perhaps.
+
+Why not look at the bottom-line.
+
+Our outcome metrics here are Per Visit Goal value (how much value each unique visitor adds to us each time they visit) and Total Goal Completions (for when you have multiple goals –and everyone should have macro and micro conversions!). Here’s the rest of the picture. . .
+
+For the sake of clarity I am showing just the behavior and outcomes here; the report has all three in one place.
+
+Delightful, is it not?
+
+While the tail traffic does very well, 14,400 Unique Visitors delivering 3.057 Goal completions, the Per Visit Goal Value is significantly lower than the head traffic, 88 cents compared to 197 cents for the head traffic. So you can double your traffic, but the site is monetizing this traffic for a lot less than the head traffic.
+
+So is the traffic any less valuable? Should you still invest in SEO for the long tail? What is the difference in the types of Goal Conversions between these two groups? What content is driving each set of behaviors? This and all other questions you’ll answer in the next steps. For now the job was to simply get an initial burst of solid starting points from the end-to-end view of the key metrics.
+
+Life Lesson: Friends don’t let friends have reports that are missing one of these three elements in the metrics being presented: Acquisition, Behavior, Outcomes. Choose the metric(s) that is most optimal for you in each bucket, but if your reports don’t have all three buckets. . . rethink why you even have them.
+
+Enchanting Analysis: Rule 4: Look for Surprises, Love.
+
+This is very important. When you analyze data your defacto mode should be to look beyond the top ten rows of data. You should look for things that surprise you. Far too often we look for things we are looking for and we move on. Totally sub optimal.
+
+In this step we’ll analyze the dimension we care about – website content (pages) – and answer the questions above. Which content acquires more head and tail traffic? Which content drives more conversions and business value? Which content does this and which one does that and which one drives deeper engagement and which one drives more bounces and is it only for the head or the tail phrases and which one. . . so many lovely things you can dive into easily.
+
+If you are using Google Analytics for analysis of an ecommerce website you can easily add Keyword as an option for the drill down. I've created that version of the report for you, click here to download it into your Google Analytics account: Content Efficiency & Keyword Drilldown Ecommerce Report. You also have the ability to filter to phrases and keywords that contain a word(s) that you are most interested in analyzing first. Finally, you can also create your custom report such that it drills down into the keywords used to get to that page (head or tail).
+
+Any of the above methods will allow you to dive deeper and look at the actual keywords and key phrases easily. Now you can start to understand things to love in your SEO efforts and drink to the sad situations you’ll surely find.
+
+And there is more. Rubber meets the road in this step. It is raw analysis that you are going to be doing here. Have a notepad next to you and jot down both the obvious insights that will drive immediate response, and write a love letter to your SEO and blow their brains about how many things you find easily in your data.
+
+Life Lesson: Analysis is hard. Smart people do a lot of it.
+
+Enchanting Analysis: Rule 5: Create a List of Prioritized Actions.
+
+When you apply relevant advanced segments to your custom reports you are going to find a lot of actions to take for your business leaders, frontline marketers, SEO contractors, etc.
+
+Rule #5 is going to ensure that something is actually going to be done as a result of your blood, sweat and tears. Never give a long laundry list of “thing to do.” Ever.
+
+Rather, convert the jumble of actions into a numbered list with the first item being the highest priority, then the second highest priority, and so on and so forth.
+
+You are the person with most access to data and, thanks to rule #4, the person who analyzed the heck out of it. So now use that to create the numbered list.
+
+How do you identify item number one for your list? This is where real Analysis Ninjas distinguish themselves, and leave the Reporting Squirrels in the dust. Compute the impact of each of your recommendations. If you paid $a to SEO for long tail phrase zxy it will add value $q. Use performance of existing words / visitors. Look at past performance. Look at competitive data. Make guesstimates (in the worst case scenario). But compute impact.
+
+[Bonus]
+
+For one specific and incredible way to compute impact please see item #8 in this post: Barriers To An Effective Web Measurement Strategy (+ Solutions!) The methodology outlined, illustrated below,…
+
+…is exceedingly effective at showing the value of the action you are recommending, and the cost of the delay in implementation of the changes! This will allow you to make a very very effective prioritized list of actions.
+
+[/Bonus]
+
+Business leaders simply have a much, much easier time internalizing a numbered list (less thinking for them) and approving actions (more fame for you).
+
+Life Lesson: Ninjas never submit long globs of text as observations or random actions. If you can’t prioritize, you’ve missed the most important step that creates data driven businesses.
+
+You can see how deeply passionate I am about custom reports and the ability to truly find magnificently impactful things by applying advanced segments to them. I hope that the above example will make you pass all your current reports through the filter of Acquisition, Behavior and Outcomes. I hope you’ll never again look at any report without segments applied to them.
+
+Good luck!
+
+As always it is your turn now.
+
+What is your favorite combination of a custom report and advanced segment? Do all your reports cover acquisition, behavior and outcomes? Why not? Got best practices to share for metrics that fall into each of the three categories? Do you have a segment you want to report on but your analytics tool does not allow it? How is your business doing when it comes to head performance and long tail performance?
+
+Please share your tips, feedback and ideas via comments.
+
+Thanks.
